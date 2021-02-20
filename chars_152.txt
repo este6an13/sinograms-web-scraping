@@ -1,0 +1,2560 @@
+鐙
+['lamp', ' a kind of cooking vessel']
+['lámpara', 'una especie de recipiente para cocinar']
+['https://media.gettyimages.com/photos/plain-simple-floor-lamp-on-white-background-picture-id155437356?k=6&m=155437356&s=612x612&w=0&h=3Tpl209QIB6IvC9yVn9I8FdfZYJEn5JtNKPF4Wy-WSQ=', 'https://media.gettyimages.com/photos/person-holding-a-tray-with-heart-shaped-cake-picture-id145073285?k=6&m=145073285&s=612x612&w=0&h=6f9OgKD9TXm-xXZxFlofpCLpwUZr389VMQm0EVY02Jc=']
+U+9419
+20
+dèng
+167.12
+鐙.mp3
+
+鐚
+['soft steel', ' ammonium']
+['acero blando', 'amonio']
+['https://media.gettyimages.com/vectors/colors-metallic-bronze-silver-gold-chrome-metal-foil-texture-gradient-vector-id1136696081?k=6&m=1136696081&s=612x612&w=0&h=asr4BusPWulje7YPrKfJIDBzTcwyz-b_1xqVI0oUGlo=', 'https://media.gettyimages.com/photos/temple-of-the-oracle-of-amun-picture-id913566224?k=6&m=913566224&s=612x612&w=0&h=gj6pgleNwOKJfgKnHCl-a2m7IirDTYGfrq9jl8Ys2s8=']
+U+941A
+20
+yā
+167.12
+鐚.mp3
+
+鐛
+['NONE']
+['NINGUNA']
+[]
+U+941B
+20
+yǐng
+167.12
+鐛.mp3
+
+鐜
+['NONE']
+['NINGUNA']
+[]
+U+941C
+20
+duī
+167.12
+鐜.mp3
+
+鐝
+['a pick, a hoe']
+['un pico, una azada']
+['https://media.gettyimages.com/illustrations/antique-illustration-of-pick-axe-hoe-illustration-id488212016?k=6&m=488212016&s=612x612&w=0&h=07ZQ7WO510vpp1_Wioy45TKH6N0lWjn9ksvvGKDXTVY=']
+U+941D
+20
+jué
+167.12
+鐝.mp3
+
+鐞
+['NONE']
+['NINGUNA']
+[]
+U+941E
+20
+nòu
+167.12
+鐞.mp3
+
+鐟
+['NONE']
+['NINGUNA']
+[]
+U+941F
+20
+zān
+167.12
+鐟.mp3
+
+鐠
+['praseodymium']
+['praseodimio']
+['NONE']
+U+9420
+20
+pǔ
+167.12
+鐠.mp3
+
+鐡
+['iron', ' strong, solid, firm']
+['hierro', 'fuerte, sólido, firme']
+['https://media.gettyimages.com/photos/golf-bag-and-clubs-xxxlarge-picture-id157579705?k=6&m=157579705&s=612x612&w=0&h=EiVASe2mtUuzPeUeBBKqAJNBXvNmyxieyx4hoYfrABc=', 'https://media.gettyimages.com/photos/wide-open-marble-platform-under-roof-for-automobile-commerical-picture-id1139199666?k=6&m=1139199666&s=612x612&w=0&h=jBRpZfWq3r9QaW7YCaviseMfQ29SRRjxFRE74_QNffI=']
+U+9421
+20
+tiě
+167.12
+鐡.mp3
+
+鐢
+['NONE']
+['NINGUNA']
+[]
+U+9422
+20
+fán
+167.12
+鐢.mp3
+
+鐣
+['NONE']
+['NINGUNA']
+[]
+U+9423
+20
+chēng
+167.12
+鐣.mp3
+
+鐤
+['huge tripod of bronze with two ears', ' sacrificial vessel']
+['enorme trípode de bronce con dos orejas', 'recipiente de sacrificio']
+['NONE', 'https://media.gettyimages.com/vectors/christianity-line-icons-vector-id917559556?k=6&m=917559556&s=612x612&w=0&h=HjeqoaANnPEb2Nvdar_NUP9Qtgj-0z38-AKcgn-Pp40=']
+U+9424
+20
+dǐng
+167.12
+鐤.mp3
+
+鐥
+['NONE']
+['NINGUNA']
+[]
+U+9425
+20
+shàn
+167.12
+鐥.mp3
+
+鐦
+['californium']
+['californio']
+['https://media.gettyimages.com/photos/pacific-ocean-at-big-sur-picture-id1038412058?k=6&m=1038412058&s=612x612&w=0&h=nuLQU2qFXEja8uJ4hos7_czy4QVuvwiBlL3eDDALqCg=']
+U+9426
+20
+kāi
+167.12
+鐦.mp3
+
+鐧
+['kind of rapier']
+['especie de estoque']
+['https://media.gettyimages.com/photos/boy-in-knight-costume-holding-sword-while-playing-with-mother-at-home-picture-id958245364?k=6&m=958245364&s=612x612&w=0&h=gXIagYpsAAkh477DVre5nQPz6EJxCvCDV_dEgndICYs=']
+U+9427
+20
+jiān
+167.12
+鐧.mp3
+
+鐨
+['fermium']
+['fermio']
+['https://media.gettyimages.com/vectors/periodic-table-elements-97100-on-multicolored-buttons-vector-id166054947?k=6&m=166054947&s=612x612&w=0&h=wIOmSTy9Z2KgjxZJeDmGlDFI9Xh-GwKWQxah3GcXqe8=']
+U+9428
+20
+fèi
+167.12
+鐨.mp3
+
+鐩
+['lens']
+['lente']
+['https://media.gettyimages.com/photos/marco-stiepermann-of-dortmund-battles-for-the-ball-with-a-player-of-picture-id107884039?k=6&m=107884039&s=612x612&w=0&h=KwBpBOYpVZPq-bJ8aYiXTL7z058zAEFDK9c967ldtxs=']
+U+9429
+20
+suì
+167.13
+鐩.mp3
+
+鐪
+['NONE']
+['NINGUNA']
+[]
+U+942A
+21
+lǔ
+167.13
+鐪.mp3
+
+鐫
+['engraving tool', ' carve, engrave']
+['herramienta de grabado', 'tallar, grabar']
+['https://media.gettyimages.com/illustrations/architecturalengineering-compass-illustration-id498696944?k=6&m=498696944&s=612x612&w=0&h=fMKWN7K0wl4AkS634R0xh1TBa-PtNgZGl8ysyn2zA0U=', 'https://media.gettyimages.com/photos/wood-carving-picture-id1147108844?k=6&m=1147108844&s=612x612&w=0&h=30T6vP4DYRgF8wS5MdFD9JhqvE6Vif__WiHMdKJZ5aY=']
+U+942B
+20
+juān
+167.13
+鐫.mp3
+
+鐬
+['NONE']
+['NINGUNA']
+[]
+U+942C
+21
+huì
+167.13
+鐬.mp3
+
+鐭
+['NONE']
+['NINGUNA']
+[]
+U+942D
+20
+yù
+167.13
+鐭.mp3
+
+鐮
+['sickle']
+['hoz']
+['https://media.gettyimages.com/photos/sickle-hammer-picture-id157294654?k=6&m=157294654&s=612x612&w=0&h=6KLflg55PhwgYk9y3oz3bgBtsDp3geXSmXRXSEgRAHo=']
+U+942E
+21
+lián
+167.13
+鐮.mp3
+
+鐯
+['NONE']
+['NINGUNA']
+[]
+U+942F
+19
+zhuó
+167.13
+鐯.mp3
+
+鐰
+['NONE']
+['NINGUNA']
+[]
+U+9430
+21
+qiāo
+167.13
+鐰.mp3
+
+鐱
+['NONE']
+['NINGUNA']
+[]
+U+9431
+21
+jiàn
+167.13
+鐱.mp3
+
+鐲
+['bracelet, armband', ' small bell']
+['pulsera, brazalete', 'campanilla']
+['https://media.gettyimages.com/photos/hand-of-a-trader-holding-old-coins-and-bracelets-picture-id894559572?k=6&m=894559572&s=612x612&w=0&h=M200cnq3pCkM-uXTLkfPU6hRRl5Xps1TEpDoJRG8Og8=', 'https://media.gettyimages.com/photos/ringing-an-old-handbell-picture-id170024706?k=6&m=170024706&s=612x612&w=0&h=IFbKF_0X4LfUGONF1Ejuwl4brhtTzOSD7J6IrBrV7-I=']
+U+9432
+21
+zhuó
+167.13
+鐲.mp3
+
+鐳
+['radium']
+['radio']
+['https://media.gettyimages.com/photos/nuclear-power-picture-id157192339?k=6&m=157192339&s=612x612&w=0&h=TWzbC1Oz6PcxnzYjbTBmwB_B_k6FL6sn_vHlSGXQ4mY=']
+U+9433
+21
+léi
+167.13
+鐳.mp3
+
+鐴
+['NONE']
+['NINGUNA']
+[]
+U+9434
+21
+bì
+167.13
+鐴.mp3
+
+鐵
+['iron', ' strong, solid, firm']
+['hierro', 'fuerte, sólido, firme']
+['https://media.gettyimages.com/photos/golf-bag-and-clubs-xxxlarge-picture-id157579705?k=6&m=157579705&s=612x612&w=0&h=EiVASe2mtUuzPeUeBBKqAJNBXvNmyxieyx4hoYfrABc=', 'https://media.gettyimages.com/photos/wide-open-marble-platform-under-roof-for-automobile-commerical-picture-id1139199666?k=6&m=1139199666&s=612x612&w=0&h=jBRpZfWq3r9QaW7YCaviseMfQ29SRRjxFRE74_QNffI=']
+U+9435
+21
+tiě
+167.13
+鐵.mp3
+
+鐶
+['metal ring', ' measure of currency']
+['anillo de metal', 'medida de moneda']
+['https://media.gettyimages.com/vectors/golden-core-ring-icon-vector-id1082350640?k=6&m=1082350640&s=612x612&w=0&h=RrOkkUu5-m3IDQb0CMa_bzzuN2NhBRRlEmDdLaalv98=', 'https://media.gettyimages.com/vectors/finance-and-analysis-flat-icons-vector-id637397612?k=6&m=637397612&s=612x612&w=0&h=h3idfy4hieEXRK4HiqiAzEffTv5UXT_p-Fj-Lj8BGro=']
+U+9436
+21
+huán
+167.13
+鐶.mp3
+
+鐷
+['NONE']
+['NINGUNA']
+[]
+U+9437
+20
+yè
+167.13
+鐷.mp3
+
+鐸
+['bell', ' surname']
+['campana', 'apellido']
+['https://media.gettyimages.com/vectors/bell-flat-icon-pixel-perfect-for-mobile-and-web-vector-id1145835428?k=6&m=1145835428&s=612x612&w=0&h=qTGI5JD7Tt0QABRN47yeDH5UaFofQ4mIolztoYup4So=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9438
+21
+duó
+167.13
+鐸.mp3
+
+鐹
+['NONE']
+['NINGUNA']
+[]
+U+9439
+19
+guǒ
+167.13
+鐹.mp3
+
+鐺
+['frying pan', ' warming vessel']
+['sartén', 'buque de calentamiento']
+['https://media.gettyimages.com/photos/sausage-sizzle-sandwich-with-fried-onion-and-bbq-sauce-in-a-white-picture-id952688912?k=6&m=952688912&s=612x612&w=0&h=D7c6frBY7ee6xTJOTSsW1rgCvU-U6m1TLModZLDzPkU=', 'https://media.gettyimages.com/photos/worker-looking-out-from-ship-to-offshore-wind-farm-picture-id565783053?k=6&m=565783053&s=612x612&w=0&h=mQEflDKmNToK5UVU6XsOeeB8qjHn1a-v3LSDQSPw3Lc=']
+U+943A
+21
+dāng
+167.13
+鐺.mp3
+
+鐻
+['drumstick']
+['palillo de tambor']
+['https://media.gettyimages.com/photos/marinated-chicken-legs-picture-id1132083477?k=6&m=1132083477&s=612x612&w=0&h=YchXsE_quZLg40nrw9_W1TiVigtZ423XiaS-qOc16Yg=']
+U+943B
+21
+jù
+167.13
+鐻.mp3
+
+鐼
+['NONE']
+['NINGUNA']
+[]
+U+943C
+20
+fén
+167.13
+鐼.mp3
+
+鐽
+['NONE']
+['NINGUNA']
+[]
+U+943D
+20
+dá
+167.13
+鐽.mp3
+
+鐾
+['NONE']
+['NINGUNA']
+[]
+U+943E
+21
+bèi
+167.13
+鐾.mp3
+
+鐿
+['ytterbium']
+['iterbio']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-eps10-transparency-vector-id166010825?k=6&m=166010825&s=612x612&w=0&h=1ayBeSVjnyhMbe1-ntr8Raz9pXIhBDoqDKRzTDc9PO0=']
+U+943F
+21
+yì
+167.13
+鐿.mp3
+
+鑀
+['ionium']
+['ionio']
+['https://media.gettyimages.com/photos/discovering-greece-picture-id899396742?k=6&m=899396742&s=612x612&w=0&h=76Q_uy-KSSw_oVqPqgB6L7Y4g4biOVFgV5NDvdxyTV8=']
+U+9440
+21
+ài
+167.13
+鑀.mp3
+
+鑁
+['NONE']
+['NINGUNA']
+[]
+U+9441
+21
+zōng
+167.13
+鑁.mp3
+
+鑂
+['NONE']
+['NINGUNA']
+[]
+U+9442
+22
+xùn
+167.14
+鑂.mp3
+
+鑃
+['NONE']
+['NINGUNA']
+[]
+U+9443
+22
+diào
+167.14
+鑃.mp3
+
+鑄
+['melt, cast', ' coin, mint']
+['derretir', 'moneda, menta']
+['https://media.gettyimages.com/photos/hands-of-a-craftsman-fusing-glass-to-create-a-piece-of-trinkets-picture-id500445240?k=6&m=500445240&s=612x612&w=0&h=B1h-ycCl5UFoLrlkf0YJ47FPwFnCzUEfc-281NtDKx0=', 'https://media.gettyimages.com/illustrations/medieval-coin-minting-illustration-id1061074352?k=6&m=1061074352&s=612x612&w=0&h=flV7L4Qv2P_oGyAVV8gOzdB4InR83jwW9XlASFjv5Ro=']
+U+9444
+22
+zhù
+167.14
+鑄.mp3
+
+鑅
+['NONE']
+['NINGUNA']
+[]
+U+9445
+22
+héng
+167.14
+鑅.mp3
+
+鑆
+['NONE']
+['NINGUNA']
+[]
+U+9446
+22
+zhuì
+167.14
+鑆.mp3
+
+鑇
+['NONE']
+['NINGUNA']
+[]
+U+9447
+22
+jī
+167.14
+鑇.mp3
+
+鑈
+['straight', ' a seal']
+['Derecho', 'un sello']
+['https://media.gettyimages.com/photos/view-along-a-straight-asphalted-road-through-desert-picture-id1088914272?k=6&m=1088914272&s=612x612&w=0&h=Asj2bOaUNHVO5OYk8wU2EQuoBHhp_h_90EcXWrcg5PQ=', 'https://media.gettyimages.com/vectors/trendy-gray-badge-premium-quality-guaranteed-vector-id1144489566?k=6&m=1144489566&s=612x612&w=0&h=_gQAOQP8GFBQCs5xgtgjCA7EZ3dG75IOPj389LyX42M=']
+U+9448
+22
+niè
+167.14
+鑈.mp3
+
+鑉
+['NONE']
+['NINGUNA']
+[]
+U+9449
+21
+hé
+167.14
+鑉.mp3
+
+鑊
+['cauldron, large iron pot', ' a wok']
+['caldero, olla de hierro grande', 'un wok']
+['https://media.gettyimages.com/vectors/happy-halloween-wizard-standing-on-top-of-a-big-cauldron-and-cooking-vector-id1181563041?k=6&m=1181563041&s=612x612&w=0&h=34rGkYo1aLdibGMpUur2pryWfvjcqmHnjL6NaIJlZPQ=', 'https://media.gettyimages.com/photos/in-chinese-restaurant-picture-id653336630?k=6&m=653336630&s=612x612&w=0&h=zv5RSg1Sh4y1l7IZPrK5csBIow1HbvPUdA1HfY33bHY=']
+U+944A
+21
+huò
+167.14
+鑊.mp3
+
+鑋
+['NONE']
+['NINGUNA']
+[]
+U+944B
+22
+qīng
+167.14
+鑋.mp3
+
+鑌
+['high quality iron']
+['hierro de alta calidad']
+['https://media.gettyimages.com/photos/bike-chain-picture-id1169723744?k=6&m=1169723744&s=612x612&w=0&h=IVAvA1Ll9mfjiPKOCpHqnR4OtrUmICgne2mSAaUYnkk=']
+U+944C
+22
+bīn
+167.14
+鑌.mp3
+
+鑍
+['NONE']
+['NINGUNA']
+[]
+U+944D
+22
+yīng
+167.14
+鑍.mp3
+
+鑎
+['NONE']
+['NINGUNA']
+[]
+U+944E
+22
+kuì
+167.14
+鑎.mp3
+
+鑏
+['NONE']
+['NINGUNA']
+[]
+U+944F
+22
+níng
+167.14
+鑏.mp3
+
+鑐
+['bolt of a Chinese lock']
+['cerrojo de un candado chino']
+['https://media.gettyimages.com/photos/closed-green-door-picture-id975854334?k=6&m=975854334&s=612x612&w=0&h=dO7Vh9_hy-zYK2ZkI5BgLqJhSQnHCeaAkqrJXdWdLy4=']
+U+9450
+22
+xū
+167.14
+鑐.mp3
+
+鑑
+['mirror, looking glass', ' reflect']
+['espejo, espejo', 'reflejar']
+['https://media.gettyimages.com/photos/young-woman-in-vintage-dress-looking-into-mirror-picture-id1042692996?k=6&m=1042692996&s=612x612&w=0&h=wOA9G7h7Pm7OvCBV_IMgwahsNt2_pFu5aEsCb77PHqc=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+9451
+22
+jiàn
+167.14
+鑑.mp3
+
+鑒
+['mirror, looking glass', ' reflect']
+['espejo, espejo', 'reflejar']
+['https://media.gettyimages.com/photos/young-woman-in-vintage-dress-looking-into-mirror-picture-id1042692996?k=6&m=1042692996&s=612x612&w=0&h=wOA9G7h7Pm7OvCBV_IMgwahsNt2_pFu5aEsCb77PHqc=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+9452
+22
+jiàn
+167.14
+鑒.mp3
+
+鑓
+['spear, lance, javelin']
+['lanza, lanza, jabalina']
+['https://media.gettyimages.com/photos/halberds-on-a-white-wall-picture-id158545751?k=6&m=158545751&s=612x612&w=0&h=q1S7DWdTxUZHQ4yTGXyfTXrUro-kZ9uwP_binRQOBd0=']
+U+9453
+21
+qiǎn
+167.14
+鑓.mp3
+
+鑔
+['cymbals']
+['platillos']
+['https://media.gettyimages.com/photos/cymbal-with-path-picture-id172381662?k=6&m=172381662&s=612x612&w=0&h=uiBDbA6ye5T45g3dbJFf0yOaqLFiQP6BRAq8CKD5Fyk=']
+U+9454
+22
+chǎ
+167.14
+鑔.mp3
+
+鑕
+['tungsten, wolfram']
+['tungsteno, wolfram']
+['https://media.gettyimages.com/photos/female-tig-welder-picture-id975125164?k=6&m=975125164&s=612x612&w=0&h=3VTMF4A8Q1Z9waq6zznNMFJ8oWRBLRup3H0j-4rtFUw=']
+U+9455
+23
+zhì
+167.15
+鑕.mp3
+
+鑖
+['NONE']
+['NINGUNA']
+[]
+U+9456
+22
+miè
+167.15
+鑖.mp3
+
+鑗
+['NONE']
+['NINGUNA']
+[]
+U+9457
+23
+lí
+167.15
+鑗.mp3
+
+鑘
+['NONE']
+['NINGUNA']
+[]
+U+9458
+23
+léi
+167.15
+鑘.mp3
+
+鑙
+['NONE']
+['NINGUNA']
+[]
+U+9459
+23
+jī
+167.15
+鑙.mp3
+
+鑚
+['drill, bore', ' pierce', ' diamond']
+['taladro', 'atravesar', 'diamante']
+['https://media.gettyimages.com/photos/detail-of-drill-bit-covered-with-mud-during-bore-piling-operations-picture-id126439524?k=6&m=126439524&s=612x612&w=0&h=W6lM_hMuV8p12qlVNOyN2f7PgT4Unf-TiU0nbIaMqdU=', 'https://media.gettyimages.com/photos/fill-the-world-with-happiness-picture-id1170301221?k=6&m=1170301221&s=612x612&w=0&h=amUliJpMCvzZZP_nbFx3BBfTa8epa7CDcPCyCOY8E14=', 'https://media.gettyimages.com/photos/multiple-isolated-white-faceted-diamonds-at-various-angles-clipping-picture-id166073288?k=6&m=166073288&s=612x612&w=0&h=-b_5yvPCuLlYwD2jE3k1ajvYQiZElYC_w7iIVpMVFRw=']
+U+945A
+23
+zuàn
+167.15
+鑚.mp3
+
+鑛
+['mine', ' mineral, ore']
+['mía', 'mineral, mineral']
+['https://media.gettyimages.com/photos/grassland-hills-and-cloud-picture-id579021062?k=6&m=579021062&s=612x612&w=0&h=eiPNupocg2hrh2OV5ES6gG59f2TEt1XWI5_cyULHPdM=', 'https://media.gettyimages.com/photos/small-pieces-of-strong-metal-ore-picture-id157526585?k=6&m=157526585&s=612x612&w=0&h=fgsH5AgmmVUAyvirdYUI1nRCIM7bL9SW6sjZ5lOR_dM=']
+U+945B
+22
+kuàng
+167.15
+鑛.mp3
+
+鑜
+['NONE']
+['NINGUNA']
+[]
+U+945C
+23
+shǎng
+167.15
+鑜.mp3
+
+鑝
+['NONE']
+['NINGUNA']
+[]
+U+945D
+21
+péng
+167.15
+鑝.mp3
+
+鑞
+['solder', ' tin']
+['soldar', 'creer']
+['https://media.gettyimages.com/photos/industrial-worker-welding-steel-picture-id1012745854?k=6&m=1012745854&s=612x612&w=0&h=pK72Gydj80a9yJ_gBwg2xv4SSHHrXzM0wtjT4aBxr4I=', 'https://media.gettyimages.com/photos/hand-holding-a-drink-can-with-clipping-path-picture-id185232352?k=6&m=185232352&s=612x612&w=0&h=GgDBhoQuHtlV7HYegG3D7vIzuqNEQyaiXK7Odf0sNcQ=']
+U+945E
+23
+là
+167.15
+鑞.mp3
+
+鑟
+['NONE']
+['NINGUNA']
+[]
+U+945F
+23
+dú
+167.15
+鑟.mp3
+
+鑠
+['melt, smelt', ' shine']
+['derretir, oler', 'brillar']
+['https://media.gettyimages.com/photos/foundry-picture-id186857558?k=6&m=186857558&s=612x612&w=0&h=YO-yRit81qKH8k3AD_fVkP3rP23sF1oRqa-eS6FR6fI=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=']
+U+9460
+23
+shuò
+167.15
+鑠.mp3
+
+鑡
+['NONE']
+['NINGUNA']
+[]
+U+9461
+23
+chuò
+167.15
+鑡.mp3
+
+鑢
+['file, rasp', ' file', ' polish', ' (Cant.) to cut']
+['lima, escofina', 'archivo', 'polaco', '(Cant.) Para cortar']
+['https://media.gettyimages.com/vectors/document-icons-vector-id896327250?k=6&m=896327250&s=612x612&w=0&h=JYr_qegw7MRHg7nu8FIM29jtHEXFs7kdmEEQwLBD4KY=', 'https://media.gettyimages.com/vectors/document-icons-vector-id896327250?k=6&m=896327250&s=612x612&w=0&h=JYr_qegw7MRHg7nu8FIM29jtHEXFs7kdmEEQwLBD4KY=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=', 'https://media.gettyimages.com/photos/man-browses-the-organic-vegetable-section-at-a-sainsburys-store-in-picture-id94588693?k=6&m=94588693&s=612x612&w=0&h=BFlN_oDuUYrBhjyOHRegLjZ2HqCHIuz7VrDIJtb9X84=']
+U+9462
+23
+lǜ
+167.15
+鑢.mp3
+
+鑣
+['bit, bridle', ' ride']
+['poco, brida', 'paseo']
+['https://media.gettyimages.com/photos/horse-with-bridle-and-bit-breathing-heavily-after-exercise-steam-in-picture-id580748693?k=6&m=580748693&s=612x612&w=0&h=k4XwVzwDRcFQmXK7xM4cT0XYuOiBnxX_fi66sfvLl_4=', 'https://media.gettyimages.com/photos/rear-view-of-couple-with-arms-raised-about-to-begin-descent-on-roller-picture-id1083855824?k=6&m=1083855824&s=612x612&w=0&h=qgDxvHyXF4YF5sZNCmDT2hbbsnlrJ3yUxgYsAwGcD9g=']
+U+9463
+23
+biāo
+167.15
+鑣.mp3
+
+鑤
+["carpenter's plane"]
+['avión de carpintero']
+['https://media.gettyimages.com/photos/young-carpenter-using-sander-while-working-on-a-piece-of-wood-picture-id1061173208?k=6&m=1061173208&s=612x612&w=0&h=_T3Zo0AEDkqhDbQBXfiNLzTUthaOtnsfGNpKNPQdQg8=']
+U+9464
+23
+bào
+167.15
+鑤.mp3
+
+鑥
+['lutetium']
+['lutecio']
+['https://media.gettyimages.com/vectors/icon-of-lutetium-periodic-table-of-elements-with-crystal-system-vector-id1271710374?k=6&m=1271710374&s=612x612&w=0&h=8a91pcqisGlohE3GL4sK0dHiU6JKtovbNFPjFxYREe0=']
+U+9465
+23
+lǔ
+167.15
+鑥.mp3
+
+鑦
+['NONE']
+['NINGUNA']
+[]
+U+9466
+23
+xian
+167.15
+鑦.mp3
+
+鑧
+['NONE']
+['NINGUNA']
+[]
+U+9467
+22
+kuān
+167.14
+鑧.mp3
+
+鑨
+['NONE']
+['NINGUNA']
+[]
+U+9468
+24
+lóng
+167.16
+鑨.mp3
+
+鑩
+['NONE']
+['NINGUNA']
+[]
+U+9469
+24
+è
+167.16
+鑩.mp3
+
+鑪
+['fireplace, stove, oven, furnace']
+['chimenea, estufa, horno, horno']
+['https://media.gettyimages.com/photos/fire-in-a-pizza-oven-picture-id1050683010?k=6&m=1050683010&s=612x612&w=0&h=CaA6qtFjRru7PppnglVMC0mPQKctMcyOjtViYkTnwp4=']
+U+946A
+24
+lú
+167.16
+鑪.mp3
+
+鑫
+['used in names']
+['usado en nombres']
+['https://media.gettyimages.com/photos/an-illustrated-page-from-the-orbis-pictus-designed-by-czech-moravian-picture-id51442541?k=6&m=51442541&s=612x612&w=0&h=upcxnhHJCsI_rJAlZ8YwSohq5wE23UP8vDZTYCQ-qas=']
+U+946B
+24
+xīn
+167.16
+鑫.mp3
+
+鑬
+['NONE']
+['NINGUNA']
+[]
+U+946C
+24
+jiàn
+167.16
+鑬.mp3
+
+鑭
+['lanthanum']
+['lantano']
+['https://media.gettyimages.com/photos/wants-to-buy-greenland-because-of-rare-earth-elements-picture-id1197811005?k=6&m=1197811005&s=612x612&w=0&h=POsA0F-t_EdCEQBrUTSkeN9qUeng4dQkzgSI2_sJgds=']
+U+946D
+25
+làn
+167.17
+鑭.mp3
+
+鑮
+['NONE']
+['NINGUNA']
+[]
+U+946E
+24
+bó
+167.17
+鑮.mp3
+
+鑯
+['NONE']
+['NINGUNA']
+[]
+U+946F
+25
+jiān
+167.17
+鑯.mp3
+
+鑰
+['key', ' lock']
+['llave', 'bloquear']
+['https://media.gettyimages.com/photos/car-salesman-handing-keys-to-customer-picture-id136591822?k=6&m=136591822&s=612x612&w=0&h=4k2cytYAMaldXz2yLyxCcZOAE9M9Hq54byEI-jkr9R8=', 'https://media.gettyimages.com/vectors/lock-icons-and-symbols-vector-id838965566?k=6&m=838965566&s=612x612&w=0&h=9-aBiCPuQyZZUaotEIE2KZIeKPZ1MAGakZeITPKHxSM=']
+U+9470
+25
+yào
+167.17
+鑰.mp3
+
+鑱
+['spade, trowel']
+['pala, paleta']
+['https://media.gettyimages.com/photos/dirty-spade-picture-id172635546?k=6&m=172635546&s=612x612&w=0&h=W5PD5tajtDpNxjw7bhBpQTMqFehdngyFZthxYZj-PLA=']
+U+9471
+25
+chán
+167.17
+鑱.mp3
+
+鑲
+['insert, inlay, set, mount', ' fill']
+['insertar, incrustaciones, establecer, montar', 'llenar']
+['NONE', 'https://media.gettyimages.com/photos/you-wont-get-far-without-gas-picture-id1125630095?k=6&m=1125630095&s=612x612&w=0&h=SPU9ZFJcU2cjlHZieo51eeRw9c777GN6p-GMrrFJbYE=']
+U+9472
+25
+xiāng
+167.17
+鑲.mp3
+
+鑳
+['NONE']
+['NINGUNA']
+[]
+U+9473
+25
+jiàn
+167.17
+鑳.mp3
+
+鑴
+['to engrave or carve, as a block for printing']
+['para grabar o tallar, como un bloque para imprimir']
+['NONE']
+U+9474
+26
+xī
+167.18
+鑴.mp3
+
+鑵
+['jar', ' can']
+['tarro', 'lata']
+['https://media.gettyimages.com/vectors/jar-icons-vector-id165808576?k=6&m=165808576&s=612x612&w=0&h=eF6thaFxS-vV96TbpiYIptgOSJM8j679BINrN1RvHCQ=', 'https://media.gettyimages.com/photos/young-woman-with-dog-picture-id1060529042?k=6&m=1060529042&s=612x612&w=0&h=ofC5lNecobvOgQS_QtbWgY3gub_58t2EbcCJyRB9o9s=']
+U+9475
+25
+guàn
+167.18
+鑵.mp3
+
+鑶
+['NONE']
+['NINGUNA']
+[]
+U+9476
+25
+cáng
+167.18
+鑶.mp3
+
+鑷
+['tweezers, forceps, pincers']
+['pinzas, fórceps, tenazas']
+['https://media.gettyimages.com/photos/medicine-and-surgery-theme-doctors-hand-in-a-blue-glove-holding-on-picture-id1162815574?k=6&m=1162815574&s=612x612&w=0&h=ssSvxLcZiB-PAv0j-smXjd0fPikdvtZy6Iuk0PXxVA8=']
+U+9477
+26
+niè
+167.18
+鑷.mp3
+
+鑸
+['NONE']
+['NINGUNA']
+[]
+U+9478
+26
+lěi
+167.18
+鑸.mp3
+
+鑹
+['pick, poker']
+['póquer']
+['https://media.gettyimages.com/vectors/business-aces-vector-id455460859?k=6&m=455460859&s=612x612&w=0&h=D0mRKyiBQGQrVl0yBPZWJosbhobz1vxzFTR5BXoassY=']
+U+9479
+26
+cuān
+167.18
+鑹.mp3
+
+鑺
+['NONE']
+['NINGUNA']
+[]
+U+947A
+26
+qú
+167.18
+鑺.mp3
+
+鑻
+['NONE']
+['NINGUNA']
+[]
+U+947B
+27
+pàn
+167.19
+鑻.mp3
+
+鑼
+['gong']
+['palacio']
+['https://media.gettyimages.com/photos/gold-plated-asian-gong-with-red-stick-picture-id183832491?k=6&m=183832491&s=612x612&w=0&h=4JVPCZ4ShYY3hUZ7pxMhD0lURBncxKVJvoFBcyxcMBc=']
+U+947C
+27
+luó
+167.19
+鑼.mp3
+
+鑽
+['drill, bore', ' pierce', ' diamond']
+['taladro', 'atravesar', 'diamante']
+['https://media.gettyimages.com/photos/detail-of-drill-bit-covered-with-mud-during-bore-piling-operations-picture-id126439524?k=6&m=126439524&s=612x612&w=0&h=W6lM_hMuV8p12qlVNOyN2f7PgT4Unf-TiU0nbIaMqdU=', 'https://media.gettyimages.com/photos/fill-the-world-with-happiness-picture-id1170301221?k=6&m=1170301221&s=612x612&w=0&h=amUliJpMCvzZZP_nbFx3BBfTa8epa7CDcPCyCOY8E14=', 'https://media.gettyimages.com/photos/multiple-isolated-white-faceted-diamonds-at-various-angles-clipping-picture-id166073288?k=6&m=166073288&s=612x612&w=0&h=-b_5yvPCuLlYwD2jE3k1ajvYQiZElYC_w7iIVpMVFRw=']
+U+947D
+27
+zuān
+167.19
+鑽.mp3
+
+鑾
+['bells hung on horse', ' bells hung']
+['campanas colgadas a caballo', 'campanas colgadas']
+['https://media.gettyimages.com/photos/christmas-decoration-over-grunge-wooden-background-picture-id621675836?k=6&m=621675836&s=612x612&w=0&h=YrIiUepgH9H1sV0uk0fFuJdSTVXNy3eknQDeZePlOuA=', 'https://media.gettyimages.com/photos/christmas-gingerbread-cookies-on-wood-background-picture-id626098754?k=6&m=626098754&s=612x612&w=0&h=CFfUKmszoteev-nJ5RkN5zfpvHr3RIYlrFKrfssse4E=']
+U+947E
+27
+luán
+167.19
+鑾.mp3
+
+鑿
+['chisel', ' bore, pierce']
+['cincel', 'taladrar, perforar']
+['https://media.gettyimages.com/photos/work-tools-chisels-isolated-on-white-background-picture-id172322789?k=6&m=172322789&s=612x612&w=0&h=s-CnEDNKDgwwE0Rfk3YtAwWAyBCX7Sa0yX-IrajmMsM=', 'https://media.gettyimages.com/photos/dont-be-such-a-bore-picture-id1169304395?k=6&m=1169304395&s=612x612&w=0&h=WbW6AVftozklh99LndemQyqgdrRWm_LFx_McoTWhR2c=']
+U+947F
+28
+záo
+167.19
+鑿.mp3
+
+钀
+['NONE']
+['NINGUNA']
+[]
+U+9480
+28
+niè
+167.20
+钀.mp3
+
+钁
+['a mattock', ' a billhook']
+['un azadón', 'un garfio']
+['https://media.gettyimages.com/photos/farmer-working-at-the-field-with-a-mattock-picture-id537501685?k=6&m=537501685&s=612x612&w=0&h=8J1ITjgYNTjoT-eoc5fr2HNxQyvHSxp9Dm3NeHBxKh4=', 'https://media.gettyimages.com/photos/ceramic-and-ceramic-tools-picture-id1149916762?k=6&m=1149916762&s=612x612&w=0&h=OeAtzTBNqRqBfb2j98-6qJn2-YH55IKoOdfAh5GOP2w=']
+U+9481
+28
+jué
+167.20
+钁.mp3
+
+钂
+['NONE']
+['NINGUNA']
+[]
+U+9482
+28
+tǎng
+167.20
+钂.mp3
+
+钃
+['NONE']
+['NINGUNA']
+[]
+U+9483
+29
+zhú
+167.21
+钃.mp3
+
+钄
+['NONE']
+['NINGUNA']
+[]
+U+9484
+28
+lán
+167.21
+钄.mp3
+
+钅
+['gold', ' money', ' KangXi radical 167']
+['oro', 'dinero', 'K Ang ξ radical 167']
+['https://media.gettyimages.com/photos/gold-texture-background-picture-id1162452354?k=6&m=1162452354&s=612x612&w=0&h=fI7s7UjmazCHt0dkRtblTXh9FwxtijvXJOUCGOkV84o=', 'https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=', 'NONE']
+U+9485
+5
+jīn
+167'.0
+钅.mp3
+
+钆
+['gadolinium']
+['gadolinio']
+['https://media.gettyimages.com/vectors/icon-of-gadolinium-periodic-table-of-elements-with-crystal-system-vector-id1271710331?k=6&m=1271710331&s=612x612&w=0&h=pzR8dW_4_mKZjazWoGuY6BqTeqgCvZhv9Fb9h9QUOLg=']
+U+9486
+6
+gá
+167'.1
+钆.mp3
+
+钇
+['yttrium']
+['itrio']
+['https://media.gettyimages.com/vectors/chemical-element-icons-set-1-black-circle-series-vector-id479195060?k=6&m=479195060&s=612x612&w=0&h=A_TiLq_fDcHlJmaBv6Upzxgkib0q1NERbr7_W_XZFVg=']
+U+9487
+6
+yǐ
+167'.1
+钇.mp3
+
+针
+['needle', ' pin', ' tack', ' acupuncture']
+['aguja', 'alfiler', 'Gracias', 'acupuntura']
+['https://media.gettyimages.com/vectors/syringe-drug-icon-vector-id1129777011?k=6&m=1129777011&s=612x612&w=0&h=KgOQt5fiPeZz7CtR1R4kcnle1i3msa0s-3aw1d6EYl0=', 'https://media.gettyimages.com/vectors/map-pinpoint-icons-multi-series-vector-id1180972324?k=6&m=1180972324&s=612x612&w=0&h=DVbiKyN5_7wNNENAcGoLXuYvu3hyItEHln_3QpfR8Zw=', 'https://media.gettyimages.com/photos/high-angle-view-of-colorful-thumbtacks-over-white-background-picture-id1047521004?k=6&m=1047521004&s=612x612&w=0&h=koIq5jNHWll4LA2AiImKvb-B8SVxBk8CkrV8M9aMTno=', 'https://media.gettyimages.com/photos/acupuncture-needles-on-the-back-of-a-young-woman-picture-id476658252?k=6&m=476658252&s=612x612&w=0&h=c7Bi8E4htMVGNY9wKmRPXSPtodZLiKlzgObxbeZtw7g=']
+U+9488
+7
+zhēn
+167'.2
+针.mp3
+
+钉
+['nail, spike', ' pursue closely']
+['clavo, espiga', 'perseguir de cerca']
+['https://media.gettyimages.com/photos/self-tapping-screw-isolated-on-white-background-picture-id1216049122?k=6&m=1216049122&s=612x612&w=0&h=CqEtwBMCoQQX9yhGHsagSTDsX44TH6OyUHfscBEs2O8=', 'NONE']
+U+9489
+7
+dīng
+167'.2
+钉.mp3
+
+钊
+['endeavor, strive', ' encourage', ' cut']
+['esforzarse, esforzarse', 'alentar', 'cortar']
+['https://media.gettyimages.com/photos/some-coffee-for-a-late-night-shift-picture-id879751676?k=6&m=879751676&s=612x612&w=0&h=VnoD4Uy2NRanBy4eXokAVzS1NSJABDqPihHKzQpGA2s=', 'https://media.gettyimages.com/photos/father-and-son-on-a-bicycle-lane-picture-id860038590?k=6&m=860038590&s=612x612&w=0&h=O8-wYu-H4wlJ_PoEQi3ttqVVmvsHzTzFy4g0GBG2TEw=', 'https://media.gettyimages.com/vectors/scissors-with-cut-lines-vector-id504576800?k=6&m=504576800&s=612x612&w=0&h=li7j6UxkCWybZaYKNHJe9ur3_tRd-43vG8gTHwm0HqI=']
+U+948A
+7
+zhāo
+167'.2
+钊.mp3
+
+钋
+['polonium']
+['polonio']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-vector-id166009944?k=6&m=166009944&s=612x612&w=0&h=7B_F2WL1OngCbHhnYGoHm7P_7KqtS0oVDtWuQ7lKxQE=']
+U+948B
+7
+pō
+167'.2
+钋.mp3
+
+钌
+['ruthenium']
+['rutenio']
+['https://media.gettyimages.com/illustrations/icon-of-ruthenium-periodic-table-of-elements-with-crystal-system-illustration-id1271710447?k=6&m=1271710447&s=612x612&w=0&h=0c6FAMMex-FByK-ikUYGZXRS8JlUIuJzxZZB8uh-v0s=']
+U+948C
+7
+liǎo
+167'.2
+钌.mp3
+
+钍
+['thorium']
+['torio']
+['https://media.gettyimages.com/photos/thorium-picture-id583678656?k=6&m=583678656&s=612x612&w=0&h=fGcxME4YYT8mJpSyK0mXaqJcUpMG8_t17voG8xjs644=']
+U+948D
+8
+tǔ
+167'.3
+钍.mp3
+
+钎
+['tool for boring holes']
+['herramienta para taladrar agujeros']
+['https://media.gettyimages.com/photos/europe-greece-2018-view-of-wooden-plank-with-hole-cut-by-saw-picture-id955664140?k=6&m=955664140&s=612x612&w=0&h=m1ENKENfw6LrWgEvCDJUSoWI6JyxhdFP_1yfaCTinqo=']
+U+948E
+8
+qiān
+167'.3
+钎.mp3
+
+钏
+['bracelet, armlet']
+['pulsera, brazalete']
+['https://media.gettyimages.com/photos/silver-and-gold-bracelets-on-white-picture-id182465722?k=6&m=182465722&s=612x612&w=0&h=YuF7B1BqW-wNLA4isDaKiq5vAipHI2FhzkfoTez1Mh8=']
+U+948F
+8
+chuàn
+167'.3
+钏.mp3
+
+钐
+['samarium']
+['samario']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-vector-id166011386?k=6&m=166011386&s=612x612&w=0&h=69Y1J-A5v7djuvAZq22wkTwtH2vZ1UAyrm8qly8gxTs=']
+U+9490
+8
+shān
+167'.3
+钐.mp3
+
+钑
+['spear']
+['lanza']
+['https://media.gettyimages.com/photos/arrow-head-picture-id183306920?k=6&m=183306920&s=612x612&w=0&h=CkkhY6cKFuslYjWuMTbnQVLNubryE8MEYyVgTV78oqI=']
+U+9491
+8
+sà
+167'.3
+钑.mp3
+
+钒
+['vanadium']
+['vanadio']
+['https://media.gettyimages.com/photos/tools-in-a-green-plastic-tool-box-isolated-on-white-background-picture-id1192923220?k=6&m=1192923220&s=612x612&w=0&h=eyqnxIIPTN_HlPcmJLy7tNW7mr4NHUQ6imQ9SkZ2SDU=']
+U+9492
+8
+fán
+167'.3
+钒.mp3
+
+钓
+['fish', ' fishhook', ' tempt, lure']
+['pescado', 'anzuelo', 'tentar, atraer']
+['https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=', 'https://media.gettyimages.com/vectors/fishing-hook-vector-id867696364?k=6&m=867696364&s=612x612&w=0&h=Hp-BVkmJVdBPQEcDgQiYQFNTpBwaj9p_7YgCYCD-Vf0=', 'https://media.gettyimages.com/photos/fishing-lure-closeup-picture-idSP004948?k=6&m=SP004948&s=612x612&w=0&h=apSnqhL39LWubg_wFvGEto7JUQhr5pUuu6BKqyIAFL4=']
+U+9493
+8
+diào
+167'.3
+钓.mp3
+
+钔
+['mendelevium (Md)']
+['mendelevio (Md)']
+['NONE']
+U+9494
+8
+mén
+167'.3
+钔.mp3
+
+钕
+['neodymium']
+['neodimio']
+['https://media.gettyimages.com/photos/sculpture-of-ferrofluid-induced-by-a-neodymium-magnet-picture-id1201462344?k=6&m=1201462344&s=612x612&w=0&h=6MmucCLL6P7ysc607jHbSq0s-ntgrHjFx5uuuv2UeLo=']
+U+9495
+8
+nǚ
+167'.3
+钕.mp3
+
+钖
+['frontlet']
+['banda para la frente']
+['https://media.gettyimages.com/photos/mother-and-daughter-gardenening-picture-id130852465?k=6&m=130852465&s=612x612&w=0&h=shtYlnk9DmO2W34I8ueSMNzMa304goEyvbTgQIE6ZDc=']
+U+9496
+8
+yáng
+167'.3
+钖.mp3
+
+钗
+['ornamental hairpin']
+['horquilla ornamental']
+['https://media.gettyimages.com/photos/bridal-hair-accessory-picture-id139910635?k=6&m=139910635&s=612x612&w=0&h=HNG56J6zvwqkwSRw452yFa4Q5kv5MA7PXjLW560a-JA=']
+U+9497
+8
+chāi
+167'.3
+钗.mp3
+
+钘
+['ancient wine vessel']
+['vaso de vino antiguo']
+['https://media.gettyimages.com/photos/porto-wine-cellar-picture-id171588928?k=6&m=171588928&s=612x612&w=0&h=kp-fEAbde0g5FtIXZoEcbkq9ozo0gZlLXuiGQAtUdnE=']
+U+9498
+9
+xíng
+167'.4
+钘.mp3
+
+钙
+['calcium']
+['calcio']
+['https://media.gettyimages.com/photos/dairy-products-shot-on-rustic-wooden-table-picture-id910881428?k=6&m=910881428&s=612x612&w=0&h=odpZyxi2uF3uF2KLatSyWj7lWAkreINz8fG8-MFD_M4=']
+U+9499
+9
+gài
+167'.4
+钙.mp3
+
+钚
+['plutonium']
+['plutonio']
+['https://media.gettyimages.com/photos/radiation-sign-picture-id185118065?k=6&m=185118065&s=612x612&w=0&h=q-ExOR-mjDmqvzvSGMkAl5UA85A6L_zAAMVWy1nMOXo=']
+U+949A
+9
+bù
+167'.4
+钚.mp3
+
+钛
+['titanium']
+['titanio']
+['https://media.gettyimages.com/photos/stainless-steel-texture-picture-id182447588?k=6&m=182447588&s=612x612&w=0&h=s6LbQaHtyj9Ck1Ra9z-v8awlDvVqBhyv3enmB_YxUtI=']
+U+949B
+9
+tài
+167'.4
+钛.mp3
+
+钜
+['steel, iron', ' great']
+['acero hierro', 'estupendo']
+['https://media.gettyimages.com/photos/simple-concrete-texture-picture-id943497656?k=6&m=943497656&s=612x612&w=0&h=4cqu_HBwC0xZUBS6P5M6xywRQ6l0O04zmqslBV9CrPs=', 'https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=']
+U+949C
+9
+jù
+167'.4
+钜.mp3
+
+钝
+['blunt, obtuse', ' dull', ' flat', ' dull-witted']
+['contundente, obtuso', 'aburrido', 'plano', 'tonto']
+['NONE', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/large-multicondos-building-blocks-with-bicycles-lane-picture-id1174752803?k=6&m=1174752803&s=612x612&w=0&h=DQaY7kZTpE6I2uxB6-uex9Hkigx7_yOHqOcj1c2XTr8=', 'NONE']
+U+949D
+9
+dùn
+167'.4
+钝.mp3
+
+钞
+['paper money, bank notes', ' copy']
+['papel moneda, billetes de banco', 'Copiar']
+['https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=', 'https://media.gettyimages.com/photos/noise-picture-id104471078?k=6&m=104471078&s=612x612&w=0&h=_i0XrUdQnuysuW_my9jSqK44U-jgYqWN5elgYbGhvUo=']
+U+949E
+9
+chāo
+167'.4
+钞.mp3
+
+钟
+['clock', ' bell']
+['reloj', 'campana']
+['https://media.gettyimages.com/vectors/time-flat-design-education-icon-with-side-shadow-vector-id872742562?k=6&m=872742562&s=612x612&w=0&h=jX2bJxGCFVFwQM5JSJXNlFvJVBXcj1IRfY56QBXkgac=', 'https://media.gettyimages.com/vectors/bell-flat-icon-pixel-perfect-for-mobile-and-web-vector-id1145835428?k=6&m=1145835428&s=612x612&w=0&h=qTGI5JD7Tt0QABRN47yeDH5UaFofQ4mIolztoYup4So=']
+U+949F
+9
+zhōng
+167'.4
+钟.mp3
+
+钠
+['sodium, natrium', ' sharpen wood']
+['sodio, sodio', 'afilar madera']
+['NONE', 'https://media.gettyimages.com/photos/brand-new-pencil-picture-id96361883?k=6&m=96361883&s=612x612&w=0&h=QIelKXsucYnKwos1UILsLG_gZrTi720GRPqEyB7wFFg=']
+U+94A0
+9
+nà
+167'.4
+钠.mp3
+
+钡
+['barium']
+['bario']
+['https://media.gettyimages.com/photos/barium-chloride-under-polarized-light-with-black-background-picture-id1141232446?k=6&m=1141232446&s=612x612&w=0&h=4IMUJQOTBSe3EsYbWK4tKlbp79gFc9UfqUNHkmmhAQA=']
+U+94A1
+9
+bèi
+167'.4
+钡.mp3
+
+钢
+['steel', ' hard, strong, tough']
+['acero', 'duro, fuerte, duro']
+['https://media.gettyimages.com/photos/hairline-steel-plate-texture-background-picture-id1050948036?k=6&m=1050948036&s=612x612&w=0&h=uifbY7X_oDRwmEuQqsqdZfqdNXTc0PYfaB2xkkBdCAE=', 'https://media.gettyimages.com/photos/confident-woman-posing-near-punching-bags-in-gymnasium-picture-id758280897?k=6&m=758280897&s=612x612&w=0&h=Y7JgWQh-Hi_Gl0gPAMSzSBzgo2G0qaugGIBMW8vTo0k=']
+U+94A2
+9
+gāng
+167'.4
+钢.mp3
+
+钣
+['plate']
+['plato']
+['https://media.gettyimages.com/photos/empty-round-dinner-plate-isolated-on-white-background-clipping-path-picture-id184933994?k=6&m=184933994&s=612x612&w=0&h=amHI6AqRcay2k_AFoGN2iz0pKR1ZlRTBlQtfWX14S5s=']
+U+94A3
+9
+bǎn
+167'.4
+钣.mp3
+
+钤
+['lock, latch', ' stamp, seal']
+['cerradura, pestillo', 'sello, sello']
+['https://media.gettyimages.com/vectors/locks-icons-acme-series-vector-id1157956503?k=6&m=1157956503&s=612x612&w=0&h=1cF043C4SpcbgxqHiDNVgNXptTHbefgwWfjp9Om21oQ=', 'https://media.gettyimages.com/vectors/trendy-gray-badge-premium-quality-guaranteed-vector-id1144489566?k=6&m=1144489566&s=612x612&w=0&h=_gQAOQP8GFBQCs5xgtgjCA7EZ3dG75IOPj389LyX42M=']
+U+94A4
+9
+qián
+167'.4
+钤.mp3
+
+钥
+['key', ' lock']
+['llave', 'bloquear']
+['https://media.gettyimages.com/photos/car-salesman-handing-keys-to-customer-picture-id136591822?k=6&m=136591822&s=612x612&w=0&h=4k2cytYAMaldXz2yLyxCcZOAE9M9Hq54byEI-jkr9R8=', 'https://media.gettyimages.com/vectors/lock-icons-and-symbols-vector-id838965566?k=6&m=838965566&s=612x612&w=0&h=9-aBiCPuQyZZUaotEIE2KZIeKPZ1MAGakZeITPKHxSM=']
+U+94A5
+9
+yào
+167'.4
+钥.mp3
+
+钦
+['respect, admire', ' respectful']
+['respetar, admirar', 'respetuoso']
+['https://media.gettyimages.com/photos/businesswomen-celebrating-an-achievement-of-a-colleague-picture-id1124413804?k=6&m=1124413804&s=612x612&w=0&h=C2NG5Q6ijsPpHJHB89XoTwYI0f-ly7k-E8-p2S82X5s=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+94A6
+9
+qīn
+167'.4
+钦.mp3
+
+钧
+['unit of measure equivalent to thirty catties']
+['unidad de medida equivalente a treinta gatos']
+['NONE']
+U+94A7
+9
+jūn
+167'.4
+钧.mp3
+
+钨
+['tungsten, wolfram']
+['tungsteno, wolfram']
+['https://media.gettyimages.com/photos/female-tig-welder-picture-id975125164?k=6&m=975125164&s=612x612&w=0&h=3VTMF4A8Q1Z9waq6zznNMFJ8oWRBLRup3H0j-4rtFUw=']
+U+94A8
+9
+wū
+167'.4
+钨.mp3
+
+钩
+['hook, barb', ' sickle', ' stroke with']
+['gancho, púa', 'hoz', 'golpe con']
+['https://media.gettyimages.com/photos/fishing-hook-on-white-picture-id850916440?k=6&m=850916440&s=612x612&w=0&h=4hXgXN7W-yOWBx9fpWXnL8I7mVd6ydm0wa9HhGhYtAE=', 'https://media.gettyimages.com/photos/sickle-hammer-picture-id157294654?k=6&m=157294654&s=612x612&w=0&h=6KLflg55PhwgYk9y3oz3bgBtsDp3geXSmXRXSEgRAHo=', 'https://media.gettyimages.com/vectors/set-of-strokes-vector-id918445132?k=6&m=918445132&s=612x612&w=0&h=0BsPDtGELHlRNqCQ7wIzS6-5y3XbjdhMQLWH61S0Bk0=']
+U+94A9
+9
+gōu
+167'.4
+钩.mp3
+
+钪
+['scandium']
+['escandio']
+['https://media.gettyimages.com/illustrations/chemical-elements-science-illustration-illustration-id1155264734?k=6&m=1155264734&s=612x612&w=0&h=_kHPXvv29R4xN2qp_Y0-yX-nMUWmUTLaFXY3O68nfMM=']
+U+94AA
+9
+kàng
+167'.4
+钪.mp3
+
+钫
+['francium']
+['francio']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-vector-id166055858?k=6&m=166055858&s=612x612&w=0&h=6IFy9IBa5DhXQuu3_MekDFWSbFtuE4KKtuxo7QfgQEQ=']
+U+94AB
+9
+fāng
+167'.4
+钫.mp3
+
+钬
+['holmium']
+['holmio']
+['https://media.gettyimages.com/vectors/icon-of-holmium-periodic-table-of-elements-with-crystal-system-vector-id1271710363?k=6&m=1271710363&s=612x612&w=0&h=cayFHFAgp3E5agHAbl_HCkB7oo6A52n8mr02JUxn6GM=']
+U+94AC
+9
+huǒ
+167'.4
+钬.mp3
+
+钭
+['a wine flagon']
+['una jarra de vino']
+['https://media.gettyimages.com/vectors/drink-icons-vector-id455592001?k=6&m=455592001&s=612x612&w=0&h=dSzJRAFOa3keek4qvpzbWOYH0zAMbNzUQZU0A6Ck6SU=']
+U+94AD
+9
+tǒu
+167'.4
+钭.mp3
+
+钮
+['button, knob', ' surname']
+['botón, perilla', 'apellido']
+['https://media.gettyimages.com/vectors/buttons-vector-id165924563?k=6&m=165924563&s=612x612&w=0&h=vUnlSMs6s-LjDh0-UG8FFTVNMDd13IgSvrb1GZt4r5g=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+94AE
+9
+niǔ
+167'.4
+钮.mp3
+
+钯
+['palladium']
+['paladio']
+['https://media.gettyimages.com/photos/the-beatles-on-stage-at-the-london-palladium-during-a-performance-in-picture-id2636219?k=6&m=2636219&s=612x612&w=0&h=o4MGBhuYkDTymMsryP4GfUd6HEWkWRQk0pY1kLOMAl0=']
+U+94AF
+9
+bǎ
+167'.4
+钯.mp3
+
+钰
+['rare treasure']
+['tesoro raro']
+['https://media.gettyimages.com/photos/medication-bottle-picture-id90893396?k=6&m=90893396&s=612x612&w=0&h=Ns3-1Uyq6stFQx31S8NUqAHo3L-EVitdjsRzV5p_kHE=']
+U+94B0
+10
+yù
+167'.5
+钰.mp3
+
+钱
+['money, currency, coins']
+['dinero, moneda, monedas']
+['https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=']
+U+94B1
+10
+qián
+167'.5
+钱.mp3
+
+钲
+['kind of gong used in ancient times by troops on the march']
+['tipo de gong utilizado en la antigüedad por las tropas en marcha']
+['NONE']
+U+94B2
+10
+zhēng
+167'.5
+钲.mp3
+
+钳
+['pincers, pliers, tongs', ' to compress']
+['tenazas, alicates, tenazas', 'comprimir']
+['https://media.gettyimages.com/photos/adjustable-water-pump-pliers-isolated-on-white-background-picture-id1183836307?k=6&m=1183836307&s=612x612&w=0&h=AHmmWfTr56d9_5aCmKO4n2oJALlqurOcd_z5xj_N3dU=', 'https://media.gettyimages.com/photos/sick-young-puppy-with-ice-bag-on-head-white-background-picture-id171580561?k=6&m=171580561&s=612x612&w=0&h=cG3wIqSbtVMdbrTReUOI0x-G0xo2YIoWTOOVPG92tFs=']
+U+94B3
+10
+qián
+167'.5
+钳.mp3
+
+钴
+['cobalt', ' household iron']
+['cobalto', 'plancha de casa']
+['https://media.gettyimages.com/vectors/blurred-gradient-background-abstract-design-template-for-brochures-vector-id1159290003?k=6&m=1159290003&s=612x612&w=0&h=mFiMiPF0BqGnxJPXGISKpZZ9ZpqouN8Xo4LnNBbgUvo=', 'https://media.gettyimages.com/vectors/-vector-id1014775672?k=6&m=1014775672&s=612x612&w=0&h=gH5pEdecPVUzUBFSKPODHTz7vxolk_DFofLpET8aU7U=']
+U+94B4
+10
+gǔ
+167'.5
+钴.mp3
+
+钵
+['earthenware basin', ' alms bowl']
+['lavabo de loza', 'cuenco de limosna']
+['https://media.gettyimages.com/photos/simple-earthen-stove-with-glowing-charcoal-amazon-basin-brazil-picture-id130848057?k=6&m=130848057&s=612x612&w=0&h=NstLxpqVyub5Y_oScTiFPJ-qSTcbt6yckPTf8zzmeTI=', 'https://media.gettyimages.com/photos/buddhist-monk-picture-id641164636?k=6&m=641164636&s=612x612&w=0&h=ANVH-1WiSn9vKryj42am5wPe_cTRckHNciJ_SH5uhFw=']
+U+94B5
+10
+bō
+167'.5
+钵.mp3
+
+钶
+['columbium']
+['columbio']
+['NONE']
+U+94B6
+10
+kē
+167'.5
+钶.mp3
+
+钷
+['promethium']
+['prometeo']
+['https://media.gettyimages.com/vectors/chalk-polluting-compounds-vector-id514422128?k=6&m=514422128&s=612x612&w=0&h=FerudYLRJTJZbAfXZ_o2gxZoZnE_TW7CVrcQUDBESXI=']
+U+94B7
+10
+pǒ
+167'.5
+钷.mp3
+
+钸
+['plutonium']
+['plutonio']
+['https://media.gettyimages.com/photos/radiation-sign-picture-id185118065?k=6&m=185118065&s=612x612&w=0&h=q-ExOR-mjDmqvzvSGMkAl5UA85A6L_zAAMVWy1nMOXo=']
+U+94B8
+10
+bū
+167'.5
+钸.mp3
+
+钹
+['cymbals']
+['platillos']
+['https://media.gettyimages.com/photos/cymbal-with-path-picture-id172381662?k=6&m=172381662&s=612x612&w=0&h=uiBDbA6ye5T45g3dbJFf0yOaqLFiQP6BRAq8CKD5Fyk=']
+U+94B9
+10
+bó
+167'.5
+钹.mp3
+
+钺
+['broad-axe, a battle axe, halberd']
+['hacha ancha, hacha de batalla, alabarda']
+['NONE']
+U+94BA
+10
+yuè
+167'.5
+钺.mp3
+
+钻
+['drill, bore', ' pierce', ' diamond']
+['taladro', 'atravesar', 'diamante']
+['https://media.gettyimages.com/photos/detail-of-drill-bit-covered-with-mud-during-bore-piling-operations-picture-id126439524?k=6&m=126439524&s=612x612&w=0&h=W6lM_hMuV8p12qlVNOyN2f7PgT4Unf-TiU0nbIaMqdU=', 'https://media.gettyimages.com/photos/fill-the-world-with-happiness-picture-id1170301221?k=6&m=1170301221&s=612x612&w=0&h=amUliJpMCvzZZP_nbFx3BBfTa8epa7CDcPCyCOY8E14=', 'https://media.gettyimages.com/photos/multiple-isolated-white-faceted-diamonds-at-various-angles-clipping-picture-id166073288?k=6&m=166073288&s=612x612&w=0&h=-b_5yvPCuLlYwD2jE3k1ajvYQiZElYC_w7iIVpMVFRw=']
+U+94BB
+10
+zuān
+167'.5
+钻.mp3
+
+钼
+['molybdenum']
+['molibdeno']
+['https://media.gettyimages.com/photos/leadville-co-usa-picture-id128032110?k=6&m=128032110&s=612x612&w=0&h=vwteMwaHJrX-azcIraV63q4IDU7gsGi7IKr6ZkAoY-g=']
+U+94BC
+10
+mù
+167'.5
+钼.mp3
+
+钽
+['tantalum']
+['tantalio']
+['https://media.gettyimages.com/photos/tapiolite-is-a-black-mineral-series-that-is-an-ore-of-niobium-and-picture-id1144565767?k=6&m=1144565767&s=612x612&w=0&h=ViKHOiMMoBPdV05DQvDrnAUmwSQ_aXEC-vuE54blles=']
+U+94BD
+10
+tǎn
+167'.5
+钽.mp3
+
+钾
+['potassium']
+['potasio']
+['https://media.gettyimages.com/photos/bunch-of-bananas-grand-nain-or-grande-naine-cavendish-banana-picture-id1081588414?k=6&m=1081588414&s=612x612&w=0&h=jft-fqdsZUnVWM3cU-hfiQzRvZA1-PrXVXMiWvElxfo=']
+U+94BE
+10
+jiǎ
+167'.5
+钾.mp3
+
+钿
+['hairpin', ' gold inlaid work, filigree']
+['horquilla', 'trabajo con incrustaciones de oro, filigrana']
+['https://media.gettyimages.com/photos/bobby-pins-cut-out-on-white-picture-id113708964?k=6&m=113708964&s=612x612&w=0&h=50tdoPnSyy75gXqq0XLqBPeKWBvzPCLW5nUbFuwrii4=', 'NONE']
+U+94BF
+10
+diàn
+167'.5
+钿.mp3
+
+铀
+['uranium']
+['uranio']
+['https://media.gettyimages.com/photos/nuclear-waste-barrel-picture-id154918645?k=6&m=154918645&s=612x612&w=0&h=LSBzn-Oof75AfWLmYBgYmO9C1N9BCQqLTLspvAf9dw8=']
+U+94C0
+10
+yóu
+167'.5
+铀.mp3
+
+铁
+['iron', ' strong, solid, firm']
+['hierro', 'fuerte, sólido, firme']
+['https://media.gettyimages.com/photos/golf-bag-and-clubs-xxxlarge-picture-id157579705?k=6&m=157579705&s=612x612&w=0&h=EiVASe2mtUuzPeUeBBKqAJNBXvNmyxieyx4hoYfrABc=', 'https://media.gettyimages.com/photos/wide-open-marble-platform-under-roof-for-automobile-commerical-picture-id1139199666?k=6&m=1139199666&s=612x612&w=0&h=jBRpZfWq3r9QaW7YCaviseMfQ29SRRjxFRE74_QNffI=']
+U+94C1
+10
+tiě
+167'.5
+铁.mp3
+
+铂
+['platinum', ' thin sheet of metal']
+['platino', 'hoja delgada de metal']
+['https://media.gettyimages.com/photos/stainless-steel-texture-picture-id471105469?k=6&m=471105469&s=612x612&w=0&h=hjPHT8VJwPqozGP4EX_0Xu39OccpiR_K1EXhy-NAKIY=', 'https://media.gettyimages.com/photos/crumpled-tin-foil-sheet-picture-id648799358?k=6&m=648799358&s=612x612&w=0&h=kqgNEpPY2W3yCzXD03vNmEjMD3WmGrIuQB-O-BW0XVo=']
+U+94C2
+10
+bó
+167'.5
+铂.mp3
+
+铃
+['bell']
+['campana']
+['https://media.gettyimages.com/vectors/bell-flat-icon-pixel-perfect-for-mobile-and-web-vector-id1145835428?k=6&m=1145835428&s=612x612&w=0&h=qTGI5JD7Tt0QABRN47yeDH5UaFofQ4mIolztoYup4So=']
+U+94C3
+10
+líng
+167'.5
+铃.mp3
+
+铄
+['melt, smelt', ' shine']
+['derretir, oler', 'brillar']
+['https://media.gettyimages.com/photos/foundry-picture-id186857558?k=6&m=186857558&s=612x612&w=0&h=YO-yRit81qKH8k3AD_fVkP3rP23sF1oRqa-eS6FR6fI=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=']
+U+94C4
+10
+shuò
+167'.5
+铄.mp3
+
+铅
+['lead']
+['dirigir']
+['https://media.gettyimages.com/vectors/pencil-icon-flat-vector-id1078269892?k=6&m=1078269892&s=612x612&w=0&h=RlDJAWB16W4sOEn08_quV3nk98IATIY1E-kR87Q_muI=']
+U+94C5
+10
+qiān
+167'.5
+铅.mp3
+
+铆
+['rivet']
+['remache']
+['https://media.gettyimages.com/photos/old-metal-texture-with-rivets-picture-id165998943?k=6&m=165998943&s=612x612&w=0&h=Wy3ETJOep6fRy2bLo3KMIpCfIu1Vf8V9RaiTyKdT2Mg=']
+U+94C6
+10
+mǎo
+167'.5
+铆.mp3
+
+铇
+["carpenter's plane"]
+['avión de carpintero']
+['https://media.gettyimages.com/photos/young-carpenter-using-sander-while-working-on-a-piece-of-wood-picture-id1061173208?k=6&m=1061173208&s=612x612&w=0&h=_T3Zo0AEDkqhDbQBXfiNLzTUthaOtnsfGNpKNPQdQg8=']
+U+94C7
+10
+bào
+167'.5
+铇.mp3
+
+铈
+['cerium']
+['cerio']
+['https://media.gettyimages.com/illustrations/chemical-elements-science-illustration-illustration-id1155264734?k=6&m=1155264734&s=612x612&w=0&h=_kHPXvv29R4xN2qp_Y0-yX-nMUWmUTLaFXY3O68nfMM=']
+U+94C8
+10
+shì
+167'.5
+铈.mp3
+
+铉
+['device for carrying a tripod']
+['dispositivo para llevar un trípode']
+['https://media.gettyimages.com/photos/photographer-looking-away-while-carrying-tripod-on-hill-by-sea-picture-id722219667?k=6&m=722219667&s=612x612&w=0&h=ZuHz8b5pNETyVvvrdGpOpngZX764LGMDTXJVWTOLYr8=']
+U+94C9
+10
+xuàn
+167'.5
+铉.mp3
+
+铊
+['thallium']
+['talio']
+['https://media.gettyimages.com/illustrations/icon-of-thallium-periodic-table-of-elements-with-crystal-system-illustration-id1271710468?k=6&m=1271710468&s=612x612&w=0&h=FQSImpHB6R4cyaK2GpjG03_LpGb9RftYKp-7UV64fqE=']
+U+94CA
+10
+tā
+167'.5
+铊.mp3
+
+铋
+['bismuth']
+['bismuto']
+['https://media.gettyimages.com/photos/statue-and-railing-at-pont-alexandre-iii-against-sky-picture-id580777941?k=6&m=580777941&s=612x612&w=0&h=yN4uIBYSUxKkS4CQhom2drlQ6L8lr6vUw1gRhuTfaYA=']
+U+94CB
+10
+bì
+167'.5
+铋.mp3
+
+铌
+['niobium']
+['niobio']
+['https://media.gettyimages.com/photos/pure-ferro-niob-picture-id157695931?k=6&m=157695931&s=612x612&w=0&h=E9tyKlpXkVa_qPy73hL3oMpXIj95OIEOKpO-Tb_RDQw=']
+U+94CC
+10
+ní
+167'.5
+铌.mp3
+
+铍
+['beryllium']
+['berilio']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-vector-id481945493?k=6&m=481945493&s=612x612&w=0&h=VR7ADiBwMR86eldN_KvtsQKpMvoqaTzR21CG1Q93iQI=']
+U+94CD
+10
+pī
+167'.5
+铍.mp3
+
+铎
+['bell', ' surname']
+['campana', 'apellido']
+['https://media.gettyimages.com/vectors/bell-flat-icon-pixel-perfect-for-mobile-and-web-vector-id1145835428?k=6&m=1145835428&s=612x612&w=0&h=qTGI5JD7Tt0QABRN47yeDH5UaFofQ4mIolztoYup4So=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+94CE
+10
+duó
+167'.5
+铎.mp3
+
+铏
+['sacrificial cauldron']
+['caldero de sacrificio']
+['https://media.gettyimages.com/photos/sacrificial-cauldron-at-pfaffenstein-low-table-mountain-elbe-saxony-picture-id999140518?k=6&m=999140518&s=612x612&w=0&h=x8pFVSVRlN0Dr45tHPWfy8bpfLadLOpbZk2bRFJs654=']
+U+94CF
+11
+xíng
+167'.6
+铏.mp3
+
+铐
+['shackles, manacles']
+['grilletes, esposas']
+['https://media.gettyimages.com/photos/ball-and-chain-isolated-with-clipping-path-picture-id182718303?k=6&m=182718303&s=612x612&w=0&h=6yadNXuKGNk0pobEhFMJrRwlYIGQTItK5loPfcRIel0=']
+U+94D0
+11
+kào
+167'.6
+铐.mp3
+
+铑
+['rhodium']
+['rodio']
+['https://media.gettyimages.com/vectors/rhodium-circle-element-background-set-vector-id488526019?k=6&m=488526019&s=612x612&w=0&h=yMGGtMtcdd0tYShTVRr-j5o6d1GyQTNNIqjiqh8S4Dk=']
+U+94D1
+11
+lǎo
+167'.6
+铑.mp3
+
+铒
+['erbium']
+['erbio']
+['https://media.gettyimages.com/illustrations/chemical-elements-universe-illustration-illustration-id1161024001?k=6&m=1161024001&s=612x612&w=0&h=52xbiq7GwBTITaW142lS4JijbkZzi_1NGibvco-Sy3U=']
+U+94D2
+11
+ěr
+167'.6
+铒.mp3
+
+铓
+['point of sword', ' sharp point']
+['punta de espada', 'punta afilada']
+['https://media.gettyimages.com/photos/steel-sword-point-picture-id115087711?k=6&m=115087711&s=612x612&w=0&h=20nH966UEP7UqsWjlGvQSTWqik8REj2x9R1Q891391Y=', 'https://media.gettyimages.com/photos/thorns-ball-picture-id646533630?k=6&m=646533630&s=612x612&w=0&h=xynx1clVDE322aCsbc4pHwTFzfAGF5HKvCo3frwbx-Q=']
+U+94D3
+11
+máng
+167'.6
+铓.mp3
+
+铔
+['soft steel', ' ammonium']
+['acero blando', 'amonio']
+['https://media.gettyimages.com/vectors/colors-metallic-bronze-silver-gold-chrome-metal-foil-texture-gradient-vector-id1136696081?k=6&m=1136696081&s=612x612&w=0&h=asr4BusPWulje7YPrKfJIDBzTcwyz-b_1xqVI0oUGlo=', 'https://media.gettyimages.com/photos/temple-of-the-oracle-of-amun-picture-id913566224?k=6&m=913566224&s=612x612&w=0&h=gj6pgleNwOKJfgKnHCl-a2m7IirDTYGfrq9jl8Ys2s8=']
+U+94D4
+11
+yā
+167'.6
+铔.mp3
+
+铕
+['europium']
+['europio']
+['https://media.gettyimages.com/illustrations/chemical-elements-science-illustration-illustration-id1155264734?k=6&m=1155264734&s=612x612&w=0&h=_kHPXvv29R4xN2qp_Y0-yX-nMUWmUTLaFXY3O68nfMM=']
+U+94D5
+11
+yǒu
+167'.6
+铕.mp3
+
+铖
+["person's name"]
+['nombre de persona']
+['https://media.gettyimages.com/vectors/person-holding-out-business-card-icon-vector-id860194850?k=6&m=860194850&s=612x612&w=0&h=0tTG7f1ZaIxamvdbFegb_M_69Q2qgX_3vqcZtem_0z0=']
+U+94D6
+11
+chéng
+167'.6
+铖.mp3
+
+铗
+['tongs, pincers', ' dagger', ' sword']
+['pinzas, tenazas', 'daga', 'espada']
+['https://media.gettyimages.com/photos/adjustable-water-pump-pliers-isolated-on-white-background-picture-id1183836307?k=6&m=1183836307&s=612x612&w=0&h=AHmmWfTr56d9_5aCmKO4n2oJALlqurOcd_z5xj_N3dU=', 'https://media.gettyimages.com/photos/black-army-boot-knife-isolated-on-white-picture-id172212556?k=6&m=172212556&s=612x612&w=0&h=DY0YX6i1RdkwlmPxnsn1Z-Gm6DxEafuCprKhwPw-pw4=', 'https://media.gettyimages.com/photos/sword-picture-id172795424?k=6&m=172795424&s=612x612&w=0&h=g-wCxRZFJ2wN6riv52iLXhKCAd3DKVWtlEF0tzmj75c=']
+U+94D7
+11
+jiá
+167'.6
+铗.mp3
+
+铘
+['sword']
+['espada']
+['https://media.gettyimages.com/photos/sword-picture-id172795424?k=6&m=172795424&s=612x612&w=0&h=g-wCxRZFJ2wN6riv52iLXhKCAd3DKVWtlEF0tzmj75c=']
+U+94D8
+11
+yé
+167'.6
+铘.mp3
+
+铙
+['cymbals', ' hand bell', ' disturb']
+['platillos', 'campana de mano', 'molestar']
+['https://media.gettyimages.com/photos/cymbal-with-path-picture-id172381662?k=6&m=172381662&s=612x612&w=0&h=uiBDbA6ye5T45g3dbJFf0yOaqLFiQP6BRAq8CKD5Fyk=', 'https://media.gettyimages.com/photos/boy-donating-picture-id172208631?k=6&m=172208631&s=612x612&w=0&h=6z0CWoErwhYwM_Q6_BYgiOBDic0pfofJg6C3chQbNcE=', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+94D9
+11
+náo
+167'.6
+铙.mp3
+
+铚
+['a sickle']
+['una hoz']
+['https://media.gettyimages.com/photos/sickle-hammer-picture-id157294654?k=6&m=157294654&s=612x612&w=0&h=6KLflg55PhwgYk9y3oz3bgBtsDp3geXSmXRXSEgRAHo=']
+U+94DA
+11
+zhì
+167'.6
+铚.mp3
+
+铛
+['frying pan', ' warming vessel']
+['sartén', 'buque de calentamiento']
+['https://media.gettyimages.com/photos/sausage-sizzle-sandwich-with-fried-onion-and-bbq-sauce-in-a-white-picture-id952688912?k=6&m=952688912&s=612x612&w=0&h=D7c6frBY7ee6xTJOTSsW1rgCvU-U6m1TLModZLDzPkU=', 'https://media.gettyimages.com/photos/worker-looking-out-from-ship-to-offshore-wind-farm-picture-id565783053?k=6&m=565783053&s=612x612&w=0&h=mQEflDKmNToK5UVU6XsOeeB8qjHn1a-v3LSDQSPw3Lc=']
+U+94DB
+11
+dāng
+167'.6
+铛.mp3
+
+铜
+['copper, brass, bronze']
+['cobre, latón, bronce']
+['https://media.gettyimages.com/photos/abstract-brass-metal-plate-structured-background-xxl-picture-id155443251?k=6&m=155443251&s=612x612&w=0&h=41GCuS200emdTePIhzvpPO5oYTqzjaCyiIcUybKkMBo=']
+U+94DC
+11
+tóng
+167'.6
+铜.mp3
+
+铝
+['aluminum']
+['aluminio']
+['https://media.gettyimages.com/photos/metal-hairline-texture-background-picture-id825391528?k=6&m=825391528&s=612x612&w=0&h=eyF75G2ykSqYK0rVVkk5Em_a8f1kCj3T6VtawE3tgr4=']
+U+94DD
+11
+lǚ
+167'.6
+铝.mp3
+
+铞
+['NONE']
+['NINGUNA']
+[]
+U+94DE
+11
+diào
+167'.6
+铞.mp3
+
+铟
+['indium']
+['indio']
+['https://media.gettyimages.com/photos/indium-picture-id583679062?k=6&m=583679062&s=612x612&w=0&h=MGTqGdIVPpFG-Lvnfz-Mgl1VMiiM_FvjtYoQB9SKGI4=']
+U+94DF
+11
+yīn
+167'.6
+铟.mp3
+
+铠
+['armor, chain mail']
+['armadura, cota de malla']
+['https://media.gettyimages.com/photos/full-frame-shot-of-metallic-structure-picture-id1125896862?k=6&m=1125896862&s=612x612&w=0&h=t9UUb0aH5HFyb-uNjybAnamKM92aKBOdy2iCI2VAARY=']
+U+94E0
+11
+kǎi
+167'.6
+铠.mp3
+
+铡
+['sickle for cutting grass or hay']
+['hoz para cortar hierba o heno']
+['https://media.gettyimages.com/photos/man-wearing-protective-workwear-mowing-the-lawn-picture-id975747616?k=6&m=975747616&s=612x612&w=0&h=b5JnsAshFiWActvgTMWkEaJLP5XYQTpqwofU1ppeS7g=']
+U+94E1
+11
+zhá
+167'.6
+铡.mp3
+
+铢
+['unit of weight, one twenty-fourth of a Chinese ounce (liang)']
+['unidad de peso, veinticuatro de onza china (liang)']
+['NONE']
+U+94E2
+11
+zhū
+167'.6
+铢.mp3
+
+铣
+['mill']
+['desde']
+['https://media.gettyimages.com/photos/wind-turbines-against-blue-sky-picture-id1053567676?k=6&m=1053567676&s=612x612&w=0&h=qDHGV97fyHmWonuIf9ldLmCdAvLcpAWLxkD6ElxjOPQ=']
+U+94E3
+11
+xǐ
+167'.6
+铣.mp3
+
+铤
+['ingots, bars of metal', ' hurry']
+['lingotes, barras de metal', 'prisa']
+['https://media.gettyimages.com/photos/gold-bars-illustration-picture-id1148114588?k=6&m=1148114588&s=612x612&w=0&h=g-ewbw-qC7MdfkwlX4lcGiA5Gkygm_va5vux-RsuHJM=', 'https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+94E4
+11
+dìng
+167'.6
+铤.mp3
+
+铥
+['thulium']
+['tulio']
+['https://media.gettyimages.com/illustrations/icon-of-thulium-periodic-table-of-elements-with-crystal-system-illustration-id1271710471?k=6&m=1271710471&s=612x612&w=0&h=tAjGnIE38bf2g8GFXu_aLlig8pn-flMbHSmtzB9XrJQ=']
+U+94E5
+11
+diū
+167'.6
+铥.mp3
+
+铦
+['sharp, keen-edged', ' a kind of hoe']
+['agudo, agudo', 'una especie de azada']
+['NONE', 'https://media.gettyimages.com/photos/portrait-of-farmer-in-field-with-hoe-picture-id910491606?k=6&m=910491606&s=612x612&w=0&h=LaVklOp_CMoPZOntanOpC5lxrxxIG8O8xOvW9FIoPKc=']
+U+94E6
+11
+xiān
+167'.6
+铦.mp3
+
+铧
+['spade, shovel, plowshare']
+['pala, pala, reja de arado']
+['NONE']
+U+94E7
+11
+huá
+167'.6
+铧.mp3
+
+铨
+['weigh, measure', ' select officials']
+['pesar, medir', 'funcionarios selectos']
+['https://media.gettyimages.com/photos/bathroom-scales-and-tape-measure-picture-id182912411?k=6&m=182912411&s=612x612&w=0&h=ENF3ubXvFKXyf3b2MjhdXzvTcjKFwfGakZsLBD386VE=', 'https://media.gettyimages.com/photos/millenial-black-man-and-woman-voting-in-election-picture-id1206360526?k=6&m=1206360526&s=612x612&w=0&h=ZLkqEEh_m0cSc3trSUkTQOsJPfh__GFVxBd4ve9v-5c=']
+U+94E8
+11
+quán
+167'.6
+铨.mp3
+
+铩
+['moult']
+['muchos']
+['https://media.gettyimages.com/photos/monarch-butterfly-emerging-from-its-chrysalis-picture-id182739033?k=6&m=182739033&s=612x612&w=0&h=kl1j04ZfwPWin3zCcRvQENqqziSs-tDlRYZ6tSg2r8U=']
+U+94E9
+11
+shā
+167'.6
+铩.mp3
+
+铪
+['hafnium']
+['hafnio']
+['https://media.gettyimages.com/vectors/icon-of-hafnium-periodic-table-of-elements-with-crystal-system-vector-id1271710343?k=6&m=1271710343&s=612x612&w=0&h=zLoMuZmSVoz7M0Cp_hxz3sXmjzzZj6xWA63ZvbM0yCg=']
+U+94EA
+11
+hā
+167'.6
+铪.mp3
+
+铫
+['large hoe', ' surname', ' a spear']
+['gran azada', 'apellido', 'una lanza']
+['https://media.gettyimages.com/photos/heavy-equipment-track-hoe-and-dump-truck-picture-id173756456?k=6&m=173756456&s=612x612&w=0&h=C4XOjZB23Ks7gJwwoC6P8aXi5hpu2md7wRw2DLVNso0=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/arrow-head-picture-id183306920?k=6&m=183306920&s=612x612&w=0&h=CkkhY6cKFuslYjWuMTbnQVLNubryE8MEYyVgTV78oqI=']
+U+94EB
+11
+diào
+167'.6
+铫.mp3
+
+铬
+['chromium']
+['cromo']
+['https://media.gettyimages.com/photos/shiny-brushed-metal-background-picture-id183810207?k=6&m=183810207&s=612x612&w=0&h=Z0tCQTg0ocFtnJ-HPFUNv8hv0mo6u-4vqjoeSD__Aog=']
+U+94EC
+11
+gè
+167'.6
+铬.mp3
+
+铭
+['inscribe, engrave']
+['inscribe, engrave']
+['NONE']
+U+94ED
+11
+míng
+167'.6
+铭.mp3
+
+铮
+['clanging sound', ' small gong']
+['sonido metálico', 'pequeño gong']
+['https://media.gettyimages.com/vectors/clanging-bell-character-vector-id1003181764?k=6&m=1003181764&s=612x612&w=0&h=ZxjbFe5k6-9vK55SL7VHQlcD-Kl9Z8V5F-AiR8RpQDY=', 'https://media.gettyimages.com/photos/the-old-iron-bell-in-traditional-chinese-temple-picture-id683239986?k=6&m=683239986&s=612x612&w=0&h=BUcADFGppEnebliTnoh4_fFaAPIWhyeNNy18OCTCeGM=']
+U+94EE
+11
+zhēng
+167'.6
+铮.mp3
+
+铯
+['cesium']
+['cesio']
+['https://media.gettyimages.com/illustrations/illustration-of-cesium-atomic-clock-showing-machine-parts-including-illustration-id85594832?k=6&m=85594832&s=612x612&w=0&h=arnh7gyx-eoYk6yyQkwjaNJo60p4RakmVwhak_rG69M=']
+U+94EF
+11
+sè
+167'.6
+铯.mp3
+
+铰
+['hinge', ' shears, scissors']
+['bisagra', 'tijeras, tijeras']
+['https://media.gettyimages.com/vectors/metal-hinges-vector-id165074073?k=6&m=165074073&s=612x612&w=0&h=JIeT1xUrv8JZ-y9yHLw-isY3yKfYVADf8Jg21LFelUU=', 'https://media.gettyimages.com/vectors/scissors-with-cut-lines-vector-id504576800?k=6&m=504576800&s=612x612&w=0&h=li7j6UxkCWybZaYKNHJe9ur3_tRd-43vG8gTHwm0HqI=']
+U+94F0
+11
+jiǎo
+167'.6
+铰.mp3
+
+铱
+['iridium']
+['iridio']
+['https://media.gettyimages.com/photos/mans-hand-marking-items-on-financial-document-with-calculator-nearby-picture-id168251583?k=6&m=168251583&s=612x612&w=0&h=vvuB1S47SvaPL5NXwZV97hRF0xIqO55A8UDAvQ32NCE=']
+U+94F1
+11
+yī
+167'.6
+铱.mp3
+
+铲
+['spade, shovel, trowel, scoop']
+['pala, pala, llana, pala']
+['NONE']
+U+94F2
+11
+chǎn
+167'.6
+铲.mp3
+
+铳
+['ancient weapon, blunderbuss']
+['arma antigua, trabuco']
+['NONE']
+U+94F3
+11
+chòng
+167'.6
+铳.mp3
+
+铴
+['gong']
+['palacio']
+['https://media.gettyimages.com/photos/gold-plated-asian-gong-with-red-stick-picture-id183832491?k=6&m=183832491&s=612x612&w=0&h=4JVPCZ4ShYY3hUZ7pxMhD0lURBncxKVJvoFBcyxcMBc=']
+U+94F4
+11
+tāng
+167'.6
+铴.mp3
+
+铵
+['ammonium']
+['amonio']
+['https://media.gettyimages.com/photos/temple-of-the-oracle-of-amun-picture-id913566224?k=6&m=913566224&s=612x612&w=0&h=gj6pgleNwOKJfgKnHCl-a2m7IirDTYGfrq9jl8Ys2s8=']
+U+94F5
+11
+ǎn
+167'.6
+铵.mp3
+
+银
+['silver', ' cash, money, wealth']
+['plata', 'efectivo, dinero, riqueza']
+['https://media.gettyimages.com/photos/silver-paper-texture-background-picture-id1125485198?k=6&m=1125485198&s=612x612&w=0&h=2RAGc4b8fVhTAlgeGJ1gUvWv-c355RuvpQ2X0G38nTs=', 'https://media.gettyimages.com/photos/businessman-is-stacking-coins-picture-id183865137?k=6&m=183865137&s=612x612&w=0&h=1DpvwkYh7hJB8ieh-JyEr43kwBOVAU3iHj-NlTPg1dE=']
+U+94F6
+11
+yín
+167'.6
+银.mp3
+
+铷
+['rubidium']
+['rubidio']
+['https://media.gettyimages.com/photos/rubidium-flame-picture-id589145558?k=6&m=589145558&s=612x612&w=0&h=Ae32t_b2bzTjKjQI4FUmqKqERRuGcu5E7Ekz7Av4G68=']
+U+94F7
+11
+rú
+167'.6
+铷.mp3
+
+铸
+['melt, cast', ' coin, mint']
+['derretir', 'moneda, menta']
+['https://media.gettyimages.com/photos/hands-of-a-craftsman-fusing-glass-to-create-a-piece-of-trinkets-picture-id500445240?k=6&m=500445240&s=612x612&w=0&h=B1h-ycCl5UFoLrlkf0YJ47FPwFnCzUEfc-281NtDKx0=', 'https://media.gettyimages.com/illustrations/medieval-coin-minting-illustration-id1061074352?k=6&m=1061074352&s=612x612&w=0&h=flV7L4Qv2P_oGyAVV8gOzdB4InR83jwW9XlASFjv5Ro=']
+U+94F8
+12
+zhù
+167'.7
+铸.mp3
+
+铹
+['lawrencium (Lr)']
+['lawrencio (Lr)']
+['NONE']
+U+94F9
+12
+láo
+167'.7
+铹.mp3
+
+铺
+['shop, store', ' place sleep, bed']
+['tienda', 'lugar para dormir, cama']
+['https://media.gettyimages.com/vectors/black-friday-icons-line-series-vector-id1061303100?k=6&m=1061303100&s=612x612&w=0&h=ClIhHClYyH-8ijC4BdnUXqTVY1FkDupcvBXnTk66OnE=', 'https://media.gettyimages.com/photos/couple-sleeping-in-a-bed-outdoors-in-the-woods-picture-id77188384?k=6&m=77188384&s=612x612&w=0&h=qoeQCLbcsn_TcbIeTR4J5-IOGXSeihzGB6mbYfzlDz0=']
+U+94FA
+12
+pù
+167'.7
+铺.mp3
+
+铻
+['misfit', ' discordant', ' music instrument', ' hoe']
+['inadaptado', 'discordante', 'instrumento musical', 'cómo']
+['https://media.gettyimages.com/photos/ironman-austria-picture-id129615600?k=6&m=129615600&s=612x612&w=0&h=C25PJ89M3YzRKrxzPfzNuRQoKxm9Q_8Dnx4kY9KdThc=', 'https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=', 'https://media.gettyimages.com/vectors/musical-instrument-icon-set-vector-id1129447885?k=6&m=1129447885&s=612x612&w=0&h=0kSNj0DZTVJZEVS9umJtzLwbuvAlM2FCMot8RtieCqg=', 'https://media.gettyimages.com/photos/smeatons-tower-winter-sunrise-picture-id161480741?k=6&m=161480741&s=612x612&w=0&h=2QpC8KfaEExKm7LTTzjzuiB7kK69J67mctP_OTOQwlQ=']
+U+94FB
+12
+wú
+167'.7
+铻.mp3
+
+铼
+['rhenium']
+['renio']
+['https://media.gettyimages.com/illustrations/icon-of-rhenium-periodic-table-of-elements-with-crystal-system-illustration-id1271710443?k=6&m=1271710443&s=612x612&w=0&h=d8qc1zjnd7ZVNnLVd8dqSdWNLuOjm_l-T1vEOvYisoo=']
+U+94FC
+12
+lái
+167'.7
+铼.mp3
+
+铽
+['terbium']
+['terbio']
+['https://media.gettyimages.com/illustrations/icon-of-terbium-periodic-table-of-elements-with-crystal-system-illustration-id1271710464?k=6&m=1271710464&s=612x612&w=0&h=dKL2hNO4iAkMWhR5QKTJxUkP2SkJGYizEKIeLcmATQs=']
+U+94FD
+12
+tè
+167'.7
+铽.mp3
+
+链
+['chain, wire, cable', ' chain, shack']
+['cadena, alambre, cable', 'cadena, choza']
+['https://media.gettyimages.com/photos/overhead-view-of-five-workstations-picture-id1167637867?k=6&m=1167637867&s=612x612&w=0&h=7UI6mFGjZFzsRw4LLAriiO0vL4W6L_9TLx-3H72xXwc=', 'https://media.gettyimages.com/photos/doghouse-picture-id105781086?k=6&m=105781086&s=612x612&w=0&h=lrKCSm-3a7ZWIDnRSVdDXcD5cKt4rFeUjCnGfVzazts=']
+U+94FE
+12
+liàn
+167'.7
+链.mp3
+
+铿
+['strike, beat, stroke', ' jingling']
+['golpe, golpe, golpe', 'Elfos']
+['https://media.gettyimages.com/photos/clenched-fists-protesting-picture-id157526866?k=6&m=157526866&s=612x612&w=0&h=9ZbaKjq8yN_0EaRscERzbeoTfU_BLrVMkSSd8iww0tQ=', 'https://media.gettyimages.com/photos/canola-fields-at-jiangling-villagewuyuan-county-china-picture-id1057088112?k=6&m=1057088112&s=612x612&w=0&h=moTmyyVHMTDzgiPK8PzHAh6Cg1BvB8DWA5he0ZZG4D8=']
+U+94FF
+12
+kēng
+167'.7
+铿.mp3
+
+销
+['melt, fuse', ' market, sell']
+['derretir, fusionar', 'comercializar, vender']
+['https://media.gettyimages.com/photos/metal-cutting-in-industry-construction-picture-id639246526?k=6&m=639246526&s=612x612&w=0&h=qN3DpSWyjRvO2hEw7SZjtt8fo6Qs5gN4c5krT0ynPwU=', 'https://media.gettyimages.com/photos/organically-grown-produce-without-the-pesticides-picture-id532270528?k=6&m=532270528&s=612x612&w=0&h=zEsTsDDLRBW2vk68yykLttHbNOGPXdHCeiToVTooPgQ=']
+U+9500
+12
+xiāo
+167'.7
+销.mp3
+
+锁
+['lock, padlock', ' shackles, chains']
+['cerradura, candado', 'grilletes, cadenas']
+['https://media.gettyimages.com/vectors/security-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1173888768?k=6&m=1173888768&s=612x612&w=0&h=HJmz6Tko9Yl3v2fXTHq6G5r_mhTjUCSlSmx_GtT9AeA=', 'https://media.gettyimages.com/photos/ball-and-chain-isolated-with-clipping-path-picture-id182718303?k=6&m=182718303&s=612x612&w=0&h=6yadNXuKGNk0pobEhFMJrRwlYIGQTItK5loPfcRIel0=']
+U+9501
+12
+suǒ
+167'.7
+锁.mp3
+
+锂
+['lithium']
+['litio']
+['https://media.gettyimages.com/photos/battery-picture-id168304661?k=6&m=168304661&s=612x612&w=0&h=pPp0CChtW6-QrFN0XV7Mg0EwWuBlPA0usR1rQcixCXc=']
+U+9502
+12
+lǐ
+167'.7
+锂.mp3
+
+锃
+['polish']
+['polaco']
+['https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=']
+U+9503
+12
+zèng
+167'.7
+锃.mp3
+
+锄
+['hoe', ' eradicate']
+['cómo', 'erradicar']
+['https://media.gettyimages.com/photos/smeatons-tower-winter-sunrise-picture-id161480741?k=6&m=161480741&s=612x612&w=0&h=2QpC8KfaEExKm7LTTzjzuiB7kK69J67mctP_OTOQwlQ=', 'https://media.gettyimages.com/vectors/eradicate-hate-racism-prejudice-concept-graphic-billboard-vector-id908310158?k=6&m=908310158&s=612x612&w=0&h=NWs4hDUlESpN9iahvhLoh_6SMhgw0K6dLGobcaxhIuk=']
+U+9504
+12
+chú
+167'.7
+锄.mp3
+
+锅
+['cooking-pot, saucepan']
+['olla, cacerola']
+['https://media.gettyimages.com/photos/stainless-steel-saucepan-picture-id184871616?k=6&m=184871616&s=612x612&w=0&h=8_-AkoFzXRDqyr-vVHw9sY2BTLIOtOnVHUKX30Xx7Go=']
+U+9505
+12
+guō
+167'.7
+锅.mp3
+
+锆
+['zirconium']
+['circonio']
+['https://media.gettyimages.com/photos/gittinsite-is-a-new-calcium-zirconium-silicate-mineral-found-in-picture-id1144565870?k=6&m=1144565870&s=612x612&w=0&h=NMbloxYlmM1anXP-HiWbx1JmR4K6FS9ISyMwgtSnD_E=']
+U+9506
+12
+gào
+167'.7
+锆.mp3
+
+锇
+['osmium']
+['osmio']
+['https://media.gettyimages.com/photos/osmium-crystals-picture-id992591878?k=6&m=992591878&s=612x612&w=0&h=-ZF29DUlgCzGjddg27AdsQLv-NPH-nQqZx9maf1d-b0=']
+U+9507
+12
+é
+167'.7
+锇.mp3
+
+锈
+['rust, corrode']
+['oxidar, corroer']
+['https://media.gettyimages.com/photos/rusty-tin-can-corroded-and-split-picture-id185327519?k=6&m=185327519&s=612x612&w=0&h=6lR_dDQF7nijwOc830MN4b7Y2BMPfxQdcNR3gmfYnTc=']
+U+9508
+12
+xiù
+167'.7
+锈.mp3
+
+锉
+["carpenter's file, file smooth"]
+['lima de carpintero, lima lisa']
+['NONE']
+U+9509
+12
+cuò
+167'.7
+锉.mp3
+
+锊
+['6 oz', ' ancient measurement']
+['6 onzas', 'medida antigua']
+['https://media.gettyimages.com/photos/school-boy-picture-id902391140?k=6&m=902391140&s=612x612&w=0&h=n9nXv51Eut9_vYUyP8qqneUWvMElGUKzSPdQf8Vy9ls=', 'https://media.gettyimages.com/illustrations/architecturalengineering-compass-illustration-id498696944?k=6&m=498696944&s=612x612&w=0&h=fMKWN7K0wl4AkS634R0xh1TBa-PtNgZGl8ysyn2zA0U=']
+U+950A
+12
+lüè
+167'.7
+锊.mp3
+
+锋
+['point of spear, sharp point']
+['punta de lanza, punta afilada']
+['https://media.gettyimages.com/photos/arrow-head-picture-id183306920?k=6&m=183306920&s=612x612&w=0&h=CkkhY6cKFuslYjWuMTbnQVLNubryE8MEYyVgTV78oqI=']
+U+950B
+12
+fēng
+167'.7
+锋.mp3
+
+锌
+['zinc']
+['zinc']
+['https://media.gettyimages.com/photos/plenty-of-pills-picture-id1019244526?k=6&m=1019244526&s=612x612&w=0&h=srQqJ8c40K0WzTmdATWZnL6SD8mGYvRjgeOdeU3tgCY=']
+U+950C
+12
+xīn
+167'.7
+锌.mp3
+
+锍
+['NONE']
+['NINGUNA']
+[]
+U+950D
+12
+liǔ
+167'.7
+锍.mp3
+
+锎
+['caesium']
+['cesio']
+['https://media.gettyimages.com/illustrations/periodic-table-illustration-illustration-id1148107913?k=6&m=1148107913&s=612x612&w=0&h=lDTyYrkPc-imvCDJ1Yz76Z2gHBAvj0BLqn7x8pnXH88=']
+U+950E
+12
+kāi
+167'.7
+锎.mp3
+
+锏
+['kind of rapier']
+['especie de estoque']
+['https://media.gettyimages.com/photos/boy-in-knight-costume-holding-sword-while-playing-with-mother-at-home-picture-id958245364?k=6&m=958245364&s=612x612&w=0&h=gXIagYpsAAkh477DVre5nQPz6EJxCvCDV_dEgndICYs=']
+U+950F
+12
+jiǎn
+167'.7
+锏.mp3
+
+锐
+['sharp, keen, acute, pointed']
+['agudo, agudo, agudo, puntiagudo']
+['https://media.gettyimages.com/photos/a-row-of-droplets-texture-plastic-box-picture-id182664223?k=6&m=182664223&s=612x612&w=0&h=In36jogCPbCd0KKrcxvONJaFG2ChLFTa1wE2JVI4QJw=']
+U+9510
+12
+ruì
+167'.7
+锐.mp3
+
+锑
+['antimony']
+['antimonio']
+['https://media.gettyimages.com/illustrations/minerals-and-their-crystalline-forms-engraving-illustration-id475840728?k=6&m=475840728&s=612x612&w=0&h=twfkJRSDZpMlRkTWlS-JptWr4cNGwwaD2qzQEyHyRYk=']
+U+9511
+12
+tī
+167'.7
+锑.mp3
+
+锒
+['lock']
+['bloquear']
+['https://media.gettyimages.com/vectors/lock-icons-and-symbols-vector-id838965566?k=6&m=838965566&s=612x612&w=0&h=9-aBiCPuQyZZUaotEIE2KZIeKPZ1MAGakZeITPKHxSM=']
+U+9512
+12
+láng
+167'.7
+锒.mp3
+
+锓
+['carve']
+['esculpir']
+['https://media.gettyimages.com/photos/getting-ready-for-halloween-picture-id1017312492?k=6&m=1017312492&s=612x612&w=0&h=PhSrVnKXclFoI51fpLLecHpdc-RRYreDtFDKrOpgQuY=']
+U+9513
+12
+qǐn
+167'.7
+锓.mp3
+
+锔
+['curium']
+['Copérnico']
+['https://media.gettyimages.com/photos/the-temple-of-apollo-ruins-at-the-didyma-turkey-picture-id618254570?k=6&m=618254570&s=612x612&w=0&h=P4xH9uOerQkZi6LIC9vKS5DEaqubW4IlREfpWnsxRws=']
+U+9514
+12
+jū
+167'.7
+锔.mp3
+
+锕
+['actinium (Ac)']
+['actinio (Ac)']
+['NONE']
+U+9515
+12
+ā
+167'.7
+锕.mp3
+
+锖
+['the color of the a mineral']
+['el color del mineral']
+['https://media.gettyimages.com/photos/abstract-marbled-background-blue-marbling-wavy-lines-picture-id1062833050?k=6&m=1062833050&s=612x612&w=0&h=DGIPCvjY4Udjbr7w5nx87KNcExPvxORnRWnH1rEZy-o=']
+U+9516
+13
+qiāng
+167'.8
+锖.mp3
+
+锗
+['germanium']
+['germanio']
+['https://media.gettyimages.com/illustrations/chemical-elements-genius-illustration-illustration-id1161023981?k=6&m=1161023981&s=612x612&w=0&h=F1Q5_KdC3mdRZRfQCe9sXildKEAZcX6kEYpiiX-bx2Y=']
+U+9517
+13
+zhě
+167'.8
+锗.mp3
+
+锘
+['nobelium (No)']
+['nobelio (No)']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=']
+U+9518
+13
+nuò
+167'.8
+锘.mp3
+

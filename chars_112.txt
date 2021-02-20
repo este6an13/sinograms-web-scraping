@@ -1,0 +1,2560 @@
+氙
+['xenon']
+['xenón']
+['https://media.gettyimages.com/photos/car-headlight-close-up-picture-id157644346?k=6&m=157644346&s=612x612&w=0&h=cXzarHYDBmOtrcbJ1cSdSynoEloRG9x72Cyt1u93kzY=']
+U+6C19
+7
+xiān
+84.3
+氙.mp3
+
+氚
+['tritium']
+['tritio']
+['https://media.gettyimages.com/photos/aerial-overview-of-a-grain-truck-and-a-combine-cutter-harvesting-picture-id690733000?k=6&m=690733000&s=612x612&w=0&h=uqQn974hMWpdOrbuS90uYnBDPvhbk5xWkm-RZIa87r0=']
+U+6C1A
+7
+chuān
+84.3
+氚.mp3
+
+氛
+['gas, vapor, air']
+['gas, vapor, aire']
+['https://media.gettyimages.com/photos/wind-blowing-pollution-picture-id1180072881?k=6&m=1180072881&s=612x612&w=0&h=njL64Y4sK8OgqsM5J2BrbNZ418vV9ehYDm3yvHnu38g=']
+U+6C1B
+8
+fēn
+84.4
+氛.mp3
+
+氜
+['clear, bright', ' the sun', ' heat pertaining to this world', ' superior', ' upper', ' front']
+['claro, brillante', 'el sol', 'calor perteneciente a este mundo', 'superior', 'Superior', 'frente']
+['https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=', 'https://media.gettyimages.com/photos/sunny-day-picture-id1135378306?k=6&m=1135378306&s=612x612&w=0&h=vVujNTK3WlHZhHJtCmSUlhhBWs81p76vV3bBKvNH5LU=', 'NONE', 'https://media.gettyimages.com/photos/revolution-fist-raised-picture-id1006071592?k=6&m=1006071592&s=612x612&w=0&h=GGuVxtCAaILgJFEHMf9jIkWJgj7fGAgk0yUCAL6KSFk=', 'https://media.gettyimages.com/photos/the-top-of-an-aluminum-soda-can-with-the-ring-pull-showing-picture-id185207579?k=6&m=185207579&s=612x612&w=0&h=NDJY3VyaB9Ip3liA-b5E6xqFovJJOM55iSzhyL0wWbM=', 'https://media.gettyimages.com/photos/colonial-storefront-with-awnings-picture-id155355090?k=6&m=155355090&s=612x612&w=0&h=XKhmjqQVm1I9XO-fQL99Hz_IfUFkeMxhMbpAAT5ZriY=']
+U+6C1C
+8
+yáng
+84.4
+氜.mp3
+
+氝
+['neon']
+['neón']
+['https://media.gettyimages.com/photos/creative-colorful-fluorescent-display-with-arrow-shape-picture-id1188236503?k=6&m=1188236503&s=612x612&w=0&h=lt4Gsg44Ji8RoA4jOvMNe7aA4U8VzKvlamIwRJiJ8cI=']
+U+6C1D
+8
+nèi
+84.4
+氝.mp3
+
+氞
+['NONE']
+['NINGUNA']
+[]
+U+6C1E
+9
+bin
+84.5
+氞.mp3
+
+氟
+['fluorine']
+['flúor']
+['https://media.gettyimages.com/photos/anticavity-fluoride-rinse-picture-id157593246?k=6&m=157593246&s=612x612&w=0&h=47ovLYt8wyKEvsK9RNnG-hYa9dXM9KhG-gT2LAC26Mc=']
+U+6C1F
+9
+fú
+84.5
+氟.mp3
+
+氠
+['NONE']
+['NINGUNA']
+[]
+U+6C20
+9
+shēn
+84.5
+氠.mp3
+
+氡
+['radon']
+['radón']
+['https://media.gettyimages.com/photos/radon-monitoring-system-in-house-basement-picture-id185239897?k=6&m=185239897&s=612x612&w=0&h=Pe0X-d5PS5B98088JFOhLiWIPcHgWSAEMIbxU6jHrck=']
+U+6C21
+9
+dōng
+84.5
+氡.mp3
+
+氢
+['ammonia', ' hydrogen nitride']
+['amoníaco', 'nitruro de hidrógeno']
+['https://media.gettyimages.com/photos/space-shuttle-atlantis-lifts-off-from-its-launch-pad-at-kennedy-space-picture-id103017866?k=6&m=103017866&s=612x612&w=0&h=qqbyvI3dQ2zE15E_RdvPuiznHJe3a5a7msrjEIpCVCQ=', 'NONE']
+U+6C22
+9
+qīng
+84.5
+氢.mp3
+
+氣
+['air, gas, steam, vapor', ' spirit']
+['aire, gas, vapor, vapor', 'espíritu']
+['https://media.gettyimages.com/photos/dense-white-smoke-rising-from-the-raging-wildfireclose-up-swirling-picture-id961671932?k=6&m=961671932&s=612x612&w=0&h=uScv8XdynS9YbubAwOkyYz6_D02ZWkyTg9hmxwa6hVc=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+6C23
+10
+qì
+84.6
+氣.mp3
+
+氤
+['hanging fog, misty']
+['niebla colgante, brumoso']
+['https://media.gettyimages.com/photos/capilano-suspension-bridge-over-rainforest-vancouver-british-colombia-picture-id976273298?k=6&m=976273298&s=612x612&w=0&h=nuC1xOyKk1J-UYVlzNfcjs9gZ_TK7tVw1YRVIOocT20=']
+U+6C24
+10
+yīn
+84.6
+氤.mp3
+
+氥
+['xenon']
+['xenón']
+['https://media.gettyimages.com/photos/car-headlight-close-up-picture-id157644346?k=6&m=157644346&s=612x612&w=0&h=cXzarHYDBmOtrcbJ1cSdSynoEloRG9x72Cyt1u93kzY=']
+U+6C25
+10
+xī
+84.6
+氥.mp3
+
+氦
+['helium']
+['helio']
+['https://media.gettyimages.com/photos/group-of-colorful-balloons-picture-id171353162?k=6&m=171353162&s=612x612&w=0&h=1ABVJ31SX8mernCwVBb_AmIcO9NDXjCTFb5sefIgbvY=']
+U+6C26
+10
+hài
+84.6
+氦.mp3
+
+氧
+['oxygen']
+['oxígeno']
+['https://media.gettyimages.com/photos/home-healthcare-nurse-helping-elderly-man-with-oxygen-picture-id540492430?k=6&m=540492430&s=612x612&w=0&h=gItU3L1C4GcVyOqoQ7-0X9sU1L006aFBeV9xNzvCixg=']
+U+6C27
+10
+yǎng
+84.6
+氧.mp3
+
+氨
+['ammonia', ' hydrogen nitride']
+['amoníaco', 'nitruro de hidrógeno']
+['https://media.gettyimages.com/photos/space-shuttle-atlantis-lifts-off-from-its-launch-pad-at-kennedy-space-picture-id103017866?k=6&m=103017866&s=612x612&w=0&h=qqbyvI3dQ2zE15E_RdvPuiznHJe3a5a7msrjEIpCVCQ=', 'NONE']
+U+6C28
+10
+ān
+84.6
+氨.mp3
+
+氩
+['argonium']
+['Argón']
+['https://media.gettyimages.com/photos/harmonium-picture-id157477104?k=6&m=157477104&s=612x612&w=0&h=rprXjlqrE8ruDihYmgXv2MzlktMj9tX65XPnVdIYyOo=']
+U+6C29
+10
+yà
+84.6
+氩.mp3
+
+氪
+['krypton']
+['criptón']
+['https://media.gettyimages.com/photos/light-beam-of-ultraviolet-blacklight-illuminating-the-glowing-urine-picture-id945678158?k=6&m=945678158&s=612x612&w=0&h=kxfAdEVZG2kkXbqnQBOoxqsrIol7uWRwbuYTL81cSzg=']
+U+6C2A
+11
+kè
+84.7
+氪.mp3
+
+氫
+['hydrogen']
+['hidrógeno']
+['https://media.gettyimages.com/photos/fuel-cell-car-picture-id157311554?k=6&m=157311554&s=612x612&w=0&h=iE5cUjb-_jHM96jluTvTx-EDnaxkVEJ294r1ZsSaNvo=']
+U+6C2B
+11
+qīng
+84.7
+氫.mp3
+
+氬
+['argonium']
+['Argón']
+['https://media.gettyimages.com/photos/harmonium-picture-id157477104?k=6&m=157477104&s=612x612&w=0&h=rprXjlqrE8ruDihYmgXv2MzlktMj9tX65XPnVdIYyOo=']
+U+6C2C
+12
+yà
+84.8
+氬.mp3
+
+氭
+['NONE']
+['NINGUNA']
+[]
+U+6C2D
+12
+dōng
+84.8
+氭.mp3
+
+氮
+['nitrogen']
+['nitrógeno']
+['https://media.gettyimages.com/photos/sample-of-sperm-frozen-tank-picture-id638504688?k=6&m=638504688&s=612x612&w=0&h=8TvXWp3YPvUt-Bsgu5GAxQZ3_r_Hq98vjKJo_ZoAdoI=']
+U+6C2E
+12
+dàn
+84.8
+氮.mp3
+
+氯
+['chlorine']
+['cloro']
+['https://media.gettyimages.com/photos/pool-test-kit-picture-id185009237?k=6&m=185009237&s=612x612&w=0&h=NXlwdnzyypnrfeByPwm3ghvhHpzD5gb5LWJIDPJI8mo=']
+U+6C2F
+12
+lǜ
+84.8
+氯.mp3
+
+氰
+['cyanogen', ' ethane dinitrile']
+['cianogeno', 'dinitrilo de etano']
+['https://media.gettyimages.com/photos/cyanogen-lake-biei-hokkaido-picture-id157067378?k=6&m=157067378&s=612x612&w=0&h=FJMsiX0smHbnLJQZZ73kh4a9UYdMDy1VfStRIZ0XXv0=', 'NONE']
+U+6C30
+12
+qíng
+84.8
+氰.mp3
+
+氱
+['NONE']
+['NINGUNA']
+[]
+U+6C31
+13
+yǎng
+84.9
+氱.mp3
+
+氲
+['life giving influences of nature', ' spirit of harmony', ' prosperity']
+['influencias de la naturaleza que dan vida', 'espíritu de armonía', 'prosperidad']
+['https://media.gettyimages.com/photos/grasp-the-stones-picture-id184650752?k=6&m=184650752&s=612x612&w=0&h=WY86_X_AHmsoAdbifcOpymllr8krfWdi2x5NbLnR4Ok=', 'https://media.gettyimages.com/photos/close-up-of-meditation-in-park-at-sunrise-picture-id1039533792?k=6&m=1039533792&s=612x612&w=0&h=U0RfxlJlbOmLxxxjEvaFkM8iinZultagrxfIqeRLSvc=', 'https://media.gettyimages.com/photos/woman-with-coins-in-hand-with-purse-picture-id1044967460?k=6&m=1044967460&s=612x612&w=0&h=JntBTAoOg_d9mnVzJDpp1lHzQTPHHBzTiOMc__FCNIc=']
+U+6C32
+13
+yūn
+84.10
+氲.mp3
+
+氳
+['life giving influences of nature', ' spirit of harmony', ' prosperity']
+['influencias de la naturaleza que dan vida', 'espíritu de armonía', 'prosperidad']
+['https://media.gettyimages.com/photos/grasp-the-stones-picture-id184650752?k=6&m=184650752&s=612x612&w=0&h=WY86_X_AHmsoAdbifcOpymllr8krfWdi2x5NbLnR4Ok=', 'https://media.gettyimages.com/photos/close-up-of-meditation-in-park-at-sunrise-picture-id1039533792?k=6&m=1039533792&s=612x612&w=0&h=U0RfxlJlbOmLxxxjEvaFkM8iinZultagrxfIqeRLSvc=', 'https://media.gettyimages.com/photos/woman-with-coins-in-hand-with-purse-picture-id1044967460?k=6&m=1044967460&s=612x612&w=0&h=JntBTAoOg_d9mnVzJDpp1lHzQTPHHBzTiOMc__FCNIc=']
+U+6C33
+14
+yūn
+84.10
+氳.mp3
+
+水
+['water, liquid, lotion, juice']
+['agua, líquido, loción, jugo']
+['https://media.gettyimages.com/photos/aloe-vera-fresh-slize-picture-id1143115134?k=6&m=1143115134&s=612x612&w=0&h=Oh7NUi9OUaiSoh4b8RDWFsIBZ-6Tsta0YY2AJlbx7EY=']
+U+6C34
+4
+shuǐ
+85.0
+水.mp3
+
+氵
+['water', ' radical number 85']
+['agua', 'número radical 85']
+['https://media.gettyimages.com/photos/underwater-bubbles-picture-id925440650?k=6&m=925440650&s=612x612&w=0&h=-j6bA6aMSp70YPgeyUFWrMEs6uOM8o9buBqIU-g95OY=', 'NONE']
+U+6C35
+3
+shui
+85.0
+氵.mp3
+
+氶
+['name of a river in Shandong']
+['nombre de un río en Shandong']
+['NONE']
+U+6C36
+5
+zhěng
+85.1
+氶.mp3
+
+氷
+['ice, frost, icicles', ' cold']
+['hielo, escarcha, carámbanos', 'frío']
+['https://media.gettyimages.com/photos/blue-ice-framing-blank-pale-blue-background-picture-id94344269?k=6&m=94344269&s=612x612&w=0&h=z3tZMINhTQlk8HNGUB4dSp7CM9-8aVn3AInFtxDThwM=', 'https://media.gettyimages.com/photos/sick-woman-blowing-her-nose-she-covered-with-blanket-picture-id1135175362?k=6&m=1135175362&s=612x612&w=0&h=Nke1Q193RMRqF2sma8hUym_Ou662E891V8vFu17PAoc=']
+U+6C37
+5
+bīng
+85.1
+氷.mp3
+
+永
+['long, perpetual, eternal, forever']
+['largo, perpetuo, eterno, para siempre']
+['https://media.gettyimages.com/photos/the-road-picture-id155387711?k=6&m=155387711&s=612x612&w=0&h=ccrHV_D5QJMRF6FvBonsWFtRsuG_gWfXYHsdC_qfyfs=']
+U+6C38
+5
+yǒng
+85.1
+永.mp3
+
+氹
+['ditch', ' pool']
+['abandone', 'piscina']
+['https://media.gettyimages.com/photos/winter-snow-accident-car-in-a-ditch-picture-id462714801?k=6&m=462714801&s=612x612&w=0&h=RwniMEH-pDS7dwVhmYymlSvjZiLCPWfc3EGhsble-K0=', 'https://media.gettyimages.com/photos/kids-playing-underwater-in-pool-picture-id1154945979?k=6&m=1154945979&s=612x612&w=0&h=vAvwOsSsZgcN9cdkbLdtqKQj3dsKN1QZXWPWQP95Z54=']
+U+6C39
+5
+dàng
+85.1
+氹.mp3
+
+氺
+['NONE']
+['NINGUNA']
+[]
+U+6C3A
+5
+shuǐ
+85.0
+氺.mp3
+
+氻
+['NONE']
+['NINGUNA']
+[]
+U+6C3B
+5
+lè
+85.2
+氻.mp3
+
+氼
+['to sink', ' to drown to be given over to']
+['hundir', 'ahogarse para ser entregado a']
+['https://media.gettyimages.com/photos/close-up-of-modern-kitchen-faucet-and-sink-picture-id91156679?k=6&m=91156679&s=612x612&w=0&h=8sx746QfFfzCe6ukHT0w3GmAAyYze5uKAgz-Iil1umo=', 'NONE']
+U+6C3C
+6
+nì
+85.2
+氼.mp3
+
+氽
+['to float', ' to deep fry', ' (Cant.) to turn inside-out']
+['flotar', 'freír', '(Cant.) Dar la vuelta']
+['https://media.gettyimages.com/photos/beach-ball-clipping-path-picture-id185279612?k=6&m=185279612&s=612x612&w=0&h=oKcRsVdPkVdrFYRgyBIg6no-rJX5Rrzz6X7C7x43dIA=', 'https://media.gettyimages.com/photos/basket-of-chicken-nuggets-with-sweet-and-sour-sauce-picture-id618209540?k=6&m=618209540&s=612x612&w=0&h=a8iI4vqC-yIk0NPTsbCrPDeiySOf1tqLkUiCLZDj7lg=', 'NONE']
+U+6C3D
+6
+tǔn
+11.4 85.2
+氽.mp3
+
+氾
+['overflow, flood, inundate']
+['desbordarse, inundarse, inundar']
+['NONE']
+U+6C3E
+5
+fàn
+85.2
+氾.mp3
+
+氿
+['spring']
+['primavera']
+['https://media.gettyimages.com/photos/spring-meadow-picture-id1126841725?k=6&m=1126841725&s=612x612&w=0&h=hHbb9srZVqydRFw3adjxVAHJsgxNkm03nlNH0OQIpFE=']
+U+6C3F
+5
+guǐ
+85.2
+氿.mp3
+
+汀
+['sandbar, beach, bank, shore']
+['banco de arena, playa, banco, orilla']
+['https://media.gettyimages.com/photos/wave-on-the-beach-at-low-tide-picture-id845977694?k=6&m=845977694&s=612x612&w=0&h=JyQM2WKhCXvm-YKzeyr4k7cW-DyFkhttFicwoz3E9KI=']
+U+6C40
+5
+tīng
+85.2
+汀.mp3
+
+汁
+['juice, liquor, fluid, sap, gravy, sauce']
+['jugo, licor, líquido, savia, salsa, salsa']
+['NONE']
+U+6C41
+5
+zhī
+85.2
+汁.mp3
+
+求
+['seek', ' demand, request', ' beseech']
+['buscar', 'demanda, solicitud', 'implorar']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=', 'https://media.gettyimages.com/photos/businesswoman-shopping-on-the-internet-picture-id527193254?k=6&m=527193254&s=612x612&w=0&h=Tgh7HG9vVKbPiv38O2jbCBa6Hs9DO_p-RCXwyn0SL_A=', 'https://media.gettyimages.com/photos/washington-dc-usa-picture-id136803465?k=6&m=136803465&s=612x612&w=0&h=3KF_V45YA1vT1yBSz3DlJ4d1b6_dV6OEzWaKew0V3L4=']
+U+6C42
+7
+qiú
+85.2
+求.mp3
+
+汃
+['NONE']
+['NINGUNA']
+[]
+U+6C43
+5
+bīn
+85.2
+汃.mp3
+
+汄
+['NONE']
+['NINGUNA']
+[]
+U+6C44
+5
+zè
+85.2
+汄.mp3
+
+汅
+['NONE']
+['NINGUNA']
+[]
+U+6C45
+5
+miǎn
+85.2
+汅.mp3
+
+汆
+['to parboil', ' hot water kettle', ' to boil']
+['sancochar', 'hervidor de agua caliente', 'el bul']
+['https://media.gettyimages.com/photos/parboiled-conger-pike-picture-id498161557?k=6&m=498161557&s=612x612&w=0&h=VoErGrIi3W3FgDxGXiJVABPwuMbfmMVNHok05jtVDzI=', 'https://media.gettyimages.com/photos/arm-of-man-pouring-boiling-water-into-bowl-in-kitchen-picture-id723509867?k=6&m=723509867&s=612x612&w=0&h=B87OUXz4yeNWdOl64GNTEmNW3KC7jHNkKFY0hNPZYl8=', 'https://media.gettyimages.com/photos/water-boiling-on-a-gas-stove-stainless-pot-picture-id155146092?k=6&m=155146092&s=612x612&w=0&h=2Rv-w9nxjo4450lsXOeY9RqyazhvI015AwWGlUv6_ls=']
+U+6C46
+6
+cuān
+85.2
+汆.mp3
+
+汇
+['concourse', ' flow together, gather']
+['concurso', 'fluir juntos, reunir']
+['https://media.gettyimages.com/photos/concourse-at-airport-terminal-picture-id89370500?k=6&m=89370500&s=612x612&w=0&h=chTej0HW0xmpmlyS9xDlzvPHEsmlGN8EVX9VDhSV-tw=', 'https://media.gettyimages.com/photos/gather-your-friends-and-let-the-good-times-flow-picture-id1199879368?k=6&m=1199879368&s=612x612&w=0&h=bOmlXNC-HQI967CiOAgbvxlNdZxA4s_pD2z8yFkQJvY=']
+U+6C47
+5
+huì
+85.2
+汇.mp3
+
+汈
+['NONE']
+['NINGUNA']
+[]
+U+6C48
+5
+diāo
+85.2
+汈.mp3
+
+汉
+['Chinese people', ' Chinese language']
+['gente china', 'idioma chino']
+['https://media.gettyimages.com/photos/two-asian-tourists-with-suitcases-spending-happy-time-in-cafe-picture-id1056372640?k=6&m=1056372640&s=612x612&w=0&h=wXjlxZk81qWUZVVEughlXRFEw2kUmar4v-myrlyhwcA=', 'https://media.gettyimages.com/photos/chinese-senior-man-writing-chinese-calligraphy-characters-on-paper-picture-id1015284600?k=6&m=1015284600&s=612x612&w=0&h=1OAnbfT8cGGKVkpRuX131warfJ6sKGchirMJ1dHJURA=']
+U+6C49
+5
+hàn
+85.2
+汉.mp3
+
+汊
+['a branching stream']
+['una corriente ramificada']
+['NONE']
+U+6C4A
+6
+chà
+85.3
+汊.mp3
+
+汋
+['to pour']
+['a para']
+['https://media.gettyimages.com/photos/red-wine-picture-id507143336?k=6&m=507143336&s=612x612&w=0&h=CMmD87iTf_zlrGwkejxGYIyhrTasNpq6bW2Fzm26zTc=']
+U+6C4B
+6
+zhuó
+85.3
+汋.mp3
+
+汌
+['NONE']
+['NINGUNA']
+[]
+U+6C4C
+6
+chuàn
+85.3
+汌.mp3
+
+汍
+['weep']
+['llorar']
+['https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=']
+U+6C4D
+6
+wán
+85.3
+汍.mp3
+
+汎
+['float, drift', ' afloat', ' careless']
+['flotar, a la deriva', 'a flote', 'descuidado']
+['https://media.gettyimages.com/photos/karnali-district-nepal-picture-id594378927?k=6&m=594378927&s=612x612&w=0&h=LwlKb0-fRTiQEhfNCGfHF9fxj5TYZvFkjvMbO7Ovhpc=', 'https://media.gettyimages.com/photos/woman-floating-in-sea-smiling-profile-picture-id75904415?k=6&m=75904415&s=612x612&w=0&h=5RmP-f2ps_0obhYmSeWx8JewmIDttDj7QUWjwe21nrc=', 'https://media.gettyimages.com/photos/disaster-picture-id117144601?k=6&m=117144601&s=612x612&w=0&h=UDkaEaYWZZXg7lB9d1p5i68LJ07kJIuhe1WV9OBdUPU=']
+U+6C4E
+6
+fàn
+85.3
+汎.mp3
+
+汏
+['NONE']
+['NINGUNA']
+[]
+U+6C4F
+6
+dà
+85.3
+汏.mp3
+
+汐
+['night tides, evening ebb tide']
+['mareas nocturnas, reflujo vespertino']
+['https://media.gettyimages.com/photos/into-the-night-picture-id157380799?k=6&m=157380799&s=612x612&w=0&h=BloF_BzPq_j1yJ_KIsuqyZ-Wnca9PjhrbTzi85jm7xE=']
+U+6C50
+6
+xī
+85.3
+汐.mp3
+
+汑
+['NONE']
+['NINGUNA']
+[]
+U+6C51
+6
+tuō
+85.3
+汑.mp3
+
+汒
+['NONE']
+['NINGUNA']
+[]
+U+6C52
+6
+máng
+85.3
+汒.mp3
+
+汓
+['NONE']
+['NINGUNA']
+[]
+U+6C53
+6
+qiú
+85.3
+汓.mp3
+
+汔
+['NONE']
+['NINGUNA']
+[]
+U+6C54
+6
+qì
+85.3
+汔.mp3
+
+汕
+['basket for catching fish', ' bamboo', ' Swatow (Shantou)']
+['canasta para pescar', 'bambú', 'Swatow (Shantou)']
+['https://media.gettyimages.com/photos/old-vietnamese-male-craftsman-standing-with-bicycle-which-making-the-picture-id859515308?k=6&m=859515308&s=612x612&w=0&h=puZwKiQgKbxD_edq3sQdIeM43ZqK74btWmOrpbAc_1g=', 'https://media.gettyimages.com/photos/high-resolution-lightcolored-bamboo-background-picture-id175427437?k=6&m=175427437&s=612x612&w=0&h=yI-6ELH0QGql4y13EQEVj78XlB18aB9e3qmgEsUV4Oo=', 'NONE']
+U+6C55
+6
+shàn
+85.3
+汕.mp3
+
+汖
+['NONE']
+['NINGUNA']
+[]
+U+6C56
+7
+pìn
+85.3
+汖.mp3
+
+汗
+['perspiration, sweat']
+['transpiración, sudor']
+['https://media.gettyimages.com/photos/lowkey-eye-picture-id108198784?k=6&m=108198784&s=612x612&w=0&h=dgsJTEKAWlc1B3r9iNHAsjh0UrunJ0Htha010Dt_tp4=']
+U+6C57
+6
+hàn
+85.3
+汗.mp3
+
+汘
+['NONE']
+['NINGUNA']
+[]
+U+6C58
+6
+qiān
+85.3
+汘.mp3
+
+汙
+['filthy, dirty, impure, polluted']
+['sucio, sucio, impuro, contaminado']
+['https://media.gettyimages.com/photos/dirty-and-clean-water-in-glasses-picture-id182760555?k=6&m=182760555&s=612x612&w=0&h=brGzUV8H299skOQg89KG5tcdAzrJrcUc1o8Y1ktuquc=']
+U+6C59
+6
+wū
+85.3
+汙.mp3
+
+汚
+['filthy, dirty, impure, polluted']
+['sucio, sucio, impuro, contaminado']
+['https://media.gettyimages.com/photos/dirty-and-clean-water-in-glasses-picture-id182760555?k=6&m=182760555&s=612x612&w=0&h=brGzUV8H299skOQg89KG5tcdAzrJrcUc1o8Y1ktuquc=']
+U+6C5A
+6
+wū
+85.3
+汚.mp3
+
+汛
+['high water, flood tides']
+['pleamar, mareas de inundación']
+['https://media.gettyimages.com/photos/high-water-marks-on-kings-lynn-minster-picture-id170179164?k=6&m=170179164&s=612x612&w=0&h=NiK9e0txE8W7Mz6YkGzrgFt9e_c3pytsHr4rlYXp5M0=']
+U+6C5B
+6
+xùn
+85.3
+汛.mp3
+
+汜
+['a stream which leaves the main branch then later returns']
+['una corriente que sale de la rama principal y luego regresa']
+['NONE']
+U+6C5C
+6
+sì
+85.3
+汜.mp3
+
+汝
+['you']
+['tú']
+['https://media.gettyimages.com/photos/you-learn-through-asking-picture-id1160947475?k=6&m=1160947475&s=612x612&w=0&h=VHbxOieJK5HGsnUfTUvadGeDVjlBO3_l2QX6iGtEGuI=']
+U+6C5D
+6
+rǔ
+85.3
+汝.mp3
+
+汞
+['element mercury']
+['elemento mercurio']
+['https://media.gettyimages.com/photos/thermometer-heat-picture-id182429871?k=6&m=182429871&s=612x612&w=0&h=XeJSGOvCOfu8Y5uyzOpGZdbKk8W1EpyEjwsEawX_rEc=']
+U+6C5E
+7
+gǒng
+85.3
+汞.mp3
+
+江
+['large river', ' yangzi', ' surname']
+['gran río', 'Parece', 'apellido']
+['https://media.gettyimages.com/photos/downtown-manhattan-new-york-jersey-city-golden-hour-sunset-picture-id910867946?k=6&m=910867946&s=612x612&w=0&h=Q-65876H4ctJvNrZs9hDfYpWKbZowbVGYjoVC1m0YZg=', 'https://media.gettyimages.com/photos/china-guangxi-yangshuo-fisherman-casting-net-from-bamboo-raft-dawn-picture-id200157985-001?k=6&m=200157985-001&s=612x612&w=0&h=Q1ckUMJdtnUUoSwx1XPgM_fDFeCgADMCpbkafSH0WcY=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6C5F
+6
+jiāng
+85.3
+江.mp3
+
+池
+['pool, pond', ' moat', ' cistern']
+['piscina, estanque', 'foso', 'cisterna']
+['https://media.gettyimages.com/photos/water-surface-picture-id185104679?k=6&m=185104679&s=612x612&w=0&h=Gn942iYSvNkryHfk29Tl0SgLwxuXJVbzvR9Zfxpog-0=', 'https://media.gettyimages.com/photos/castle-muiderslot-picture-id157605812?k=6&m=157605812&s=612x612&w=0&h=eCrSZ1pUQnuZQf32ej5XnhbkxU0af47g2iMK4akQ0PY=', 'https://media.gettyimages.com/photos/cistern-square-panorama-in-san-gimignano-italy-picture-id1182734645?k=6&m=1182734645&s=612x612&w=0&h=vhMSdwxndUNGd1hlmy3ZjI_H0h5rn80ypJpUA6r94sw=']
+U+6C60
+6
+chí
+85.3
+池.mp3
+
+污
+['filthy, dirty, impure, polluted']
+['sucio, sucio, impuro, contaminado']
+['https://media.gettyimages.com/photos/dirty-and-clean-water-in-glasses-picture-id182760555?k=6&m=182760555&s=612x612&w=0&h=brGzUV8H299skOQg89KG5tcdAzrJrcUc1o8Y1ktuquc=']
+U+6C61
+6
+wū
+85.3
+污.mp3
+
+汢
+['NONE']
+['NINGUNA']
+[]
+U+6C62
+6
+tu
+85.3
+汢.mp3
+
+汣
+['NONE']
+['NINGUNA']
+[]
+U+6C63
+6
+jiǔ
+85.3
+汣.mp3
+
+汤
+['hot water', ' soup, gravy, broth']
+['agua caliente', 'sopa, salsa, caldo']
+['https://media.gettyimages.com/photos/explosion-by-an-impact-of-a-cloud-of-particles-of-powder-of-color-on-picture-id1044318740?k=6&m=1044318740&s=612x612&w=0&h=O4fbncd-oMaE0KeoJT1CnkEREDkJKXgL8kuzGbwfUyc=', 'https://media.gettyimages.com/photos/broth-being-ladled-from-saucepan-picture-id936161838?k=6&m=936161838&s=612x612&w=0&h=LQOy3Uxqjyx5PxoHfJd8GKK8LRn--m3b6aGRJL9q9j0=']
+U+6C64
+6
+tāng
+85.3
+汤.mp3
+
+汥
+['NONE']
+['NINGUNA']
+[]
+U+6C65
+7
+zhī
+85.4
+汥.mp3
+
+汦
+['NONE']
+['NINGUNA']
+[]
+U+6C66
+7
+zhǐ
+85.4
+汦.mp3
+
+汧
+['name of a river in Shangdong', ' marsh', ' float']
+['nombre de un río en Shandong', 'pantano', 'flotador']
+['NONE', 'https://media.gettyimages.com/photos/salt-marsh-at-full-tide-picture-id168301793?k=6&m=168301793&s=612x612&w=0&h=JwJDF1iv0eioQZJI0pYMc_6y_nhWeQDXZoZW_iCHTIs=', 'https://media.gettyimages.com/photos/beach-ball-clipping-path-picture-id185279612?k=6&m=185279612&s=612x612&w=0&h=oKcRsVdPkVdrFYRgyBIg6no-rJX5Rrzz6X7C7x43dIA=']
+U+6C67
+7
+qiān
+85.4
+汧.mp3
+
+汨
+['Mi(luo) river in Hunan province where Qu Yuan drowned himself', ' to sink', ' used (erroneously) for ']
+['Río Mi (luo) en la provincia de Hunan donde Qu Yuan se ahogó', 'hundir', 'utilizado (erróneamente) para']
+['NONE', 'https://media.gettyimages.com/photos/close-up-of-modern-kitchen-faucet-and-sink-picture-id91156679?k=6&m=91156679&s=612x612&w=0&h=8sx746QfFfzCe6ukHT0w3GmAAyYze5uKAgz-Iil1umo=', 'NONE']
+U+6C68
+7
+mì
+85.4
+汨.mp3
+
+汩
+['run swiftly']
+['corre rápido']
+['https://media.gettyimages.com/photos/athlete-running-picture-id636887598?k=6&m=636887598&s=612x612&w=0&h=40MkJYaC-wX6SmNEHgidDYbWZPFLEP03ALfeRSp4OSc=']
+U+6C69
+7
+gǔ
+85.4
+汩.mp3
+
+汪
+['vast, extensive, deep', ' surname']
+['vasto, extenso, profundo', 'apellido']
+['https://media.gettyimages.com/photos/deep-blue-ocean-panorama-picture-id184330929?k=6&m=184330929&s=612x612&w=0&h=kIkkguHYbU7XXV98DlQzthCzhURv9ZaA7ObtoxZ9VwE=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6C6A
+7
+wāng
+85.4
+汪.mp3
+
+汫
+['a pit, trap', ' the appearance of a small, meandering stream']
+['a pit, trap', 'la aparición de un pequeño arroyo serpenteante']
+['https://media.gettyimages.com/photos/falling-in-a-hole-picture-id157685894?k=6&m=157685894&s=612x612&w=0&h=SA_BKfHL9gp9bj1LC9h_ZbCnt6Wu9INezdaFsnz_k0w=', 'NONE']
+U+6C6B
+7
+jǐng
+85.4
+汫.mp3
+
+汬
+['NONE']
+['NINGUNA']
+[]
+U+6C6C
+8
+jǐng
+85.4
+汬.mp3
+
+汭
+['confluence of two streams', ' bend']
+['confluencia de dos corrientes', 'curva']
+['https://media.gettyimages.com/photos/two-streams-confluence-picture-id1188962599?k=6&m=1188962599&s=612x612&w=0&h=6n5dhfyFQfZNvMTP_Q_y3GvjrahG52Qw9oqh6zZTceE=', 'https://media.gettyimages.com/photos/mt-bachelor-reflecting-in-todd-lake-bend-oregon-picture-id966576324?k=6&m=966576324&s=612x612&w=0&h=T4TaFAR711qux_WS5OFaARBs8DBetvk-ibzicHW--cc=']
+U+6C6D
+7
+ruì
+85.4
+汭.mp3
+
+汮
+['NONE']
+['NINGUNA']
+[]
+U+6C6E
+7
+jūn
+85.4
+汮.mp3
+
+汯
+['NONE']
+['NINGUNA']
+[]
+U+6C6F
+7
+hóng
+85.4
+汯.mp3
+
+汰
+['excessive', ' scour, wash out']
+['excesivo', 'fregar, lavar']
+['https://media.gettyimages.com/photos/can-i-get-a-moment-to-breathe-picture-id654187068?k=6&m=654187068&s=612x612&w=0&h=atcg1DFapQuyx1bd1_2Sw4YDfjKx3bYn6zA0cdukyAQ=', 'https://media.gettyimages.com/photos/cleaning-supplies-picture-id165835412?k=6&m=165835412&s=612x612&w=0&h=M1KDruolViq3uuw6cqHKtk4YZqYbcgS_mJa3Zza0aGI=']
+U+6C70
+7
+tài
+85.4
+汰.mp3
+
+汱
+['NONE']
+['NINGUNA']
+[]
+U+6C71
+7
+quǎn
+85.4
+汱.mp3
+
+汲
+['draw water from well', ' imbibe']
+['sacar agua del pozo', 'beber']
+['https://media.gettyimages.com/photos/indian-young-girl-drawing-water-from-a-well-rajasthan-picture-id961607436?k=6&m=961607436&s=612x612&w=0&h=ILD7JaTvXoEXf6oLmgIcnu9aHdMccenKe2yFU2fyC2E=', 'https://media.gettyimages.com/photos/high-resolution-toweling-fabric-turquoise-seamless-texture-tile-picture-id170618148?k=6&m=170618148&s=612x612&w=0&h=3pckZcQr7RiNfMKsTtMMOBlxkj3FgoVnzB0DH0G2SV8=']
+U+6C72
+6
+jí
+85.4
+汲.mp3
+
+汳
+['NONE']
+['NINGUNA']
+[]
+U+6C73
+7
+biàn
+85.4
+汳.mp3
+
+汴
+['name of a river in Henan', ' Henan']
+['nombre de un río en Henan', 'Henan']
+['NONE', 'https://media.gettyimages.com/photos/china-countryside-children-in-class-room-picture-id137136904?k=6&m=137136904&s=612x612&w=0&h=yP0Fem3-jJL40vYAQMWiBFhWBn8sbIuUZRIrxUef2y8=']
+U+6C74
+7
+biàn
+85.4
+汴.mp3
+
+汵
+['NONE']
+['NINGUNA']
+[]
+U+6C75
+7
+gàn
+85.4
+汵.mp3
+
+汶
+['a river in Shandong province']
+['un río en la provincia de Shandong']
+['https://media.gettyimages.com/photos/long-exposure-in-qingdao-picture-id165103822?k=6&m=165103822&s=612x612&w=0&h=W21TNllpv-6orkerccQTVtO-6hNLQKhT7vOzznKfG3w=']
+U+6C76
+7
+wèn
+85.4
+汶.mp3
+
+汷
+['NONE']
+['NINGUNA']
+[]
+U+6C77
+6
+zhōng
+85.4
+汷.mp3
+
+汸
+['NONE']
+['NINGUNA']
+[]
+U+6C78
+7
+fāng
+85.4
+汸.mp3
+
+汹
+['turbulent', ' noisy, restless']
+['turbulento', 'ruidoso, inquieto']
+['https://media.gettyimages.com/photos/close-up-beer-foam-picture-id1269286688?k=6&m=1269286688&s=612x612&w=0&h=Sdur8GM_dTPL_v7fbDSYCluDyHTa-WcKB1_cj6reJ64=', 'https://media.gettyimages.com/photos/frustrated-hispanic-woman-gripping-pillow-in-bed-picture-id482143791?k=6&m=482143791&s=612x612&w=0&h=K4Fp_cAyiJCdvG2DvnVrRvq_6cWHD9r4Rc0M52lAL1o=']
+U+6C79
+7
+xiōng
+85.4
+汹.mp3
+
+決
+['decide, determine, judge']
+['decidir, determinar, juzgar']
+['https://media.gettyimages.com/photos/tennis-player-concentrates-on-volley-picture-id148202005?k=6&m=148202005&s=612x612&w=0&h=Gyvf_LcTwSq_XQCXbWl9GUaOSvEJw1o2hID2J7TXhzM=']
+U+6C7A
+7
+jué
+85.4
+決.mp3
+
+汻
+['NONE']
+['NINGUNA']
+[]
+U+6C7B
+7
+hǔ
+85.4
+汻.mp3
+
+汼
+['NONE']
+['NINGUNA']
+[]
+U+6C7C
+7
+niú
+85.4
+汼.mp3
+
+汽
+['steam, vapor, gas']
+['vapor, vapor, gas']
+['https://media.gettyimages.com/photos/smoke-caused-by-explosions-picture-id1187503245?k=6&m=1187503245&s=612x612&w=0&h=E0xkQixnp0-1Mb3CCeQ4L1FZbGRejUh_YXhHQPeS1hM=']
+U+6C7D
+7
+qì
+85.4
+汽.mp3
+
+汾
+['river in Shanxi province']
+['río en la provincia de Shanxi']
+['https://media.gettyimages.com/photos/natural-scenery-of-baoji-city-shanxi-province-china-picture-id830992264?k=6&m=830992264&s=612x612&w=0&h=nhbq-3OLSCAK6BGeA5ZSy0ee1cfFpYDejWmeB0ivA_8=']
+U+6C7E
+7
+fén
+85.4
+汾.mp3
+
+汿
+['NONE']
+['NINGUNA']
+[]
+U+6C7F
+7
+xù
+85.4
+汿.mp3
+
+沀
+['NONE']
+['NINGUNA']
+[]
+U+6C80
+8
+xù
+85.4
+沀.mp3
+
+沁
+['soak into, seep in, percolate']
+['empaparse, filtrarse, filtrarse']
+['NONE']
+U+6C81
+7
+qìn
+85.4
+沁.mp3
+
+沂
+['river in southeast Shandong']
+['río en el sureste de Shandong']
+['NONE']
+U+6C82
+7
+yí
+85.4
+沂.mp3
+
+沃
+['water, irrigate', ' fertile, rich']
+['regar, regar', 'fértil, rico']
+['https://media.gettyimages.com/photos/agriculture-crop-irrigation-picture-id108310732?k=6&m=108310732&s=612x612&w=0&h=x5Iad0zZU3oH-B-AC2UkdX9biPoFHnvlfgeX5r4Sqbo=', 'https://media.gettyimages.com/photos/garden-view-of-parents-with-their-young-son-looking-outside-of-their-picture-id900233338?k=6&m=900233338&s=612x612&w=0&h=LidCQVq2pT3vu5Rsdb8tobTAXznHyo59qedm--bk9Pw=']
+U+6C83
+7
+wò
+85.4
+沃.mp3
+
+沄
+['billows']
+['olas']
+['https://media.gettyimages.com/photos/smoke-billowing-from-farmland-fire-picture-id620920909?k=6&m=620920909&s=612x612&w=0&h=ztgW-E7EiRO_h8dpXVCIHg8KFjMRol2E9-jRCkiM5gk=']
+U+6C84
+7
+yún
+85.4
+沄.mp3
+
+沅
+['name of a river in western Hunan that flows into Dongting lake']
+['nombre de un río en el oeste de Hunan que desemboca en el lago Dongting']
+['NONE']
+U+6C85
+7
+yuán
+85.4
+沅.mp3
+
+沆
+['a ferry', ' fog', ' flowing']
+['un ferry', 'niebla', 'fluido']
+['https://media.gettyimages.com/photos/seattle-ferry-travel-picture-id157313864?k=6&m=157313864&s=612x612&w=0&h=JjkYIuUVU9CvMNroRjBeKpRIKPlCyHolvhSfbsieyTY=', 'https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=']
+U+6C86
+7
+hàng
+85.4
+沆.mp3
+
+沇
+['flowing and engulfing', ' brimming']
+['fluyendo y envolvente', 'rebosante']
+['https://media.gettyimages.com/photos/closeup-of-conch-shell-with-wave-engulfing-it-picture-id124232904?k=6&m=124232904&s=612x612&w=0&h=7n3fI9nwmNWWo_aQryYHqk90-7p1NtglyPnUA6bOHOU=', 'https://media.gettyimages.com/photos/groceries-shopping-picture-id1069220964?k=6&m=1069220964&s=612x612&w=0&h=7KgkJ6wh0E_n9v2j7JWTtThUiL_ZVLF6P8UV_X2L-MI=']
+U+6C87
+7
+yǎn
+85.4
+沇.mp3
+
+沈
+['sink, submerge', ' addicted to', ' surname']
+['hundirse, sumergir', 'adicto a', 'apellido']
+['https://media.gettyimages.com/photos/lemon-splashing-in-water-picture-id97971235?k=6&m=97971235&s=612x612&w=0&h=ueMGY9CSptTaxVtV2h3gcWFNky0ZVKaWV4BvipV5Wx0=', 'https://media.gettyimages.com/photos/bad-bedroom-etiquette-picture-id892227446?k=6&m=892227446&s=612x612&w=0&h=9ZqFbmOP5Jx37EhceHIS9q_XAKjP8Q4joLn4AqWmUQk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6C88
+7
+chén
+85.4
+沈.mp3
+
+沉
+['sink, submerge', ' addicted to']
+['hundirse, sumergir', 'adicto a']
+['https://media.gettyimages.com/photos/lemon-splashing-in-water-picture-id97971235?k=6&m=97971235&s=612x612&w=0&h=ueMGY9CSptTaxVtV2h3gcWFNky0ZVKaWV4BvipV5Wx0=', 'https://media.gettyimages.com/photos/bad-bedroom-etiquette-picture-id892227446?k=6&m=892227446&s=612x612&w=0&h=9ZqFbmOP5Jx37EhceHIS9q_XAKjP8Q4joLn4AqWmUQk=']
+U+6C89
+7
+chén
+85.4
+沉.mp3
+
+沊
+['(Cant.) onomatopoetic']
+['(Cant.) Onomatopéyico']
+['NONE']
+U+6C8A
+8
+dàn
+85.4
+沊.mp3
+
+沋
+['NONE']
+['NINGUNA']
+[]
+U+6C8B
+7
+yóu
+85.4
+沋.mp3
+
+沌
+['chaotic, confused', ' turbid, murky']
+['caótico, confuso', 'turbio, turbio']
+['https://media.gettyimages.com/photos/human-head-with-tangled-wires-picture-id1171617600?k=6&m=1171617600&s=612x612&w=0&h=487JsEalhnIpQZgtDaJ7TCUkC61jqzvpuvQQatyG4Vw=', 'https://media.gettyimages.com/photos/sunrise-in-the-city-picture-id509086740?k=6&m=509086740&s=612x612&w=0&h=W-9c78ovAplrll5MHZHjccJ3Ts1eu2lC5Baj_bHhTgM=']
+U+6C8C
+7
+dùn
+85.4
+沌.mp3
+
+沍
+['freezing', ' stopped up, closed off']
+['congelación', 'detenido, cerrado']
+['https://media.gettyimages.com/photos/ice-background-picture-id173838283?k=6&m=173838283&s=612x612&w=0&h=TSqgdrKHOXkcCv_Ecpe37DdPfalRFFoaxDcGcnyh7ew=', 'NONE']
+U+6C8D
+7
+hù
+85.4
+沍.mp3
+
+沎
+['NONE']
+['NINGUNA']
+[]
+U+6C8E
+7
+huò
+85.4
+沎.mp3
+
+沏
+['infuse']
+['infundir']
+['https://media.gettyimages.com/photos/preparing-tea-picture-id172129006?k=6&m=172129006&s=612x612&w=0&h=bTyHlRDommsmikZUVLVSH35er0pEz79FdaLHDhgJcCw=']
+U+6C8F
+7
+qī
+85.4
+沏.mp3
+
+沐
+['bathe, cleanse, wash, shampoo']
+['bañarse, limpiar, lavar, champú']
+['NONE']
+U+6C90
+7
+mù
+85.4
+沐.mp3
+
+沑
+['NONE']
+['NINGUNA']
+[]
+U+6C91
+7
+nǜ
+85.4
+沑.mp3
+
+沒
+['not, have not, none', ' to drown, sink']
+['no, no tengo, ninguno', 'ahogarse, hundirse']
+['https://media.gettyimages.com/photos/directly-above-shot-of-smart-phone-with-blank-screen-against-white-picture-id1173299471?k=6&m=1173299471&s=612x612&w=0&h=RfVxIUbSE724FCK3C1GvmN5q2t6SZ9NpMFY-7i1ym8M=', 'https://media.gettyimages.com/photos/sinking-picture-id183892109?k=6&m=183892109&s=612x612&w=0&h=yHMSPpScII9_b41171lznhXPnvWgMRIuds0y0ZdC1FU=']
+U+6C92
+7
+méi
+85.4
+沒.mp3
+
+沓
+['connected, joined', ' repeated']
+['conectado, unido', 'repetido']
+['https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=', 'https://media.gettyimages.com/photos/white-grad-back-drop-v2-silver-picture-id1155889146?k=6&m=1155889146&s=612x612&w=0&h=yi2Yw4Q3X5Xq3FpQDOcy7t18cZyIgztxdfrH6ikDdcw=']
+U+6C93
+8
+dá tà
+85.4
+沓.mp3
+
+沔
+['flood', ' overflowing']
+['inundar', 'desbordante']
+['https://media.gettyimages.com/photos/young-couple-in-wellington-boots-on-flooded-floor-picture-id107908197?k=6&m=107908197&s=612x612&w=0&h=AXmco6qt6kyvXMtvY27xqbUy-9o04rOROQcAI97Y1mw=', 'https://media.gettyimages.com/photos/water-pouring-into-glass-and-overflowing-picture-id97971214?k=6&m=97971214&s=612x612&w=0&h=CTqV25qYCjiJ5t_GwTNj1tWDoDankuVv2g7fwgSTmQ4=']
+U+6C94
+7
+miǎn
+85.4
+沔.mp3
+
+沕
+['deep', ' (Cant.) to dive']
+['profundo', '(Cant.) Bucear']
+['https://media.gettyimages.com/photos/bubble-in-blue-ocean-picture-id674153270?k=6&m=674153270&s=612x612&w=0&h=tLmU7aI6FtUQCGhIeA3KcySlOecpqGFvtIK7PqBetUM=', 'https://media.gettyimages.com/photos/left-fielder-andrew-mccutchen-of-the-philadelphia-phillies-dives-but-picture-id1227980563?k=6&m=1227980563&s=612x612&w=0&h=AsSGqa3mVVD27umwUks8_7u8H_Yn2LfAoNQsvVlqIjY=']
+U+6C95
+7
+mì
+85.4
+沕.mp3
+
+沖
+['pour, infuse, steep', ' wash away']
+['verter, infundir, empinar', 'lavar']
+['NONE', 'https://media.gettyimages.com/photos/gotta-make-sure-germs-have-a-zero-chance-picture-id1182622704?k=6&m=1182622704&s=612x612&w=0&h=fIlhFtSrpJblkUiV89YjzhFvulYbbKjnBtfqHBNuRBc=']
+U+6C96
+7
+chōng
+85.4
+沖.mp3
+
+沗
+['NONE']
+['NINGUNA']
+[]
+U+6C97
+9
+pāng
+85.4
+沗.mp3
+
+沘
+['name of a river']
+['nombre de un río']
+['https://media.gettyimages.com/photos/portrait-of-a-man-with-face-covered-by-the-hat-picture-id691829276?k=6&m=691829276&s=612x612&w=0&h=N2vhXO-rZe-mP5eqTatoUNgrEVvk0_W8mRzdhrL4WNE=']
+U+6C98
+7
+bǐ
+85.4
+沘.mp3
+
+沙
+['sand, gravel, pebbles', ' granulated']
+['arena, grava, guijarros', 'granulado']
+['https://media.gettyimages.com/photos/road-background-picture-id1027212170?k=6&m=1027212170&s=612x612&w=0&h=gptWwCQHR3fhzWD-em4PRLXRN0CL9AM878CX3orn5ac=', 'https://media.gettyimages.com/photos/the-real-purple-frame-vol-iii-picture-id157329493?k=6&m=157329493&s=612x612&w=0&h=yFhvRzTH8rawKT_WCb4M8IQj7Lv5yxDtoPDSS3Y7a30=']
+U+6C99
+7
+shā
+85.4
+沙.mp3
+
+沚
+['islet in stream', ' small sandbar']
+['islote en corriente', 'pequeño banco de arena']
+['https://media.gettyimages.com/photos/selfies-in-paxos-antipaxos-picture-id1151261004?k=6&m=1151261004&s=612x612&w=0&h=Gf9e1thyza01QrJycJuiKLuuZMo9JEzgZfu94bzErGE=', 'https://media.gettyimages.com/photos/panorama-homer-spit-kachemak-bay-alaska-picture-id962742522?k=6&m=962742522&s=612x612&w=0&h=PlbtdUZVxI1PoLCVCi9q11elv23emWpf7GPYPX_Fx6A=']
+U+6C9A
+7
+zhǐ
+85.4
+沚.mp3
+
+沛
+['abundant, full, copious', ' sudden']
+['abundante, completo, copioso', 'repentino']
+['https://media.gettyimages.com/photos/open-refrigerator-picture-id141733313?k=6&m=141733313&s=612x612&w=0&h=Uw_kUOucOnWN22X7OEJ2g2NiwnD3_MsYAz4RbwgqFBs=', 'https://media.gettyimages.com/photos/where-did-this-headache-come-from-all-of-a-sudden-picture-id1153390381?k=6&m=1153390381&s=612x612&w=0&h=8xfAK87_BKjBoADdkvUUhZESNVk_HfwR3AHTUdZTGAs=']
+U+6C9B
+7
+pèi
+85.4
+沛.mp3
+
+沜
+['NONE']
+['NINGUNA']
+[]
+U+6C9C
+7
+pàn
+85.4
+沜.mp3
+
+沝
+['NONE']
+['NINGUNA']
+[]
+U+6C9D
+8
+zhuǐ
+85.4
+沝.mp3
+
+沞
+['NONE']
+['NINGUNA']
+[]
+U+6C9E
+7
+zā
+85.4
+沞.mp3
+
+沟
+['ditch, drain, narrow waterway']
+['zanja, desagüe, vía fluvial estrecha']
+['https://media.gettyimages.com/photos/fiber-optic-cable-for-fast-internet-electricity-and-telephone-cable-picture-id1239853716?k=6&m=1239853716&s=612x612&w=0&h=K_P9uuIczKgHYJ7XIukBwM3UakrjmnBqK1q6qJe3C1A=']
+U+6C9F
+7
+gōu
+85.4
+沟.mp3
+
+沠
+['NONE']
+['NINGUNA']
+[]
+U+6CA0
+7
+liú
+85.4
+沠.mp3
+
+没
+['not, have not, none', ' drown, sink']
+['no, no tengo, ninguno', 'ahogarse, hundirse']
+['https://media.gettyimages.com/photos/directly-above-shot-of-smart-phone-with-blank-screen-against-white-picture-id1173299471?k=6&m=1173299471&s=612x612&w=0&h=RfVxIUbSE724FCK3C1GvmN5q2t6SZ9NpMFY-7i1ym8M=', 'https://media.gettyimages.com/photos/sinking-picture-id183892109?k=6&m=183892109&s=612x612&w=0&h=yHMSPpScII9_b41171lznhXPnvWgMRIuds0y0ZdC1FU=']
+U+6CA1
+7
+méi
+85.4
+没.mp3
+
+沢
+['marsh, swamp', ' grace, brilliance']
+['pantano, pantano', 'gracia, brillo']
+['https://media.gettyimages.com/photos/kouchibouguac-national-park-wetland-picture-id531326882?k=6&m=531326882&s=612x612&w=0&h=cRPY8koMSzRljyWDWzr194TbiE6JNcCCDU3yicRirC0=', 'https://media.gettyimages.com/photos/portrait-of-a-woman-in-her-artist-studio-picture-id590474513?k=6&m=590474513&s=612x612&w=0&h=sr2gn2MQr6-EH53uC9ONjJESyPcgcoFQgh_wJL5wcVQ=']
+U+6CA2
+7
+zé
+85.4
+沢.mp3
+
+沣
+['river in Shanxi province']
+['río en la provincia de Shanxi']
+['https://media.gettyimages.com/photos/natural-scenery-of-baoji-city-shanxi-province-china-picture-id830992264?k=6&m=830992264&s=612x612&w=0&h=nhbq-3OLSCAK6BGeA5ZSy0ee1cfFpYDejWmeB0ivA_8=']
+U+6CA3
+7
+fēng
+85.4
+沣.mp3
+
+沤
+['soak, steep', ' sodden or soaked']
+['remojo, empinado', 'empapado o empapado']
+['NONE', 'https://media.gettyimages.com/photos/businessman-standing-in-rain-smiling-portrait-closeup-picture-id200398471-001?k=6&m=200398471-001&s=612x612&w=0&h=IcdAhQeb2qU881dnz8E_EsZAqfGulUPGmLAlqjKTSIo=']
+U+6CA4
+7
+ōu
+85.4
+沤.mp3
+
+沥
+['trickle, drip', ' strain', ' dregs']
+['goteo, goteo', 'presion', 'heces']
+['https://media.gettyimages.com/photos/dripping-gel-picture-id175482915?k=6&m=175482915&s=612x612&w=0&h=PmRZwa1ZzQLjzT04y53nlRubzr4wuLbOAuW_U1dD4ac=', 'https://media.gettyimages.com/photos/thats-it-im-done-picture-id936117884?k=6&m=936117884&s=612x612&w=0&h=x4-h_dLBBva37ZzpDtuYv5wIhUZ1UvrBeXlqiIs7Kuo=', 'https://media.gettyimages.com/photos/visualize-saving-picture-id486964681?k=6&m=486964681&s=612x612&w=0&h=QMe1_sOnevR20vNTH6BskVE8oCCIN_nWhQMy9RNXCdg=']
+U+6CA5
+7
+lì
+85.4
+沥.mp3
+
+沦
+['be lost', ' sink, be submerged']
+['estar perdido', 'hundirse, sumergirse']
+['https://media.gettyimages.com/photos/lost-businessman-picture-id908875256?k=6&m=908875256&s=612x612&w=0&h=ZouWnUIzd2SHWJ0jS7tV2zWnZuSOG08pNDVPDsQNukc=', 'https://media.gettyimages.com/photos/lemon-splashing-in-water-picture-id97971235?k=6&m=97971235&s=612x612&w=0&h=ueMGY9CSptTaxVtV2h3gcWFNky0ZVKaWV4BvipV5Wx0=']
+U+6CA6
+7
+lún
+85.4
+沦.mp3
+
+沧
+['blue, dark green', ' cold']
+['azul, verde oscuro', 'frío']
+['https://media.gettyimages.com/photos/digital-composition-of-green-meadow-and-blue-sky-picture-id154930429?k=6&m=154930429&s=612x612&w=0&h=4J4s0lYsxolnCqZsRlll3VnZJcFkNw06mcK3ZveBjEU=', 'https://media.gettyimages.com/photos/sick-woman-blowing-her-nose-she-covered-with-blanket-picture-id1135175362?k=6&m=1135175362&s=612x612&w=0&h=Nke1Q193RMRqF2sma8hUym_Ou662E891V8vFu17PAoc=']
+U+6CA7
+7
+cāng
+85.4
+沧.mp3
+
+沨
+['NONE']
+['NINGUNA']
+[]
+U+6CA8
+7
+fēng
+85.4
+沨.mp3
+
+沩
+['name of a river in Shanxi']
+['nombre de un río en Shanxi']
+['NONE']
+U+6CA9
+7
+wéi
+85.4
+沩.mp3
+
+沪
+['Shanghai', ' river near Shanghai']
+['Llevar a la fuerza', 'río cerca de Shanghai']
+['https://media.gettyimages.com/photos/panoramic-skyline-of-shanghai-picture-id636590238?k=6&m=636590238&s=612x612&w=0&h=GO2_ewY4e_qtj5ZqPExKApmo7Fa-pwHAk1sKOV_ajdo=', 'https://media.gettyimages.com/photos/aerial-view-of-shanghai-picture-id826701122?k=6&m=826701122&s=612x612&w=0&h=20HiK2qeW70wE6QV7K1c0YmK2lWkw1wPOM_O-GhwmwY=']
+U+6CAA
+7
+hù
+85.4
+沪.mp3
+
+沫
+['froth, foam, bubbles, suds']
+['espuma, espuma, burbujas, espuma']
+['https://media.gettyimages.com/photos/full-frame-shot-of-soap-sud-picture-id1132562426?k=6&m=1132562426&s=612x612&w=0&h=lTrq0S5uiBVXeA8IDy6PUTUpNMiWHnAE815IUL9eM8I=']
+U+6CAB
+8
+mò
+85.5
+沫.mp3
+
+沬
+['dusk', ' Mei river', ' Zhou dynasty place-name', ' (Cant.) to go underwater, to dive']
+['oscuridad', 'M eh río', 'Nombre del lugar de la dinastía Zhou', '(Cant.) Sumergirse, bucear']
+['https://media.gettyimages.com/photos/sunset-over-indian-ocean-picture-id640318118?k=6&m=640318118&s=612x612&w=0&h=fx_GG4OP-K_E21wDCGZFDF_MRqdNEzLNd-e2GeMrBEU=', 'https://media.gettyimages.com/photos/river-amidst-buildings-against-sky-picture-id1170456212?k=6&m=1170456212&s=612x612&w=0&h=AO_W75HQdB76sul2IjjzhyGfTDGlhGaTJlwu7d0LSWk=', 'NONE', 'NONE']
+U+6CAC
+8
+mèi
+85.5
+沬.mp3
+
+沭
+['river in Shantung']
+['río en Shantung']
+['https://media.gettyimages.com/photos/long-exposure-in-qingdao-picture-id165103822?k=6&m=165103822&s=612x612&w=0&h=W21TNllpv-6orkerccQTVtO-6hNLQKhT7vOzznKfG3w=']
+U+6CAD
+8
+shù
+85.5
+沭.mp3
+
+沮
+['stop, prevent', ' defeated, dejected']
+['detener, prevenir', 'derrotado, abatido']
+['https://media.gettyimages.com/photos/coronavirus-picture-id1209896627?k=6&m=1209896627&s=612x612&w=0&h=Ghw-mXc5UAnrAM5-H9fF388HoiBDPL2iYKF0w_t70i8=', 'https://media.gettyimages.com/photos/standing-out-from-the-crowd-with-smiling-sphere-picture-id902922438?k=6&m=902922438&s=612x612&w=0&h=LbK56i8nt0KRAbai9_XoUVr7RKP1w866Obu82lA25YU=']
+U+6CAE
+8
+jǔ
+85.5
+沮.mp3
+
+沯
+['NONE']
+['NINGUNA']
+[]
+U+6CAF
+9
+zá
+85.5
+沯.mp3
+
+沰
+['to let drop']
+['dejar caer']
+['https://media.gettyimages.com/photos/falling-house-picture-id1176854161?k=6&m=1176854161&s=612x612&w=0&h=bTYCNk9B8iO-Lzstm-GaJpR4JiEem4QE6otl5EhTB90=']
+U+6CB0
+8
+tuō
+85.5
+沰.mp3
+
+沱
+['rivers, streams, waterways', ' flow']
+['ríos, arroyos, vías fluviales', 'fluir']
+['https://media.gettyimages.com/photos/streams-and-mountain-in-arashiyama-picture-id1024102312?k=6&m=1024102312&s=612x612&w=0&h=qT275OZkWnXoS2Ns5s9hk5SL_s-J7Ptq0kcVnMKb1q8=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=']
+U+6CB1
+8
+tuó
+85.5
+沱.mp3
+
+沲
+['float']
+['flotador']
+['https://media.gettyimages.com/photos/beach-ball-clipping-path-picture-id185279612?k=6&m=185279612&s=612x612&w=0&h=oKcRsVdPkVdrFYRgyBIg6no-rJX5Rrzz6X7C7x43dIA=']
+U+6CB2
+8
+tuó
+85.5
+沲.mp3
+
+河
+['river', ' stream', ' yellow river']
+['río', 'corriente', 'río Amarillo']
+['https://media.gettyimages.com/photos/mata-atlantica-atlantic-forest-in-brazil-picture-id935746242?k=6&m=935746242&s=612x612&w=0&h=tzTaZgFixIqpuBdEY9yfFmzcyAU-uM3xUKiGyLT4EIE=', 'https://media.gettyimages.com/photos/home-office-set-up-for-webinar-and-teleconference-picture-id1222405962?k=6&m=1222405962&s=612x612&w=0&h=lrIHS6IZS53mdONQx235mymqBMUgwsEmOsg6urgtEeQ=', 'https://media.gettyimages.com/photos/yellow-river-landscape-at-lao-niu-bay-qingshui-river-county-county-picture-id1173144882?k=6&m=1173144882&s=612x612&w=0&h=mPmlNxJjginOw5vYIwYzpnvGz1sCQSCgpLGu_z2u6CU=']
+U+6CB3
+8
+hé
+85.5
+河.mp3
+
+沴
+['foul and poisonous in confusion', ' out of harmony']
+['asqueroso y venenoso en la confusión', 'fuera de armonía']
+['https://media.gettyimages.com/photos/view-of-the-m40-motorway-flanked-by-poppies-and-fields-of-oilseed-as-picture-id126367003?k=6&m=126367003&s=612x612&w=0&h=fHYx0_neVz5UgYx3zT9GBvX_7epHRQqDBHx1TgGe0OE=', 'https://media.gettyimages.com/photos/school-children-in-uniforms-standing-on-painted-venn-diagrams-picture-id1083673198?k=6&m=1083673198&s=612x612&w=0&h=KCqlaTt0a87Lvy45ONq7DhR9VoDX0P5NML09S-pqFUE=']
+U+6CB4
+8
+lì
+85.5
+沴.mp3
+
+沵
+['NONE']
+['NINGUNA']
+[]
+U+6CB5
+8
+mǐ
+85.5
+沵.mp3
+
+沶
+['NONE']
+['NINGUNA']
+[]
+U+6CB6
+8
+yí
+85.5
+沶.mp3
+
+沷
+['to remove evil', ' to cleanse', ' to wash away']
+['para eliminar el mal', 'para limpiar', 'lavarse']
+['https://media.gettyimages.com/photos/mask-anger-picture-id104335744?k=6&m=104335744&s=612x612&w=0&h=Z6blEAIwciYdrItNDH_f5F6HWlbF8646NXB75wS0iDk=', 'https://media.gettyimages.com/photos/three-fruits-and-vegetables-detox-drinks-picture-id641975492?k=6&m=641975492&s=612x612&w=0&h=c4ZbCLSsaaDoYWuP-8EVLl2yyaqPXppLEjqki7Qx-9s=', 'https://media.gettyimages.com/photos/gotta-make-sure-germs-have-a-zero-chance-picture-id1182622704?k=6&m=1182622704&s=612x612&w=0&h=fIlhFtSrpJblkUiV89YjzhFvulYbbKjnBtfqHBNuRBc=']
+U+6CB7
+8
+fā
+85.5
+沷.mp3
+
+沸
+['boil, bubble up, gush']
+['hervir, burbujear, chorro']
+['NONE']
+U+6CB8
+8
+fèi
+85.5
+沸.mp3
+
+油
+['oil, fat, grease, lard', ' paints']
+['aceite, grasa, grasa, manteca de cerdo', 'pinturas']
+['NONE', 'https://media.gettyimages.com/photos/young-couple-choosing-the-right-color-for-their-wall-while-renovating-picture-id922010262?k=6&m=922010262&s=612x612&w=0&h=rnGHHgbQvOeUYv_OSLGXzW8Nc1tgraebvJVXYdKYpK8=']
+U+6CB9
+8
+yóu
+85.5
+油.mp3
+
+沺
+['turbulent']
+['turbulento']
+['https://media.gettyimages.com/photos/close-up-beer-foam-picture-id1269286688?k=6&m=1269286688&s=612x612&w=0&h=Sdur8GM_dTPL_v7fbDSYCluDyHTa-WcKB1_cj6reJ64=']
+U+6CBA
+8
+tián
+85.5
+沺.mp3
+
+治
+['govern, regulate, administer']
+['gobernar, regular, administrar']
+['NONE']
+U+6CBB
+8
+zhì
+85.5
+治.mp3
+
+沼
+['lake, fishpond, swamps']
+['lago, estanque de peces, pantanos']
+['NONE']
+U+6CBC
+8
+zhǎo
+85.5
+沼.mp3
+
+沽
+['buy and sell', ' inferior in quality']
+['comprar y vender', 'inferior en calidad']
+['https://media.gettyimages.com/photos/young-couple-buying-a-car-picture-id988321834?k=6&m=988321834&s=612x612&w=0&h=u-F5olaM8fioHmYRvGB5SRVLnnVX7CnXXVHKlrXQgfY=', 'https://media.gettyimages.com/photos/male-mechanic-using-socket-wrench-while-working-on-chassis-picture-id514267772?k=6&m=514267772&s=612x612&w=0&h=UrsKL2jG1VGUxMyQA3Hcb-7INSNxCt23-0Z5Rfwrhlo=']
+U+6CBD
+8
+gū
+85.5
+沽.mp3
+
+沾
+['moisten, wet, soak', ' touch']
+['humedecer, mojar, remojar', 'toque']
+['NONE', 'https://media.gettyimages.com/photos/woman-using-a-phone-picture-id1124347661?k=6&m=1124347661&s=612x612&w=0&h=HpYWzgw3WdRBCOhyg5pVM3wfVicTFHeydJ5Txl_XFQY=']
+U+6CBE
+8
+zhān
+85.5
+沾.mp3
+
+沿
+['follow a course, go along']
+['sigue un curso, sigue']
+['https://media.gettyimages.com/photos/two-women-ride-up-grassy-hillside-on-electric-mountain-bikes-picture-id1223716894?k=6&m=1223716894&s=612x612&w=0&h=DKB1ItfRUr3I1TVmbZKx40xqjt2vWjvym858Yn0SZRY=']
+U+6CBF
+8
+yán
+85.5
+沿.mp3
+
+泀
+['NONE']
+['NINGUNA']
+[]
+U+6CC0
+8
+sī
+85.5
+泀.mp3
+
+況
+['condition, situation', ' furthermore']
+['condición, situación', 'además']
+['https://media.gettyimages.com/photos/business-people-talking-in-office-picture-id637920846?k=6&m=637920846&s=612x612&w=0&h=YUk-jSpBpOA1-oKrxfWBhA8Jg_DrUBB-lITzrokbDMY=', 'https://media.gettyimages.com/photos/sommelier-testing-wine-in-sonoma-winery-picture-id1049554308?k=6&m=1049554308&s=612x612&w=0&h=dzgq0oPPwEIxyBxg_k7YyQiO37vnP5WYpWvvJ0MdwyU=']
+U+6CC1
+8
+kuàng
+85.5
+況.mp3
+
+泂
+['clear and deep (of water)', ' wide']
+['clear and deep (de agua)', 'amplio']
+['https://media.gettyimages.com/photos/mesmerising-sunrays-under-the-surface-of-the-ocean-picture-id1160181732?k=6&m=1160181732&s=612x612&w=0&h=uKr3Gr8tsYA0QaSEf_9pTU9JDT4-iONEO7d-kFGac0Q=', 'https://media.gettyimages.com/photos/deep-blue-ocean-panorama-picture-id184330929?k=6&m=184330929&s=612x612&w=0&h=kIkkguHYbU7XXV98DlQzthCzhURv9ZaA7ObtoxZ9VwE=']
+U+6CC2
+8
+jiǒng
+85.5
+泂.mp3
+
+泃
+['river in Henan']
+['río en Henan']
+['https://media.gettyimages.com/photos/cropped-hand-of-woman-holding-chocolate-ice-cream-against-sky-picture-id717382783?k=6&m=717382783&s=612x612&w=0&h=LTvKTlObiCHMMz8b2y0VHp7SEES6wYCLsEY8nISAcPQ=']
+U+6CC3
+8
+jū
+85.5
+泃.mp3
+
+泄
+['leak', ' vent', ' flow', ' reveal']
+['fuga', 'viento', 'fluir', 'revelar']
+['https://media.gettyimages.com/photos/bathroom-faucet-picture-id182691828?k=6&m=182691828&s=612x612&w=0&h=XGIfWu-LE1yOD_41L0qk3iTQ9TNm-EcuEzdCUt_zZ2A=', 'https://media.gettyimages.com/photos/construction-workers-reading-blueprints-picture-id521696036?k=6&m=521696036&s=612x612&w=0&h=06JC_8HqjPidegk2lC3ychg_Sv8OClWKaaKaq2RfWHI=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=', 'https://media.gettyimages.com/photos/is-there-something-there-picture-id507746755?k=6&m=507746755&s=612x612&w=0&h=NkSayyH4vZ4OrqiVUgdiyK_Tl4vXcAN-s96C8uEji-8=']
+U+6CC4
+8
+xiè
+85.5
+泄.mp3
+
+泅
+['swim, float, wade']
+['nadar, flotar, vadear']
+['https://media.gettyimages.com/photos/little-girl-sitting-in-pool-with-donut-pool-float-picture-id1178558869?k=6&m=1178558869&s=612x612&w=0&h=F4vsfCFNMiQVuIeAZEAS53mJmJfWOyqNggWCpjWFcrQ=']
+U+6CC5
+8
+qiú
+85.5
+泅.mp3
+
+泆
+['licentious, libertine, dissipated']
+['libertino, libertino, disipado']
+['NONE']
+U+6CC6
+8
+yì
+85.5
+泆.mp3
+
+泇
+['NONE']
+['NINGUNA']
+[]
+U+6CC7
+8
+jiā
+85.5
+泇.mp3
+
+泈
+['NONE']
+['NINGUNA']
+[]
+U+6CC8
+8
+zhōng
+85.5
+泈.mp3
+
+泉
+['spring, fountain', ' wealth, money']
+['primavera, fuente', 'riqueza, dinero']
+['https://media.gettyimages.com/photos/girl-standing-on-tip-toes-at-the-fountain-picture-id915621070?k=6&m=915621070&s=612x612&w=0&h=cUaL5izKnpWkwxrHZfOvuQxRc3Sy7-VI95f4urFq3JE=', 'https://media.gettyimages.com/photos/young-business-children-make-faces-holding-lots-of-money-picture-id470201459?k=6&m=470201459&s=612x612&w=0&h=h66t0jjGDvAH-Tz9iEbpUJJ1yHKT33nbMr2EfXxjztM=']
+U+6CC9
+9
+quán
+85.5
+泉.mp3
+
+泊
+['anchor vessel', ' lie at anchor']
+['buque de ancla', 'acostarse anclado']
+['https://media.gettyimages.com/photos/naval-ropes-on-a-pier-vintage-nautical-knots-picture-id857079300?k=6&m=857079300&s=612x612&w=0&h=JRyCZdcmKF8Y0Lv7Ak3RlJ-kH1G06iDxt4in6eW1pcM=', 'https://media.gettyimages.com/photos/anchor-in-sea-of-dreams-not-enough-picture-id139723928?k=6&m=139723928&s=612x612&w=0&h=Pmd3hF_im8N2ai9L1joiWEzWE4gVha0jTGXUKaH22j4=']
+U+6CCA
+8
+pō
+85.5
+泊.mp3
+
+泋
+['NONE']
+['NINGUNA']
+[]
+U+6CCB
+8
+huì
+85.5
+泋.mp3
+
+泌
+['to seep out, excrete']
+['filtrar, excretar']
+['NONE']
+U+6CCC
+8
+mì
+85.5
+泌.mp3
+
+泍
+['NONE']
+['NINGUNA']
+[]
+U+6CCD
+8
+bēn
+85.5
+泍.mp3
+
+泎
+['NONE']
+['NINGUNA']
+[]
+U+6CCE
+8
+zé
+85.5
+泎.mp3
+
+泏
+['NONE']
+['NINGUNA']
+[]
+U+6CCF
+8
+zhú
+85.5
+泏.mp3
+
+泐
+['to write', ' to indite', ' veins in minerals']
+['escribir', 'inditar', 'venas en minerales']
+['https://media.gettyimages.com/photos/jot-it-down-and-just-do-it-picture-id1131971654?k=6&m=1131971654&s=612x612&w=0&h=cUq9I0IklNFFtF10m8AI2TEHaUQxg8PLh70LkKYZQ6c=', 'NONE', 'https://media.gettyimages.com/photos/closeup-of-linoleum-with-light-green-marble-pattern-for-texture-picture-id941950548?k=6&m=941950548&s=612x612&w=0&h=CwHdEdZJOsTa4qJtgy54-PCE1kHDZK7Rfnp2hPI_dpg=']
+U+6CD0
+7
+lè
+85.5
+泐.mp3
+
+泑
+['the vitreous glaze on china, porcelain, etc.']
+['el esmalte vítreo sobre loza, porcelana, etc.']
+['NONE']
+U+6CD1
+8
+yōu
+85.5
+泑.mp3
+
+泒
+['a river in Hubei province']
+['un río en la provincia de Hubei']
+['https://media.gettyimages.com/photos/urban-architecture-along-the-yangtze-river-in-hankou-district-wuhan-picture-id1195700637?k=6&m=1195700637&s=612x612&w=0&h=9V3L61GzMuIC0rtWkONmOIWihTzocZeQbXnNnWi7gW4=']
+U+6CD2
+8
+gū
+85.5
+泒.mp3
+
+泓
+['clear, deep pool of water']
+['piscina de agua clara y profunda']
+['https://media.gettyimages.com/photos/child-boy-snorkeling-on-the-in-open-sea-in-the-transparent-waters-of-picture-id1205678545?k=6&m=1205678545&s=612x612&w=0&h=9AUukKcBKYixzrlFX-eeArq8acjcFZx1ey-K9zlPMuM=']
+U+6CD3
+8
+hóng
+85.5
+泓.mp3
+
+泔
+['water from washing rice to boil thick, as gruel']
+['agua de lavar el arroz para que hierva espesa, como papilla']
+['NONE']
+U+6CD4
+8
+gān
+85.5
+泔.mp3
+
+法
+['law, rule, regulation, statute', ' France, French']
+['ley, regla, regulación, estatuto', 'Francés Francia']
+['https://media.gettyimages.com/photos/terms-and-conditions-typed-on-vintage-typewriter-picture-id1071660664?k=6&m=1071660664&s=612x612&w=0&h=WITiBsEI07eG3157YIfBd80cYGNszwBOh95J3sNWMZY=', 'https://media.gettyimages.com/photos/eiffel-tower-in-paris-france-picture-id924891460?k=6&m=924891460&s=612x612&w=0&h=8-cg9hpdtoAoEsvXP98t6IUOjUoiajzaYueOplnZl5Q=']
+U+6CD5
+8
+fǎ
+85.5
+法.mp3
+
+泖
+['still waters', ' river in Jiangsu']
+['aguas tranquilas', 'río en Jiangsu']
+['https://media.gettyimages.com/photos/toilet-left-in-the-street-picture-id671403956?k=6&m=671403956&s=612x612&w=0&h=OktFjzR6KVBwIDiXTg9V_23KHuJPrQtXkekLMw6AwYg=', 'https://media.gettyimages.com/photos/beautiful-chinese-water-town-picture-id1165365878?k=6&m=1165365878&s=612x612&w=0&h=ok_InswlE8Ci7trNID5htbVqyvV-oFJPFpGpx2g-O9M=']
+U+6CD6
+8
+mǎo
+85.5
+泖.mp3
+
+泗
+['mucous', ' nasal flow', ' sniffle', ' river in Shandong']
+['mucoso', 'flujo nasal', 'sollozar', 'río en Shandong']
+['https://media.gettyimages.com/photos/sputum-culture-sem-picture-id1128676679?k=6&m=1128676679&s=612x612&w=0&h=hpIhwjYnaXDEg5X-NYNENzpPgQNW0b8Np2SPwCRvDMA=', 'https://media.gettyimages.com/photos/gold-makeup-picture-id1265520344?k=6&m=1265520344&s=612x612&w=0&h=k8LCWrBx4U6YJPXJUZhlyl8_RsLhMA1mCeQSsoYYlP8=', 'https://media.gettyimages.com/photos/blowing-nose-picture-id157311205?k=6&m=157311205&s=612x612&w=0&h=OKRDEgzG_9-CWBurLoZfrv9dNybtuQ03JODfog81vVw=', 'https://media.gettyimages.com/photos/long-exposure-in-qingdao-picture-id165103822?k=6&m=165103822&s=612x612&w=0&h=W21TNllpv-6orkerccQTVtO-6hNLQKhT7vOzznKfG3w=']
+U+6CD7
+8
+sì
+85.5
+泗.mp3
+
+泘
+['NONE']
+['NINGUNA']
+[]
+U+6CD8
+8
+hū
+85.5
+泘.mp3
+
+泙
+['roar']
+['rugido']
+['https://media.gettyimages.com/photos/closeup-of-lion-roaring-on-field-at-rhino-and-lion-nature-reserve-picture-id675607089?k=6&m=675607089&s=612x612&w=0&h=jdDCCiiBgzcLgpQdil2kYXZTCvKjW2Fh1P0S85l1xCY=']
+U+6CD9
+8
+píng
+85.5
+泙.mp3
+
+泚
+['clear', ' bright and brilliant', ' sweat']
+['claro', 'brillante y brillante', 'sudor']
+['https://media.gettyimages.com/photos/clear-blue-sky-background-with-scattered-clouds-picture-id184304316?k=6&m=184304316&s=612x612&w=0&h=Y3daH7tigcvjNSI7dYKWiT2EWGQ14XHkxdHLqkTpaSU=', 'https://media.gettyimages.com/photos/explaing-her-ideas-in-detail-picture-id516848136?k=6&m=516848136&s=612x612&w=0&h=UH6hjZPNhDeGN18fuVL4uZlWShv9gNIONZ6Sm6573K4=', 'https://media.gettyimages.com/photos/lowkey-eye-picture-id108198784?k=6&m=108198784&s=612x612&w=0&h=dgsJTEKAWlc1B3r9iNHAsjh0UrunJ0Htha010Dt_tp4=']
+U+6CDA
+9
+cǐ
+85.6
+泚.mp3
+
+泛
+['to drift, float', ' careless, reckless']
+['a la deriva, flotar', 'descuidado, imprudente']
+['https://media.gettyimages.com/photos/karnali-district-nepal-picture-id594378927?k=6&m=594378927&s=612x612&w=0&h=LwlKb0-fRTiQEhfNCGfHF9fxj5TYZvFkjvMbO7Ovhpc=', 'https://media.gettyimages.com/photos/disaster-picture-id117144601?k=6&m=117144601&s=612x612&w=0&h=UDkaEaYWZZXg7lB9d1p5i68LJ07kJIuhe1WV9OBdUPU=']
+U+6CDB
+7
+fàn
+85.5
+泛.mp3
+
+泜
+['a river in Hebei province']
+['un río en la provincia de Hebei']
+['https://media.gettyimages.com/photos/grassland-scenery-in-hebei-province-china-picture-id642106411?k=6&m=642106411&s=612x612&w=0&h=o6UELGYUgJyErV69p0ReZs88UKtep3CMFgOE1ncENhs=']
+U+6CDC
+8
+zhī
+85.5
+泜.mp3
+
+泝
+['go upstream', ' trace source', ' formerly']
+['ir río arriba', 'fuente de rastreo', 'antes']
+['https://media.gettyimages.com/photos/man-bikes-upstream-in-mountain-meadow-picture-id962898846?k=6&m=962898846&s=612x612&w=0&h=J8Cyb6WxwQqXlc6iZAkmU4CnG16M7cCFH92I0lRxCS0=', 'https://media.gettyimages.com/photos/patient-taking-a-echocardiogram-picture-id94501567?k=6&m=94501567&s=612x612&w=0&h=4LXLYZKZQZnCZYHejtivmGYFei1MKSj6MrVxjS-9PVs=', 'https://media.gettyimages.com/photos/sad-and-depressed-woman-sitting-indoors-on-sofa-tearing-photograph-picture-id1216726156?k=6&m=1216726156&s=612x612&w=0&h=NWa0NAlyagnqGujc2w84yTh5JFbC_rYUPSjhLzd9TDU=']
+U+6CDD
+8
+sù
+85.5
+泝.mp3
+
+泞
+['mud', ' miry, muddy, stagnant']
+['barro', 'fangoso, fangoso, estancado']
+['https://media.gettyimages.com/photos/dirt-background-picture-id182187754?k=6&m=182187754&s=612x612&w=0&h=9BYykbnRG0cs_fuWDop-aigA3N8R9hO30p7YLVfZ8KM=', 'NONE']
+U+6CDE
+8
+nìng
+85.5
+泞.mp3
+
+泟
+['NONE']
+['NINGUNA']
+[]
+U+6CDF
+8
+chēng
+85.5
+泟.mp3
+
+泠
+['nice and cool, mild and comfortable']
+['agradable y fresco, suave y cómodo']
+['NONE']
+U+6CE0
+8
+líng
+85.5
+泠.mp3
+
+泡
+['bubbles, suds', ' blister', ' soak']
+['burbujas, espuma', 'ampolla', 'Sumergir']
+['https://media.gettyimages.com/photos/floating-soap-bubbles-picture-id185065512?k=6&m=185065512&s=612x612&w=0&h=NbVaFtSE40q-RQYH8nY5H7vjeT3Fmr0RwuOF0DugpB0=', 'https://media.gettyimages.com/photos/silver-blister-packs-of-pills-picture-id185303315?k=6&m=185303315&s=612x612&w=0&h=NPvKS3Zn-9Ec1maGxNI_Ztw3JPtrCSVyhgSg49Avpmk=', 'https://media.gettyimages.com/photos/episode-853-pictured-misocal-guest-soak-performs-on-june-25-2019-picture-id1151905598?k=6&m=1151905598&s=612x612&w=0&h=Hs6s8XYb-a2B38RKOUt05Jds0PBDpZLhjmQw1kcQlrA=']
+U+6CE1
+8
+pào
+85.5
+泡.mp3
+
+波
+['waves, breakers', ' undulations']
+['olas, rompientes', 'ondulaciones']
+['https://media.gettyimages.com/photos/closeup-view-of-huge-ocean-waves-picture-id155380802?k=6&m=155380802&s=612x612&w=0&h=EH_BI_KXf7fd5Ho1rJMGGLCQ_FLh-Yh87WAPALMI39U=', 'https://media.gettyimages.com/photos/undulations-picture-id177466620?k=6&m=177466620&s=612x612&w=0&h=JOSwCv78XiVL91aj3jpVIffUKlO0SBup1tXE9uB3Eic=']
+U+6CE2
+8
+bō
+85.5
+波.mp3
+
+泣
+['cry, sob, weep']
+['llorar, sollozar, llorar']
+['https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=']
+U+6CE3
+8
+qì
+85.5
+泣.mp3
+
+泤
+['NONE']
+['NINGUNA']
+[]
+U+6CE4
+7
+sì
+85.5
+泤.mp3
+
+泥
+['mud, mire', ' earth, clay', ' plaster']
+['mod, mundo', 'tierra, arcilla', 'yeso']
+['https://media.gettyimages.com/photos/blooming-green-water-green-algae-polluted-river-aerial-view-picture-id1175185683?k=6&m=1175185683&s=612x612&w=0&h=YzEqev0xK8nf6oMfM4RA_G5RPHJqVD8UHEMpC7kAIsc=', 'https://media.gettyimages.com/photos/cracks-in-a-wall-picture-id1071427934?k=6&m=1071427934&s=612x612&w=0&h=tWJ_v0urPNbIieZ9ld2EZezStp-mi1-m5JQ5zy5Ul6A=', 'https://media.gettyimages.com/photos/plaster-application-picture-id157419716?k=6&m=157419716&s=612x612&w=0&h=Pg1Q5O1oIqBkvpSl1ggS5enVQcPv3-MO6CI0A6o9A3c=']
+U+6CE5
+8
+ní
+85.5
+泥.mp3
+
+泦
+['NONE']
+['NINGUNA']
+[]
+U+6CE6
+8
+jú
+85.5
+泦.mp3
+
+泧
+['NONE']
+['NINGUNA']
+[]
+U+6CE7
+8
+sà
+85.5
+泧.mp3
+
+注
+['concentrate, focus, direct']
+['concentrarse, enfocarse, dirigir']
+['https://media.gettyimages.com/photos/businessman-talking-on-phone-in-modern-office-picture-id1130578449?k=6&m=1130578449&s=612x612&w=0&h=JkonIZ7BEedI1iPtDzzCLTWOwQkWs8Ug8cvxo2QHuqw=']
+U+6CE8
+8
+zhù
+85.5
+注.mp3
+
+泩
+['NONE']
+['NINGUNA']
+[]
+U+6CE9
+8
+shēng
+85.5
+泩.mp3
+
+泪
+['tears', ' weep, cry']
+['lágrimas', 'llorar, llorar']
+['https://media.gettyimages.com/photos/ragged-white-paper-picture-id184140028?k=6&m=184140028&s=612x612&w=0&h=M0-_SVsCETOASEfYEPeG3pp9Z6rNLTa79-BGGsIn4AM=', 'https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=']
+U+6CEA
+8
+lèi
+85.5
+泪.mp3
+
+泫
+['weep', ' cry', ' shine, glisten']
+['llorar', 'llorar', 'brillar, brillar']
+['https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=', 'https://media.gettyimages.com/photos/christmas-background-defocused-gold-colored-particles-on-red-with-picture-id1173239917?k=6&m=1173239917&s=612x612&w=0&h=IeZb7_PdVjhf10gPIofkqXD8e6OoYFvdikfpkchupjw=']
+U+6CEB
+8
+xuàn
+85.5
+泫.mp3
+
+泬
+['NONE']
+['NINGUNA']
+[]
+U+6CEC
+8
+jué
+85.5
+泬.mp3
+
+泭
+['a raft']
+['una balsa']
+['https://media.gettyimages.com/photos/colorful-air-mattresses-in-a-row-picture-id157439801?k=6&m=157439801&s=612x612&w=0&h=E8KP0EwR0gJYBZQnERxD64w2QsCwlLqiVGdL0KCbnEA=']
+U+6CED
+8
+fú
+85.5
+泭.mp3
+
+泮
+['Zhou dynasty school', ' disperse', ' fall apart']
+['Escuela de la dinastía Zhou', 'dispersar', 'desmoronarse']
+['NONE', 'https://media.gettyimages.com/photos/hand-shakes-bush-to-disperse-seeds-in-alpine-meadow-picture-id1146679382?k=6&m=1146679382&s=612x612&w=0&h=Q2QrGzyip-u8VsgmEg7uKpNULSefdF-HKIijkypCizQ=', 'https://media.gettyimages.com/photos/businessman-reaching-up-in-air-woman-looking-down-picture-id537251929?k=6&m=537251929&s=612x612&w=0&h=i21UY4ucUqyzEnpIkE21veqVHFp5chTD3vmVxeGTyGw=']
+U+6CEE
+8
+pàn
+85.5
+泮.mp3
+
+泯
+['destroy, eliminate', ' perish']
+['destruir, eliminar', 'perecer']
+['https://media.gettyimages.com/photos/two-little-workers-tearing-out-plaster-in-their-room-picture-id638637534?k=6&m=638637534&s=612x612&w=0&h=aRlxv8fz_0I2N1KX9Tq5TJSP74bwOFDah3UyinaHv8E=', 'https://media.gettyimages.com/photos/skull-and-crossbones-on-a-glass-bottle-picture-id522209722?k=6&m=522209722&s=612x612&w=0&h=QzOL6Mur-KNmSSZGJ0i4nRm_voK0bCfhNDrvVgAtW9c=']
+U+6CEF
+8
+mǐn
+85.5
+泯.mp3
+
+泰
+['great, exalted, superior', ' big']
+['grande, exaltado, superior', 'grande']
+['NONE', 'https://media.gettyimages.com/photos/large-open-space-office-picture-id512979254?k=6&m=512979254&s=612x612&w=0&h=v9VqYJ03HBE3HZgqOBoSoNe9_7tizU8s8ufz2A8tKn8=']
+U+6CF0
+10
+tài
+85.5
+泰.mp3
+
+泱
+['great, expansive', ' agitated']
+['genial, expansivo', 'agitado']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=', 'https://media.gettyimages.com/photos/frustrated-woman-received-a-problematic-email-over-computer-picture-id1051720084?k=6&m=1051720084&s=612x612&w=0&h=KCz_oyAcXZ5LDz4ZspJvQiR0vId-rpYCofB7_6U3Lws=']
+U+6CF1
+8
+yāng
+85.5
+泱.mp3
+
+泲
+['kind of white wine', ' rivers in Hebei and Shandong']
+['tipo de vino blanco', 'ríos en Hebei y Shandong']
+['https://media.gettyimages.com/photos/young-people-having-a-toast-with-a-glass-of-wine-picture-id634758423?k=6&m=634758423&s=612x612&w=0&h=AcpsFN3aY0nxBFAEjxgqn2eYH05WvGtZ9v8F9SNtcMI=', 'NONE']
+U+6CF2
+7
+jǐ
+85.5
+泲.mp3
+
+泳
+['dive', ' swim']
+['bucear', 'nadar']
+['https://media.gettyimages.com/photos/young-brave-divers-couple-jumping-off-cliff-into-ocean-picture-id909195692?k=6&m=909195692&s=612x612&w=0&h=EcCl1Yxm3XXO7pWeLVIAZsFNT4S9JPnb4r1TOV-ty0s=', 'https://media.gettyimages.com/photos/determined-woman-swimming-in-sea-picture-id916830480?k=6&m=916830480&s=612x612&w=0&h=UuiyR-fv8v5aTeob6nGPyv0E9Z8uwfpcVNt6PoXvZzg=']
+U+6CF3
+8
+yǒng
+85.5
+泳.mp3
+
+泴
+['NONE']
+['NINGUNA']
+[]
+U+6CF4
+9
+guàn
+85.5
+泴.mp3
+
+泵
+['pump']
+['bomba']
+['https://media.gettyimages.com/photos/pink-patent-highheeled-shoe-on-a-white-background-picture-id173943143?k=6&m=173943143&s=612x612&w=0&h=toULbIgzCr2HWTc5rPjVFpxJWTyQc79wSZb86_m2T_0=']
+U+6CF5
+9
+bèng
+112.4
+泵.mp3
+
+泶
+['NONE']
+['NINGUNA']
+[]
+U+6CF6
+9
+xué
+85.5
+泶.mp3
+
+泷
+['raining', ' wet', ' soaked', ' a river in Guangdong']
+['lloviendo', 'mojado', 'mojado', 'un río en Guangdong']
+['https://media.gettyimages.com/photos/full-frame-of-the-textures-formed-by-the-drops-of-water-slipping-in-picture-id1026502304?k=6&m=1026502304&s=612x612&w=0&h=qxqDpBkvmc2751jaU1zB6NP9fBi_BvHZQxwB5wjqAOE=', 'https://media.gettyimages.com/photos/crumpled-paper-picture-id173546785?k=6&m=173546785&s=612x612&w=0&h=7r0J-cCV1qB9oE4rp7vYG3GMAWRIGpDaE7XkJI-tGdI=', 'https://media.gettyimages.com/photos/businessman-standing-in-rain-smiling-portrait-closeup-picture-id200398471-001?k=6&m=200398471-001&s=612x612&w=0&h=IcdAhQeb2qU881dnz8E_EsZAqfGulUPGmLAlqjKTSIo=', 'https://media.gettyimages.com/photos/modern-bridge-in-zhujiang-river-and-modern-building-of-financial-in-picture-id875666592?k=6&m=875666592&s=612x612&w=0&h=3K9GtxPhyIJHC37QDzCG9bxgCWxbXKADp7rWY71-gEI=']
+U+6CF7
+8
+lóng
+85.5
+泷.mp3
+
+泸
+['river in Jiangxi province']
+['río en la provincia de Jiangxi']
+['https://media.gettyimages.com/photos/landscape-with-dongbu-village-in-jingdezhen-jiangxi-province-on-a-picture-id1158950046?k=6&m=1158950046&s=612x612&w=0&h=MV-kxwfkcHaMcqf3IoeuyfzcEmNHfvoRHgNEiSgl2Fc=']
+U+6CF8
+8
+lú
+85.5
+泸.mp3
+
+泹
+['NONE']
+['NINGUNA']
+[]
+U+6CF9
+8
+dàn
+85.5
+泹.mp3
+
+泺
+['river in Shandong province']
+['río en la provincia de Shandong']
+['https://media.gettyimages.com/photos/long-exposure-in-qingdao-picture-id165103822?k=6&m=165103822&s=612x612&w=0&h=W21TNllpv-6orkerccQTVtO-6hNLQKhT7vOzznKfG3w=']
+U+6CFA
+8
+luò
+85.5
+泺.mp3
+
+泻
+['drain off, leak', ' flow, pour down']
+['drenar, fuga', 'fluir, verter']
+['https://media.gettyimages.com/photos/frozen-gutter-picture-id157585922?k=6&m=157585922&s=612x612&w=0&h=4pCJjkZ0h8rF6m7-PYmPJyv8W7ckhTi7QLbj31yDMek=', 'https://media.gettyimages.com/photos/close-up-of-motor-oil-dripping-picture-id108359326?k=6&m=108359326&s=612x612&w=0&h=JNpTergNq0j87rCfDZEGA_nd1gHPmt0ZrmxW620BrQk=']
+U+6CFB
+8
+xiè
+85.5
+泻.mp3
+
+泼
+['pour, splash, water, sprinkle']
+['para salpicaduras de agua rociar']
+['https://media.gettyimages.com/photos/blue-water-splash-picture-id183538255?k=6&m=183538255&s=612x612&w=0&h=zEwKCutDqggiuko5_ga19SNWago_BQXEX5zzt2sErSw=']
+U+6CFC
+8
+pō
+85.5
+泼.mp3
+
+泽
+['marsh, swamp', ' grace, brilliance']
+['pantano, pantano', 'gracia, brillo']
+['https://media.gettyimages.com/photos/kouchibouguac-national-park-wetland-picture-id531326882?k=6&m=531326882&s=612x612&w=0&h=cRPY8koMSzRljyWDWzr194TbiE6JNcCCDU3yicRirC0=', 'https://media.gettyimages.com/photos/portrait-of-a-woman-in-her-artist-studio-picture-id590474513?k=6&m=590474513&s=612x612&w=0&h=sr2gn2MQr6-EH53uC9ONjJESyPcgcoFQgh_wJL5wcVQ=']
+U+6CFD
+8
+zé
+85.5
+泽.mp3
+
+泾
+['name of a river']
+['nombre de un río']
+['https://media.gettyimages.com/photos/portrait-of-a-man-with-face-covered-by-the-hat-picture-id691829276?k=6&m=691829276&s=612x612&w=0&h=N2vhXO-rZe-mP5eqTatoUNgrEVvk0_W8mRzdhrL4WNE=']
+U+6CFE
+8
+jīng
+85.5
+泾.mp3
+
+泿
+['NONE']
+['NINGUNA']
+[]
+U+6CFF
+9
+yín
+85.6
+泿.mp3
+
+洀
+['NONE']
+['NINGUNA']
+[]
+U+6D00
+9
+pán
+85.6
+洀.mp3
+
+洁
+['clean, purify, pure']
+['limpiar, purificar, puro']
+['https://media.gettyimages.com/photos/pure-water-picture-id173877108?k=6&m=173877108&s=612x612&w=0&h=cy-0g-iaCL2jyadWebmFxEQDSASAklI4mb6XevGOpAY=']
+U+6D01
+9
+jié
+85.6
+洁.mp3
+
+洂
+['NONE']
+['NINGUNA']
+[]
+U+6D02
+9
+yè
+85.6
+洂.mp3
+
+洃
+['NONE']
+['NINGUNA']
+[]
+U+6D03
+9
+huī
+85.6
+洃.mp3
+
+洄
+['a back-water', ' an eddy a whirlpool']
+['un remanso', 'un remolino un remolino']
+['https://media.gettyimages.com/photos/backwater-canal-in-kerala-picture-id583332561?k=6&m=583332561&s=612x612&w=0&h=IsEY9lKONHt2Pv0gjCBrjLWlas4oQgwmebX0K10sAcc=', 'https://media.gettyimages.com/photos/beautiful-clear-teal-water-vortex-picture-id157641313?k=6&m=157641313&s=612x612&w=0&h=U7UN3pojuvWGcB3eFu7eEH16vMbbwaRMCyiGFxSsQbI=']
+U+6D04
+9
+huí
+85.6
+洄.mp3
+
+洅
+['NONE']
+['NINGUNA']
+[]
+U+6D05
+9
+zài
+85.6
+洅.mp3
+
+洆
+['NONE']
+['NINGUNA']
+[]
+U+6D06
+9
+chéng
+85.6
+洆.mp3
+
+洇
+['NONE']
+['NINGUNA']
+[]
+U+6D07
+9
+yīn
+85.6
+洇.mp3
+
+洈
+['NONE']
+['NINGUNA']
+[]
+U+6D08
+9
+wéi
+85.6
+洈.mp3
+
+洉
+['NONE']
+['NINGUNA']
+[]
+U+6D09
+9
+hòu
+85.6
+洉.mp3
+
+洊
+['flowing water']
+['agua que fluye']
+['https://media.gettyimages.com/photos/light-reflecting-on-flowing-water-picture-id185264129?k=6&m=185264129&s=612x612&w=0&h=6YB1r_WraVWfxX6KbL_Rz00qzcDmJmtK0cgRMfhmTIw=']
+U+6D0A
+9
+jiàn
+85.6
+洊.mp3
+
+洋
+['ocean, sea', ' foreign', ' western']
+['oceano Mar', 'exterior', 'occidental']
+['https://media.gettyimages.com/photos/underwater-view-picture-id925449974?k=6&m=925449974&s=612x612&w=0&h=dRj0XfPiOOvQspqTOXS-ALCP9siYvL0J382vK_BXjqA=', 'https://media.gettyimages.com/photos/theres-so-much-to-see-picture-id855413388?k=6&m=855413388&s=612x612&w=0&h=GjopS6Ymck12q9KJtvsGLvgrM_1hrLFJLr2BuNGUiYg=', 'https://media.gettyimages.com/photos/western-cowboy-native-american-on-horseback-at-monument-valley-tribal-picture-id810137688?k=6&m=810137688&s=612x612&w=0&h=joiG7Rw1UrlfyMXhMxsjnnRVrEqdpdJ0YICsR5EaeGA=']
+U+6D0B
+9
+yáng
+85.6
+洋.mp3
+
+洌
+['clear']
+['claro']
+['https://media.gettyimages.com/photos/clear-blue-sky-background-with-scattered-clouds-picture-id184304316?k=6&m=184304316&s=612x612&w=0&h=Y3daH7tigcvjNSI7dYKWiT2EWGQ14XHkxdHLqkTpaSU=']
+U+6D0C
+9
+liè
+85.6
+洌.mp3
+
+洍
+['NONE']
+['NINGUNA']
+[]
+U+6D0D
+10
+sì
+85.7
+洍.mp3
+
+洎
+['until', ' till', ' soup', ' to soak']
+['hasta', 'a', 'sopa', 'remojar']
+['https://media.gettyimages.com/photos/closed-until-further-notice-sign-in-small-business-window-picture-id1203183006?k=6&m=1203183006&s=612x612&w=0&h=aKBoHjgtyEGEBxKNIsWVpbpKpcpSBGrVQmD4QJYpUa8=', 'https://media.gettyimages.com/photos/cashier-handing-receipt-to-customer-picture-id108350281?k=6&m=108350281&s=612x612&w=0&h=3xHqDkz23Zij562Ya_A8jrkiP-OsnfYx9eGw1xP-UUE=', 'https://media.gettyimages.com/photos/pumpkin-soup-with-ingredients-on-rustic-wooden-table-picture-id1062175262?k=6&m=1062175262&s=612x612&w=0&h=3C9w0dEA3Yey5xXRMSFjlafZNd9BgUX3Ee9rlVQcUpE=', 'https://media.gettyimages.com/photos/episode-853-pictured-misocal-guest-soak-performs-on-june-25-2019-picture-id1151905598?k=6&m=1151905598&s=612x612&w=0&h=Hs6s8XYb-a2B38RKOUt05Jds0PBDpZLhjmQw1kcQlrA=']
+U+6D0E
+9
+jì
+85.6
+洎.mp3
+
+洏
+['tears', ' tearful']
+['lágrimas', 'lloroso']
+['https://media.gettyimages.com/photos/ragged-white-paper-picture-id184140028?k=6&m=184140028&s=612x612&w=0&h=M0-_SVsCETOASEfYEPeG3pp9Z6rNLTa79-BGGsIn4AM=', 'https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=']
+U+6D0F
+9
+ér
+85.6
+洏.mp3
+
+洐
+['NONE']
+['NINGUNA']
+[]
+U+6D10
+9
+xíng
+85.6
+洐.mp3
+
+洑
+['whirlpool, undercurrent']
+['bañera de hidromasaje, corriente subterránea']
+['NONE']
+U+6D11
+9
+fú
+85.6
+洑.mp3
+
+洒
+['sprinkle', ' scatter', ' pour', ' to wipe away', ' to shiver']
+['espolvorear', 'dispersión', 'para', 'para limpiar', 'para temblar']
+['https://media.gettyimages.com/photos/full-frame-of-the-textures-formed-by-the-water-jets-to-pressure-with-picture-id1170521574?k=6&m=1170521574&s=612x612&w=0&h=_JLek6hZvitGGjwmMDo1iJGJRiUbFM-We9d6Q3QpQPA=', 'https://media.gettyimages.com/photos/full-frame-of-the-textures-formed-by-the-water-jets-to-pressure-with-picture-id1170521574?k=6&m=1170521574&s=612x612&w=0&h=_JLek6hZvitGGjwmMDo1iJGJRiUbFM-We9d6Q3QpQPA=', 'https://media.gettyimages.com/photos/red-wine-picture-id507143336?k=6&m=507143336&s=612x612&w=0&h=CMmD87iTf_zlrGwkejxGYIyhrTasNpq6bW2Fzm26zTc=', 'https://media.gettyimages.com/photos/hands-with-glove-wiping-doorknob-picture-id1212740392?k=6&m=1212740392&s=612x612&w=0&h=HyHZ4e5PgwqS6CSSQ5vVx6yOKfn14bjWkMs7E8RZDQU=', 'https://media.gettyimages.com/photos/man-in-parka-hat-and-scarf-frozen-from-the-cold-picture-id638677200?k=6&m=638677200&s=612x612&w=0&h=tiLSP9yBNdQA_QtzC-4OTnxtmKLFffMrZeXH6giMNFQ=']
+U+6D12
+9
+sǎ
+85.6
+洒.mp3
+
+洓
+['NONE']
+['NINGUNA']
+[]
+U+6D13
+9
+sè
+85.6
+洓.mp3
+
+洔
+['NONE']
+['NINGUNA']
+[]
+U+6D14
+9
+zhǐ
+85.6
+洔.mp3
+
+洕
+['NONE']
+['NINGUNA']
+[]
+U+6D15
+9
+yìn
+85.6
+洕.mp3
+
+洖
+['NONE']
+['NINGUNA']
+[]
+U+6D16
+10
+wú
+85.7
+洖.mp3
+
+洗
+['wash, rinse', ' clean, purify']
+['enjuague de lavado', 'limpiar, purificar']
+['https://media.gettyimages.com/photos/gotta-make-sure-germs-have-a-zero-chance-picture-id1182622704?k=6&m=1182622704&s=612x612&w=0&h=fIlhFtSrpJblkUiV89YjzhFvulYbbKjnBtfqHBNuRBc=', 'https://media.gettyimages.com/photos/keep-your-skin-clean-picture-id1170104811?k=6&m=1170104811&s=612x612&w=0&h=auWg9Pgzo0isFZ7FC50PZwiE2dhwW4CKS4V9fuxBJxk=']
+U+6D17
+9
+xǐ
+85.6
+洗.mp3
+
+洘
+['NONE']
+['NINGUNA']
+[]
+U+6D18
+9
+kǎo
+85.6
+洘.mp3
+

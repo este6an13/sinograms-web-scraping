@@ -1,0 +1,2560 @@
+怙
+['rely on, presume on', ' persist in']
+['confiar en, presumir', 'persiste en']
+['https://media.gettyimages.com/photos/sacerdotisa-picture-id1084310016?k=6&m=1084310016&s=612x612&w=0&h=loeJE1oRBoie-VDXi5Wk3Pm5lMy8KrvLopM-ORH8Jpg=', 'https://media.gettyimages.com/photos/beautiful-brunette-female-military-swat-security-anti-terror-agent-picture-id902651838?k=6&m=902651838&s=612x612&w=0&h=7v4KrxSwrF8CSNxYDR_MbiQeadbglubrjWtzjURGqqs=']
+U+6019
+8
+hù
+61.5
+怙.mp3
+
+怚
+['dull, stupid, suspicious']
+['aburrido, estúpido, sospechoso']
+['https://media.gettyimages.com/photos/portrait-of-young-woman-picture-id200560205-002?k=6&m=200560205-002&s=612x612&w=0&h=zX_ZOuaTvZfhJKgXg1XbWSZU7KgHKER8j9XJnsVCSD4=']
+U+601A
+8
+jù
+61.5
+怚.mp3
+
+怛
+['grieved, saddened', ' worried']
+['afligido, entristecido', 'preocupado']
+['https://media.gettyimages.com/photos/surgeon-in-locker-room-looking-distraught-picture-id578202371?k=6&m=578202371&s=612x612&w=0&h=koR-iXdahlYHYEDRIS60SyQuknD5NoKm49WmNj681P0=', 'https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=']
+U+601B
+8
+dá
+61.5
+怛.mp3
+
+怜
+['pity, sympathize']
+['compasión, simpatizar']
+['https://media.gettyimages.com/photos/crying-woman-on-sofa-picture-id78740393?k=6&m=78740393&s=612x612&w=0&h=9gxygZLMj253K564-Tusw2AaM7o4E9fYwyL4stI_FVI=']
+U+601C
+8
+lián
+61.5
+怜.mp3
+
+思
+['think, consider, ponder', ' final particle']
+['piensa, considera, reflexiona', 'partícula final']
+['https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=', 'https://media.gettyimages.com/photos/abstract-big-bang-conceptual-image-picture-id898633500?k=6&m=898633500&s=612x612&w=0&h=djC1FepwNWSPf7l3CRc88zs8kP3zQwSJCjcVQEAvap4=']
+U+601D
+9
+sī
+61.5
+思.mp3
+
+怞
+['to grieve', ' sorrowful']
+['afligirse', 'triste']
+['https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/portrait-of-pensive-woman-sitting-at-table-in-the-kitchen-picture-id919440232?k=6&m=919440232&s=612x612&w=0&h=6yI90cmoKY8Xd-e-7Fb_2HJkUl00XA29QmR_x_AD_Hs=']
+U+601E
+8
+chóu
+61.5
+怞.mp3
+
+怟
+['NONE']
+['NINGUNA']
+[]
+U+601F
+8
+dì
+61.5
+怟.mp3
+
+怠
+['idle, remiss, negligent', ' neglect']
+['inactivo, negligente, negligente', 'negligencia']
+['NONE', 'https://media.gettyimages.com/photos/depressed-little-boy-sitting-on-the-floor-picture-id471031808?k=6&m=471031808&s=612x612&w=0&h=4n0vC7iuUr84n3Gvbjj5F2_joSSr7eybJCX4fERbYjw=']
+U+6020
+9
+dài
+61.5
+怠.mp3
+
+怡
+['harmony', ' pleasure, joy', ' be glad']
+['armonía', 'placer, alegría', 'estar contento']
+['https://media.gettyimages.com/photos/school-children-in-uniforms-standing-on-painted-venn-diagrams-picture-id1083673198?k=6&m=1083673198&s=612x612&w=0&h=KCqlaTt0a87Lvy45ONq7DhR9VoDX0P5NML09S-pqFUE=', 'https://media.gettyimages.com/photos/mature-man-playing-with-his-little-daughter-in-nature-picture-id1023147086?k=6&m=1023147086&s=612x612&w=0&h=2ut2H06i8kmAOemdB_BjQmz8ZLgIWK5QtTHxVS3Q2Mg=', 'https://media.gettyimages.com/photos/above-view-of-playful-parents-tickling-their-daughters-at-home-picture-id1159543952?k=6&m=1159543952&s=612x612&w=0&h=EdDKiaqzUXgcTOoWw28Cv5BDvFTDy_bUzRjKvotSx_s=']
+U+6021
+8
+yí
+61.5
+怡.mp3
+
+怢
+['NONE']
+['NINGUNA']
+[]
+U+6022
+8
+tū
+61.5
+怢.mp3
+
+怣
+['NONE']
+['NINGUNA']
+[]
+U+6023
+9
+yóu
+61.5
+怣.mp3
+
+怤
+['NONE']
+['NINGUNA']
+[]
+U+6024
+9
+fū
+61.5
+怤.mp3
+
+急
+['quick, quickly', ' urgent, pressing']
+['rápido rápidamente', 'urgente']
+['https://media.gettyimages.com/photos/city-traffic-at-night-picture-id509049212?k=6&m=509049212&s=612x612&w=0&h=ghgxMlkEg_twljDQf0Hny6IvqTg5C7pKaYez5O-Kpfk=', 'https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+6025
+9
+jí
+61.5
+急.mp3
+
+怦
+['eager, ardent, impulsive', ' anxious']
+['ansioso, ardiente, impulsivo', 'ansioso']
+['NONE', 'https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=']
+U+6026
+8
+pēng
+61.5
+怦.mp3
+
+性
+['nature, character, sex']
+['naturaleza, carácter, sexo']
+['https://media.gettyimages.com/photos/chimpanzee-puckering-its-lips-picture-id78719282?k=6&m=78719282&s=612x612&w=0&h=SHg2lJ2cGud4aoHJV9Xc_sl2jGPUbzSPLtWoFenQ_ZA=']
+U+6027
+8
+xìng
+61.5
+性.mp3
+
+怨
+['hatred, enmity, resentment']
+['odio, enemistad, resentimiento']
+['NONE']
+U+6028
+9
+yuàn
+61.5
+怨.mp3
+
+怩
+['shy, timid, bashful', ' look ashamed']
+['tímido, tímido, tímido', 'parecer avergonzado']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-table-holding-flower-vase-in-front-of-her-face-picture-id735934533?k=6&m=735934533&s=612x612&w=0&h=O1tim-r7LsPsJby_xOJ8UIgNUmOAWJEsLG50UEcQxLA=', 'https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+6029
+8
+ní
+61.5
+怩.mp3
+
+怪
+['strange, unusual, peculiar']
+['extraño, inusual, peculiar']
+['https://media.gettyimages.com/photos/young-man-wearing-giraffe-costume-on-scooter-picture-id1227565903?k=6&m=1227565903&s=612x612&w=0&h=iMcpgCGMo4UC33bLz1hoTa-ky5Jp86LNtgB7Wihuzzs=']
+U+602A
+8
+guài
+61.5
+怪.mp3
+
+怫
+['sorry, anxious', ' depressed']
+['lo siento, ansioso', 'Deprimido']
+['https://media.gettyimages.com/photos/pensive-woman-in-front-of-the-window-picture-id1129696669?k=6&m=1129696669&s=612x612&w=0&h=SUI7r5-6RiKiwAlrQK10PDF8aZIC_hyJ1RTXSlCGloE=', 'https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=']
+U+602B
+8
+fú
+61.5
+怫.mp3
+
+怬
+['NONE']
+['NINGUNA']
+[]
+U+602C
+8
+xì
+61.5
+怬.mp3
+
+怭
+['rude']
+['grosero']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+602D
+8
+bì
+61.5
+怭.mp3
+
+怮
+['NONE']
+['NINGUNA']
+[]
+U+602E
+8
+yōu
+61.5
+怮.mp3
+
+怯
+['lacking in courage, afraid']
+['falto de coraje, miedo']
+['https://media.gettyimages.com/photos/help-equilibry-picture-id172379795?k=6&m=172379795&s=612x612&w=0&h=covJuNLMrU0A4zwt05EPsAg9_MkloSfob2HFV4rqpGA=']
+U+602F
+8
+qiè
+61.5
+怯.mp3
+
+怰
+['NONE']
+['NINGUNA']
+[]
+U+6030
+8
+xuàn
+61.5
+怰.mp3
+
+怱
+['hastily, in haste, hurriedly']
+['apresuradamente, apresuradamente, apresuradamente']
+['https://media.gettyimages.com/photos/young-woman-with-a-convertible-at-a-harbour-picture-id130874006?k=6&m=130874006&s=612x612&w=0&h=u_dS_lH-7irQyePdH6xLqINUSlvpinK_C1A01-um8-A=']
+U+6031
+9
+cōng
+61.5
+怱.mp3
+
+怲
+['be anxious, be grieved, be sad']
+['estar ansioso, estar entristecido, estar triste']
+['https://media.gettyimages.com/photos/where-to-from-here-picture-id1039521272?k=6&m=1039521272&s=612x612&w=0&h=FqbZ9kU6E4i8qf8upDDApZPJGwL53tskLzLs_MUp09I=']
+U+6032
+8
+bǐng
+61.5
+怲.mp3
+
+怳
+['wild, mad', ' flurried']
+['salvaje, loco', 'agitado']
+['https://media.gettyimages.com/photos/portrait-of-angry-tiger-jakarta-indonesia-picture-id976172476?k=6&m=976172476&s=612x612&w=0&h=f5y4jYzeDyKlbKWwqeGWo6NyleD5pr8XJFv44M96Ox8=', 'https://media.gettyimages.com/photos/flurried-flight-picture-id1226261120?k=6&m=1226261120&s=612x612&w=0&h=XCJ3RPlNUavsYgx0ge463S4O62AGAFRHyyiS4X-U9dM=']
+U+6033
+8
+huǎng
+61.5
+怳.mp3
+
+怴
+['NONE']
+['NINGUNA']
+[]
+U+6034
+8
+xù
+61.5
+怴.mp3
+
+怵
+['fear, be afraid', ' shy, timid']
+['miedo, ten miedo', 'timido']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-table-holding-flower-vase-in-front-of-her-face-picture-id735934533?k=6&m=735934533&s=612x612&w=0&h=O1tim-r7LsPsJby_xOJ8UIgNUmOAWJEsLG50UEcQxLA=']
+U+6035
+8
+chù
+61.5
+怵.mp3
+
+怶
+['(Cant.) to have no zeal at all']
+['(Cant.) No tener celo en absoluto']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+6036
+8
+bì
+61.5
+怶.mp3
+
+怷
+['NONE']
+['NINGUNA']
+[]
+U+6037
+9
+shù
+61.5
+怷.mp3
+
+怸
+['cns 2-2A40 is different']
+['cns 2-2A40 es diferente']
+['NONE']
+U+6038
+9
+xī
+61.5
+怸.mp3
+
+怹
+['a polite version of he']
+['una versión educada de él']
+['NONE']
+U+6039
+9
+tān
+61.5
+怹.mp3
+
+怺
+['to endure']
+['para soportar']
+['https://media.gettyimages.com/photos/climbing-to-the-top-picture-id478806622?k=6&m=478806622&s=612x612&w=0&h=kr3IWg-aSlYzlzVg9W4jfZwrvyCbdKY-79W_7TrKGTQ=']
+U+603A
+8
+yǒng
+61.5
+怺.mp3
+
+总
+['collect', ' overall, altogether']
+['recoger', 'en general, en conjunto']
+['https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=', 'https://media.gettyimages.com/photos/portrait-of-3-cool-kids-together-on-blue-backdrop-in-summer-picture-id1013511978?k=6&m=1013511978&s=612x612&w=0&h=1Audvj2Tp1Cfk4Qoj2V5taUoO5zoS1Huchyw1b-dtr0=']
+U+603B
+9
+zǒng
+61.5
+总.mp3
+
+怼
+['hate, abhor', ' hatred, resentment']
+['odiar, aborrecer', 'odio, resentimiento']
+['https://media.gettyimages.com/photos/shes-reached-the-end-of-her-rope-picture-id487960859?k=6&m=487960859&s=612x612&w=0&h=-hB-SDo-_EZd9RVH-Ce0hoFScYFLZtvcCqg0sU84dEU=', 'https://media.gettyimages.com/photos/headshot-of-disappointed-blond-hair-young-woman-picture-id481811390?k=6&m=481811390&s=612x612&w=0&h=jdBdcq122uSGotRzl29sdgCzW6woXYUXHz5y5ByWz0E=']
+U+603C
+9
+duì
+61.5
+怼.mp3
+
+怽
+['NONE']
+['NINGUNA']
+[]
+U+603D
+8
+mo
+61.5
+怽.mp3
+
+怾
+['mountain name']
+['nombre de la montaña']
+['https://media.gettyimages.com/photos/big-ideas-lemonade-stand-picture-id1017294308?k=6&m=1017294308&s=612x612&w=0&h=jCL_v1STIi8uzm8EFjFXThQWn-BUYOH7vlRZ_J3afBU=']
+U+603E
+8
+zhǐ
+61.5
+怾.mp3
+
+怿
+['enjoy, be glad, be pleased']
+['disfruta, alégrate, alégrate']
+['https://media.gettyimages.com/photos/beating-the-deadline-like-the-champ-he-is-picture-id874811654?k=6&m=874811654&s=612x612&w=0&h=eegXYnnsBY9J6zOBww8wstNnvijdBW_UrA_peE8Y1kM=']
+U+603F
+8
+yì
+61.5
+怿.mp3
+
+恀
+['NONE']
+['NINGUNA']
+[]
+U+6040
+9
+shì
+61.6
+恀.mp3
+
+恁
+['that, like this, thus, so, such']
+['que, así, así, así, tal']
+['NONE']
+U+6041
+10
+nèn
+61.6
+恁.mp3
+
+恂
+['careful, sincere, honest', ' trust']
+['cuidadoso, sincero, honesto', 'confiar']
+['https://media.gettyimages.com/photos/encouraging-therapist-talks-with-young-woman-picture-id1034426836?k=6&m=1034426836&s=612x612&w=0&h=JbrTwBKZfwwCk_2jehkIjwFuUwB7_mhM1h0Yo7nrLgE=', 'https://media.gettyimages.com/photos/extreme-rappelling-picture-id471200040?k=6&m=471200040&s=612x612&w=0&h=XQJg6cLN_OECY026jqncxx6dskcJr6JEZVu3Pvi-CuU=']
+U+6042
+9
+xún
+61.6
+恂.mp3
+
+恃
+['rely on, presume on, trust to']
+['confiar en, presumir, confiar en']
+['https://media.gettyimages.com/photos/sacerdotisa-picture-id1084310016?k=6&m=1084310016&s=612x612&w=0&h=loeJE1oRBoie-VDXi5Wk3Pm5lMy8KrvLopM-ORH8Jpg=']
+U+6043
+9
+shì
+61.6
+恃.mp3
+
+恄
+['NONE']
+['NINGUNA']
+[]
+U+6044
+9
+xì
+61.6
+恄.mp3
+
+恅
+['NONE']
+['NINGUNA']
+[]
+U+6045
+9
+lǎo
+61.6
+恅.mp3
+
+恆
+['constant, regular, persistent']
+['constante, regular, persistente']
+['https://media.gettyimages.com/photos/businessman-placing-next-stone-in-pathway-in-lake-picture-id171393168?k=6&m=171393168&s=612x612&w=0&h=x9PgaC7nNlEKvPKYJPMtA00xUX4J74BFw4cMRbAQQbs=']
+U+6046
+9
+héng
+61.6
+恆.mp3
+
+恇
+['fear']
+['temor']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+6047
+9
+kuāng
+61.6
+恇.mp3
+
+恈
+['NONE']
+['NINGUNA']
+[]
+U+6048
+9
+móu
+61.6
+恈.mp3
+
+恉
+['meaning, purport, drift']
+['significado, significado, deriva']
+['NONE']
+U+6049
+9
+zhǐ
+61.6
+恉.mp3
+
+恊
+['be united', ' cooperate']
+['esten unidos', 'cooperar']
+['https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+604A
+9
+xié
+61.6
+恊.mp3
+
+恋
+['love', ' long for, yearn for', ' love']
+['amor', 'anhelar, anhelar', 'amor']
+['https://media.gettyimages.com/photos/in-love-with-the-landscape-picture-id892010070?k=6&m=892010070&s=612x612&w=0&h=LE0vwwLhyLGUpQiP0OYXIYNtNWS5Ezna07YYyQ3WPe0=', 'https://media.gettyimages.com/photos/american-flag-with-uncle-sam-pointing-at-you-picture-id157696118?k=6&m=157696118&s=612x612&w=0&h=S_RhHgC0g7imk8x4bbpC93UPo7PYLSP5QqL8fx8LIko=', 'https://media.gettyimages.com/photos/in-love-with-the-landscape-picture-id892010070?k=6&m=892010070&s=612x612&w=0&h=LE0vwwLhyLGUpQiP0OYXIYNtNWS5Ezna07YYyQ3WPe0=']
+U+604B
+10
+liàn
+61.6
+恋.mp3
+
+恌
+['to worry', ' frivolous']
+['preocuparse', 'frívolo']
+['https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=', 'https://media.gettyimages.com/photos/girls-carrying-shopping-bags-picture-id1073935306?k=6&m=1073935306&s=612x612&w=0&h=3vPn17dPt4tAYTfa5izL9BHHE2yV-GPOn3DiN2kTKAo=']
+U+604C
+9
+tiāo
+61.6
+恌.mp3
+
+恍
+['seemingly', ' absent-minded']
+['aparentemente', 'despistado']
+['https://media.gettyimages.com/photos/baseball-on-white-background-closeup-picture-idsb10064171e-001?k=6&m=sb10064171e-001&s=612x612&w=0&h=578KNc50DXTXItM8szQa8RIvPJYgVtCTwUqUiE624is=', 'https://media.gettyimages.com/photos/man-standing-in-abandoned-lot-looking-up-at-sky-metallic-briefcase-on-picture-idpha262000010?k=6&m=pha262000010&s=612x612&w=0&h=ZwK-ay320e0DtA687mcGUEDKQ0UwSP7FTMyCx0Ha0o4=']
+U+604D
+9
+huǎng
+61.6
+恍.mp3
+
+恎
+['NONE']
+['NINGUNA']
+[]
+U+604E
+9
+dié
+61.6
+恎.mp3
+
+恏
+['NONE']
+['NINGUNA']
+[]
+U+604F
+10
+hào
+61.6
+恏.mp3
+
+恐
+['fear', ' fearful, apprehensive']
+['temor', 'temeroso, aprensivo']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=', 'https://media.gettyimages.com/photos/girl-looking-through-the-window-picture-id540961086?k=6&m=540961086&s=612x612&w=0&h=oICqeMwJvJ40DMs4PDwDNJjhuX7JBN9s8rUywhogoZQ=']
+U+6050
+10
+kǒng
+61.6
+恐.mp3
+
+恑
+['to change', ' to alter', ' to accommodate oneself to']
+['cambiar', 'alterar', 'acomodarse a']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132928752?k=6&m=1132928752&s=612x612&w=0&h=3lvoIGo4OYnLUC0Gwbkndm9T5_V-M3cV-E9ovArdp6g=', 'https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132928752?k=6&m=1132928752&s=612x612&w=0&h=3lvoIGo4OYnLUC0Gwbkndm9T5_V-M3cV-E9ovArdp6g=', 'NONE']
+U+6051
+9
+guǐ
+61.6
+恑.mp3
+
+恒
+['constant, regular, persistent']
+['constante, regular, persistente']
+['https://media.gettyimages.com/photos/businessman-placing-next-stone-in-pathway-in-lake-picture-id171393168?k=6&m=171393168&s=612x612&w=0&h=x9PgaC7nNlEKvPKYJPMtA00xUX4J74BFw4cMRbAQQbs=']
+U+6052
+9
+héng
+61.6
+恒.mp3
+
+恓
+['vexed']
+['enfadado']
+['https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+6053
+9
+xī
+61.6
+恓.mp3
+
+恔
+['cheerful', ' bright, sagacious']
+['alegre', 'brillante, sagaz']
+['https://media.gettyimages.com/photos/above-view-of-playful-parents-tickling-their-daughters-at-home-picture-id1159543952?k=6&m=1159543952&s=612x612&w=0&h=EdDKiaqzUXgcTOoWw28Cv5BDvFTDy_bUzRjKvotSx_s=', 'NONE']
+U+6054
+9
+jiǎo
+61.6
+恔.mp3
+
+恕
+['forgive, excuse, show mercy']
+['perdona, disculpa, muestra misericordia']
+['NONE']
+U+6055
+10
+shù
+61.6
+恕.mp3
+
+恖
+['NONE']
+['NINGUNA']
+[]
+U+6056
+10
+sī
+61.6
+恖.mp3
+
+恗
+['NONE']
+['NINGUNA']
+[]
+U+6057
+9
+hū
+61.6
+恗.mp3
+
+恘
+['NONE']
+['NINGUNA']
+[]
+U+6058
+9
+qiū
+61.6
+恘.mp3
+
+恙
+['illness, sickness', ' indisposition']
+['enfermedad', 'indisposición']
+['https://media.gettyimages.com/photos/sick-woman-blowing-her-nose-she-covered-with-blanket-picture-id1135175362?k=6&m=1135175362&s=612x612&w=0&h=Nke1Q193RMRqF2sma8hUym_Ou662E891V8vFu17PAoc=', 'https://media.gettyimages.com/photos/symbolic-picture-of-young-woman-experiencing-urinary-incontinence-picture-id130833894?k=6&m=130833894&s=612x612&w=0&h=mo_C_s2aYcxZGM_BbasNqiOG9XmNjH-Tr1PtdhLCW-Q=']
+U+6059
+10
+yàng
+61.6
+恙.mp3
+
+恚
+['anger, rage']
+['ira, rabia']
+['https://media.gettyimages.com/photos/shes-reached-the-end-of-her-rope-picture-id487960859?k=6&m=487960859&s=612x612&w=0&h=-hB-SDo-_EZd9RVH-Ce0hoFScYFLZtvcCqg0sU84dEU=']
+U+605A
+10
+huì
+61.6
+恚.mp3
+
+恛
+['disordered', ' indistinct doubtful', ' blurred']
+['desordenado', 'indistinto dudoso', 'borroso']
+['https://media.gettyimages.com/photos/messy-apartment-counter-tops-covered-in-clutter-picture-id1091796420?k=6&m=1091796420&s=612x612&w=0&h=ogYr1-mx_SkqrTLg7DeM5dKsHk7Zpl4L4hAEd10vUFU=', 'https://media.gettyimages.com/photos/its-been-a-long-shift-picture-id476613252?k=6&m=476613252&s=612x612&w=0&h=w_gRHDu-WuMizwJedAkokwjM2P3UOFkzzQ5dqY8Lmac=', 'https://media.gettyimages.com/photos/making-success-happen-picture-id1008372432?k=6&m=1008372432&s=612x612&w=0&h=nOahrXM-zIiaxaSWJiAfcCCSfkn6t0Nxt3IzT6DX0Jo=']
+U+605B
+9
+huí
+61.6
+恛.mp3
+
+恜
+['NONE']
+['NINGUNA']
+[]
+U+605C
+9
+chì
+61.6
+恜.mp3
+
+恝
+['carefree', ' indifferent manner', ' without sorrow']
+['despreocupado', 'manera indiferente', 'sin pena']
+['https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'NONE', 'NONE']
+U+605D
+10
+jiá
+61.6
+恝.mp3
+
+恞
+['NONE']
+['NINGUNA']
+[]
+U+605E
+9
+yí
+61.6
+恞.mp3
+
+恟
+['scared, nervous']
+['asustado, nervioso']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+605F
+9
+xiōng
+61.6
+恟.mp3
+
+恠
+['strange, unusual, peculiar']
+['extraño, inusual, peculiar']
+['https://media.gettyimages.com/photos/young-man-wearing-giraffe-costume-on-scooter-picture-id1227565903?k=6&m=1227565903&s=612x612&w=0&h=iMcpgCGMo4UC33bLz1hoTa-ky5Jp86LNtgB7Wihuzzs=']
+U+6060
+9
+guài
+61.6
+恠.mp3
+
+恡
+['stingy, sparing of', ' close-fisted']
+['tacaño, ahorrador de', 'tacaño']
+['NONE', 'NONE']
+U+6061
+9
+lìn
+61.6
+恡.mp3
+
+恢
+['restore', ' big, great, immense, vast']
+['restaurar', 'grande, grande, inmenso, vasto']
+['https://media.gettyimages.com/photos/sewage-flood-home-restoration-picture-id157485438?k=6&m=157485438&s=612x612&w=0&h=bne3pFmy6MXwu_mWOeWYV9GuHE9NbAssa9-FY-Edrb8=', 'https://media.gettyimages.com/photos/male-hiker-in-the-high-mountains-picture-id969136652?k=6&m=969136652&s=612x612&w=0&h=s52IScjLAsQ0O7EgDJf1WhAFC-jbXWK91zRvJow-BzY=']
+U+6062
+9
+huī
+61.6
+恢.mp3
+
+恣
+['indulge oneself, unrestrained']
+['darse un capricho, desenfrenado']
+['https://media.gettyimages.com/photos/smiling-young-woman-on-the-back-seat-of-a-car-picture-id735897359?k=6&m=735897359&s=612x612&w=0&h=TJf-BQgRF4TRw-wAUp67GHJ8v2r4QoiKtk0flI_VZlU=']
+U+6063
+10
+zì
+61.6
+恣.mp3
+
+恤
+['show pity', ' relieve, help']
+['mostrar piedad', 'aliviar, ayudar']
+['NONE', 'https://media.gettyimages.com/photos/making-a-good-deed-picture-id1209079790?k=6&m=1209079790&s=612x612&w=0&h=TvqwPKuuekkKoIbftbnlntpujxxjzggpun3fkQsR86Q=']
+U+6064
+9
+xù
+61.6
+恤.mp3
+
+恥
+['shame, humiliation', ' ashamed']
+['vergüenza, humillación', 'avergonzado']
+['https://media.gettyimages.com/photos/businessman-wearing-dunce-cap-picture-id77740402?k=6&m=77740402&s=612x612&w=0&h=k3b7BANnYVVhmYDTbC9hsGAR06qJLK1c1b9Lzn8Mxs0=', 'https://media.gettyimages.com/photos/sad-high-school-student-feeling-lonely-in-a-hallway-picture-id1151538952?k=6&m=1151538952&s=612x612&w=0&h=nZVnyRnt25pYAJ3FSPQL-zdQlsdXkfMVjlATKVwidMw=']
+U+6065
+10
+chǐ
+61.6
+恥.mp3
+
+恦
+['NONE']
+['NINGUNA']
+[]
+U+6066
+9
+shàng
+61.6
+恦.mp3
+
+恧
+['ashamed']
+['avergonzado']
+['https://media.gettyimages.com/photos/sad-high-school-student-feeling-lonely-in-a-hallway-picture-id1151538952?k=6&m=1151538952&s=612x612&w=0&h=nZVnyRnt25pYAJ3FSPQL-zdQlsdXkfMVjlATKVwidMw=']
+U+6067
+10
+nǜ
+61.6
+恧.mp3
+
+恨
+['hatred, dislike', ' resent, hate']
+['odio, disgusto', 'resentir, odiar']
+['https://media.gettyimages.com/photos/mmmnah-picture-id1080813354?k=6&m=1080813354&s=612x612&w=0&h=U5lUEmEvw0qKVnB6QvNnsHZA9Ic2kjQN8Rl8QirZqNg=', 'https://media.gettyimages.com/photos/breakup-of-a-couple-with-bad-girl-and-sad-boyfriend-picture-id679193998?k=6&m=679193998&s=612x612&w=0&h=DOgDKbv1bZ2UG4B3ai4vyZ6G4b7pYyS17bwXT9QyeQs=']
+U+6068
+9
+hèn
+61.6
+恨.mp3
+
+恩
+['kindness, mercy, charity']
+['bondad, misericordia, caridad']
+['https://media.gettyimages.com/photos/businessman-giving-food-to-homeless-man-picture-id81296379?k=6&m=81296379&s=612x612&w=0&h=TH7Fq2QZKKm8a3um36cjEdozH8sOhgUxSmdHV-VulFk=']
+U+6069
+10
+ēn
+61.6
+恩.mp3
+
+恪
+['respectful, reverent']
+['respetuoso, reverente']
+['https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+606A
+9
+kè
+61.6
+恪.mp3
+
+恫
+['in pain, sorrowful']
+['en dolor, triste']
+['https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=']
+U+606B
+9
+dòng
+61.6
+恫.mp3
+
+恬
+['quiet, calm, tranquil, peaceful']
+['tranquilo, calmado, tranquilo, pacífico']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+606C
+9
+tián
+61.6
+恬.mp3
+
+恭
+['respectful, polite, reverent']
+['respetuoso, educado, reverente']
+['https://media.gettyimages.com/photos/businessmen-greeting-picture-id72420856?k=6&m=72420856&s=612x612&w=0&h=i-zZ8lIyFq8olmBUBfGNzW37am7g4PXz7WgNO-j3t3Y=']
+U+606D
+10
+gōng
+61.6
+恭.mp3
+
+恮
+['NONE']
+['NINGUNA']
+[]
+U+606E
+9
+quān
+61.6
+恮.mp3
+
+息
+['rest, put stop to, end, cease']
+['descansar, parar, acabar, cesar']
+['NONE']
+U+606F
+10
+xī
+61.6
+息.mp3
+
+恰
+['just, exactly, precisely', ' proper']
+['solo, exactamente, precisamente', 'apropiado']
+['NONE', 'https://media.gettyimages.com/photos/ve-solidified-my-name-in-the-business-world-picture-id831902150?k=6&m=831902150&s=612x612&w=0&h=isHPeq3cbruLXQvGKYnWlMQu3edAB_lMKBUePjR1XsY=']
+U+6070
+9
+qià
+61.6
+恰.mp3
+
+恱
+['NONE']
+['NINGUNA']
+[]
+U+6071
+9
+yuè
+61.6
+恱.mp3
+
+恲
+['NONE']
+['NINGUNA']
+[]
+U+6072
+9
+pēng
+61.6
+恲.mp3
+
+恳
+['sincere, earnest, cordial']
+['sincero, serio, cordial']
+['NONE']
+U+6073
+10
+kěn
+61.6
+恳.mp3
+
+恴
+['NONE']
+['NINGUNA']
+[]
+U+6074
+10
+dé
+61.6
+恴.mp3
+
+恵
+['favor, benefit, confer kindness']
+['favorecer, beneficiar, conferir bondad']
+['NONE']
+U+6075
+10
+huì
+61.6
+恵.mp3
+
+恶
+['evil, wicked, bad, foul']
+['malvado, malvado, malo, asqueroso']
+['https://media.gettyimages.com/photos/futbol-series-picture-id172196018?k=6&m=172196018&s=612x612&w=0&h=6U-uTVVzPKdCL7W6ZdR8fk1BnB1Buo5ZkOQZxQlyRqw=']
+U+6076
+10
+è
+61.6
+恶.mp3
+
+恷
+['NONE']
+['NINGUNA']
+[]
+U+6077
+10
+xiao
+61.6
+恷.mp3
+
+恸
+['sadness, grief', ' mourn', ' be moved']
+['tristeza, pena', 'llorar', 'ser movido']
+['https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/moving-boxes-and-potted-plants-at-new-apartment-picture-id1016102754?k=6&m=1016102754&s=612x612&w=0&h=FGgrIPvIRRkw50rnn8tOUqZOb80PxsfddqFC2v01254=']
+U+6078
+9
+tòng
+61.6
+恸.mp3
+
+恹
+['feeble, sickly', ' tranquil, calm']
+['débil, enfermizo', 'tranquilo, calmado']
+['https://media.gettyimages.com/photos/mixed-race-boy-in-hospital-gown-picture-id91497328?k=6&m=91497328&s=612x612&w=0&h=0FvUw818aAl932sVGdZczbrmT9SJ9BMUOe4iHzOfOMU=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+6079
+9
+yān
+61.6
+恹.mp3
+
+恺
+['enjoy, be contented, joyful']
+['disfrutar, estar contento, alegre']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=']
+U+607A
+9
+kǎi
+61.6
+恺.mp3
+
+恻
+['feel anguish, feel compassion']
+['siente angustia, siente compasión']
+['https://media.gettyimages.com/photos/african-american-mother-consoling-her-sad-girl-at-home-picture-id1077179266?k=6&m=1077179266&s=612x612&w=0&h=2VC_MSsiR-uRIrVrVId_DTaqrwzg5Mib1Uf_XWnC_sk=']
+U+607B
+9
+cè
+61.6
+恻.mp3
+
+恼
+['angered, filled with hate']
+['enojado, lleno de odio']
+['https://media.gettyimages.com/photos/traffic-jam-picture-id171240537?k=6&m=171240537&s=612x612&w=0&h=1uwmH4sJuJQZ2LbcHIVAF9qelqnQYJHGUBH4-58qy9U=']
+U+607C
+9
+nǎo
+61.6
+恼.mp3
+
+恽
+['devise, plan, deliberate', ' consult']
+['idear, planificar, deliberado', 'consultar']
+['https://media.gettyimages.com/photos/businessman-framing-distant-sun-rays-picture-id650191488?k=6&m=650191488&s=612x612&w=0&h=MHXvQAKWyszxV4PJNObHQhd69mX5n9j50FVbJCIlBBs=', 'https://media.gettyimages.com/photos/wellthat-was-easy-picture-id1047519510?k=6&m=1047519510&s=612x612&w=0&h=4TTvCx274tMksSu2Ly0DwTUoFx_xohtUQzBfw4IBFlA=']
+U+607D
+9
+yùn
+61.6
+恽.mp3
+
+恾
+['NONE']
+['NINGUNA']
+[]
+U+607E
+9
+máng
+61.7
+恾.mp3
+
+恿
+['instigate, incite', ' to alarm']
+['instigar, incitar', 'la alarma']
+['NONE', 'https://media.gettyimages.com/photos/woman-setting-burglar-alarm-picture-id107908210?k=6&m=107908210&s=612x612&w=0&h=0a4Otbg07iTVBPl4uvZONQ9GM_RGQ3JoIq_PhGXk0J8=']
+U+607F
+11
+yǒng
+61.7
+恿.mp3
+
+悀
+['NONE']
+['NINGUNA']
+[]
+U+6080
+10
+yǒng
+61.7
+悀.mp3
+
+悁
+['irritable, nervous, impatient']
+['irritable, nervioso, impaciente']
+['https://media.gettyimages.com/photos/young-woman-biting-lower-lip-looking-at-camera-close-up-portrait-picture-id55991457?k=6&m=55991457&s=612x612&w=0&h=Te8zq75SNa8QJ4bqnDxxTXRNRgHPUt5baqvP9n-3w4Y=']
+U+6081
+10
+yuān
+61.7
+悁.mp3
+
+悂
+['NONE']
+['NINGUNA']
+[]
+U+6082
+10
+pī
+61.7
+悂.mp3
+
+悃
+['sincere, genuine, honest, loyal']
+['sincero, genuino, honesto, leal']
+['https://media.gettyimages.com/photos/daydreaming-girl-picture-id1185168524?k=6&m=1185168524&s=612x612&w=0&h=6SVutUTG8lh0psvuM6jmWJjfuKiVL_fh928DFCZOU2I=']
+U+6083
+10
+kǔn
+61.7
+悃.mp3
+
+悄
+['silent, quiet, still', ' anxious']
+['silencioso, tranquilo, quieto', 'ansioso']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=']
+U+6084
+10
+qiāo
+61.7
+悄.mp3
+
+悅
+['pleased']
+['satisfecho']
+['https://media.gettyimages.com/photos/content-is-king-text-typed-on-vintage-typewriter-picture-id958919586?k=6&m=958919586&s=612x612&w=0&h=LgxMRjaU3dLPU6qUBdHDJiKGiilzDWi4JehmWSRHQBQ=']
+U+6085
+10
+yuè
+61.7
+悅.mp3
+
+悆
+['happy']
+['feliz']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=']
+U+6086
+11
+yù
+61.7
+悆.mp3
+
+悇
+['NONE']
+['NINGUNA']
+[]
+U+6087
+10
+tú
+61.7
+悇.mp3
+
+悈
+['to enjoin upon', ' urgent']
+['para ordenar', 'urgente']
+['NONE', 'https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+6088
+10
+jiè
+61.7
+悈.mp3
+
+悉
+['know, learn about, comprehend']
+['saber, aprender, comprender']
+['https://media.gettyimages.com/photos/light-bulbs-conceptideas-of-new-ideas-with-innovative-technology-and-picture-id1061561084?k=6&m=1061561084&s=612x612&w=0&h=nCoiTfx7NKT8G8-Qo6jtd53xSY3Xq1cUHPyqWjgc0X4=']
+U+6089
+11
+xī
+61.7
+悉.mp3
+
+悊
+['wise. to know intuitively']
+['sabio. saber intuitivamente']
+['NONE']
+U+608A
+11
+zhé
+61.7
+悊.mp3
+
+悋
+['stingy, sparing of', ' closefisted']
+['tacaño, ahorrador de', 'puño cerrado']
+['NONE', 'NONE']
+U+608B
+10
+lìn
+61.7
+悋.mp3
+
+悌
+['brotherly, respectful']
+['fraternal, respetuoso']
+['https://media.gettyimages.com/photos/young-nerd-boy-yelling-at-siblings-with-megaphone-picture-id992091504?k=6&m=992091504&s=612x612&w=0&h=vAWYde5GBr6Ml95oDAXY83_6QI9JPB2fnx8WpyayKfY=']
+U+608C
+10
+tì
+61.7
+悌.mp3
+
+悍
+['courageous, brave', ' violent']
+['valiente, valiente', 'violento']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=', 'https://media.gettyimages.com/photos/domestic-violence-abuse-picture-id154902161?k=6&m=154902161&s=612x612&w=0&h=hFsF_-drKf6e1f8QUUNCjNZhLnKMz2YcoSOEE2krqb8=']
+U+608D
+10
+hàn
+61.7
+悍.mp3
+
+悎
+['NONE']
+['NINGUNA']
+[]
+U+608E
+10
+hào
+61.7
+悎.mp3
+
+悏
+['NONE']
+['NINGUNA']
+[]
+U+608F
+10
+qiè
+61.7
+悏.mp3
+
+悐
+['respect, regard', ' to stand in awe of, to be alarmed']
+['respeto, consideración', 'estar asombrado de, estar alarmado']
+['https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=', 'https://media.gettyimages.com/photos/sometimes-you-have-to-fall-to-know-where-you-stand-picture-id523218197?k=6&m=523218197&s=612x612&w=0&h=YXJGAM0HFxfNl7To5GPlyP3150IjAV7yjo_vR_ynrc4=']
+U+6090
+11
+tì
+61.7
+悐.mp3
+
+悑
+['NONE']
+['NINGUNA']
+[]
+U+6091
+10
+bù
+61.7
+悑.mp3
+
+悒
+['sorrowful, depressed, unhappy']
+['triste, deprimido, infeliz']
+['https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=']
+U+6092
+10
+yì
+61.7
+悒.mp3
+
+悓
+['NONE']
+['NINGUNA']
+[]
+U+6093
+10
+qiàn
+61.7
+悓.mp3
+
+悔
+['repent, show remorse, regret']
+['arrepentirse, mostrar remordimiento, arrepentirse']
+['NONE']
+U+6094
+10
+huǐ
+61.7
+悔.mp3
+
+悕
+['NONE']
+['NINGUNA']
+[]
+U+6095
+10
+xī
+61.7
+悕.mp3
+
+悖
+['be contradictory to, go counter']
+['ser contradictorio, ir en contra']
+['https://media.gettyimages.com/photos/employee-working-on-her-computer-while-other-staff-members-walking-picture-id748346477?k=6&m=748346477&s=612x612&w=0&h=WnXj9esYM_JjN8xcmwIMwlNN_1jeklcSVxEVtLiHH_Q=']
+U+6096
+10
+bèi
+61.7
+悖.mp3
+
+悗
+['NONE']
+['NINGUNA']
+[]
+U+6097
+10
+mán
+61.7
+悗.mp3
+
+悘
+['NONE']
+['NINGUNA']
+[]
+U+6098
+11
+yī
+61.7
+悘.mp3
+
+悙
+['NONE']
+['NINGUNA']
+[]
+U+6099
+10
+hēng
+61.7
+悙.mp3
+
+悚
+['afraid, scared, frightened']
+['asustado, asustado, asustado']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+609A
+10
+sǒng
+61.7
+悚.mp3
+
+悛
+['repent, reform']
+['arrepentirse, reformar']
+['NONE']
+U+609B
+10
+quān
+61.7
+悛.mp3
+
+悜
+['obscure']
+['oscuro']
+['https://media.gettyimages.com/photos/covered-car-picture-id93531541?k=6&m=93531541&s=612x612&w=0&h=Y_ZQ8aDmmnuOwAAcqmWx-AmkZEGMxw89IooGcd0Nvmo=']
+U+609C
+10
+chěng
+61.7
+悜.mp3
+
+悝
+['to laugh at to pity', ' afflicted, sad']
+['reírse de la pena', 'afligido, triste']
+['NONE', 'https://media.gettyimages.com/photos/young-women-afflicted-with-abdominal-cramps-after-a-jog-picture-id1139062126?k=6&m=1139062126&s=612x612&w=0&h=iu6i-u5getsL9AeOsn9yWkvFlVQ8TsTPFY7cILUAVKU=']
+U+609D
+10
+kuī
+61.7
+悝.mp3
+
+悞
+['impede', ' neglect, delay']
+['impedir', 'negligencia, retraso']
+['https://media.gettyimages.com/photos/business-man-being-held-back-by-picture-id82597851?k=6&m=82597851&s=612x612&w=0&h=gBYsteT9RZGxc5e7UC_zPes7V9Ek2zdxWQ2DgvcGdFw=', 'https://media.gettyimages.com/photos/lonely-child-looking-through-window-picture-id483234179?k=6&m=483234179&s=612x612&w=0&h=cLS33Fin7Ne0tuPdDX-M1vlDVZRrJ3nd4wk1OPRyIqw=']
+U+609E
+10
+wù
+61.7
+悞.mp3
+
+悟
+['to apprehend, realize, become aware']
+['para aprehender, darse cuenta, tomar conciencia']
+['NONE']
+U+609F
+10
+wù
+61.7
+悟.mp3
+
+悠
+['long, far, remote, distant', ' leisurely']
+['largo, lejano, remoto, distante', 'sin prisa']
+['https://media.gettyimages.com/photos/long-desert-road-picture-id508757514?k=6&m=508757514&s=612x612&w=0&h=hQhLpiJhhIoYRXWZ4Wrzo9Z3VneUgSJiS2Dq-QvJxtw=', 'https://media.gettyimages.com/photos/home-automation-picture-id838164388?k=6&m=838164388&s=612x612&w=0&h=nbT0-1C8gNenJCpYoLSyVPPeQpCCvQyXemUnV72LDlQ=']
+U+60A0
+11
+yōu
+61.7
+悠.mp3
+
+悡
+['NONE']
+['NINGUNA']
+[]
+U+60A1
+11
+lí
+61.7
+悡.mp3
+
+悢
+['NONE']
+['NINGUNA']
+[]
+U+60A2
+10
+liàng
+61.7
+悢.mp3
+
+患
+['suffer, worry about', ' suffering']
+['sufrir, preocuparse por', 'sufrimiento']
+['https://media.gettyimages.com/photos/where-to-from-here-picture-id1039521272?k=6&m=1039521272&s=612x612&w=0&h=FqbZ9kU6E4i8qf8upDDApZPJGwL53tskLzLs_MUp09I=', 'https://media.gettyimages.com/photos/an-injured-hand-will-put-an-end-to-most-workouts-picture-id1055486958?k=6&m=1055486958&s=612x612&w=0&h=tJ3PWANtfSHqJwid8iSZ1bzafYtyacmr0DXY_Fjogp8=']
+U+60A3
+11
+huàn
+61.7
+患.mp3
+
+悤
+['agitated, restless, hurried']
+['agitado, inquieto, apresurado']
+['NONE']
+U+60A4
+11
+cōng
+61.7
+悤.mp3
+
+悥
+['NONE']
+['NINGUNA']
+[]
+U+60A5
+11
+yì
+61.7
+悥.mp3
+
+悦
+['pleased, contented, gratified']
+['complacido, contento, satisfecho']
+['https://media.gettyimages.com/photos/content-is-king-text-typed-on-vintage-typewriter-picture-id958919586?k=6&m=958919586&s=612x612&w=0&h=LgxMRjaU3dLPU6qUBdHDJiKGiilzDWi4JehmWSRHQBQ=']
+U+60A6
+10
+yuè
+61.7
+悦.mp3
+
+悧
+['smooth', ' active', ' clever, sharp']
+['suave', 'activo', 'inteligente, agudo']
+['https://media.gettyimages.com/photos/home-automation-picture-id838164388?k=6&m=838164388&s=612x612&w=0&h=nbT0-1C8gNenJCpYoLSyVPPeQpCCvQyXemUnV72LDlQ=', 'https://media.gettyimages.com/photos/stretching-is-something-you-should-be-doing-every-day-picture-id1187354794?k=6&m=1187354794&s=612x612&w=0&h=lpPNeM-KzLHJCwKXkAbNyPl25Px_mUdxyaAyK4ceP8M=', 'https://media.gettyimages.com/photos/color-pencils-on-wood-background-picture-id840726456?k=6&m=840726456&s=612x612&w=0&h=E-GQ8QpDP763GAqJboENuwqF-4k0bHwB0FfSiUqz7yo=']
+U+60A7
+10
+lì
+61.7
+悧.mp3
+
+您
+["honorific for 'you'"]
+["honorífico para 'ti'"]
+['NONE']
+U+60A8
+11
+nín
+61.7
+您.mp3
+
+悩
+['angered, filled with hate']
+['enojado, lleno de odio']
+['https://media.gettyimages.com/photos/traffic-jam-picture-id171240537?k=6&m=171240537&s=612x612&w=0&h=1uwmH4sJuJQZ2LbcHIVAF9qelqnQYJHGUBH4-58qy9U=']
+U+60A9
+10
+nǎo
+61.7
+悩.mp3
+
+悪
+['evil, wicked, bad, foul']
+['malvado, malvado, malo, asqueroso']
+['https://media.gettyimages.com/photos/futbol-series-picture-id172196018?k=6&m=172196018&s=612x612&w=0&h=6U-uTVVzPKdCL7W6ZdR8fk1BnB1Buo5ZkOQZxQlyRqw=']
+U+60AA
+11
+è
+61.7
+悪.mp3
+
+悫
+['sincerity, honesty', ' modest']
+['sinceridad, honestidad', 'modesto']
+['https://media.gettyimages.com/photos/the-success-of-a-business-leans-on-its-team-picture-id1023552044?k=6&m=1023552044&s=612x612&w=0&h=Lt2vXZMKySPDLyW2KqVpQoKQKoDIhk7J7xu4UfMsN7Q=', 'https://media.gettyimages.com/photos/overhead-view-of-wooden-floor-picture-id185232989?k=6&m=185232989&s=612x612&w=0&h=1nN0HjRM0Nx38XIgCvHcikwSAVyX05QKCuJGVLioWA8=']
+U+60AB
+11
+què
+61.7
+悫.mp3
+
+悬
+['hang, suspend, hoist', ' be hung']
+['colgar, suspender, izar', 'ser colgado']
+['https://media.gettyimages.com/photos/two-women-on-gymnastic-bar-picture-id923379178?k=6&m=923379178&s=612x612&w=0&h=Q04GQMbtvhjXEB1gyIfNLEW3RGdOPxMqDagwGX08pu4=', 'https://media.gettyimages.com/photos/old-weathered-white-wood-signboard-picture-id157739459?k=6&m=157739459&s=612x612&w=0&h=7g33mpTBA65XQWXiS2y00B1qdz8PeavaxneqWgTT86U=']
+U+60AC
+11
+xuán
+61.7
+悬.mp3
+
+悭
+['miserly, parsimonious, stingy']
+['avaro, parsimonioso, tacaño']
+['NONE']
+U+60AD
+10
+qiān
+61.7
+悭.mp3
+
+悮
+['impede', ' neglect, delay']
+['impedir', 'negligencia, retraso']
+['https://media.gettyimages.com/photos/business-man-being-held-back-by-picture-id82597851?k=6&m=82597851&s=612x612&w=0&h=gBYsteT9RZGxc5e7UC_zPes7V9Ek2zdxWQ2DgvcGdFw=', 'https://media.gettyimages.com/photos/lonely-child-looking-through-window-picture-id483234179?k=6&m=483234179&s=612x612&w=0&h=cLS33Fin7Ne0tuPdDX-M1vlDVZRrJ3nd4wk1OPRyIqw=']
+U+60AE
+10
+wù
+61.7
+悮.mp3
+
+悯
+['pity, sympathize with, grieve for']
+['compadecerse, compadecerse, llorar por']
+['https://media.gettyimages.com/photos/crying-woman-on-sofa-picture-id78740393?k=6&m=78740393&s=612x612&w=0&h=9gxygZLMj253K564-Tusw2AaM7o4E9fYwyL4stI_FVI=']
+U+60AF
+10
+mǐn
+61.7
+悯.mp3
+
+悰
+['enjoy, amuse, please', ' joy']
+['disfruta, diviertete, por favor', 'alegría']
+['https://media.gettyimages.com/photos/woman-chasing-man-while-riding-bicycle-picture-id509403985?k=6&m=509403985&s=612x612&w=0&h=HXqlas81oPbJWz4Tvh3ZWzUWsGmRWyloMMwdhK1kJsY=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+60B0
+11
+cóng
+61.8
+悰.mp3
+
+悱
+['to be desirous of speaking']
+['tener ganas de hablar']
+['https://media.gettyimages.com/photos/snack-time-and-movies-picture-id1165386391?k=6&m=1165386391&s=612x612&w=0&h=sGE5Z4WXCNUXV7Lo-O-DRkzfysi_KUBmcGzNeD7bpqw=']
+U+60B1
+11
+fěi
+61.8
+悱.mp3
+
+悲
+['sorrow, grief', ' sorry, sad']
+['dolor, dolor', 'lo siento, triste']
+['https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/portrait-of-pensive-woman-sitting-at-table-in-the-kitchen-picture-id919440232?k=6&m=919440232&s=612x612&w=0&h=6yI90cmoKY8Xd-e-7Fb_2HJkUl00XA29QmR_x_AD_Hs=']
+U+60B2
+12
+bēi
+61.8
+悲.mp3
+
+悳
+['ethics, morality, virtue']
+['ética, moralidad, virtud']
+['https://media.gettyimages.com/photos/leadership-concepts-picture-id1066510306?k=6&m=1066510306&s=612x612&w=0&h=quUNzHtqmbZQ1BnI-oOrnaZyquFE8m9fBl69UpqGSiw=']
+U+60B3
+12
+dé
+61.8
+悳.mp3
+
+悴
+['suffer, become emaciated, haggard']
+['sufrir, demacrado, demacrado']
+['NONE']
+U+60B4
+11
+cuì
+61.8
+悴.mp3
+
+悵
+['disappointed, dissatisfied']
+['decepcionado, insatisfecho']
+['https://media.gettyimages.com/photos/real-displeased-senior-woman-portrait-picture-id947252896?k=6&m=947252896&s=612x612&w=0&h=oc3PYHeEG29wxCEnYvyyxvwauRXT2qH4aEGjrmObw5Y=']
+U+60B5
+11
+chàng
+61.8
+悵.mp3
+
+悶
+['gloomy, depressed, melancholy']
+['sombrío, deprimido, melancólico']
+['https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=']
+U+60B6
+12
+mèn
+61.8
+悶.mp3
+
+悷
+['NONE']
+['NINGUNA']
+[]
+U+60B7
+11
+lì
+61.8
+悷.mp3
+
+悸
+['fearful, apprehensive, perturbed']
+['temeroso, aprensivo, perturbado']
+['https://media.gettyimages.com/photos/girl-looking-through-the-window-picture-id540961086?k=6&m=540961086&s=612x612&w=0&h=oICqeMwJvJ40DMs4PDwDNJjhuX7JBN9s8rUywhogoZQ=']
+U+60B8
+11
+jì
+61.8
+悸.mp3
+
+悹
+['NONE']
+['NINGUNA']
+[]
+U+60B9
+12
+guàn
+61.8
+悹.mp3
+
+悺
+['NONE']
+['NINGUNA']
+[]
+U+60BA
+11
+guàn
+61.8
+悺.mp3
+
+悻
+['anger, vexation', ' angry, indignant']
+['ira, vejación', 'enojado, indignado']
+['https://media.gettyimages.com/photos/real-displeased-senior-woman-portrait-picture-id947252896?k=6&m=947252896&s=612x612&w=0&h=oc3PYHeEG29wxCEnYvyyxvwauRXT2qH4aEGjrmObw5Y=', 'https://media.gettyimages.com/photos/an-indignant-young-man-spreads-his-arms-and-is-unhappy-with-the-on-picture-id1214069056?k=6&m=1214069056&s=612x612&w=0&h=c6eQUKgw56-k8mm8U8RaASoJzFqWvl4BYU3BRVKiVkc=']
+U+60BB
+11
+xìng
+61.8
+悻.mp3
+
+悼
+['grieve, mourn, lament', ' grieved']
+['llorar, llorar, lamentar', 'apenado']
+['https://media.gettyimages.com/photos/tears-picture-id92026209?k=6&m=92026209&s=612x612&w=0&h=Zd0PVpVESjkzMCduSNq3WRfBIgbpJJxTlr_ZwXb1LuU=', 'https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=']
+U+60BC
+11
+dào
+61.8
+悼.mp3
+
+悽
+['sorrowful, grieved, melancholy']
+['triste, afligido, melancólico']
+['https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=']
+U+60BD
+11
+qī
+61.8
+悽.mp3
+
+悾
+['naive, guileless, simple-minded']
+['ingenuo, inocente, ingenuo']
+['NONE']
+U+60BE
+11
+kōng
+61.8
+悾.mp3
+
+悿
+['NONE']
+['NINGUNA']
+[]
+U+60BF
+11
+tiǎn
+61.8
+悿.mp3
+
+惀
+['NONE']
+['NINGUNA']
+[]
+U+60C0
+11
+lún
+61.8
+惀.mp3
+
+惁
+['NONE']
+['NINGUNA']
+[]
+U+60C1
+12
+xī
+61.8
+惁.mp3
+
+惂
+['NONE']
+['NINGUNA']
+[]
+U+60C2
+11
+kǎn
+61.8
+惂.mp3
+
+惃
+['NONE']
+['NINGUNA']
+[]
+U+60C3
+11
+gǔn
+61.8
+惃.mp3
+
+惄
+['long for', ' hungry']
+['anhelar', 'hambriento']
+['https://media.gettyimages.com/photos/american-flag-with-uncle-sam-pointing-at-you-picture-id157696118?k=6&m=157696118&s=612x612&w=0&h=S_RhHgC0g7imk8x4bbpC93UPo7PYLSP5QqL8fx8LIko=', 'https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=']
+U+60C4
+12
+nì
+61.8
+惄.mp3
+
+情
+['feeling, sentiment, emotion']
+['sentimiento, sentimiento, emoción']
+['https://media.gettyimages.com/photos/pensive-woman-in-front-of-the-window-picture-id1129696669?k=6&m=1129696669&s=612x612&w=0&h=SUI7r5-6RiKiwAlrQK10PDF8aZIC_hyJ1RTXSlCGloE=']
+U+60C5
+11
+qíng
+61.8
+情.mp3
+
+惆
+['distressed, regretful, sad']
+['angustiado, arrepentido, triste']
+['https://media.gettyimages.com/photos/woman-having-problems-picture-id1075048598?k=6&m=1075048598&s=612x612&w=0&h=JAJCrpZjQQ_f88YMukTr0MuR6SUPdzFTJkqumB6H3ww=']
+U+60C6
+11
+chóu
+61.8
+惆.mp3
+
+惇
+['be kind, cordial, sincere']
+['se amable, cordial, sincero']
+['NONE']
+U+60C7
+11
+dūn
+61.8
+惇.mp3
+
+惈
+['NONE']
+['NINGUNA']
+[]
+U+60C8
+11
+guǒ
+61.8
+惈.mp3
+
+惉
+['NONE']
+['NINGUNA']
+[]
+U+60C9
+12
+zhān
+61.8
+惉.mp3
+
+惊
+['frighten, surprise, startle']
+['asustar, sorprender, sobresaltar']
+['https://media.gettyimages.com/photos/portrait-of-shocked-woman-outdoors-picture-id1023295616?k=6&m=1023295616&s=612x612&w=0&h=blkFSK30gqhezpGJjs7E4sL5Uhp-Yc2bLBND0_bMHUw=']
+U+60CA
+11
+jīng
+61.8
+惊.mp3
+
+惋
+['regret, be sorry', ' alarmed']
+['arrepentirse, lo siento', 'alarmado']
+['https://media.gettyimages.com/photos/thats-it-im-done-picture-id936117884?k=6&m=936117884&s=612x612&w=0&h=x4-h_dLBBva37ZzpDtuYv5wIhUZ1UvrBeXlqiIs7Kuo=', 'https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+60CB
+11
+wǎn
+61.8
+惋.mp3
+
+惌
+['to bear a grudge against']
+['guardar rencor contra']
+['https://media.gettyimages.com/photos/brown-bear-roaring-side-view-picture-idAA045492?k=6&m=AA045492&s=612x612&w=0&h=6tbMI7zqtW9CzSRAYS0zJ9CW9U3TaA9KsY8TXC8Y_LQ=']
+U+60CC
+12
+yuān
+61.8
+惌.mp3
+
+惍
+['NONE']
+['NINGUNA']
+[]
+U+60CD
+11
+jīn
+61.8
+惍.mp3
+
+惎
+['injure, harm, murder']
+['herir, dañar, asesinar']
+['https://media.gettyimages.com/photos/corpse-picture-id157373010?k=6&m=157373010&s=612x612&w=0&h=Tw7O3y4bYuX8j-dNydhA02PvQZDV7Wlny8vAkJJr7vs=']
+U+60CE
+12
+jì
+61.8
+惎.mp3
+
+惏
+['avaricious', ' greedy cold']
+['avaro', 'frío codicioso']
+['https://media.gettyimages.com/photos/abandoned-home-picture-id157568086?k=6&m=157568086&s=612x612&w=0&h=yPbh1ZZ0OiePou2tVF_wHHB0Bha1qB7q1m7RLyjjOXQ=', 'https://media.gettyimages.com/photos/young-person-with-protective-face-mask-buying-groceriessupplies-in-picture-id1215041437?k=6&m=1215041437&s=612x612&w=0&h=xlQm7SqDsm4WgwoGHCcQNIngww1brw5-yo6R3XDL3mQ=']
+U+60CF
+11
+lán
+61.8
+惏.mp3
+
+惐
+['NONE']
+['NINGUNA']
+[]
+U+60D0
+11
+yù
+61.8
+惐.mp3
+
+惑
+['confuse, mislead, baffle', ' doubt']
+['confundir, engañar, desconcertar', 'duda']
+['NONE', 'https://media.gettyimages.com/photos/lost-businessman-picture-id908875256?k=6&m=908875256&s=612x612&w=0&h=ZouWnUIzd2SHWJ0jS7tV2zWnZuSOG08pNDVPDsQNukc=']
+U+60D1
+12
+huò
+61.8
+惑.mp3
+
+惒
+['NONE']
+['NINGUNA']
+[]
+U+60D2
+12
+hé
+61.8
+惒.mp3
+
+惓
+['careful, sincere, candid']
+['cuidadoso, sincero, sincero']
+['https://media.gettyimages.com/photos/m-so-grateful-for-all-that-youve-done-for-me-picture-id649645602?k=6&m=649645602&s=612x612&w=0&h=42kAoZcmoj7alSJMQGMVB1MfsgQLmKSg6G7m0hm4u5Y=']
+U+60D3
+11
+quán
+61.8
+惓.mp3
+
+惔
+['cheerful']
+['alegre']
+['https://media.gettyimages.com/photos/above-view-of-playful-parents-tickling-their-daughters-at-home-picture-id1159543952?k=6&m=1159543952&s=612x612&w=0&h=EdDKiaqzUXgcTOoWw28Cv5BDvFTDy_bUzRjKvotSx_s=']
+U+60D4
+11
+tán
+61.8
+惔.mp3
+
+惕
+['be cautious, careful, alert']
+['ten cuidado, cuidado, alerta']
+['https://media.gettyimages.com/photos/hospital-staff-working-with-protection-mask-picture-id1217456353?k=6&m=1217456353&s=612x612&w=0&h=UrQG4dJRj-EKaCL7-x8w1mX-fX1fjdQyQwm7mDjZgYs=']
+U+60D5
+11
+tì
+61.8
+惕.mp3
+
+惖
+['respect', ' fear']
+['el respeto', 'temor']
+['https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=', 'https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+60D6
+12
+tì
+61.8
+惖.mp3
+
+惗
+['(Cant.) to think, consider']
+['(Cant.) Pensar, considerar']
+['https://media.gettyimages.com/photos/cant-take-much-more-of-this-picture-id481422976?k=6&m=481422976&s=612x612&w=0&h=wHV9hFtE0_UZSuMcG2CsFHKFCdQ5dtEJQxaJTtGkmFI=']
+U+60D7
+11
+niè
+61.8
+惗.mp3
+
+惘
+['disconcerted, dejected, discouraged']
+['desconcertado, abatido, desanimado']
+['NONE']
+U+60D8
+11
+wǎng
+61.8
+惘.mp3
+
+惙
+['sad, melancholy, grieving, mournful']
+['triste, melancólico, afligido, lúgubre']
+['https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=']
+U+60D9
+11
+chuò
+61.8
+惙.mp3
+
+惚
+['absent-minded, confused']
+['distraído, confundido']
+['https://media.gettyimages.com/photos/proudly-absentminded-picture-id157511916?k=6&m=157511916&s=612x612&w=0&h=As-GxcxlAPcxbB2YpPz7v3h6K2RQ26XhUIixn4OPAwU=']
+U+60DA
+11
+hū
+61.8
+惚.mp3
+
+惛
+['confused, stupid, dull, senile']
+['confundido, estúpido, aburrido, senil']
+['NONE']
+U+60DB
+11
+hūn
+61.8
+惛.mp3
+
+惜
+['pity, regret, rue, begrudge']
+['lástima, arrepentimiento, ruda, envidia']
+['NONE']
+U+60DC
+11
+xī
+61.8
+惜.mp3
+
+惝
+['alarmed, agitated']
+['alarmado, agitado']
+['https://media.gettyimages.com/photos/shocked-picture-id184625367?k=6&m=184625367&s=612x612&w=0&h=Ov6uu2ht15XOwM974YcfvYqKcLQFC131MY8Xh7Y-F2w=']
+U+60DD
+11
+chǎng
+61.8
+惝.mp3
+
+惞
+['NONE']
+['NINGUNA']
+[]
+U+60DE
+11
+xīn
+61.8
+惞.mp3
+
+惟
+['but, however, nevertheless', ' only']
+['pero, sin embargo, sin embargo', 'solamente']
+['NONE', 'https://media.gettyimages.com/photos/woman-put-take-out-only-sign-on-front-door-shop-picture-id1217771747?k=6&m=1217771747&s=612x612&w=0&h=kP4s0JjyylfmtLRrbSWuKc_jwL8c4lzkDPrVKkOI2ZA=']
+U+60DF
+11
+wéi
+61.8
+惟.mp3
+
+惠
+['favor, benefit, confer kindness']
+['favorecer, beneficiar, conferir bondad']
+['NONE']
+U+60E0
+12
+huì
+61.8
+惠.mp3
+
+惡
+['evil, wicked, bad, foul']
+['malvado, malvado, malo, asqueroso']
+['https://media.gettyimages.com/photos/futbol-series-picture-id172196018?k=6&m=172196018&s=612x612&w=0&h=6U-uTVVzPKdCL7W6ZdR8fk1BnB1Buo5ZkOQZxQlyRqw=']
+U+60E1
+12
+è
+61.8
+惡.mp3
+
+惢
+['NONE']
+['NINGUNA']
+[]
+U+60E2
+12
+suǒ
+61.8
+惢.mp3
+
+惣
+['overall [questionable variant]']
+['en general [variante cuestionable]']
+['NONE']
+U+60E3
+12
+zǒng
+61.8
+惣.mp3
+
+惤
+['NONE']
+['NINGUNA']
+[]
+U+60E4
+11
+jiān
+61.8
+惤.mp3
+
+惥
+['NONE']
+['NINGUNA']
+[]
+U+60E5
+12
+yǒng
+61.8
+惥.mp3
+
+惦
+['think of, remember, miss']
+['piensa en, recuerda, señorita']
+['https://media.gettyimages.com/photos/girl-looking-through-the-window-picture-id540961086?k=6&m=540961086&s=612x612&w=0&h=oICqeMwJvJ40DMs4PDwDNJjhuX7JBN9s8rUywhogoZQ=']
+U+60E6
+11
+diàn
+61.8
+惦.mp3
+
+惧
+['fear, be afraid of, dread']
+['miedo, tener miedo, pavor']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+60E7
+11
+jù
+61.8
+惧.mp3
+
+惨
+['sad, pitiful, wretched', ' cruel']
+['triste, lamentable, miserable', 'cruel']
+['https://media.gettyimages.com/photos/portrait-of-pensive-woman-sitting-at-table-in-the-kitchen-picture-id919440232?k=6&m=919440232&s=612x612&w=0&h=6yI90cmoKY8Xd-e-7Fb_2HJkUl00XA29QmR_x_AD_Hs=', 'https://media.gettyimages.com/photos/domestic-violence-abuse-picture-id154902161?k=6&m=154902161&s=612x612&w=0&h=hFsF_-drKf6e1f8QUUNCjNZhLnKMz2YcoSOEE2krqb8=']
+U+60E8
+11
+cǎn
+61.8
+惨.mp3
+
+惩
+['punish, reprimand', ' warn']
+['castigar, reprender', 'advertir']
+['https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=', 'https://media.gettyimages.com/photos/hazard-warning-sign-picture-id73096444?k=6&m=73096444&s=612x612&w=0&h=YQHQ9wwhEGQhNYL-F-o2SFRSRe6TcMh0SzZS4sbO5iA=']
+U+60E9
+12
+chéng
+61.8
+惩.mp3
+
+惪
+['ethics']
+['ética']
+['https://media.gettyimages.com/photos/ethics-is-underscored-heavily-in-a-document-morality-has-relevance-picture-id162922472?k=6&m=162922472&s=612x612&w=0&h=JEUFiKG22VTKFWC4yQ9Wz_-MBbX5wOGluDS42108YOI=']
+U+60EA
+12
+dé
+61.8
+惪.mp3
+
+惫
+['tired, weary, fatigued']
+['cansado, cansado, fatigado']
+['https://media.gettyimages.com/photos/entrepreneur-yawning-in-office-picture-id502938603?k=6&m=502938603&s=612x612&w=0&h=Ek2WcqGkHt9YNiVyGAYYwlICRZAkolj_JJiQ2ZPDddA=']
+U+60EB
+12
+bèi
+61.8
+惫.mp3
+
+惬
+['be satisfied, be comfortable']
+['estar satisfecho, estar cómodo']
+['https://media.gettyimages.com/photos/the-suns-up-and-so-is-my-mood-picture-id911999972?k=6&m=911999972&s=612x612&w=0&h=dimamyIp4K_FgUZGEdHI3ZmGptgJPtm0vzfbxIQ7vM4=']
+U+60EC
+11
+qiè
+61.8
+惬.mp3
+
+惭
+['ashamed, humiliated', ' shameful']
+['avergonzado, humillado', 'vergonzoso']
+['https://media.gettyimages.com/photos/businessman-wearing-dunce-cap-picture-id77740402?k=6&m=77740402&s=612x612&w=0&h=k3b7BANnYVVhmYDTbC9hsGAR06qJLK1c1b9Lzn8Mxs0=', 'https://media.gettyimages.com/photos/discarded-and-polluting-plastic-garbage-on-sand-collected-from-beach-picture-id998263790?k=6&m=998263790&s=612x612&w=0&h=U4tu4B1j2Q1eNu3pokAqIylkLgsskHF-xf3wLHmY-ec=']
+U+60ED
+11
+cán
+61.8
+惭.mp3
+
+惮
+['dread, shrink from, shirk, fear']
+['pavor, rehuir, rehuir, miedo']
+['NONE']
+U+60EE
+11
+dàn
+61.8
+惮.mp3
+
+惯
+['habit, custom', ' habitually, usual']
+['hábito, costumbre', 'habitualmente']
+['https://media.gettyimages.com/photos/mass-in-san-giovanni-laterano-basilica-rome-italy-picture-id629433932?k=6&m=629433932&s=612x612&w=0&h=Dfjk2X05SxX9gcsOYMgMVpJUtlro6OBIW96LKbvqqn8=', 'https://media.gettyimages.com/photos/shes-habitually-healthy-picture-id1126684533?k=6&m=1126684533&s=612x612&w=0&h=Gxr0b9lpvBj5hbtvD7x1RCO6tLo2owPW8TSTQfEusZo=']
+U+60EF
+11
+guàn
+61.8
+惯.mp3
+
+惰
+['indolent, careless, lazy, idle']
+['indolente, descuidado, perezoso, inactivo']
+['https://media.gettyimages.com/photos/complacency-picture-id183273959?k=6&m=183273959&s=612x612&w=0&h=uB2XqPegdmbmbL--nbuJaqz8vUrO0wEcW7htz2MfoNo=']
+U+60F0
+12
+duò
+61.9
+惰.mp3
+
+惱
+['angered, filled with hate']
+['enojado, lleno de odio']
+['https://media.gettyimages.com/photos/traffic-jam-picture-id171240537?k=6&m=171240537&s=612x612&w=0&h=1uwmH4sJuJQZ2LbcHIVAF9qelqnQYJHGUBH4-58qy9U=']
+U+60F1
+12
+nǎo
+61.9
+惱.mp3
+
+惲
+['devise, plan, deliberate', ' consult']
+['idear, planificar, deliberado', 'consultar']
+['https://media.gettyimages.com/photos/businessman-framing-distant-sun-rays-picture-id650191488?k=6&m=650191488&s=612x612&w=0&h=MHXvQAKWyszxV4PJNObHQhd69mX5n9j50FVbJCIlBBs=', 'https://media.gettyimages.com/photos/wellthat-was-easy-picture-id1047519510?k=6&m=1047519510&s=612x612&w=0&h=4TTvCx274tMksSu2Ly0DwTUoFx_xohtUQzBfw4IBFlA=']
+U+60F2
+12
+yùn
+61.9
+惲.mp3
+
+想
+['think, speculate, plan, consider']
+['pensar, especular, planificar, considerar']
+['https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=']
+U+60F3
+13
+xiǎng
+61.9
+想.mp3
+
+惴
+['afraid, apprehensive, nervous']
+['asustado, aprensivo, nervioso']
+['https://media.gettyimages.com/photos/girl-looking-through-the-window-picture-id540961086?k=6&m=540961086&s=612x612&w=0&h=oICqeMwJvJ40DMs4PDwDNJjhuX7JBN9s8rUywhogoZQ=']
+U+60F4
+12
+zhuì
+61.9
+惴.mp3
+
+惵
+['NONE']
+['NINGUNA']
+[]
+U+60F5
+12
+dié
+61.9
+惵.mp3
+
+惶
+['fearful, afraid, anxious, nervous']
+['temeroso, asustado, ansioso, nervioso']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+60F6
+12
+huáng
+61.9
+惶.mp3
+
+惷
+['wriggle', ' stupid', ' silly', ' fat']
+['meneo', 'estúpido', 'tonto', 'grasa']
+['https://media.gettyimages.com/photos/women-in-plastic-bag-dress-picture-id471500401?k=6&m=471500401&s=612x612&w=0&h=JcXWVytPdLqth0qlhEopSHM_APf7Uhs8stT8so_Lkfw=', 'https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=', 'https://media.gettyimages.com/photos/boy-and-dog-in-toy-racing-car-picture-id1162019476?k=6&m=1162019476&s=612x612&w=0&h=3FWAHt58LjBXH_oKNqG7kB45ULUsH1MLmLl5Cpea7ek=', 'https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+60F7
+13
+chǔn
+61.9
+惷.mp3
+
+惸
+['troubled, worried, distressed']
+['atribulado, preocupado, angustiado']
+['https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=']
+U+60F8
+12
+qióng
+61.9
+惸.mp3
+
+惹
+['irritate, vex, offend, incite']
+['irritar, molestar, ofender, incitar']
+['https://media.gettyimages.com/photos/angry-young-businesswoman-eyes-fistful-of-dollars-in-horrified-picture-id155149460?k=6&m=155149460&s=612x612&w=0&h=CbpNvcSp0Hn-m9uCipPrYRFMqMx0YErg2IGjDDan3Z8=']
+U+60F9
+12
+rě
+61.9
+惹.mp3
+
+惺
+['intelligent, clever, astute']
+['inteligente, astuto, astuto']
+['https://media.gettyimages.com/photos/man-typing-at-his-laptop-computer-at-night-picture-id1175885065?k=6&m=1175885065&s=612x612&w=0&h=linIow1lHVisIjbKFS0RWKCNtJPOXI9ee_04lK1j91U=']
+U+60FA
+12
+xīng
+61.9
+惺.mp3
+
+惻
+['feel anguish, feel compassion']
+['siente angustia, siente compasión']
+['https://media.gettyimages.com/photos/african-american-mother-consoling-her-sad-girl-at-home-picture-id1077179266?k=6&m=1077179266&s=612x612&w=0&h=2VC_MSsiR-uRIrVrVId_DTaqrwzg5Mib1Uf_XWnC_sk=']
+U+60FB
+12
+cè
+61.9
+惻.mp3
+
+惼
+['narrow-minded']
+['de mente estrecha']
+['https://media.gettyimages.com/photos/-picture-id126389942?k=6&m=126389942&s=612x612&w=0&h=Yn5iL8ujEcyKfcVd_H1W0ttVDdKJTrBFeO17vl8ZOD0=']
+U+60FC
+12
+biǎn
+61.9
+惼.mp3
+
+惽
+['confused']
+['confuso']
+['https://media.gettyimages.com/photos/woman-pulling-face-picture-id1144830585?k=6&m=1144830585&s=612x612&w=0&h=TWgpZu3NQp8qPfVqc06KluNDvcXMbcGnytsDkN6NhCc=']
+U+60FD
+12
+mǐn
+61.9
+惽.mp3
+
+惾
+['NONE']
+['NINGUNA']
+[]
+U+60FE
+12
+zōng
+61.9
+惾.mp3
+
+惿
+['NONE']
+['NINGUNA']
+[]
+U+60FF
+12
+tí
+61.9
+惿.mp3
+
+愀
+["to change one's countenance, be anxious", ' to blush']
+['para cambiar el semblante, estar ansioso', 'ruborizarse']
+['NONE', 'https://media.gettyimages.com/photos/sad-high-school-student-feeling-lonely-in-a-hallway-picture-id1151538952?k=6&m=1151538952&s=612x612&w=0&h=nZVnyRnt25pYAJ3FSPQL-zdQlsdXkfMVjlATKVwidMw=']
+U+6100
+12
+qiǎo
+61.9
+愀.mp3
+
+愁
+['anxiety', ' to worry about, be anxious']
+['ansiedad', 'de qué preocuparse, estar ansioso']
+['https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=', 'https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=']
+U+6101
+13
+chóu
+61.9
+愁.mp3
+
+愂
+['NONE']
+['NINGUNA']
+[]
+U+6102
+13
+bèi
+61.9
+愂.mp3
+
+愃
+['relax']
+['relajarse']
+['https://media.gettyimages.com/photos/young-woman-spending-a-relaxing-day-in-her-beautiful-home-picture-id1062517720?k=6&m=1062517720&s=612x612&w=0&h=cOZzkiXa8eBpKCwTlOJsZrfVX_Sj87o_5d1q5sxPMRs=']
+U+6103
+12
+xuān
+61.9
+愃.mp3
+
+愄
+['NONE']
+['NINGUNA']
+[]
+U+6104
+12
+wēi
+61.9
+愄.mp3
+
+愅
+['NONE']
+['NINGUNA']
+[]
+U+6105
+12
+gé
+61.9
+愅.mp3
+
+愆
+['a fault, mistake, error, transgression']
+['una falta, error, error, transgresión']
+['NONE']
+U+6106
+13
+qiān
+61.9
+愆.mp3
+
+愇
+['NONE']
+['NINGUNA']
+[]
+U+6107
+12
+wěi
+61.9
+愇.mp3
+
+愈
+['more and more, even more']
+['más y más, aún más']
+['https://media.gettyimages.com/photos/double-billboard-picture-id171252702?k=6&m=171252702&s=612x612&w=0&h=fP0kqyG2A-zDdCyahkbExPu4BTykF-7ppeyGfRrXdV4=']
+U+6108
+13
+yù
+61.9
+愈.mp3
+
+愉
+['pleasant, delightful', ' please']
+['agradable, delicioso', 'Por favor']
+['https://media.gettyimages.com/photos/delightful-dalliances-picture-id481914813?k=6&m=481914813&s=612x612&w=0&h=h7Fvp6euSeBGQLMQNY6qsZxsEmNnKH1BGaiPGjKElYQ=', 'https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=']
+U+6109
+12
+yú
+61.9
+愉.mp3
+
+愊
+['sincere, honest', ' depressed']
+['sincero, honesto', 'Deprimido']
+['https://media.gettyimages.com/photos/the-success-of-a-business-leans-on-its-team-picture-id1023552044?k=6&m=1023552044&s=612x612&w=0&h=Lt2vXZMKySPDLyW2KqVpQoKQKoDIhk7J7xu4UfMsN7Q=', 'https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=']
+U+610A
+12
+bì
+61.9
+愊.mp3
+
+愋
+['NONE']
+['NINGUNA']
+[]
+U+610B
+12
+xuān
+61.9
+愋.mp3
+
+愌
+['NONE']
+['NINGUNA']
+[]
+U+610C
+12
+huàn
+61.9
+愌.mp3
+
+愍
+['pity, sympathize with']
+['compasión, simpatizar con']
+['https://media.gettyimages.com/photos/crying-woman-on-sofa-picture-id78740393?k=6&m=78740393&s=612x612&w=0&h=9gxygZLMj253K564-Tusw2AaM7o4E9fYwyL4stI_FVI=']
+U+610D
+13
+mǐn
+61.9
+愍.mp3
+
+愎
+['obstinate, stubborn, headstrong']
+['obstinado, terco, testarudo']
+['https://media.gettyimages.com/photos/close-up-of-norfolk-terrier-picture-id136630116?k=6&m=136630116&s=612x612&w=0&h=wmBn5QRM99KA9a_HJmTM_2SGBt4A6Xn1DWPGloaqGro=']
+U+610E
+12
+bì
+61.9
+愎.mp3
+
+意
+['thought, idea, opinion', ' think']
+['pensamiento, idea, opinión', 'pensar']
+['https://media.gettyimages.com/photos/high-angle-view-of-people-forming-a-speech-bubble-picture-id1070513916?k=6&m=1070513916&s=612x612&w=0&h=LqUrC_EGvOeC05tJIFvXnA5Hojod5dMtw4A27rl49GE=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+610F
+13
+yì
+61.9
+意.mp3
+
+愐
+['bashful', ' to consider']
+['tímido', 'considerar']
+['https://media.gettyimages.com/photos/african-american-woman-covering-face-with-hands-picture-id916194700?k=6&m=916194700&s=612x612&w=0&h=A8Z_p6eUCHmN8liDLUlQAb4y3747mOnkhsF1GWb1Fuw=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+6110
+12
+miǎn
+61.9
+愐.mp3
+
+愑
+['NONE']
+['NINGUNA']
+[]
+U+6111
+12
+yǒng
+61.9
+愑.mp3
+
+愒
+['rest, stop']
+['parada de descanso']
+['https://media.gettyimages.com/photos/silent-pause-or-break-time-hand-gesture-on-white-picture-id155135533?k=6&m=155135533&s=612x612&w=0&h=CPkLr5Qxjp9UDNjnHLCRSB5I7lHYIKzgKy1caA0UUcA=']
+U+6112
+12
+kài
+61.9
+愒.mp3
+
+愓
+['profligate']
+['libertino']
+['https://media.gettyimages.com/photos/the-dowager-empress-marble-boat-in-the-summer-palace-picture-id522519098?k=6&m=522519098&s=612x612&w=0&h=plN3edUd7xrMZLhPT4HvlpQV-yg3N0aUncHWWynYCmk=']
+U+6113
+12
+dàng
+61.9
+愓.mp3
+
+愔
+['comfortable, contented, peaceful']
+['cómodo, contento, pacífico']
+['https://media.gettyimages.com/photos/portrait-of-smiling-mature-woman-resting-on-couch-at-home-picture-id1057213250?k=6&m=1057213250&s=612x612&w=0&h=tlAv_nn_a8acfV1XphwRr5AYMwhDkh0sfgh52J-SUlo=']
+U+6114
+12
+yīn
+61.9
+愔.mp3
+
+愕
+['startled, alarmed, astonished']
+['sobresaltado, alarmado, asombrado']
+['https://media.gettyimages.com/photos/portrait-of-shocked-woman-outdoors-picture-id1023295616?k=6&m=1023295616&s=612x612&w=0&h=blkFSK30gqhezpGJjs7E4sL5Uhp-Yc2bLBND0_bMHUw=']
+U+6115
+12
+è
+61.9
+愕.mp3
+
+愖
+['to hesitate']
+['dudar']
+['https://media.gettyimages.com/photos/dont-hesitate-to-stop-by-without-buying-anything-picture-id537282044?k=6&m=537282044&s=612x612&w=0&h=tH60eib3c5vvvdh16vFPzBjTKVG-azCSN3JR22IQWBE=']
+U+6116
+12
+chén
+61.9
+愖.mp3
+
+愗
+['NONE']
+['NINGUNA']
+[]
+U+6117
+13
+mào
+61.9
+愗.mp3
+
+愘
+['NONE']
+['NINGUNA']
+[]
+U+6118
+12
+qià
+61.9
+愘.mp3
+

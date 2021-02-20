@@ -1,0 +1,2560 @@
+訙
+['NONE']
+['NINGUNA']
+[]
+U+8A19
+10
+xùn
+149.3
+訙.mp3
+
+訚
+['speak gently', ' respectful']
+['habla suavemente', 'respetuoso']
+['https://media.gettyimages.com/photos/cheerful-buisnesswoman-meets-with-colleague-picture-id1055689220?k=6&m=1055689220&s=612x612&w=0&h=OqP6mttF1_PKBUbEkX5jI2xcbnJjK59KrJRNSkb5Cjo=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+8A1A
+10
+yín
+149.3
+訚.mp3
+
+訛
+['swindle, cheat', ' erroneous, wrong']
+['estafar, engañar', 'erróneo']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=', 'https://media.gettyimages.com/vectors/check-box-line-icons-set-vector-id971623978?k=6&m=971623978&s=612x612&w=0&h=Pmiv6l4aCH5omYMOlS6OyatP51LMhhAEAKSbAMJ9FVc=']
+U+8A1B
+11
+é
+149.4
+訛.mp3
+
+訜
+['NONE']
+['NINGUNA']
+[]
+U+8A1C
+11
+fēn
+149.4
+訜.mp3
+
+訝
+['express surprise, be surprised']
+['expresa sorpresa, sorpréndete']
+['https://media.gettyimages.com/photos/woman-pulling-face-picture-id1144830585?k=6&m=1144830585&s=612x612&w=0&h=TWgpZu3NQp8qPfVqc06KluNDvcXMbcGnytsDkN6NhCc=']
+U+8A1D
+11
+yà
+149.4
+訝.mp3
+
+訞
+['NONE']
+['NINGUNA']
+[]
+U+8A1E
+11
+yāo
+149.4
+訞.mp3
+
+訟
+['accuse', ' argue, dispute', ' litigate']
+['acusar', 'discutir, disputar', 'litigar']
+['https://media.gettyimages.com/photos/frustrated-woman-received-a-problematic-email-over-computer-picture-id1051720084?k=6&m=1051720084&s=612x612&w=0&h=KCz_oyAcXZ5LDz4ZspJvQiR0vId-rpYCofB7_6U3Lws=', 'https://media.gettyimages.com/photos/please-stop-arguing-picture-id1060407278?k=6&m=1060407278&s=612x612&w=0&h=HPnnmaJ25TfCuqGLNoR_6cScWJ8EvsGODzXD-OpxKj0=', 'https://media.gettyimages.com/vectors/-vector-id1014727420?k=6&m=1014727420&s=612x612&w=0&h=kubH8O3Zj3VMHAvGc9NRW565C-qWCGEj44qg32c03fk=']
+U+8A1F
+11
+sòng
+149.4
+訟.mp3
+
+訠
+['much more, still more', ' the gums']
+['mucho mas aun mas', 'las encías']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/beautiful-smile-with-dental-mirror-picture-id185331512?k=6&m=185331512&s=612x612&w=0&h=CtIqqOgwNWDCFW3UFfqmVMJRYu9rXMzamhdbVsuI7X8=']
+U+8A20
+11
+shěn
+149.4
+訠.mp3
+
+訡
+['to chant, to moan, to sigh']
+['la mano, el gemido, el silencio']
+['NONE']
+U+8A21
+11
+yín
+149.4
+訡.mp3
+
+訢
+['pleased, delighted', ' happy']
+['complacido, encantado', 'feliz']
+['https://media.gettyimages.com/photos/joyous-woman-infront-of-wall-picture-id981594838?k=6&m=981594838&s=612x612&w=0&h=L3Aq4sxRdLAqbQVmeT52d1nnqGyNu_qPHUjEPcUmoo8=', 'https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=']
+U+8A22
+11
+xīn
+149.4
+訢.mp3
+
+訣
+['take leave of, bid farewell']
+['despedirse, despedirse']
+['NONE']
+U+8A23
+11
+jué
+149.4
+訣.mp3
+
+訤
+['NONE']
+['NINGUNA']
+[]
+U+8A24
+11
+xiáo
+149.4
+訤.mp3
+
+訥
+['slow of speech', ' mumble', ' stammer']
+['lento de hablar', 'mascullar', 'origina']
+['https://media.gettyimages.com/photos/sleeping-audience-at-a-boring-business-seminar-picture-id157335388?k=6&m=157335388&s=612x612&w=0&h=W2F0ZsxJEWa_Q0xgLJKyPLTNkgXYBU5n9OuvMNwm41U=', 'https://media.gettyimages.com/photos/smart-phone-with-the-dating-app-bumble-is-seen-on-the-screen-in-hong-picture-id1015802590?k=6&m=1015802590&s=612x612&w=0&h=rVqmFEkHUNC8zE4ZvKPfHk9Rj_FIWllSrsPukHHb3y4=', 'https://media.gettyimages.com/photos/benedictine-monastery-admont-dwarf-oswald-eibegger-probably-by-joseph-picture-id56463832?k=6&m=56463832&s=612x612&w=0&h=lTuYpMXR-8JkQSldYiW-ZW3bnszhaPiHXLcCecev29A=']
+U+8A25
+11
+nè
+149.4
+訥.mp3
+
+訦
+['sincere', ' faithful']
+['sincero', 'fiel']
+['https://media.gettyimages.com/vectors/business-ethics-icons-line-series-vector-id1060882676?k=6&m=1060882676&s=612x612&w=0&h=vMcCM4jeB-Kh8VMGfIGt71V4XNV0zP2c0rLaSFoqSfM=', 'https://media.gettyimages.com/vectors/quality-control-icon-set-vector-id991149296?k=6&m=991149296&s=612x612&w=0&h=Mbjy866rzIlZI1xU7F43_Qjv1f2vwSHhC0M1hG7Og34=']
+U+8A26
+11
+chén
+149.4
+訦.mp3
+
+訧
+['fault']
+['culpa']
+['https://media.gettyimages.com/photos/sadness-picture-id1072422456?k=6&m=1072422456&s=612x612&w=0&h=Qspxe4orPOQlzygCimkE3C-ULuuSgI_JYVsXmZzsZT0=']
+U+8A27
+11
+yóu
+149.4
+訧.mp3
+
+訨
+['NONE']
+['NINGUNA']
+[]
+U+8A28
+11
+zhǐ
+149.4
+訨.mp3
+
+訩
+['noisily', ' uproarious', ' troublesome']
+['ruidosamente', 'estruendoso', 'molesto']
+['https://media.gettyimages.com/photos/two-blonde-girls-screaming-at-each-other-picture-id130879894?k=6&m=130879894&s=612x612&w=0&h=lFJaBh5NmiETTR3c0Xiir11ovrRKE743S7X8Ch-Y4IM=', 'NONE', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+8A29
+11
+xiōng
+149.4
+訩.mp3
+
+訪
+['visit', ' ask, inquire']
+['visitar', 'preguntar, preguntar']
+['https://media.gettyimages.com/photos/greeting-guests-at-housewarming-party-picture-id1078076590?k=6&m=1078076590&s=612x612&w=0&h=iQa7HFkpZqNlAa7r7f2nYWSu0EnvULZQdxOZM2_5eyo=', 'https://media.gettyimages.com/photos/back-view-of-a-woman-wants-to-ask-a-question-on-a-seminar-picture-id1138142697?k=6&m=1138142697&s=612x612&w=0&h=FVRjMQC2-WpHaRAFWAj0g1OzTSTYBaLiHGiNWWtNj4s=']
+U+8A2A
+11
+fǎng
+149.4
+訪.mp3
+
+訫
+['NONE']
+['NINGUNA']
+[]
+U+8A2B
+11
+xìn
+149.4
+訫.mp3
+
+訬
+['clamour, uproar, annoyance, etc.']
+['clamor, alboroto, molestia, etc.']
+['NONE']
+U+8A2C
+11
+chāo
+149.4
+訬.mp3
+
+設
+['build', ' establish', ' display', ' particle of hypothesis, supposing']
+['construir', 'establecer', 'monitor', 'partícula de hipótesis, suponiendo']
+['https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=', 'https://media.gettyimages.com/vectors/mentoring-and-training-related-vector-line-icons-vector-id1131569516?k=6&m=1131569516&s=612x612&w=0&h=HILYcI-stQX_W_3Qp1Laxjyh_n3lYTEFcn7GGc63pTY=', 'https://media.gettyimages.com/photos/take-a-look-and-tell-me-what-you-think-picture-id682621408?k=6&m=682621408&s=612x612&w=0&h=1nDhwvzD3Fe_pXXUBKCwZRshQGTMZ9aSv7KuEGOWsTU=', 'NONE']
+U+8A2D
+11
+shè
+149.4
+設.mp3
+
+訮
+['NONE']
+['NINGUNA']
+[]
+U+8A2E
+11
+yán
+149.4
+訮.mp3
+
+訯
+['NONE']
+['NINGUNA']
+[]
+U+8A2F
+10
+sǎ
+149.4
+訯.mp3
+
+訰
+['NONE']
+['NINGUNA']
+[]
+U+8A30
+11
+zhùn
+149.4
+訰.mp3
+
+許
+['allow, permit', ' promise', ' betroth']
+['permitir, permitir', 'promesa', 'prometer en matrimonio']
+['https://media.gettyimages.com/vectors/approve-icons-editable-stroke-pixel-perfect-for-mobile-and-web-such-vector-id1190172113?k=6&m=1190172113&s=612x612&w=0&h=3e1zxmnH3ZSADCzeoEDGzqq76IWtDK2IC8IwFi86xuk=', 'https://media.gettyimages.com/photos/lets-merge-our-talents-as-we-get-to-the-top-picture-id1008207382?k=6&m=1008207382&s=612x612&w=0&h=hWCJqGWeATT9HOH5m2T0Rlldfh-CNm-rxBbYNNCYQos=', 'https://media.gettyimages.com/photos/summer-love-picture-id172354104?k=6&m=172354104&s=612x612&w=0&h=7_TDDClozHmbCcH4ALo6fAL_TW1s_JMZjBIFr8w8uaM=']
+U+8A31
+11
+xǔ
+149.4
+許.mp3
+
+訲
+['NONE']
+['NINGUNA']
+[]
+U+8A32
+11
+yì
+149.4
+訲.mp3
+
+訳
+['translate', ' decode', ' encode']
+['traducir', 'descodificar', 'codificar']
+['https://media.gettyimages.com/photos/businessman-using-computer-picture-id1129171241?k=6&m=1129171241&s=612x612&w=0&h=Y0Fo3TmZhiOFi3LuFJ0DicnHGuRXEcoFINNGruZepgY=', 'https://media.gettyimages.com/vectors/assessment-icons-line-series-vector-id1062446456?k=6&m=1062446456&s=612x612&w=0&h=LnYN9M8u7hYnOY026NWlhs1wHu7dK1jeQo-Q6JFF8Bc=', 'https://media.gettyimages.com/photos/binary-code-picture-id122204403?k=6&m=122204403&s=612x612&w=0&h=3_AdADaBrOZFIeAYhBA-u0-C6ZSrpMyD1FEX3uMdkC0=']
+U+8A33
+11
+yì
+149.4
+訳.mp3
+
+訴
+['accuse', ' sue', ' inform', ' narrate']
+['acusar', 'sus', 'informar', 'narrar']
+['https://media.gettyimages.com/photos/frustrated-woman-received-a-problematic-email-over-computer-picture-id1051720084?k=6&m=1051720084&s=612x612&w=0&h=KCz_oyAcXZ5LDz4ZspJvQiR0vId-rpYCofB7_6U3Lws=', 'https://media.gettyimages.com/vectors/-vector-id1014727420?k=6&m=1014727420&s=612x612&w=0&h=kubH8O3Zj3VMHAvGc9NRW565C-qWCGEj44qg32c03fk=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/photos/portrait-of-attractive-senior-african-american-picture-id1076593834?k=6&m=1076593834&s=612x612&w=0&h=0nszTd7CDQcx1G56xdYV2eK7ePc_tswEvc0l-dmVAH4=']
+U+8A34
+12
+sù
+149.5
+訴.mp3
+
+訵
+['NONE']
+['NINGUNA']
+[]
+U+8A35
+12
+chī
+149.5
+訵.mp3
+
+訶
+['scold loudly, curse, abuse']
+['regañar fuerte, maldecir, abusar']
+['NONE']
+U+8A36
+12
+hē
+149.5
+訶.mp3
+
+訷
+['NONE']
+['NINGUNA']
+[]
+U+8A37
+12
+shēn
+149.5
+訷.mp3
+
+訸
+['NONE']
+['NINGUNA']
+[]
+U+8A38
+12
+hé
+149.5
+訸.mp3
+
+訹
+['to beguile with false stories']
+['engañar con historias falsas']
+['NONE']
+U+8A39
+12
+xù
+149.5
+訹.mp3
+
+診
+['examine patient, diagnose']
+['examinar al paciente, diagnosticar']
+['https://media.gettyimages.com/photos/his-duty-is-to-make-a-difference-picture-id871584922?k=6&m=871584922&s=612x612&w=0&h=t-GJS7_mObPyUG3NxEO1Y0JcN7Ide4QW8sM-ZWSXO7E=']
+U+8A3A
+12
+zhěn
+149.5
+診.mp3
+
+註
+['explain', ' annotate', ' make entry']
+['explique', 'anotar', 'hacer entrada']
+['https://media.gettyimages.com/photos/time-for-a-quick-brainstorm-picture-id482073694?k=6&m=482073694&s=612x612&w=0&h=KR64A5pTfPmM4Upw0xGlDgDvJ8z5LgUYwSTOHDwO-ZY=', 'https://media.gettyimages.com/vectors/rainbow-message-vector-id93460904?k=6&m=93460904&s=612x612&w=0&h=_QYEA4koqJ9pMzrNO7FU4PiXn1RKuX7Qx-MefvXtX5g=', 'https://media.gettyimages.com/photos/aluminium-and-pvc-industry-worker-picture-id688587628?k=6&m=688587628&s=612x612&w=0&h=00knnSRAf2z5l5yqVe8cBwqvcGA_MVExKRhdqXXUGUE=']
+U+8A3B
+12
+zhù
+149.5
+註.mp3
+
+証
+['prove, confirm, verify', ' proof']
+['probar, confirmar, verificar', 'prueba']
+['NONE', 'https://media.gettyimages.com/photos/murder-case-interface-picture-id172662349?k=6&m=172662349&s=612x612&w=0&h=oT12Y5CMIQ2T-ioNCYD0vYbbEJWQGQWtJm8QCfVExMo=']
+U+8A3C
+12
+zhèng
+149.5
+証.mp3
+
+訽
+['blame']
+['culpa']
+['https://media.gettyimages.com/photos/sadness-picture-id1072422456?k=6&m=1072422456&s=612x612&w=0&h=Qspxe4orPOQlzygCimkE3C-ULuuSgI_JYVsXmZzsZT0=']
+U+8A3D
+12
+gòu
+149.5
+訽.mp3
+
+訾
+['bad-mouth', ' criticize', ' defects']
+['calumniar', 'criticar', 'defectos']
+['https://media.gettyimages.com/vectors/badmouth-vector-id900998536?k=6&m=900998536&s=612x612&w=0&h=nqWJRrPBvsPyqX1H5frg8tyLlprAPHtQpu9m14Io5_o=', 'https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=', 'https://media.gettyimages.com/photos/construction-defects-workers-rights-picture-id155429047?k=6&m=155429047&s=612x612&w=0&h=MZoaPehnGWjLkueX2n9nIEk1cgbaed4L6_LLj4iln_Y=']
+U+8A3E
+13
+zī
+149.5
+訾.mp3
+
+訿
+['NONE']
+['NINGUNA']
+[]
+U+8A3F
+13
+zǐ
+149.5
+訿.mp3
+
+詀
+['garrulous to whisper. to joke']
+['locuaz para susurrar. bromear']
+['NONE']
+U+8A40
+12
+zhān
+149.5
+詀.mp3
+
+詁
+['exegesis, explanation', ' explain']
+['exégesis, explicación', 'explique']
+['NONE', 'https://media.gettyimages.com/photos/time-for-a-quick-brainstorm-picture-id482073694?k=6&m=482073694&s=612x612&w=0&h=KR64A5pTfPmM4Upw0xGlDgDvJ8z5LgUYwSTOHDwO-ZY=']
+U+8A41
+12
+gǔ
+149.5
+詁.mp3
+
+詂
+['NONE']
+['NINGUNA']
+[]
+U+8A42
+12
+fù
+149.5
+詂.mp3
+
+詃
+['NONE']
+['NINGUNA']
+[]
+U+8A43
+12
+jiǎn
+149.5
+詃.mp3
+
+詄
+['NONE']
+['NINGUNA']
+[]
+U+8A44
+12
+dié
+149.5
+詄.mp3
+
+詅
+['to sell']
+['vender']
+['https://media.gettyimages.com/photos/small-business-owener-picture-id1057253610?k=6&m=1057253610&s=612x612&w=0&h=ZT6po0iVo4ZEZVy3Gv1rzO2CIocmp41ArKK_CRQbSSc=']
+U+8A45
+12
+líng
+149.5
+詅.mp3
+
+詆
+['slander, condemn, reproach']
+['calumniar, condenar, reprochar']
+['NONE']
+U+8A46
+12
+dǐ
+149.5
+詆.mp3
+
+詇
+['NONE']
+['NINGUNA']
+[]
+U+8A47
+12
+yàng
+149.5
+詇.mp3
+
+詈
+['scold, abuse verbally, curse']
+['regañar, abusar verbalmente, maldecir']
+['NONE']
+U+8A48
+12
+lì
+149.5
+詈.mp3
+
+詉
+['gibberish', ' to wrangle']
+['algarabía', 'discutir']
+['https://media.gettyimages.com/vectors/man-talking-out-of-his-hat-vector-id165818957?k=6&m=165818957&s=612x612&w=0&h=WLn0sHT3IC6I12ril-y79-pV5J889vLSXX2o8HPSvk8=', 'https://media.gettyimages.com/photos/relationship-difficulties-picture-id517574358?k=6&m=517574358&s=612x612&w=0&h=SNo1-bZRRxMNwybDkcOIr0sZRBL297mkox23N179cm4=']
+U+8A49
+12
+náo
+149.5
+詉.mp3
+
+詊
+['NONE']
+['NINGUNA']
+[]
+U+8A4A
+12
+pàn
+149.5
+詊.mp3
+
+詋
+['to curse', ' to swear an oath incantations']
+['maldecir', 'para hacer un juramento encantamientos']
+['https://media.gettyimages.com/vectors/curse-vector-id503782483?k=6&m=503782483&s=612x612&w=0&h=3gdYOAvjXZ9eqwu42xJeT5Yh5ZKuETtjPti_05tJvII=', 'NONE']
+U+8A4B
+12
+zhòu
+149.5
+詋.mp3
+
+詌
+['NONE']
+['NINGUNA']
+[]
+U+8A4C
+12
+gàn
+149.5
+詌.mp3
+
+詍
+['NONE']
+['NINGUNA']
+[]
+U+8A4D
+12
+yì
+149.5
+詍.mp3
+
+詎
+['interjection used to express surprise']
+['interjección usada para expresar sorpresa']
+['NONE']
+U+8A4E
+11
+jù
+149.5
+詎.mp3
+
+詏
+['(Cant.) to argue, debate']
+['(Cant.) Discutir, debatir']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+8A4F
+12
+yào
+149.5
+詏.mp3
+
+詐
+['cheat, defraud, swindle', ' trick', ' to feign']
+['engañar, defraudar, estafar', 'truco', 'fingir']
+['https://media.gettyimages.com/vectors/business-world-is-like-a-battlefield-vector-id165930847?k=6&m=165930847&s=612x612&w=0&h=iY-EuJTkzfCrp_Mh4BdYm8adu4A9GrcCVn-PkXSVP18=', 'https://media.gettyimages.com/photos/beagle-dog-sitting-like-a-penguin-picture-id678419798?k=6&m=678419798&s=612x612&w=0&h=88VjqQ7BwwhRcYwBLwX4NemKcONNmakPGrzvFdxVZs4=', 'https://media.gettyimages.com/photos/wife-attempting-to-feign-ignorance-for-the-reason-why-the-price-for-picture-id831174100?k=6&m=831174100&s=612x612&w=0&h=7psMRVWEDqpymk74hR-Zm6XHxxnSQDGLq_jOGfY24Fk=']
+U+8A50
+12
+zhà
+149.5
+詐.mp3
+
+詑
+['cheat']
+['engañar']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+8A51
+12
+yí
+149.5
+詑.mp3
+
+詒
+['bequeath, pass on to future generations']
+['legar, transmitir a las generaciones futuras']
+['NONE']
+U+8A52
+12
+yí
+149.5
+詒.mp3
+
+詓
+['NONE']
+['NINGUNA']
+[]
+U+8A53
+12
+qǔ
+149.5
+詓.mp3
+
+詔
+['decree, proclaim', ' imperial decree']
+['decretar, proclamar', 'decreto imperial']
+['https://media.gettyimages.com/photos/business-protest-picture-id167761445?k=6&m=167761445&s=612x612&w=0&h=4PsNJF_Be63wNWpzAlGefzFw8j6oT22rxq9ej_o6SUI=', 'https://media.gettyimages.com/photos/law-student-standing-at-entrance-to-university-building-picture-id1190367451?k=6&m=1190367451&s=612x612&w=0&h=TrNcFht6BqvKTrir2LR6mc-9cMHz2UBqS5ll3t5Mnc8=']
+U+8A54
+12
+zhào
+149.5
+詔.mp3
+
+評
+['appraise, criticize, evaluate']
+['valorar, criticar, evaluar']
+['NONE']
+U+8A55
+12
+píng
+149.5
+評.mp3
+
+詖
+['argue', ' biased', ' one-sided']
+['discutir', 'parcial', 'Unilateral']
+['https://media.gettyimages.com/photos/you-never-listen-picture-id1162106983?k=6&m=1162106983&s=612x612&w=0&h=x_QM_3wjjG3M2tpPOy-tTfIiEV68CsP596qKZ9_i0Bo=', 'https://media.gettyimages.com/photos/woman-jumping-on-broken-pink-block-stacks-picture-id1249101964?k=6&m=1249101964&s=612x612&w=0&h=TzvOUVSfaeNPBajK6SlpjsRFgQW0AYnH6ThPhzhV7hE=', 'https://media.gettyimages.com/photos/mobius-is-as-i-said-onesided-picture-id177187285?k=6&m=177187285&s=612x612&w=0&h=s5aP6Zfx0NNAFUZAj9Wc4glmNg4d_A-gJhfH-Bhw6uw=']
+U+8A56
+12
+bì
+149.5
+詖.mp3
+
+詗
+['to spy', ' to give information', ' shrewd']
+['el espía', 'para dar información', 'perspicaz']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=', 'https://media.gettyimages.com/photos/businesswomen-meet-to-discuss-document-picture-id865900230?k=6&m=865900230&s=612x612&w=0&h=yYH4VrxUuoVQyf1-37PlM1hJPqiHBtcJ5WpZVk9BxYI=', 'https://media.gettyimages.com/photos/businessmen-talking-in-secrecy-picture-id1054524238?k=6&m=1054524238&s=612x612&w=0&h=BA5i1NrydFR95YmpZY5eZECDDMmPh-mBBk62xSoQJi4=']
+U+8A57
+12
+xiòng
+149.5
+詗.mp3
+
+詘
+['bend, stoop, crouch', ' to yield']
+['doblarse, agacharse, agacharse', 'ceder']
+['https://media.gettyimages.com/photos/profile-of-a-baby-girl-reaching-for-her-mother-picture-id578200789?k=6&m=578200789&s=612x612&w=0&h=6o98ckDMXQ92gLY-OiksXve16mdjfgGY0EVvb29OsIo=', 'https://media.gettyimages.com/photos/road-sign-give-way-isolated-on-white-picture-id155144020?k=6&m=155144020&s=612x612&w=0&h=VsiSIz8QudEP5pUep-7iTjNqrzWF0TzxYn-DC8OvU2I=']
+U+8A58
+12
+qū
+149.5
+詘.mp3
+
+詙
+['NONE']
+['NINGUNA']
+[]
+U+8A59
+12
+bá
+149.5
+詙.mp3
+
+詚
+['NONE']
+['NINGUNA']
+[]
+U+8A5A
+12
+dá
+149.5
+詚.mp3
+
+詛
+['curse', ' swear, pledge']
+['maldición', 'jurar']
+['https://media.gettyimages.com/vectors/curse-vector-id503782483?k=6&m=503782483&s=612x612&w=0&h=3gdYOAvjXZ9eqwu42xJeT5Yh5ZKuETtjPti_05tJvII=', 'https://media.gettyimages.com/vectors/making-an-oath-icon-vector-id696658014?k=6&m=696658014&s=612x612&w=0&h=7Hb87uAMR8nRt04cfYY3iZKdcX0shlUYsheETsFMHvE=']
+U+8A5B
+12
+zǔ
+149.5
+詛.mp3
+
+詜
+['NONE']
+['NINGUNA']
+[]
+U+8A5C
+12
+tāo
+149.5
+詜.mp3
+
+詝
+['NONE']
+['NINGUNA']
+[]
+U+8A5D
+12
+zhǔ
+149.5
+詝.mp3
+
+詞
+['words', ' phrase, expression']
+['palabras', 'frase, expresión']
+['https://media.gettyimages.com/photos/tabloid-newspaper-clippings-picture-id918020790?k=6&m=918020790&s=612x612&w=0&h=iiiNsUhH2IIzQzW3vy-xaOBjPiatTpNWTpbEmEB7KIE=', 'https://media.gettyimages.com/photos/useful-faces-picture-id108686357?k=6&m=108686357&s=612x612&w=0&h=V7t_veeKNDfl2UG_f8aC11SsuxBGyfoqad4libsRLkU=']
+U+8A5E
+12
+cí
+149.5
+詞.mp3
+
+詟
+['fear', ' envy', ' loquacious']
+['temor', 'envidia', 'locuaz']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=', 'https://media.gettyimages.com/photos/young-woman-jealously-looking-at-the-smiling-man-using-digital-tablet-picture-id1018840248?k=6&m=1018840248&s=612x612&w=0&h=mGhfzSbD2ielKYkGQZdZ2KkLwThpKC8kf9StquWpuYA=', 'NONE']
+U+8A5F
+12
+zhé
+149.5
+詟.mp3
+
+詠
+['sing, hum, chant']
+['canta, tararea, canta']
+['NONE']
+U+8A60
+12
+yǒng
+149.5
+詠.mp3
+
+詡
+['boast, brag', ' popular, well known', ' to flatter']
+['jactarse, jactarse', 'popular, bien conocido', 'para halagar']
+['https://media.gettyimages.com/vectors/rainbow-heartshape-vector-id1132871643?k=6&m=1132871643&s=612x612&w=0&h=QeIJ5y-s2r9L_bHmPQTUMVD6KI5tDdaeV_j3Gc6qYus=', 'https://media.gettyimages.com/photos/the-species-known-as-chrysanthemum-leucanthemum-or-leucanthemum-to-picture-id923266552?k=6&m=923266552&s=612x612&w=0&h=wEefnpQfzcmcMjGD9z3AntDkU6_M1NTTyXACoxMqxKk=', 'https://media.gettyimages.com/vectors/car-service-icon-set-vector-id1085060940?k=6&m=1085060940&s=612x612&w=0&h=3CVfLmcSjm5UVfeX1IcVvnzzaLD5Yamz4AZ6_xEzlRc=']
+U+8A61
+13
+xǔ
+149.6
+詡.mp3
+
+詢
+['inquire into, ask about', ' consult']
+['indagar, preguntar sobre', 'consultar']
+['https://media.gettyimages.com/photos/question-mark-picture-id1168334202?k=6&m=1168334202&s=612x612&w=0&h=UQuWjFLjY1hdLgMgMGcGSvvm_yi0vnEwMbGgON8lwl8=', 'https://media.gettyimages.com/vectors/healthcare-and-medicine-line-icons-editable-stroke-pixel-perfect-for-vector-id1132046196?k=6&m=1132046196&s=612x612&w=0&h=E7inbFacmiTqJTVIcuHavKySsKPOaBPthvDXdFX4aEE=']
+U+8A62
+13
+xún
+149.6
+詢.mp3
+
+詣
+['reach', ' achievement, accomplishment']
+['alcanzar', 'logro, logro']
+['https://media.gettyimages.com/photos/photo-for-body-part-hand-picture-id911345354?k=6&m=911345354&s=612x612&w=0&h=6gikSrpHYjXrk4Hz3-UY2znNi5ym8oTi5g6mwPxZfII=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+8A63
+13
+yì
+149.6
+詣.mp3
+
+詤
+['to make wild statements to lie', ' to misstate', ' lies falsehood']
+['para hacer declaraciones locas para mentir', 'falsear', 'mentiras falsedad']
+['NONE', 'NONE', 'https://media.gettyimages.com/photos/fingers-crossed-picture-id184909146?k=6&m=184909146&s=612x612&w=0&h=xLWHyGxHfF6PWS7izb8Xi-6C9I7xFNFIrc9d-_xXGzo=']
+U+8A64
+13
+huǎng
+149.6
+詤.mp3
+
+詥
+['NONE']
+['NINGUNA']
+[]
+U+8A65
+13
+hé
+149.6
+詥.mp3
+
+試
+['test, try, experiment']
+['probar, probar, experimentar']
+['https://media.gettyimages.com/illustrations/biological-research-illustration-id909209108?k=6&m=909209108&s=612x612&w=0&h=YnSpdYajdalWem2aSYl4ErYuFoAwSeqN2cWniWMpvgc=']
+U+8A66
+13
+shì
+149.6
+試.mp3
+
+詧
+['to examine into judicially to find out']
+['examinar judicialmente para averiguar']
+['NONE']
+U+8A67
+13
+chá
+149.6
+詧.mp3
+
+詨
+['kind of cicada, cosmopsaltria']
+['especie de cigarra, cosmopsaltria']
+['https://media.gettyimages.com/photos/boy-holding-cicadas-empty-shell-picture-id1055373130?k=6&m=1055373130&s=612x612&w=0&h=BG2kzJRmPummbbzf-65ArEoNjUcahMgJCsWsUxCNPXo=']
+U+8A68
+13
+xiào
+149.6
+詨.mp3
+
+詩
+['poetry', ' poem, verse, ode']
+['poesía', 'poema, verso, oda']
+['https://media.gettyimages.com/photos/one-fine-dayon-antique-typewriter-picture-id170617234?k=6&m=170617234&s=612x612&w=0&h=7HO93wbW0J08FujnJXdHr8WtDvO6f3gOZEUFwYj8FkQ=', 'NONE']
+U+8A69
+13
+shī
+149.6
+詩.mp3
+
+詪
+['difficulty in speaking', ' wrangling']
+['dificultad para hablar', 'disputa']
+['https://media.gettyimages.com/photos/young-boy-nerd-yells-through-megaphone-picture-id623763424?k=6&m=623763424&s=612x612&w=0&h=zE2V7E1hju_XAt2zivOK-BUYbL4vu_k3u6mcRNNiKAg=', 'https://media.gettyimages.com/photos/caucasian-woman-using-lasso-on-horse-at-rodeo-picture-id543197219?k=6&m=543197219&s=612x612&w=0&h=cKeG7dC17_MQu1_G1tgC8iHZzI82huaVWwcB3-AIRMU=']
+U+8A6A
+13
+hěn
+149.6
+詪.mp3
+
+詫
+['to brag', ' exaggerated', ' to wonder at']
+['alardear', 'exagerado', 'preguntarse']
+['https://media.gettyimages.com/vectors/rainbow-heartshape-vector-id1132871643?k=6&m=1132871643&s=612x612&w=0&h=QeIJ5y-s2r9L_bHmPQTUMVD6KI5tDdaeV_j3Gc6qYus=', 'https://media.gettyimages.com/photos/can-i-get-a-moment-to-breathe-picture-id654187068?k=6&m=654187068&s=612x612&w=0&h=atcg1DFapQuyx1bd1_2Sw4YDfjKx3bYn6zA0cdukyAQ=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+8A6B
+13
+chà
+149.6
+詫.mp3
+
+詬
+['abuse, scold, berate, insult']
+['abuso, regañar, reprender, insulto']
+['NONE']
+U+8A6C
+13
+gòu
+149.6
+詬.mp3
+
+詭
+['deceive, cheat, defraud', ' sly']
+['engañar, engañar, defraudar', 'astuto']
+['https://media.gettyimages.com/vectors/business-world-is-like-a-battlefield-vector-id165930847?k=6&m=165930847&s=612x612&w=0&h=iY-EuJTkzfCrp_Mh4BdYm8adu4A9GrcCVn-PkXSVP18=', 'https://media.gettyimages.com/photos/m-keeping-my-eye-on-this-around-here-picture-id185270048?k=6&m=185270048&s=612x612&w=0&h=mHeS9DhaUBTlBcJfZBjeSQA8qijWTj4gA6fjqeJs0G4=']
+U+8A6D
+13
+guǐ
+149.6
+詭.mp3
+
+詮
+['explain, expound, comment on']
+['explicar, exponer, comentar']
+['NONE']
+U+8A6E
+13
+quán
+149.6
+詮.mp3
+
+詯
+['NONE']
+['NINGUNA']
+[]
+U+8A6F
+13
+huì
+149.6
+詯.mp3
+
+詰
+['question, interrogate']
+['pregunta, interrogar']
+['https://media.gettyimages.com/vectors/question-mark-icon-vector-id1090469782?k=6&m=1090469782&s=612x612&w=0&h=g4rO-UmJ_793CNNhy7xIXgqvYhZQHq_KvgJ1FcL91Iw=']
+U+8A70
+13
+jié
+149.6
+詰.mp3
+
+話
+['speech, talk, language', ' dialect']
+['habla, habla, lenguaje', 'dialecto']
+['https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/photos/longexposure-neon-advertising-signs-hong-kong-picture-id80112965?k=6&m=80112965&s=612x612&w=0&h=jH8GUg2ccglDx030GRm-XfItj36F69I3n2zwsN8Jvi4=']
+U+8A71
+13
+huà
+149.6
+話.mp3
+
+該
+['should, ought to, need to']
+['debería, debería, necesitar']
+['https://media.gettyimages.com/vectors/domestic-violence-icons-vector-id862809164?k=6&m=862809164&s=612x612&w=0&h=ji-XnV4n_4vfP8XU50Jmsef1nXegz8YdKXtD-ylTIXg=']
+U+8A72
+13
+gāi
+149.6
+該.mp3
+
+詳
+['detailed, complete, thorough']
+['detallado, completo, minucioso']
+['https://media.gettyimages.com/photos/woman-painting-a-ceramic-plate-with-a-brush-picture-id681907751?k=6&m=681907751&s=612x612&w=0&h=v6aTSZLHtbEdCDpqOoziJlA57Y9tkFYrygzbByEMil4=']
+U+8A73
+13
+xiáng
+149.6
+詳.mp3
+
+詴
+['NONE']
+['NINGUNA']
+[]
+U+8A74
+13
+wēi
+149.6
+詴.mp3
+
+詵
+['inquire, question', ' numerous']
+['preguntar, preguntar', 'numeroso']
+['https://media.gettyimages.com/illustrations/question-mark-on-speech-bubble-illustration-id1179041250?k=6&m=1179041250&s=612x612&w=0&h=923GSq0tKpz95_JrjJ88GjS6sZBnmflrNjO_iQqztAg=', 'https://media.gettyimages.com/photos/numerous-seats-on-the-football-field-form-a-photographic-composition-picture-id1021637688?k=6&m=1021637688&s=612x612&w=0&h=6uLxWD8obMmftlQ2DbU1bDnwtNx4RXhsGDoYxddrLRU=']
+U+8A75
+13
+shēn
+149.6
+詵.mp3
+
+詶
+['NONE']
+['NINGUNA']
+[]
+U+8A76
+13
+zhòu
+149.6
+詶.mp3
+
+詷
+['NONE']
+['NINGUNA']
+[]
+U+8A77
+13
+tóng
+149.6
+詷.mp3
+
+詸
+['NONE']
+['NINGUNA']
+[]
+U+8A78
+13
+mí
+149.6
+詸.mp3
+
+詹
+['surname', ' talk too much, verbose']
+['apellido', 'hablar demasiado, verboso']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/illustrations/trying-to-be-heard-conceptual-illustration-illustration-id1148108089?k=6&m=1148108089&s=612x612&w=0&h=bxzcAwT-e5yIHDAUE2VgwDNjLCvHt2zs_T1jHOuseew=']
+U+8A79
+13
+zhān
+149.6
+詹.mp3
+
+詺
+['NONE']
+['NINGUNA']
+[]
+U+8A7A
+13
+mìng
+149.6
+詺.mp3
+
+詻
+['orders']
+['pedidos']
+['https://media.gettyimages.com/photos/woman-using-meal-delivery-service-through-mobile-app-picture-id1160735344?k=6&m=1160735344&s=612x612&w=0&h=tYEeckvNDyAoyUEfUeCii_29p_pBum_BVHKiUrGbjYY=']
+U+8A7B
+13
+è
+149.6
+詻.mp3
+
+詼
+['tease, joke with', ' ridicule, mock']
+['bromear, bromear con', 'ridiculizar, burlarse']
+['https://media.gettyimages.com/photos/businessman-making-face-at-coworker-picture-id85406591?k=6&m=85406591&s=612x612&w=0&h=2U3fsnr7nU_ZJNM39CXKCZn4gswOet0VTtDIsEQJF14=', 'NONE']
+U+8A7C
+13
+huī
+149.6
+詼.mp3
+
+詽
+['NONE']
+['NINGUNA']
+[]
+U+8A7D
+13
+yán
+149.6
+詽.mp3
+
+詾
+['noisily', ' uproarious', ' troublesome']
+['ruidosamente', 'estruendoso', 'molesto']
+['https://media.gettyimages.com/photos/two-blonde-girls-screaming-at-each-other-picture-id130879894?k=6&m=130879894&s=612x612&w=0&h=lFJaBh5NmiETTR3c0Xiir11ovrRKE743S7X8Ch-Y4IM=', 'NONE', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+8A7E
+13
+xiōng
+149.6
+詾.mp3
+
+詿
+['error, mistake', ' deceive, mislead']
+['error, error', 'engañar, engañar']
+['https://media.gettyimages.com/vectors/check-box-line-icons-set-vector-id971623978?k=6&m=971623978&s=612x612&w=0&h=Pmiv6l4aCH5omYMOlS6OyatP51LMhhAEAKSbAMJ9FVc=', 'https://media.gettyimages.com/photos/-picture-id79399064?k=6&m=79399064&s=612x612&w=0&h=_VveopyTCp3O7OzM9vzAn5GIyZ49Pg6wnKzLFoKyatA=']
+U+8A7F
+13
+guà
+149.6
+詿.mp3
+
+誀
+['NONE']
+['NINGUNA']
+[]
+U+8A80
+13
+èr
+149.6
+誀.mp3
+
+誁
+['NONE']
+['NINGUNA']
+[]
+U+8A81
+13
+bìng
+149.6
+誁.mp3
+
+誂
+['tempt']
+['tentar']
+['https://media.gettyimages.com/photos/is-there-something-there-picture-id507746755?k=6&m=507746755&s=612x612&w=0&h=NkSayyH4vZ4OrqiVUgdiyK_Tl4vXcAN-s96C8uEji-8=']
+U+8A82
+13
+tiǎo
+149.6
+誂.mp3
+
+誃
+['part']
+['parte']
+['https://media.gettyimages.com/photos/car-components-picture-id188052258?k=6&m=188052258&s=612x612&w=0&h=CYEF1OTkNFHZFM37peMejQ1OjiDCMtk9LCaUyqVsWi8=']
+U+8A83
+13
+yí
+149.6
+誃.mp3
+
+誄
+['eulogize, praise the dead']
+['alabar, alabar a los muertos']
+['NONE']
+U+8A84
+13
+lěi
+149.6
+誄.mp3
+
+誅
+['execute, kill, put to death', ' punish']
+['ejecutar, matar, ejecutar', 'castigar']
+['https://media.gettyimages.com/photos/bearded-man-pointing-a-gun-at-a-mans-temple-to-execute-him-picture-id158712697?k=6&m=158712697&s=612x612&w=0&h=CbvPcp0UQ0__TyEwC2VyKnIeB2h6ioPwOS_-OOkff9I=', 'https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=']
+U+8A85
+13
+zhū
+149.6
+誅.mp3
+
+誆
+['cheat, swindle, lie']
+['engañar, estafar, mentir']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+8A86
+13
+kuāng
+149.6
+誆.mp3
+
+誇
+['exaggerate', ' brag, boast', ' flaunt']
+['exagerar', 'presumir', 'lucir']
+['https://media.gettyimages.com/vectors/large-group-of-people-celebrating-vector-id1138843777?k=6&m=1138843777&s=612x612&w=0&h=CL-bU5_RPniIwdst7Q8QeN0l7puwRHeWQrvKcAinkZo=', 'https://media.gettyimages.com/vectors/rainbow-heartshape-vector-id1132871643?k=6&m=1132871643&s=612x612&w=0&h=QeIJ5y-s2r9L_bHmPQTUMVD6KI5tDdaeV_j3Gc6qYus=', 'https://media.gettyimages.com/photos/charlize-theron-is-photographed-for-flaunt-magazine-on-october-28-in-picture-id543644608?s=612x612']
+U+8A87
+13
+kuā
+149.6
+誇.mp3
+
+誈
+['NONE']
+['NINGUNA']
+[]
+U+8A88
+13
+wū
+149.6
+誈.mp3
+
+誉
+['fame, reputation', ' praise']
+['fama, reputación', 'alabanza']
+['https://media.gettyimages.com/vectors/winning-success-and-achievement-vector-icons-vector-id487166882?k=6&m=487166882&s=612x612&w=0&h=UOyR99LIkseZEF39jehsZ6f2XeRh7Inh-5byIR4dstE=', 'https://media.gettyimages.com/photos/applauding-on-a-business-seminar-picture-id1066868794?k=6&m=1066868794&s=612x612&w=0&h=JnLc81Wur9V-H64XPC2ZjWJMjlIwM-6Y5GJiFBXirDU=']
+U+8A89
+13
+yù
+149.6
+誉.mp3
+
+誊
+['copy, transcribe']
+['copiar, transcribir']
+['NONE']
+U+8A8A
+13
+téng
+149.6
+誊.mp3
+
+誋
+['NONE']
+['NINGUNA']
+[]
+U+8A8B
+14
+jì
+149.7
+誋.mp3
+
+誌
+['write down', ' record', ' magazine']
+['anote', 'grabar', 'revista']
+['https://media.gettyimages.com/vectors/feather-set-vector-id183311199?k=6&m=183311199&s=612x612&w=0&h=JowoQAstKDqmeXsrBZ95UFAzTCIEUa9lEydt2lfxMaA=', 'https://media.gettyimages.com/photos/vinyl-record-picture-id1075563182?k=6&m=1075563182&s=612x612&w=0&h=LQjw92P2TpmAv-iF1KUN1_pJbisa9n_Hu4w9ZZu5YsI=', 'https://media.gettyimages.com/vectors/a4-open-page-mockup-vector-id1096378700?k=6&m=1096378700&s=612x612&w=0&h=__AA4Luf8cYyR5IcQkTWsPZhXs1wiHWBUsMxLtM9qk0=']
+U+8A8C
+14
+zhì
+149.7
+誌.mp3
+
+認
+['recognize, know, understand']
+['reconocer, saber, entender']
+['https://media.gettyimages.com/vectors/knowledge-management-banner-and-icons-vector-id636224246?k=6&m=636224246&s=612x612&w=0&h=t6u78eyd8dg2baV-OMXjfCSV1E281l2_6cpRgSogmBw=']
+U+8A8D
+14
+rèn
+149.7
+認.mp3
+
+誎
+['NONE']
+['NINGUNA']
+[]
+U+8A8E
+14
+cù
+149.7
+誎.mp3
+
+誏
+['NONE']
+['NINGUNA']
+[]
+U+8A8F
+14
+lǎng
+149.7
+誏.mp3
+
+誐
+['to intone, hum']
+['entonar, tararear']
+['NONE']
+U+8A90
+14
+é
+149.7
+誐.mp3
+
+誑
+['deceive, lie, delude, cheat']
+['engañar, mentir, engañar, engañar']
+['https://media.gettyimages.com/photos/business-ethics-picture-id94459068?k=6&m=94459068&s=612x612&w=0&h=8Vrm7sJbi4wvBt19tV9iYK4FydGTtX7EXeHqrKO30lI=']
+U+8A91
+14
+kuáng
+149.7
+誑.mp3
+
+誒
+['an exclamation of confirmation']
+['una exclamación de confirmación']
+['https://media.gettyimages.com/photos/young-man-holding-speech-bubble-with-exclamation-marks-picture-id466284702?k=6&m=466284702&s=612x612&w=0&h=8DkNUH7GbSmZDktdGWJr4gAMYEsIWBp0RIQZv1qkWKU=']
+U+8A92
+14
+éi
+149.7
+誒.mp3
+
+誓
+['swear, pledge', ' oath']
+['jurar', 'juramento']
+['https://media.gettyimages.com/vectors/making-an-oath-icon-vector-id696658014?k=6&m=696658014&s=612x612&w=0&h=7Hb87uAMR8nRt04cfYY3iZKdcX0shlUYsheETsFMHvE=', 'https://media.gettyimages.com/vectors/making-an-oath-icon-vector-id696658014?k=6&m=696658014&s=612x612&w=0&h=7Hb87uAMR8nRt04cfYY3iZKdcX0shlUYsheETsFMHvE=']
+U+8A93
+14
+shì
+149.7
+誓.mp3
+
+誔
+['NONE']
+['NINGUNA']
+[]
+U+8A94
+13
+tǐng
+149.7
+誔.mp3
+
+誕
+['to bear children, give birth', ' birth']
+['tener hijos, dar a luz', 'nacimiento']
+['NONE', 'https://media.gettyimages.com/photos/touching-foreheads-picture-id1084242842?k=6&m=1084242842&s=612x612&w=0&h=g0R6vmtSHoWbBZFczdxUiZ52KUAAUYS_cvmEoRr_XAk=']
+U+8A95
+13
+dàn
+149.7
+誕.mp3
+
+誖
+['obstinate', ' disorderly', ' perverse']
+['obstinado', 'desordenado', 'perverso']
+['https://media.gettyimages.com/photos/man-pulling-stubborn-donkey-picture-id97639598?k=6&m=97639598&s=612x612&w=0&h=SOf61p5UWh9vp1IZxYZubIgcXxYrWVhBPqFeAFwvdXU=', 'https://media.gettyimages.com/photos/young-friends-enjoying-the-freedom-on-a-car-trip-over-a-country-picture-id687064886?k=6&m=687064886&s=612x612&w=0&h=KwQmIa2CnTXTmkey7Pln4KzHYqDDV39naElEOFAbUqI=', 'https://media.gettyimages.com/photos/possessed-do-you-believe-in-devil-picture-id157282842?k=6&m=157282842&s=612x612&w=0&h=x8q-Xtz9IudmFe39SLJIrfDNml-LHfbJ1OJtYf3gpEo=']
+U+8A96
+14
+bèi
+149.7
+誖.mp3
+
+誗
+['NONE']
+['NINGUNA']
+[]
+U+8A97
+14
+chán
+149.7
+誗.mp3
+
+誘
+['persuade, entice, induce', ' guide']
+['persuadir, atraer, inducir', 'guía']
+['https://media.gettyimages.com/photos/euro-banknotes-in-a-money-roll-picture-id1141199462?k=6&m=1141199462&s=612x612&w=0&h=uEqMPpoD1OjBWusIW_WW9gU6rQNmoqOVYfsT18PoJ1Q=', 'https://media.gettyimages.com/photos/having-a-tour-through-the-city-streets-picture-id1071461664?k=6&m=1071461664&s=612x612&w=0&h=OsKX4zPAB6SEyv9zwwcNfsHrkfdWXulWFJ0lqPmQqQM=']
+U+8A98
+14
+yòu
+149.7
+誘.mp3
+
+誙
+['NONE']
+['NINGUNA']
+[]
+U+8A99
+14
+kēng
+149.7
+誙.mp3
+
+誚
+['criticize, scold, blame, ridicule']
+['criticar, regañar, culpar, ridiculizar']
+['NONE']
+U+8A9A
+14
+qiào
+149.7
+誚.mp3
+
+誛
+['NONE']
+['NINGUNA']
+[]
+U+8A9B
+14
+qīn
+149.7
+誛.mp3
+
+誜
+['NONE']
+['NINGUNA']
+[]
+U+8A9C
+14
+shuà
+149.7
+誜.mp3
+
+誝
+['NONE']
+['NINGUNA']
+[]
+U+8A9D
+14
+ān
+149.7
+誝.mp3
+
+語
+['language, words', ' saying, expression']
+['lenguaje, palabras', 'diciendo, expresión']
+['https://media.gettyimages.com/photos/whispering-into-her-ear-picture-id471405681?k=6&m=471405681&s=612x612&w=0&h=Ah53v9AfH5d9DNL6IWbDycid8nHyTsT8UjSzk_jcNBU=', 'https://media.gettyimages.com/vectors/feedback-icon-set-vector-id1096473970?k=6&m=1096473970&s=612x612&w=0&h=Oc0zfD7IB_NKbYNOGiXZunzlrcCELfLlas1NMr37tqk=']
+U+8A9E
+14
+yǔ
+149.7
+語.mp3
+
+誟
+['NONE']
+['NINGUNA']
+[]
+U+8A9F
+14
+xiào
+149.7
+誟.mp3
+
+誠
+['sincere, honest', ' true, real']
+['sincero, honesto', 'cierto, real']
+['https://media.gettyimages.com/vectors/business-ethics-icons-line-series-vector-id1060882676?k=6&m=1060882676&s=612x612&w=0&h=vMcCM4jeB-Kh8VMGfIGt71V4XNV0zP2c0rLaSFoqSfM=', 'https://media.gettyimages.com/photos/portrait-of-business-woman-picture-id912617618?k=6&m=912617618&s=612x612&w=0&h=rGmaZKKYVEjr1gprYb7j9ybpJKc1CHGs0_X62NCfTOc=']
+U+8AA0
+13
+chéng
+149.6
+誠.mp3
+
+誡
+['warn, admonish', ' warning']
+['advertir, amonestar', 'advertencia']
+['https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=', 'https://media.gettyimages.com/vectors/titre-icon-vector-id1064145390?k=6&m=1064145390&s=612x612&w=0&h=jr8FJDKUmxpCo8bZOE5I85qcubqzeAJemkt-SbwLXkE=']
+U+8AA1
+14
+jiè
+149.7
+誡.mp3
+
+誢
+['NONE']
+['NINGUNA']
+[]
+U+8AA2
+14
+xiàn
+149.7
+誢.mp3
+
+誣
+['make false accusation', ' defame']
+['hacer una acusación falsa', 'difamar']
+['https://media.gettyimages.com/vectors/media-bias-report-technology-holographic-style-vector-icon-set-vector-id1142484306?k=6&m=1142484306&s=612x612&w=0&h=15ai0RSMDxJZ54C3Fw7faL7ZlTxHJDLlHCGRc3dGPFg=', 'NONE']
+U+8AA3
+14
+wū
+149.7
+誣.mp3
+
+誤
+['err, make mistake', ' interfere']
+['err, cometer un error', 'interferir']
+['NONE', 'https://media.gettyimages.com/photos/business-man-placing-wooden-block-on-a-tower-concept-risk-control-picture-id1138358380?k=6&m=1138358380&s=612x612&w=0&h=p8fHzXgvSnuZxQ6if5RYFL9ytjctz9xgAWm3WcGE4Xk=']
+U+8AA4
+14
+wù
+149.7
+誤.mp3
+
+誥
+['inform, notify, admonish, order']
+['informar, notificar, amonestar, ordenar']
+['NONE']
+U+8AA5
+14
+gào
+149.7
+誥.mp3
+
+誦
+['recite, chant, repeat']
+['recitar, cantar, repetir']
+['NONE']
+U+8AA6
+14
+sòng
+149.7
+誦.mp3
+
+誧
+['huge', ' to admonish']
+['enorme', 'amonestar']
+['https://media.gettyimages.com/photos/large-open-space-office-picture-id512979254?k=6&m=512979254&s=612x612&w=0&h=v9VqYJ03HBE3HZgqOBoSoNe9_7tizU8s8ufz2A8tKn8=', 'https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=']
+U+8AA7
+14
+bū
+149.7
+誧.mp3
+
+誨
+['teach, instruct', ' encourage, urge']
+['enseñar, instruir', 'animar, instar']
+['https://media.gettyimages.com/photos/speaker-addressing-group-of-females-picture-id1094465614?k=6&m=1094465614&s=612x612&w=0&h=q4tXChpqAkaq3k58SdoGjZM24pPXxh3VHd4njdj2v-A=', 'https://media.gettyimages.com/photos/couple-looking-at-camera-cheering-excited-smiling-happy-sports-fans-picture-id81773325?k=6&m=81773325&s=612x612&w=0&h=ZJxSo3hNlP5mUROBatyIGcdOXTpeDNV7witDHVjsdJc=']
+U+8AA8
+14
+huì
+149.7
+誨.mp3
+
+誩
+['to quarrel', ' to wrangle']
+['pelearse', 'discutir']
+['https://media.gettyimages.com/photos/you-never-listen-picture-id1162106983?k=6&m=1162106983&s=612x612&w=0&h=x_QM_3wjjG3M2tpPOy-tTfIiEV68CsP596qKZ9_i0Bo=', 'https://media.gettyimages.com/photos/relationship-difficulties-picture-id517574358?k=6&m=517574358&s=612x612&w=0&h=SNo1-bZRRxMNwybDkcOIr0sZRBL297mkox23N179cm4=']
+U+8AA9
+14
+jìng
+149.7
+誩.mp3
+
+說
+['speak, say, talk', ' scold, upbraid']
+['hablar, decir, hablar', 'regañar, reprender']
+['https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'NONE']
+U+8AAA
+14
+shuō
+149.7
+說.mp3
+
+誫
+['NONE']
+['NINGUNA']
+[]
+U+8AAB
+14
+zhèn
+149.7
+誫.mp3
+
+説
+['speak']
+['hablar']
+['https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+8AAC
+14
+shuō
+149.7
+説.mp3
+
+読
+['read, study', ' pronounce']
+['leer, estudiar', 'pronunciar']
+['https://media.gettyimages.com/photos/young-male-student-reading-a-book-in-a-library-picture-id931164480?k=6&m=931164480&s=612x612&w=0&h=pkjCpg-JaxWHPBir9jS-iQ15rahylpA0fTO2geaAwOg=', 'https://media.gettyimages.com/photos/businesswoman-shouts-through-megaphone-towards-much-larger-picture-id498421562?k=6&m=498421562&s=612x612&w=0&h=raCC-txJdQ0QkYYSP5nZvKiBuWIO_VjP8FRckl1Gfl8=']
+U+8AAD
+14
+dú
+149.7
+読.mp3
+
+誮
+['NONE']
+['NINGUNA']
+[]
+U+8AAE
+14
+huā
+149.7
+誮.mp3
+
+誯
+['NONE']
+['NINGUNA']
+[]
+U+8AAF
+15
+chàng
+149.8
+誯.mp3
+
+誰
+['who? whom? whose? anyone?']
+['¿OMS? ¿quién? ¿cuyo? ¿nadie?']
+['NONE']
+U+8AB0
+15
+shuí shéi
+149.8
+誰.mp3
+
+誱
+['NONE']
+['NINGUNA']
+[]
+U+8AB1
+15
+jié
+149.8
+誱.mp3
+
+課
+['lesson', ' course', ' classwork']
+['lección', 'curso', 'trabajo de clase']
+['https://media.gettyimages.com/photos/back-view-of-elementary-students-raising-their-arms-on-a-class-picture-id1000887536?k=6&m=1000887536&s=612x612&w=0&h=_766UYb-oBcmrJQfIn5RU6SWLhTVMLszO9JT5USUDQ0=', 'https://media.gettyimages.com/photos/rear-view-of-business-people-attending-a-seminar-in-board-room-picture-id1002018094?k=6&m=1002018094&s=612x612&w=0&h=jOD3epEJ2xfeZGsOZxegqaMMOEwpWrOaUafEnAlbvyQ=', 'https://media.gettyimages.com/photos/young-woman-working-at-home-picture-id1057767656?k=6&m=1057767656&s=612x612&w=0&h=NhAnC_Cy4lNfnlb6nDSoadkGOqRzTSzZzCvT6XKNG_Q=']
+U+8AB2
+15
+kè
+149.8
+課.mp3
+
+誳
+['NONE']
+['NINGUNA']
+[]
+U+8AB3
+15
+qū
+149.8
+誳.mp3
+
+誴
+['NONE']
+['NINGUNA']
+[]
+U+8AB4
+15
+cóng
+149.8
+誴.mp3
+
+誵
+['NONE']
+['NINGUNA']
+[]
+U+8AB5
+15
+xiáo
+149.8
+誵.mp3
+
+誶
+['speak ill of, vilify', ' berate', ' interrogate']
+['hablar mal de vilipendiar', 'asesorar', 'interrogar']
+['NONE', 'https://media.gettyimages.com/photos/trouble-and-strife-picture-id186840930?k=6&m=186840930&s=612x612&w=0&h=uUWlnIfm7D0gmMo5T1aaMI4vByAbr9xQJE_ryBzW3mQ=', 'https://media.gettyimages.com/photos/interrogation-room-picture-id482948351?k=6&m=482948351&s=612x612&w=0&h=-1SoYHIvf2NqXFMu2ZhiR2p52dBI_VU7u9SHxPTBBQE=']
+U+8AB6
+15
+suì
+149.8
+誶.mp3
+
+誷
+['NONE']
+['NINGUNA']
+[]
+U+8AB7
+15
+wǎng
+149.8
+誷.mp3
+
+誸
+['NONE']
+['NINGUNA']
+[]
+U+8AB8
+15
+xián
+149.8
+誸.mp3
+
+誹
+['slander, vilify, condemn']
+['calumniar, vilipendiar, condenar']
+['NONE']
+U+8AB9
+15
+fěi
+149.8
+誹.mp3
+
+誺
+['NONE']
+['NINGUNA']
+[]
+U+8ABA
+15
+chī
+149.8
+誺.mp3
+
+誻
+['NONE']
+['NINGUNA']
+[]
+U+8ABB
+15
+tà
+149.8
+誻.mp3
+
+誼
+['friendship', ' appropriate, suitable']
+['amistad', 'apropiado, adecuado']
+['https://media.gettyimages.com/photos/two-young-women-friends-sharing-happy-time-together-picture-id1057923694?k=6&m=1057923694&s=612x612&w=0&h=-xzoJqEIxm05jH3IIX6oJuO_0UcJE-baUpq3XKoZF6E=', 'https://media.gettyimages.com/photos/little-girl-washing-hands-picture-id130884506?k=6&m=130884506&s=612x612&w=0&h=zG87CUFqutti1o6j2eFHYtCNCl0sE5Fn-kIr6cLISDs=']
+U+8ABC
+15
+yì
+149.8
+誼.mp3
+
+誽
+['NONE']
+['NINGUNA']
+[]
+U+8ABD
+15
+nì
+149.8
+誽.mp3
+
+誾
+['speak gently', ' respectful']
+['habla suavemente', 'respetuoso']
+['https://media.gettyimages.com/photos/cheerful-buisnesswoman-meets-with-colleague-picture-id1055689220?k=6&m=1055689220&s=612x612&w=0&h=OqP6mttF1_PKBUbEkX5jI2xcbnJjK59KrJRNSkb5Cjo=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+8ABE
+15
+yín
+149.8
+誾.mp3
+
+調
+['transfer, move, change', ' tune']
+['transferir, mover, cambiar', 'melodía']
+['https://media.gettyimages.com/photos/of-course-she-can-change-a-lightbulb-picture-id678024728?k=6&m=678024728&s=612x612&w=0&h=vZsy1jyLUII1GnUCFH7Rs3izIGug_8RCFE4yAGJRYic=', 'https://media.gettyimages.com/vectors/music-line-icons-vector-id1036141234?k=6&m=1036141234&s=612x612&w=0&h=MuUAEqb1ijrhqo8MGt7LqHYiX8CuOhh6hD4oCRuTekQ=']
+U+8ABF
+15
+diào
+149.8
+調.mp3
+
+諀
+['NONE']
+['NINGUNA']
+[]
+U+8AC0
+15
+pǐ
+149.8
+諀.mp3
+
+諁
+['to suck, sip, sob, kiss', ' to chatter']
+['chupar, sorber, sollozar, besar', 'a charlar']
+['NONE', 'https://media.gettyimages.com/photos/chatter-teeth-picture-id175544363?k=6&m=175544363&s=612x612&w=0&h=LMqTGK6SAra599fGEm74Oy3NKlK6vLE-57-AAaN0EHY=']
+U+8AC1
+15
+zhuó
+149.8
+諁.mp3
+
+諂
+['flatter, truckle, toady']
+['más liso']
+['NONE']
+U+8AC2
+15
+chǎn
+149.8
+諂.mp3
+
+諃
+['NONE']
+['NINGUNA']
+[]
+U+8AC3
+15
+chēn
+149.8
+諃.mp3
+
+諄
+['patient, earnest', ' earnestly']
+['paciente, serio', 'formalmente']
+['https://media.gettyimages.com/photos/know-this-is-difficult-news-picture-id481073822?k=6&m=481073822&s=612x612&w=0&h=p0Mde83KHAiFbTf0JeHlHW4v8ioIBCHRjC9D5kUzbrU=', 'https://media.gettyimages.com/photos/portrait-of-a-man-with-a-bandaged-face-picture-id130847109?k=6&m=130847109&s=612x612&w=0&h=wU6k6CZFmvP9bmcVsxYc-MpGkelJ0aOq-xcw3BrETsY=']
+U+8AC4
+15
+zhūn
+149.8
+諄.mp3
+
+諅
+['NONE']
+['NINGUNA']
+[]
+U+8AC5
+15
+jì
+149.8
+諅.mp3
+
+諆
+['to cheat']
+['hacer trampa']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+8AC6
+15
+qī
+149.8
+諆.mp3
+
+談
+['talk', ' conversation', ' surname']
+['hablar', 'conversacion', 'apellido']
+['https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+8AC7
+15
+tán
+149.8
+談.mp3
+
+諈
+['NONE']
+['NINGUNA']
+[]
+U+8AC8
+15
+zhuì
+149.8
+諈.mp3
+
+諉
+['pass buck, lay blame on others']
+['pasar la pelota, echar la culpa a los demás']
+['NONE']
+U+8AC9
+15
+wěi
+149.8
+諉.mp3
+
+諊
+['to make a judicial investigation']
+['hacer una investigación judicial']
+['https://media.gettyimages.com/photos/searching-and-finding-answers-picture-id1224159582?k=6&m=1224159582&s=612x612&w=0&h=AplqPZpNLXz_eCLsrSVLcE1YR6SUhI0Ra_gGI17Y2yQ=']
+U+8ACA
+15
+jū
+149.8
+諊.mp3
+
+請
+['ask, request', ' invite', ' please']
+['preguntar, solicitar', 'invitación', 'Por favor']
+['https://media.gettyimages.com/photos/businesswoman-holding-help-sign-overhead-in-office-picture-id104821297?k=6&m=104821297&s=612x612&w=0&h=rqQYI4hKoExEXuEGymuJ2q7Q71GwNoLM8w-ifCBypBE=', 'https://media.gettyimages.com/vectors/christmas-party-invitation-design-template-vector-id1059003190?k=6&m=1059003190&s=612x612&w=0&h=n9wUfGL90-XHQx5uG_of0Yy-Ucb5iJghomb8hxWo90U=', 'https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=']
+U+8ACB
+15
+qǐng
+149.8
+請.mp3
+
+諌
+['remonstrate, admonish']
+['amonestar, amonestar']
+['NONE']
+U+8ACC
+15
+dǒng
+149.8
+諌.mp3
+
+諍
+['to expostulate', ' to remonstrate']
+['exponer', 'para protestar']
+['NONE', 'https://media.gettyimages.com/photos/woman-remonstrate-with-a-man-picture-id130867658?k=6&m=130867658&s=612x612&w=0&h=v3K9J4yGjBLO38EjdWJje_dPYswzo-aYJ4SaJeLAyHY=']
+U+8ACD
+13
+zhèng
+149.8
+諍.mp3
+
+諎
+['NONE']
+['NINGUNA']
+[]
+U+8ACE
+15
+zé
+149.8
+諎.mp3
+
+諏
+['consult, confer', ' select, choose']
+['consultar, conferir', 'seleccionar, elegir']
+['https://media.gettyimages.com/photos/business-meeting-picture-id1035834404?k=6&m=1035834404&s=612x612&w=0&h=_vcp0W8nzxsN7WVAeOxJ6bUn1wbOrEPchisceHB7K5E=', 'https://media.gettyimages.com/photos/unrecognizable-woman-marvels-at-grocery-bread-selection-picture-id1041147560?k=6&m=1041147560&s=612x612&w=0&h=eXanrJD97jr5neEICYjhjryM0vRdY4aPauZE3AntISc=']
+U+8ACF
+15
+zōu
+149.8
+諏.mp3
+
+諐
+['fault']
+['culpa']
+['https://media.gettyimages.com/photos/sadness-picture-id1072422456?k=6&m=1072422456&s=612x612&w=0&h=Qspxe4orPOQlzygCimkE3C-ULuuSgI_JYVsXmZzsZT0=']
+U+8AD0
+15
+qiān
+149.8
+諐.mp3
+
+諑
+['slander', ' gossip', ' rumors']
+['calumnia', 'chisme', 'rumores']
+['https://media.gettyimages.com/vectors/censorship-vector-id487841164?k=6&m=487841164&s=612x612&w=0&h=cgUyjNX7Hl8f_z9VUf3uZrS-idJyvsr-HI5zYG7wV6M=', 'https://media.gettyimages.com/photos/businesswomen-gossiping-in-office-picture-id85406525?k=6&m=85406525&s=612x612&w=0&h=hg24PsTNUGcT-QQuxh9GngZDPAz5IS-1lwSOKgZ2yLA=', 'https://media.gettyimages.com/photos/businesswomen-gossiping-in-office-picture-id85406525?k=6&m=85406525&s=612x612&w=0&h=hg24PsTNUGcT-QQuxh9GngZDPAz5IS-1lwSOKgZ2yLA=']
+U+8AD1
+15
+zhuó
+149.8
+諑.mp3
+
+諒
+['excuse, forgive', ' guess, presume']
+['disculpa, perdona', 'adivinar, presumir']
+['https://media.gettyimages.com/photos/-picture-id126417547?k=6&m=126417547&s=612x612&w=0&h=zb2xGDwPc35ovekTP1M3uIO7CAqK1Z-l8aHeRvrwC4Y=', 'https://media.gettyimages.com/vectors/personal-savings-vector-id686373824?k=6&m=686373824&s=612x612&w=0&h=VX0vDtaY7IroKNCiF8QVDIg5_N9Fi_rnCnX8dGiavNo=']
+U+8AD2
+15
+liàng
+149.8
+諒.mp3
+
+諓
+['flattering']
+['halagador']
+['https://media.gettyimages.com/photos/multiethnic-men-handing-roses-to-african-woman-in-limousine-picture-id81859925?k=6&m=81859925&s=612x612&w=0&h=hExb7d1hfCplUN44hRpjBNjgn0C2K_V5GS6M6aGsHAQ=']
+U+8AD3
+15
+jiàn
+149.8
+諓.mp3
+
+諔
+['NONE']
+['NINGUNA']
+[]
+U+8AD4
+15
+chù
+149.8
+諔.mp3
+
+諕
+['to intimidate']
+['intimidar']
+['https://media.gettyimages.com/vectors/exclamation-mark-sign-warning-about-an-emergency-vector-id1131163852?k=6&m=1131163852&s=612x612&w=0&h=CCsf5Md7UZ1sAw1HIobIN3Rsl_kQCJSWxhgJ25lV83k=']
+U+8AD5
+15
+háo
+149.8
+諕.mp3
+
+論
+['debate', ' discuss', ' discourse']
+['debate', 'discutir', 'discurso']
+['https://media.gettyimages.com/photos/you-never-listen-picture-id1162106983?k=6&m=1162106983&s=612x612&w=0&h=x_QM_3wjjG3M2tpPOy-tTfIiEV68CsP596qKZ9_i0Bo=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+8AD6
+15
+lùn
+149.8
+論.mp3
+
+諗
+['consult carefully with, counsel']
+['consulte cuidadosamente con su abogado']
+['https://media.gettyimages.com/vectors/assessment-icons-line-series-vector-id1062446456?k=6&m=1062446456&s=612x612&w=0&h=LnYN9M8u7hYnOY026NWlhs1wHu7dK1jeQo-Q6JFF8Bc=']
+U+8AD7
+15
+shěn
+149.8
+諗.mp3
+
+諘
+['NONE']
+['NINGUNA']
+[]
+U+8AD8
+15
+biǎo
+149.8
+諘.mp3
+
+諙
+['NONE']
+['NINGUNA']
+[]
+U+8AD9
+15
+huà
+149.8
+諙.mp3
+
+諚
+['(kokuji) command']
+['(Kokuji) Kokuman d']
+['NONE']
+U+8ADA
+15
+pián
+149.8
+諚.mp3
+
+諛
+['flatter, truckle']
+['más liso']
+['NONE']
+U+8ADB
+15
+yú
+149.9
+諛.mp3
+
+諜
+['an intelligence report', ' to spy', ' spying']
+['un informe de inteligencia', 'el espía', 'espionaje']
+['https://media.gettyimages.com/photos/he-knows-exactly-where-his-money-goes-picture-id1150533032?k=6&m=1150533032&s=612x612&w=0&h=359BK5GOLmcG49pVTtU3U684VjvLt59yNwrAHDclnrI=', 'https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=', 'https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+8ADC
+16
+dié
+149.9
+諜.mp3
+
+諝
+['knowledge', ' discrimination', ' treachery']
+['conocimiento', 'discriminación', 'traición']
+['https://media.gettyimages.com/vectors/user-experience-icon-acme-series-vector-id1071761474?k=6&m=1071761474&s=612x612&w=0&h=JO8rSvZFsdq5uSFptdRcW51VF-nYUIz8EOEwTs8-AdU=', 'https://media.gettyimages.com/photos/an-industrial-warehouse-worker-being-the-target-of-bullying-picture-id1028928790?k=6&m=1028928790&s=612x612&w=0&h=autrZxFCa9OuhxSNtyb1Z25N9fh4a0jTyKFMS4pS6go=', 'https://media.gettyimages.com/photos/treachery-picture-id986442444?k=6&m=986442444&s=612x612&w=0&h=RCD8Ck8Y1rNaYDRasZWct1KEYH43CW9WnsTjyvkOS3w=']
+U+8ADD
+16
+xū
+149.9
+諝.mp3
+
+諞
+['brag, boast', ' quibble']
+['presumir', 'sutileza']
+['https://media.gettyimages.com/vectors/rainbow-heartshape-vector-id1132871643?k=6&m=1132871643&s=612x612&w=0&h=QeIJ5y-s2r9L_bHmPQTUMVD6KI5tDdaeV_j3Gc6qYus=', 'https://media.gettyimages.com/photos/two-african-masks-diplomatic-negotiations-picture-id157281806?k=6&m=157281806&s=612x612&w=0&h=_LxQJpFs_qg20-XSg0uSKdCD1E8brkG3uv20Ks73pNk=']
+U+8ADE
+16
+piǎn pián
+149.9
+諞.mp3
+
+諟
+['to examine', ' to consider', ' honest']
+['examinar', 'considerar', 'honesto']
+['https://media.gettyimages.com/vectors/tick-icon-vector-symbol-vector-id971623860?k=6&m=971623860&s=612x612&w=0&h=WIkXzhiOjBk6YqWGIbzo-_ttLKbDnK0y2GsYGfGEVAA=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=', 'https://media.gettyimages.com/vectors/business-ethics-icons-line-series-vector-id1060882676?k=6&m=1060882676&s=612x612&w=0&h=vMcCM4jeB-Kh8VMGfIGt71V4XNV0zP2c0rLaSFoqSfM=']
+U+8ADF
+16
+shì
+149.9
+諟.mp3
+
+諠
+['noisy, uproarious', ' forget']
+['ruidoso, estruendoso', 'olvidar']
+['NONE', 'https://media.gettyimages.com/photos/dont-forget-picture-id169945218?k=6&m=169945218&s=612x612&w=0&h=cc-k1Y5esbZinITIu4kz1OTYNo2-rwIdk9wbNigaQcs=']
+U+8AE0
+16
+xuān
+149.9
+諠.mp3
+
+諡
+['posthumous name, posthumous title']
+['nombre póstumo, título póstumo']
+['NONE']
+U+8AE1
+16
+shì
+149.9
+諡.mp3
+
+諢
+['jokes, obscene jests', ' joke']
+['bromas, bromas obscenas', 'broma']
+['https://media.gettyimages.com/photos/studio-shot-of-mature-womans-hand-making-obscene-gesture-picture-id476846721?k=6&m=476846721&s=612x612&w=0&h=lqL5_BcX9cF-pGf9K5Ee7QSUtB1aqrpqQ7_E93ewME8=', 'https://media.gettyimages.com/photos/boy-and-dog-in-toy-racing-car-picture-id1162019476?k=6&m=1162019476&s=612x612&w=0&h=3FWAHt58LjBXH_oKNqG7kB45ULUsH1MLmLl5Cpea7ek=']
+U+8AE2
+16
+hùn
+149.9
+諢.mp3
+
+諣
+['NONE']
+['NINGUNA']
+[]
+U+8AE3
+15
+huà
+149.9
+諣.mp3
+
+諤
+['honest speech, straightforward']
+['discurso honesto, sencillo']
+['https://media.gettyimages.com/vectors/business-people-linear-vector-icon-set-pixel-perfect-the-set-contains-vector-id1189697328?k=6&m=1189697328&s=612x612&w=0&h=iaAXWpTEWlThB-41c33Zo99A96ExVZTpG10GH3hB4kY=']
+U+8AE4
+16
+è
+149.9
+諤.mp3
+
+諥
+['NONE']
+['NINGUNA']
+[]
+U+8AE5
+16
+zhòng
+149.9
+諥.mp3
+
+諦
+['careful, attentive']
+['cuidado, atento']
+['https://media.gettyimages.com/vectors/titre-icon-vector-id1064145390?k=6&m=1064145390&s=612x612&w=0&h=jr8FJDKUmxpCo8bZOE5I85qcubqzeAJemkt-SbwLXkE=']
+U+8AE6
+16
+dì
+149.9
+諦.mp3
+
+諧
+['harmonize, agree', ' joke, jest']
+['armonizar, acordar', 'broma, hay']
+['https://media.gettyimages.com/photos/individuals-unite-to-become-team-family-network-picture-id171053447?k=6&m=171053447&s=612x612&w=0&h=TALIFPh12NvZw4IRMuXAr71-mBF0wareGVKd_Crov9M=', 'https://media.gettyimages.com/photos/boy-and-dog-in-toy-racing-car-picture-id1162019476?k=6&m=1162019476&s=612x612&w=0&h=3FWAHt58LjBXH_oKNqG7kB45ULUsH1MLmLl5Cpea7ek=']
+U+8AE7
+16
+xié
+149.9
+諧.mp3
+
+諨
+['NONE']
+['NINGUNA']
+[]
+U+8AE8
+16
+fú
+149.9
+諨.mp3
+
+諩
+['NONE']
+['NINGUNA']
+[]
+U+8AE9
+15
+pǔ
+149.8
+諩.mp3
+
+諪
+['NONE']
+['NINGUNA']
+[]
+U+8AEA
+16
+tíng
+149.9
+諪.mp3
+
+諫
+['remonstrate, admonish']
+['amonestar, amonestar']
+['NONE']
+U+8AEB
+16
+jiàn
+149.9
+諫.mp3
+
+諬
+['to open to begin to explain to inform a letter']
+['abrir para comenzar a explicar para informar una carta']
+['NONE']
+U+8AEC
+16
+qǐ
+149.9
+諬.mp3
+
+諭
+['proclaim, instruct', ' edict']
+['proclamar, instruir', 'edicto']
+['https://media.gettyimages.com/vectors/vintage-megaphone-vector-id538508407?k=6&m=538508407&s=612x612&w=0&h=XLbuR_UTfdPOMdlAIu_msJGhMydTLIhW15A-Pe8bsVI=', 'https://media.gettyimages.com/vectors/-vector-id1014727420?k=6&m=1014727420&s=612x612&w=0&h=kubH8O3Zj3VMHAvGc9NRW565C-qWCGEj44qg32c03fk=']
+U+8AED
+16
+yù
+149.9
+諭.mp3
+
+諮
+['consult, confer', ' communicate in']
+['consultar, conferir', 'comunicarse en']
+['https://media.gettyimages.com/photos/business-meeting-picture-id1035834404?k=6&m=1035834404&s=612x612&w=0&h=_vcp0W8nzxsN7WVAeOxJ6bUn1wbOrEPchisceHB7K5E=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+8AEE
+16
+zī
+149.9
+諮.mp3
+
+諯
+['NONE']
+['NINGUNA']
+[]
+U+8AEF
+16
+zhuān
+149.9
+諯.mp3
+
+諰
+['apprehensive']
+['aprensivo']
+['https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=']
+U+8AF0
+16
+xǐ
+149.9
+諰.mp3
+
+諱
+['conceal', ' shun', ' regard as taboo']
+['encubrir', 'Rehuir', 'considerar como tabú']
+['https://media.gettyimages.com/vectors/camo-seamless-vector-id612523666?k=6&m=612523666&s=612x612&w=0&h=TRAI4dcRVRBsMZYCMc9w2amp4Kezd581hr3zudZL_uE=', 'https://media.gettyimages.com/photos/aerial-shot-of-shun-lee-estate-during-the-day-kowloon-hong-kong-picture-id1161666502?k=6&m=1161666502&s=612x612&w=0&h=KKRlkxytsQjTgpxbDgxSCTmDzEmET81vKEfj7N6OptQ=', 'NONE']
+U+8AF1
+16
+huì
+149.9
+諱.mp3
+
+諲
+['NONE']
+['NINGUNA']
+[]
+U+8AF2
+16
+yīn
+149.9
+諲.mp3
+
+諳
+['versed in, fully acquainted with']
+['versado en, completamente familiarizado con']
+['NONE']
+U+8AF3
+16
+ān
+149.9
+諳.mp3
+
+諴
+['in harmony', ' in agreement', ' sincere']
+['en armonia', 'en acuerdo', 'sincero']
+['https://media.gettyimages.com/photos/school-children-in-uniforms-standing-on-painted-venn-diagrams-picture-id1083673198?k=6&m=1083673198&s=612x612&w=0&h=KCqlaTt0a87Lvy45ONq7DhR9VoDX0P5NML09S-pqFUE=', 'https://media.gettyimages.com/photos/lets-merge-our-talents-as-we-get-to-the-top-picture-id1008207382?k=6&m=1008207382&s=612x612&w=0&h=hWCJqGWeATT9HOH5m2T0Rlldfh-CNm-rxBbYNNCYQos=', 'https://media.gettyimages.com/vectors/business-ethics-icons-line-series-vector-id1060882676?k=6&m=1060882676&s=612x612&w=0&h=vMcCM4jeB-Kh8VMGfIGt71V4XNV0zP2c0rLaSFoqSfM=']
+U+8AF4
+16
+xián
+149.9
+諴.mp3
+
+諵
+['mutter']
+['madre']
+['https://media.gettyimages.com/photos/fohlen-mit-mutter-stute-pferde-quarter-horse-picture-id1203929531?k=6&m=1203929531&s=612x612&w=0&h=upZ87BUfiVQBoryhqNF_bwinXMEoGjSGK8His2s_OfY=']
+U+8AF5
+16
+nán
+149.9
+諵.mp3
+
+諶
+['sincere, faithful', ' surname']
+['sincero, fiel', 'apellido']
+['https://media.gettyimages.com/vectors/core-values-icons-line-series-vector-id1051248752?k=6&m=1051248752&s=612x612&w=0&h=hq0l9zyBX5PGohyRzbbKcv-Q8R13jCAE14Bnh22001o=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+8AF6
+16
+chén
+149.9
+諶.mp3
+
+諷
+['recite, incant', ' satirize']
+['recitar, encantar', 'satirizar']
+['NONE', 'https://media.gettyimages.com/photos/mixed-race-boy-drawing-on-wall-with-crayons-picture-id672158567?k=6&m=672158567&s=612x612&w=0&h=ws1xRpz3cGbjGMkOSJZY6HKZPZrIAslciTfwLnLUYbQ=']
+U+8AF7
+16
+fěng fèng
+149.9
+諷.mp3
+
+諸
+['several, various']
+['varios, varios']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+8AF8
+15
+zhū
+149.9
+諸.mp3
+
+諹
+['NONE']
+['NINGUNA']
+[]
+U+8AF9
+16
+yáng
+149.9
+諹.mp3
+
+諺
+['proverb, maxim']
+['proverbio, máxima']
+['https://media.gettyimages.com/illustrations/maxims-system-illustration-id512511452?k=6&m=512511452&s=612x612&w=0&h=WQ9UGADo_wszJyCR4WmNypJPyriwtu_QdxVzTsguxaE=']
+U+8AFA
+16
+yàn
+149.9
+諺.mp3
+
+諻
+['NONE']
+['NINGUNA']
+[]
+U+8AFB
+16
+huáng
+149.9
+諻.mp3
+
+諼
+['forget', ' lie, cheat, deceive']
+['olvidar', 'mentir, engañar, engañar']
+['https://media.gettyimages.com/photos/dont-forget-picture-id169945218?k=6&m=169945218&s=612x612&w=0&h=cc-k1Y5esbZinITIu4kz1OTYNo2-rwIdk9wbNigaQcs=', 'https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+8AFC
+16
+xuān
+149.9
+諼.mp3
+
+諽
+['NONE']
+['NINGUNA']
+[]
+U+8AFD
+16
+gé
+149.9
+諽.mp3
+
+諾
+['promise', ' assent, approve']
+['promesa', 'asentir, aprobar']
+['https://media.gettyimages.com/photos/lets-merge-our-talents-as-we-get-to-the-top-picture-id1008207382?k=6&m=1008207382&s=612x612&w=0&h=hWCJqGWeATT9HOH5m2T0Rlldfh-CNm-rxBbYNNCYQos=', 'https://media.gettyimages.com/photos/lets-merge-our-talents-as-we-get-to-the-top-picture-id1008207382?k=6&m=1008207382&s=612x612&w=0&h=hWCJqGWeATT9HOH5m2T0Rlldfh-CNm-rxBbYNNCYQos=']
+U+8AFE
+15
+nuò
+149.9
+諾.mp3
+
+諿
+['NONE']
+['NINGUNA']
+[]
+U+8AFF
+16
+qī
+149.9
+諿.mp3
+
+謀
+['plan, scheme', ' stratagem']
+['plan, esquema', 'estratagema']
+['https://media.gettyimages.com/vectors/business-solution-icons-smart-series-vector-id936300578?k=6&m=936300578&s=612x612&w=0&h=stgAkdwdjyUtppb4ZeTZis3narD6RKUvceWUA6oKbNg=', 'https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=']
+U+8B00
+16
+móu
+149.9
+謀.mp3
+
+謁
+['visit, pay respects to']
+['visitar, rendir homenaje a']
+['https://media.gettyimages.com/photos/colleagues-shaking-hands-picture-id79124472?k=6&m=79124472&s=612x612&w=0&h=bmkkzjyFYZfXQwKSEz5Y8wnG3rVDRkJ_izFkB7U_bsQ=']
+U+8B01
+16
+yè
+149.9
+謁.mp3
+
+謂
+['say, tell', ' call, name', ' be called']
+['decir dirá', 'nombre de llamada', 'ser llamado']
+['https://media.gettyimages.com/photos/two-girls-using-tin-cans-for-telephone-picture-id55974304?k=6&m=55974304&s=612x612&w=0&h=OJzwzMjYR9ngv-S85VxlVfcEevbz8tUCiwQZZXTuk98=', 'https://media.gettyimages.com/vectors/user-experience-icon-acme-series-vector-id1071761474?k=6&m=1071761474&s=612x612&w=0&h=JO8rSvZFsdq5uSFptdRcW51VF-nYUIz8EOEwTs8-AdU=', 'https://media.gettyimages.com/photos/famous-bilbao-small-sandwiches-called-pintxos-server-from-a-bar-picture-id870470562?k=6&m=870470562&s=612x612&w=0&h=jlJ6uFK90v9GEkde0MedTHGpNBRCI2GBUl_rnZC0yTE=']
+U+8B02
+16
+wèi
+149.9
+謂.mp3
+
+謃
+['NONE']
+['NINGUNA']
+[]
+U+8B03
+16
+xīng
+149.9
+謃.mp3
+
+謄
+['copy, transcribe']
+['copiar, transcribir']
+['NONE']
+U+8B04
+17
+téng
+149.10
+謄.mp3
+
+謅
+['play with words, quip', ' talk nonsense']
+['jugar con palabras, bromear', 'Decir tonterías']
+['NONE', 'https://media.gettyimages.com/photos/two-young-women-friends-sharing-happy-time-together-picture-id1057923694?k=6&m=1057923694&s=612x612&w=0&h=-xzoJqEIxm05jH3IIX6oJuO_0UcJE-baUpq3XKoZF6E=']
+U+8B05
+17
+zhōu
+149.10
+謅.mp3
+
+謆
+['beguile, cajole']
+['engañar, engatusar']
+['NONE']
+U+8B06
+17
+shàn
+149.10
+謆.mp3
+
+謇
+['stutter', ' speak out boldly']
+['tartamudear', 'hablar con valentía']
+['https://media.gettyimages.com/photos/sigmar-brner-szene-mit-willem-fricke-uta-stammer-fritz-hollenbeck-und-picture-id1271169904?k=6&m=1271169904&s=612x612&w=0&h=4E6bh92dNovmcQOcz1f_RYGdkE04bsdrrOQcWKNi4Gc=', 'https://media.gettyimages.com/photos/confident-female-professional-discussing-with-colleagues-picture-id1150572145?k=6&m=1150572145&s=612x612&w=0&h=J0m_5gbusEOFO1ILTs5mTKHzrr2KzOZMmY9E38AS_ds=']
+U+8B07
+17
+jiǎn
+149.10
+謇.mp3
+
+謈
+['NONE']
+['NINGUNA']
+[]
+U+8B08
+17
+pó
+149.10
+謈.mp3
+
+謉
+['NONE']
+['NINGUNA']
+[]
+U+8B09
+16
+kuì
+149.10
+謉.mp3
+
+謊
+['lie']
+['mentira']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+8B0A
+16
+huǎng
+149.10
+謊.mp3
+
+謋
+['NONE']
+['NINGUNA']
+[]
+U+8B0B
+17
+huò
+149.10
+謋.mp3
+
+謌
+['slander, defame']
+['calumnia, difamar']
+['https://media.gettyimages.com/photos/germany-hamburg-election-campaign-of-kurt-georg-kiesinger-for-the-cdu-picture-id549350907?k=6&m=549350907&s=612x612&w=0&h=_62XWfyqDwjuxVqST0trXjAT0HvhAJyXebR1JgZQZ4k=']
+U+8B0C
+17
+gē
+149.10
+謌.mp3
+
+謍
+['NONE']
+['NINGUNA']
+[]
+U+8B0D
+17
+yíng
+149.10
+謍.mp3
+
+謎
+['riddle, conundrum', ' puzzle']
+['acertijo, acertijo', 'rompecabezas']
+['https://media.gettyimages.com/vectors/circle-maze-vector-id1220839940?k=6&m=1220839940&s=612x612&w=0&h=p9jJtzraQzukvYGmQvcE_YsmhpxiZYLDsExMkffgHD4=', 'https://media.gettyimages.com/vectors/puzzle-pieces-vector-id864454988?k=6&m=864454988&s=612x612&w=0&h=lwvBDTdyv19EygnwuYN6y5RC9-4RBR5ulHRen5JRp24=']
+U+8B0E
+16
+mí
+149.10
+謎.mp3
+
+謏
+['scold, censure', ' lead people toward virtuous ways', ' small, little']
+['regañar, censurar', 'guiar a las personas hacia caminos virtuosos', 'pequeño poco']
+['NONE', 'NONE', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=']
+U+8B0F
+16
+xiǎo
+149.10
+謏.mp3
+
+謐
+['calm, quiet, still', ' cautious']
+['tranquilo, tranquilo, quieto', 'cauteloso']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/vectors/titre-icon-vector-id1064145390?k=6&m=1064145390&s=612x612&w=0&h=jr8FJDKUmxpCo8bZOE5I85qcubqzeAJemkt-SbwLXkE=']
+U+8B10
+17
+mì
+149.10
+謐.mp3
+
+謑
+['shame, disgrace']
+['vergüenza, vergüenza']
+['https://media.gettyimages.com/photos/sadness-picture-id1072422456?k=6&m=1072422456&s=612x612&w=0&h=Qspxe4orPOQlzygCimkE3C-ULuuSgI_JYVsXmZzsZT0=']
+U+8B11
+17
+xǐ
+149.10
+謑.mp3
+
+謒
+['NONE']
+['NINGUNA']
+[]
+U+8B12
+17
+qiāng
+149.10
+謒.mp3
+
+謓
+['NONE']
+['NINGUNA']
+[]
+U+8B13
+17
+chēn
+149.10
+謓.mp3
+
+謔
+['jeer']
+['veces']
+['https://media.gettyimages.com/photos/sports-fans-cheering-and-booing-opposing-team-in-stadium-picture-id530481657?k=6&m=530481657&s=612x612&w=0&h=YtAfhIgiFB9aW6u0Eh5kqMeIttuXIdIrFwWCM3TrxwE=']
+U+8B14
+16
+xuè
+149.10
+謔.mp3
+
+謕
+['NONE']
+['NINGUNA']
+[]
+U+8B15
+17
+tí
+149.10
+謕.mp3
+
+謖
+['rise up', ' raise up']
+['Levantate', 'levantar']
+['https://media.gettyimages.com/photos/young-friends-enjoying-the-freedom-on-a-car-trip-over-a-country-picture-id687064886?k=6&m=687064886&s=612x612&w=0&h=KwQmIa2CnTXTmkey7Pln4KzHYqDDV39naElEOFAbUqI=', 'https://media.gettyimages.com/photos/two-warehouse-workers-preparing-to-lift-a-heavy-box-together-picture-id1027182958?k=6&m=1027182958&s=612x612&w=0&h=UW8fY2B3WtIpYp8x5NOUeRlEIgmPNpz_AgyPykwhjhM=']
+U+8B16
+17
+sù
+149.10
+謖.mp3
+
+謗
+['slander, libel']
+['calumnia, difamación']
+['https://media.gettyimages.com/vectors/censorship-vector-id487841164?k=6&m=487841164&s=612x612&w=0&h=cgUyjNX7Hl8f_z9VUf3uZrS-idJyvsr-HI5zYG7wV6M=']
+U+8B17
+17
+bàng
+149.10
+謗.mp3
+
+謘
+['NONE']
+['NINGUNA']
+[]
+U+8B18
+17
+chí
+149.10
+謘.mp3
+

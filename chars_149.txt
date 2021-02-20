@@ -1,0 +1,2560 @@
+鄙
+['mean', ' low']
+['media', 'bajo']
+['https://media.gettyimages.com/photos/marking-territory-picture-id977261146?k=6&m=977261146&s=612x612&w=0&h=SBaOlLDmDMLK1qSJVhbKuujoLjbzLYCGUWDbV69XdgE=', 'https://media.gettyimages.com/vectors/battery-icons-line-vector-icons-vector-id1089811060?k=6&m=1089811060&s=612x612&w=0&h=hriGX8wMYlYF_FlzNDI5ZucMFVgtgOX89I7q1Of7C4A=']
+U+9119
+13
+bǐ
+163.11
+鄙.mp3
+
+鄚
+["place in today's Hebei province"]
+['lugar en la actual provincia de Hebei']
+['https://media.gettyimages.com/photos/government-building-of-xiongxian-countyhebei-provincechina-picture-id764794201?k=6&m=764794201&s=612x612&w=0&h=Tv75IR6BWcJFdkaoOqkI22IdgIch_PtA_vCNoAsu2Qs=']
+U+911A
+12
+mào
+163.11
+鄚.mp3
+
+鄛
+['NONE']
+['NINGUNA']
+[]
+U+911B
+13
+cháo
+163.11
+鄛.mp3
+
+鄜
+['county in Shanxi province']
+['condado en la provincia de Shanxi']
+['https://media.gettyimages.com/vectors/hong-qiao-bridge-vector-id647040580?k=6&m=647040580&s=612x612&w=0&h=IiLK-OlzK3WsYEJIxmqaL-FKQ3m4_jGfgMTGnNMTL1c=']
+U+911C
+13
+fū
+163.11
+鄜.mp3
+
+鄝
+['NONE']
+['NINGUNA']
+[]
+U+911D
+13
+liǎo
+163.11
+鄝.mp3
+
+鄞
+['county in Zhejiang province']
+['condado en la provincia de Zhejiang']
+['https://media.gettyimages.com/photos/empty-parking-lot-picture-id1149228824?k=6&m=1149228824&s=612x612&w=0&h=H8X0Q7qlrL21oCDgl9V5TeqnfHZYQMiDnK-XvgdFI44=']
+U+911E
+13
+yín
+163.11
+鄞.mp3
+
+鄟
+['NONE']
+['NINGUNA']
+[]
+U+911F
+13
+zhuān
+163.11
+鄟.mp3
+
+鄠
+['county in Shanxi province']
+['condado en la provincia de Shanxi']
+['https://media.gettyimages.com/vectors/hong-qiao-bridge-vector-id647040580?k=6&m=647040580&s=612x612&w=0&h=IiLK-OlzK3WsYEJIxmqaL-FKQ3m4_jGfgMTGnNMTL1c=']
+U+9120
+13
+hù
+163.11
+鄠.mp3
+
+鄡
+['NONE']
+['NINGUNA']
+[]
+U+9121
+13
+qiāo
+163.11
+鄡.mp3
+
+鄢
+['name of a district in Honan']
+['nombre de un distrito en Honan']
+['NONE']
+U+9122
+13
+yān
+163.11
+鄢.mp3
+
+鄣
+['name of an ancient city in N. Jiangsu, near Shandong']
+['nombre de una ciudad antigua en N. Jiangsu, cerca de Shandong']
+['NONE']
+U+9123
+13
+zhāng
+163.11
+鄣.mp3
+
+鄤
+['place in Henan province']
+['lugar en la provincia de Henan']
+['https://media.gettyimages.com/vectors/map-of-china-vector-id1148968944?k=6&m=1148968944&s=612x612&w=0&h=bm2RXqT-C3ufg6ioIPjpjL2WmMD-UUhvNBMFnx89o7w=']
+U+9124
+13
+màn
+163.11
+鄤.mp3
+
+鄥
+['NONE']
+['NINGUNA']
+[]
+U+9125
+13
+qiāo
+163.11
+鄥.mp3
+
+鄦
+['NONE']
+['NINGUNA']
+[]
+U+9126
+14
+xǔ
+163.12
+鄦.mp3
+
+鄧
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9127
+14
+dèng
+163.12
+鄧.mp3
+
+鄨
+['NONE']
+['NINGUNA']
+[]
+U+9128
+18
+bì
+163.12
+鄨.mp3
+
+鄩
+['county in Shandong province']
+['condado en la provincia de Shandong']
+['https://media.gettyimages.com/photos/crane-lifting-up-container-in-yard-picture-id1160749193?k=6&m=1160749193&s=612x612&w=0&h=CR-3-kl_1dzLQXRqP6pGSN8sFpie89aGLXbzaM9lJQ8=']
+U+9129
+14
+xún
+163.12
+鄩.mp3
+
+鄪
+['NONE']
+['NINGUNA']
+[]
+U+912A
+14
+bì
+163.12
+鄪.mp3
+
+鄫
+["state in today's Shandong province"]
+['estado en la actual provincia de Shandong']
+['NONE']
+U+912B
+14
+zēng
+163.12
+鄫.mp3
+
+鄬
+['place in Henan province']
+['lugar en la provincia de Henan']
+['https://media.gettyimages.com/vectors/map-of-china-vector-id1148968944?k=6&m=1148968944&s=612x612&w=0&h=bm2RXqT-C3ufg6ioIPjpjL2WmMD-UUhvNBMFnx89o7w=']
+U+912C
+14
+wéi
+163.12
+鄬.mp3
+
+鄭
+["state in today's Henan", ' surname']
+['estado en Henan de hoy', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+912D
+14
+zhèng
+163.12
+鄭.mp3
+
+鄮
+['NONE']
+['NINGUNA']
+[]
+U+912E
+14
+mào
+163.12
+鄮.mp3
+
+鄯
+['district in Gansu during the Tang dynasty']
+['distrito de Gansu durante la dinastía Tang']
+['NONE']
+U+912F
+14
+shàn
+163.12
+鄯.mp3
+
+鄰
+['neighbor', ' neighborhood']
+['vecino', 'barrio']
+['https://media.gettyimages.com/photos/greeting-guests-at-housewarming-party-picture-id1078076590?k=6&m=1078076590&s=612x612&w=0&h=iQa7HFkpZqNlAa7r7f2nYWSu0EnvULZQdxOZM2_5eyo=', 'https://media.gettyimages.com/photos/residential-development-aerial-picture-id1066713660?k=6&m=1066713660&s=612x612&w=0&h=2UkRsRkHPg2YTf3P8fW6P6H1j6yqz_xXZdLWxjBJSCo=']
+U+9130
+14
+lín
+163.12
+鄰.mp3
+
+鄱
+['county and lake in Jiangxi']
+['condado y lago en Jiangxi']
+['https://media.gettyimages.com/photos/autumn-scenery-of-shicheng-in-wuyuan-countyjiangxi-provincechina-picture-id955718700?k=6&m=955718700&s=612x612&w=0&h=Hw9B1oLDjL5F_xNRcSzbrNJBxcWr3Uxii36aLxGoTEQ=']
+U+9131
+14
+pó
+163.12
+鄱.mp3
+
+鄲
+['county in Hebei province']
+['condado en la provincia de Hebei']
+['https://media.gettyimages.com/photos/china-hebei-province-zhengzhou-zhengzhou-city-at-sunset-picture-id691042335?k=6&m=691042335&s=612x612&w=0&h=UKzthk80rE-jdTHfoz5rqkYgoxksn_RrenhRZ6XHb0U=']
+U+9132
+14
+dān
+163.12
+鄲.mp3
+
+鄳
+['NONE']
+['NINGUNA']
+[]
+U+9133
+15
+méng
+163.13
+鄳.mp3
+
+鄴
+["place in today's honan province"]
+['lugar en la provincia de honan de hoy']
+['https://media.gettyimages.com/photos/road-junction-in-midtown-of-modern-city-at-night-picture-id827515218?k=6&m=827515218&s=612x612&w=0&h=VEUiN8yqMGwwkmbEDvZoJzTqfXdYXWf5ovSnGiymxMk=']
+U+9134
+15
+yè
+163.13
+鄴.mp3
+
+鄵
+['NONE']
+['NINGUNA']
+[]
+U+9135
+15
+cào
+163.13
+鄵.mp3
+
+鄶
+["state in today's Henan province"]
+['estado en la actual provincia de Henan']
+['NONE']
+U+9136
+15
+kuài
+163.13
+鄶.mp3
+
+鄷
+['NONE']
+['NINGUNA']
+[]
+U+9137
+15
+fēng
+163.13
+鄷.mp3
+
+鄸
+['NONE']
+['NINGUNA']
+[]
+U+9138
+15
+méng
+163.14
+鄸.mp3
+
+鄹
+['name of a state', ' surname']
+['nombre de un estado', 'apellido']
+['https://media.gettyimages.com/vectors/mexico-map-illustration-vector-id590601384?k=6&m=590601384&s=612x612&w=0&h=A-oxXyy1pdHshsu46DZjhALZtNAWN-czmMF1Si3Krms=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9139
+16
+zōu
+163.14
+鄹.mp3
+
+鄺
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+913A
+16
+kuàng
+163.15
+鄺.mp3
+
+鄻
+['spoil, ruin']
+['estropear, arruinar']
+['https://media.gettyimages.com/photos/man-holding-cigar-picture-id97560711?k=6&m=97560711&s=612x612&w=0&h=3DIcdpt2jxD4AFD6T12orsBdj3R4b5byg-xG7F5rO4Q=']
+U+913B
+17
+liǎn
+163.15
+鄻.mp3
+
+鄼
+['NONE']
+['NINGUNA']
+[]
+U+913C
+17
+zàn
+163.15
+鄼.mp3
+
+鄽
+['NONE']
+['NINGUNA']
+[]
+U+913D
+17
+chán
+163.15
+鄽.mp3
+
+鄾
+['place in Hubei province']
+['lugar en la provincia de Hubei']
+['https://media.gettyimages.com/vectors/map-of-china-vector-id1148968944?k=6&m=1148968944&s=612x612&w=0&h=bm2RXqT-C3ufg6ioIPjpjL2WmMD-UUhvNBMFnx89o7w=']
+U+913E
+17
+yōu
+163.15
+鄾.mp3
+
+鄿
+['county in Xinjiang province']
+['condado en la provincia de Xinjiang']
+['https://media.gettyimages.com/photos/tian-chi-xinjiang-province-china-asia-picture-id90867342?k=6&m=90867342&s=612x612&w=0&h=N5C6tScD--iQ7HLze9w3kbyRayAU_F_ZGPlYu6hqUzs=']
+U+913F
+17
+jī
+163.16
+鄿.mp3
+
+酀
+['NONE']
+['NINGUNA']
+[]
+U+9140
+18
+yàn
+163.16
+酀.mp3
+
+酁
+['NONE']
+['NINGUNA']
+[]
+U+9141
+19
+chán
+163.17
+酁.mp3
+
+酂
+['collect', ' small administration']
+['recoger', 'pequeña administración']
+['https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=']
+U+9142
+18
+cuó
+163.16
+酂.mp3
+
+酃
+['the spirit of a being, which acts upon others spirit', ' divine', ' efficacious']
+['el espíritu de un ser, que actúa sobre el espíritu de otros', 'adivinar', 'eficaz']
+['NONE', 'https://media.gettyimages.com/photos/january-1983-american-actor-and-drag-queen-divine-performs-at-the-red-picture-id3201712?k=6&m=3201712&s=612x612&w=0&h=DvlGmCZQ7jS23EWqIqiIqRWBR-zkwuHnqw_blywK3gk=', 'NONE']
+U+9143
+19
+líng
+163.17
+酃.mp3
+
+酄
+['NONE']
+['NINGUNA']
+[]
+U+9144
+19
+huān
+163.18
+酄.mp3
+
+酅
+['raise feet', ' town in Shandong province']
+['levantar los pies', 'ciudad en la provincia de Shandong']
+['https://media.gettyimages.com/photos/baby-boy-picture-id1033363384?k=6&m=1033363384&s=612x612&w=0&h=ctJptLPikI9hlCjMa-u_1GbzGOES_R1xM7uPSYZu9-U=', 'https://media.gettyimages.com/photos/billboard-banner-signal-mock-up-display-in-subway-train-station-picture-id1144357944?k=6&m=1144357944&s=612x612&w=0&h=MLMNFvDfDyZnl6b0wbMECIfs7uo7IBTJxOaXwpDYFr8=']
+U+9145
+20
+xī
+163.18
+酅.mp3
+
+酆
+['name of Zhou period state']
+['nombre del estado del período Zhou']
+['NONE']
+U+9146
+20
+fēng
+163.18
+酆.mp3
+
+酇
+['collect', ' small administration']
+['recoger', 'pequeña administración']
+['https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=']
+U+9147
+21
+zàn
+163.19
+酇.mp3
+
+酈
+["place in today's Henan province"]
+['lugar en la actual provincia de Henan']
+['https://media.gettyimages.com/photos/night-view-of-luoyang-city-henan-province-china-picture-id700736203?k=6&m=700736203&s=612x612&w=0&h=V3YHaBE_a9o9MBQ3x2fRmb1AT5b_r-IF1jnOkOBSx7I=']
+U+9148
+21
+lì
+163.19
+酈.mp3
+
+酉
+['10th terrestrial branch', ' a wine vessel']
+['Décima rama terrestre', 'una vasija de vino']
+['https://media.gettyimages.com/photos/low-angle-view-of-flowering-plant-against-sky-picture-id1205938336?k=6&m=1205938336&s=612x612&w=0&h=fIC_LmQ4zilfNHGbY5JhlPO_tH-JKZBGEuprPOiibQI=', 'https://media.gettyimages.com/photos/couple-on-a-sailboat-picture-id987877042?k=6&m=987877042&s=612x612&w=0&h=5V1LsEcrntBpvzS49JW5n5MBmoB6att4DtKtmrnMG2k=']
+U+9149
+7
+yǒu
+164.0
+酉.mp3
+
+酊
+['drunk, intoxicated']
+['borracho, intoxicado']
+['https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=']
+U+914A
+9
+dīng
+164.2
+酊.mp3
+
+酋
+['chief of tribe, chieftain']
+['jefe de tribu, cacique']
+['NONE']
+U+914B
+9
+qiú
+164.2
+酋.mp3
+
+酌
+['serve wine', ' feast', ' deliberate']
+['servir vino', 'banquete', 'deliberar']
+['https://media.gettyimages.com/vectors/soulico-dining-vector-id467093117?k=6&m=467093117&s=612x612&w=0&h=n2w5Ki965EivEFgaZnLOrJWf8uyJlDmMTys2jxR0drQ=', 'https://media.gettyimages.com/photos/heres-to-tonight-picture-id868935172?k=6&m=868935172&s=612x612&w=0&h=MjBYXm7f229lyNXsWqcSnmlouGWrfsNDYhQCiPJ0V6g=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+914C
+10
+zhuó
+164.3
+酌.mp3
+
+配
+['match, pair', ' equal', ' blend']
+['emparejar, par', 'igual', 'mezcla']
+['https://media.gettyimages.com/vectors/cleats-rounded-line-icon-vector-id1084445080?k=6&m=1084445080&s=612x612&w=0&h=xaTPAv-u72tZLVyTit9vrINhgSUjkaREogz2f2FgEDg=', 'https://media.gettyimages.com/photos/colorful-handprints-picture-id174661842?k=6&m=174661842&s=612x612&w=0&h=aEYWptqxq1fIlU3x1FHPePfSAXrj85NUuOwV86EpufY=', 'https://media.gettyimages.com/photos/double-exposure-image-of-young-woman-standing-against-white-picture-id1029864812?k=6&m=1029864812&s=612x612&w=0&h=7acmXxFZPo86vndxAno0QvWTaxeB8PoiwGRD8lrVVbs=']
+U+914D
+10
+pèi
+164.3
+配.mp3
+
+酎
+['double-fermented wine, vintage wine']
+['vino de doble fermentación, vino añejo']
+['NONE']
+U+914E
+10
+zhòu
+164.3
+酎.mp3
+
+酏
+['millet wine']
+['amigos vino']
+['https://media.gettyimages.com/photos/the-preserved-stored-and-aged-chinese-spirit-alcoholic-liquor-rice-picture-id596966622?k=6&m=596966622&s=612x612&w=0&h=GEdRz_XNGMUDYFfcUgJQ-FUHo02-3eMLptaaD8Bhk1w=']
+U+914F
+10
+yǐ
+164.3
+酏.mp3
+
+酐
+['anhydride']
+['anhídrido']
+['https://media.gettyimages.com/illustrations/sulfur-trioxide-pollutant-molecule-illustration-illustration-id1227512297?k=6&m=1227512297&s=612x612&w=0&h=rrmMMcgw7nl4PMtLmI2da95n-JJHqYKTL-2kcDxYJRQ=']
+U+9150
+10
+gān
+164.3
+酐.mp3
+
+酑
+['NONE']
+['NINGUNA']
+[]
+U+9151
+10
+yú
+164.3
+酑.mp3
+
+酒
+['wine, spirits, liquor, alcoholic beverage']
+['vino, licores, licor, bebida alcohólica']
+['https://media.gettyimages.com/vectors/drink-icons-vector-id455592001?k=6&m=455592001&s=612x612&w=0&h=dSzJRAFOa3keek4qvpzbWOYH0zAMbNzUQZU0A6Ck6SU=']
+U+9152
+10
+jiǔ
+164.3
+酒.mp3
+
+酓
+['NONE']
+['NINGUNA']
+[]
+U+9153
+11
+yǎn
+164.4
+酓.mp3
+
+酔
+['intoxicated, drunk', ' addicted to']
+['intoxicado, borracho', 'adicto a']
+['https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=', 'https://media.gettyimages.com/photos/bad-bedroom-etiquette-picture-id892227446?k=6&m=892227446&s=612x612&w=0&h=9ZqFbmOP5Jx37EhceHIS9q_XAKjP8Q4joLn4AqWmUQk=']
+U+9154
+11
+zuì
+164.4
+酔.mp3
+
+酕
+['drunk']
+['borracho']
+['https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=']
+U+9155
+11
+máo
+164.4
+酕.mp3
+
+酖
+['wine with bird poison added']
+['vino con veneno para pájaros añadido']
+['NONE']
+U+9156
+11
+zhèn
+164.4
+酖.mp3
+
+酗
+['drunk, to become violent under the influence of alcohol']
+['borracho, volverse violento bajo la influencia del alcohol']
+['NONE']
+U+9157
+11
+xù
+164.4
+酗.mp3
+
+酘
+['NONE']
+['NINGUNA']
+[]
+U+9158
+11
+dòu
+164.4
+酘.mp3
+
+酙
+['NONE']
+['NINGUNA']
+[]
+U+9159
+11
+zhēn
+164.4
+酙.mp3
+
+酚
+['carbolic acid', ' phenol']
+['ácido carbólico', 'fenol']
+['https://media.gettyimages.com/photos/carbolic-acid-picture-id179197832?k=6&m=179197832&s=612x612&w=0&h=BeB17hatc-GqOj5f82Agv0vZgLNXXwSHU5tPG6vcpjM=', 'https://media.gettyimages.com/illustrations/tyrosine-amino-acid-molecule-illustration-illustration-id1193684966?k=6&m=1193684966&s=612x612&w=0&h=cukGs2awW5lKcS-8dho7whHCT9hV48rqtld1pR8gNQk=']
+U+915A
+11
+fēn
+164.4
+酚.mp3
+
+酛
+['NONE']
+['NINGUNA']
+[]
+U+915B
+11
+yuán
+164.4
+酛.mp3
+
+酜
+['NONE']
+['NINGUNA']
+[]
+U+915C
+11
+fu
+164.4
+酜.mp3
+
+酝
+['liquor, spirits, wine', ' ferment']
+['licor, licores, vino', 'fermentar']
+['https://media.gettyimages.com/photos/cocktails-picture-id504754220?k=6&m=504754220&s=612x612&w=0&h=SlrQf7Njw-WSF9ReIpONQpYipi1QqINoGY9nOHkRR0g=', 'https://media.gettyimages.com/photos/adorable-expressive-little-girl-picture-id175484660?k=6&m=175484660&s=612x612&w=0&h=59cGU2NHhzjgj1RgyBpW__YicYr615ftbebnYWwA7wI=']
+U+915D
+11
+yùn
+164.4
+酝.mp3
+
+酞
+['phthalein']
+['ftaleína']
+['https://media.gettyimages.com/illustrations/phenolphthalein-indicator-molecule-illustration-illustration-id1227510839?k=6&m=1227510839&s=612x612&w=0&h=RFliEIbkT3xWdba58r8x9llkfstkZWDpLED4zDUDWW8=']
+U+915E
+11
+tài
+164.4
+酞.mp3
+
+酟
+['NONE']
+['NINGUNA']
+[]
+U+915F
+12
+tiān
+164.5
+酟.mp3
+
+酠
+['NONE']
+['NINGUNA']
+[]
+U+9160
+12
+qiǎ
+164.5
+酠.mp3
+
+酡
+['flushed', ' rubicund']
+['enrojecido', 'rubicundo']
+['https://media.gettyimages.com/photos/laughing-woman-on-the-grass-picture-id530910240?k=6&m=530910240&s=612x612&w=0&h=zvdJm5mKxMYZoNEuvja9rIPMS_aPknAQSq-D-r-eKs8=', 'https://media.gettyimages.com/vectors/loving-couple-vector-id165492266?k=6&m=165492266&s=612x612&w=0&h=N0gd4V5o28JOfGg6sOB4cAuZKDZNbB7psp2d2tPoYi4=']
+U+9161
+12
+tuó
+164.5
+酡.mp3
+
+酢
+["toast one's host with wine", ' to express juice by pressing']
+['brindar por el anfitrión con vino', 'para extraer jugo presionando']
+['NONE', 'https://media.gettyimages.com/photos/mother-with-three-small-children-indoors-in-kitchen-in-the-morning-at-picture-id1219113855?k=6&m=1219113855&s=612x612&w=0&h=8EMh7aDgJviCi000vlsRlM3_-zQipQTu0rdlV0CgiQo=']
+U+9162
+12
+cù
+164.5
+酢.mp3
+
+酣
+['enjoy intoxicants']
+['disfrutar de intoxicantes']
+['NONE']
+U+9163
+12
+hān
+164.5
+酣.mp3
+
+酤
+['to deal in spirits']
+['tratar con espíritus']
+['https://media.gettyimages.com/photos/silhouette-shadows-of-business-people-talking-in-office-picture-id637920442?k=6&m=637920442&s=612x612&w=0&h=TU2Nbjg4YOELAV4exmwEzyr2EKSiA4s-PQyXAT4x8Kk=']
+U+9164
+12
+gū
+164.5
+酤.mp3
+
+酥
+['butter', ' flaky, crispy, light, fluffy']
+['mantequilla', 'hojaldre, crujiente, ligero, esponjoso']
+['https://media.gettyimages.com/photos/ingredients-butter-curl-picture-id184284468?k=6&m=184284468&s=612x612&w=0&h=TGrExihDi62DUNdp54FXcFufWLnjs53Gy1HLUS9wOqI=', 'NONE']
+U+9165
+12
+sū
+164.5
+酥.mp3
+
+酦
+['fermentation, brewing']
+['fermentación, elaboración de la cerveza']
+['https://media.gettyimages.com/photos/mash-tun-and-dissolving-vat-picture-id165977317?k=6&m=165977317&s=612x612&w=0&h=_2DG_tsfywsI4oZYQVri5By7JEzu8IMbfcfyky__50M=']
+U+9166
+12
+pò
+164.6
+酦.mp3
+
+酧
+['to pledge with wine']
+['prometer con vino']
+['https://media.gettyimages.com/photos/local-senior-surfer-toast-in-the-morning-at-shonan-coast-picture-id1087074940?k=6&m=1087074940&s=612x612&w=0&h=ha0AJLDvM3FK5RmLeY79l36VquHVeDH2nVSeD3kWFq8=']
+U+9167
+13
+chóu
+164.6
+酧.mp3
+
+酨
+['NONE']
+['NINGUNA']
+[]
+U+9168
+13
+zài
+164.6
+酨.mp3
+
+酩
+['drunk', ' intoxicated', ' tipsy']
+['borracho', 'embriagado', 'achispado']
+['https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=', 'https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=', 'https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=']
+U+9169
+13
+mǐng
+164.6
+酩.mp3
+
+酪
+['cream, cheese', ' koumiss']
+['queso crema', 'kumis']
+['https://media.gettyimages.com/vectors/milk-and-dairy-products-line-icons-vector-id915141034?k=6&m=915141034&s=612x612&w=0&h=Go-YO3O9fn69rBCCPmf7so99gW3CEfDxmLFV4hhWUiE=', 'NONE']
+U+916A
+13
+lào
+164.6
+酪.mp3
+
+酫
+['NONE']
+['NINGUNA']
+[]
+U+916B
+13
+chuò
+164.6
+酫.mp3
+
+酬
+['toast', ' reward, recompense']
+['brindis', 'recompensa, recompensa']
+['https://media.gettyimages.com/photos/celebration-picture-id160836693?k=6&m=160836693&s=612x612&w=0&h=XzrBuh4zP0GIYupvUAjmYDJE262MihpXefW8F96PsVg=', 'https://media.gettyimages.com/vectors/retro-detective-holding-a-magnifying-glass-vector-id990719768?k=6&m=990719768&s=612x612&w=0&h=VcMPEhMRu2xrS4fpu7zc2KMwRxAw5x8uzKFkO5uzsjk=']
+U+916C
+13
+chóu
+164.6
+酬.mp3
+
+酭
+['NONE']
+['NINGUNA']
+[]
+U+916D
+13
+yòu
+164.6
+酭.mp3
+
+酮
+['ketones']
+['cetonas']
+['https://media.gettyimages.com/photos/riga-capital-of-latvia-picture-id615926196?k=6&m=615926196&s=612x612&w=0&h=L5Y1uBv4yf3fpfx4AdEaeoJEh8UmjaKpyJL26JaiQTU=']
+U+916E
+13
+tóng
+164.6
+酮.mp3
+
+酯
+['ester']
+['ester']
+['https://media.gettyimages.com/illustrations/protein-molecule-illustration-illustration-id758306267?k=6&m=758306267&s=612x612&w=0&h=XqU0T0XaeHs5pueRa7Mi10P_ofs-6n7QwaxBqPTNXKA=']
+U+916F
+13
+zhǐ
+164.6
+酯.mp3
+
+酰
+['acyl']
+['acilo']
+['https://media.gettyimages.com/photos/president-julius-malema-and-the-leadership-of-the-ancyl-welcome-miss-picture-id105947170?k=6&m=105947170&s=612x612&w=0&h=6pGrS_PHXw9Az11G0hP2P9vHyydYoyivfsnhlV4QdGk=']
+U+9170
+13
+xiān
+164.6
+酰.mp3
+
+酱
+['any jam-like or paste-like food']
+['cualquier alimento parecido a una mermelada o pastoso']
+['https://media.gettyimages.com/photos/turmeric-latte-preparation-picture-id1136216680?k=6&m=1136216680&s=612x612&w=0&h=p2uxmbweIeT98NuH56De8_8HWasxLbBap_4JQMGkS0k=']
+U+9171
+13
+jiàng
+164.6
+酱.mp3
+
+酲
+['hangover', ' uncomfortable']
+['resaca', 'incómodo']
+['https://media.gettyimages.com/photos/wake-up-early-picture-id920554794?k=6&m=920554794&s=612x612&w=0&h=e_SF0oiGRE9vlLgm179BpMXg8pyouY11I-WvplB1FSc=', 'https://media.gettyimages.com/photos/young-women-laying-on-bed-picture-id909224172?k=6&m=909224172&s=612x612&w=0&h=SSanaNCCrJAwBtNeXyEhAyAk2OL5cArHSQpGrY-OCpA=']
+U+9172
+14
+chéng
+164.7
+酲.mp3
+
+酳
+['NONE']
+['NINGUNA']
+[]
+U+9173
+14
+yìn
+164.7
+酳.mp3
+
+酴
+['leaven, yeast', ' wine']
+['levadura, levadura', 'vino']
+['https://media.gettyimages.com/photos/handmade-rustic-bread-picture-id578862140?k=6&m=578862140&s=612x612&w=0&h=0BoQ4jOzF1tRJ2aFYVh-TDF3actcOQ0MxFQbX-oWw-0=', 'https://media.gettyimages.com/photos/closeup-of-sommelier-serving-red-wine-at-fine-dining-restaurant-picture-id991732782?k=6&m=991732782&s=612x612&w=0&h=HZ1ke5DJK571Tj2-mEf0P7wV6eq589k6uKvwOIUSBrY=']
+U+9174
+14
+tú
+164.7
+酴.mp3
+
+酵
+['yeast, leaven']
+['levadura, levadura']
+['https://media.gettyimages.com/photos/handmade-rustic-bread-picture-id578862140?k=6&m=578862140&s=612x612&w=0&h=0BoQ4jOzF1tRJ2aFYVh-TDF3actcOQ0MxFQbX-oWw-0=']
+U+9175
+14
+jiào
+164.7
+酵.mp3
+
+酶
+['enzymes', ' (Cant.) soft']
+['enzimas', '(Cant.) Suave']
+['https://media.gettyimages.com/photos/biomedical-research-background-picture-id182187249?k=6&m=182187249&s=612x612&w=0&h=N7lHSel8XSWAJljXPUAyGX8I7VaFklwrbepsX1EtRTk=', 'https://media.gettyimages.com/photos/pitcher-nick-masset-of-the-colorado-rockies-cant-handle-a-soft-ground-picture-id493194551?k=6&m=493194551&s=612x612&w=0&h=lRdhg-a_Y9iPoxKE0bTBG1g8OH-QeZu-9dXJsuY3qm4=']
+U+9176
+14
+méi
+164.7
+酶.mp3
+
+酷
+['strong, stimulating', ' very']
+['fuerte, estimulante', 'muy']
+['https://media.gettyimages.com/photos/woman-doing-yoga-with-her-dog-picture-id1129449588?k=6&m=1129449588&s=612x612&w=0&h=XFYe_pkfGe5hAwGTUgRqkDLjt6-fa2p_ULr1tmhOTyE=', 'https://media.gettyimages.com/photos/very-rough-watercolor-paper-bumpy-surface-picture-id1156991952?k=6&m=1156991952&s=612x612&w=0&h=jG-U3PMbvRrEiwYlmAW8lvwTp5WGfENqvpDdmecoROo=']
+U+9177
+14
+kù
+164.7
+酷.mp3
+
+酸
+['tart, sour', ' acid', ' stiff', ' spoiled']
+['tarta, agrio', 'ácido', 'rígido', 'estropeado']
+['https://media.gettyimages.com/photos/whisky-sour-picture-id1160702354?k=6&m=1160702354&s=612x612&w=0&h=vwbdTOHoxslNKU3IwM8rQ0MotnO2GnhEJQ8CDEdXpY8=', 'https://media.gettyimages.com/photos/caps-and-tweezers-on-wood-picture-id157611061?k=6&m=157611061&s=612x612&w=0&h=daaFJcrQDQoMyC9EAJwosYJQ8kgKuKmSJsNnlx6BniA=', 'https://media.gettyimages.com/photos/am-a-strong-woman-picture-id614012698?k=6&m=614012698&s=612x612&w=0&h=xkVq4YsfXEfueSpYst5_pJjnZGOWXUrYIMzntFUIIoo=', 'https://media.gettyimages.com/photos/homeowner-roof-repair-picture-id157330520?k=6&m=157330520&s=612x612&w=0&h=D9O-UTB5mxp1ds6N9o7HQXlyMgE5nl3uGo_uj52fY8A=']
+U+9178
+14
+suān
+164.7
+酸.mp3
+
+酹
+['to pour out a libation', ' to sprinkle']
+['verter una libación', 'para espolvorear']
+['https://media.gettyimages.com/photos/red-wine-picture-id507143336?k=6&m=507143336&s=612x612&w=0&h=CMmD87iTf_zlrGwkejxGYIyhrTasNpq6bW2Fzm26zTc=', 'https://media.gettyimages.com/vectors/colorful-watercolor-splashes-vector-id1085391426?k=6&m=1085391426&s=612x612&w=0&h=tCLSR-cJuE2aU4o6UEmChckX0Gj_DpCx0wDgIeRHBa8=']
+U+9179
+14
+lèi
+164.7
+酹.mp3
+
+酺
+['drink with others', ' drink heavily']
+['beber con otros', 'beber mucho']
+['https://media.gettyimages.com/vectors/drink-alcohol-outline-icon-set-vector-id1027909158?k=6&m=1027909158&s=612x612&w=0&h=qY2qCbPgoJ-O3fYo4KhsQ49WnpIzhUBOvoHqA6fKy_A=', 'https://media.gettyimages.com/vectors/drunk-man-vector-id165682844?k=6&m=165682844&s=612x612&w=0&h=zF64-fQxNy6jQW9f49nPE-4diLvvKW_m3vu3-Y_CtCY=']
+U+917A
+14
+pú
+164.7
+酺.mp3
+
+酻
+['NONE']
+['NINGUNA']
+[]
+U+917B
+14
+zuì
+164.7
+酻.mp3
+
+酼
+['NONE']
+['NINGUNA']
+[]
+U+917C
+14
+hǎi
+164.7
+酼.mp3
+
+酽
+['thick, strong (beverage)']
+['espeso, fuerte (bebida)']
+['https://media.gettyimages.com/photos/overweight-man-checking-out-his-weight-isolated-on-white-background-picture-id936374472?k=6&m=936374472&s=612x612&w=0&h=3CHD6G66Nig_t0tJ5PXiN-QQdnikZFld6DSEMqTO5Zs=']
+U+917D
+14
+yàn
+164.7
+酽.mp3
+
+酾
+['strain']
+['presion']
+['https://media.gettyimages.com/photos/thats-it-im-done-picture-id936117884?k=6&m=936117884&s=612x612&w=0&h=x4-h_dLBBva37ZzpDtuYv5wIhUZ1UvrBeXlqiIs7Kuo=']
+U+917E
+14
+shāi
+164.7
+酾.mp3
+
+酿
+['brew, ferment']
+['preparar, fermentar']
+['https://media.gettyimages.com/photos/mash-tun-and-dissolving-vat-picture-id165977317?k=6&m=165977317&s=612x612&w=0&h=_2DG_tsfywsI4oZYQVri5By7JEzu8IMbfcfyky__50M=']
+U+917F
+14
+niàng
+164.7
+酿.mp3
+
+醀
+['NONE']
+['NINGUNA']
+[]
+U+9180
+15
+wéi
+164.8
+醀.mp3
+
+醁
+['a kind of green-colored wine']
+['una especie de vino de color verde']
+['NONE']
+U+9181
+15
+lù
+164.8
+醁.mp3
+
+醂
+['to remove astringency', ' to bleach in water']
+['para eliminar la astringencia', 'blanquear en agua']
+['NONE', 'https://media.gettyimages.com/vectors/laundry-icons-vector-id1162171013?k=6&m=1162171013&s=612x612&w=0&h=uLlNxGVm1OpjTL1QTmlpDBA095ImEnRn59sc8zyGSOM=']
+U+9182
+15
+lǎn
+164.8
+醂.mp3
+
+醃
+['marinate, pickle', ' salt']
+['marinar, encurtir', 'sal']
+['https://media.gettyimages.com/photos/pomegranate-and-red-wine-glazed-pork-ribs-with-chimichurri-sauce-picture-id602423954?k=6&m=602423954&s=612x612&w=0&h=qeR5vTsCseKGw9MDujUYD7MJgvCeEtxmVG54vZ0ZM8M=', 'https://media.gettyimages.com/photos/heap-of-salt-picture-id165820985?k=6&m=165820985&s=612x612&w=0&h=V-90pMcllFPWY6t17Ra7ehxpciTM8LwB3tqIjsTf3C8=']
+U+9183
+15
+yān
+164.8
+醃.mp3
+
+醄
+['NONE']
+['NINGUNA']
+[]
+U+9184
+15
+táo
+164.8
+醄.mp3
+
+醅
+['unstrained spirits']
+['espíritus desenfrenados']
+['NONE']
+U+9185
+15
+pēi
+164.8
+醅.mp3
+
+醆
+['wine cup', ' muddy wine']
+['Copa de vino', 'vino fangoso']
+['https://media.gettyimages.com/photos/wine-glass-isolated-on-white-picture-id182174764?k=6&m=182174764&s=612x612&w=0&h=CEJCeBEV19jXo-GbqHKjIw406ZwZ7fsknEQR2swN3zY=', 'https://media.gettyimages.com/photos/the-viking-landing-party-of-catoira-picture-id813001490?k=6&m=813001490&s=612x612&w=0&h=-JyQKnH3gICbtGklFLVWexuNhmWn3yvDkqUrnw7ICyY=']
+U+9186
+15
+zhǎn
+164.8
+醆.mp3
+
+醇
+['rich, good as wine', ' pure, unmixed']
+['rico, bueno como el vino', 'puro, sin mezclar']
+['https://media.gettyimages.com/photos/working-as-a-waitress-picture-id1169549498?k=6&m=1169549498&s=612x612&w=0&h=tW_X11nG2ttqQp09tXlvhF0-f4Ujjwf6UeKkalFn1VQ=', 'NONE']
+U+9187
+15
+chún
+164.8
+醇.mp3
+
+醈
+['NONE']
+['NINGUNA']
+[]
+U+9188
+15
+tán
+164.8
+醈.mp3
+
+醉
+['intoxicated, drunk', ' addicted to']
+['intoxicado, borracho', 'adicto a']
+['https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=', 'https://media.gettyimages.com/photos/bad-bedroom-etiquette-picture-id892227446?k=6&m=892227446&s=612x612&w=0&h=9ZqFbmOP5Jx37EhceHIS9q_XAKjP8Q4joLn4AqWmUQk=']
+U+9189
+15
+zuì
+164.8
+醉.mp3
+
+醊
+['to pour wine in a libation']
+['verter vino en una libación']
+['https://media.gettyimages.com/photos/red-wine-picture-id507143336?k=6&m=507143336&s=612x612&w=0&h=CMmD87iTf_zlrGwkejxGYIyhrTasNpq6bW2Fzm26zTc=']
+U+918A
+15
+zhuì
+164.8
+醊.mp3
+
+醋
+['vinegar', ' jealousy, envy']
+['vinagre', 'celos, envidia']
+['https://media.gettyimages.com/photos/closeup-of-food-on-table-picture-id1062517060?k=6&m=1062517060&s=612x612&w=0&h=JmFgV7gh2Mvt7ZseEdPaicHUYccJS4SJ0VX0XdbbHlU=', 'https://media.gettyimages.com/photos/young-woman-jealously-looking-at-the-smiling-man-using-digital-tablet-picture-id1018840248?k=6&m=1018840248&s=612x612&w=0&h=mGhfzSbD2ielKYkGQZdZ2KkLwThpKC8kf9StquWpuYA=']
+U+918B
+15
+cù
+164.8
+醋.mp3
+
+醌
+['NONE']
+['NINGUNA']
+[]
+U+918C
+15
+kūn
+164.8
+醌.mp3
+
+醍
+['essential oil of butter']
+['aceite esencial de mantequilla']
+['https://media.gettyimages.com/photos/just-opened-margarine-box-isolated-on-white-picture-id157569480?k=6&m=157569480&s=612x612&w=0&h=kY1UtfcIMUIBVMkRTxVobgJZ6O4clPlTVcTV1I5WnLA=']
+U+918D
+16
+tí
+164.9
+醍.mp3
+
+醎
+['NONE']
+['NINGUNA']
+[]
+U+918E
+16
+xián
+164.9
+醎.mp3
+
+醏
+['NONE']
+['NINGUNA']
+[]
+U+918F
+15
+dū
+164.9
+醏.mp3
+
+醐
+['purest cream']
+['crema mas pura']
+['NONE']
+U+9190
+16
+hú
+164.9
+醐.mp3
+
+醑
+['to strain spirits']
+['colar los espíritus']
+['https://media.gettyimages.com/vectors/woman-portrait-ghost-vector-id469706468?k=6&m=469706468&s=612x612&w=0&h=kFhfZcxZozdqqLH6IWJ6-ILm5yZA546vmNsVDmRAPe0=']
+U+9191
+16
+xǔ
+164.9
+醑.mp3
+
+醒
+['wake up', ' sober up', ' startle']
+['despierta', 'desembriagarse', 'asustar']
+['https://media.gettyimages.com/photos/its-time-to-wake-up-picture-id1054282608?k=6&m=1054282608&s=612x612&w=0&h=5kefZwS8SbSlJ-qdH77O_fcubH8W0apKrzIPq2Ev8NI=', 'https://media.gettyimages.com/photos/closeup-portrait-of-beautiful-young-woman-looking-in-camera-shot-on-picture-id1019899574?k=6&m=1019899574&s=612x612&w=0&h=YsAERDosr-7doC8Fh7H6ru7qxIypt7pKjWX56E7zdB8=', 'https://media.gettyimages.com/photos/closeup-portrait-of-surprised-woman-with-hands-covering-mouth-picture-id1000371568?k=6&m=1000371568&s=612x612&w=0&h=iJOVFsi1znmTV0ah5E1XrjdaHMF6E78VLrr8M4_jTJY=']
+U+9192
+16
+xǐng
+164.9
+醒.mp3
+
+醓
+['salted meat', ' brine from pickled mince']
+['carne salada', 'salmuera de carne picada en escabeche']
+['https://media.gettyimages.com/photos/closeup-of-salted-raw-pork-meat-in-plastic-container-picture-id650022355?k=6&m=650022355&s=612x612&w=0&h=M-8wammAOSUdfEF-Wdd4CbEVxK6u1V0wvkAV0s7KMg8=', 'NONE']
+U+9193
+16
+tǎn
+164.9
+醓.mp3
+
+醔
+['NONE']
+['NINGUNA']
+[]
+U+9194
+16
+qiú
+164.9
+醔.mp3
+
+醕
+['NONE']
+['NINGUNA']
+[]
+U+9195
+16
+chún
+164.9
+醕.mp3
+
+醖
+['liquor']
+['espíritu']
+['https://media.gettyimages.com/vectors/drink-alcohol-outline-icon-set-vector-id1027909158?k=6&m=1027909158&s=612x612&w=0&h=qY2qCbPgoJ-O3fYo4KhsQ49WnpIzhUBOvoHqA6fKy_A=']
+U+9196
+16
+yùn
+164.9
+醖.mp3
+
+醗
+['to brew for the second time']
+['para preparar por segunda vez']
+['NONE']
+U+9197
+16
+pò
+164.9
+醗.mp3
+
+醘
+['NONE']
+['NINGUNA']
+[]
+U+9198
+17
+kē
+164.10
+醘.mp3
+
+醙
+['NONE']
+['NINGUNA']
+[]
+U+9199
+16
+sōu
+164.10
+醙.mp3
+
+醚
+['ether']
+['éter']
+['https://media.gettyimages.com/photos/vintage-anesthesia-equipment-picture-id90888446?k=6&m=90888446&s=612x612&w=0&h=L0UOh4ocGGyxCukR6ewjOPJWMJ-UBjh8AA155qky79M=']
+U+919A
+16
+mí
+164.10
+醚.mp3
+
+醛
+['aldehyde']
+['aldehído']
+['https://media.gettyimages.com/photos/grating-parmigianoreggiano-picture-id639551598?k=6&m=639551598&s=612x612&w=0&h=00iq4rbqyaZ8RsolYriI4oM2M1yGYph87utH-uQ89nY=']
+U+919B
+16
+quán
+164.10
+醛.mp3
+
+醜
+['ugly looking, homely', ' disgraceful']
+['feo, hogareño', 'vergonzoso']
+['https://media.gettyimages.com/photos/tired-businesswoman-looking-at-herself-picture-id621359524?k=6&m=621359524&s=612x612&w=0&h=x9I_ZltoLIVVPdkmgKkdCilE_uq2mwrHlIDrS-uXnn0=', 'https://media.gettyimages.com/vectors/afraid-ostrich-on-a-concrete-floor-vector-id482676987?k=6&m=482676987&s=612x612&w=0&h=3-Hy8tz3BPTXZG-TrQdjps6dSFM0FtyiT_O0TZ7oukU=']
+U+919C
+16
+chǒu
+164.10
+醜.mp3
+
+醝
+['white wine']
+['vino blanco']
+['https://media.gettyimages.com/photos/wine-being-poured-into-glass-picture-id157583102?k=6&m=157583102&s=612x612&w=0&h=bV_Cq8MSul-32fK9o8uAaFO0BvDE0mSDtjOyQ3F05vs=']
+U+919D
+16
+cuō
+164.10
+醝.mp3
+
+醞
+['liquor, spirits, wine', ' ferment']
+['licor, licores, vino', 'fermentar']
+['https://media.gettyimages.com/photos/cocktails-picture-id504754220?k=6&m=504754220&s=612x612&w=0&h=SlrQf7Njw-WSF9ReIpONQpYipi1QqINoGY9nOHkRR0g=', 'https://media.gettyimages.com/photos/adorable-expressive-little-girl-picture-id175484660?k=6&m=175484660&s=612x612&w=0&h=59cGU2NHhzjgj1RgyBpW__YicYr615ftbebnYWwA7wI=']
+U+919E
+17
+yùn
+164.10
+醞.mp3
+
+醟
+['NONE']
+['NINGUNA']
+[]
+U+919F
+17
+yòng
+164.10
+醟.mp3
+
+醠
+['NONE']
+['NINGUNA']
+[]
+U+91A0
+17
+àng
+164.10
+醠.mp3
+
+醡
+['wine press']
+['prensa de vino']
+['https://media.gettyimages.com/illustrations/wine-press-illustration-id471128137?k=6&m=471128137&s=612x612&w=0&h=fBHqZcM36Dgof2Lnv0QFh4bNcY3esIJRFKnBezldh44=']
+U+91A1
+17
+zhà
+164.10
+醡.mp3
+
+醢
+['minced pickled meat', ' mince']
+['carne picada en escabeche', 'Delgado']
+['https://media.gettyimages.com/photos/take-a-bite-picture-id174621739?k=6&m=174621739&s=612x612&w=0&h=xX9yUus3XRWj63pQkYiIj6G10am9NqdG9xzU4Z8gvsQ=', 'https://media.gettyimages.com/photos/sirloin-steaks-with-fresh-thyme-picture-id972852490?k=6&m=972852490&s=612x612&w=0&h=4XGgeXqPzKpCM1jHM8Gf6u-WDy_MgDU40Au_O1Yt3t0=']
+U+91A2
+17
+hǎi
+164.10
+醢.mp3
+
+醣
+['carbohydrates']
+['carbohidratos']
+['https://media.gettyimages.com/photos/dietary-fiber-food-still-life-picture-id842797430?k=6&m=842797430&s=612x612&w=0&h=iAvQiyQ97LSqg0wkri-I_S3AfNjsnsxG79TKzNBB1e4=']
+U+91A3
+17
+táng
+164.10
+醣.mp3
+
+醤
+['any jam-like or paste-like food']
+['cualquier alimento parecido a una mermelada o pastoso']
+['https://media.gettyimages.com/photos/turmeric-latte-preparation-picture-id1136216680?k=6&m=1136216680&s=612x612&w=0&h=p2uxmbweIeT98NuH56De8_8HWasxLbBap_4JQMGkS0k=']
+U+91A4
+17
+jiàng
+164.10
+醤.mp3
+
+醥
+['NONE']
+['NINGUNA']
+[]
+U+91A5
+18
+piǎo
+164.11
+醥.mp3
+
+醦
+['NONE']
+['NINGUNA']
+[]
+U+91A6
+18
+chěn
+164.11
+醦.mp3
+
+醧
+['NONE']
+['NINGUNA']
+[]
+U+91A7
+18
+yù
+164.11
+醧.mp3
+
+醨
+['dregs of wine']
+['escoria de vino']
+['NONE']
+U+91A8
+17
+lí
+164.11
+醨.mp3
+
+醩
+['sediment, dregs', ' grains from a distillery', ' disordered, spoilt']
+['sedimentos, heces', 'granos de una destilería', 'desordenado']
+['https://media.gettyimages.com/photos/dregs-in-empty-coffee-cup-picture-idimsis579-036?k=6&m=imsis579-036&s=612x612&w=0&h=Sc42l44L5CzpTlarLpxxhhtdp0_0O0DG46ChWXuB-e8=', 'https://media.gettyimages.com/photos/farmer-holding-grains-picture-id1058033586?k=6&m=1058033586&s=612x612&w=0&h=oAMSq-2tVE1fXKO9aYp0ynrAHfQAdjXqGiRf6DNpeJg=', 'https://media.gettyimages.com/photos/woman-eating-a-cake-picture-id56295145?k=6&m=56295145&s=612x612&w=0&h=woXOGC3ubhPRUbW2qzUB6eayQkZycrY0H_U4LTrxgho=']
+U+91A9
+18
+zāo
+164.11
+醩.mp3
+
+醪
+['unclear wine, wine with dregs']
+['vino poco claro, vino con heces']
+['NONE']
+U+91AA
+18
+láo
+164.11
+醪.mp3
+
+醫
+['cure, heal', ' doctor, medical']
+['tsure, hel', 'doctor, medico']
+['https://media.gettyimages.com/photos/an-asian-woman-in-her-60s-embraces-her-mid30s-daughter-who-is-cancer-picture-id962659624?k=6&m=962659624&s=612x612&w=0&h=xbuhqfNjMzuBNnpHvYH6bEER1Xe0q5zkJRKseaav848=', 'https://media.gettyimages.com/photos/wellthat-was-easy-picture-id1047519510?k=6&m=1047519510&s=612x612&w=0&h=4TTvCx274tMksSu2Ly0DwTUoFx_xohtUQzBfw4IBFlA=']
+U+91AB
+18
+yī
+164.11
+醫.mp3
+
+醬
+['any jam-like or paste-like food']
+['cualquier alimento parecido a una mermelada o pastoso']
+['https://media.gettyimages.com/photos/turmeric-latte-preparation-picture-id1136216680?k=6&m=1136216680&s=612x612&w=0&h=p2uxmbweIeT98NuH56De8_8HWasxLbBap_4JQMGkS0k=']
+U+91AC
+18
+jiàng
+164.11
+醬.mp3
+
+醭
+['molds on liquids', ' scum']
+['moldes en líquidos', 'escoria']
+['https://media.gettyimages.com/photos/foundry-picture-id183861997?k=6&m=183861997&s=612x612&w=0&h=Lq65JSG2uPpbL91f9NmkuGfgEbPMQsdBRm7OlR2LbPY=', 'https://media.gettyimages.com/photos/dumpster-picture-id171240161?k=6&m=171240161&s=612x612&w=0&h=5LFhuwLzMVBZqlLhojEcUW8iuChsR5utzkHt1OUoT-s=']
+U+91AD
+19
+bú
+164.12
+醭.mp3
+
+醮
+['religious service', ' Daoist or Buddhist ceremony']
+['servicio religioso', 'Ceremonia taoísta o budista']
+['https://media.gettyimages.com/photos/congregation-at-church-praying-picture-id175428810?k=6&m=175428810&s=612x612&w=0&h=7iOhFGbzZZHjkMbSiaEETBIMQTvzbkBrTUA4NeuAxw4=', 'https://media.gettyimages.com/photos/candles-alight-as-part-of-a-ceremony-picture-id1149246056?k=6&m=1149246056&s=612x612&w=0&h=g6G8fgVHR-1MXJa0aebBMyn6uXMMiZOmV1aHw4o-lFU=']
+U+91AE
+19
+jiào
+164.12
+醮.mp3
+
+醯
+['vinegar', ' pickle', ' acid']
+['vinagre', 'pepinillo', 'ácido']
+['https://media.gettyimages.com/photos/closeup-of-food-on-table-picture-id1062517060?k=6&m=1062517060&s=612x612&w=0&h=JmFgV7gh2Mvt7ZseEdPaicHUYccJS4SJ0VX0XdbbHlU=', 'https://media.gettyimages.com/photos/pickled-gherkins-picture-id171292196?k=6&m=171292196&s=612x612&w=0&h=rLiQzPPeXNSZlVobiwaxXfZwOEe5TMLWAhCe1elgOM4=', 'https://media.gettyimages.com/photos/caps-and-tweezers-on-wood-picture-id157611061?k=6&m=157611061&s=612x612&w=0&h=daaFJcrQDQoMyC9EAJwosYJQ8kgKuKmSJsNnlx6BniA=']
+U+91AF
+19
+xī
+164.12
+醯.mp3
+
+醰
+['bitter taste in wine', ' rich', ' full flavoured']
+['sabor amargo en el vino', 'Rico', 'lleno de sabor']
+['https://media.gettyimages.com/photos/cherry-liqueur-and-fresh-cherries-on-a-wooden-background-picture-id1005806686?k=6&m=1005806686&s=612x612&w=0&h=9hkRrAH3XOpI-TAn38cK0_GopFowIgnnmRlYP4B_a-s=', 'https://media.gettyimages.com/photos/professional-chef-at-work-picture-id935489342?k=6&m=935489342&s=612x612&w=0&h=avoBxqMcKr016rIXrQu683bQ9LiivbYhMUS8nTxbCos=', 'NONE']
+U+91B0
+19
+tán
+164.12
+醰.mp3
+
+醱
+['to brew for the second time']
+['para preparar por segunda vez']
+['NONE']
+U+91B1
+19
+fā pò
+164.12
+醱.mp3
+
+醲
+['strong wine', ' dense, thick']
+['vino fuerte', 'denso, espeso']
+['https://media.gettyimages.com/photos/portrait-of-female-athletes-in-sportswear-against-blue-sky-picture-id1168008039?k=6&m=1168008039&s=612x612&w=0&h=_kbZoRsCpzhFz0ek1mjhUNbOVJb5b31aBUti5aKrlFE=', 'https://media.gettyimages.com/photos/waving-paper-pile-monochrome-picture-id1177365456?k=6&m=1177365456&s=612x612&w=0&h=zsIGvLmWCA82DGuMUrrd1wg3t0bpqOKOkLncufuJq5g=']
+U+91B2
+20
+nóng
+164.13
+醲.mp3
+
+醳
+['NONE']
+['NINGUNA']
+[]
+U+91B3
+20
+yì
+164.13
+醳.mp3
+
+醴
+['sweet wine', ' sweet spring']
+['vino dulce', 'dulce primavera']
+['https://media.gettyimages.com/photos/in-the-wine-cellar-picture-id172368015?k=6&m=172368015&s=612x612&w=0&h=VhtkrR9ZRwdLswkbO3d3OddAF35xzLUQvMF_XTfbpXA=', 'https://media.gettyimages.com/photos/happy-dog-picture-id1155399510?k=6&m=1155399510&s=612x612&w=0&h=1JkrJ0ZfnYB6SS0NsLGAnOlPOdrbR0S6VGTEPXZ8FLo=']
+U+91B4
+20
+lǐ
+164.13
+醴.mp3
+
+醵
+['contribute for drinks', ' pool money']
+['contribuir para bebidas', 'dinero en común']
+['https://media.gettyimages.com/photos/catching-up-with-a-colleague-picture-id910005254?k=6&m=910005254&s=612x612&w=0&h=vkQ44fV76K_JFGhqOV_A5I9lkKAPrsI4CIys71lANJM=', 'https://media.gettyimages.com/vectors/travel-destination-set-of-thin-line-vector-icons-vector-id983970598?k=6&m=983970598&s=612x612&w=0&h=Alazb-bBxmS3qdxvvKs3fMCReXlqnXJt2oioPx8qTnU=']
+U+91B5
+20
+jù
+164.13
+醵.mp3
+
+醶
+['NONE']
+['NINGUNA']
+[]
+U+91B6
+20
+yàn
+164.13
+醶.mp3
+
+醷
+['NONE']
+['NINGUNA']
+[]
+U+91B7
+20
+yì
+164.13
+醷.mp3
+
+醸
+['brew, ferment']
+['preparar, fermentar']
+['https://media.gettyimages.com/photos/mash-tun-and-dissolving-vat-picture-id165977317?k=6&m=165977317&s=612x612&w=0&h=_2DG_tsfywsI4oZYQVri5By7JEzu8IMbfcfyky__50M=']
+U+91B8
+20
+niàng
+164.13
+醸.mp3
+
+醹
+['strong wine']
+['vino fuerte']
+['https://media.gettyimages.com/photos/portrait-of-female-athletes-in-sportswear-against-blue-sky-picture-id1168008039?k=6&m=1168008039&s=612x612&w=0&h=_kbZoRsCpzhFz0ek1mjhUNbOVJb5b31aBUti5aKrlFE=']
+U+91B9
+21
+rú
+164.14
+醹.mp3
+
+醺
+['get drunk, be intoxicated']
+['emborracharse, embriagarse']
+['https://media.gettyimages.com/photos/friends-celebrating-new-years-eve-at-playground-picture-id860056670?k=6&m=860056670&s=612x612&w=0&h=gyVOg4v4LMTJkJwkiMpEYlrnEcZAZRWYaqkgdNdqwdg=']
+U+91BA
+21
+xūn
+164.14
+醺.mp3
+
+醻
+['to pledge, thank']
+['prometer, gracias']
+['https://media.gettyimages.com/photos/thank-you-for-keeping-our-rings-safe-picture-id1254527444?k=6&m=1254527444&s=612x612&w=0&h=fFHuE89HcHaj4eAAm9bGhTJtzbIMwvWvGivY0pGNBRE=']
+U+91BB
+21
+chóu
+164.14
+醻.mp3
+
+醼
+["offer food and wine one's guests"]
+['ofrecer comida y vino a los invitados']
+['NONE']
+U+91BC
+23
+yàn
+164.16
+醼.mp3
+
+醽
+['kind of wine']
+['tipo de vino']
+['https://media.gettyimages.com/photos/two-mature-male-friends-with-cell-phone-having-dinner-on-balcony-picture-id1150489418?k=6&m=1150489418&s=612x612&w=0&h=E4UhYvBuSpVNrCDFeIHqeda75UfdGsTsTeMQ9rDxWDI=']
+U+91BD
+24
+líng
+164.17
+醽.mp3
+
+醾
+['a kind of liquor']
+['una especie de licor']
+['https://media.gettyimages.com/photos/smiling-couple-having-dinner-together-picture-id1023305092?k=6&m=1023305092&s=612x612&w=0&h=IzqhxlRKuPl9B3gM9DEo2JyT-CZ8zFv6JJmceq19d4A=']
+U+91BE
+24
+mí
+164.17
+醾.mp3
+
+醿
+['NONE']
+['NINGUNA']
+[]
+U+91BF
+24
+mí
+164.17
+醿.mp3
+
+釀
+['brew, ferment']
+['preparar, fermentar']
+['https://media.gettyimages.com/photos/mash-tun-and-dissolving-vat-picture-id165977317?k=6&m=165977317&s=612x612&w=0&h=_2DG_tsfywsI4oZYQVri5By7JEzu8IMbfcfyky__50M=']
+U+91C0
+24
+niàng
+164.17
+釀.mp3
+
+釁
+['smear with blood in sacrifice', ' rift, quarrel']
+['untar con sangre en sacrificio', 'grieta, pelea']
+['https://media.gettyimages.com/photos/chicken-horror-picture-id108350850?k=6&m=108350850&s=612x612&w=0&h=Z_tI4Vuqw-bXAdTvKYhH-NWP6zEIVP9Ms3dIPLzJOHE=', 'https://media.gettyimages.com/photos/thingvellir-national-park-in-iceland-picture-id519698230?k=6&m=519698230&s=612x612&w=0&h=3Sc17FsJtsDR8otVcWz2zfFy3Z8gNP8UkcA9PGGfkA0=']
+U+91C1
+26
+xìn
+164.18
+釁.mp3
+
+釂
+['drain']
+['desagüe']
+['https://media.gettyimages.com/photos/kitchen-sink-with-running-water-picture-id168583229?k=6&m=168583229&s=612x612&w=0&h=cz6liK7Rmky4ituIYZghc4UyRHE91Sn1gbFfK2YlykE=']
+U+91C2
+24
+jiào
+164.18
+釂.mp3
+
+釃
+['strain']
+['presion']
+['https://media.gettyimages.com/photos/thats-it-im-done-picture-id936117884?k=6&m=936117884&s=612x612&w=0&h=x4-h_dLBBva37ZzpDtuYv5wIhUZ1UvrBeXlqiIs7Kuo=']
+U+91C3
+26
+shāi
+164.19
+釃.mp3
+
+釄
+['wine brew for the second time']
+['elaboración de vino por segunda vez']
+['NONE']
+U+91C4
+26
+mí
+164.19
+釄.mp3
+
+釅
+['thick, strong (beverage)']
+['espeso, fuerte (bebida)']
+['https://media.gettyimages.com/photos/overweight-man-checking-out-his-weight-isolated-on-white-background-picture-id936374472?k=6&m=936374472&s=612x612&w=0&h=3CHD6G66Nig_t0tJ5PXiN-QQdnikZFld6DSEMqTO5Zs=']
+U+91C5
+26
+yàn
+164.20
+釅.mp3
+
+釆
+['distinguish', ' KangXi radical 165']
+['distinguir', 'K Ang ξ radical 165']
+['https://media.gettyimages.com/photos/school-children-learning-to-to-distinguish-different-plants-picture-id1205073088?k=6&m=1205073088&s=612x612&w=0&h=qtTiqv5brGV83NJLeLaBe3FDQrWKIpBPr8nxxaLCkhw=', 'NONE']
+U+91C6
+7
+biàn
+165.0
+釆.mp3
+
+采
+['collect, gather', ' pick, pluck']
+['recolectar, reunir', 'recoger, arrancar']
+['https://media.gettyimages.com/photos/people-cleaning-up-litter-on-grass-picture-id127825118?k=6&m=127825118&s=612x612&w=0&h=6LvCRDw78n4iFl33X9ZT471L6-zvvLjfQKkwiWDeuqk=', 'https://media.gettyimages.com/photos/closeup-of-a-womans-hands-holding-fresh-strawberries-picture-id1146679243?k=6&m=1146679243&s=612x612&w=0&h=KzOQqBmzhEXeNRfqObpD2jEeOLRN2WWCtNjnBt7HMu8=']
+U+91C7
+8
+cǎi
+165.1
+采.mp3
+
+釈
+['interprete, elucidate', ' release']
+['interprete, elucidate', 'lanzamiento']
+['NONE', 'https://media.gettyimages.com/photos/young-people-releasing-balloons-picture-id105777325?k=6&m=105777325&s=612x612&w=0&h=VAisiw5GI0_jjzMopCYSZJ2w_zD9TPh4vbB1fGDv-fs=']
+U+91C8
+11
+shì
+165.4
+釈.mp3
+
+釉
+['glaze']
+['vidriar']
+['https://media.gettyimages.com/photos/doughnuts-picture-id135184753?k=6&m=135184753&s=612x612&w=0&h=r7VPSfG-D_Vrz6O0UMG2s3cDrnNfT_EmJHe1oL26dbY=']
+U+91C9
+12
+yòu
+165.5
+釉.mp3
+
+释
+['interprete, elucidate', ' release']
+['interprete, elucidate', 'lanzamiento']
+['NONE', 'https://media.gettyimages.com/photos/young-people-releasing-balloons-picture-id105777325?k=6&m=105777325&s=612x612&w=0&h=VAisiw5GI0_jjzMopCYSZJ2w_zD9TPh4vbB1fGDv-fs=']
+U+91CA
+12
+shì
+165.5
+释.mp3
+
+釋
+['interprete, elucidate', ' release']
+['interprete, elucidate', 'lanzamiento']
+['NONE', 'https://media.gettyimages.com/photos/young-people-releasing-balloons-picture-id105777325?k=6&m=105777325&s=612x612&w=0&h=VAisiw5GI0_jjzMopCYSZJ2w_zD9TPh4vbB1fGDv-fs=']
+U+91CB
+20
+shì
+165.13
+釋.mp3
+
+里
+['unit of distance', ' village', ' lane']
+['unidad de distancia', 'pueblo', 'carril']
+['https://media.gettyimages.com/photos/mother-trying-to-talk-with-doctor-on-laptop-while-watching-two-kids-picture-id1216390582?k=6&m=1216390582&s=612x612&w=0&h=ssiVu0z7cigNh7lmFwF7bLXjwKY0hsuIRgHfwLwAycU=', 'https://media.gettyimages.com/vectors/landscape-of-small-town-with-church-and-rolling-hills-vector-id164545378?k=6&m=164545378&s=612x612&w=0&h=Q7O67aD7hkmyIxLPFdUJOb4YimdVtvtpqAPLo7rSqg4=', 'https://media.gettyimages.com/photos/pico-de-arieiro-on-madeira-island-picture-id869241738?k=6&m=869241738&s=612x612&w=0&h=oE8QU_U5t0MKqw4g-NTZO2hmy_Ly-DhnTzlG0siAyJ0=']
+U+91CC
+7
+lǐ
+166.0
+里.mp3
+
+重
+['heavy, weighty', ' double']
+['pesado, pesado', 'doble']
+['https://media.gettyimages.com/photos/heavy-weight-exercise-picture-id625739874?k=6&m=625739874&s=612x612&w=0&h=U7uZFGFZ8PSXa94Qopi3bdnzemudRGafzrZ_Et75rqw=', 'https://media.gettyimages.com/photos/double-billboard-picture-id171252702?k=6&m=171252702&s=612x612&w=0&h=fP0kqyG2A-zDdCyahkbExPu4BTykF-7ppeyGfRrXdV4=']
+U+91CD
+9
+zhòng
+166.2
+重.mp3
+
+野
+['open country, field', ' wilderness']
+['campo abierto, campo', 'desierto']
+['https://media.gettyimages.com/photos/country-road-and-canola-picture-id148016545?k=6&m=148016545&s=612x612&w=0&h=wd1URKsXsEhPgv4xFu7BddN9Xy8WIaydomTz9cRGr04=', 'https://media.gettyimages.com/photos/her-favourite-spot-to-trek-to-picture-id944543546?k=6&m=944543546&s=612x612&w=0&h=qkgH7bnaNEtNNuCFnz3KY-LpAsOdvrpvMY9oP8DugQg=']
+U+91CE
+11
+yě
+166.4
+野.mp3
+
+量
+['measure, quantity, capacity']
+['medida, cantidad, capacidad']
+['https://media.gettyimages.com/photos/jelly-bean-sweets-in-jar-picture-idimsis249-058?k=6&m=imsis249-058&s=612x612&w=0&h=3My32cbuJb8-DN0pvjEkKvfl62NXlzdFpj4AH0-fZps=']
+U+91CF
+12
+liàng
+166.5
+量.mp3
+
+釐
+['manage, control', ' thousandth part of tael']
+['administrar, controlar', 'milésima parte de tael']
+['https://media.gettyimages.com/photos/enormous-waves-behind-freighter-picture-id925549392?k=6&m=925549392&s=612x612&w=0&h=4XTC7oAR_R0nkjNrl7hRHf8_YD0AVsBSuFl-3dOem8c=', 'NONE']
+U+91D0
+18
+lí
+166.11
+釐.mp3
+
+金
+['gold', ' metals in general', ' money']
+['oro', 'metales en general', 'dinero']
+['https://media.gettyimages.com/photos/gold-texture-background-picture-id1162452354?k=6&m=1162452354&s=612x612&w=0&h=fI7s7UjmazCHt0dkRtblTXh9FwxtijvXJOUCGOkV84o=', 'https://media.gettyimages.com/photos/warehouse-full-of-blue-hugh-barrels-picture-id172374670?k=6&m=172374670&s=612x612&w=0&h=BZzXLUlzkOtE9V5O1B3L75F-slTnSW8D6g4mhaCVSDU=', 'https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=']
+U+91D1
+8
+jīn
+167.0
+金.mp3
+
+釒
+['KangXi radical 167']
+['K Ang ξ radical 167']
+['NONE']
+U+91D2
+8
+jīn
+167.0
+釒.mp3
+
+釓
+['gadolinium']
+['gadolinio']
+['https://media.gettyimages.com/vectors/icon-of-gadolinium-periodic-table-of-elements-with-crystal-system-vector-id1271710331?k=6&m=1271710331&s=612x612&w=0&h=pzR8dW_4_mKZjazWoGuY6BqTeqgCvZhv9Fb9h9QUOLg=']
+U+91D3
+9
+qiú
+167.1
+釓.mp3
+
+釔
+['yttrium']
+['itrio']
+['https://media.gettyimages.com/vectors/chemical-element-icons-set-1-black-circle-series-vector-id479195060?k=6&m=479195060&s=612x612&w=0&h=A_TiLq_fDcHlJmaBv6Upzxgkib0q1NERbr7_W_XZFVg=']
+U+91D4
+9
+yǐ
+167.1
+釔.mp3
+
+釕
+['ruthenium']
+['rutenio']
+['https://media.gettyimages.com/illustrations/icon-of-ruthenium-periodic-table-of-elements-with-crystal-system-illustration-id1271710447?k=6&m=1271710447&s=612x612&w=0&h=0c6FAMMex-FByK-ikUYGZXRS8JlUIuJzxZZB8uh-v0s=']
+U+91D5
+10
+liǎo
+167.2
+釕.mp3
+
+釖
+['knife, sword']
+['cuchillo, espada']
+['https://media.gettyimages.com/photos/steel-sword-point-picture-id115087711?k=6&m=115087711&s=612x612&w=0&h=20nH966UEP7UqsWjlGvQSTWqik8REj2x9R1Q891391Y=']
+U+91D6
+10
+dāo
+167.2
+釖.mp3
+
+釗
+['endeavor, strive', ' encourage', ' cut']
+['esforzarse, esforzarse', 'alentar', 'cortar']
+['https://media.gettyimages.com/photos/some-coffee-for-a-late-night-shift-picture-id879751676?k=6&m=879751676&s=612x612&w=0&h=VnoD4Uy2NRanBy4eXokAVzS1NSJABDqPihHKzQpGA2s=', 'https://media.gettyimages.com/photos/father-and-son-on-a-bicycle-lane-picture-id860038590?k=6&m=860038590&s=612x612&w=0&h=O8-wYu-H4wlJ_PoEQi3ttqVVmvsHzTzFy4g0GBG2TEw=', 'https://media.gettyimages.com/vectors/scissors-with-cut-lines-vector-id504576800?k=6&m=504576800&s=612x612&w=0&h=li7j6UxkCWybZaYKNHJe9ur3_tRd-43vG8gTHwm0HqI=']
+U+91D7
+10
+zhāo
+167.2
+釗.mp3
+
+釘
+['nail, spike', ' pursue closely']
+['clavo, espiga', 'perseguir de cerca']
+['https://media.gettyimages.com/photos/self-tapping-screw-isolated-on-white-background-picture-id1216049122?k=6&m=1216049122&s=612x612&w=0&h=CqEtwBMCoQQX9yhGHsagSTDsX44TH6OyUHfscBEs2O8=', 'NONE']
+U+91D8
+10
+dīng
+167.2
+釘.mp3
+
+釙
+['polonium']
+['polonio']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-vector-id166009944?k=6&m=166009944&s=612x612&w=0&h=7B_F2WL1OngCbHhnYGoHm7P_7KqtS0oVDtWuQ7lKxQE=']
+U+91D9
+10
+pò
+167.2
+釙.mp3
+
+釚
+['NONE']
+['NINGUNA']
+[]
+U+91DA
+10
+qiú
+167.2
+釚.mp3
+
+釛
+['NONE']
+['NINGUNA']
+[]
+U+91DB
+10
+bā
+167.2
+釛.mp3
+
+釜
+['cauldron, pot, kettle']
+['caldero, olla, hervidor']
+['https://media.gettyimages.com/photos/pot-on-fire-in-nature-picture-id1045039058?k=6&m=1045039058&s=612x612&w=0&h=-yuMQqiQJ4M6K8X_IEeihObhxyx4IL_EeKnVK3eKSmk=']
+U+91DC
+10
+fǔ
+167.2
+釜.mp3
+
+針
+['needle', ' pin', ' tack', ' acupuncture']
+['aguja', 'alfiler', 'Gracias', 'acupuntura']
+['https://media.gettyimages.com/vectors/syringe-drug-icon-vector-id1129777011?k=6&m=1129777011&s=612x612&w=0&h=KgOQt5fiPeZz7CtR1R4kcnle1i3msa0s-3aw1d6EYl0=', 'https://media.gettyimages.com/vectors/map-pinpoint-icons-multi-series-vector-id1180972324?k=6&m=1180972324&s=612x612&w=0&h=DVbiKyN5_7wNNENAcGoLXuYvu3hyItEHln_3QpfR8Zw=', 'https://media.gettyimages.com/photos/high-angle-view-of-colorful-thumbtacks-over-white-background-picture-id1047521004?k=6&m=1047521004&s=612x612&w=0&h=koIq5jNHWll4LA2AiImKvb-B8SVxBk8CkrV8M9aMTno=', 'https://media.gettyimages.com/photos/acupuncture-needles-on-the-back-of-a-young-woman-picture-id476658252?k=6&m=476658252&s=612x612&w=0&h=c7Bi8E4htMVGNY9wKmRPXSPtodZLiKlzgObxbeZtw7g=']
+U+91DD
+10
+zhēn
+167.2
+針.mp3
+
+釞
+['NONE']
+['NINGUNA']
+[]
+U+91DE
+10
+zhí
+167.2
+釞.mp3
+
+釟
+['NONE']
+['NINGUNA']
+[]
+U+91DF
+10
+bā
+167.2
+釟.mp3
+
+釠
+['NONE']
+['NINGUNA']
+[]
+U+91E0
+10
+luàn
+167.2
+釠.mp3
+
+釡
+['cauldron, pot, kettle']
+['caldero, olla, hervidor']
+['https://media.gettyimages.com/photos/pot-on-fire-in-nature-picture-id1045039058?k=6&m=1045039058&s=612x612&w=0&h=-yuMQqiQJ4M6K8X_IEeihObhxyx4IL_EeKnVK3eKSmk=']
+U+91E1
+10
+fǔ
+167.2
+釡.mp3
+
+釢
+['NONE']
+['NINGUNA']
+[]
+U+91E2
+10
+nǎi
+167.2
+釢.mp3
+
+釣
+['fish', ' fishhook', ' tempt, lure']
+['pescado', 'anzuelo', 'tentar, atraer']
+['https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=', 'https://media.gettyimages.com/vectors/fishing-hook-vector-id867696364?k=6&m=867696364&s=612x612&w=0&h=Hp-BVkmJVdBPQEcDgQiYQFNTpBwaj9p_7YgCYCD-Vf0=', 'https://media.gettyimages.com/photos/fishing-lure-closeup-picture-idSP004948?k=6&m=SP004948&s=612x612&w=0&h=apSnqhL39LWubg_wFvGEto7JUQhr5pUuu6BKqyIAFL4=']
+U+91E3
+11
+diào
+167.3
+釣.mp3
+
+釤
+['samarium']
+['samario']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-vector-id166011386?k=6&m=166011386&s=612x612&w=0&h=69Y1J-A5v7djuvAZq22wkTwtH2vZ1UAyrm8qly8gxTs=']
+U+91E4
+11
+shàn
+167.3
+釤.mp3
+
+釥
+['NONE']
+['NINGUNA']
+[]
+U+91E5
+11
+qiǎo
+167.3
+釥.mp3
+
+釦
+['button', ' buckle, clasp', ' engrave']
+['botón', 'hebilla, cierre', 'grabar']
+['https://media.gettyimages.com/vectors/modern-vector-collection-of-multimedia-web-elements-vector-id165954835?k=6&m=165954835&s=612x612&w=0&h=kQPEpfXFMsM4Ng6_TlUYe2Uda7vFMWzGmYIGc6cWyjk=', 'https://media.gettyimages.com/photos/lock-picture-id185297900?k=6&m=185297900&s=612x612&w=0&h=RmfH3ugTwo0_-rvl7NVqp7oEGgKCl1LiBrijcnE4Lxc=', 'https://media.gettyimages.com/illustrations/hand-pointing-right-antique-design-illustrations-illustration-id182713519?k=6&m=182713519&s=612x612&w=0&h=UEYB32Wd7Fxu69EUA25FgwaHsHA6BNjLy5bthHSiVfI=']
+U+91E6
+11
+kòu
+167.3
+釦.mp3
+
+釧
+['bracelet, armlet']
+['pulsera, brazalete']
+['https://media.gettyimages.com/photos/silver-and-gold-bracelets-on-white-picture-id182465722?k=6&m=182465722&s=612x612&w=0&h=YuF7B1BqW-wNLA4isDaKiq5vAipHI2FhzkfoTez1Mh8=']
+U+91E7
+11
+chuàn
+167.3
+釧.mp3
+
+釨
+['NONE']
+['NINGUNA']
+[]
+U+91E8
+11
+zǐ
+167.3
+釨.mp3
+
+釩
+['vanadium']
+['vanadio']
+['https://media.gettyimages.com/photos/spanner-rwrench-for-professional-car-repair-on-a-black-background-picture-id1164104677?k=6&m=1164104677&s=612x612&w=0&h=rf1YojXM8DRK0DWVR0x88K9Q5RiEylkC3XFBrs1eeIM=']
+U+91E9
+11
+fǎn
+167.3
+釩.mp3
+
+釪
+['an alms bowl', ' a small bell']
+['un cuenco de limosna', 'una pequeña campana']
+['https://media.gettyimages.com/photos/buddhist-monk-picture-id641164636?k=6&m=641164636&s=612x612&w=0&h=ANVH-1WiSn9vKryj42am5wPe_cTRckHNciJ_SH5uhFw=', 'https://media.gettyimages.com/photos/ringing-an-old-handbell-picture-id170024706?k=6&m=170024706&s=612x612&w=0&h=IFbKF_0X4LfUGONF1Ejuwl4brhtTzOSD7J6IrBrV7-I=']
+U+91EA
+11
+huá
+167.3
+釪.mp3
+
+釫
+['NONE']
+['NINGUNA']
+[]
+U+91EB
+11
+huá
+167.3
+釫.mp3
+
+釬
+['solder']
+['soldar']
+['https://media.gettyimages.com/photos/industrial-worker-welding-steel-picture-id1012745854?k=6&m=1012745854&s=612x612&w=0&h=pK72Gydj80a9yJ_gBwg2xv4SSHHrXzM0wtjT4aBxr4I=']
+U+91EC
+11
+hàn
+167.3
+釬.mp3
+
+釭
+['tire of wheel', ' band']
+['neumático de rueda', 'banda']
+['https://media.gettyimages.com/photos/profile-and-side-profile-view-of-a-car-wheel-on-white-picture-id95757579?k=6&m=95757579&s=612x612&w=0&h=omLqFBFDjml0Cb2CaTQZPUK5Fy6WILCybL1SWjCtwgk=', 'https://media.gettyimages.com/photos/caucasian-band-playing-in-garage-picture-id1146332557?k=6&m=1146332557&s=612x612&w=0&h=sP7ojATwuVKI74rSXnp7pfnPLJzaDSCz6AS2qQ0PrNY=']
+U+91ED
+11
+gāng
+167.3
+釭.mp3
+
+釮
+['NONE']
+['NINGUNA']
+[]
+U+91EE
+11
+qí
+167.3
+釮.mp3
+
+釯
+['point of sword', ' sharp point']
+['punta de espada', 'punta afilada']
+['https://media.gettyimages.com/photos/steel-sword-point-picture-id115087711?k=6&m=115087711&s=612x612&w=0&h=20nH966UEP7UqsWjlGvQSTWqik8REj2x9R1Q891391Y=', 'https://media.gettyimages.com/photos/thorns-ball-picture-id646533630?k=6&m=646533630&s=612x612&w=0&h=xynx1clVDE322aCsbc4pHwTFzfAGF5HKvCo3frwbx-Q=']
+U+91EF
+11
+máng
+167.3
+釯.mp3
+
+釰
+['NONE']
+['NINGUNA']
+[]
+U+91F0
+11
+rì
+167.3
+釰.mp3
+
+釱
+['fetters', ' to fetter']
+['grilletes', 'encadenar']
+['https://media.gettyimages.com/photos/top-of-st-peters-dome-picture-id984654346?k=6&m=984654346&s=612x612&w=0&h=LP_luuBkn_pujegGMbhPFneELN7WAr0HNHaFWM2z9dc=', 'https://media.gettyimages.com/photos/elephant-leg-fetters-picture-id1142463944?k=6&m=1142463944&s=612x612&w=0&h=c-ulz8FG1oRg0q8TX4sAnDFStFT6naxyNwrB6xJyV0E=']
+U+91F1
+11
+dì
+167.3
+釱.mp3
+
+釲
+['NONE']
+['NINGUNA']
+[]
+U+91F2
+11
+sì
+167.3
+釲.mp3
+
+釳
+['NONE']
+['NINGUNA']
+[]
+U+91F3
+11
+xì
+167.3
+釳.mp3
+
+釴
+['NONE']
+['NINGUNA']
+[]
+U+91F4
+11
+yì
+167.3
+釴.mp3
+
+釵
+['ornamental hairpin']
+['horquilla ornamental']
+['https://media.gettyimages.com/photos/bridal-hair-accessory-picture-id139910635?k=6&m=139910635&s=612x612&w=0&h=HNG56J6zvwqkwSRw452yFa4Q5kv5MA7PXjLW560a-JA=']
+U+91F5
+11
+chāi
+167.3
+釵.mp3
+
+釶
+['NONE']
+['NINGUNA']
+[]
+U+91F6
+11
+shī
+167.3
+釶.mp3
+
+釷
+['thorium']
+['torio']
+['https://media.gettyimages.com/photos/thorium-picture-id583678656?k=6&m=583678656&s=612x612&w=0&h=fGcxME4YYT8mJpSyK0mXaqJcUpMG8_t17voG8xjs644=']
+U+91F7
+11
+tǔ
+167.3
+釷.mp3
+
+釸
+['NONE']
+['NINGUNA']
+[]
+U+91F8
+11
+xī
+167.3
+釸.mp3
+
+釹
+['neodymium']
+['neodimio']
+['https://media.gettyimages.com/photos/sculpture-of-ferrofluid-induced-by-a-neodymium-magnet-picture-id1201462344?k=6&m=1201462344&s=612x612&w=0&h=6MmucCLL6P7ysc607jHbSq0s-ntgrHjFx5uuuv2UeLo=']
+U+91F9
+11
+nǚ
+167.3
+釹.mp3
+
+釺
+['tool for boring holes']
+['herramienta para taladrar agujeros']
+['https://media.gettyimages.com/photos/europe-greece-2018-view-of-wooden-plank-with-hole-cut-by-saw-picture-id955664140?k=6&m=955664140&s=612x612&w=0&h=m1ENKENfw6LrWgEvCDJUSoWI6JyxhdFP_1yfaCTinqo=']
+U+91FA
+11
+qiān
+167.3
+釺.mp3
+
+釻
+['NONE']
+['NINGUNA']
+[]
+U+91FB
+11
+qiú
+167.3
+釻.mp3
+
+釼
+['sword, dagger, saber']
+['sword, dagger, saber']
+['NONE']
+U+91FC
+11
+jiàn
+167.3
+釼.mp3
+
+釽
+["a farmer's hoeing fork"]
+['tenedor de azada de un granjero']
+['https://media.gettyimages.com/photos/indian-farmer-holding-gardening-fork-and-pointing-at-distant-picture-id927068464?k=6&m=927068464&s=612x612&w=0&h=poAlU0NYKnUu9oAVuL2XIidAmSSg7ijgc1Vmg-L1Bh0=']
+U+91FD
+12
+pì
+167.4
+釽.mp3
+
+釾
+['NONE']
+['NINGUNA']
+[]
+U+91FE
+12
+yé
+167.4
+釾.mp3
+
+釿
+['hew, chop, smooth']
+['cortar, picar, suave']
+['NONE']
+U+91FF
+12
+jīn
+167.4
+釿.mp3
+
+鈀
+['palladium']
+['paladio']
+['https://media.gettyimages.com/photos/the-beatles-on-stage-at-the-london-palladium-during-a-performance-in-picture-id2636219?k=6&m=2636219&s=612x612&w=0&h=o4MGBhuYkDTymMsryP4GfUd6HEWkWRQk0pY1kLOMAl0=']
+U+9200
+12
+bǎ
+167.4
+鈀.mp3
+
+鈁
+['francium']
+['francio']
+['https://media.gettyimages.com/vectors/periodic-table-elements-on-color-buttons-vector-id166055858?k=6&m=166055858&s=612x612&w=0&h=6IFy9IBa5DhXQuu3_MekDFWSbFtuE4KKtuxo7QfgQEQ=']
+U+9201
+12
+fāng
+167.4
+鈁.mp3
+
+鈂
+['NONE']
+['NINGUNA']
+[]
+U+9202
+12
+chén
+167.4
+鈂.mp3
+
+鈃
+['ancient wine vessel']
+['vaso de vino antiguo']
+['https://media.gettyimages.com/photos/porto-wine-cellar-picture-id171588928?k=6&m=171588928&s=612x612&w=0&h=kp-fEAbde0g5FtIXZoEcbkq9ozo0gZlLXuiGQAtUdnE=']
+U+9203
+12
+xíng
+167.4
+鈃.mp3
+
+鈄
+['a wine flagon']
+['una jarra de vino']
+['https://media.gettyimages.com/vectors/drink-icons-vector-id455592001?k=6&m=455592001&s=612x612&w=0&h=dSzJRAFOa3keek4qvpzbWOYH0zAMbNzUQZU0A6Ck6SU=']
+U+9204
+12
+dǒu
+167.4
+鈄.mp3
+
+鈅
+['NONE']
+['NINGUNA']
+[]
+U+9205
+12
+yuè
+167.4
+鈅.mp3
+
+鈆
+['lead']
+['dirigir']
+['https://media.gettyimages.com/vectors/pencil-icon-flat-vector-id1078269892?k=6&m=1078269892&s=612x612&w=0&h=RlDJAWB16W4sOEn08_quV3nk98IATIY1E-kR87Q_muI=']
+U+9206
+12
+qiān
+167.4
+鈆.mp3
+
+鈇
+['an ax', ' a hatchet']
+['un hacha', 'un hacha']
+['https://media.gettyimages.com/photos/ax-picture-id182683964?k=6&m=182683964&s=612x612&w=0&h=_mwF00ZdJS-ElqMgxXodwnyDcCQ5-1Gih1d5JdWMz5A=', 'https://media.gettyimages.com/illustrations/axes-illustration-id97215425?k=6&m=97215425&s=612x612&w=0&h=OeOW-ZF2zilYXoZhIPO6cfPDSJUX4JtCKerrq_3C30o=']
+U+9207
+12
+fū
+167.4
+鈇.mp3
+
+鈈
+['plutonium']
+['plutonio']
+['https://media.gettyimages.com/photos/radiation-sign-picture-id185118065?k=6&m=185118065&s=612x612&w=0&h=q-ExOR-mjDmqvzvSGMkAl5UA85A6L_zAAMVWy1nMOXo=']
+U+9208
+12
+pī
+167.4
+鈈.mp3
+
+鈉
+['sodium, natrium', ' sharpen wood']
+['sodio, sodio', 'afilar madera']
+['NONE', 'https://media.gettyimages.com/photos/brand-new-pencil-picture-id96361883?k=6&m=96361883&s=612x612&w=0&h=QIelKXsucYnKwos1UILsLG_gZrTi720GRPqEyB7wFFg=']
+U+9209
+12
+nà
+167.4
+鈉.mp3
+
+鈊
+['gadolinium']
+['gadolinio']
+['https://media.gettyimages.com/vectors/icon-of-gadolinium-periodic-table-of-elements-with-crystal-system-vector-id1271710331?k=6&m=1271710331&s=612x612&w=0&h=pzR8dW_4_mKZjazWoGuY6BqTeqgCvZhv9Fb9h9QUOLg=']
+U+920A
+12
+xīn
+167.4
+鈊.mp3
+
+鈋
+['NONE']
+['NINGUNA']
+[]
+U+920B
+12
+é
+167.4
+鈋.mp3
+
+鈌
+['to pierce, to stab', ' to take']
+['perforar, apuñalar', 'tomar']
+['https://media.gettyimages.com/vectors/businessman-pierced-by-knife-hidden-behind-vector-id1197455087?k=6&m=1197455087&s=612x612&w=0&h=Gx4kPzsto0VFdjY_fqIedOmhLlC3xupyUtiLOcFUyxY=', 'https://media.gettyimages.com/photos/high-angle-view-of-people-on-street-picture-id973190966?k=6&m=973190966&s=612x612&w=0&h=RXCH2TYW7Dwd06iCes1x1TBSwhC4w8fi4QNwN_LF3eg=']
+U+920C
+12
+jué
+167.4
+鈌.mp3
+
+鈍
+['blunt, obtuse', ' dull', ' flat', ' dull-witted']
+['contundente, obtuso', 'aburrido', 'plano', 'tonto']
+['NONE', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/large-multicondos-building-blocks-with-bicycles-lane-picture-id1174752803?k=6&m=1174752803&s=612x612&w=0&h=DQaY7kZTpE6I2uxB6-uex9Hkigx7_yOHqOcj1c2XTr8=', 'NONE']
+U+920D
+12
+dùn
+167.4
+鈍.mp3
+
+鈎
+['hook, barb', ' sickle', ' stroke with']
+['gancho, púa', 'hoz', 'golpe con']
+['https://media.gettyimages.com/photos/fishing-hook-on-white-picture-id850916440?k=6&m=850916440&s=612x612&w=0&h=4hXgXN7W-yOWBx9fpWXnL8I7mVd6ydm0wa9HhGhYtAE=', 'https://media.gettyimages.com/photos/sickle-hammer-picture-id157294654?k=6&m=157294654&s=612x612&w=0&h=6KLflg55PhwgYk9y3oz3bgBtsDp3geXSmXRXSEgRAHo=', 'https://media.gettyimages.com/vectors/set-of-strokes-vector-id918445132?k=6&m=918445132&s=612x612&w=0&h=0BsPDtGELHlRNqCQ7wIzS6-5y3XbjdhMQLWH61S0Bk0=']
+U+920E
+12
+gōu
+167.4
+鈎.mp3
+
+鈏
+['NONE']
+['NINGUNA']
+[]
+U+920F
+12
+yǐn
+167.4
+鈏.mp3
+
+鈐
+['lock, latch', ' stamp, seal']
+['cerradura, pestillo', 'sello, sello']
+['https://media.gettyimages.com/vectors/locks-icons-acme-series-vector-id1157956503?k=6&m=1157956503&s=612x612&w=0&h=1cF043C4SpcbgxqHiDNVgNXptTHbefgwWfjp9Om21oQ=', 'https://media.gettyimages.com/vectors/trendy-gray-badge-premium-quality-guaranteed-vector-id1144489566?k=6&m=1144489566&s=612x612&w=0&h=_gQAOQP8GFBQCs5xgtgjCA7EZ3dG75IOPj389LyX42M=']
+U+9210
+12
+qián
+167.4
+鈐.mp3
+
+鈑
+['plate']
+['plato']
+['https://media.gettyimages.com/photos/empty-round-dinner-plate-isolated-on-white-background-clipping-path-picture-id184933994?k=6&m=184933994&s=612x612&w=0&h=amHI6AqRcay2k_AFoGN2iz0pKR1ZlRTBlQtfWX14S5s=']
+U+9211
+12
+bǎn
+167.4
+鈑.mp3
+
+鈒
+['spear', ' (Cant.) to cut, slice', ' grass-shears']
+['lanza', '(Cant.) Cortar, rebanar', 'tijeras de podar']
+['https://media.gettyimages.com/photos/arrow-head-picture-id183306920?k=6&m=183306920&s=612x612&w=0&h=CkkhY6cKFuslYjWuMTbnQVLNubryE8MEYyVgTV78oqI=', 'https://media.gettyimages.com/photos/high-angle-view-of-peach-on-cutting-board-picture-id1225005746?k=6&m=1225005746&s=612x612&w=0&h=29ko98u2MA6ue-cE8kdk0i7Db4ZWHrv3Sd0HUpTB4eI=', 'NONE']
+U+9212
+11
+sà
+167.4
+鈒.mp3
+
+鈓
+['NONE']
+['NINGUNA']
+[]
+U+9213
+12
+rén
+167.4
+鈓.mp3
+
+鈔
+['paper money, bank notes', ' copy']
+['papel moneda, billetes de banco', 'Copiar']
+['https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=', 'https://media.gettyimages.com/photos/noise-picture-id104471078?k=6&m=104471078&s=612x612&w=0&h=_i0XrUdQnuysuW_my9jSqK44U-jgYqWN5elgYbGhvUo=']
+U+9214
+12
+chāo
+167.4
+鈔.mp3
+
+鈕
+['button, knob', ' surname']
+['botón, perilla', 'apellido']
+['https://media.gettyimages.com/vectors/buttons-vector-id165924563?k=6&m=165924563&s=612x612&w=0&h=vUnlSMs6s-LjDh0-UG8FFTVNMDd13IgSvrb1GZt4r5g=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9215
+12
+niǔ
+167.4
+鈕.mp3
+
+鈖
+['NONE']
+['NINGUNA']
+[]
+U+9216
+12
+fēn
+167.4
+鈖.mp3
+
+鈗
+['NONE']
+['NINGUNA']
+[]
+U+9217
+12
+yǔn
+167.4
+鈗.mp3
+
+鈘
+['NONE']
+['NINGUNA']
+[]
+U+9218
+12
+yǐ
+167.4
+鈘.mp3
+

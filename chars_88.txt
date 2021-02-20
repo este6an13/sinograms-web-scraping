@@ -1,0 +1,2560 @@
+吙
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5419
+7
+huō
+30.4
+吙.mp3
+
+吚
+['used to represent sound']
+['usado para representar sonido']
+['https://media.gettyimages.com/photos/abstract-paint-picture-id76728564?k=6&m=76728564&s=612x612&w=0&h=MMCsApVyu87eHTKjc6dgruaxbyILbd3QeYlLaqx5MbY=']
+U+541A
+7
+yī
+30.4
+吚.mp3
+
+君
+['sovereign, monarch, ruler, chief, prince']
+['soberano, monarca, gobernante, jefe, príncipe']
+['NONE']
+U+541B
+7
+jūn
+30.4
+君.mp3
+
+吜
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+541C
+7
+chǒu
+30.4
+吜.mp3
+
+吝
+['stingy, miserly, parsimonious']
+['tacaño, tacaño, parsimonioso']
+['NONE']
+U+541D
+7
+lìn
+30.4
+吝.mp3
+
+吞
+['swallow', ' absorb, annex, engulf']
+['golondrina', 'absorber, anexar, engullir']
+['https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'NONE']
+U+541E
+7
+tūn
+30.4
+吞.mp3
+
+吟
+['sing, hum', ' recite', ' type of poetry']
+['canta, tararea', 'recitar', 'tipo de poesía']
+['https://media.gettyimages.com/photos/man-listening-to-music-picture-id122603536?k=6&m=122603536&s=612x612&w=0&h=WJeFp15-LTx1YB17TR4z2GsdZu8SaNXw1kUDSoZfvOk=', 'https://media.gettyimages.com/photos/couple-stand-ready-to-recite-their-vows-during-their-wedding-picture-id945016146?k=6&m=945016146&s=612x612&w=0&h=AZOMw0o1_z7QXzIrYTlIi0ZJXfOcJMPaQtoWWBAcL4U=', 'https://media.gettyimages.com/illustrations/letters-background-illustration-id161923965?k=6&m=161923965&s=612x612&w=0&h=7nxAm7clzTOME1-faDS1GD6jTkzySQrTEEHRgB36zLA=']
+U+541F
+7
+yín
+30.4
+吟.mp3
+
+吠
+['bark']
+['ladrar']
+['https://media.gettyimages.com/photos/closeup-of-tree-trunk-picture-id171298174?k=6&m=171298174&s=612x612&w=0&h=246BI0rWhrpCalJ7C0Z07LGXZ5KPdxtExncmVXn30ag=']
+U+5420
+7
+fèi
+30.4
+吠.mp3
+
+吡
+['blame']
+['culpa']
+['https://media.gettyimages.com/photos/sadness-picture-id1072422456?k=6&m=1072422456&s=612x612&w=0&h=Qspxe4orPOQlzygCimkE3C-ULuuSgI_JYVsXmZzsZT0=']
+U+5421
+7
+bǐ
+30.4
+吡.mp3
+
+吢
+['vomiting of a dog']
+['vómito de un perro']
+['https://media.gettyimages.com/photos/dog-and-puking-pumpkin-picture-id156639352?k=6&m=156639352&s=612x612&w=0&h=x1PbI5p8HNlXUXKekCWNhjTPdx_t5_pHLkDBbRBPjB8=']
+U+5422
+7
+qìn
+30.4
+吢.mp3
+
+吣
+['vomit']
+['vómito']
+['https://media.gettyimages.com/photos/glass-of-dissolving-medicine-with-vomiting-man-in-background-picture-id171631861?k=6&m=171631861&s=612x612&w=0&h=8CybVqfHxRZTqv8t-qiRFNus4QJbKPf3S3M4ZNqSoxw=']
+U+5423
+7
+qìn
+30.4
+吣.mp3
+
+吤
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5424
+7
+jiè
+30.4
+吤.mp3
+
+吥
+['a swelling', ' spongy, flabby']
+['una hinchazón', 'esponjoso, flácido']
+['https://media.gettyimages.com/photos/gout-picture-id185206944?k=6&m=185206944&s=612x612&w=0&h=KLMu0rXYJ7YpD6IaHNL9E32KClSIkNrPrxVMfo1cDts=', 'https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+5425
+7
+bù
+30.4
+吥.mp3
+
+否
+['not, no, negative', ' final particle']
+['no, no, negativo', 'partícula final']
+['https://media.gettyimages.com/photos/imperfect-gypsum-plaster-surface-picture-id1175719323?k=6&m=1175719323&s=612x612&w=0&h=RMSmqdopr1aj1V8YhmHAg482B8AEq3j7Kvz5NKZeF4Q=', 'https://media.gettyimages.com/photos/abstract-big-bang-conceptual-image-picture-id898633500?k=6&m=898633500&s=612x612&w=0&h=djC1FepwNWSPf7l3CRc88zs8kP3zQwSJCjcVQEAvap4=']
+U+5426
+7
+fǒu
+30.4
+否.mp3
+
+吧
+['emphatic final particle']
+['partícula final enfática']
+['NONE']
+U+5427
+7
+ba
+30.4
+吧.mp3
+
+吨
+['metric ton', ' (Cant.) to babble, gibberish']
+['útero él', '(Cant.) Balbucear, galimatizar']
+['https://media.gettyimages.com/photos/carrots-wrapped-in-measuring-tape-picture-id128263297?k=6&m=128263297&s=612x612&w=0&h=0lnlyIuLd1ppF0EySkDS0z_kCmKHqBtlqFdJtUoxdCQ=', 'NONE']
+U+5428
+7
+dūn
+30.4
+吨.mp3
+
+吩
+['order, command, instruct']
+['ordenar, ordenar, instruir']
+['https://media.gettyimages.com/vectors/engineering-company-concept-vector-id833707430?k=6&m=833707430&s=612x612&w=0&h=7aS5eZW8LEcwV0FHTToDaEz5VLHhX93kvNzMV6kfKb4=']
+U+5429
+7
+fēn
+30.4
+吩.mp3
+
+吪
+['move']
+['moverse']
+['https://media.gettyimages.com/photos/moving-boxes-and-potted-plants-at-new-apartment-picture-id1016102754?k=6&m=1016102754&s=612x612&w=0&h=FGgrIPvIRRkw50rnn8tOUqZOb80PxsfddqFC2v01254=']
+U+542A
+7
+é
+30.4
+吪.mp3
+
+含
+['hold in mouth', ' cherish', ' contain']
+['sostener en la boca', 'apreciar', 'Contiene']
+['https://media.gettyimages.com/photos/woman-holding-smartphone-in-front-of-her-mouth-picture-id962580332?k=6&m=962580332&s=612x612&w=0&h=PsiwxlBxzNrNboj-3ah4JrPR2sZJ-u-3IZ5Mxf5XmGU=', 'https://media.gettyimages.com/photos/in-love-with-the-landscape-picture-id892010070?k=6&m=892010070&s=612x612&w=0&h=LE0vwwLhyLGUpQiP0OYXIYNtNWS5Ezna07YYyQ3WPe0=', 'https://media.gettyimages.com/photos/hes-unable-to-contain-his-celebration-picture-id187110107?k=6&m=187110107&s=612x612&w=0&h=_zNmsnBjnw7BbOLQiAssBQfn0UptN_REfU959eA9bVs=']
+U+542B
+7
+hán
+30.4
+含.mp3
+
+听
+['hear', ' understand', ' obey, comply']
+['oír', 'entender', 'obedecer, cumplir']
+['https://media.gettyimages.com/vectors/communication-icon-set-vector-id936237384?k=6&m=936237384&s=612x612&w=0&h=f1MOhmvmaYoPFOFv38qFQqqpZw6wbvLBfAOpTiNYnH0=', 'https://media.gettyimages.com/photos/speaker-addressing-group-of-females-picture-id1094465614?k=6&m=1094465614&s=612x612&w=0&h=q4tXChpqAkaq3k58SdoGjZM24pPXxh3VHd4njdj2v-A=', 'https://media.gettyimages.com/vectors/compliance-line-icon-set-vector-id1087301088?k=6&m=1087301088&s=612x612&w=0&h=-ONRgSYqz6EOBhdHwPe-4qPJX_jMRZ5NZzc13TPKXEI=']
+U+542C
+7
+tīng
+30.4
+听.mp3
+
+吭
+['throat']
+['garganta']
+['https://media.gettyimages.com/photos/female-doctor-doing-throat-examination-on-older-man-picture-id955808530?k=6&m=955808530&s=612x612&w=0&h=A75x9R6e1gzR9kGnY4Qa5GAPTWTLQQLHsvGtYpyjjOM=']
+U+542D
+7
+kēng
+30.4
+吭.mp3
+
+吮
+['suck with mouth, sip, lick']
+['chupar con la boca, sorber, lamer']
+['https://media.gettyimages.com/photos/chocolate-labrador-drinking-a-bowl-of-milk-picture-id523520770?k=6&m=523520770&s=612x612&w=0&h=goVkwqyqcGwWGElQ2FgSCyreXyfVmcebeJXPepNf0h4=']
+U+542E
+7
+shǔn
+30.4
+吮.mp3
+
+启
+['open', ' begin, commence', ' explain']
+['abierto', 'empezar, empezar', 'explique']
+['https://media.gettyimages.com/photos/happy-business-owner-hanging-an-open-sign-at-a-cafe-picture-id1003743872?k=6&m=1003743872&s=612x612&w=0&h=4oAoSMV4rUQhFurmE1NJi7i4-mfsn3mwypG3vZhiZa8=', 'https://media.gettyimages.com/photos/two-men-pushing-open-doors-picture-id648539971?k=6&m=648539971&s=612x612&w=0&h=iWYVHnOJEFBu-IC1IOvs9LNreJ5SCAUMT2RE_zKCMCE=', 'https://media.gettyimages.com/photos/time-for-a-quick-brainstorm-picture-id482073694?k=6&m=482073694&s=612x612&w=0&h=KR64A5pTfPmM4Upw0xGlDgDvJ8z5LgUYwSTOHDwO-ZY=']
+U+542F
+7
+qǐ
+30.4
+启.mp3
+
+吰
+['clang']
+['sonido metálico']
+['https://media.gettyimages.com/photos/gong-announcement-picture-id172655889?k=6&m=172655889&s=612x612&w=0&h=cJjOdBzIe-L1LOiawYzmvVOXcmk-wPbf3aFf4Qi5gKU=']
+U+5430
+7
+hóng
+30.4
+吰.mp3
+
+吱
+['chirping, squeaking, hissing']
+['piar, chirriar, silbar']
+['NONE']
+U+5431
+7
+zhī
+30.4
+吱.mp3
+
+吲
+['smile at', ' sneer at']
+['sonreir a', 'mofarse']
+['https://media.gettyimages.com/photos/happiness-picture-id882495390?k=6&m=882495390&s=612x612&w=0&h=vXXvkgo4hv5l4J9zRMWrLMjXR_Gv86pk1hdf8DG7P6w=', 'https://media.gettyimages.com/photos/mixed-race-boy-drawing-on-wall-with-crayons-picture-id672158567?k=6&m=672158567&s=612x612&w=0&h=ws1xRpz3cGbjGMkOSJZY6HKZPZrIAslciTfwLnLUYbQ=']
+U+5432
+7
+yǐn
+30.4
+吲.mp3
+
+吳
+['one of warring states', ' surname']
+['uno de los estados en guerra', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+5433
+7
+wú
+30.4
+吳.mp3
+
+吴
+['name of warring state', ' surname']
+['nombre del estado en guerra', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+5434
+7
+wú
+30.4
+吴.mp3
+
+吵
+['argue, dispute', ' disturb, annoy']
+['discutir, disputar', 'molestar, molestar']
+['https://media.gettyimages.com/photos/please-stop-arguing-picture-id1060407278?k=6&m=1060407278&s=612x612&w=0&h=HPnnmaJ25TfCuqGLNoR_6cScWJ8EvsGODzXD-OpxKj0=', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+5435
+7
+chǎo
+30.4
+吵.mp3
+
+吶
+['raise voice, yell out loud, shout', ' stammer']
+['alzar la voz, gritar fuerte, gritar', 'origina']
+['https://media.gettyimages.com/photos/passionate-fans-cheer-and-raise-hands-at-a-sporting-event-picture-id937037584?k=6&m=937037584&s=612x612&w=0&h=hiGsfGeV0LGk7ax1kBtP7V88g0rb3oyrv0zDbZbxYMQ=', 'https://media.gettyimages.com/photos/british-royalty-pic-circa-1900-hrh-prince-albert-as-a-young-boy-in-picture-id78950582?k=6&m=78950582&s=612x612&w=0&h=XD2IBtGhqunD7-ymcBhRfRgnL4UzyO6y5mORu3kz96Y=']
+U+5436
+7
+nà
+30.4
+吶.mp3
+
+吷
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5437
+7
+xuè
+30.4
+吷.mp3
+
+吸
+['inhale, suck in', ' absorb', ' attract']
+['inhalar, chupar', 'absorber', 'atraer']
+['https://media.gettyimages.com/photos/newborn-baby-and-nose-drops-picture-id1220608044?k=6&m=1220608044&s=612x612&w=0&h=gOONaxgfraC2rU4pwmxRiWC68AV4kyJ5f4qf7mT7Lv4=', 'https://media.gettyimages.com/photos/kitchen-towel-on-stainless-steel-counter-picture-id185278804?k=6&m=185278804&s=612x612&w=0&h=Pck62fimzWJTPF2DGvVV0WVHwHKDY5c3TNJFT5QurFk=', 'https://media.gettyimages.com/photos/kissing-couple-at-the-street-picture-id902590688?k=6&m=902590688&s=612x612&w=0&h=IG9z8x7n6iPeBXC78d8olsrrpPEzyrVN3MHm_697ZvQ=']
+U+5438
+6
+xī
+30.4
+吸.mp3
+
+吹
+['blow', ' puff', ' brag, boast']
+['soplar', 'soplo', 'presumir']
+['https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/smiling-woman-sitting-in-beanbag-using-cell-phone-picture-id909597902?k=6&m=909597902&s=612x612&w=0&h=-BN7K7IcW8eKg5jE8rC6WqYK4hkqpYs4aCAdbvYCno8=', 'https://media.gettyimages.com/vectors/rainbow-heartshape-vector-id1132871643?k=6&m=1132871643&s=612x612&w=0&h=QeIJ5y-s2r9L_bHmPQTUMVD6KI5tDdaeV_j3Gc6qYus=']
+U+5439
+7
+chuī
+30.4
+吹.mp3
+
+吺
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+543A
+7
+dōu
+30.4
+吺.mp3
+
+吻
+['kiss', ' the lips', ' coinciding']
+['Beso', 'los labios', 'coincidiendo']
+['https://media.gettyimages.com/photos/lipstick-kiss-picture-id184999805?k=6&m=184999805&s=612x612&w=0&h=oCDhmod-F6qS29xENc8v8n-o5RZlcsS_XQVvwvqhNZI=', 'https://media.gettyimages.com/photos/lips-eyes-comp-montage-picture-id815059920?k=6&m=815059920&s=612x612&w=0&h=tAOhZBvwlhfk4W5-Dn4DrcvfZXV12tXYIvPwe1aQIF0=', 'https://media.gettyimages.com/vectors/arrow-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1080795930?k=6&m=1080795930&s=612x612&w=0&h=8RCjZH-kEyVhD4BuOyXuJ0k87LzK17WEAGe1OFVKKd0=']
+U+543B
+7
+wěn
+30.4
+吻.mp3
+
+吼
+['roar, shout', ' bark, howl']
+['rugir, gritar', 'ladrar, aullar']
+['https://media.gettyimages.com/photos/brown-bear-roaring-side-view-picture-idAA045492?k=6&m=AA045492&s=612x612&w=0&h=6tbMI7zqtW9CzSRAYS0zJ9CW9U3TaA9KsY8TXC8Y_LQ=', 'https://media.gettyimages.com/photos/dog-barking-and-howling-picture-id1052881352?k=6&m=1052881352&s=612x612&w=0&h=FQTGevVgEYVIKU4dZxgJJeYS3dSPQJIcQlUHlvh_8gE=']
+U+543C
+7
+hǒu
+30.4
+吼.mp3
+
+吽
+["'OM'", ' bellow', ' (Cant.) dull, stupid']
+["'SI'", 'bramido', '(Cant.) Aburrido, estúpido']
+['https://media.gettyimages.com/photos/cocktail-om-bangkok-city-view-point-from-rooftop-of-building-blue-sky-picture-id1090133336?k=6&m=1090133336&s=612x612&w=0&h=ZIoRP85E0wC9BT6RDX4jz8jnjGAIfGaSaks129UfJMQ=', 'https://media.gettyimages.com/photos/one-person-watches-tv-with-no-signal-and-grainy-noise-effect-in-his-picture-id1187825789?k=6&m=1187825789&s=612x612&w=0&h=21WbPDgYlHErtTqMRYLDIBHKyJcJSAmAaZm4dRgIwbc=', 'NONE']
+U+543D
+7
+hōng
+30.4
+吽.mp3
+
+吾
+['i, my, our', ' resist, impede']
+['soy tu', 'resistir, impedir']
+['https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=', 'NONE']
+U+543E
+7
+wú
+30.4
+吾.mp3
+
+吿
+['tell, announce, inform', ' accuse']
+['contar, anunciar, informar', 'acusar']
+['https://media.gettyimages.com/vectors/messenger-vector-id165039561?k=6&m=165039561&s=612x612&w=0&h=3qfQ1LpHMY6Gcs2DaO7iTTp6PME5ZdBKhMMrjU0VPwo=', 'https://media.gettyimages.com/photos/frustrated-woman-received-a-problematic-email-over-computer-picture-id1051720084?k=6&m=1051720084&s=612x612&w=0&h=KCz_oyAcXZ5LDz4ZspJvQiR0vId-rpYCofB7_6U3Lws=']
+U+543F
+7
+gào
+30.4
+吿.mp3
+
+呀
+['particle used to express surprise or mild emphasis', ' (Cant.) slurred form of the number ten']
+['partícula utilizada para expresar sorpresa o énfasis leve', '(Cant.) Forma arrastrada del número diez']
+['NONE', 'NONE']
+U+5440
+7
+ya
+30.4
+呀.mp3
+
+呁
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5441
+7
+jùn
+30.4
+呁.mp3
+
+呂
+['surname', ' a musical note']
+['apellido', 'una nota musical']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/vectors/music-note-vector-id695718706?k=6&m=695718706&s=612x612&w=0&h=1h0JRbJNVmHWqA_vHFIJfIPKg7QG-DlB1aftAE61pmg=']
+U+5442
+7
+lǚ
+30.4
+呂.mp3
+
+呃
+['belch', ' hiccup']
+['eructo', 'hipo']
+['https://media.gettyimages.com/photos/baby-burp-picture-id157642722?k=6&m=157642722&s=612x612&w=0&h=beTSG47ouaXTWBrv2djJXGjVtuc_nnUC4PohNQn2eyI=', 'https://media.gettyimages.com/photos/young-woman-holding-breath-picture-id184655270?k=6&m=184655270&s=612x612&w=0&h=LKcP-1IOnwNXwkoojjXQYdZrkiT-yvHcNUnmbHSLY7Y=']
+U+5443
+7
+è
+30.4
+呃.mp3
+
+呄
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5444
+7
+gé
+30.4
+呄.mp3
+
+呅
+['(Cant.) a dollar']
+['(Can.) Un dólar']
+['https://media.gettyimages.com/photos/house-ways-and-means-chairman-charles-b-rangel-dny-house-speaker-picture-id82054276?k=6&m=82054276&s=612x612&w=0&h=rN_FvvfxqFu8fF2ARL6-rt8r5j-5Y5Im8RD0Fxb9Pto=']
+U+5445
+7
+méi
+30.4
+呅.mp3
+
+呆
+['dull', ' dull-minded, simple, stupid']
+['aburrido', 'torpe, simple, estúpido']
+['https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/lonely-men-in-futuristic-concrete-urban-environment-picture-id914706736?k=6&m=914706736&s=612x612&w=0&h=VfAKMf8eTOsEI6J_BnYQEFsy3eVpDHXz-QoRbB-kgLE=']
+U+5446
+7
+dāi
+30.4
+呆.mp3
+
+呇
+['star']
+['estrella']
+['https://media.gettyimages.com/photos/night-scene-milky-way-background-picture-id521011652?k=6&m=521011652&s=612x612&w=0&h=BLkUW5f2gwJCwWGxt9hLs83SeHAaWH1KEFUNUWlcg8Q=']
+U+5447
+7
+qǐ
+30.4
+呇.mp3
+
+呈
+['submit, show', ' appear', ' petition']
+['enviar, mostrar', 'Aparecer', 'petición']
+['https://media.gettyimages.com/photos/submit-a-smartphone-to-hand-isolated-on-white-background-picture-id1170341729?k=6&m=1170341729&s=612x612&w=0&h=QvQoMkmPirfTRxAlCmOHUb765CYlraxbQg8UeBYcAAA=', 'https://media.gettyimages.com/photos/woman-coming-out-of-rectangular-opening-in-coloured-wall-picture-id816104398?k=6&m=816104398&s=612x612&w=0&h=1HFOTiHo8k7y6tURUkRhAp0ULqsS3Ek0pcGdcBPuZHk=', 'https://media.gettyimages.com/photos/closeup-of-cursor-on-sign-petition-icon-picture-id592497823?k=6&m=592497823&s=612x612&w=0&h=4dpYutRj4eTM-k0Q7w0wv_0dbXpnpApN8BRJlrTSTds=']
+U+5448
+7
+chéng
+30.4
+呈.mp3
+
+呉
+['one of warring states', ' surname']
+['uno de los estados en guerra', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+5449
+7
+wú
+30.4
+呉.mp3
+
+告
+['tell, announce, inform', ' accuse']
+['contar, anunciar, informar', 'acusar']
+['https://media.gettyimages.com/vectors/messenger-vector-id165039561?k=6&m=165039561&s=612x612&w=0&h=3qfQ1LpHMY6Gcs2DaO7iTTp6PME5ZdBKhMMrjU0VPwo=', 'https://media.gettyimages.com/photos/frustrated-woman-received-a-problematic-email-over-computer-picture-id1051720084?k=6&m=1051720084&s=612x612&w=0&h=KCz_oyAcXZ5LDz4ZspJvQiR0vId-rpYCofB7_6U3Lws=']
+U+544A
+7
+gào
+30.4
+告.mp3
+
+呋
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+544B
+7
+fū
+30.4
+呋.mp3
+
+呌
+['to call', ' to summon']
+['llamar', 'convocar']
+['https://media.gettyimages.com/photos/hello-can-i-help-you-picture-id1187582500?k=6&m=1187582500&s=612x612&w=0&h=8rAHckcJerzt05QR_hmRSqqUdcC9_aNk8SDfBLU4UcM=', 'https://media.gettyimages.com/photos/fire-dragon-made-from-candle-flame-on-a-black-background-magical-picture-id979212414?k=6&m=979212414&s=612x612&w=0&h=Ec5sbQI8PhYnXLzGvOrdqTL4GG9N5E-AlCIrmf4ok9s=']
+U+544C
+7
+jiào
+30.4
+呌.mp3
+
+呍
+['(Cant.) phonetic']
+['(Cant.) Fonético']
+['NONE']
+U+544D
+7
+hōng
+30.4
+呍.mp3
+
+呎
+['foot']
+['pie']
+['https://media.gettyimages.com/vectors/foot-print-icon-set-vector-id934812346?k=6&m=934812346&s=612x612&w=0&h=MqykQHDp_JOoGX7c2biUxhJzDvL7hUY4GMsFugwKOfY=']
+U+544E
+7
+chǐ
+30.4
+呎.mp3
+
+呏
+['gallon', ' quart']
+['galón', 'un quarto']
+['https://media.gettyimages.com/photos/gallon-of-low-fat-milk-picture-id86544602?k=6&m=86544602&s=612x612&w=0&h=WUe_PxkzP0m_tsxqBAksPQLfmLPWQxjaut_LEhWurkA=', 'https://media.gettyimages.com/photos/peaches-by-the-quart-picture-id667831798?k=6&m=667831798&s=612x612&w=0&h=lZqC2m8IgWAnjC6dYrVCz8xluwRQpOmbpWwPMhTFHqQ=']
+U+544F
+7
+shēng
+30.4
+呏.mp3
+
+呐
+['raise voice, yell out loud, shout', ' stammer']
+['alzar la voz, gritar fuerte, gritar', 'origina']
+['https://media.gettyimages.com/photos/passionate-fans-cheer-and-raise-hands-at-a-sporting-event-picture-id937037584?k=6&m=937037584&s=612x612&w=0&h=hiGsfGeV0LGk7ax1kBtP7V88g0rb3oyrv0zDbZbxYMQ=', 'https://media.gettyimages.com/photos/british-royalty-pic-1923-hrh-the-duke-and-duchess-of-york-pictured-at-picture-id78950728?k=6&m=78950728&s=612x612&w=0&h=soQB9r8LeTWk-tCoQ7yUei95kPyLWNkmdYp5FD38txA=']
+U+5450
+7
+nà
+30.4
+呐.mp3
+
+呑
+['swallow', ' absorb']
+['golondrina', 'absorber']
+['https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'https://media.gettyimages.com/photos/kitchen-towel-on-stainless-steel-counter-picture-id185278804?k=6&m=185278804&s=612x612&w=0&h=Pck62fimzWJTPF2DGvVV0WVHwHKDY5c3TNJFT5QurFk=']
+U+5451
+7
+tūn
+30.4
+呑.mp3
+
+呒
+['unclear', ' an expletive']
+['poco claro', 'un improperio']
+['https://media.gettyimages.com/photos/woman-pulling-face-picture-id1144830585?k=6&m=1144830585&s=612x612&w=0&h=TWgpZu3NQp8qPfVqc06KluNDvcXMbcGnytsDkN6NhCc=', 'https://media.gettyimages.com/vectors/curse-vector-id503782483?k=6&m=503782483&s=612x612&w=0&h=3gdYOAvjXZ9eqwu42xJeT5Yh5ZKuETtjPti_05tJvII=']
+U+5452
+7
+wǔ
+30.4
+呒.mp3
+
+呓
+["talk in one's sleep, somniloquy"]
+['hablar en sueños, somniloquio']
+['https://media.gettyimages.com/photos/students-studying-in-class-one-woman-sleeping-at-desk-picture-id200478527-001?k=6&m=200478527-001&s=612x612&w=0&h=QYhgNWTe0swog9irCbsPGZkW-B9H84MouXjYis6CunU=']
+U+5453
+7
+yì
+30.4
+呓.mp3
+
+呔
+['(Cant.) a necktie, a tire']
+['(Can.) Una corbata, un neumático']
+['NONE']
+U+5454
+7
+dāi
+30.4
+呔.mp3
+
+呕
+['vomit', ' annoy, enrage']
+['vómito', 'molestar, enfurecer']
+['https://media.gettyimages.com/photos/glass-of-dissolving-medicine-with-vomiting-man-in-background-picture-id171631861?k=6&m=171631861&s=612x612&w=0&h=8CybVqfHxRZTqv8t-qiRFNus4QJbKPf3S3M4ZNqSoxw=', 'https://media.gettyimages.com/photos/real-displeased-senior-woman-portrait-picture-id947252896?k=6&m=947252896&s=612x612&w=0&h=oc3PYHeEG29wxCEnYvyyxvwauRXT2qH4aEGjrmObw5Y=']
+U+5455
+7
+ǒu
+30.4
+呕.mp3
+
+呖
+['used in onomatopoetic expressions']
+['utilizado en expresiones onomatopéyicas']
+['NONE']
+U+5456
+7
+lì
+30.4
+呖.mp3
+
+呗
+['final particle of assertion']
+['partícula final de afirmación']
+['NONE']
+U+5457
+7
+bei
+30.4
+呗.mp3
+
+员
+['member', ' personnel, staff member']
+['miembro', 'personal, miembro del personal']
+['https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=', 'https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=']
+U+5458
+7
+yuán
+30.4
+员.mp3
+
+呙
+['chat, jaw, gossip, talk', ' mouth']
+['charlar, mandíbula, chisme, hablar', 'boca']
+['NONE', 'https://media.gettyimages.com/photos/lips-eyes-comp-montage-picture-id815059920?k=6&m=815059920&s=612x612&w=0&h=tAOhZBvwlhfk4W5-Dn4DrcvfZXV12tXYIvPwe1aQIF0=']
+U+5459
+7
+guō
+30.4
+呙.mp3
+
+呚
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+545A
+7
+wen
+30.4
+呚.mp3
+
+呛
+['choke by smoke', ' irritates nose']
+['ahogarse por el humo', 'irrita la nariz']
+['https://media.gettyimages.com/photos/man-making-dinner-picture-id826737208?k=6&m=826737208&s=612x612&w=0&h=cr_gvp_Lhr76FUfs7MfqUstkNNHResDbI9p6CcwWmpU=', 'NONE']
+U+545B
+7
+qiāng
+30.4
+呛.mp3
+
+呜
+['sound of crying, sobbing']
+['sonido de llanto, sollozo']
+['https://media.gettyimages.com/photos/baby-girl-crying-picture-id452413589?k=6&m=452413589&s=612x612&w=0&h=-KJHOR3q_APwhcMaUvrKaZXQgyH3ZxNO3HLJxVsi0mo=']
+U+545C
+7
+wū
+30.4
+呜.mp3
+
+呝
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+545D
+8
+è
+30.5
+呝.mp3
+
+呞
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+545E
+8
+shī
+30.5
+呞.mp3
+
+呟
+['to mutter, grumble, murmur']
+['murmurar, quejarse, murmurar']
+['NONE']
+U+545F
+8
+juǎn
+30.5
+呟.mp3
+
+呠
+['to spurt', ' to blow out', ' to puff out', ' to snort']
+['a chorro', 'soplar', 'inflar', 'esnifar']
+['https://media.gettyimages.com/photos/united-states-white-house-and-south-lawn-picture-id519973294?k=6&m=519973294&s=612x612&w=0&h=ApFjm-gxC2GIy7ghtdwKoxqtoIZS_1qrSOSvrAFYLHk=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/smiling-woman-sitting-in-beanbag-using-cell-phone-picture-id909597902?k=6&m=909597902&s=612x612&w=0&h=-BN7K7IcW8eKg5jE8rC6WqYK4hkqpYs4aCAdbvYCno8=', 'https://media.gettyimages.com/photos/bad-addicion-snorting-drugs-picture-id157182379?k=6&m=157182379&s=612x612&w=0&h=4YADYVLsvb_nZVi6LDwZJAoBxVBQXhPW6K520r8paS0=']
+U+5460
+8
+pěn
+30.5
+呠.mp3
+
+呡
+['the corners of the mouth the lips']
+['las comisuras de la boca los labios']
+['https://media.gettyimages.com/photos/father-wipes-daughters-mouth-with-a-tissue-paper-picture-id1160406095?k=6&m=1160406095&s=612x612&w=0&h=4d2a2ySldVnIrltZZ2BFLUY8ObezFUmuO2dAzmtl9ms=']
+U+5461
+8
+wěn
+30.5
+呡.mp3
+
+呢
+['interrogative or emphatic final', ' (Cant.) this']
+['final interrogativa o enfática', '(Cant.) Esto']
+['https://media.gettyimages.com/photos/confident-businesswoman-pointing-with-large-hand-in-office-picture-id898704396?k=6&m=898704396&s=612x612&w=0&h=pl1CZvX0FuwMW7ec3o_jzvWhw1z03OKzQv_-kY-WNyg=', 'https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+5462
+8
+ne
+30.5
+呢.mp3
+
+呣
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5463
+8
+ḿ
+30.5
+呣.mp3
+
+呤
+['purine']
+['purina']
+['https://media.gettyimages.com/photos/temozolomide-chemotherapy-drug-molecular-model-picture-id1155270071?k=6&m=1155270071&s=612x612&w=0&h=3vH4NpxpmDt_TR9U7nuOwjlLDZFJpG7UV5zaUavydRM=']
+U+5464
+8
+lìng
+30.5
+呤.mp3
+
+呥
+['(Cant.) intensifying particle']
+['(Cant.) Partícula intensificadora']
+['NONE']
+U+5465
+8
+rán
+30.5
+呥.mp3
+
+呦
+['the bleating of the deer']
+['el balido del venado']
+['NONE']
+U+5466
+8
+yōu
+30.5
+呦.mp3
+
+呧
+['to rebuke', ' to scold', ' slander']
+['reprender', 'regañar', 'calumnia']
+['https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=', 'https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=', 'https://media.gettyimages.com/vectors/censorship-vector-id487841164?k=6&m=487841164&s=612x612&w=0&h=cgUyjNX7Hl8f_z9VUf3uZrS-idJyvsr-HI5zYG7wV6M=']
+U+5467
+8
+dǐ
+30.5
+呧.mp3
+
+周
+['Zhou dynasty', ' circumference']
+['Dinastía Zhou', 'circunferencia']
+['https://media.gettyimages.com/photos/spear-with-three-points-zhou-dynasty-creator-unknown-picture-id1183211208?k=6&m=1183211208&s=612x612&w=0&h=VHeWbo7e8yEn44LUPgFUIXT8H-Af0jfB-pohpRVq6l4=', 'https://media.gettyimages.com/vectors/sun-vector-id1088732954?k=6&m=1088732954&s=612x612&w=0&h=r5vlPVcVGq-8OVPIN2p62MqxBOUNX5O1Th64LSYiTVQ=']
+U+5468
+8
+zhōu
+30.5
+周.mp3
+
+呩
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5469
+8
+shì
+30.5
+呩.mp3
+
+呪
+['curse, damn, incantation']
+['maldición, maldición, encantamiento']
+['NONE']
+U+546A
+8
+zhòu
+30.5
+呪.mp3
+
+呫
+['whisper', ' lick, taste', ' petty']
+['susurro', 'lamer, saborear', 'pequeño']
+['https://media.gettyimages.com/photos/come-closer-what-do-you-think-about-this-candidate-picture-id942149588?k=6&m=942149588&s=612x612&w=0&h=pamGW1lLTeM01Aq1H5f8ICCt2ztbEPM8pyNKN1TpGys=', 'https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'https://media.gettyimages.com/photos/you-never-listen-picture-id1162106983?k=6&m=1162106983&s=612x612&w=0&h=x_QM_3wjjG3M2tpPOy-tTfIiEV68CsP596qKZ9_i0Bo=']
+U+546B
+8
+tiè
+30.5
+呫.mp3
+
+呬
+['to rest']
+['descansar']
+['https://media.gettyimages.com/photos/young-woman-spending-a-relaxing-day-in-her-beautiful-home-picture-id1062517720?k=6&m=1062517720&s=612x612&w=0&h=cOZzkiXa8eBpKCwTlOJsZrfVX_Sj87o_5d1q5sxPMRs=']
+U+546C
+8
+xì
+30.5
+呬.mp3
+
+呭
+['final particle expressing consent', ' talkative']
+['partícula final expresando consentimiento', 'hablador']
+['NONE', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+546D
+8
+yì
+30.5
+呭.mp3
+
+呮
+['to sit', ' (Cant.) only, merely', ' a final particle of intimacy']
+['sentarse', '(Can.) Solamente, simplemente', 'una partícula final de intimidad']
+['https://media.gettyimages.com/photos/portrait-of-young-woman-against-white-background-picture-id991586638?k=6&m=991586638&s=612x612&w=0&h=9qiwj3hnqa-VJRWe94c0xtIqGmC65_qYWT6TfUCZ1YY=', 'NONE', 'https://media.gettyimages.com/vectors/womans-brain-vector-id165037352?k=6&m=165037352&s=612x612&w=0&h=i2dVImnTxcjt3cnc_vZT5_7UgdL3dNN2-I8wTeeaj5w=']
+U+546E
+8
+qì
+30.5
+呮.mp3
+
+呯
+['(Cant.) onomatopoetic, the sound of a gong']
+['(No puedo) onomatopeya, el sonido de un gong']
+['NONE']
+U+546F
+8
+píng
+30.5
+呯.mp3
+
+呰
+['to slander, revile']
+['calumniar, injuriar']
+['NONE']
+U+5470
+9
+zǐ
+30.5
+呰.mp3
+
+呱
+['wail, crying of child', ' swear at']
+['lamento, llanto de niño', 'jurar en']
+['https://media.gettyimages.com/photos/closeup-of-boy-crying-at-home-picture-id966260894?k=6&m=966260894&s=612x612&w=0&h=EXEWWAkSR4DkapJFT0knXAZ76ZsKgAKNDZW0JfW5Uiw=', 'https://media.gettyimages.com/vectors/curse-vector-id503782483?k=6&m=503782483&s=612x612&w=0&h=3gdYOAvjXZ9eqwu42xJeT5Yh5ZKuETtjPti_05tJvII=']
+U+5471
+8
+gū
+30.5
+呱.mp3
+
+呲
+['give a talking-to']
+['dar una charla']
+['NONE']
+U+5472
+9
+cī
+30.5
+呲.mp3
+
+味
+['taste, smell, odor', ' delicacy']
+['sabor, olor, olor', 'delicadeza']
+['https://media.gettyimages.com/vectors/five-senses-sight-hearing-smell-touch-taste-icons-and-symbols-vector-id1059288106?k=6&m=1059288106&s=612x612&w=0&h=__amgtwzeC6IWvYUCnE_PoYlK-enx7WoTvbmLnO402E=', 'https://media.gettyimages.com/photos/professional-chef-at-work-picture-id935489342?k=6&m=935489342&s=612x612&w=0&h=avoBxqMcKr016rIXrQu683bQ9LiivbYhMUS8nTxbCos=']
+U+5473
+8
+wèi
+30.5
+味.mp3
+
+呴
+['breathe on', ' yawn', ' roar']
+['respirar', 'bostezo', 'rugido']
+['https://media.gettyimages.com/photos/young-woman-spending-a-relaxing-day-in-her-beautiful-home-picture-id1062517720?k=6&m=1062517720&s=612x612&w=0&h=cOZzkiXa8eBpKCwTlOJsZrfVX_Sj87o_5d1q5sxPMRs=', 'https://media.gettyimages.com/photos/entrepreneur-yawning-in-office-picture-id502938603?k=6&m=502938603&s=612x612&w=0&h=Ek2WcqGkHt9YNiVyGAYYwlICRZAkolj_JJiQ2ZPDddA=', 'https://media.gettyimages.com/photos/closeup-of-lion-roaring-on-field-at-rhino-and-lion-nature-reserve-picture-id675607089?k=6&m=675607089&s=612x612&w=0&h=jdDCCiiBgzcLgpQdil2kYXZTCvKjW2Fh1P0S85l1xCY=']
+U+5474
+8
+xǔ
+30.5
+呴.mp3
+
+呵
+['scold', ' laughing sound', ' yawn']
+['regaño', 'sonido de risa', 'bostezo']
+['https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=', 'https://media.gettyimages.com/photos/partying-like-rockstars-picture-id505657693?k=6&m=505657693&s=612x612&w=0&h=L0WSNfINASqH8i_rljLoQS8yGe7FozfBvR-pbCeU5i4=', 'https://media.gettyimages.com/photos/entrepreneur-yawning-in-office-picture-id502938603?k=6&m=502938603&s=612x612&w=0&h=Ek2WcqGkHt9YNiVyGAYYwlICRZAkolj_JJiQ2ZPDddA=']
+U+5475
+8
+hē
+30.5
+呵.mp3
+
+呶
+['talkative', ' clamour', ' hubbub']
+['hablador', 'clamor', 'alboroto']
+['https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/photos/woman-standing-on-city-street-at-night-picture-id130406720?k=6&m=130406720&s=612x612&w=0&h=qJTZMDlrf9P_oT8bD1qM4clqxrz820D4bLtCLJc2LLY=', 'https://media.gettyimages.com/photos/businesspeople-working-picture-id78226021?k=6&m=78226021&s=612x612&w=0&h=kj0PqsQgOkqku3XKCNkcTQOG_Zyn3CpH8UM_Gq7bFLk=']
+U+5476
+8
+náo
+30.5
+呶.mp3
+
+呷
+['suck, swallow, drink']
+['chupar, tragar, beber']
+['https://media.gettyimages.com/photos/woman-drinking-cold-drink-with-straw-in-cafe-picture-id672154963?k=6&m=672154963&s=612x612&w=0&h=---O9W6b2DzxDkMJApWhafTsb1y1v0EBm4u5U4_0Nw0=']
+U+5477
+8
+gā
+30.5
+呷.mp3
+
+呸
+['expression of reprimand']
+['expresión de reprimenda']
+['https://media.gettyimages.com/photos/wagging-finger-serious-mature-man-ticking-off-remonstrating-boss-picture-id539951952?k=6&m=539951952&s=612x612&w=0&h=1v7FzycK-KhMYq1Z9P6mXAVIHP70hWgR4CRhbV_5hSQ=']
+U+5478
+8
+pēi
+30.5
+呸.mp3
+
+呹
+['(of animals) to eat grass']
+['(de animales) para comer hierba']
+['https://media.gettyimages.com/photos/dairy-cow-picture-id157204335?k=6&m=157204335&s=612x612&w=0&h=5cySunyYNgK-dh8VzMDFChjNIoO80nz6ZY231zQ444k=']
+U+5479
+8
+yì
+30.5
+呹.mp3
+
+呺
+['voice of anger vast, spacious']
+['voz de ira vasta, espaciosa']
+['https://media.gettyimages.com/photos/releasing-negative-energy-picture-id185261567?k=6&m=185261567&s=612x612&w=0&h=dV_Sl0NM8xGWu90-4m4Ag1Vhmpw5h6sjjYZJcPKa9Ls=']
+U+547A
+8
+xiāo
+30.5
+呺.mp3
+
+呻
+['groan, moan', ' recite with intonation']
+['gemir, gemir', 'recitar con entonación']
+['NONE', 'NONE']
+U+547B
+8
+shēn
+30.5
+呻.mp3
+
+呼
+['breathe sigh, exhale', ' call, shout']
+['respirar suspiro, exhalar', 'llamar, gritar']
+['https://media.gettyimages.com/photos/riding-waves-of-nausea-picture-id476375927?k=6&m=476375927&s=612x612&w=0&h=cXk3G7THePWHARH3HnrppA3ctO68OmwRAKlA4JjvFkE=', 'https://media.gettyimages.com/photos/friends-texting-outside-picture-id517975498?k=6&m=517975498&s=612x612&w=0&h=_cQJNXmUbbHVZmIPMTmrim36opMBP__tzHmVQDQ9vdk=']
+U+547C
+8
+hū
+30.5
+呼.mp3
+
+命
+['life', ' destiny, fate, luck', ' an order, instruction']
+['vida', 'destino, suerte, suerte', 'una orden, instrucción']
+['https://media.gettyimages.com/photos/mature-man-playing-with-his-little-daughter-in-nature-picture-id1023147086?k=6&m=1023147086&s=612x612&w=0&h=2ut2H06i8kmAOemdB_BjQmz8ZLgIWK5QtTHxVS3Q2Mg=', 'https://media.gettyimages.com/photos/-picture-id925294268?k=6&m=925294268&s=612x612&w=0&h=i-UxnuQdJTDDUtCDWX6SbgzZOXPsz0jmoF-sXC7Ksw0=', 'https://media.gettyimages.com/vectors/compliance-line-icon-set-vector-id1087301088?k=6&m=1087301088&s=612x612&w=0&h=-ONRgSYqz6EOBhdHwPe-4qPJX_jMRZ5NZzc13TPKXEI=']
+U+547D
+8
+mìng
+30.5
+命.mp3
+
+呾
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+547E
+8
+dá
+30.5
+呾.mp3
+
+呿
+['to yawn']
+['bostezar']
+['https://media.gettyimages.com/photos/entrepreneur-yawning-in-office-picture-id502938603?k=6&m=502938603&s=612x612&w=0&h=Ek2WcqGkHt9YNiVyGAYYwlICRZAkolj_JJiQ2ZPDddA=']
+U+547F
+8
+qù
+30.5
+呿.mp3
+
+咀
+['suck', ' chew, masticate']
+['chupar', 'masticar, masticar']
+['https://media.gettyimages.com/vectors/pacifier-icon-flat-vector-id913207394?k=6&m=913207394&s=612x612&w=0&h=FzdR0_nfLCLX3V5EWbqatimUA6dlm2lhdPldCL76q5k=', 'https://media.gettyimages.com/photos/children-in-restaurant-picture-id864110478?k=6&m=864110478&s=612x612&w=0&h=eP_Bka6n2qiw31MX58JDmnMbOAZd4GDuGG4rh7LcnxI=']
+U+5480
+8
+jǔ
+30.5
+咀.mp3
+
+咁
+['(Cant.) like this, in this way', ' so, to such an extent']
+['(Cant.) Así, de esta manera', 'entonces, hasta tal punto']
+['https://media.gettyimages.com/photos/just-cant-get-enough-of-you-picture-id615110946?k=6&m=615110946&s=612x612&w=0&h=0CDARmLc5yJqcIuz2_5wG3fvRK9yaTCNXI71R7BZvTg=', 'NONE']
+U+5481
+8
+hán
+30.5
+咁.mp3
+
+咂
+['to suck, to smack the lips', ' (Cant.) to cheat']
+['chupar, chasquear los labios', '(Cant.) Hacer trampa']
+['NONE', 'https://media.gettyimages.com/photos/the-sister-ben-uncovers-the-truth-about-natalies-whereabouts-two-picture-id465813858?k=6&m=465813858&s=612x612&w=0&h=9S0OVSQlWafTJLlN6MZ8Ej_g5zQqcKWtr8XSGhjbPSI=']
+U+5482
+8
+zā
+30.5
+咂.mp3
+
+咃
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5483
+8
+tuō
+30.5
+咃.mp3
+
+咄
+['noise of rage, cry out in anger']
+['ruido de rabia, grita de rabia']
+['https://media.gettyimages.com/photos/two-blonde-girls-screaming-at-each-other-picture-id130879894?k=6&m=130879894&s=612x612&w=0&h=lFJaBh5NmiETTR3c0Xiir11ovrRKE743S7X8Ch-Y4IM=']
+U+5484
+8
+duō
+30.5
+咄.mp3
+
+咅
+['to spit out']
+['escupir']
+['https://media.gettyimages.com/photos/angry-young-man-yelling-and-spitting-picture-id108202184?k=6&m=108202184&s=612x612&w=0&h=vcGjEl3ny5DDxZYxeeAUTKSllcWv3aYDJjrqiYfcXzk=']
+U+5485
+8
+pǒu
+30.5
+咅.mp3
+
+咆
+['roar']
+['rugido']
+['https://media.gettyimages.com/photos/closeup-of-lion-roaring-on-field-at-rhino-and-lion-nature-reserve-picture-id675607089?k=6&m=675607089&s=612x612&w=0&h=jdDCCiiBgzcLgpQdil2kYXZTCvKjW2Fh1P0S85l1xCY=']
+U+5486
+8
+páo
+30.5
+咆.mp3
+
+咇
+['fragrant', ' (Cant.) to eject']
+['fragante', '(Cant.) Para expulsar']
+['https://media.gettyimages.com/vectors/five-senses-sight-hearing-smell-touch-taste-icons-and-symbols-vector-id1059288106?k=6&m=1059288106&s=612x612&w=0&h=__amgtwzeC6IWvYUCnE_PoYlK-enx7WoTvbmLnO402E=', 'NONE']
+U+5487
+8
+bié
+30.5
+咇.mp3
+
+咈
+['oppose']
+['oponerse a']
+['https://media.gettyimages.com/vectors/dialogue-vector-id537364722?k=6&m=537364722&s=612x612&w=0&h=WSDizlyO_n7zLqOxSdK8wptufUkIu4mwbHR8Jk0nnN4=']
+U+5488
+8
+fú
+30.5
+咈.mp3
+
+咉
+['an echo, a sound to vomit, as an infant']
+['un eco, un sonido para vomitar, como un niño']
+['NONE']
+U+5489
+8
+yāng
+30.5
+咉.mp3
+
+咊
+['harmony', ' peace', ' conciliation', ' to be on good terms with', ' kindly', ' mild']
+['armonía', 'paz', 'conciliación', 'estar en buenos términos con', 'amablemente', 'leve']
+['https://media.gettyimages.com/photos/school-children-in-uniforms-standing-on-painted-venn-diagrams-picture-id1083673198?k=6&m=1083673198&s=612x612&w=0&h=KCqlaTt0a87Lvy45ONq7DhR9VoDX0P5NML09S-pqFUE=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/road-of-the-conciliation-in-rome-at-dusk-picture-id640466884?k=6&m=640466884&s=612x612&w=0&h=UvczlzjThtjsup0O36lgEQacMO6NMUZd7iNB3BPw0UI=', 'https://media.gettyimages.com/vectors/cheerful-quotes-vector-id607298720?k=6&m=607298720&s=612x612&w=0&h=VYyIk3SzGAzw1TuBw-_geZw6L3NaNoE1qei9EsH8wnE=', 'https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=', 'https://media.gettyimages.com/photos/close-up-of-two-mens-hands-holding-beer-glasses-picture-id1044350714?k=6&m=1044350714&s=612x612&w=0&h=NWxuE2X79KPzXWhcyKKPU9TNftii88xvZow06Wa-ye0=']
+U+548A
+8
+hé
+30.5
+咊.mp3
+
+咋
+['question-forming particle, why? how? what?', ' to bite', ' loud']
+['partícula formadora de preguntas, ¿por qué? ¿cómo? ¿Qué?', 'morder', 'ruidoso']
+['NONE', 'https://media.gettyimages.com/vectors/bitten-apple-icon-on-black-and-white-vector-backgrounds-vector-id811433730?k=6&m=811433730&s=612x612&w=0&h=uf5iHOTtowq8hCRMp6yxGrrvrQiCzzTwoCOJ23M4CfQ=', 'https://media.gettyimages.com/vectors/abstract-rhythmic-sound-wave-vector-id1155459225?k=6&m=1155459225&s=612x612&w=0&h=8-JdB_816NE0L3Jzvel5lQUYpBqfU-vBQSDucXdDPKU=']
+U+548B
+8
+zǎ
+30.5
+咋.mp3
+
+和
+['harmony, peace', ' peaceful, calm']
+['armonía, paz', 'pacífico, tranquilo']
+['https://media.gettyimages.com/photos/pebble-on-beach-picture-id175590369?k=6&m=175590369&s=612x612&w=0&h=oHDKHOVOo2qArKlVEmM_7Q1vYmVBgKRJv8atQX_I2Dk=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+548C
+8
+hé
+30.5
+和.mp3
+
+咍
+['laugh']
+['risa']
+['https://media.gettyimages.com/photos/woman-laughing-during-comedy-movie-picture-id1146818334?k=6&m=1146818334&s=612x612&w=0&h=7uVZkVVCtl8CryHROTPWdSEbZNP4gFXmLSmYXhX6FKs=']
+U+548D
+8
+hāi
+30.5
+咍.mp3
+
+咎
+['fault, defect', ' error, mistake']
+['culpa, defecto', 'error, error']
+['https://media.gettyimages.com/photos/thats-it-im-done-picture-id936117884?k=6&m=936117884&s=612x612&w=0&h=x4-h_dLBBva37ZzpDtuYv5wIhUZ1UvrBeXlqiIs7Kuo=', 'https://media.gettyimages.com/vectors/check-box-line-icons-set-vector-id971623978?k=6&m=971623978&s=612x612&w=0&h=Pmiv6l4aCH5omYMOlS6OyatP51LMhhAEAKSbAMJ9FVc=']
+U+548E
+8
+jiù
+30.5
+咎.mp3
+
+咏
+['sing song or poem, hum, chant']
+['canta una canción o un poema, tararea, canta']
+['NONE']
+U+548F
+8
+yǒng
+30.5
+咏.mp3
+
+咐
+['instruct, order']
+['instruir, ordenar']
+['https://media.gettyimages.com/vectors/customer-relationship-management-icons-line-series-vector-id1056787542?k=6&m=1056787542&s=612x612&w=0&h=cPf3xB2H-YPUDjHdFOqGtA9_ZdKfRATFZr4Wd80tekU=']
+U+5490
+8
+fù
+30.5
+咐.mp3
+
+咑
+['(Cant.) ']
+['(Hipocresía.)']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+5491
+8
+dā
+30.5
+咑.mp3
+
+咒
+['curse, damn, incantation']
+['maldición, maldición, encantamiento']
+['NONE']
+U+5492
+8
+zhòu
+30.5
+咒.mp3
+
+咓
+['(Cant.) final particle']
+['(Cant.) Partícula final']
+['NONE']
+U+5493
+7
+wǎ
+30.5
+咓.mp3
+
+咔
+['used in translation']
+['utilizado en la traducción']
+['https://media.gettyimages.com/photos/writing-picture-id174896262?k=6&m=174896262&s=612x612&w=0&h=WrH09tMlaKPVA5jeOI3Xkz0t69mwSZWa3eMQ_6JcWqw=']
+U+5494
+8
+kā
+30.5
+咔.mp3
+
+咕
+['mumble, mutter, murmur', ' rumble']
+['murmurar, madre, murmurar', 'retumbar']
+['NONE', 'https://media.gettyimages.com/illustrations/jungle-rumble-illustration-id165529682?k=6&m=165529682&s=612x612&w=0&h=MAurDIv_XE86jjje5GftRXX6SclCtJ7aAvt2ebKRybw=']
+U+5495
+8
+gū
+30.5
+咕.mp3
+
+咖
+['coffee', ' a phonetic']
+['café', 'una fonética']
+['https://media.gettyimages.com/vectors/set-of-coffee-and-coffee-cup-icons-vector-vector-id1045444176?k=6&m=1045444176&s=612x612&w=0&h=j-MJK6GKVB2c2LdwB0SHfICnleZBjCMiOV5DcjZmzeU=', 'https://media.gettyimages.com/vectors/vrooom-comic-text-drawing-vector-id499463223?k=6&m=499463223&s=612x612&w=0&h=byvhiIxWxlFTRPYXZmtpVsk96RIq7dmCLV6Tza5ZT_I=']
+U+5496
+8
+kā
+30.5
+咖.mp3
+
+咗
+['(Cant.) verbal particle of perfective aspect']
+['(Cant.) Partícula verbal de aspecto perfectivo']
+['NONE']
+U+5497
+8
+zuo
+30.5
+咗.mp3
+
+咘
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5498
+8
+bù
+30.5
+咘.mp3
+
+咙
+['throat']
+['garganta']
+['https://media.gettyimages.com/photos/female-doctor-doing-throat-examination-on-older-man-picture-id955808530?k=6&m=955808530&s=612x612&w=0&h=A75x9R6e1gzR9kGnY4Qa5GAPTWTLQQLHsvGtYpyjjOM=']
+U+5499
+8
+lóng
+30.5
+咙.mp3
+
+咚
+['onomatopoetic, a thumping sound']
+['onomatopéyico, un golpeteo']
+['NONE']
+U+549A
+8
+dōng
+30.5
+咚.mp3
+
+咛
+['enjoin, instruct', ' charge']
+['ordenar, instruir', 'cargar']
+['NONE', 'https://media.gettyimages.com/vectors/return-on-investment-icons-line-series-vector-id1056787734?k=6&m=1056787734&s=612x612&w=0&h=NWFg3x67Z4AbQiK7PH62-xNTwxmH0Gh96fDos98RcgM=']
+U+549B
+8
+níng
+30.5
+咛.mp3
+
+咜
+['to scold']
+['regañar']
+['https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=']
+U+549C
+8
+ta
+30.5
+咜.mp3
+
+咝
+['hiss', ' call to come', ' syllable']
+['sensación', 'llamar para venir', 'sílaba']
+['https://media.gettyimages.com/photos/portrait-of-cat-hissing-picture-id107072653?k=6&m=107072653&s=612x612&w=0&h=v_gPZNVQ1kfb8RuDMqigFy-Vdl4rcREajcmPhEXr6f0=', 'https://media.gettyimages.com/photos/man-taking-photos-of-burger-with-smartphone-picture-id1034325808?k=6&m=1034325808&s=612x612&w=0&h=Ws35t5Byfu1PC1wjUzEhao_wCn_4WnFNJpnt7VqR1Jw=', 'https://media.gettyimages.com/vectors/mani-mantra-writing-vector-id508297679?k=6&m=508297679&s=612x612&w=0&h=0_V7KeEvPkiK-9RP1x0xJ32KD8dyLxKCjazRAy33hXs=']
+U+549D
+8
+sī
+30.5
+咝.mp3
+
+咞
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+549E
+7
+xiàn
+30.6
+咞.mp3
+
+咟
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+549F
+9
+huò
+30.6
+咟.mp3
+
+咠
+['to whisper. to blame to slander']
+['susurrar. culpar a la calumnia']
+['NONE']
+U+54A0
+9
+qì
+30.6
+咠.mp3
+
+咡
+['side of mouth']
+['lado de la boca']
+['https://media.gettyimages.com/photos/screaming-man-picture-id157691997?k=6&m=157691997&s=612x612&w=0&h=FmU8TMFOsv-NCt9M-vMFzorrciX7Jbs2jBiMzPtIEwk=']
+U+54A1
+9
+èr
+30.6
+咡.mp3
+
+咢
+['sound', ' drumming']
+['sonido', 'tamborileo']
+['https://media.gettyimages.com/vectors/music-line-icons-vector-id1036141234?k=6&m=1036141234&s=612x612&w=0&h=MuUAEqb1ijrhqo8MGt7LqHYiX8CuOhh6hD4oCRuTekQ=', 'https://media.gettyimages.com/photos/silver-chrome-snare-drum-with-sticks-instrument-on-white-background-picture-id186875718?k=6&m=186875718&s=612x612&w=0&h=09veVPeYWXQZjlEUA3EWqFQSvbKaFzWoY-CKaeY8AIM=']
+U+54A2
+9
+è
+30.6
+咢.mp3
+
+咣
+['the sound of large door closing']
+['el sonido de una gran puerta cerrándose']
+['NONE']
+U+54A3
+9
+guāng
+30.6
+咣.mp3
+
+咤
+['scold, bellow, shout at, roar']
+['regañar, bramir, gritar, rugir']
+['NONE']
+U+54A4
+9
+zhà
+30.6
+咤.mp3
+
+咥
+['sound of a cat', ' bite', ' laugh']
+['sonido de un gato', 'mordedura', 'risa']
+['https://media.gettyimages.com/photos/tiger-snarling-picture-id518282713?k=6&m=518282713&s=612x612&w=0&h=M6iNwxPjpppJyVZAbPyDY0SVneV4igGvmBe07ILUUnA=', 'https://media.gettyimages.com/vectors/bitten-apple-icon-on-black-and-white-vector-backgrounds-vector-id811433730?k=6&m=811433730&s=612x612&w=0&h=uf5iHOTtowq8hCRMp6yxGrrvrQiCzzTwoCOJ23M4CfQ=', 'https://media.gettyimages.com/photos/woman-laughing-during-comedy-movie-picture-id1146818334?k=6&m=1146818334&s=612x612&w=0&h=7uVZkVVCtl8CryHROTPWdSEbZNP4gFXmLSmYXhX6FKs=']
+U+54A5
+9
+xì
+30.6
+咥.mp3
+
+咦
+['exclamation of surprise']
+['exclamación de sorpresa']
+['https://media.gettyimages.com/vectors/wow-vector-halftone-comic-book-vector-id1163188786?k=6&m=1163188786&s=612x612&w=0&h=WK6OL4patDDijZNIK2bmNDVhw5e02ftzd1BXt8njeIg=']
+U+54A6
+9
+yí
+30.6
+咦.mp3
+
+咧
+['stretch mouth, grimace, grin']
+['estirar la boca, hacer muecas, sonreír']
+['https://media.gettyimages.com/photos/man-with-beard-picture-id171149567?k=6&m=171149567&s=612x612&w=0&h=B1rS3sx4exIfXGD-RGJ8sp6E2890eoTife7zo2eEMPQ=']
+U+54A7
+9
+liě
+30.6
+咧.mp3
+
+咨
+['inquire, consult, discuss', ' plan']
+['preguntar, consultar, discutir', 'plan']
+['https://media.gettyimages.com/photos/business-meeting-picture-id1035834404?k=6&m=1035834404&s=612x612&w=0&h=_vcp0W8nzxsN7WVAeOxJ6bUn1wbOrEPchisceHB7K5E=', 'https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=']
+U+54A8
+9
+zī
+30.6
+咨.mp3
+
+咩
+['the bleating of sheep', ' (Cant.) an interrogative particle']
+['el balido de las ovejas', '(Can.) Una partícula interrogativa']
+['https://media.gettyimages.com/vectors/black-sheep-of-the-family-vector-vector-id481812429?k=6&m=481812429&s=612x612&w=0&h=6pk4ibAGmgXjvWZQhM3kXxuoSsFUEpWl6U_LH-bOfKw=', 'NONE']
+U+54A9
+9
+miē
+30.6
+咩.mp3
+
+咪
+["sound of cat, cat's meow", ' meter', " (Cant.) don't!"]
+['sonido de gato, maullido de gato', 'metro', '(Cant.) ¡No lo hagas!']
+['https://media.gettyimages.com/photos/rescue-animal-portrait-of-domestic-longhair-cat-picture-id1124265594?k=6&m=1124265594&s=612x612&w=0&h=EEqUB5G0iFuGz_5jBbpRbZE-i_SMBHqpxiJ1ikL3t4E=', 'https://media.gettyimages.com/vectors/vintage-arcade-game-screen-vector-id951756750?k=6&m=951756750&s=612x612&w=0&h=gE98TW7TnpowwZqVwCySjc3Cwn3SRKmQt-EglEbGwP8=', 'https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+54AA
+9
+mī
+30.6
+咪.mp3
+
+咫
+['foot measure of Zhou dynasty']
+['medida del pie de la dinastía Zhou']
+['NONE']
+U+54AB
+9
+zhǐ
+30.6
+咫.mp3
+
+咬
+['bite, gnaw']
+['morder, roer']
+['https://media.gettyimages.com/photos/yellow-pencil-with-chewed-up-handle-over-a-white-background-picture-id184916288?k=6&m=184916288&s=612x612&w=0&h=e0smgyRdO8WMJ_90OX-5GLT59IprumVR-ygO9omGFmo=']
+U+54AC
+9
+yǎo
+30.6
+咬.mp3
+
+咭
+["(Cant.) to guard (from Engl. 'guard')", " a card (from Engl. 'card')", " young and pretty (from Engl. 'kid')"]
+["(Cant.) To guard (de Engl. 'Guard')", "una tarjeta (del inglés 'tarjeta')", "joven y bonita (del inglés 'niño')"]
+['NONE', 'NONE', 'NONE']
+U+54AD
+9
+jī
+30.6
+咭.mp3
+
+咮
+['a beak', ' to peck']
+['un pico', 'picotear']
+['https://media.gettyimages.com/vectors/european-union-blank-diploma-or-certificate-vector-id165501495?k=6&m=165501495&s=612x612&w=0&h=VKnZ_WOttaypEAK8wiH1WkPcZV9z4FXJ8cMSeIcpKa0=', 'https://media.gettyimages.com/photos/he-gives-the-best-kisses-picture-id844085290?k=6&m=844085290&s=612x612&w=0&h=AKpsh-NgGAJMejv32TtQhN-W4SPsEevemSmnK1npxoM=']
+U+54AE
+9
+zhòu
+30.6
+咮.mp3
+
+咯
+['final particle']
+['partícula final']
+['https://media.gettyimages.com/photos/abstract-big-bang-conceptual-image-picture-id898633500?k=6&m=898633500&s=612x612&w=0&h=djC1FepwNWSPf7l3CRc88zs8kP3zQwSJCjcVQEAvap4=']
+U+54AF
+9
+gē
+30.6
+咯.mp3
+
+咰
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54B0
+9
+shù
+30.6
+咰.mp3
+
+咱
+['we, us']
+['Nosotros']
+['https://media.gettyimages.com/vectors/-vector-id915786730?k=6&m=915786730&s=612x612&w=0&h=X-fyuHdqng5gFIbA_8lt2IuFN17xk91Yc3J62bcI_00=']
+U+54B1
+9
+zán
+30.6
+咱.mp3
+
+咲
+['smile, laugh, giggle', ' snicker']
+['sonreír, reír, reír', 'risa disimulada']
+['https://media.gettyimages.com/photos/nothing-inspires-happiness-like-love-picture-id1094338222?k=6&m=1094338222&s=612x612&w=0&h=Aa85rto1n0SamxoW1g2GQ9ctcdrKpGNNlbAwpt3muZg=', 'https://media.gettyimages.com/photos/suzy-snickers-picture-id973925814?k=6&m=973925814&s=612x612&w=0&h=jkpSwv3BLvhSzO6q9IRlkrkShwpQjchx4IFjmvXLeJA=']
+U+54B2
+9
+xiào
+30.6
+咲.mp3
+
+咳
+['cough']
+['tos']
+['https://media.gettyimages.com/photos/ll-have-to-get-something-for-this-cough-picture-id1166803617?k=6&m=1166803617&s=612x612&w=0&h=ferGFSE4DHj1RGhcqcy1QM-ieEn4SjhFsxinsUxGYuE=']
+U+54B3
+9
+hāi
+30.6
+咳.mp3
+
+咴
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54B4
+9
+huī
+30.6
+咴.mp3
+
+咵
+['to revile']
+['injuriar']
+['https://media.gettyimages.com/photos/woman-screaming-in-megaphone-on-blackboard-picture-id517151368?k=6&m=517151368&s=612x612&w=0&h=HrRZAVnKhv7Y7tAU9UANvcYO9AyA8oiQHXfjuDF63fQ=']
+U+54B5
+9
+kuǎ
+30.6
+咵.mp3
+
+咶
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54B6
+9
+huài
+30.6
+咶.mp3
+
+咷
+['howl, cry loudly']
+['aullar, llorar fuerte']
+['NONE']
+U+54B7
+9
+táo
+30.6
+咷.mp3
+
+咸
+['together', ' all, completely', ' united']
+['juntos', 'todo, completamente', 'unido']
+['https://media.gettyimages.com/vectors/merge-arrows-infographic-vector-id1096774350?k=6&m=1096774350&s=612x612&w=0&h=SEvrlj6owHhIW0Mde_4AKfDi6p01-tWg34xVLvBmJgY=', 'https://media.gettyimages.com/photos/frosty-patterns-on-a-completely-covered-car-windscreen-picture-id969384808?k=6&m=969384808&s=612x612&w=0&h=9C2aWnM_1-TSy3RJ9HhBn2El98ckGFS2Jw8u-hviuOs=', 'https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=']
+U+54B8
+9
+xián
+30.6
+咸.mp3
+
+咹
+['(Cant.) sound of an automobile horn']
+['(Cant.) Sonido de la bocina de un automóvil']
+['NONE']
+U+54B9
+9
+è
+30.6
+咹.mp3
+
+咺
+['majestic']
+['majestuoso']
+['https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=']
+U+54BA
+9
+xuǎn
+30.6
+咺.mp3
+
+咻
+['shout']
+['gritar']
+['https://media.gettyimages.com/photos/shes-reached-the-end-of-her-rope-picture-id487960859?k=6&m=487960859&s=612x612&w=0&h=-hB-SDo-_EZd9RVH-Ce0hoFScYFLZtvcCqg0sU84dEU=']
+U+54BB
+9
+xiū
+30.6
+咻.mp3
+
+咼
+['chat, jaw, gossip, talk', ' mouth']
+['charlar, mandíbula, chisme, hablar', 'boca']
+['NONE', 'https://media.gettyimages.com/photos/lips-eyes-comp-montage-picture-id815059920?k=6&m=815059920&s=612x612&w=0&h=tAOhZBvwlhfk4W5-Dn4DrcvfZXV12tXYIvPwe1aQIF0=']
+U+54BC
+8
+guō
+30.6
+咼.mp3
+
+咽
+['throat', ' pharynx']
+['garganta', 'faringe']
+['https://media.gettyimages.com/photos/female-doctor-doing-throat-examination-on-older-man-picture-id955808530?k=6&m=955808530&s=612x612&w=0&h=A75x9R6e1gzR9kGnY4Qa5GAPTWTLQQLHsvGtYpyjjOM=', 'https://media.gettyimages.com/vectors/respiratory-system-vector-id1178014785?k=6&m=1178014785&s=612x612&w=0&h=iI_MSfYdBiKV1WduFRV7P1LPSRGfu-PFxgBGhIbHJPg=']
+U+54BD
+9
+yàn
+30.6
+咽.mp3
+
+咾
+['a noise', ' a sound']
+['un ruido', 'un sonido']
+['https://media.gettyimages.com/vectors/abstract-rhythmic-sound-wave-vector-id1155459225?k=6&m=1155459225&s=612x612&w=0&h=8-JdB_816NE0L3Jzvel5lQUYpBqfU-vBQSDucXdDPKU=', 'https://media.gettyimages.com/vectors/music-line-icons-vector-id1036141234?k=6&m=1036141234&s=612x612&w=0&h=MuUAEqb1ijrhqo8MGt7LqHYiX8CuOhh6hD4oCRuTekQ=']
+U+54BE
+9
+lǎo
+30.6
+咾.mp3
+
+咿
+['descriptive of creaking', ' laugh']
+['descriptivo de crujir', 'risa']
+['https://media.gettyimages.com/vectors/mummy-theres-a-monster-in-my-cupboard-vector-id96419929?k=6&m=96419929&s=612x612&w=0&h=XgzP57cDfaCKeewLadXn1K-CwJBwrAans3QWttC4j8E=', 'https://media.gettyimages.com/photos/woman-laughing-during-comedy-movie-picture-id1146818334?k=6&m=1146818334&s=612x612&w=0&h=7uVZkVVCtl8CryHROTPWdSEbZNP4gFXmLSmYXhX6FKs=']
+U+54BF
+9
+yī
+30.6
+咿.mp3
+
+哀
+['sad, mournful, pitiful', ' pity']
+['triste, triste, lamentable', 'lástima']
+['https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=', 'https://media.gettyimages.com/photos/asian-man-with-head-on-table-picture-id81715714?k=6&m=81715714&s=612x612&w=0&h=uF2rXPSURtbc9w1RxoOPeb-Lw4terzTwnaqTygKNZAg=']
+U+54C0
+9
+āi
+30.6
+哀.mp3
+
+品
+['article, product, commodity']
+['artículo, producto, mercancía']
+['https://media.gettyimages.com/photos/ceramic-products-on-display-shelf-at-pottery-studio-picture-id1216184725?k=6&m=1216184725&s=612x612&w=0&h=MQdsiAX-JjB3a2GH7WP6T59__q4CNHzBklfcsIKuhk0=']
+U+54C1
+9
+pǐn
+30.6
+品.mp3
+
+哂
+['smile, laugh at, sneer at', ' (Cant.) a final particle indicating doing something to the full extent possible']
+['sonreír, reírse de, burlarse de', '(Cant.) Una partícula final que indica hacer algo en la mayor medida posible']
+['https://media.gettyimages.com/photos/young-curly-haired-woman-looking-off-camera-with-a-cheeky-big-smile-picture-id905622612?k=6&m=905622612&s=612x612&w=0&h=sJW6eJbu_T7LosCx97bZpbZ870CflatVPqOBRa8_Wnk=', 'NONE']
+U+54C2
+9
+shěn
+30.6
+哂.mp3
+
+哃
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54C3
+9
+tóng
+30.6
+哃.mp3
+
+哄
+['coax', ' beguile, cheat, deceive']
+['engatusar', 'engañar, engañar, engañar']
+['https://media.gettyimages.com/vectors/cable-icon-flat-graphic-design-vector-id487561844?k=6&m=487561844&s=612x612&w=0&h=JfT968jVCX4iQmnlosVlXFWmD6WaWlBaN17bdNw9FIk=', 'NONE']
+U+54C4
+9
+hōng
+30.6
+哄.mp3
+
+哅
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54C5
+9
+xiōng
+30.6
+哅.mp3
+
+哆
+['tremble, shiver, shudder, quiver']
+['temblar, estremecer, estremecer, estremecerse']
+['NONE']
+U+54C6
+9
+duō
+30.6
+哆.mp3
+
+哇
+['vomit', ' cry of an infant']
+['vómito', 'llanto de un infante']
+['https://media.gettyimages.com/photos/glass-of-dissolving-medicine-with-vomiting-man-in-background-picture-id171631861?k=6&m=171631861&s=612x612&w=0&h=8CybVqfHxRZTqv8t-qiRFNus4QJbKPf3S3M4ZNqSoxw=', 'https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=']
+U+54C7
+9
+wa
+30.6
+哇.mp3
+
+哈
+['sound of laughter']
+['sonido de la risa']
+['https://media.gettyimages.com/photos/partying-like-rockstars-picture-id505657693?k=6&m=505657693&s=612x612&w=0&h=L0WSNfINASqH8i_rljLoQS8yGe7FozfBvR-pbCeU5i4=']
+U+54C8
+9
+hā
+30.6
+哈.mp3
+
+哉
+['final exclamatory particle']
+['partícula exclamatoria final']
+['NONE']
+U+54C9
+9
+zāi
+30.6
+哉.mp3
+
+哊
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54CA
+9
+yòu
+30.6
+哊.mp3
+
+哋
+['(Cant.) plural', ' adverb']
+['(Cant.) Plural', 'adverbio']
+['NONE', 'https://media.gettyimages.com/photos/teacher-using-multiplication-flash-cards-in-classroom-picture-id685006869?k=6&m=685006869&s=612x612&w=0&h=36tbHwsybPHjCgCBLjLf2rVgkQ3M6NXcCgI3L2bz16k=']
+U+54CB
+9
+diè
+30.6
+哋.mp3
+
+哌
+['used in translation']
+['utilizado en la traducción']
+['https://media.gettyimages.com/photos/writing-picture-id174896262?k=6&m=174896262&s=612x612&w=0&h=WrH09tMlaKPVA5jeOI3Xkz0t69mwSZWa3eMQ_6JcWqw=']
+U+54CC
+9
+pài
+30.6
+哌.mp3
+
+响
+['make sound, make noise', ' sound']
+['hacer sonido, hacer ruido', 'sonido']
+['https://media.gettyimages.com/vectors/making-music-vector-id516195129?k=6&m=516195129&s=612x612&w=0&h=k68jtlbwiwRro8vHnZLvD0Cf_mrpGBM1WAZvNyWfLHM=', 'https://media.gettyimages.com/vectors/music-line-icons-vector-id1036141234?k=6&m=1036141234&s=612x612&w=0&h=MuUAEqb1ijrhqo8MGt7LqHYiX8CuOhh6hD4oCRuTekQ=']
+U+54CD
+9
+xiǎng
+30.6
+响.mp3
+
+哎
+['interjection of surprise']
+['interjección de sorpresa']
+['https://media.gettyimages.com/vectors/wow-vector-halftone-comic-book-vector-id1163188786?k=6&m=1163188786&s=612x612&w=0&h=WK6OL4patDDijZNIK2bmNDVhw5e02ftzd1BXt8njeIg=']
+U+54CE
+8
+āi
+30.6
+哎.mp3
+
+哏
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54CF
+9
+gén
+30.6
+哏.mp3
+
+哐
+['syllable']
+['sílaba']
+['https://media.gettyimages.com/vectors/mani-mantra-writing-vector-id508297679?k=6&m=508297679&s=612x612&w=0&h=0_V7KeEvPkiK-9RP1x0xJ32KD8dyLxKCjazRAy33hXs=']
+U+54D0
+9
+kuāng
+30.6
+哐.mp3
+
+哑
+['dumb, mute', ' become hoarse']
+['mudo, mudo', 'ponerse ronco']
+['https://media.gettyimages.com/photos/woman-showing-different-gesture-on-white-background-picture-id147053279?k=6&m=147053279&s=612x612&w=0&h=1sjFQwCdBhC1csuMvzULTYISp3lGvU2tHUblfuQhDqw=', 'https://media.gettyimages.com/photos/young-pine-tree-pinus-sylvetris-pinaceae-growing-in-a-flooded-area-is-picture-id130881216?k=6&m=130881216&s=612x612&w=0&h=itnEWk5e9pRNf17tGDwZkGp2208NNZ4v6vBhmOvHG9w=']
+U+54D1
+9
+yǎ
+30.6
+哑.mp3
+
+哒
+['a sound made to get a horse to move forward']
+['un sonido hecho para que un caballo avance']
+['NONE']
+U+54D2
+9
+dá
+30.6
+哒.mp3
+
+哓
+['garrulous', ' disturbed', ' restless']
+['gárrulo', 'perturbado', 'inquieto']
+['https://media.gettyimages.com/illustrations/garrulous-roller-illustration-id500159036?k=6&m=500159036&s=612x612&w=0&h=r6Bm1MoteN3j0fc-Np5Z17jni0GSkCRnGLVlJ8wBf1o=', 'https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=', 'https://media.gettyimages.com/photos/man-sitting-on-bed-unable-to-sleep-picture-id103058113?k=6&m=103058113&s=612x612&w=0&h=SUiAKqjG2y2b6UkqSHBmSUtUKtq1ua6FpeRPwjkl7Ts=']
+U+54D3
+9
+xiāo
+30.6
+哓.mp3
+
+哔
+['used in transliterations']
+['utilizado en transliteraciones']
+['NONE']
+U+54D4
+9
+bì
+30.6
+哔.mp3
+
+哕
+['belch', ' vomit']
+['eructo', 'vómito']
+['https://media.gettyimages.com/photos/baby-burp-picture-id157642722?k=6&m=157642722&s=612x612&w=0&h=beTSG47ouaXTWBrv2djJXGjVtuc_nnUC4PohNQn2eyI=', 'https://media.gettyimages.com/photos/glass-of-dissolving-medicine-with-vomiting-man-in-background-picture-id171631861?k=6&m=171631861&s=612x612&w=0&h=8CybVqfHxRZTqv8t-qiRFNus4QJbKPf3S3M4ZNqSoxw=']
+U+54D5
+9
+huì
+30.6
+哕.mp3
+
+哖
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54D6
+9
+nián
+30.6
+哖.mp3
+
+哗
+['rushing sound', ' gush forward']
+['sonido apresurado', 'brotar hacia adelante']
+['https://media.gettyimages.com/vectors/burst-explosion-background-vector-id1098009676?k=6&m=1098009676&s=612x612&w=0&h=wpHyWMPCilWw7EpFOTcEVDWwih-H0gvppF5fKYjZ6h4=', 'https://media.gettyimages.com/photos/empty-road-leading-towards-double-rainbow-against-sky-picture-id584193503?k=6&m=584193503&s=612x612&w=0&h=Rzo5rpKPMCrsWNbtvltw2KtW_irowEkvbkpitK-pYpU=']
+U+54D7
+9
+huā
+30.6
+哗.mp3
+
+哘
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54D8
+9
+xing
+30.6
+哘.mp3
+
+哙
+['swallow, gulp down', ' greedy']
+['tragar, tragar', 'codicioso']
+['https://media.gettyimages.com/photos/businessman-outdoors-spilling-cup-of-coffee-on-pavement-side-view-picture-id200220134-001?k=6&m=200220134-001&s=612x612&w=0&h=mAdxYjV8LH7jf483nmr_oaR5K7eLs08W7QnOBIVtW98=', 'https://media.gettyimages.com/photos/woman-eating-in-front-of-the-refrigerator-in-the-kitchen-late-night-picture-id966461220?k=6&m=966461220&s=612x612&w=0&h=kJasIpEkD2Nw50ZFBxlt2Khf8VdlNwunJ5UkYCuZotg=']
+U+54D9
+9
+kuài
+30.6
+哙.mp3
+
+哚
+['chemical element', ' (Cant.) backing, support of someone powerful', ' a little']
+['elemento químico', '(Cant.) Respaldo, apoyo de alguien poderoso', 'un poco']
+['https://media.gettyimages.com/photos/periodic-table-picture-id90337992?k=6&m=90337992&s=612x612&w=0&h=55QwKe9-cYk0nospibWF2YtsknCnvjj4vrhOC4MFlhs=', 'NONE', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=']
+U+54DA
+9
+duǒ
+30.6
+哚.mp3
+
+哛
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54DB
+9
+fēn
+30.6
+哛.mp3
+
+哜
+['sip']
+['sorbo']
+['https://media.gettyimages.com/photos/the-suns-up-and-so-is-my-mood-picture-id911999972?k=6&m=911999972&s=612x612&w=0&h=dimamyIp4K_FgUZGEdHI3ZmGptgJPtm0vzfbxIQ7vM4=']
+U+54DC
+9
+jì
+30.6
+哜.mp3
+
+哝
+['whisper']
+['susurro']
+['https://media.gettyimages.com/photos/come-closer-what-do-you-think-about-this-candidate-picture-id942149588?k=6&m=942149588&s=612x612&w=0&h=pamGW1lLTeM01Aq1H5f8ICCt2ztbEPM8pyNKN1TpGys=']
+U+54DD
+9
+nóng
+30.6
+哝.mp3
+
+哞
+['moo']
+['mugir']
+['https://media.gettyimages.com/photos/closeup-of-khrong-moo-yang-on-a-green-plate-picture-id157564989?k=6&m=157564989&s=612x612&w=0&h=ZF5qxj977X2ddbkkx-CcBicGZUdi203Lo05oLIXPcJQ=']
+U+54DE
+9
+mōu
+30.6
+哞.mp3
+
+哟
+['ah, final particle']
+['ah, final particle']
+['NONE']
+U+54DF
+9
+yō
+30.6
+哟.mp3
+
+哠
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54E0
+10
+hào
+30.7
+哠.mp3
+
+員
+['member', ' personnel, staff member']
+['miembro', 'personal, miembro del personal']
+['https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=', 'https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=']
+U+54E1
+10
+yuán
+30.7
+員.mp3
+
+哢
+['syllable']
+['sílaba']
+['https://media.gettyimages.com/vectors/mani-mantra-writing-vector-id508297679?k=6&m=508297679&s=612x612&w=0&h=0_V7KeEvPkiK-9RP1x0xJ32KD8dyLxKCjazRAy33hXs=']
+U+54E2
+10
+lòng
+30.7
+哢.mp3
+
+哣
+['(Cant.) sick, unwell']
+['(Cant.) Enfermo, indispuesto']
+['https://media.gettyimages.com/photos/my-brain-just-cant-function-anymore-picture-id1060850894?k=6&m=1060850894&s=612x612&w=0&h=UGbuGDz9he-FXq46SqYi6nKkpY3XpROu44WqvEsLbqA=']
+U+54E3
+10
+pǒu
+30.7
+哣.mp3
+
+哤
+['jargon']
+['jerga']
+['https://media.gettyimages.com/vectors/text-messaging-smartphone-realistic-vector-illustration-vector-id1143196899?k=6&m=1143196899&s=612x612&w=0&h=hYspIIFv45hdBk00qin81tiKTWmTdaf6-NyYjdZktWQ=']
+U+54E4
+10
+máng
+30.7
+哤.mp3
+
+哥
+['elder brother']
+['hermano mayor']
+['https://media.gettyimages.com/photos/happy-family-picture-id528552990?k=6&m=528552990&s=612x612&w=0&h=k8uJhhIzDoMR8XbTd6Tc3lydRaZ5n84eea-88JNAu3M=']
+U+54E5
+10
+gē
+30.7
+哥.mp3
+
+哦
+['oh? really? is that so?']
+['¿Oh? ¿De Verdad? ¿Es eso así?']
+['NONE']
+U+54E6
+10
+ó
+30.7
+哦.mp3
+
+哧
+['sound of ripping or giggling']
+['sonido de rasgaduras o risitas']
+['https://media.gettyimages.com/vectors/grunge-edges-vector-id1047518742?k=6&m=1047518742&s=612x612&w=0&h=_JCf5oywmUlCVLDPn0YQojk8WDkvOTURS13WwTCnfxI=']
+U+54E7
+10
+chī
+30.7
+哧.mp3
+
+哨
+['whistle, blow whistle', ' chirp']
+['silbato, silbato', 'chirrido']
+['https://media.gettyimages.com/vectors/whistleblower-vector-id1155236265?k=6&m=1155236265&s=612x612&w=0&h=PjMxMNOepNYAR2PTVkNQh3BiCUFxlFMtq9Vrb10xgHg=', 'https://media.gettyimages.com/photos/spring-sing-picture-id157477304?k=6&m=157477304&s=612x612&w=0&h=AFf_OU1_ONgrzjx9eAaKGjEYIQoI1aKdU84VotQiyF0=']
+U+54E8
+10
+shào
+30.7
+哨.mp3
+
+哩
+['mile']
+['milla']
+['https://media.gettyimages.com/photos/one-mile-marker-picture-id182873234?k=6&m=182873234&s=612x612&w=0&h=6X__mh5_C5x5QdXkunmw8asypDrLEe0OhsJ_-zLY3y0=']
+U+54E9
+10
+lī
+30.7
+哩.mp3
+
+哪
+['which? where? how?']
+['¿cuales? ¿dónde? ¿cómo?']
+['NONE']
+U+54EA
+9
+nǎ
+30.7
+哪.mp3
+
+哫
+['to cajole']
+['engatusar']
+['https://media.gettyimages.com/photos/tusker-in-musth-trying-to-cajole-a-female-picture-id1129962901?k=6&m=1129962901&s=612x612&w=0&h=dC5ijo5EIcsGM2RdfcwxuyWy0WV5lutONXbXxt6eL-I=']
+U+54EB
+10
+zú
+30.7
+哫.mp3
+
+哬
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54EC
+10
+hé
+30.7
+哬.mp3
+
+哭
+['weep, cry, wail']
+['llorar, llorar, gemir']
+['https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=']
+U+54ED
+10
+kū
+30.7
+哭.mp3
+
+哮
+['cough', ' pant', ' roar']
+['tos', 'pantalón', 'rugido']
+['https://media.gettyimages.com/photos/ll-have-to-get-something-for-this-cough-picture-id1166803617?k=6&m=1166803617&s=612x612&w=0&h=ferGFSE4DHj1RGhcqcy1QM-ieEn4SjhFsxinsUxGYuE=', 'https://media.gettyimages.com/photos/mens-clothing-isolated-on-white-background-picture-id895403704?k=6&m=895403704&s=612x612&w=0&h=NmT4fMUTQaHesiykjZ2t1ZWXHQTtJczmKzyIEs_FJPY=', 'https://media.gettyimages.com/photos/closeup-of-lion-roaring-on-field-at-rhino-and-lion-nature-reserve-picture-id675607089?k=6&m=675607089&s=612x612&w=0&h=jdDCCiiBgzcLgpQdil2kYXZTCvKjW2Fh1P0S85l1xCY=']
+U+54EE
+10
+xiāo
+30.7
+哮.mp3
+
+哯
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54EF
+10
+xiàn
+30.7
+哯.mp3
+
+哰
+['incoherent chatter']
+['charla incoherente']
+['NONE']
+U+54F0
+10
+láo
+30.7
+哰.mp3
+
+哱
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54F1
+10
+bō
+30.7
+哱.mp3
+
+哲
+['wise, sagacious', ' wise man, sage']
+['sabio, sagaz', 'sabio, sabio']
+['https://media.gettyimages.com/illustrations/the-sagacious-blue-tits-victorian-illustration-illustration-id471216629?k=6&m=471216629&s=612x612&w=0&h=YngxScwglJ5dGX1dcHmsyJoAcYRTQGbWkdDAsp9jPJs=', 'https://media.gettyimages.com/illustrations/jacob-goes-into-egypt-illustration-id172668317?k=6&m=172668317&s=612x612&w=0&h=APH-vUwGuk4gdAK8Rydg3R_exkLuYEz1ABlvmbpAGIo=']
+U+54F2
+10
+zhé
+30.7
+哲.mp3
+
+哳
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54F3
+10
+zhā
+30.7
+哳.mp3
+
+哴
+['crying of infants']
+['llanto de bebés']
+['https://media.gettyimages.com/photos/newborn-baby-girl-crying-picture-id923027750?k=6&m=923027750&s=612x612&w=0&h=yYjRDICVmXJQ0Tb59fmZwFT-jBKO-jxB_gvXOi1219U=']
+U+54F4
+10
+liàng
+30.7
+哴.mp3
+
+哵
+['the cry of a bird']
+['el grito de un pájaro']
+['https://media.gettyimages.com/vectors/silhouette-of-bird-and-face-vector-id1003207386?k=6&m=1003207386&s=612x612&w=0&h=xZVox_XvSpsPN5qS2eV6WdeHgXnA-gOl1-Ub4pnjSn8=']
+U+54F5
+10
+bā
+30.7
+哵.mp3
+
+哶
+['bleat']
+['balido']
+['https://media.gettyimages.com/photos/bleating-sheep-picture-id672429954?k=6&m=672429954&s=612x612&w=0&h=qg-X1cfY4GpfIjV4pgi6PeIJepJPb1h-p1DkyyCC0Ao=']
+U+54F6
+10
+miē
+30.7
+哶.mp3
+
+哷
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54F7
+10
+liè
+30.7
+哷.mp3
+
+哸
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54F8
+10
+suī
+30.7
+哸.mp3
+
+哹
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54F9
+10
+fú
+30.7
+哹.mp3
+
+哺
+['chew food', ' feed']
+['masticar comida', 'alimentar']
+['https://media.gettyimages.com/photos/this-is-delicious-picture-id1165756330?k=6&m=1165756330&s=612x612&w=0&h=4SFFUJeZ8LAAnv5G55tQpOu2NJQTRFzNGkNewtXrdXw=', 'https://media.gettyimages.com/photos/its-only-the-best-for-these-cows-picture-id875237010?k=6&m=875237010&s=612x612&w=0&h=0fC8FHSuJkx7f--ryAbS967ZiPHnu0gnEuBiMA-Wanw=']
+U+54FA
+10
+bǔ
+30.7
+哺.mp3
+
+哻
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54FB
+10
+hān
+30.7
+哻.mp3
+
+哼
+['hum', ' sing softly', ' groan, moan', ' (Cant.) an interjecting indicating disapproval']
+['tararear', 'canturrear', 'gemir, gemir', '(Can.) Una interjección que indica desaprobación']
+['https://media.gettyimages.com/vectors/mani-mantra-writing-vector-id508297679?k=6&m=508297679&s=612x612&w=0&h=0_V7KeEvPkiK-9RP1x0xJ32KD8dyLxKCjazRAy33hXs=', 'https://media.gettyimages.com/photos/singer-on-a-stage-picture-id899308558?k=6&m=899308558&s=612x612&w=0&h=AXO61kKqrPuNa0J2YloY9Z4Qab3lMKfl2yN5NLyPo80=', 'NONE', 'NONE']
+U+54FC
+10
+hēng
+30.7
+哼.mp3
+
+哽
+['choke (with grief)']
+['choke (con dolor)']
+['https://media.gettyimages.com/photos/young-victim-picture-id90359599?k=6&m=90359599&s=612x612&w=0&h=JYrvqAqgjK6a-GH0SKMiAoEEU7EOcIgtrMGokRNldU8=']
+U+54FD
+10
+gěng
+30.7
+哽.mp3
+
+哾
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+54FE
+10
+shuō
+30.7
+哾.mp3
+
+哿
+['excellent', ' to commend to be able to']
+['excelente', 'para elogiar poder']
+['https://media.gettyimages.com/photos/perfectionist-garden-gardening-perfection-grass-scissors-humor-picture-id155446464?k=6&m=155446464&s=612x612&w=0&h=V458QuDxRigfimRbYWrIKb7eBQDDa3YU4EpfMaLJ8oY=', 'NONE']
+U+54FF
+10
+gě
+30.7
+哿.mp3
+
+唀
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5500
+10
+yòu
+30.7
+唀.mp3
+
+唁
+['express condolence']
+['expresar condolencia']
+['https://media.gettyimages.com/photos/sad-man-being-consoled-by-friends-in-group-therapy-picture-id1171160627?k=6&m=1171160627&s=612x612&w=0&h=D0e5oPrz4X1H2DLhiMW4D6Ofq5JLk4uIGUf3cBcdsWs=']
+U+5501
+10
+yàn
+30.7
+唁.mp3
+
+唂
+['(Cant.) phonetic', ' in a bad mood']
+['(Cant.) Fonético', 'de mal humor']
+['NONE', 'https://media.gettyimages.com/photos/angry-little-girl-picture-id995614498?k=6&m=995614498&s=612x612&w=0&h=89C9x23whiGY5GpC4XgUpjP3CyCj2jp8tc8AM6ePMns=']
+U+5502
+10
+gū
+30.7
+唂.mp3
+
+唃
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5503
+10
+gǔ
+30.7
+唃.mp3
+
+唄
+['final particle of assertion pathaka']
+['partícula final de afirmación pathaka']
+['NONE']
+U+5504
+10
+bei
+30.7
+唄.mp3
+
+唅
+['a sound', ' to put in the mouth', ' (Cant.) to grunt, grumble']
+['un sonido', 'poner en la boca', '(Cant.) Gruñir, quejarse']
+['https://media.gettyimages.com/vectors/music-line-icons-vector-id1036141234?k=6&m=1036141234&s=612x612&w=0&h=MuUAEqb1ijrhqo8MGt7LqHYiX8CuOhh6hD4oCRuTekQ=', 'https://media.gettyimages.com/photos/snowy-owl-bubo-scandiacus-put-on-the-rock-with-open-mouth-emitting-picture-id605952736?k=6&m=605952736&s=612x612&w=0&h=hZLqgn2COcKSX_I2RXkx8Td14XmpWUfxw6jT01EBNwU=', 'NONE']
+U+5505
+10
+hán
+30.7
+唅.mp3
+
+唆
+['make mischief, incite, instigate']
+['hacer travesuras, incitar, instigar']
+['NONE']
+U+5506
+10
+suō
+30.7
+唆.mp3
+
+唇
+['lips']
+['labios']
+['https://media.gettyimages.com/photos/lips-eyes-comp-montage-picture-id815059920?k=6&m=815059920&s=612x612&w=0&h=tAOhZBvwlhfk4W5-Dn4DrcvfZXV12tXYIvPwe1aQIF0=']
+U+5507
+10
+chún
+30.7
+唇.mp3
+
+唈
+['to sob']
+['el sov']
+['https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=']
+U+5508
+10
+yì
+30.7
+唈.mp3
+
+唉
+['alas, exclamation of surprise or pain']
+['ay, exclamación de sorpresa o dolor']
+['NONE']
+U+5509
+10
+āi
+30.7
+唉.mp3
+
+唊
+['(Cant.) to hold fast, press']
+['(Cant.) Para mantener rápido, presione']
+['NONE']
+U+550A
+10
+jiá
+30.7
+唊.mp3
+
+唋
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+550B
+10
+tū
+30.7
+唋.mp3
+
+唌
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+550C
+9
+xián
+30.7
+唌.mp3
+
+唍
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+550D
+10
+wǎn
+30.7
+唍.mp3
+
+唎
+['sound, noise', ' final particle']
+['sonido, ruido', 'partícula final']
+['https://media.gettyimages.com/vectors/abstract-rhythmic-sound-wave-vector-id1155459225?k=6&m=1155459225&s=612x612&w=0&h=8-JdB_816NE0L3Jzvel5lQUYpBqfU-vBQSDucXdDPKU=', 'https://media.gettyimages.com/photos/abstract-big-bang-conceptual-image-picture-id898633500?k=6&m=898633500&s=612x612&w=0&h=djC1FepwNWSPf7l3CRc88zs8kP3zQwSJCjcVQEAvap4=']
+U+550E
+10
+lì
+30.7
+唎.mp3
+
+唏
+['weep or sob', ' grieve']
+['llorar o sollozar', 'afligirse']
+['https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=', 'https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=']
+U+550F
+10
+xī
+30.7
+唏.mp3
+
+唐
+['Tang dynasty', ' Chinese']
+['Dinastía Tang', 'chino']
+['https://media.gettyimages.com/photos/life-sized-statue-of-the-buddha-from-the-tang-dynasty-period-picture-id53374799?k=6&m=53374799&s=612x612&w=0&h=kjd2RdrPecU-c_mWckp4fb7Fq3pFlDz59SsqMCxc1zw=', 'https://media.gettyimages.com/vectors/chinese-frame-and-text-vector-id180585415?k=6&m=180585415&s=612x612&w=0&h=3rBuyTPZSJqedWLcAp0AqsUBepQa8h9kZ1NjMN72NPQ=']
+U+5510
+10
+táng
+30.7
+唐.mp3
+
+唑
+['(chem.) azole']
+['(que.) azule']
+['NONE']
+U+5511
+10
+zuò
+30.7
+唑.mp3
+
+唒
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5512
+10
+qiú
+30.7
+唒.mp3
+
+唓
+['(Cant.) interjection']
+['(Cant.) Interjección']
+['NONE']
+U+5513
+10
+chē
+30.7
+唓.mp3
+
+唔
+['hold in mouth', ' bite', ' (Cant.) not, negation']
+['sostener en la boca', 'mordedura', '(Cant.) No, negación']
+['https://media.gettyimages.com/photos/woman-holding-smartphone-in-front-of-her-mouth-picture-id962580332?k=6&m=962580332&s=612x612&w=0&h=PsiwxlBxzNrNboj-3ah4JrPR2sZJ-u-3IZ5Mxf5XmGU=', 'https://media.gettyimages.com/vectors/bitten-apple-icon-on-black-and-white-vector-backgrounds-vector-id811433730?k=6&m=811433730&s=612x612&w=0&h=uf5iHOTtowq8hCRMp6yxGrrvrQiCzzTwoCOJ23M4CfQ=', 'https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+5514
+10
+wú
+30.7
+唔.mp3
+
+唕
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5515
+10
+zào
+30.7
+唕.mp3
+
+唖
+['dumb, mute', ' become hoarse']
+['mudo, mudo', 'ponerse ronco']
+['https://media.gettyimages.com/photos/woman-showing-different-gesture-on-white-background-picture-id147053279?k=6&m=147053279&s=612x612&w=0&h=1sjFQwCdBhC1csuMvzULTYISp3lGvU2tHUblfuQhDqw=', 'https://media.gettyimages.com/photos/hoarfrost-covered-seeding-seedclubs-of-typhia-latifolia-l-typhiaceae-picture-id130880712?k=6&m=130880712&s=612x612&w=0&h=zWP7sa0borSOWH6j-HNACGSTLSf6frITNUTinVDlug0=']
+U+5516
+10
+yǎ
+30.7
+唖.mp3
+
+唗
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5517
+10
+dōu
+30.7
+唗.mp3
+
+唘
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5518
+10
+qǐ
+30.7
+唘.mp3
+

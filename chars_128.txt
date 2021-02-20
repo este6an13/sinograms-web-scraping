@@ -1,0 +1,2560 @@
+簙
+['NONE']
+['NINGUNA']
+[]
+U+7C19
+18
+bó
+118.12
+簙.mp3
+
+簚
+['NONE']
+['NINGUNA']
+[]
+U+7C1A
+18
+mì
+118.12
+簚.mp3
+
+簛
+['sieve', ' to sift', ' to strain']
+['tamiz', 'tamizar', 'a cepa']
+['https://media.gettyimages.com/photos/closeup-of-sieve-over-white-background-picture-id915514770?k=6&m=915514770&s=612x612&w=0&h=LJ6vRgQVGGReQMsHCqjyp7cDBRJtHxTCclUMiFNAYsk=', 'https://media.gettyimages.com/photos/baking-cookie-set-up-picture-id1148033567?k=6&m=1148033567&s=612x612&w=0&h=S0tKStN_ntCOGASFmQOHwuVTjw_WZ-jrbr0RAKQ4t_4=', 'https://media.gettyimages.com/photos/thats-it-im-done-picture-id936117884?k=6&m=936117884&s=612x612&w=0&h=x4-h_dLBBva37ZzpDtuYv5wIhUZ1UvrBeXlqiIs7Kuo=']
+U+7C1B
+18
+shāi
+118.12
+簛.mp3
+
+簜
+['bamboo']
+['bambú']
+['https://media.gettyimages.com/photos/high-resolution-lightcolored-bamboo-background-picture-id175427437?k=6&m=175427437&s=612x612&w=0&h=yI-6ELH0QGql4y13EQEVj78XlB18aB9e3qmgEsUV4Oo=']
+U+7C1C
+18
+dàng
+118.12
+簜.mp3
+
+簝
+['NONE']
+['NINGUNA']
+[]
+U+7C1D
+18
+liáo
+118.12
+簝.mp3
+
+簞
+['small bamboo basket for holding']
+['pequeña canasta de bambú para sostener']
+['https://media.gettyimages.com/photos/mobile-photography-of-steamed-dumplings-picture-id509177646?k=6&m=509177646&s=612x612&w=0&h=qgaZv4NFKNuitgHl26GL_br77_l1QE6Py65FsPuO4WU=']
+U+7C1E
+18
+dān
+118.12
+簞.mp3
+
+簟
+['bamboo mat']
+['estera de bambú']
+['https://media.gettyimages.com/photos/straw-mat-background-picture-id471411789?k=6&m=471411789&s=612x612&w=0&h=Q3lKxin2HZUZlri4e-KEePnvxlOnEufPCwFStZe0ri4=']
+U+7C1F
+18
+diàn
+118.12
+簟.mp3
+
+簠
+['an ancient vessel used for holding boiled grain']
+['un recipiente antiguo utilizado para contener granos hervidos']
+['NONE']
+U+7C20
+18
+fǔ
+118.12
+簠.mp3
+
+簡
+['simple, terse, succinct', ' letter']
+['simple, conciso, sucinto', 'carta']
+['https://media.gettyimages.com/vectors/keep-it-simple-vector-id501763982?k=6&m=501763982&s=612x612&w=0&h=-rqywRPvt_69ZVs3FFcITmB-pFeWWq2A6icZ7BcbLFE=', 'https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=']
+U+7C21
+18
+jiǎn
+118.12
+簡.mp3
+
+簢
+['NONE']
+['NINGUNA']
+[]
+U+7C22
+18
+mǐn
+118.12
+簢.mp3
+
+簣
+['a bamboo basket for carrying earth']
+['una canasta de bambú para llevar tierra']
+['https://media.gettyimages.com/photos/pao-tribe-farmer-in-bamboo-forrest-picture-id484029957?k=6&m=484029957&s=612x612&w=0&h=ngzp9e6JHIM2F-rRBvl7ki-XXTdFXkGZJYanMvLhxjI=']
+U+7C23
+18
+kuì
+118.12
+簣.mp3
+
+簤
+['NONE']
+['NINGUNA']
+[]
+U+7C24
+18
+dài
+118.12
+簤.mp3
+
+簥
+['a large pipe', ' a farm tool']
+['una pipa grande', 'una herramienta agrícola']
+['https://media.gettyimages.com/photos/petrochemical-plant-illuminated-at-dusk-picture-id514620986?k=6&m=514620986&s=612x612&w=0&h=6Ic0y0qEQ6sk0r873J-z1a34HIiJNHfAKxo6mYMJUjs=', 'https://media.gettyimages.com/photos/healthy-soil-is-the-key-to-feeding-the-world-picture-id688966642?k=6&m=688966642&s=612x612&w=0&h=NnZi5DYTFnAbH582utYnrNLZij2AZ2Nr9vYsbiodG5M=']
+U+7C25
+18
+jiāo
+118.12
+簥.mp3
+
+簦
+['large umbrella with a long handle, used for street stalls']
+['paraguas grande con mango largo, utilizado para puestos callejeros']
+['NONE']
+U+7C26
+18
+dēng
+118.12
+簦.mp3
+
+簧
+['reed of woodwind instrument']
+['caña de instrumento de viento de madera']
+['https://media.gettyimages.com/photos/clarinet-flute-and-sax-picture-id136300745?k=6&m=136300745&s=612x612&w=0&h=oTyQKBegJOzSl-6QT1uBvZhPnqMYm5B5jSSuffZTvN4=']
+U+7C27
+17
+huáng
+118.12
+簧.mp3
+
+簨
+['a beam for hanging bells or drums']
+['una viga para colgar campanas o tambores']
+['https://media.gettyimages.com/photos/steam-boat-hohentwiel-golden-handbell-lake-constance-against-the-sun-picture-id1057204388?k=6&m=1057204388&s=612x612&w=0&h=uDQ2MgbHBdoX6-42R5dtcgiAaDakyE-gd3IbONDl6J8=']
+U+7C28
+18
+sǔn
+118.12
+簨.mp3
+
+簩
+['NONE']
+['NINGUNA']
+[]
+U+7C29
+18
+láo
+118.12
+簩.mp3
+
+簪
+['hairpin, clasp', ' wear in hair']
+['horquilla, broche', 'usar en el cabello']
+['https://media.gettyimages.com/photos/bridal-hair-picture-id1132634178?k=6&m=1132634178&s=612x612&w=0&h=ne7ZkRp0nawZYt10ert-0o5zH2BNtm1zTSbTMF9LdrQ=', 'https://media.gettyimages.com/photos/making-hairstory-everyday-with-gorgeous-hair-picture-id1055099140?k=6&m=1055099140&s=612x612&w=0&h=tL7HDNMenlt2W1bBBslxLClW2q-aOcfYuPBrLzBtrAw=']
+U+7C2A
+18
+zān
+118.12
+簪.mp3
+
+簫
+['musical instrument like pan-pipes, bamboo flute']
+['Instrumento musical como tubos de pan, flauta de bambú.']
+['NONE']
+U+7C2B
+19
+xiāo
+118.12
+簫.mp3
+
+簬
+['NONE']
+['NINGUNA']
+[]
+U+7C2C
+19
+lù
+118.12
+簬.mp3
+
+簭
+['NONE']
+['NINGUNA']
+[]
+U+7C2D
+18
+shì
+118.12
+簭.mp3
+
+簮
+['NONE']
+['NINGUNA']
+[]
+U+7C2E
+18
+zān
+118.12
+簮.mp3
+
+簯
+['NONE']
+['NINGUNA']
+[]
+U+7C2F
+18
+qi
+118.12
+簯.mp3
+
+簰
+['bamboo raft']
+['balsa de bambú']
+['https://media.gettyimages.com/photos/wooden-raft-on-lake-amidst-mountains-against-sky-picture-id600798309?k=6&m=600798309&s=612x612&w=0&h=-daKkD-1YpsRhToGjwlKHSPPPqQZ-2dWTUZ4ezzRLlE=']
+U+7C30
+18
+pái
+118.12
+簰.mp3
+
+簱
+['NONE']
+['NINGUNA']
+[]
+U+7C31
+18
+qí
+118.12
+簱.mp3
+
+簲
+['NONE']
+['NINGUNA']
+[]
+U+7C32
+18
+pái
+118.12
+簲.mp3
+
+簳
+['NONE']
+['NINGUNA']
+[]
+U+7C33
+19
+gǎn
+118.13
+簳.mp3
+
+簴
+['NONE']
+['NINGUNA']
+[]
+U+7C34
+19
+jù
+118.13
+簴.mp3
+
+簵
+['fine bamboo']
+['bambú fino']
+['https://media.gettyimages.com/photos/closeup-detail-of-bamboo-mat-background-picture-id124816386?k=6&m=124816386&s=612x612&w=0&h=i4PqXaSLgv9-AHURTb5aws3vWTvi68hQI8VpFLNq1e8=']
+U+7C35
+19
+lù
+118.13
+簵.mp3
+
+簶
+['NONE']
+['NINGUNA']
+[]
+U+7C36
+18
+lù
+118.13
+簶.mp3
+
+簷
+['eaves of house', ' brim']
+['aleros de la casa', 'borde']
+['https://media.gettyimages.com/photos/architectural-closeup-of-a-metal-rain-gutter-with-downspout-picture-id471188137?k=6&m=471188137&s=612x612&w=0&h=0yG10r8TxHx3Qjzfb3mZjfIDFVQOSZPg65-O8cNb6e0=', 'https://media.gettyimages.com/photos/blank-page-of-paper-with-textured-edges-picture-id183034798?k=6&m=183034798&s=612x612&w=0&h=h40lugYAPuWYHu3qjVPl0crfStF0XSza4uXEugeZxU0=']
+U+7C37
+19
+yán
+118.13
+簷.mp3
+
+簸
+['winnower']
+['aventadora']
+['https://media.gettyimages.com/photos/the-winnower-and-bamboo-basket-picture-id538267491?k=6&m=538267491&s=612x612&w=0&h=oK4-0WlNycviY_cOhesbQqVrChoCRo6bEwZiQxScRhc=']
+U+7C38
+19
+bǒ
+118.13
+簸.mp3
+
+簹
+['tall bamboo']
+['bambú alto']
+['https://media.gettyimages.com/photos/japanese-bamboo-forest-picture-id542068224?k=6&m=542068224&s=612x612&w=0&h=Kppg00T-mdcrCZoJNSsLG6Whhf3ZGpZCrD4awI0A-Us=']
+U+7C39
+19
+dāng
+118.13
+簹.mp3
+
+簺
+['NONE']
+['NINGUNA']
+[]
+U+7C3A
+19
+sài
+118.13
+簺.mp3
+
+簻
+['empty']
+['vacío']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+7C3B
+17
+zhuā
+118.13
+簻.mp3
+
+簼
+['NONE']
+['NINGUNA']
+[]
+U+7C3C
+19
+gōu
+118.13
+簼.mp3
+
+簽
+['sign, endorse', ' slip of paper']
+['firmar, endosar', 'trozo de papel']
+['https://media.gettyimages.com/photos/running-over-the-terms-and-conditions-in-her-contract-picture-id888776672?k=6&m=888776672&s=612x612&w=0&h=zVjBCBmM_en4VfYN3jJU7wI9WZhlUhKeGl-1_uaiExo=', 'https://media.gettyimages.com/photos/after-the-party-picture-id1186454611?k=6&m=1186454611&s=612x612&w=0&h=9G6gWxl_oyv7EryFI0wD3A9_a0-s9GC7GNj1QIWfEJE=']
+U+7C3D
+19
+qiān
+118.13
+簽.mp3
+
+簾
+['a blind, screen, curtain']
+['un ciego, pantalla, cortina']
+['https://media.gettyimages.com/vectors/home-office-elements-vector-id1136857850?k=6&m=1136857850&s=612x612&w=0&h=R8wAZlq5hlkIY776Sk8zHd3eaxFC2ygiXEHW_kMGB3o=']
+U+7C3E
+19
+lián
+118.13
+簾.mp3
+
+簿
+['register, account book, notebook']
+['registro, libro de cuentas, cuaderno']
+['NONE']
+U+7C3F
+19
+bù
+118.13
+簿.mp3
+
+籀
+['recite, read', ' style of calligraphy']
+['recitar, leer', 'estilo de caligrafía']
+['https://media.gettyimages.com/photos/quran-the-holy-book-of-islam-revealed-in-the-month-of-ramadan-picture-id965664506?k=6&m=965664506&s=612x612&w=0&h=q6TmDuD6DeTTfTko7RrWNQqgtV36fEgCos2JFwC5-gg=', 'https://media.gettyimages.com/vectors/chalkboard-vintage-frames-banners-and-badges-vector-id506598254?k=6&m=506598254&s=612x612&w=0&h=uSq1SQeThxIlXnBGhUexenIxeLcLGUcYNhI78j33XO4=']
+U+7C40
+19
+zhòu
+118.13
+籀.mp3
+
+籁
+['bamboo flute', ' pipe', ' various sound']
+['flauta de bambú', 'tubo', 'varios sonidos']
+['https://media.gettyimages.com/photos/japanese-men-playing-the-shamisen-and-the-shakuhac-picture-id609153159?k=6&m=609153159&s=612x612&w=0&h=qevD6so6KqEW2Km1Vs1CNAj2SKsSppvjG_J4apI93S4=', 'https://media.gettyimages.com/photos/ventory-check-picture-id865302500?k=6&m=865302500&s=612x612&w=0&h=akPfh_zLmXwt0e5fdOuHXDpoo05s-0a_61rJTKLLnVA=', 'https://media.gettyimages.com/photos/split-screen-showing-an-angry-woman-pounding-on-the-wall-to-her-picture-id108914656?k=6&m=108914656&s=612x612&w=0&h=acBWLAQfTjMVrdFlWrWXXRrZDLgJCcEvI35rHqrVUuM=']
+U+7C41
+19
+lài
+118.13
+籁.mp3
+
+籂
+['NONE']
+['NINGUNA']
+[]
+U+7C42
+19
+shi
+118.13
+籂.mp3
+
+籃
+['basket']
+['cesta']
+['https://media.gettyimages.com/photos/basketball-picture-id170096587?k=6&m=170096587&s=612x612&w=0&h=tb6oxh4xvN4WlMqgfGfdX7izt_-VopOPN2WJ_7QQbVs=']
+U+7C43
+20
+lán
+118.14
+籃.mp3
+
+籄
+['a basket for carrying earth']
+['una canasta para llevar tierra']
+['https://media.gettyimages.com/photos/hands-holding-a-grate-full-of-fresh-vegetables-picture-id532865778?k=6&m=532865778&s=612x612&w=0&h=Vgt8lFz0fDKJv64msT2r5Qz5255YIgghwiNYw-DmyY4=']
+U+7C44
+20
+kuì
+118.14
+籄.mp3
+
+籅
+['NONE']
+['NINGUNA']
+[]
+U+7C45
+19
+yú
+118.14
+籅.mp3
+
+籆
+['NONE']
+['NINGUNA']
+[]
+U+7C46
+19
+yuè
+118.14
+籆.mp3
+
+籇
+['NONE']
+['NINGUNA']
+[]
+U+7C47
+20
+háo
+118.14
+籇.mp3
+
+籈
+['NONE']
+['NINGUNA']
+[]
+U+7C48
+19
+zhēn
+118.14
+籈.mp3
+
+籉
+['NONE']
+['NINGUNA']
+[]
+U+7C49
+20
+tái
+118.14
+籉.mp3
+
+籊
+['long']
+['largo']
+['https://media.gettyimages.com/photos/portrait-of-confident-man-with-long-hair-picture-id985138682?k=6&m=985138682&s=612x612&w=0&h=cfHGi9Ed55pQGUbHX989mc38XMGCQ21wO2b5agmUMVg=']
+U+7C4A
+20
+tì
+118.14
+籊.mp3
+
+籋
+['NONE']
+['NINGUNA']
+[]
+U+7C4B
+20
+niè
+118.14
+籋.mp3
+
+籌
+['chip, tally, token', ' raise money']
+['chip, cuenta, token', 'recaudar dinero']
+['NONE', 'https://media.gettyimages.com/vectors/return-on-investment-icons-line-series-vector-id1056787734?k=6&m=1056787734&s=612x612&w=0&h=NWFg3x67Z4AbQiK7PH62-xNTwxmH0Gh96fDos98RcgM=']
+U+7C4C
+20
+chóu
+118.14
+籌.mp3
+
+籍
+['record, register, list', ' census']
+['registrar, registrar, listar', 'censo']
+['https://media.gettyimages.com/vectors/elder-grey-haired-man-in-wheelchair-vector-id1168676013?k=6&m=1168676013&s=612x612&w=0&h=fmcyJ_nWyXNS_jw0dIVEWh8P1VKJY0zbFk9SL1Ih1u4=', 'https://media.gettyimages.com/photos/senior-black-politician-door-to-door-picture-id1162410512?k=6&m=1162410512&s=612x612&w=0&h=Jih8lH-7Vl_31m-TAP1E5DQtC5j3soPlXaB3kGrPhOY=']
+U+7C4D
+20
+jí
+118.14
+籍.mp3
+
+籎
+['NONE']
+['NINGUNA']
+[]
+U+7C4E
+20
+yí
+118.14
+籎.mp3
+
+籏
+['flag']
+['bandera']
+['https://media.gettyimages.com/vectors/all-world-flags-vector-icon-set-vector-id810919084?k=6&m=810919084&s=612x612&w=0&h=g6WiO4eJtoCWSR9C7R1t_K3sDu20UKQxExDSFjLRIYo=']
+U+7C4F
+20
+qí
+118.14
+籏.mp3
+
+籐
+['climbing plants, vines, cane']
+['plantas trepadoras, enredaderas, caña']
+['https://media.gettyimages.com/photos/full-frame-of-grapes-moscatel-newly-harvested-inside-hempen-baskets-picture-id846260794?k=6&m=846260794&s=612x612&w=0&h=JsfSzt14eE1Kj-eT9-OmpjmRMhkLTy7fePELn6ZICdc=']
+U+7C50
+21
+téng
+118.15
+籐.mp3
+
+籑
+['to feed, to provide for delicacies, dainties']
+['alimentar, proporcionar manjares, manjares']
+['NONE']
+U+7C51
+21
+zhuàn
+118.15
+籑.mp3
+
+籒
+['NONE']
+['NINGUNA']
+[]
+U+7C52
+21
+zhòu
+118.15
+籒.mp3
+
+籓
+['sieve', ' basket']
+['tamiz', 'cesta']
+['https://media.gettyimages.com/photos/closeup-of-sieve-over-white-background-picture-id915514770?k=6&m=915514770&s=612x612&w=0&h=LJ6vRgQVGGReQMsHCqjyp7cDBRJtHxTCclUMiFNAYsk=', 'https://media.gettyimages.com/photos/basketball-picture-id170096587?k=6&m=170096587&s=612x612&w=0&h=tb6oxh4xvN4WlMqgfGfdX7izt_-VopOPN2WJ_7QQbVs=']
+U+7C53
+21
+fān
+118.15
+籓.mp3
+
+籔
+['bamboo basket']
+['canasta de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7C54
+21
+sǒu
+118.15
+籔.mp3
+
+籕
+['NONE']
+['NINGUNA']
+[]
+U+7C55
+20
+zhòu
+118.14
+籕.mp3
+
+籖
+['tally', ' lot', ' marker']
+['cuenta', 'lote', 'marcador']
+['https://media.gettyimages.com/photos/tally-counting-picture-id182404149?k=6&m=182404149&s=612x612&w=0&h=_juh8a2Q8KDG3OtvNHdAxQnY8tKV5sqnY4F3RE6O1fc=', 'https://media.gettyimages.com/photos/riverside-road-through-cliff-fort-cahors-france-picture-id979899028?k=6&m=979899028&s=612x612&w=0&h=FRSHchtaf4n0pT5zSX2ru9RkFnT-u5UuRMFYal356Zc=', 'https://media.gettyimages.com/vectors/location-pin-icon-vector-id901527274?k=6&m=901527274&s=612x612&w=0&h=1YNb7-EA23FoQcbOODxlyl50cNmkeJojDSuM3oTOOHU=']
+U+7C56
+21
+qian
+118.14
+籖.mp3
+
+籗
+['NONE']
+['NINGUNA']
+[]
+U+7C57
+22
+zhuó
+118.16
+籗.mp3
+
+籘
+['climbing plants, vines, cane']
+['plantas trepadoras, enredaderas, caña']
+['https://media.gettyimages.com/photos/full-frame-of-grapes-moscatel-newly-harvested-inside-hempen-baskets-picture-id846260794?k=6&m=846260794&s=612x612&w=0&h=JsfSzt14eE1Kj-eT9-OmpjmRMhkLTy7fePELn6ZICdc=']
+U+7C58
+22
+téng
+118.16
+籘.mp3
+
+籙
+['book']
+['libro']
+['https://media.gettyimages.com/vectors/books-icons-acme-series-vector-id894453312?k=6&m=894453312&s=612x612&w=0&h=CRzgQjnpgYG1pZCmyZM21-JNLTcvkwfyvEWFZoAeCrE=']
+U+7C59
+22
+lù
+118.16
+籙.mp3
+
+籚
+['bamboo', ' the handle of the spear']
+['bambú', 'el mango de la lanza']
+['https://media.gettyimages.com/photos/high-resolution-lightcolored-bamboo-background-picture-id175427437?k=6&m=175427437&s=612x612&w=0&h=yI-6ELH0QGql4y13EQEVj78XlB18aB9e3qmgEsUV4Oo=', 'https://media.gettyimages.com/vectors/medieval-weaponry-vector-id520499850?k=6&m=520499850&s=612x612&w=0&h=ORPxKSGhPxgUUGXG5LfPlaUf6gUiFkNobNSGrYTc8bY=']
+U+7C5A
+22
+lú
+118.16
+籚.mp3
+
+籛
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+7C5B
+22
+jiǎn
+118.16
+籛.mp3
+
+籜
+['bamboo sheath, bamboo shoots']
+['vaina de bambú, brotes de bambú']
+['https://media.gettyimages.com/photos/phyllostachys-decora-detail-of-the-sheath-picture-id522105656?k=6&m=522105656&s=612x612&w=0&h=E-8Et6PixiV8bzg1hVzJ3-3W5rmZFUioEq9dFq5JQ5g=']
+U+7C5C
+22
+tuò
+118.16
+籜.mp3
+
+籝
+['a tube to hold chopsticks']
+['un tubo para sostener palillos']
+['https://media.gettyimages.com/photos/portrait-of-a-male-pharmacist-holding-a-test-tube-in-a-laboratory-picture-id75317962?k=6&m=75317962&s=612x612&w=0&h=QAvwuWC1WD9qziZtNv2pV0abOn3W5KR-3BBpq8mexCw=']
+U+7C5D
+22
+yíng
+118.16
+籝.mp3
+
+籞
+['a fence']
+['una cerca']
+['https://media.gettyimages.com/photos/white-picket-fence-picture-id185009495?k=6&m=185009495&s=612x612&w=0&h=qd1KANxafnN5weKAyQqRCq63EFVNjFuy7e_Y6g16XKI=']
+U+7C5E
+23
+yù
+118.16
+籞.mp3
+
+籟
+['bamboo flute', ' pipe', ' various sound']
+['flauta de bambú', 'tubo', 'varios sonidos']
+['https://media.gettyimages.com/photos/japanese-men-playing-the-shamisen-and-the-shakuhac-picture-id609153159?k=6&m=609153159&s=612x612&w=0&h=qevD6so6KqEW2Km1Vs1CNAj2SKsSppvjG_J4apI93S4=', 'https://media.gettyimages.com/photos/ventory-check-picture-id865302500?k=6&m=865302500&s=612x612&w=0&h=akPfh_zLmXwt0e5fdOuHXDpoo05s-0a_61rJTKLLnVA=', 'https://media.gettyimages.com/photos/split-screen-showing-an-angry-woman-pounding-on-the-wall-to-her-picture-id108914656?k=6&m=108914656&s=612x612&w=0&h=acBWLAQfTjMVrdFlWrWXXRrZDLgJCcEvI35rHqrVUuM=']
+U+7C5F
+22
+lài
+118.16
+籟.mp3
+
+籠
+['cage', ' cage-like basket']
+['jaula', 'canasta en forma de jaula']
+['https://media.gettyimages.com/photos/escape-picture-id180729544?k=6&m=180729544&s=612x612&w=0&h=9s_3yNbKNX74OzgUmpHGgs84Nxo0LBq9FPykTeSh2M8=', 'NONE']
+U+7C60
+22
+lóng
+118.16
+籠.mp3
+
+籡
+['NONE']
+['NINGUNA']
+[]
+U+7C61
+22
+qiè
+118.16
+籡.mp3
+
+籢
+['NONE']
+['NINGUNA']
+[]
+U+7C62
+23
+lián
+118.17
+籢.mp3
+
+籣
+['bow case']
+['caso de arco']
+['https://media.gettyimages.com/photos/businessmen-greeting-picture-id72420856?k=6&m=72420856&s=612x612&w=0&h=i-zZ8lIyFq8olmBUBfGNzW37am7g4PXz7WgNO-j3t3Y=']
+U+7C63
+23
+lán
+118.17
+籣.mp3
+
+籤
+['tally', ' lot', ' marker']
+['cuenta', 'lote', 'marcador']
+['https://media.gettyimages.com/photos/tally-counting-picture-id182404149?k=6&m=182404149&s=612x612&w=0&h=_juh8a2Q8KDG3OtvNHdAxQnY8tKV5sqnY4F3RE6O1fc=', 'https://media.gettyimages.com/photos/riverside-road-through-cliff-fort-cahors-france-picture-id979899028?k=6&m=979899028&s=612x612&w=0&h=FRSHchtaf4n0pT5zSX2ru9RkFnT-u5UuRMFYal356Zc=', 'https://media.gettyimages.com/vectors/location-pin-icon-vector-id901527274?k=6&m=901527274&s=612x612&w=0&h=1YNb7-EA23FoQcbOODxlyl50cNmkeJojDSuM3oTOOHU=']
+U+7C64
+23
+qiān
+118.17
+籤.mp3
+
+籥
+['key', ' woodwind instrument']
+['llave', 'instrumento de viento de madera']
+['https://media.gettyimages.com/photos/car-salesman-handing-keys-to-customer-picture-id136591822?k=6&m=136591822&s=612x612&w=0&h=4k2cytYAMaldXz2yLyxCcZOAE9M9Hq54byEI-jkr9R8=', 'https://media.gettyimages.com/photos/clarinet-flute-and-alto-sax-collage-picture-id157310947?k=6&m=157310947&s=612x612&w=0&h=hy4yOLlLQiz5jFaPOCF9PyuB8dvNaqiImUow-5BGDX0=']
+U+7C65
+23
+yuè
+118.17
+籥.mp3
+
+籦
+['NONE']
+['NINGUNA']
+[]
+U+7C66
+23
+zhōng
+118.17
+籦.mp3
+
+籧
+['crude bamboo mat']
+['estera de bambú crudo']
+['https://media.gettyimages.com/vectors/spa-icon-set-vector-id641751958?k=6&m=641751958&s=612x612&w=0&h=-v6elz9mNNPZ8cFyiinCBEWP5sM4ttjQ6JOEJVjthGo=']
+U+7C67
+22
+qú
+118.17
+籧.mp3
+
+籨
+['trousseau']
+['ropa']
+['https://media.gettyimages.com/photos/henri-rousseau-la-bohmienne-endormie-oil-on-canvas-1295-x-2007-cm-of-picture-id544269710?k=6&m=544269710&s=612x612&w=0&h=4cVtWRzvXiB40DKpCAg9cp7Vep6XsRlm3jdAE6dWd20=']
+U+7C68
+23
+lián
+118.17
+籨.mp3
+
+籩
+['bamboo container for food']
+['recipiente de bambú para comida']
+['https://media.gettyimages.com/photos/shanghai-style-meat-dumplings-picture-id640354996?k=6&m=640354996&s=612x612&w=0&h=nZl3b0YziXgULOjUB9NTjIyzcv6f0ikzONgDbi-YshQ=']
+U+7C69
+24
+biān
+118.19
+籩.mp3
+
+籪
+['a weir of bamboo to catch fish or crabs']
+['un vertedero de bambú para pescar o cangrejos']
+['NONE']
+U+7C6A
+24
+duàn
+118.18
+籪.mp3
+
+籫
+['NONE']
+['NINGUNA']
+[]
+U+7C6B
+25
+zuǎn
+118.19
+籫.mp3
+
+籬
+['bamboo or wooden fence', ' hedge']
+['valla de bambú o madera', 'cobertura']
+['https://media.gettyimages.com/photos/bamboo-floor-texture-background-picture-id471416165?k=6&m=471416165&s=612x612&w=0&h=8NUzpGYKlmG0xI9qzQNN5T1XUreRVcVWhFgZJjVDY9I=', 'https://media.gettyimages.com/photos/hedge-picture-id157382909?k=6&m=157382909&s=612x612&w=0&h=RpEWJ0c2si9ZRglo-rTomeIUmihwRUa7q0dE2Adrti4=']
+U+7C6C
+24
+lí
+118.19
+籬.mp3
+
+籭
+['NONE']
+['NINGUNA']
+[]
+U+7C6D
+25
+sī
+118.19
+籭.mp3
+
+籮
+['bamboo basket']
+['canasta de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7C6E
+25
+luó
+118.19
+籮.mp3
+
+籯
+['bamboo chest', ' tubular bamboo case']
+['cofre de bambú', 'caja de bambú tubular']
+['https://media.gettyimages.com/photos/court-of-bamboo-grove-to-sell-for-the-industry-of-the-wood-picture-id933796434?k=6&m=933796434&s=612x612&w=0&h=cpJet4FsSVfihaWCX7s0pCmIrOOmKckzaz3GjhqRMco=', 'NONE']
+U+7C6F
+26
+yíng
+118.20
+籯.mp3
+
+籰
+['NONE']
+['NINGUNA']
+[]
+U+7C70
+26
+yuè
+118.20
+籰.mp3
+
+籱
+['NONE']
+['NINGUNA']
+[]
+U+7C71
+30
+zhuó
+118.24
+籱.mp3
+
+籲
+['appeal', ' request', ' implore']
+['apelación', 'solicitud', 'implorar']
+['https://media.gettyimages.com/photos/back-view-of-a-woman-wants-to-ask-a-question-on-a-seminar-picture-id1138142697?k=6&m=1138142697&s=612x612&w=0&h=FVRjMQC2-WpHaRAFWAj0g1OzTSTYBaLiHGiNWWtNj4s=', 'https://media.gettyimages.com/photos/child-writes-the-letter-to-santa-claus-childs-hands-the-sheet-of-picture-id1190506972?k=6&m=1190506972&s=612x612&w=0&h=cFRdkCxYyyqOXD3megp16jUPai3RLIPFYKgIuk2zn34=', 'https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=']
+U+7C72
+32
+yù
+118.26
+籲.mp3
+
+米
+['hulled or husked uncooked rice']
+['arroz sin cocer pelado o descascarillado']
+['https://media.gettyimages.com/photos/husked-and-unhusked-rice-in-the-hands-of-a-scientist-at-a-research-picture-id148573313?k=6&m=148573313&s=612x612&w=0&h=LHcxOLN7mI5LUDUdC00mDvnKljdC6-9Z8IUkB2pGggQ=']
+U+7C73
+6
+mǐ
+119.0
+米.mp3
+
+籴
+['purchase grains', ' store grain']
+['comprar granos', 'almacenar grano']
+['https://media.gettyimages.com/photos/found-bread-thats-gluten-free-picture-id1095504764?k=6&m=1095504764&s=612x612&w=0&h=ws9yaqi2WoxwTZP30hlfWiCmSU43a9iX0kKqeF8Eypk=', 'https://media.gettyimages.com/photos/found-bread-thats-gluten-free-picture-id1095504764?k=6&m=1095504764&s=612x612&w=0&h=ws9yaqi2WoxwTZP30hlfWiCmSU43a9iX0kKqeF8Eypk=']
+U+7C74
+8
+dí
+119.2
+籴.mp3
+
+籵
+['dm (decimetre, decimeter)']
+['dm (decímetro, decímetro)']
+['NONE']
+U+7C75
+8
+fán
+119.2
+籵.mp3
+
+籶
+['NONE']
+['NINGUNA']
+[]
+U+7C76
+8
+shēn
+119.2
+籶.mp3
+
+籷
+['NONE']
+['NINGUNA']
+[]
+U+7C77
+9
+zhé
+119.3
+籷.mp3
+
+籸
+['powdery substance']
+['sustancia en polvo']
+['https://media.gettyimages.com/photos/explode-powder-with-black-background-captured-with-high-speed-syncn-picture-id1200856010?k=6&m=1200856010&s=612x612&w=0&h=xjZhmsS4cbKX_NFqDeVuuU0BzYJYI9VY2K6WIzgPP-s=']
+U+7C78
+9
+shēn
+119.3
+籸.mp3
+
+籹
+['cake']
+['pastel']
+['https://media.gettyimages.com/photos/adding-raspberries-to-tasteful-blackberry-pie-picture-id942452228?k=6&m=942452228&s=612x612&w=0&h=89gXfpDLkm2oAsMxabo6lbzd7vXqAR4Iz9ORJD87XHc=']
+U+7C79
+9
+nǚ
+119.3
+籹.mp3
+
+籺
+['NONE']
+['NINGUNA']
+[]
+U+7C7A
+9
+hé
+119.3
+籺.mp3
+
+类
+['class, group, kind, category']
+['clase, grupo, clase, categoría']
+['https://media.gettyimages.com/vectors/electronic-medical-records-vector-id505710370?k=6&m=505710370&s=612x612&w=0&h=OBsZl5g40C1HUbbccXvVdtieTOpewR2LOsuu6OvgeAM=']
+U+7C7B
+9
+lèi
+119.3
+类.mp3
+
+籼
+['non-glutinous long grain rice']
+['arroz de grano largo no glutinoso']
+['NONE']
+U+7C7C
+9
+xiān
+119.3
+籼.mp3
+
+籽
+['seed, pip, pit, stone']
+['semilla, pepita, hoyo, piedra']
+['https://media.gettyimages.com/photos/marble-picture-id585822495?k=6&m=585822495&s=612x612&w=0&h=zCXIKsgoLEWOrav2Bt-CGbVYUuC2qf07tjc8Y6HcdcA=']
+U+7C7D
+9
+zǐ
+119.3
+籽.mp3
+
+籾
+['unhulled rice']
+['arroz sin pelar']
+['https://media.gettyimages.com/photos/full-frame-shot-of-unhulled-rice-picture-id1200492534?k=6&m=1200492534&s=612x612&w=0&h=nnl3zGhim6BRooDQCjZw_pCfHTEAJf1lDZeuCUnUM2o=']
+U+7C7E
+9
+ní
+119.3
+籾.mp3
+
+籿
+['NONE']
+['NINGUNA']
+[]
+U+7C7F
+9
+cùn
+119.3
+籿.mp3
+
+粀
+['NONE']
+['NINGUNA']
+[]
+U+7C80
+9
+zhàng
+119.3
+粀.mp3
+
+粁
+['kilometre']
+['kilómetro']
+['https://media.gettyimages.com/photos/personality-oprah-winfrey-running-in-the-5-km-revlon-runwalk-for-to-picture-id53380834?k=6&m=53380834&s=612x612&w=0&h=JF4a6mglI2_i8r24MCAfFPXlOoxL1YLctDyTGj01Glc=']
+U+7C81
+9
+qiān
+119.3
+粁.mp3
+
+粂
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+7C82
+9
+zhāi
+119.3
+粂.mp3
+
+粃
+['empty husks of grain']
+['cáscaras de grano vacías']
+['https://media.gettyimages.com/photos/corn-picture-id182068888?k=6&m=182068888&s=612x612&w=0&h=5oVxcTPSijL2w1z1AmEvxwYQU6tIKiFnnLa1AlMaGN4=']
+U+7C83
+10
+bǐ
+119.4
+粃.mp3
+
+粄
+['NONE']
+['NINGUNA']
+[]
+U+7C84
+10
+bǎn
+119.4
+粄.mp3
+
+粅
+['NONE']
+['NINGUNA']
+[]
+U+7C85
+10
+wù
+119.4
+粅.mp3
+
+粆
+['coarse']
+['grueso']
+['https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+7C86
+10
+shā
+119.4
+粆.mp3
+
+粇
+['NONE']
+['NINGUNA']
+[]
+U+7C87
+10
+kāng
+119.4
+粇.mp3
+
+粈
+['NONE']
+['NINGUNA']
+[]
+U+7C88
+10
+róu
+119.4
+粈.mp3
+
+粉
+['powder, face powder', ' plaster']
+['polvo, polvo facial', 'yeso']
+['https://media.gettyimages.com/photos/face-powder-picture-id186838567?k=6&m=186838567&s=612x612&w=0&h=90JW4Lz9MrdcW2AfA7zVlA2x1akNwR08IrO8qAywXTQ=', 'https://media.gettyimages.com/photos/plaster-application-picture-id157419716?k=6&m=157419716&s=612x612&w=0&h=Pg1Q5O1oIqBkvpSl1ggS5enVQcPv3-MO6CI0A6o9A3c=']
+U+7C89
+10
+fěn
+119.4
+粉.mp3
+
+粊
+['NONE']
+['NINGUNA']
+[]
+U+7C8A
+10
+bì
+119.4
+粊.mp3
+
+粋
+['pure', ' unadulterated', ' select']
+['puro', 'puro', 'Seleccione']
+['https://media.gettyimages.com/photos/creamy-mashed-cauliflower-with-melted-butter-picture-id886138070?k=6&m=886138070&s=612x612&w=0&h=__juTwHZtS5L7Jo-ECSoApKBK8f__8h9kIajY2zSVdI=', 'https://media.gettyimages.com/photos/closeup-of-pacfic-oysters-picture-id157187298?k=6&m=157187298&s=612x612&w=0&h=o2EwM4dKimG1mn-L80XSna7NEK73XIrlAiFTeaKwZzc=', 'https://media.gettyimages.com/photos/unrecognizable-woman-marvels-at-grocery-bread-selection-picture-id1041147560?k=6&m=1041147560&s=612x612&w=0&h=eXanrJD97jr5neEICYjhjryM0vRdY4aPauZE3AntISc=']
+U+7C8B
+10
+cuì
+119.4
+粋.mp3
+
+粌
+['NONE']
+['NINGUNA']
+[]
+U+7C8C
+10
+yin
+119.4
+粌.mp3
+
+粍
+['millimetre']
+['milímetro']
+['https://media.gettyimages.com/vectors/seamless-graph-paper-background-vector-id1059551352?k=6&m=1059551352&s=612x612&w=0&h=EmJcd_nUYMiyn19E0C3268pS-YT4eM4CpGZeQAstRAs=']
+U+7C8D
+10
+zhé
+119.4
+粍.mp3
+
+粎
+['metre']
+['metro']
+['https://media.gettyimages.com/photos/smart-meter-in-the-kitchen-picture-id1002456858?k=6&m=1002456858&s=612x612&w=0&h=RtvHYhJI5pgSUxIYqxM51NdZyO__aQGY-S1eR3IVy60=']
+U+7C8E
+10
+mǐ
+119.4
+粎.mp3
+
+粏
+['NONE']
+['NINGUNA']
+[]
+U+7C8F
+10
+tai
+119.4
+粏.mp3
+
+粐
+['NONE']
+['NINGUNA']
+[]
+U+7C90
+10
+hù
+119.4
+粐.mp3
+
+粑
+['tsamba (food in Tibet)']
+['carta (comida en el Tíbet)']
+['NONE']
+U+7C91
+10
+bā
+119.4
+粑.mp3
+
+粒
+['grain', ' small particle']
+['grano', 'pequeña partícula']
+['https://media.gettyimages.com/photos/wholegrain-food-still-life-shot-on-rustic-wooden-table-picture-id835833518?k=6&m=835833518&s=612x612&w=0&h=_sU5IsSiuT26ub-j_odBSlfQzepH_XdBj495-4Ckcz4=', 'https://media.gettyimages.com/photos/abstract-colorful-particle-background-picture-id951663582?k=6&m=951663582&s=612x612&w=0&h=DxQaEArRLCrT81aLF-6xCUsmETpN8LpziHb80kWTziw=']
+U+7C92
+11
+lì
+119.5
+粒.mp3
+
+粓
+['NONE']
+['NINGUNA']
+[]
+U+7C93
+11
+gān
+119.5
+粓.mp3
+
+粔
+['cakes made from rice flour twisted into rings']
+['pasteles hechos con harina de arroz retorcida en anillos']
+['NONE']
+U+7C94
+10
+jù
+119.5
+粔.mp3
+
+粕
+['lees, dregs, sediments left after distilling liquor']
+['lías, heces, sedimentos que quedan después de la destilación del licor']
+['NONE']
+U+7C95
+11
+pò
+119.5
+粕.mp3
+
+粖
+['NONE']
+['NINGUNA']
+[]
+U+7C96
+11
+mò
+119.5
+粖.mp3
+
+粗
+['rough, thick, course', ' rude']
+['áspero, grueso, curso', 'grosero']
+['https://media.gettyimages.com/photos/vehicle-tracks-through-thick-layer-of-ice-with-blue-sky-and-sun-above-picture-id1090670320?k=6&m=1090670320&s=612x612&w=0&h=8v7pIlJDZmnzAtN9Z2seCc9f4bDwl2Bh9kppnxThGSs=', 'https://media.gettyimages.com/vectors/curse-vector-id503782483?k=6&m=503782483&s=612x612&w=0&h=3gdYOAvjXZ9eqwu42xJeT5Yh5ZKuETtjPti_05tJvII=']
+U+7C97
+11
+cū
+119.5
+粗.mp3
+
+粘
+['viscous, mucous', ' glutinous']
+['viscoso, mucoso', 'glutinoso']
+['NONE', 'https://media.gettyimages.com/photos/white-sticky-rice-in-wooden-spoon-uncooked-glutinous-rice-for-design-picture-id1211727759?k=6&m=1211727759&s=612x612&w=0&h=AqyEGcL16S-Q48lqwLkUw5khZNwPYg9_c5RLtQSubrg=']
+U+7C98
+11
+zhān
+119.5
+粘.mp3
+
+粙
+['NONE']
+['NINGUNA']
+[]
+U+7C99
+11
+zhòu
+119.5
+粙.mp3
+
+粚
+['NONE']
+['NINGUNA']
+[]
+U+7C9A
+11
+chī
+119.5
+粚.mp3
+
+粛
+['pay respects', ' reverently']
+['presentar respetos', 'reverentemente']
+['https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=', 'https://media.gettyimages.com/photos/soldier-holds-flag-reverently-picture-id484342862?k=6&m=484342862&s=612x612&w=0&h=6DSF5IzF13pbHGawRtascEDyOM5Kovvkv9sscbVYgsQ=']
+U+7C9B
+11
+sù
+119.5
+粛.mp3
+
+粜
+['sell grains']
+['vender granos']
+['https://media.gettyimages.com/photos/men-using-digital-tablet-in-storage-room-of-a-natural-product-shop-picture-id1177851223?k=6&m=1177851223&s=612x612&w=0&h=uPZTJUlPr4H4IPUZU6HBM6295jniJbN5s0uUlvlsnWo=']
+U+7C9C
+11
+tiào
+119.5
+粜.mp3
+
+粝
+['unpolished rice', ' brown rice']
+['arroz sin pulir', 'arroz integral']
+['https://media.gettyimages.com/photos/white-rice-background-picture-id1049237664?k=6&m=1049237664&s=612x612&w=0&h=hmnbiB2m-XqDwr2bRH9BjxaZ2QJ21Cl3Aw-q-4CN3e4=', 'https://media.gettyimages.com/photos/quinoa-picture-id171320698?k=6&m=171320698&s=612x612&w=0&h=2TOxd6xcS2vSV5L0syKXC4WpXq9MJEirUWvi_phdWgY=']
+U+7C9D
+11
+lì
+119.5
+粝.mp3
+
+粞
+['to mash rice']
+['hacer puré de arroz']
+['https://media.gettyimages.com/vectors/food-and-drink-icons-and-symbols-vector-id467107694?k=6&m=467107694&s=612x612&w=0&h=MumlrqlucaZc_LoPsWDZ6cSDwXDYh9vq4B54z48BQN0=']
+U+7C9E
+12
+xī
+119.6
+粞.mp3
+
+粟
+['unhusked millet', ' grain']
+['mijo sin cáscara', 'grano']
+['NONE', 'https://media.gettyimages.com/photos/wholegrain-food-still-life-shot-on-rustic-wooden-table-picture-id835833518?k=6&m=835833518&s=612x612&w=0&h=_sU5IsSiuT26ub-j_odBSlfQzepH_XdBj495-4Ckcz4=']
+U+7C9F
+12
+sù
+119.6
+粟.mp3
+
+粠
+['NONE']
+['NINGUNA']
+[]
+U+7CA0
+12
+hóng
+119.6
+粠.mp3
+
+粡
+['NONE']
+['NINGUNA']
+[]
+U+7CA1
+12
+tóng
+119.6
+粡.mp3
+
+粢
+['grain offered in ritual sacrifice', ' millet']
+['grano ofrecido en sacrificio ritual', 'nación']
+['NONE', 'https://media.gettyimages.com/photos/pile-of-the-food-millet-on-a-white-background-picture-id184392197?k=6&m=184392197&s=612x612&w=0&h=N3Mi0unBLOiaEbeo0G2ZrPbm8uCWt-FW_DkyQ51lhv4=']
+U+7CA2
+12
+zī
+119.6
+粢.mp3
+
+粣
+['NONE']
+['NINGUNA']
+[]
+U+7CA3
+11
+cè
+119.5
+粣.mp3
+
+粤
+['Guangdong and Guangxi provinces', ' initial particle']
+['Provincias de Guangdong y Guangxi', 'partícula inicial']
+['https://media.gettyimages.com/vectors/china-map-with-provinces-vector-id464793676?k=6&m=464793676&s=612x612&w=0&h=Nf1ueP08NtLrHyJdIlXWKRrJVV1vaGaNb4-LXmJcmR4=', 'NONE']
+U+7CA4
+12
+yuè
+119.6
+粤.mp3
+
+粥
+['rice gruel, congee']
+['gachas de arroz, sopa de arroz']
+['https://media.gettyimages.com/photos/rice-porridge-with-seven-herbs-of-spring-called-nanakusa-gayu-picture-id922700338?k=6&m=922700338&s=612x612&w=0&h=_nRrmN7-f7FyBa-Gpz7-rdrj2kjy2UxD8HdRjGriVdI=']
+U+7CA5
+12
+zhōu
+119.6
+粥.mp3
+
+粦
+['phosphorus']
+['fósforo']
+['https://media.gettyimages.com/photos/liming-lawn-picture-id1134581136?k=6&m=1134581136&s=612x612&w=0&h=lrtxgMc16Zy9Pez2nbp4Oocm0RPpznSqO7djZ3WUGks=']
+U+7CA6
+12
+lín
+119.6
+粦.mp3
+
+粧
+['toilet', ' make-up', ' dress up', ' adorn']
+['baño', 'maquillaje', 'vestirse', 'adornar']
+['https://media.gettyimages.com/vectors/bathroom-and-toilet-line-icons-vector-id1129071105?k=6&m=1129071105&s=612x612&w=0&h=ISfCssiRYuN67FO3KfvTM5IxjxTriSAF2nJqMoRjiEw=', 'https://media.gettyimages.com/photos/beautiful-young-woman-applying-foundation-powder-picture-id1180487336?k=6&m=1180487336&s=612x612&w=0&h=5PJVg78BqjMTjuyu-Rm5QsJScQqjPtMOSefz5Yg7kGM=', 'https://media.gettyimages.com/photos/funny-christmas-morning-at-home-picture-id1033457250?k=6&m=1033457250&s=612x612&w=0&h=ig9-QgKVD5MbrGGvZrBIPB-YLt9hYuRJxC5r8-XHsaU=', 'https://media.gettyimages.com/photos/red-christmas-ball-isolated-on-white-background-picture-id1023062526?k=6&m=1023062526&s=612x612&w=0&h=vjv_LiEoR7LgXSPtqoK5QuUdJ4iGZaihOe0ErEnu00U=']
+U+7CA7
+12
+zhuāng
+119.6
+粧.mp3
+
+粨
+['hectometre']
+['hectómetro']
+['NONE']
+U+7CA8
+12
+bǎi
+119.6
+粨.mp3
+
+粩
+['NONE']
+['NINGUNA']
+[]
+U+7CA9
+12
+lāo
+119.6
+粩.mp3
+
+粪
+['manure, dung, shit, excrement, night soil']
+['estiércol, estiércol, mierda, excremento, tierra nocturna']
+['NONE']
+U+7CAA
+12
+fèn
+119.6
+粪.mp3
+
+粫
+['NONE']
+['NINGUNA']
+[]
+U+7CAB
+12
+ér
+119.6
+粫.mp3
+
+粬
+['NONE']
+['NINGUNA']
+[]
+U+7CAC
+12
+qū
+119.6
+粬.mp3
+
+粭
+['NONE']
+['NINGUNA']
+[]
+U+7CAD
+12
+hé
+119.6
+粭.mp3
+
+粮
+['food, grain, provisions']
+['alimentos, cereales, provisiones']
+['https://media.gettyimages.com/photos/varieties-of-grains-seeds-and-raw-quino-picture-id671580278?k=6&m=671580278&s=612x612&w=0&h=ySLm_gs4DAowokZsl31yCHaLWPnmHhif3iqo-jRC9gA=']
+U+7CAE
+13
+liáng
+119.7
+粮.mp3
+
+粯
+['NONE']
+['NINGUNA']
+[]
+U+7CAF
+13
+xiàn
+119.7
+粯.mp3
+
+粰
+['NONE']
+['NINGUNA']
+[]
+U+7CB0
+13
+fú
+119.7
+粰.mp3
+
+粱
+['better varieties of millet']
+['mejores variedades de mijo']
+['NONE']
+U+7CB1
+13
+liáng
+119.7
+粱.mp3
+
+粲
+['polish', ' bright, radiant', ' smiling']
+['polaco', 'brillante, radiante', 'sonriente']
+['https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=', 'https://media.gettyimages.com/vectors/bokeh-light-grey-background-vector-id997691350?k=6&m=997691350&s=612x612&w=0&h=0e_1m8poDNgWwxL8cuetwQw7Vs8eZ9S3Ydmv3AfENNI=', 'https://media.gettyimages.com/photos/happiness-picture-id882495390?k=6&m=882495390&s=612x612&w=0&h=vXXvkgo4hv5l4J9zRMWrLMjXR_Gv86pk1hdf8DG7P6w=']
+U+7CB2
+13
+càn
+119.7
+粲.mp3
+
+粳
+['non-glutinous rice']
+['arroz no glutinoso']
+['https://media.gettyimages.com/photos/topgrade-rice-flour-made-from-nonglutinous-rice-is-in-bowl-picture-id629353272?k=6&m=629353272&s=612x612&w=0&h=iZk2KtV9gXYFkbq-KcQ7Nko8nTo5bAhNYyrjWgO5d-s=']
+U+7CB3
+13
+jīng
+119.7
+粳.mp3
+
+粴
+['NONE']
+['NINGUNA']
+[]
+U+7CB4
+13
+lǐ
+119.7
+粴.mp3
+
+粵
+['Guangdong and Guangxi provinces', ' initial particle']
+['Provincias de Guangdong y Guangxi', 'partícula inicial']
+['https://media.gettyimages.com/vectors/china-map-with-provinces-vector-id464793676?k=6&m=464793676&s=612x612&w=0&h=Nf1ueP08NtLrHyJdIlXWKRrJVV1vaGaNb4-LXmJcmR4=', 'NONE']
+U+7CB5
+13
+yuè
+119.7
+粵.mp3
+
+粶
+['NONE']
+['NINGUNA']
+[]
+U+7CB6
+14
+lù
+119.8
+粶.mp3
+
+粷
+['NONE']
+['NINGUNA']
+[]
+U+7CB7
+14
+jú
+119.8
+粷.mp3
+
+粸
+['NONE']
+['NINGUNA']
+[]
+U+7CB8
+14
+qí
+119.8
+粸.mp3
+
+粹
+['pure', ' unadulterated', ' select']
+['puro', 'puro', 'Seleccione']
+['https://media.gettyimages.com/photos/creamy-mashed-cauliflower-with-melted-butter-picture-id886138070?k=6&m=886138070&s=612x612&w=0&h=__juTwHZtS5L7Jo-ECSoApKBK8f__8h9kIajY2zSVdI=', 'https://media.gettyimages.com/photos/closeup-of-pacfic-oysters-picture-id157187298?k=6&m=157187298&s=612x612&w=0&h=o2EwM4dKimG1mn-L80XSna7NEK73XIrlAiFTeaKwZzc=', 'https://media.gettyimages.com/photos/unrecognizable-woman-marvels-at-grocery-bread-selection-picture-id1041147560?k=6&m=1041147560&s=612x612&w=0&h=eXanrJD97jr5neEICYjhjryM0vRdY4aPauZE3AntISc=']
+U+7CB9
+14
+cuì
+119.8
+粹.mp3
+
+粺
+['polished rice or millet']
+['arroz o mijo pulido']
+['https://media.gettyimages.com/photos/woman-eating-mediterranean-soup-with-bread-closeup-picture-id909235440?k=6&m=909235440&s=612x612&w=0&h=qYPQ08fyofRf5-IB8wAsiygS8wrlvqC3QJL5CgXgeQA=']
+U+7CBA
+14
+bài
+119.8
+粺.mp3
+
+粻
+['provisions']
+['provisiones']
+['https://media.gettyimages.com/photos/varieties-of-grains-seeds-and-raw-quino-picture-id671580278?k=6&m=671580278&s=612x612&w=0&h=ySLm_gs4DAowokZsl31yCHaLWPnmHhif3iqo-jRC9gA=']
+U+7CBB
+14
+zhāng
+119.8
+粻.mp3
+
+粼
+['NONE']
+['NINGUNA']
+[]
+U+7CBC
+14
+lín
+119.8
+粼.mp3
+
+粽
+['dumpling made of glutinous rice']
+['bola de masa de arroz glutinoso']
+['https://media.gettyimages.com/photos/chinese-new-year-food-and-drink-on-red-rustic-background-picture-id801285156?k=6&m=801285156&s=612x612&w=0&h=a0fL0V3tQDZovfTnhf0GTFLqxm9zF2x1Abseeej9wgM=']
+U+7CBD
+14
+zòng
+119.8
+粽.mp3
+
+精
+['essence', ' semen', ' spirit']
+['esencia', 'semen', 'espíritu']
+['https://media.gettyimages.com/photos/essential-oil-lavender-and-orange-dry-on-a-wooden-table-top-view-picture-id1134054641?k=6&m=1134054641&s=612x612&w=0&h=RWLkkeNwunqLWqoDA4dNnOe1jv9IzrETbUKgMGFx7Wg=', 'https://media.gettyimages.com/illustrations/human-sperm-illustration-id674416385?k=6&m=674416385&s=612x612&w=0&h=HPwHium9r4UC3T4apGexpr5KZEYq7TqCn0AVheJq7n0=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+7CBE
+14
+jīng
+119.8
+精.mp3
+
+粿
+['rice cake']
+['tarta de arroz']
+['https://media.gettyimages.com/photos/rice-cake-picture-id174023576?k=6&m=174023576&s=612x612&w=0&h=H-_b4hW7egUexZN6-CZtACn84cvvNA7Z0vXUwcKE0eY=']
+U+7CBF
+14
+guǒ
+119.8
+粿.mp3
+
+糀
+['NONE']
+['NINGUNA']
+[]
+U+7CC0
+13
+huā
+119.7
+糀.mp3
+
+糁
+['a grain of rice', ' rice gruel mixed with meat']
+['un grano de arroz', 'gachas de arroz mezcladas con carne']
+['https://media.gettyimages.com/photos/sweet-corn-red-bell-pepper-green-peas-delicious-healthy-risot-picture-id1096665236?k=6&m=1096665236&s=612x612&w=0&h=pn4kPiaCwmw8-E-730OQ2oLTHuxokGi9_Xrajlz-vz0=', 'https://media.gettyimages.com/photos/frieze-of-fruits-and-vegetables-picture-id606744409?k=6&m=606744409&s=612x612&w=0&h=heb_MpA9Ct2eN8h5D_tcHqpg3chbzi1v_iTHa3CoVE4=']
+U+7CC1
+14
+sǎn
+119.8
+糁.mp3
+
+糂
+['NONE']
+['NINGUNA']
+[]
+U+7CC2
+15
+sǎn
+119.9
+糂.mp3
+
+糃
+['NONE']
+['NINGUNA']
+[]
+U+7CC3
+15
+táng
+119.9
+糃.mp3
+
+糄
+['NONE']
+['NINGUNA']
+[]
+U+7CC4
+15
+biǎn
+119.9
+糄.mp3
+
+糅
+['blend, mix', ' mixed']
+['mezclar, mezclar', 'mezclado']
+['https://media.gettyimages.com/photos/multiple-exposuredark-skinned-female-smiling-picture-id529512905?k=6&m=529512905&s=612x612&w=0&h=hmmhSssqRACxkHuR-ngtcsZ0shcckOvcOfnDX4ccruo=', 'https://media.gettyimages.com/photos/were-all-qualified-picture-id1132766113?k=6&m=1132766113&s=612x612&w=0&h=S3sOUxbc633IsiI9IsOhY2btAGSLfbhduNLdr_VQRSg=']
+U+7CC5
+15
+róu
+119.9
+糅.mp3
+
+糆
+['NONE']
+['NINGUNA']
+[]
+U+7CC6
+15
+miàn
+119.9
+糆.mp3
+
+糇
+['dried rice, dry provisions']
+['arroz seco, provisiones secas']
+['https://media.gettyimages.com/photos/varieties-of-rice-picture-id942619918?k=6&m=942619918&s=612x612&w=0&h=5aM-uwF7Xn6hhFBeoOimKEB02vHmenVoJKbvI9wLQGM=']
+U+7CC7
+15
+hóu
+119.9
+糇.mp3
+
+糈
+['sacrificial rice', ' rations', ' pay']
+['arroz de sacrificio', 'raciones', 'pagar']
+['https://media.gettyimages.com/photos/hinduistic-statue-swayambhunat-tempel-kathmandu-nepal-picture-id1044769696?k=6&m=1044769696&s=612x612&w=0&h=tUeqUwZb0V-51G1Vy4_pWLeYeaYS3UyPLoSs7q2OP_I=', 'https://media.gettyimages.com/photos/ration-book-with-post-world-war-ii-great-britain-items-picture-id157382600?k=6&m=157382600&s=612x612&w=0&h=LncmHZ8C15i_RSpf5WO_vmOKD-Tr7yh2le981JdxoHQ=', 'https://media.gettyimages.com/vectors/money-banking-set-of-line-vector-icons-vector-id1000706990?k=6&m=1000706990&s=612x612&w=0&h=-7h9Fg8qhct4i5mBChhSFCiZOnAHWWcR6Cu0MWF4zh4=']
+U+7CC8
+15
+xǔ
+119.9
+糈.mp3
+
+糉
+['dumpling made of glutinous rice']
+['bola de masa de arroz glutinoso']
+['https://media.gettyimages.com/photos/chinese-new-year-food-and-drink-on-red-rustic-background-picture-id801285156?k=6&m=801285156&s=612x612&w=0&h=a0fL0V3tQDZovfTnhf0GTFLqxm9zF2x1Abseeej9wgM=']
+U+7CC9
+15
+zòng
+119.9
+糉.mp3
+
+糊
+['paste, stick on with paste']
+['pegar, pegar con pasta']
+['https://media.gettyimages.com/photos/droplet-of-glue-picture-id157182268?k=6&m=157182268&s=612x612&w=0&h=aKDOGMjp9U85NCWmDO3Stat3_-F4-YNdfU2N7aXyEys=']
+U+7CCA
+15
+hú
+119.9
+糊.mp3
+
+糋
+['NONE']
+['NINGUNA']
+[]
+U+7CCB
+15
+jiàn
+119.9
+糋.mp3
+
+糌
+['NONE']
+['NINGUNA']
+[]
+U+7CCC
+15
+zān
+119.9
+糌.mp3
+
+糍
+['food made of crushed and cooked rice']
+['comida hecha de arroz triturado y cocido']
+['NONE']
+U+7CCD
+15
+cí
+119.9
+糍.mp3
+
+糎
+['(J) centimetre']
+['(J) centímetros']
+['NONE']
+U+7CCE
+15
+lí
+119.9
+糎.mp3
+
+糏
+['rice grits left after hulling']
+['sémola de arroz que queda después del descascarado']
+['NONE']
+U+7CCF
+16
+xiè
+119.10
+糏.mp3
+
+糐
+['NONE']
+['NINGUNA']
+[]
+U+7CD0
+16
+fū
+119.10
+糐.mp3
+
+糑
+['NONE']
+['NINGUNA']
+[]
+U+7CD1
+16
+nuò
+119.10
+糑.mp3
+
+糒
+['food for a journey', ' cakes']
+['comida para un viaje', 'tortas']
+['https://media.gettyimages.com/vectors/travel-destination-set-of-thin-line-vector-icons-vector-id1057443792?k=6&m=1057443792&s=612x612&w=0&h=UKb_jy55UBSJCXknAW7u3PWsvLnAtt7dHeDGCA6PB5E=', 'https://media.gettyimages.com/photos/adding-raspberries-to-tasteful-blackberry-pie-picture-id942452228?k=6&m=942452228&s=612x612&w=0&h=89gXfpDLkm2oAsMxabo6lbzd7vXqAR4Iz9ORJD87XHc=']
+U+7CD2
+16
+bèi
+119.10
+糒.mp3
+
+糓
+['grain, corn']
+['grano, maíz']
+['https://media.gettyimages.com/photos/seasonal-work-on-the-field-picture-id1072634078?k=6&m=1072634078&s=612x612&w=0&h=aIhlcgZshY4HHUgSHOJA84nJMVPfj53AQvlAsNSqJdI=']
+U+7CD3
+16
+gǔ
+119.10
+糓.mp3
+
+糔
+['juice']
+['jugo']
+['https://media.gettyimages.com/photos/three-fruits-and-vegetables-detox-drinks-picture-id641975492?k=6&m=641975492&s=612x612&w=0&h=c4ZbCLSsaaDoYWuP-8EVLl2yyaqPXppLEjqki7Qx-9s=']
+U+7CD4
+15
+xiǔ
+119.10
+糔.mp3
+
+糕
+['cakes, pastry']
+['tortas, pastelería']
+['https://media.gettyimages.com/photos/chocolate-and-orange-cake-picture-id184599041?k=6&m=184599041&s=612x612&w=0&h=kY1olIosmg_FjrJLX0m8USSjNyQEIV5vLz3cgNnj1tk=']
+U+7CD5
+16
+gāo
+119.10
+糕.mp3
+
+糖
+['sugar', ' candy', ' sweets']
+['azúcar', 'dulce', 'dulces']
+['https://media.gettyimages.com/vectors/sugar-icon-set-vector-id1135125530?k=6&m=1135125530&s=612x612&w=0&h=i-jvl29XdHO5oBggJUmsHGT9tmy2rAXuS232JMjmAOE=', 'https://media.gettyimages.com/photos/candy-wrapped-in-pink-foil-picture-id167783736?k=6&m=167783736&s=612x612&w=0&h=skYeLIpDDqzHa6heHAi5g3itEViMZuw1Yx21k7ytV8c=', 'https://media.gettyimages.com/photos/group-of-sweet-and-salty-snacks-perfect-for-binge-watching-picture-id1149135424?k=6&m=1149135424&s=612x612&w=0&h=XsUeVv1kev86aV9a2WR1nNIg9_-I9NPEfeKL7bmnnY0=']
+U+7CD6
+16
+táng
+119.10
+糖.mp3
+
+糗
+['parched wheat or rice', ' broken grain']
+['trigo o arroz tostado', 'grano roto']
+['https://media.gettyimages.com/photos/barley-picture-id185108774?k=6&m=185108774&s=612x612&w=0&h=3hrirciCuDvyD4h38MtwhiIfw_x4qYOtYyFpG2RwqZs=', 'https://media.gettyimages.com/photos/old-vintage-television-isolated-on-dark-background-with-no-signal-and-picture-id1187825805?k=6&m=1187825805&s=612x612&w=0&h=tmsBAqFoMEQNeK4ecej0GglnwrdjJSK0Oo0dfzcLxS4=']
+U+7CD7
+16
+qiǔ
+119.10
+糗.mp3
+
+糘
+['NONE']
+['NINGUNA']
+[]
+U+7CD8
+16
+jiā
+119.10
+糘.mp3
+
+糙
+['coarse, harsh, rough, unpolished rice']
+['arroz grueso, áspero, rugoso y sin pulir']
+['https://media.gettyimages.com/photos/full-frame-shot-of-crops-growing-on-field-picture-id1194892790?k=6&m=1194892790&s=612x612&w=0&h=SHAYdxfomfBV9F6JVYIu4XJ0YrgBR_5l8nWInYPIOuQ=']
+U+7CD9
+16
+cāo
+119.11
+糙.mp3
+
+糚
+['NONE']
+['NINGUNA']
+[]
+U+7CDA
+16
+zhuāng
+119.11
+糚.mp3
+
+糛
+['NONE']
+['NINGUNA']
+[]
+U+7CDB
+17
+táng
+119.11
+糛.mp3
+
+糜
+['rice gruel, congee', ' mashed']
+['gachas de arroz, sopa de arroz', 'machacado']
+['https://media.gettyimages.com/photos/rice-porridge-with-seven-herbs-of-spring-called-nanakusa-gayu-picture-id922700338?k=6&m=922700338&s=612x612&w=0&h=_nRrmN7-f7FyBa-Gpz7-rdrj2kjy2UxD8HdRjGriVdI=', 'https://media.gettyimages.com/photos/creamy-mashed-cauliflower-with-melted-butter-picture-id886138070?k=6&m=886138070&s=612x612&w=0&h=__juTwHZtS5L7Jo-ECSoApKBK8f__8h9kIajY2zSVdI=']
+U+7CDC
+17
+mí
+119.11
+糜.mp3
+
+糝
+['scattered (grains of rice)', ' mixed']
+['esparcido (granos de arroz)', 'mezclado']
+['https://media.gettyimages.com/photos/brown-rice-scattered-on-a-white-background-picture-id1146506008?k=6&m=1146506008&s=612x612&w=0&h=2dEe-KZ9F6FNtZ--OObhylxT5BsxQwu3ENr7zqmMLME=', 'https://media.gettyimages.com/photos/were-all-qualified-picture-id1132766113?k=6&m=1132766113&s=612x612&w=0&h=S3sOUxbc633IsiI9IsOhY2btAGSLfbhduNLdr_VQRSg=']
+U+7CDD
+17
+sǎn
+119.11
+糝.mp3
+
+糞
+['manure, dung, night soil']
+['estiércol, estiércol, tierra nocturna']
+['NONE']
+U+7CDE
+17
+fèn
+119.11
+糞.mp3
+
+糟
+['sediment, dregs', ' pickle']
+['sedimentos, heces', 'pepinillo']
+['https://media.gettyimages.com/photos/dregs-in-empty-coffee-cup-picture-idimsis579-036?k=6&m=imsis579-036&s=612x612&w=0&h=Sc42l44L5CzpTlarLpxxhhtdp0_0O0DG46ChWXuB-e8=', 'https://media.gettyimages.com/photos/pickled-gherkins-picture-id171292196?k=6&m=171292196&s=612x612&w=0&h=rLiQzPPeXNSZlVobiwaxXfZwOEe5TMLWAhCe1elgOM4=']
+U+7CDF
+17
+zāo
+119.11
+糟.mp3
+
+糠
+['chaff, bran, husks', ' poor']
+['paja, salvado, cáscaras', 'pobre']
+['NONE', 'https://media.gettyimages.com/photos/brazilian-boy-studying-at-home-picture-id1018966316?k=6&m=1018966316&s=612x612&w=0&h=ZpAwhAoTr5qXFthXchNCMzOeb1IF1DOk57n_ThCGT90=']
+U+7CE0
+17
+kāng
+119.11
+糠.mp3
+
+糡
+['starch', ' paste. to starch']
+['almidón', 'pegar. almidonar']
+['https://media.gettyimages.com/photos/potato-starch-micrograph-picture-id116854914?k=6&m=116854914&s=612x612&w=0&h=1qhSBQnNI0DKx10bjsK272x3p2F-EfvSbaCT_6NjC-c=', 'https://media.gettyimages.com/photos/mizumanju-picture-id498161487?k=6&m=498161487&s=612x612&w=0&h=F_i5mTgrp4no9YCx6PCz12Lkss4f3zjdZzM5xLkjwvY=']
+U+7CE1
+17
+jiàng
+119.11
+糡.mp3
+
+糢
+['rice snacks']
+['bocadillos de arroz']
+['https://media.gettyimages.com/photos/rice-krispies-squares-picture-id184100722?k=6&m=184100722&s=612x612&w=0&h=ewH1YglLkT52kLUSFlOprb11Ta0fklww4gHAb8uKrQI=']
+U+7CE2
+16
+mó
+119.11
+糢.mp3
+
+糣
+['NONE']
+['NINGUNA']
+[]
+U+7CE3
+18
+sǎn
+119.12
+糣.mp3
+
+糤
+['fried round cakes of wheat flour']
+['tortas redondas fritas de harina de trigo']
+['NONE']
+U+7CE4
+18
+sǎn
+119.12
+糤.mp3
+
+糥
+['NONE']
+['NINGUNA']
+[]
+U+7CE5
+18
+nuò
+119.12
+糥.mp3
+
+糦
+['NONE']
+['NINGUNA']
+[]
+U+7CE6
+18
+xī
+119.12
+糦.mp3
+
+糧
+['food, grain, provisions']
+['alimentos, cereales, provisiones']
+['https://media.gettyimages.com/photos/varieties-of-grains-seeds-and-raw-quino-picture-id671580278?k=6&m=671580278&s=612x612&w=0&h=ySLm_gs4DAowokZsl31yCHaLWPnmHhif3iqo-jRC9gA=']
+U+7CE7
+18
+liáng
+119.12
+糧.mp3
+
+糨
+['starch', ' paste. to starch']
+['almidón', 'pegar. almidonar']
+['https://media.gettyimages.com/photos/potato-starch-micrograph-picture-id116854914?k=6&m=116854914&s=612x612&w=0&h=1qhSBQnNI0DKx10bjsK272x3p2F-EfvSbaCT_6NjC-c=', 'https://media.gettyimages.com/photos/mizumanju-picture-id498161487?k=6&m=498161487&s=612x612&w=0&h=F_i5mTgrp4no9YCx6PCz12Lkss4f3zjdZzM5xLkjwvY=']
+U+7CE8
+18
+jiàng
+119.11
+糨.mp3
+
+糩
+['NONE']
+['NINGUNA']
+[]
+U+7CE9
+19
+kuài
+119.13
+糩.mp3
+
+糪
+['NONE']
+['NINGUNA']
+[]
+U+7CEA
+19
+bò
+119.13
+糪.mp3
+
+糫
+['NONE']
+['NINGUNA']
+[]
+U+7CEB
+19
+huán
+119.13
+糫.mp3
+
+糬
+['NONE']
+['NINGUNA']
+[]
+U+7CEC
+19
+shǔ
+119.13
+糬.mp3
+
+糭
+['rice dumpling']
+['bola de masa de arroz']
+['https://media.gettyimages.com/vectors/japanese-food-icon-set-vector-id1172061373?k=6&m=1172061373&s=612x612&w=0&h=bpCnSIs4gT5k0xEV2N00e0o0O0AqVfieZbGAFnGBdEY=']
+U+7CED
+19
+zòng
+119.13
+糭.mp3
+
+糮
+['NONE']
+['NINGUNA']
+[]
+U+7CEE
+20
+xiàn
+119.14
+糮.mp3
+
+糯
+['glutinous rice', ' glutinous, sticky']
+['arroz glutinoso', 'glutinoso, pegajoso']
+['https://media.gettyimages.com/photos/risotto-fungi-porcini-on-rustic-wooden-table-picture-id871240058?k=6&m=871240058&s=612x612&w=0&h=BcMTOUhmBr8RyAkhsQOQ-Om9b8mivtrOfFiddleB0BQ=', 'https://media.gettyimages.com/photos/white-sticky-rice-in-wooden-spoon-uncooked-glutinous-rice-for-design-picture-id1211727759?k=6&m=1211727759&s=612x612&w=0&h=AqyEGcL16S-Q48lqwLkUw5khZNwPYg9_c5RLtQSubrg=']
+U+7CEF
+20
+nuò
+119.14
+糯.mp3
+
+糰
+['rice ball']
+['bola de arroz']
+['https://media.gettyimages.com/photos/man-eating-lunch-in-basketball-court-picture-id961857198?k=6&m=961857198&s=612x612&w=0&h=ckMnRxJ8gce-ho9TXF6v9LsT3a3PkZRk_Q6DkmgyJH8=']
+U+7CF0
+20
+tuán
+119.14
+糰.mp3
+
+糱
+['fermenting grain', ' yeast']
+['grano fermentado', 'levadura']
+['https://media.gettyimages.com/photos/farmer-holding-grains-picture-id1058033586?k=6&m=1058033586&s=612x612&w=0&h=oAMSq-2tVE1fXKO9aYp0ynrAHfQAdjXqGiRf6DNpeJg=', 'https://media.gettyimages.com/photos/fresh-yeast-cubes-picture-id872484294?k=6&m=872484294&s=612x612&w=0&h=Kj1o1sTCQH5QW1eMbENEBozNQVDSSujfnNMAZpe5piI=']
+U+7CF1
+22
+niè
+119.16
+糱.mp3
+
+糲
+['unpolished rice', ' brown rice']
+['arroz sin pulir', 'arroz integral']
+['https://media.gettyimages.com/photos/white-rice-background-picture-id1049237664?k=6&m=1049237664&s=612x612&w=0&h=hmnbiB2m-XqDwr2bRH9BjxaZ2QJ21Cl3Aw-q-4CN3e4=', 'https://media.gettyimages.com/photos/quinoa-picture-id171320698?k=6&m=171320698&s=612x612&w=0&h=2TOxd6xcS2vSV5L0syKXC4WpXq9MJEirUWvi_phdWgY=']
+U+7CF2
+20
+lì
+119.15
+糲.mp3
+
+糳
+['NONE']
+['NINGUNA']
+[]
+U+7CF3
+26
+zuò
+119.16
+糳.mp3
+
+糴
+['purchase grains', ' store grain']
+['comprar granos', 'almacenar grano']
+['https://media.gettyimages.com/photos/found-bread-thats-gluten-free-picture-id1095504764?k=6&m=1095504764&s=612x612&w=0&h=ws9yaqi2WoxwTZP30hlfWiCmSU43a9iX0kKqeF8Eypk=', 'https://media.gettyimages.com/photos/found-bread-thats-gluten-free-picture-id1095504764?k=6&m=1095504764&s=612x612&w=0&h=ws9yaqi2WoxwTZP30hlfWiCmSU43a9iX0kKqeF8Eypk=']
+U+7CF4
+22
+dí
+119.16
+糴.mp3
+
+糵
+['fermenting grain', ' grain which has sprouted', ' yeast']
+['grano fermentado', 'grano que ha brotado', 'levadura']
+['https://media.gettyimages.com/photos/farmer-holding-grains-picture-id1058033586?k=6&m=1058033586&s=612x612&w=0&h=oAMSq-2tVE1fXKO9aYp0ynrAHfQAdjXqGiRf6DNpeJg=', 'https://media.gettyimages.com/vectors/farm-and-agriculture-icons-big-series-vector-id953524166?k=6&m=953524166&s=612x612&w=0&h=ZnbzgT2P18uAhx4Daw8r8OJ8kWixLpH627AmQdPzeP0=', 'https://media.gettyimages.com/photos/fresh-yeast-cubes-picture-id872484294?k=6&m=872484294&s=612x612&w=0&h=Kj1o1sTCQH5QW1eMbENEBozNQVDSSujfnNMAZpe5piI=']
+U+7CF5
+22
+niè
+119.17
+糵.mp3
+
+糶
+['sell grains']
+['vender granos']
+['https://media.gettyimages.com/photos/men-using-digital-tablet-in-storage-room-of-a-natural-product-shop-picture-id1177851223?k=6&m=1177851223&s=612x612&w=0&h=uPZTJUlPr4H4IPUZU6HBM6295jniJbN5s0uUlvlsnWo=']
+U+7CF6
+25
+tiào
+119.19
+糶.mp3
+
+糷
+['NONE']
+['NINGUNA']
+[]
+U+7CF7
+26
+làn
+119.21
+糷.mp3
+
+糸
+['silk', ' KangXi radical 120']
+['seda', 'K Ang ξ radical 120']
+['https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=', 'NONE']
+U+7CF8
+6
+mì
+120.0
+糸.mp3
+
+糹
+['silk', ' KangXi radical 120']
+['seda', 'K Ang ξ radical 120']
+['https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=', 'NONE']
+U+7CF9
+6
+sī
+120.0
+糹.mp3
+
+糺
+['to collaborate', ' to band together']
+['colaborar', 'unirse']
+['https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=', 'https://media.gettyimages.com/photos/were-here-to-always-motivate-each-other-picture-id914776002?k=6&m=914776002&s=612x612&w=0&h=7ruv2jha2fIbB1MZZ54FRO9u-CtYRd2dtSOWhiTA0Vc=']
+U+7CFA
+7
+jiū
+120.1
+糺.mp3
+
+系
+['system', ' line, link, connection']
+['sistema', 'línea, enlace, conexión']
+['https://media.gettyimages.com/vectors/process-icon-set-vector-id1143075261?k=6&m=1143075261&s=612x612&w=0&h=GR4FsTbJiq4VzQT7GxuXbrdiiwBsJYjgNlmcdEptYYE=', 'https://media.gettyimages.com/vectors/internet-marketing-icons-set-line-series-vector-id903358258?k=6&m=903358258&s=612x612&w=0&h=ltbnGoVMyNGe7i1kZx0JI2oXCmUCQl-VF0Ipc9Gga7g=']
+U+7CFB
+7
+xì
+120.1
+系.mp3
+
+糼
+['NONE']
+['NINGUNA']
+[]
+U+7CFC
+8
+gōng
+120.2
+糼.mp3
+
+糽
+['NONE']
+['NINGUNA']
+[]
+U+7CFD
+8
+zhěng
+120.2
+糽.mp3
+
+糾
+['investigate, inspect']
+['investigar, inspeccionar']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+7CFE
+8
+jiū
+120.2
+糾.mp3
+
+糿
+['NONE']
+['NINGUNA']
+[]
+U+7CFF
+8
+yòu
+120.2
+糿.mp3
+
+紀
+['record, annal, historical account']
+['registro, annal, relato histórico']
+['NONE']
+U+7D00
+9
+jì
+120.3
+紀.mp3
+
+紁
+['NONE']
+['NINGUNA']
+[]
+U+7D01
+9
+chà
+120.3
+紁.mp3
+
+紂
+['name of an emperor', ' saddle part']
+['nombre de un emperador', 'parte de la silla de montar']
+['https://media.gettyimages.com/photos/terracotta-warriors-picture-id157736183?k=6&m=157736183&s=612x612&w=0&h=_Z7ZiWxJgSgt1bBwsPHiWdlNEvawcXmw89uwqvLxYUM=', 'https://media.gettyimages.com/vectors/bicycle-parts-line-icons-vector-id1091449494?k=6&m=1091449494&s=612x612&w=0&h=_YYksctrcWOMkkCN3H9Z5VbZVfgLWpZ5glRVsOgG0ME=']
+U+7D02
+9
+zhòu
+120.3
+紂.mp3
+
+紃
+['a cord']
+['un cordón']
+['https://media.gettyimages.com/photos/closeup-of-a-server-network-panel-with-lights-and-cables-picture-id157647179?k=6&m=157647179&s=612x612&w=0&h=tNI5XfiuK8WdOXaaxyjwdBgwir6J6RFTVxD_HRUA4dg=']
+U+7D03
+9
+xún
+120.3
+紃.mp3
+
+約
+['treaty, agreement, covenant']
+['tratado, acuerdo, pacto']
+['https://media.gettyimages.com/photos/toned-signature-picture-id183359112?k=6&m=183359112&s=612x612&w=0&h=gRxqe4ecSZkTQ-5avcdAe-Pqi4MlhPLqmYuJYg6VEdA=']
+U+7D04
+9
+yuē
+120.3
+約.mp3
+
+紅
+['red, vermillion', ' blush, flush']
+['rojo, bermellón', 'rubor, rubor']
+['https://media.gettyimages.com/photos/arizona-page-paria-canyon-vermillion-cliffs-wilderness-coyote-buttes-picture-id709134799?k=6&m=709134799&s=612x612&w=0&h=xCN8fZuiTJt_9Aji4hWVbFHkyC9rX8pypsQhW5mAK4w=', 'https://media.gettyimages.com/vectors/feeling-sick-vector-id525952295?k=6&m=525952295&s=612x612&w=0&h=AmpqjvE4opy8swy20xPN4Yf2dors_kuQq7E18qAjL3I=']
+U+7D05
+9
+hóng
+120.3
+紅.mp3
+
+紆
+['bend, turn, twist', ' distort']
+['doblar, girar, girar', 'distorsionar']
+['https://media.gettyimages.com/vectors/arrows-vector-id505393609?k=6&m=505393609&s=612x612&w=0&h=DUG8L772Z2ldIc1alLp7DplzBXy06JxaQeYy62AQ4bU=', 'https://media.gettyimages.com/photos/digital-television-glitch-pattern-picture-id953396796?k=6&m=953396796&s=612x612&w=0&h=6f_hDGRbSF0dMQ9rO5bxqqMuMX0-ncLZsCnOc2D5yZI=']
+U+7D06
+9
+yū
+120.3
+紆.mp3
+
+紇
+['inferior silk', ' tassel, fringe']
+['seda inferior', 'borla, flecos']
+['https://media.gettyimages.com/photos/schreiendes-gesicht-hinter-schwarzen-latex-stoff-picture-id1077969166?k=6&m=1077969166&s=612x612&w=0&h=DlLJKgSQi2Dcj7K-bn_Svv_4-wh6JwmnoHQTo2bR5Y0=', 'https://media.gettyimages.com/photos/blank-banner-picture-id157284473?k=6&m=157284473&s=612x612&w=0&h=rLFwSolQYUq-hZgWaI81bWeuyiYQ8yOTT8IGNQ0D_lc=']
+U+7D07
+9
+hé
+120.3
+紇.mp3
+
+紈
+['white silk, fine silk', ' gauze']
+['seda blanca, seda fina', 'gasa']
+['https://media.gettyimages.com/photos/raw-cotton-texture-picture-id1024613722?k=6&m=1024613722&s=612x612&w=0&h=J2heE6kdHR3ICEys-sFNy0nf-58EDCcAJ2mzYtgjSK4=', 'https://media.gettyimages.com/photos/bandage-background-picture-id172656310?k=6&m=172656310&s=612x612&w=0&h=RIINfSVpqN1P44keiFKlPorlqKrFcWF_mOrMqktNP2Y=']
+U+7D08
+9
+wán
+120.3
+紈.mp3
+
+紉
+['thread needle, sew stitch, string']
+['aguja de hilo, coser puntada, hilo']
+['https://media.gettyimages.com/photos/needle-and-thread-picture-id184838523?k=6&m=184838523&s=612x612&w=0&h=XtEY5k0dXmhpaO4reaoElH1Wm9yraTECXQuPysbo6SM=']
+U+7D09
+9
+rèn
+120.3
+紉.mp3
+
+紊
+['confused, disorder']
+['confundido, desorden']
+['https://media.gettyimages.com/photos/human-head-with-tangled-wires-picture-id1171617600?k=6&m=1171617600&s=612x612&w=0&h=487JsEalhnIpQZgtDaJ7TCUkC61jqzvpuvQQatyG4Vw=']
+U+7D0A
+10
+wěn
+120.4
+紊.mp3
+
+紋
+['line, streak, stripe', ' wrinkle']
+['línea, racha, raya', 'arruga']
+['https://media.gettyimages.com/vectors/circle-editing-highlighting-hand-drawn-vector-id861325684?k=6&m=861325684&s=612x612&w=0&h=sl6fnowCT9BXXykyt25PZn8aDnc-n3GBkpFQunfbp_4=', 'https://media.gettyimages.com/photos/crushed-paper-picture-id483376851?k=6&m=483376851&s=612x612&w=0&h=IH9ji0ldCayQ9GAV6GoT-laxo0VVPcctrD4pgNs8Dc0=']
+U+7D0B
+10
+wén
+120.4
+紋.mp3
+
+紌
+['NONE']
+['NINGUNA']
+[]
+U+7D0C
+10
+qiú
+120.4
+紌.mp3
+
+納
+['admit, take, receive, accept']
+['admitir, tomar, recibir, aceptar']
+['https://media.gettyimages.com/photos/business-people-with-passport-at-airport-picture-id996797656?k=6&m=996797656&s=612x612&w=0&h=S1_iIWeoYx3gvYMVhVFTnSTUTmZMmKGIKUgLYU5DGVA=']
+U+7D0D
+10
+nà
+120.4
+納.mp3
+
+紎
+['NONE']
+['NINGUNA']
+[]
+U+7D0E
+10
+zī
+120.4
+紎.mp3
+
+紏
+['NONE']
+['NINGUNA']
+[]
+U+7D0F
+10
+tǒu
+120.4
+紏.mp3
+
+紐
+['knot', ' button', ' handle, knob', ' tie']
+['nudo', 'botón', 'manija, perilla', 'Corbata']
+['https://media.gettyimages.com/photos/knotted-rope-picture-id175501983?k=6&m=175501983&s=612x612&w=0&h=lAbqWb6Ovvq5MT_qiFetlyBScciEaDWvxE70TzcIIX8=', 'https://media.gettyimages.com/vectors/modern-vector-collection-of-multimedia-web-elements-vector-id165954835?k=6&m=165954835&s=612x612&w=0&h=kQPEpfXFMsM4Ng6_TlUYe2Uda7vFMWzGmYIGc6cWyjk=', 'https://media.gettyimages.com/photos/old-door-knob-picture-id1124917032?k=6&m=1124917032&s=612x612&w=0&h=4yqgWAP5W0zoJnWxYqvXNJ-_ftivgmi9mKENdAQu8Gw=', 'https://media.gettyimages.com/photos/red-necktie-on-white-picture-id157180004?k=6&m=157180004&s=612x612&w=0&h=g-RkLkiaA1Hh4KLbEzIywLAjKKdzl_czM_z3XRlOLP4=']
+U+7D10
+10
+niǔ
+120.4
+紐.mp3
+
+紑
+['fresh']
+['Fresco']
+['https://media.gettyimages.com/photos/man-holding-crate-ob-fresh-vegetables-picture-id870915532?k=6&m=870915532&s=612x612&w=0&h=S30PAuOM2bln88FOLvQk7gkOyYppoSDMQTi0hHbz99w=']
+U+7D11
+10
+fóu
+120.4
+紑.mp3
+
+紒
+['NONE']
+['NINGUNA']
+[]
+U+7D12
+10
+jì
+120.4
+紒.mp3
+
+紓
+['loosen, relax, relieve', ' extricate']
+['aflojar, relajar, aliviar', 'librar']
+['https://media.gettyimages.com/photos/woman-lying-in-beauty-esthetic-picture-id624496938?k=6&m=624496938&s=612x612&w=0&h=DuvftYeiATJlP079vpVFpI5W_cDLkUYogzdHXk5t4Io=', 'https://media.gettyimages.com/photos/animal-shelter-picture-id1172155138?k=6&m=1172155138&s=612x612&w=0&h=guf-TdT206nruZZQUH6YHzz9X16VTkVEGkm_RGBYcY8=']
+U+7D13
+10
+shū
+120.4
+紓.mp3
+
+純
+['pure, clean, simple']
+['puro, limpio, simple']
+['https://media.gettyimages.com/photos/bowl-of-mashed-sweet-potato-picture-id690868048?k=6&m=690868048&s=612x612&w=0&h=4UAFoPkaQVrvxofN2CXBkaDQOlJmuBdmJbZGgKUdcJ0=']
+U+7D14
+10
+chún
+120.4
+純.mp3
+
+紕
+['spoiled silk', ' hem of dress']
+['seda estropeada', 'dobladillo del vestido']
+['https://media.gettyimages.com/photos/abstract-background-from-corrugated-white-fabric-texture-picture-for-picture-id1211260983?k=6&m=1211260983&s=612x612&w=0&h=wMGGEFcQCwdcrbIqxZvhtv53nkh32vunDS-absp1jIs=', 'https://media.gettyimages.com/photos/seamstress-looks-at-dress-hem-picture-id81380554?k=6&m=81380554&s=612x612&w=0&h=f7E5dvndV6CjNsbJYmuN60D5p-7eutw8pZbrAtcTfH0=']
+U+7D15
+10
+pī
+120.4
+紕.mp3
+
+紖
+['a rope for leading cattle or horse']
+['una cuerda para guiar ganado o caballo']
+['https://media.gettyimages.com/photos/man-training-horse-on-rein-picture-id672158405?k=6&m=672158405&s=612x612&w=0&h=Z0DB53mZY9sgdfhlUJAnpONDOxHYZyU8Zk8BS5RjMko=']
+U+7D16
+10
+zhèn
+120.4
+紖.mp3
+
+紗
+['gauze, thin silk', ' yarn, thread']
+['gasa, seda fina', 'hilo, hilo']
+['NONE', 'https://media.gettyimages.com/photos/red-ball-of-wool-on-white-background-picture-id959911178?k=6&m=959911178&s=612x612&w=0&h=_Kwe9bVwGD0PiS6RFVCCd0iq6GnwvOY-SPDfegGi88o=']
+U+7D17
+10
+shā
+120.4
+紗.mp3
+
+紘
+['string', ' vast, expansive']
+['cuerda', 'vasto, expansivo']
+['https://media.gettyimages.com/photos/ropes-picture-id155277565?k=6&m=155277565&s=612x612&w=0&h=0c8DYvRHsMZimdPR5atVy4ClB93ppRtpDG7sQDikCVg=', 'https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=']
+U+7D18
+10
+hóng
+120.4
+紘.mp3
+

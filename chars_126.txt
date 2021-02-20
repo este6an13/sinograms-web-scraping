@@ -1,0 +1,2560 @@
+稙
+['grain ready for grinding']
+['grano listo para moler']
+['https://media.gettyimages.com/photos/traditional-grinder-picture-id159171732?k=6&m=159171732&s=612x612&w=0&h=9Fj1mpIfau3WV2Fb6u0QZgIF90uz42ieovHZCZNW5H0=']
+U+7A19
+13
+zhī
+115.8
+稙.mp3
+
+稚
+['young, immature', ' childhood']
+['joven, inmaduro', 'infancia']
+['https://media.gettyimages.com/photos/mixed-race-boy-drawing-on-wall-with-crayons-picture-id672158567?k=6&m=672158567&s=612x612&w=0&h=ws1xRpz3cGbjGMkOSJZY6HKZPZrIAslciTfwLnLUYbQ=', 'https://media.gettyimages.com/photos/back-view-of-elementary-students-raising-their-arms-on-a-class-picture-id1000887536?k=6&m=1000887536&s=612x612&w=0&h=_766UYb-oBcmrJQfIn5RU6SWLhTVMLszO9JT5USUDQ0=']
+U+7A1A
+13
+zhì
+115.8
+稚.mp3
+
+稛
+['bind']
+['enlazar']
+['https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=']
+U+7A1B
+13
+kǔn
+115.8
+稛.mp3
+
+稜
+['corner, edge, angle', ' square block']
+['esquina, borde, ángulo', 'bloque cuadrado']
+['https://media.gettyimages.com/vectors/blank-background-with-curled-page-vector-id915219118?k=6&m=915219118&s=612x612&w=0&h=YxG2a4uuICrl-lXr8e7qHSPGkq_wdm2MmRpNU2NwppU=', 'https://media.gettyimages.com/vectors/vector-geometric-line-icon-vector-id1039387732?k=6&m=1039387732&s=612x612&w=0&h=gzlT5VSmxa2MnI6Uk3O2yyIV_zYnvTGJ5G9BeJNQXew=']
+U+7A1C
+13
+léng
+115.8
+稜.mp3
+
+稝
+['NONE']
+['NINGUNA']
+[]
+U+7A1D
+13
+péng
+115.8
+稝.mp3
+
+稞
+['grain ready for grinding', ' grain']
+['grano listo para moler', 'grano']
+['https://media.gettyimages.com/photos/traditional-grinder-picture-id159171732?k=6&m=159171732&s=612x612&w=0&h=9Fj1mpIfau3WV2Fb6u0QZgIF90uz42ieovHZCZNW5H0=', 'https://media.gettyimages.com/photos/wholegrain-food-still-life-shot-on-rustic-wooden-table-picture-id835833518?k=6&m=835833518&s=612x612&w=0&h=_sU5IsSiuT26ub-j_odBSlfQzepH_XdBj495-4Ckcz4=']
+U+7A1E
+13
+kē
+115.8
+稞.mp3
+
+稟
+['report to, petition']
+['informar a, petición']
+['https://media.gettyimages.com/photos/signature-picture-id157503558?k=6&m=157503558&s=612x612&w=0&h=-YIaYimm3tt6uCdyKgOvtB9qxKNO2eU9VfZ8haiNDRg=']
+U+7A1F
+13
+bǐng
+115.8
+稟.mp3
+
+稠
+['dense, crowded, packed', ' soupy']
+['denso, abarrotado, lleno', 'espeso']
+['https://media.gettyimages.com/photos/aerial-view-of-a-crossing-in-mexico-city-picture-id1032513938?k=6&m=1032513938&s=612x612&w=0&h=85VZYkMFBanjqHysXmvwahiTweYTZ_hhewrKd84ELYI=', 'https://media.gettyimages.com/vectors/approve-icon-set-thick-line-series-vector-id1034799728?k=6&m=1034799728&s=612x612&w=0&h=9gasNSoExzeUYIaCRjfas0BAK9AHAaABw13b0wQlC6c=']
+U+7A20
+13
+chóu
+115.8
+稠.mp3
+
+稡
+['NONE']
+['NINGUNA']
+[]
+U+7A21
+13
+zuì
+115.8
+稡.mp3
+
+稢
+['NONE']
+['NINGUNA']
+[]
+U+7A22
+13
+yù
+115.8
+稢.mp3
+
+稣
+['revive, to rise again', ' collect']
+['revivir, levantarse de nuevo', 'recoger']
+['NONE', 'https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=']
+U+7A23
+13
+sū
+115.8
+稣.mp3
+
+稤
+['NONE']
+['NINGUNA']
+[]
+U+7A24
+13
+lüè
+115.8
+稤.mp3
+
+稥
+['NONE']
+['NINGUNA']
+[]
+U+7A25
+13
+xiāng
+115.8
+稥.mp3
+
+稦
+['NONE']
+['NINGUNA']
+[]
+U+7A26
+14
+yī
+115.9
+稦.mp3
+
+稧
+['NONE']
+['NINGUNA']
+[]
+U+7A27
+14
+xì
+115.9
+稧.mp3
+
+稨
+['NONE']
+['NINGUNA']
+[]
+U+7A28
+14
+biǎn
+115.9
+稨.mp3
+
+稩
+['NONE']
+['NINGUNA']
+[]
+U+7A29
+14
+jì
+115.9
+稩.mp3
+
+稪
+['NONE']
+['NINGUNA']
+[]
+U+7A2A
+14
+fú
+115.9
+稪.mp3
+
+稫
+['NONE']
+['NINGUNA']
+[]
+U+7A2B
+14
+pì
+115.9
+稫.mp3
+
+稬
+['glutinous, sticky']
+['glutinoso, pegajoso']
+['https://media.gettyimages.com/photos/white-sticky-rice-in-wooden-spoon-uncooked-glutinous-rice-for-design-picture-id1211727759?k=6&m=1211727759&s=612x612&w=0&h=AqyEGcL16S-Q48lqwLkUw5khZNwPYg9_c5RLtQSubrg=']
+U+7A2C
+14
+nuò
+115.9
+稬.mp3
+
+稭
+['stalk of grain, rice, corn, hemp']
+['tallo de grano, arroz, maíz, cáñamo']
+['NONE']
+U+7A2D
+14
+jiē
+115.9
+稭.mp3
+
+種
+['seed', ' race', ' offspring', ' to plant']
+['semilla', 'carrera', 'descendencia', 'plantar']
+['https://media.gettyimages.com/photos/assortment-of-nuts-on-rustic-wood-table-picture-id658447720?k=6&m=658447720&s=612x612&w=0&h=rrA1YSjF6pBiNGNAMZWW7A2YVFjmwsKaI_CCXxZCapU=', 'https://media.gettyimages.com/photos/racers-at-the-start-line-on-a-track-picture-id184629980?k=6&m=184629980&s=612x612&w=0&h=AhH6qn_ELsfzQz1bx5WGpZgWYPscGyG88HDBXWUahIQ=', 'https://media.gettyimages.com/photos/cheerful-little-children-having-fun-doing-finger-painting-picture-id983418152?k=6&m=983418152&s=612x612&w=0&h=P60YXpEEtZzOqHa_Vr2hiS5GMRGVikIRy9sBH8RVwKo=', 'https://media.gettyimages.com/vectors/abstract-plant-border-vector-id1132621208?k=6&m=1132621208&s=612x612&w=0&h=lIqY9Ujeu7-7Ynt2dMdvIlia64jZkeSxT40PlsV9-FE=']
+U+7A2E
+14
+zhǒng
+115.9
+種.mp3
+
+稯
+['NONE']
+['NINGUNA']
+[]
+U+7A2F
+14
+zōng
+115.9
+稯.mp3
+
+稰
+['NONE']
+['NINGUNA']
+[]
+U+7A30
+14
+xǔ
+115.9
+稰.mp3
+
+稱
+['call', ' name, brand', ' address', ' say']
+['llamada', 'nombre, marca', 'habla a', 'decir']
+['https://media.gettyimages.com/photos/hello-can-i-help-you-picture-id1187582500?k=6&m=1187582500&s=612x612&w=0&h=8rAHckcJerzt05QR_hmRSqqUdcC9_aNk8SDfBLU4UcM=', 'https://media.gettyimages.com/vectors/dentist-logo-and-branding-vector-id1180271772?k=6&m=1180271772&s=612x612&w=0&h=s-zxUC0q3kne2hCpanHDPJwNQTiMShy4EzRjjCxUJmc=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+7A31
+14
+chēng
+115.9
+稱.mp3
+
+稲
+['rice growing in field, rice plant']
+['arroz que crece en el campo, planta de arroz']
+['https://media.gettyimages.com/photos/farmers-walking-on-rice-fields-terraced-picture-id617715546?k=6&m=617715546&s=612x612&w=0&h=h4bdYJKWtzyFttWybVt8wFXMTg67VaUqcT8Y6U-YhkM=']
+U+7A32
+14
+dào
+115.9
+稲.mp3
+
+稳
+['stable, firm, solid, steady']
+['estable, firme, sólido, estable']
+['https://media.gettyimages.com/photos/new-york-new-york-city-trading-desk-with-computers-and-phones-picture-id149260785?k=6&m=149260785&s=612x612&w=0&h=Q7Mo9k0t4wcqd2SHE9uivcqtFox-oCvY6mUioCTAUqo=']
+U+7A33
+14
+wěn
+115.9
+稳.mp3
+
+稴
+['NONE']
+['NINGUNA']
+[]
+U+7A34
+15
+xián
+115.10
+稴.mp3
+
+稵
+['NONE']
+['NINGUNA']
+[]
+U+7A35
+14
+zī
+115.10
+稵.mp3
+
+稶
+['NONE']
+['NINGUNA']
+[]
+U+7A36
+15
+yù
+115.10
+稶.mp3
+
+稷
+['god of cereals', ' minister of agriculture']
+['dios de los cereales', 'ministro de agricultura']
+['https://media.gettyimages.com/photos/closeup-of-footprints-of-god-jagdish-temple-udaipur-rajasthan-india-picture-id84473507?k=6&m=84473507&s=612x612&w=0&h=4m_LnPjoOfOrS0OJHB-ZuaBLjPwcNe1jvyf5tTCLGgY=', 'https://media.gettyimages.com/photos/first-deputy-minister-of-agriculture-vladmir-matskevich-with-russian-picture-id50669738?k=6&m=50669738&s=612x612&w=0&h=2vJQksN8BABG_Rn4h3DL8UspRN9bX4mqKuMopHE2akM=']
+U+7A37
+15
+jì
+115.10
+稷.mp3
+
+稸
+['NONE']
+['NINGUNA']
+[]
+U+7A38
+15
+xù
+115.10
+稸.mp3
+
+稹
+['NONE']
+['NINGUNA']
+[]
+U+7A39
+15
+zhěn
+115.10
+稹.mp3
+
+稺
+['variant of ']
+['variante de']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+7A3A
+15
+zhì
+115.10
+稺.mp3
+
+稻
+['rice growing in field, rice plant']
+['arroz que crece en el campo, planta de arroz']
+['https://media.gettyimages.com/photos/farmers-walking-on-rice-fields-terraced-picture-id617715546?k=6&m=617715546&s=612x612&w=0&h=h4bdYJKWtzyFttWybVt8wFXMTg67VaUqcT8Y6U-YhkM=']
+U+7A3B
+15
+dào
+115.10
+稻.mp3
+
+稼
+['sow grain', ' sheaves of grain']
+['sembrar grano', 'gavillas de grano']
+['https://media.gettyimages.com/photos/combine-harvester-perspective-from-back-view-picture-id1024145652?k=6&m=1024145652&s=612x612&w=0&h=M6uTK2pcR-4YYB9MOAphQSABV7YKIq23IjubQnkFets=', 'https://media.gettyimages.com/vectors/wheat-sheaves-vector-id472339437?k=6&m=472339437&s=612x612&w=0&h=FN8UuWx5OFGvvilDXT_JHbYShxjESRtR7n061oxviRk=']
+U+7A3C
+15
+jià
+115.10
+稼.mp3
+
+稽
+['examine, investigate', ' delay']
+['examinar, investigar', 'retrasar']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=', 'https://media.gettyimages.com/photos/flight-delays-delayed-departures-arrivals-screen-picture-id93466101?k=6&m=93466101&s=612x612&w=0&h=bhVb13Y7Vgi8TYgu93SuXX_6HyHCIL7S0tbHzjDQjFA=']
+U+7A3D
+15
+jī
+115.10
+稽.mp3
+
+稾
+['draft, manuscript, rough copy']
+['borrador, manuscrito, copia preliminar']
+['NONE']
+U+7A3E
+15
+gǎo
+115.10
+稾.mp3
+
+稿
+['draft, manuscript, rough copy']
+['borrador, manuscrito, copia preliminar']
+['NONE']
+U+7A3F
+15
+gǎo
+115.10
+稿.mp3
+
+穀
+['corn, grain, cereal', ' lucky']
+['maíz, grano, cereal', 'suerte']
+['https://media.gettyimages.com/photos/seasonal-work-on-the-field-picture-id1072634078?k=6&m=1072634078&s=612x612&w=0&h=aIhlcgZshY4HHUgSHOJA84nJMVPfj53AQvlAsNSqJdI=', 'https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=']
+U+7A40
+15
+gǔ
+115.10
+穀.mp3
+
+穁
+['NONE']
+['NINGUNA']
+[]
+U+7A41
+14
+róng
+115.10
+穁.mp3
+
+穂
+['ear of grain', ' tassel', ' Guangzhou']
+['espiga de grano', 'borla', 'Guangzhou']
+['https://media.gettyimages.com/vectors/wheat-plant-ears-vector-vector-id1096737496?k=6&m=1096737496&s=612x612&w=0&h=YiQjK658qWW-eMfXdJl-1sCUlAC_gexKDhnKeUBasM0=', 'https://media.gettyimages.com/photos/gold-isolated-tassel-picture-id183273158?k=6&m=183273158&s=612x612&w=0&h=z4L13kn9FGoO3baeneaZfkUEk8tApLaWCBZckl9x6Aw=', 'https://media.gettyimages.com/photos/dramatic-urban-night-picture-id882698426?k=6&m=882698426&s=612x612&w=0&h=cyWgdndF8kVzfU4HDsaMgz03N4weTEupwJE3ZIhfa9w=']
+U+7A42
+15
+suì
+115.10
+穂.mp3
+
+穃
+['NONE']
+['NINGUNA']
+[]
+U+7A43
+15
+rong
+115.10
+穃.mp3
+
+穄
+['panicled millet']
+['mijo asustado']
+['NONE']
+U+7A44
+16
+jì
+115.11
+穄.mp3
+
+穅
+['chaff, bran, husks of grain, from which comes: --poor, remiss']
+['paja, salvado, cascarilla de grano, de donde proviene: --pobre, descuidado']
+['NONE']
+U+7A45
+16
+kāng
+115.11
+穅.mp3
+
+穆
+['majestic, solemn, reverent', ' calm']
+['majestuoso, solemne, reverente', 'calma']
+['https://media.gettyimages.com/photos/strong-man-with-crossed-arms-picture-id1265217303?k=6&m=1265217303&s=612x612&w=0&h=NNp-XLjesFvCTuWu1BfDqDtoXg3blHbVpIyrvM2aJgM=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+7A46
+16
+mù
+115.11
+穆.mp3
+
+穇
+['deccan grass, a barnyard grass']
+['hierba deccan, una hierba de corral']
+['NONE']
+U+7A47
+16
+cǎn
+115.11
+穇.mp3
+
+穈
+['millet']
+['nación']
+['https://media.gettyimages.com/photos/pile-of-the-food-millet-on-a-white-background-picture-id184392197?k=6&m=184392197&s=612x612&w=0&h=N3Mi0unBLOiaEbeo0G2ZrPbm8uCWt-FW_DkyQ51lhv4=']
+U+7A48
+16
+méi
+115.11
+穈.mp3
+
+穉
+['young grain', ' young, tender']
+['grano joven', 'joven, tierno']
+['https://media.gettyimages.com/photos/golden-wheat-fields-picture-id1126910159?k=6&m=1126910159&s=612x612&w=0&h=lItV5w1_ST-exU_fSb7bMeIZV_GUqm33NnHUFO9TQWk=', 'https://media.gettyimages.com/photos/child-with-a-plaster-on-her-knee-picture-id800341504?k=6&m=800341504&s=612x612&w=0&h=OkjlZNlRtEd2_4AccX2GhljZ11te9wJu_beLTKkGZcA=']
+U+7A49
+17
+zhì
+115.12
+穉.mp3
+
+穊
+['plough deep', ' sown slowly']
+['arar profundo', 'sembrado lentamente']
+['https://media.gettyimages.com/photos/plough-lines-lead-to-house-in-background-picture-id114715190?k=6&m=114715190&s=612x612&w=0&h=F3nBespQ30_gCDajTRkY73VUSubsC3MqhcvHqi9fDOY=', 'https://media.gettyimages.com/photos/slow-down-wildlife-crossing-sign-hanalei-valley-kauai-hawaii-usa-picture-id130846992?k=6&m=130846992&s=612x612&w=0&h=FGz3hPmW9OTKa4qlkxdZ0ApBujuPtyDfnyhvVGjYgoA=']
+U+7A4A
+14
+jì
+115.9
+穊.mp3
+
+穋
+['rice']
+['arroz']
+['https://media.gettyimages.com/photos/white-rice-background-picture-id1049237664?k=6&m=1049237664&s=612x612&w=0&h=hmnbiB2m-XqDwr2bRH9BjxaZ2QJ21Cl3Aw-q-4CN3e4=']
+U+7A4B
+16
+lù
+115.11
+穋.mp3
+
+穌
+['revive, to rise again', ' collect']
+['revivir, levantarse de nuevo', 'recoger']
+['NONE', 'https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=']
+U+7A4C
+16
+sū
+115.11
+穌.mp3
+
+積
+['accumulate, store up, amass']
+['acumular, almacenar, amasar']
+['https://media.gettyimages.com/photos/young-woman-wearing-a-protective-mask-and-gloves-shopping-in-a-time-picture-id1214324371?k=6&m=1214324371&s=612x612&w=0&h=PVvIR4ImMbXVA5f-72aZ-NUfiEEMvW9pSJHMecXG91c=']
+U+7A4D
+16
+jī
+115.11
+積.mp3
+
+穎
+['rice tassel', ' sharp point', ' clever']
+['borla de arroz', 'punta afilada', 'inteligente']
+['https://media.gettyimages.com/photos/shelled-rice-picture-id886771852?k=6&m=886771852&s=612x612&w=0&h=H4qUjxle7Zn3vQ6r4PGx220c7WlqTegq1by2wGBXZR8=', 'https://media.gettyimages.com/photos/thorns-ball-picture-id646533630?k=6&m=646533630&s=612x612&w=0&h=xynx1clVDE322aCsbc4pHwTFzfAGF5HKvCo3frwbx-Q=', 'https://media.gettyimages.com/photos/smart-meter-in-the-kitchen-picture-id1002456858?k=6&m=1002456858&s=612x612&w=0&h=RtvHYhJI5pgSUxIYqxM51NdZyO__aQGY-S1eR3IVy60=']
+U+7A4E
+16
+yǐng
+115.11
+穎.mp3
+
+穏
+['calm, quiet, peace', ' moderation']
+['calma, tranquilidad, paz', 'moderación']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/two-groups-of-people-making-handshakes-while-standing-on-road-painted-picture-id912014888?k=6&m=912014888&s=612x612&w=0&h=hYgIBFi2gZK4xlPX26Wvay2OwReS3rNo1lVTeUvvkP0=']
+U+7A4F
+16
+wěn
+115.11
+穏.mp3
+
+穐
+['fall, autumn']
+['caída de otoño']
+['https://media.gettyimages.com/vectors/autumn-leaves-seamless-pattern-vector-id1024082018?k=6&m=1024082018&s=612x612&w=0&h=QbHLaDrrI4kWyf4NYaOUb4djD7eaShkclv5f6kV2SG0=']
+U+7A50
+16
+qiū
+115.11
+穐.mp3
+
+穑
+['farm, harvest grain', ' stingy']
+['granja, cosecha de grano', 'tacaño']
+['https://media.gettyimages.com/photos/golden-wheat-fields-picture-id1126910159?k=6&m=1126910159&s=612x612&w=0&h=lItV5w1_ST-exU_fSb7bMeIZV_GUqm33NnHUFO9TQWk=', 'https://media.gettyimages.com/photos/sales-sticker-on-computer-keyboard-picture-id580502977?k=6&m=580502977&s=612x612&w=0&h=xXDOEQbo-5pHOIeNvGBd4jcFinp1sQPSKbQl_yfMyxQ=']
+U+7A51
+16
+sè
+115.11
+穑.mp3
+
+穒
+['NONE']
+['NINGUNA']
+[]
+U+7A52
+16
+hè
+115.11
+穒.mp3
+
+穓
+['NONE']
+['NINGUNA']
+[]
+U+7A53
+16
+yì
+115.12
+穓.mp3
+
+穔
+['NONE']
+['NINGUNA']
+[]
+U+7A54
+16
+huáng
+115.12
+穔.mp3
+
+穕
+['NONE']
+['NINGUNA']
+[]
+U+7A55
+17
+qiè
+115.12
+穕.mp3
+
+穖
+['NONE']
+['NINGUNA']
+[]
+U+7A56
+17
+jǐ
+115.12
+穖.mp3
+
+穗
+['ear of grain', ' tassel', ' Guangzhou']
+['espiga de grano', 'borla', 'Guangzhou']
+['https://media.gettyimages.com/vectors/wheat-plant-ears-vector-vector-id1096737496?k=6&m=1096737496&s=612x612&w=0&h=YiQjK658qWW-eMfXdJl-1sCUlAC_gexKDhnKeUBasM0=', 'https://media.gettyimages.com/photos/gold-isolated-tassel-picture-id183273158?k=6&m=183273158&s=612x612&w=0&h=z4L13kn9FGoO3baeneaZfkUEk8tApLaWCBZckl9x6Aw=', 'https://media.gettyimages.com/photos/dramatic-urban-night-picture-id882698426?k=6&m=882698426&s=612x612&w=0&h=cyWgdndF8kVzfU4HDsaMgz03N4weTEupwJE3ZIhfa9w=']
+U+7A57
+17
+suì
+115.12
+穗.mp3
+
+穘
+['NONE']
+['NINGUNA']
+[]
+U+7A58
+17
+xiāo
+115.12
+穘.mp3
+
+穙
+['NONE']
+['NINGUNA']
+[]
+U+7A59
+17
+pú
+115.12
+穙.mp3
+
+穚
+['NONE']
+['NINGUNA']
+[]
+U+7A5A
+17
+jiāo
+115.12
+穚.mp3
+
+穛
+['NONE']
+['NINGUNA']
+[]
+U+7A5B
+17
+zhuō
+115.12
+穛.mp3
+
+穜
+['rice']
+['arroz']
+['https://media.gettyimages.com/photos/white-rice-background-picture-id1049237664?k=6&m=1049237664&s=612x612&w=0&h=hmnbiB2m-XqDwr2bRH9BjxaZ2QJ21Cl3Aw-q-4CN3e4=']
+U+7A5C
+17
+zhǒng
+115.12
+穜.mp3
+
+穝
+['NONE']
+['NINGUNA']
+[]
+U+7A5D
+17
+zui
+115.12
+穝.mp3
+
+穞
+['NONE']
+['NINGUNA']
+[]
+U+7A5E
+17
+lǚ
+115.12
+穞.mp3
+
+穟
+['ear of grain', ' ripe grain']
+['espiga de grano', 'grano maduro']
+['https://media.gettyimages.com/vectors/wheat-plant-ears-vector-vector-id1096737496?k=6&m=1096737496&s=612x612&w=0&h=YiQjK658qWW-eMfXdJl-1sCUlAC_gexKDhnKeUBasM0=', 'https://media.gettyimages.com/photos/mans-hands-holding-wheat-ears-picture-id1042695588?k=6&m=1042695588&s=612x612&w=0&h=YG9tJbapryM_Wew3zqpMP-eE2kRmLhj5cuwqH-e5TfU=']
+U+7A5F
+17
+suì
+115.13
+穟.mp3
+
+穠
+['thick, lush, in clusters']
+['espeso, exuberante, en racimos']
+['https://media.gettyimages.com/photos/wild-mushroom-fungus-on-forest-landscape-picture-id683847307?k=6&m=683847307&s=612x612&w=0&h=jTpUjfXE_oNsVVShNonMjhyn0LGdKZil-LFQJzVtwvs=']
+U+7A60
+18
+nóng
+115.13
+穠.mp3
+
+穡
+['farm, harvest grain', ' stingy']
+['granja, cosecha de grano', 'tacaño']
+['https://media.gettyimages.com/photos/golden-wheat-fields-picture-id1126910159?k=6&m=1126910159&s=612x612&w=0&h=lItV5w1_ST-exU_fSb7bMeIZV_GUqm33NnHUFO9TQWk=', 'https://media.gettyimages.com/photos/sales-sticker-on-computer-keyboard-picture-id580502977?k=6&m=580502977&s=612x612&w=0&h=xXDOEQbo-5pHOIeNvGBd4jcFinp1sQPSKbQl_yfMyxQ=']
+U+7A61
+18
+sè
+115.13
+穡.mp3
+
+穢
+['dirty, unclean', ' immoral, obscene']
+['sucio, inmundo', 'inmoral, obsceno']
+['https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=', 'https://media.gettyimages.com/photos/angry-guru-doing-an-obscene-gesture-picture-id109719182?k=6&m=109719182&s=612x612&w=0&h=u7qWeFI014mIiwhzT9E3pro76wwpUlKWyViMvX5298w=']
+U+7A62
+18
+huì
+115.13
+穢.mp3
+
+穣
+['stalks of grain', ' lush, abundant']
+['tallos de grano', 'exuberante, abundante']
+['https://media.gettyimages.com/photos/six-stems-of-wheat-on-a-white-background-picture-id157311390?k=6&m=157311390&s=612x612&w=0&h=WjJiSBrIG49xXKxXYpVVl1DTEPxCita6hSrkaf7A3xI=', 'https://media.gettyimages.com/photos/crops-grow-on-fertile-farm-land-panoramic-before-harvest-picture-id937010674?k=6&m=937010674&s=612x612&w=0&h=CfpTzmFjHUK8K_cRSePnGpEQVOscfCiTsB1fuZkCL0s=']
+U+7A63
+18
+ráng
+115.13
+穣.mp3
+
+穤
+['glutinous rice']
+['arroz glutinoso']
+['https://media.gettyimages.com/photos/risotto-fungi-porcini-on-rustic-wooden-table-picture-id871240058?k=6&m=871240058&s=612x612&w=0&h=BcMTOUhmBr8RyAkhsQOQ-Om9b8mivtrOfFiddleB0BQ=']
+U+7A64
+19
+nuò
+115.14
+穤.mp3
+
+穥
+['NONE']
+['NINGUNA']
+[]
+U+7A65
+18
+yù
+115.14
+穥.mp3
+
+穦
+['NONE']
+['NINGUNA']
+[]
+U+7A66
+19
+pīn
+115.14
+穦.mp3
+
+穧
+['sheaf']
+['gavilla']
+['https://media.gettyimages.com/photos/sheaf-of-fresh-asparagus-isolated-on-white-background-picture-id1192923388?k=6&m=1192923388&s=612x612&w=0&h=mDucvRpP2FdGMABWnVdvgoNSP3f5aGyPh8YvxpNycqM=']
+U+7A67
+19
+jì
+115.14
+穧.mp3
+
+穨
+['ruined, decayed', ' to disintegrate']
+['arruinado, decaído', 'desintegrarse']
+['https://media.gettyimages.com/photos/grunge-background-picture-id117239722?k=6&m=117239722&s=612x612&w=0&h=4vQDnK0B7w8rn-Rg3K1VCxaJEtiFA358qzY6zzHxHME=', 'https://media.gettyimages.com/photos/abstract-figure-forming-from-multicoloured-squares-sitting-in-pose-picture-id1176838131?k=6&m=1176838131&s=612x612&w=0&h=IHMkK-3avPxa08dyypmmmn9Djf0lG3buxoYQtAbXsxI=']
+U+7A68
+19
+tuí
+115.14
+穨.mp3
+
+穩
+['stable, firm, solid, steady']
+['estable, firme, sólido, estable']
+['https://media.gettyimages.com/photos/new-york-new-york-city-trading-desk-with-computers-and-phones-picture-id149260785?k=6&m=149260785&s=612x612&w=0&h=Q7Mo9k0t4wcqd2SHE9uivcqtFox-oCvY6mUioCTAUqo=']
+U+7A69
+19
+wěn
+115.14
+穩.mp3
+
+穪
+['to praise']
+['elogiar']
+['https://media.gettyimages.com/photos/applauding-on-a-business-seminar-picture-id1066868794?k=6&m=1066868794&s=612x612&w=0&h=JnLc81Wur9V-H64XPC2ZjWJMjlIwM-6Y5GJiFBXirDU=']
+U+7A6A
+19
+chēng
+115.14
+穪.mp3
+
+穫
+['harvest, cut grain']
+['cosecha, grano cortado']
+['https://media.gettyimages.com/photos/industrial-agriculture-picture-id919955240?k=6&m=919955240&s=612x612&w=0&h=SCEHIix1CAeI-Qe4nzXOM7F-DDcXwrcEJyA-uBcr2Kk=']
+U+7A6B
+18
+huò
+115.14
+穫.mp3
+
+穬
+['NONE']
+['NINGUNA']
+[]
+U+7A6C
+19
+kuàng
+115.15
+穬.mp3
+
+穭
+['wild grain']
+['grano salvaje']
+['https://media.gettyimages.com/photos/murmuration-of-starlings-a-spectacular-aerobatic-display-of-a-large-picture-id675916579?k=6&m=675916579&s=612x612&w=0&h=6NuGK3JDpp2wKC6busGu6u0hCvJOxHpa9BxHYgEnOJc=']
+U+7A6D
+20
+lǚ
+115.15
+穭.mp3
+
+穮
+['weed']
+['hierba']
+['https://media.gettyimages.com/photos/young-adult-man-rolling-a-marijuana-joint-picture-id1139292066?k=6&m=1139292066&s=612x612&w=0&h=kqQeVl-3Fo0ZkNMBcEjSNy3LQe_tyGnYhlbf1zLYFBw=']
+U+7A6E
+20
+biāo
+115.15
+穮.mp3
+
+穯
+['NONE']
+['NINGUNA']
+[]
+U+7A6F
+20
+sè
+115.15
+穯.mp3
+
+穰
+['stalks of grain', ' lush, abundant']
+['tallos de grano', 'exuberante, abundante']
+['https://media.gettyimages.com/photos/six-stems-of-wheat-on-a-white-background-picture-id157311390?k=6&m=157311390&s=612x612&w=0&h=WjJiSBrIG49xXKxXYpVVl1DTEPxCita6hSrkaf7A3xI=', 'https://media.gettyimages.com/photos/crops-grow-on-fertile-farm-land-panoramic-before-harvest-picture-id937010674?k=6&m=937010674&s=612x612&w=0&h=CfpTzmFjHUK8K_cRSePnGpEQVOscfCiTsB1fuZkCL0s=']
+U+7A70
+22
+ráng
+115.17
+穰.mp3
+
+穱
+['NONE']
+['NINGUNA']
+[]
+U+7A71
+22
+zhuō
+115.18
+穱.mp3
+
+穲
+['NONE']
+['NINGUNA']
+[]
+U+7A72
+24
+lí
+115.19
+穲.mp3
+
+穳
+['NONE']
+['NINGUNA']
+[]
+U+7A73
+24
+cuán
+115.17
+穳.mp3
+
+穴
+['cave, den, hole', ' KangXi radical 116']
+['cueva, el, agujero', 'K 昂 ξ radical 116']
+['https://media.gettyimages.com/photos/babies-of-field-rabbits-going-out-of-his-burrow-picture-id521766496?k=6&m=521766496&s=612x612&w=0&h=eOtGucSuCcBqivHrUhaj8qNCwHEfkep9Z92afIi3ET0=', 'NONE']
+U+7A74
+5
+xué
+116.0
+穴.mp3
+
+穵
+['deep hollow', ', gouge, dig out']
+['hueco profundo', ', gubia, excavar']
+['https://media.gettyimages.com/photos/sacred-fig-tree-growing-inside-of-a-cave-and-inspiring-to-never-give-picture-id991920650?k=6&m=991920650&s=612x612&w=0&h=FyHX8zBLIJw7AP8tcqDm5uGEe3b0qsuIJFD13NyCZH0=', 'NONE']
+U+7A75
+6
+wā
+116.1
+穵.mp3
+
+究
+['examine, investigate']
+['examinar, investigar']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+7A76
+7
+jiū
+116.2
+究.mp3
+
+穷
+['poor, destitute, impoverished']
+['pobre, indigente, empobrecido']
+['https://media.gettyimages.com/photos/brazilian-boy-studying-at-home-picture-id1018966316?k=6&m=1018966316&s=612x612&w=0&h=ZpAwhAoTr5qXFthXchNCMzOeb1IF1DOk57n_ThCGT90=']
+U+7A77
+7
+qióng
+116.2
+穷.mp3
+
+穸
+['the gloom of the grave a tomb or grave', ' death']
+['la penumbra de la tumba una tumba o tumba', 'muerte']
+['https://media.gettyimages.com/photos/pensive-woman-in-front-of-the-window-picture-id1129696669?k=6&m=1129696669&s=612x612&w=0&h=SUI7r5-6RiKiwAlrQK10PDF8aZIC_hyJ1RTXSlCGloE=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=']
+U+7A78
+8
+xī
+116.3
+穸.mp3
+
+穹
+['high and vast', ' elevated', ' arched']
+['alto y vasto', 'elevado', 'arqueado']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/photos/high-angle-view-of-people-on-street-picture-id973190966?k=6&m=973190966&s=612x612&w=0&h=RXCH2TYW7Dwd06iCes1x1TBSwhC4w8fi4QNwN_LF3eg=', 'https://media.gettyimages.com/photos/young-man-doing-leg-stretches-in-the-gym-picture-id1130300323?k=6&m=1130300323&s=612x612&w=0&h=7C7-KRnAwS8lp75wPbP-rDdH5iy0wA4y2uNn_dgFslg=']
+U+7A79
+8
+qióng
+116.3
+穹.mp3
+
+空
+['empty, hollow, bare, deserted']
+['vacío, hueco, desnudo, desierto']
+['NONE']
+U+7A7A
+8
+kōng
+116.3
+空.mp3
+
+穻
+['NONE']
+['NINGUNA']
+[]
+U+7A7B
+8
+yū
+116.3
+穻.mp3
+
+穼
+['NONE']
+['NINGUNA']
+[]
+U+7A7C
+9
+shēn
+116.4
+穼.mp3
+
+穽
+['hole', ' pitfall, trap']
+['agujero', 'trampa de caída']
+['https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=', 'https://media.gettyimages.com/photos/-picture-id961774496?k=6&m=961774496&s=612x612&w=0&h=4nDqgsqIETtf_LH9K-B14FI5W0LHhIzPmpSaYoaFkf4=']
+U+7A7D
+9
+jǐng
+116.4
+穽.mp3
+
+穾
+['NONE']
+['NINGUNA']
+[]
+U+7A7E
+9
+yào
+116.4
+穾.mp3
+
+穿
+['penetrate, pierce, drill', ' wear']
+['penetrar, perforar, perforar', 'vestir']
+['NONE', 'https://media.gettyimages.com/photos/young-man-wear-face-mask-and-coughing-outdoors-picture-id1211539939?k=6&m=1211539939&s=612x612&w=0&h=uZaOg25v2XbEULXMjzeADrqwHR9Y768OrkO7bXoKloU=']
+U+7A7F
+9
+chuān
+116.4
+穿.mp3
+
+窀
+['to bury']
+['enterrar']
+['https://media.gettyimages.com/photos/people-burying-man-in-sand-picture-id86482826?k=6&m=86482826&s=612x612&w=0&h=ll5b8v_4osI5b3naYvQocvSQqZUsIDhQM2OM9igrsS4=']
+U+7A80
+9
+zhūn
+116.4
+窀.mp3
+
+突
+['suddenly, abruptly, unexpectedly']
+['de repente, abruptamente, inesperadamente']
+['NONE']
+U+7A81
+9
+tū
+116.4
+突.mp3
+
+窂
+['NONE']
+['NINGUNA']
+[]
+U+7A82
+9
+láo
+116.4
+窂.mp3
+
+窃
+['secretly, stealthily', ' steal', ' thief']
+['secretamente, sigilosamente', 'robar', 'ladrón']
+['NONE', 'https://media.gettyimages.com/photos/car-thief-using-a-screwdriver-to-brake-into-a-car-picture-id521342503?k=6&m=521342503&s=612x612&w=0&h=mtg6bEqI-2mytwdYq0KwNsE8ks9Np3Iuo94Ip8O3SXI=', 'https://media.gettyimages.com/photos/robber-using-a-sledgehammer-picture-id475097370?k=6&m=475097370&s=612x612&w=0&h=OvT9KcaN2ZJX08rwjP4FBAr91GLLsVfBPEiLnwzpHlA=']
+U+7A83
+9
+qiè
+116.4
+窃.mp3
+
+窄
+['narrow, tight', ' narrow-minded']
+['estrecho, apretado', 'de mente estrecha']
+['https://media.gettyimages.com/photos/space-problem-in-bedroom-interior-picture-id660340054?k=6&m=660340054&s=612x612&w=0&h=ygzvhkPsDFlFNtFzGslmAm6QOH6c4iwtLBpQymcsR3M=', 'https://media.gettyimages.com/photos/-picture-id126389942?k=6&m=126389942&s=612x612&w=0&h=Yn5iL8ujEcyKfcVd_H1W0ttVDdKJTrBFeO17vl8ZOD0=']
+U+7A84
+10
+zhǎi
+116.5
+窄.mp3
+
+窅
+['far, deep', ' sunken eyes', ' sad']
+['lejos, profundo', 'ojos hundidos', 'ahora']
+['https://media.gettyimages.com/vectors/line-waves-terrain-vector-id1178419317?k=6&m=1178419317&s=612x612&w=0&h=3ZHAsKOZrCTSeFuSwo35lPeHzX-UtzuiOjOFx3iBbTM=', 'https://media.gettyimages.com/photos/underwater-vision-picture-id1043514746?k=6&m=1043514746&s=612x612&w=0&h=LWfeUd8tqWQZbaAataTHYgZQu8w0YEZrwp_aeqeA9gI=', 'https://media.gettyimages.com/photos/portrait-of-pensive-woman-sitting-at-table-in-the-kitchen-picture-id919440232?k=6&m=919440232&s=612x612&w=0&h=6yI90cmoKY8Xd-e-7Fb_2HJkUl00XA29QmR_x_AD_Hs=']
+U+7A85
+10
+yǎo
+116.5
+窅.mp3
+
+窆
+['to put a coffin in a grave']
+['poner un ataúd en una tumba']
+['NONE']
+U+7A86
+9
+biǎn
+116.5
+窆.mp3
+
+窇
+['NONE']
+['NINGUNA']
+[]
+U+7A87
+10
+báo
+116.5
+窇.mp3
+
+窈
+['obscure, secluded', ' refined']
+['oscuro, aislado', 'refinado']
+['https://media.gettyimages.com/photos/new-product-presentation-picture-id184377475?k=6&m=184377475&s=612x612&w=0&h=aoZdc99Q5iE3veDfIX_TPBTC7d_VM_lYPWyXGyIdzT8=', 'https://media.gettyimages.com/vectors/dark-abstract-vector-background-vector-id1049230242?k=6&m=1049230242&s=612x612&w=0&h=rbcWAQB2g-iI_leVt1Rki_eVi3gbvvVlFTWPe8krUoo=']
+U+7A88
+10
+yǎo
+116.5
+窈.mp3
+
+窉
+['(Cant.) to hide things, to conceal']
+['(Cant.) Ocultar cosas, ocultar']
+['https://media.gettyimages.com/photos/cant-watch-picture-id509041316?k=6&m=509041316&s=612x612&w=0&h=qd5MuuHVH_A-hMPX1aV2fjr1Fmp8ADqz96e1Fhynoz8=']
+U+7A89
+10
+bǐng
+116.5
+窉.mp3
+
+窊
+['pit, vault', ' store in pit', ' (Cant.) ']
+['pozo, bóveda', 'almacenar en el pozo', '(Hipocresía.)']
+['https://media.gettyimages.com/photos/bottom-of-the-world-picture-id157180083?k=6&m=157180083&s=612x612&w=0&h=d6eD7b20us1gD9aG2REHFLumQod_vWaS6yt1Ab8XGY4=', 'https://media.gettyimages.com/photos/trays-of-exotic-street-foods-in-thailand-picture-id1158193387?k=6&m=1158193387&s=612x612&w=0&h=nZxGkFtvD2bGKBCYTjRAK1puTdvZZWF_8hvlthi6LgU=', 'https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+7A8A
+10
+wā
+116.5
+窊.mp3
+
+窋
+['NONE']
+['NINGUNA']
+[]
+U+7A8B
+10
+zhú
+116.5
+窋.mp3
+
+窌
+['pit, vault', ' store in pit']
+['pozo, bóveda', 'almacenar en el pozo']
+['https://media.gettyimages.com/photos/bottom-of-the-world-picture-id157180083?k=6&m=157180083&s=612x612&w=0&h=d6eD7b20us1gD9aG2REHFLumQod_vWaS6yt1Ab8XGY4=', 'https://media.gettyimages.com/photos/trays-of-exotic-street-foods-in-thailand-picture-id1158193387?k=6&m=1158193387&s=612x612&w=0&h=nZxGkFtvD2bGKBCYTjRAK1puTdvZZWF_8hvlthi6LgU=']
+U+7A8C
+10
+jiào
+116.5
+窌.mp3
+
+窍
+['hole, opening, aperture']
+['agujero, apertura, apertura']
+['https://media.gettyimages.com/photos/hole-in-black-picture-id182174162?k=6&m=182174162&s=612x612&w=0&h=maEK1m0KW_m6uL03Hv0uAhs4FmU1xmAdDPIcm9Ua8v0=']
+U+7A8D
+10
+qiào
+116.5
+窍.mp3
+
+窎
+['deep', ' distant']
+['profundo', 'distante']
+['https://media.gettyimages.com/photos/bubble-in-blue-ocean-picture-id674153270?k=6&m=674153270&s=612x612&w=0&h=tLmU7aI6FtUQCGhIeA3KcySlOecpqGFvtIK7PqBetUM=', 'https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=']
+U+7A8E
+10
+diào
+116.5
+窎.mp3
+
+窏
+['NONE']
+['NINGUNA']
+[]
+U+7A8F
+11
+wū
+116.6
+窏.mp3
+
+窐
+['NONE']
+['NINGUNA']
+[]
+U+7A90
+11
+guī
+116.6
+窐.mp3
+
+窑
+['kiln', ' coal mine pit']
+['horno', 'pozo de la mina de carbón']
+['https://media.gettyimages.com/photos/pizza-in-a-wood-burning-oven-picture-id157614650?k=6&m=157614650&s=612x612&w=0&h=yx0n787B2pK8tZ6KJSBuHaJ__DvaUZdU3oAniGeSNFE=', 'https://media.gettyimages.com/photos/new-cobar-gold-mine-picture-id1200236824?k=6&m=1200236824&s=612x612&w=0&h=hVJpR6cM6mSssPl4Qj_8q_8jI8RT_J_FlOwFX7rFJrM=']
+U+7A91
+11
+yáo
+116.6
+窑.mp3
+
+窒
+['stop up, obstruct']
+['detener, obstruir']
+['https://media.gettyimages.com/photos/security-entry-with-big-red-stop-sign-on-the-beam-picture-id113547638?k=6&m=113547638&s=612x612&w=0&h=ktcxKSrAf_mAF0ij7fPpxhwhWGZ9Ukytg1ZJjEbB0sg=']
+U+7A92
+11
+zhì
+116.6
+窒.mp3
+
+窓
+['window']
+['ventana']
+['https://media.gettyimages.com/photos/loft-kitchen-picture-id896352308?k=6&m=896352308&s=612x612&w=0&h=pDlFSBvZaQk24i3jUpW2kzA5OmemsUpAHlyWEtbvWYQ=']
+U+7A93
+11
+chuāng
+116.6
+窓.mp3
+
+窔
+['corner']
+['esquina']
+['https://media.gettyimages.com/vectors/blank-background-with-curled-page-vector-id915219118?k=6&m=915219118&s=612x612&w=0&h=YxG2a4uuICrl-lXr8e7qHSPGkq_wdm2MmRpNU2NwppU=']
+U+7A94
+11
+yào
+116.6
+窔.mp3
+
+窕
+['slender', ' quiet and modest, charming']
+['esbelto', 'tranquilo y modesto, encantador']
+['https://media.gettyimages.com/photos/you-can-get-the-same-results-picture-id639710470?k=6&m=639710470&s=612x612&w=0&h=jQ3JK1lczswYTKZu7DDG_Fv9GOW8-El-Srw5J0jFTrQ=', 'https://media.gettyimages.com/photos/season-of-new-life-picture-id1152382828?k=6&m=1152382828&s=612x612&w=0&h=HrWgeTu8zdk8yMRtiYssyuxUAFR2mADfDhXYuAYERsE=']
+U+7A95
+11
+tiǎo
+116.6
+窕.mp3
+
+窖
+['pit, cellar']
+['pozo, bodega']
+['https://media.gettyimages.com/photos/construction-pit-in-voronezh-russia-picture-id187591055?k=6&m=187591055&s=612x612&w=0&h=f0YW0p2iLq65saKas5QJnH7T165vuWMTNHAkSY84hFo=']
+U+7A96
+12
+jiào
+116.7
+窖.mp3
+
+窗
+['window']
+['ventana']
+['https://media.gettyimages.com/photos/loft-kitchen-picture-id896352308?k=6&m=896352308&s=612x612&w=0&h=pDlFSBvZaQk24i3jUpW2kzA5OmemsUpAHlyWEtbvWYQ=']
+U+7A97
+12
+chuāng
+116.7
+窗.mp3
+
+窘
+['embarrassed', ' hard-pressed']
+['desconcertado', 'presionado']
+['https://media.gettyimages.com/photos/sad-high-school-student-feeling-lonely-in-a-hallway-picture-id1151538952?k=6&m=1151538952&s=612x612&w=0&h=nZVnyRnt25pYAJ3FSPQL-zdQlsdXkfMVjlATKVwidMw=', 'https://media.gettyimages.com/photos/hardpressed-to-get-fit-picture-id498315795?k=6&m=498315795&s=612x612&w=0&h=QCZpKE58UlxtexnNecxs1fDB7gMXya_8NMnxu6NfK3k=']
+U+7A98
+12
+jiǒng
+116.7
+窘.mp3
+
+窙
+['NONE']
+['NINGUNA']
+[]
+U+7A99
+12
+xiāo
+116.7
+窙.mp3
+
+窚
+['NONE']
+['NINGUNA']
+[]
+U+7A9A
+11
+chéng
+116.7
+窚.mp3
+
+窛
+['NONE']
+['NINGUNA']
+[]
+U+7A9B
+12
+kòu
+116.7
+窛.mp3
+
+窜
+['run away', ' revise, edit', ' expel']
+['huir', 'revisar, editar', 'expulsar']
+['https://media.gettyimages.com/photos/young-sportswoman-running-outdoors-picture-id1043726272?k=6&m=1043726272&s=612x612&w=0&h=aj4APCy_HvrXRQCZsO80ZEIdwa_-XGEw2pPZkX_n-hI=', 'NONE', 'https://media.gettyimages.com/vectors/banned-rubber-stamp-ink-imprint-icon-vector-id476438414?k=6&m=476438414&s=612x612&w=0&h=pvZH9NglD_l49soQWPMesj-IIW5BqTPu6BzxmjgaUKU=']
+U+7A9C
+12
+cuàn
+116.7
+窜.mp3
+
+窝
+['nest', ' cave, den', ' hiding place']
+['nido', 'cueva, guarida', 'escondite']
+['https://media.gettyimages.com/photos/empty-bird-nest-picture-id922478176?k=6&m=922478176&s=612x612&w=0&h=CXjeanuTUDa-_faxIn_qIS3I7ndnJrznFM8aJY9rE-E=', 'https://media.gettyimages.com/photos/polar-bear-entering-ice-cave-picture-id200558093-001?k=6&m=200558093-001&s=612x612&w=0&h=QWhnb3DonIPlyXyCARTXPU5NeINumuT7U5mGCQdiHO4=', 'https://media.gettyimages.com/photos/boy-in-a-hammock-arm-and-leg-sticking-out-picture-id590357957?k=6&m=590357957&s=612x612&w=0&h=jkq5bSOqsQX7ETs2uXHhxJQBBWn-SH6QhmavRDM8tCs=']
+U+7A9D
+12
+wō
+116.7
+窝.mp3
+
+窞
+['pit']
+['pozo']
+['https://media.gettyimages.com/photos/red-formula-race-car-leaving-the-pit-stop-picture-id1126023919?k=6&m=1126023919&s=612x612&w=0&h=hk4SvaTk38d8RKEngMhc4PqDKc6gmhdtDqU-kf1kywY=']
+U+7A9E
+13
+dàn
+116.8
+窞.mp3
+
+窟
+['hole, cave', ' cellar', ' underground']
+['agujero, cueva', 'cava', 'subterráneo']
+['https://media.gettyimages.com/photos/volcanic-cavern-view-from-inside-a-large-caveshaped-well-in-a-humid-picture-id988513934?k=6&m=988513934&s=612x612&w=0&h=Z9nIt05hVcC5Fn1llV91A1cXskeUcox1xTlIX9CTCSQ=', 'https://media.gettyimages.com/photos/wine-cellar-picture-id182027538?k=6&m=182027538&s=612x612&w=0&h=V_LmQU6hopFq1yMmCW-DFXJj3uBNsXZLDcu9KQA-BJU=', 'https://media.gettyimages.com/photos/blank-billboard-at-subway-station-picture-id1036269646?k=6&m=1036269646&s=612x612&w=0&h=pyDgAWRh4-PpOCWBk7M7VfP4tYjuea8dyWs1DlStJfE=']
+U+7A9F
+13
+kū
+116.8
+窟.mp3
+
+窠
+['nest', ' hole, indention', ' den']
+['nido', 'agujero, sangría', 'los']
+['https://media.gettyimages.com/photos/empty-bird-nest-picture-id922478176?k=6&m=922478176&s=612x612&w=0&h=CXjeanuTUDa-_faxIn_qIS3I7ndnJrznFM8aJY9rE-E=', 'https://media.gettyimages.com/photos/texture-series-metal-picture-id677165557?k=6&m=677165557&s=612x612&w=0&h=z7IXO2jh-prUZqzvWRynwUWwxae0XGkNQUHorbo669w=', 'https://media.gettyimages.com/photos/bohemian-living-room-interior-3d-render-picture-id1182454657?k=6&m=1182454657&s=612x612&w=0&h=dRk1Cc_hNhVLhppNDh8XA6AXvUiknl5TwFvAOrJAuag=']
+U+7AA0
+13
+kē
+116.8
+窠.mp3
+
+窡
+['NONE']
+['NINGUNA']
+[]
+U+7AA1
+13
+zhuó
+116.8
+窡.mp3
+
+窢
+['NONE']
+['NINGUNA']
+[]
+U+7AA2
+13
+xū
+116.8
+窢.mp3
+
+窣
+['to rush out of a den', ' rustling, whispering']
+['salir corriendo de una guarida', 'susurro, susurro']
+['https://media.gettyimages.com/photos/little-girl-meditating-in-the-middle-of-toys-while-family-are-running-picture-id1223858927?k=6&m=1223858927&s=612x612&w=0&h=Rv7QhzB4eXJOFcQUH2Kb4ii6Aupjsyw2JC0Q-9DKKGk=', 'NONE']
+U+7AA3
+13
+sū
+116.8
+窣.mp3
+
+窤
+['NONE']
+['NINGUNA']
+[]
+U+7AA4
+13
+guān
+116.8
+窤.mp3
+
+窥
+['peep, watch, spy on, pry']
+['espiar, mirar, espiar, hacer palanca']
+['https://media.gettyimages.com/photos/man-looking-through-window-blind-high-contrast-black-white-picture-id511101288?k=6&m=511101288&s=612x612&w=0&h=JmXMRYR14rlMS0bNPxgzmyX652LIYhUMNoWWurxRQS8=']
+U+7AA5
+13
+kuī
+116.8
+窥.mp3
+
+窦
+['surname', ' hole, burrow', ' corrupt']
+['apellido', 'agujero, madriguera', 'corrupto']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/vectors/hammer-game-vector-id825886920?k=6&m=825886920&s=612x612&w=0&h=aZ7cSzBxJ-jC7_AIjRmoSdXpKgWMg_ibzuYXxdC4n90=', 'https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=']
+U+7AA6
+13
+dòu
+116.8
+窦.mp3
+
+窧
+['NONE']
+['NINGUNA']
+[]
+U+7AA7
+13
+zhuo
+116.8
+窧.mp3
+
+窨
+['a cellar, a store-room']
+['un sótano, un trastero']
+['https://media.gettyimages.com/illustrations/robots-out-of-order-storeroom-3d-rendering-illustration-id675020317?k=6&m=675020317&s=612x612&w=0&h=EmjRGkFbJryYqjKWZIuwqL6JGv4uQKQjnk0dQT0igW4=']
+U+7AA8
+14
+xūn
+116.9
+窨.mp3
+
+窩
+['nest', ' cave, den', ' hiding place']
+['nido', 'cueva, guarida', 'escondite']
+['https://media.gettyimages.com/photos/empty-bird-nest-picture-id922478176?k=6&m=922478176&s=612x612&w=0&h=CXjeanuTUDa-_faxIn_qIS3I7ndnJrznFM8aJY9rE-E=', 'https://media.gettyimages.com/photos/polar-bear-entering-ice-cave-picture-id200558093-001?k=6&m=200558093-001&s=612x612&w=0&h=QWhnb3DonIPlyXyCARTXPU5NeINumuT7U5mGCQdiHO4=', 'https://media.gettyimages.com/photos/boy-in-a-hammock-arm-and-leg-sticking-out-picture-id590357957?k=6&m=590357957&s=612x612&w=0&h=jkq5bSOqsQX7ETs2uXHhxJQBBWn-SH6QhmavRDM8tCs=']
+U+7AA9
+13
+wō
+116.9
+窩.mp3
+
+窪
+['hollow', ' pit', ' depression', ' swamp']
+['hueco', 'pozo', 'depresión', 'pantano']
+['https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=', 'https://media.gettyimages.com/photos/red-formula-race-car-leaving-the-pit-stop-picture-id1126023919?k=6&m=1126023919&s=612x612&w=0&h=hk4SvaTk38d8RKEngMhc4PqDKc6gmhdtDqU-kf1kywY=', 'https://media.gettyimages.com/photos/worried-woman-sitting-on-floor-next-to-bed-picture-id1091233350?k=6&m=1091233350&s=612x612&w=0&h=vFvTxea9o2XAxFZUqIadP33O1ZO2cd0-iCgnTlNGq0E=', 'https://media.gettyimages.com/photos/tallahassee-cypress-swamp-picture-id981887096?k=6&m=981887096&s=612x612&w=0&h=WDUoQdoOcCg8BYg4MutrsVujzJS25Jlbx1accOLcwbE=']
+U+7AAA
+14
+wā
+116.9
+窪.mp3
+
+窫
+['NONE']
+['NINGUNA']
+[]
+U+7AAB
+14
+yà
+116.9
+窫.mp3
+
+窬
+['a small door or window', ' a hole in the wall to cut through a wall']
+['una pequeña puerta o ventana', 'un agujero en la pared para cortar una pared']
+['https://media.gettyimages.com/photos/barber-shop-window-with-open-sign-and-barber-working-indoors-picture-id910131452?k=6&m=910131452&s=612x612&w=0&h=bQ3HUZlL3gFlr0Re8rour_AQv4KPctyhsuMz927eRQw=', 'https://media.gettyimages.com/photos/raccoons-enter-through-a-hole-in-the-wall-picture-id1034474386?k=6&m=1034474386&s=612x612&w=0&h=01rMl4T1uDb3gy_rrAJ8K1mTpC2ohYqQR1iSnDZvt14=']
+U+7AAC
+14
+yú
+116.9
+窬.mp3
+
+窭
+['poor, impoverished']
+['pobre, empobrecido']
+['https://media.gettyimages.com/photos/brazilian-boy-studying-at-home-picture-id1018966316?k=6&m=1018966316&s=612x612&w=0&h=ZpAwhAoTr5qXFthXchNCMzOeb1IF1DOk57n_ThCGT90=']
+U+7AAD
+14
+jù
+116.9
+窭.mp3
+
+窮
+['poor, destitute, impoverished']
+['pobre, indigente, empobrecido']
+['https://media.gettyimages.com/photos/brazilian-boy-studying-at-home-picture-id1018966316?k=6&m=1018966316&s=612x612&w=0&h=ZpAwhAoTr5qXFthXchNCMzOeb1IF1DOk57n_ThCGT90=']
+U+7AAE
+15
+qióng
+116.10
+窮.mp3
+
+窯
+['kiln', ' coal mine pit']
+['horno', 'pozo de la mina de carbón']
+['https://media.gettyimages.com/photos/pizza-in-a-wood-burning-oven-picture-id157614650?k=6&m=157614650&s=612x612&w=0&h=yx0n787B2pK8tZ6KJSBuHaJ__DvaUZdU3oAniGeSNFE=', 'https://media.gettyimages.com/photos/new-cobar-gold-mine-picture-id1200236824?k=6&m=1200236824&s=612x612&w=0&h=hVJpR6cM6mSssPl4Qj_8q_8jI8RT_J_FlOwFX7rFJrM=']
+U+7AAF
+15
+yáo
+116.10
+窯.mp3
+
+窰
+['brick kiln', ' furnace', ' coal mine pit']
+['horno de ladrillos', 'horno', 'pozo de la mina de carbón']
+['https://media.gettyimages.com/photos/loaded-cart-of-bricks-picture-id805832470?k=6&m=805832470&s=612x612&w=0&h=c-G3LXeE3Elq1boqaE7YNXeUrZwslvtw46ePTKR1Wpg=', 'https://media.gettyimages.com/photos/service-man-working-on-furnace-picture-id157509485?k=6&m=157509485&s=612x612&w=0&h=Kajl_tcXZ8N7XqMFG1ORTA6owqOkJbVQCiCMzKVVpqg=', 'https://media.gettyimages.com/photos/new-cobar-gold-mine-picture-id1200236824?k=6&m=1200236824&s=612x612&w=0&h=hVJpR6cM6mSssPl4Qj_8q_8jI8RT_J_FlOwFX7rFJrM=']
+U+7AB0
+15
+yáo
+116.10
+窰.mp3
+
+窱
+['NONE']
+['NINGUNA']
+[]
+U+7AB1
+15
+tiǎo
+116.10
+窱.mp3
+
+窲
+['NONE']
+['NINGUNA']
+[]
+U+7AB2
+15
+cháo
+116.10
+窲.mp3
+
+窳
+['dirty, useless, weak, powerless', ' cracked, a flaw']
+['sucio, inútil, débil, impotente', 'agrietado, un defecto']
+['https://media.gettyimages.com/photos/crack-in-grey-concrete-surface-picture-id172950698?k=6&m=172950698&s=612x612&w=0&h=dL4izE-Pc47JKkvWgm7E7k4EITNDKSCR2knKU7MEv6k=', 'https://media.gettyimages.com/photos/hole-in-plaster-wall-exposed-wood-paneling-picture-id117217184?k=6&m=117217184&s=612x612&w=0&h=sYwHHwmVvNd-w4FXkOVtZmU_7kfqJuO0lOCrH8Vfve4=']
+U+7AB3
+15
+yǔ
+116.10
+窳.mp3
+
+窴
+['glance at, look at', ' wink at']
+['mirar, mirar', 'guiñar a']
+['https://media.gettyimages.com/photos/studio-portrait-of-real-mediterranean-young-woman-looking-to-the-side-picture-id1135065358?k=6&m=1135065358&s=612x612&w=0&h=xJrWk_R5TR-21b-ptUXQgb_OarMzOuuVjNLH7DoB4_k=', 'https://media.gettyimages.com/photos/portrait-of-laughing-young-man-pulling-funny-faces-picture-id946905444?k=6&m=946905444&s=612x612&w=0&h=7xrC2-EKAu917raneKlfSQG28E3EvNIUwfMAvL87ILU=']
+U+7AB4
+15
+tián
+116.10
+窴.mp3
+
+窵
+['deep', ' distant']
+['profundo', 'distante']
+['https://media.gettyimages.com/photos/bubble-in-blue-ocean-picture-id674153270?k=6&m=674153270&s=612x612&w=0&h=tLmU7aI6FtUQCGhIeA3KcySlOecpqGFvtIK7PqBetUM=', 'https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=']
+U+7AB5
+16
+diào
+116.11
+窵.mp3
+
+窶
+['poor, impoverished']
+['pobre, empobrecido']
+['https://media.gettyimages.com/photos/brazilian-boy-studying-at-home-picture-id1018966316?k=6&m=1018966316&s=612x612&w=0&h=ZpAwhAoTr5qXFthXchNCMzOeb1IF1DOk57n_ThCGT90=']
+U+7AB6
+16
+jù
+116.11
+窶.mp3
+
+窷
+['NONE']
+['NINGUNA']
+[]
+U+7AB7
+16
+liào
+116.11
+窷.mp3
+
+窸
+['faint sound, whisper']
+['sonido tenue, susurro']
+['NONE']
+U+7AB8
+16
+xī
+116.11
+窸.mp3
+
+窹
+['NONE']
+['NINGUNA']
+[]
+U+7AB9
+16
+wù
+116.11
+窹.mp3
+
+窺
+['peep, watch, spy on, pry']
+['espiar, mirar, espiar, hacer palanca']
+['https://media.gettyimages.com/photos/man-looking-through-window-blind-high-contrast-black-white-picture-id511101288?k=6&m=511101288&s=612x612&w=0&h=JmXMRYR14rlMS0bNPxgzmyX652LIYhUMNoWWurxRQS8=']
+U+7ABA
+16
+kuī
+116.11
+窺.mp3
+
+窻
+['window']
+['ventana']
+['https://media.gettyimages.com/photos/loft-kitchen-picture-id896352308?k=6&m=896352308&s=612x612&w=0&h=pDlFSBvZaQk24i3jUpW2kzA5OmemsUpAHlyWEtbvWYQ=']
+U+7ABB
+16
+chuāng
+116.11
+窻.mp3
+
+窼
+['NONE']
+['NINGUNA']
+[]
+U+7ABC
+16
+zhāo
+116.11
+窼.mp3
+
+窽
+['empty', ' vacant']
+['vacío', 'vacante']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=', 'https://media.gettyimages.com/photos/empty-studio-background-picture-id1024810748?k=6&m=1024810748&s=612x612&w=0&h=tMznJ2s5l8O4U5tmmCIE3Frt1HNnllEG6KuoNWwTBik=']
+U+7ABD
+16
+kuǎn
+116.11
+窽.mp3
+
+窾
+['hole', ' hallow', ' empty']
+['agujero', 'santificar', 'vacío']
+['https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=', 'https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=', 'https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+7ABE
+17
+kuǎn
+116.12
+窾.mp3
+
+窿
+['mine shaft', ' cavity, hole']
+['pozo de la mina', 'cavidad, agujero']
+['https://media.gettyimages.com/photos/kid-through-a-tunnel-picture-id478952853?k=6&m=478952853&s=612x612&w=0&h=kfMDqXrka1amXoi-WJMlLldfW3bxcGkBx9RruhBabqM=', 'https://media.gettyimages.com/photos/hispanic-woman-holding-seedling-picture-id87400174?k=6&m=87400174&s=612x612&w=0&h=Gf7922WWkP1BEFm14jatCx1N23MpynIIKilv3VyxZE4=']
+U+7ABF
+16
+lóng
+116.12
+窿.mp3
+
+竀
+['NONE']
+['NINGUNA']
+[]
+U+7AC0
+17
+chēng
+116.12
+竀.mp3
+
+竁
+['bore']
+['aburrir']
+['https://media.gettyimages.com/photos/waiting-bore-picture-id1140067871?k=6&m=1140067871&s=612x612&w=0&h=smBCuV618skCjbOgdNA55GqA13q3Qd9nM4Lo_tXx-Js=']
+U+7AC1
+17
+cuì
+116.12
+竁.mp3
+
+竂
+['NONE']
+['NINGUNA']
+[]
+U+7AC2
+17
+liáo
+116.12
+竂.mp3
+
+竃
+['furnace', ' kitchen range']
+['horno', 'Gama de cocina']
+['https://media.gettyimages.com/photos/service-man-working-on-furnace-picture-id157509485?k=6&m=157509485&s=612x612&w=0&h=Kajl_tcXZ8N7XqMFG1ORTA6owqOkJbVQCiCMzKVVpqg=', 'https://media.gettyimages.com/photos/domestic-kitchen-picture-id940320814?k=6&m=940320814&s=612x612&w=0&h=mJxtMiOfCyroG7-xaRaN62PHOsHIAJlaeGuTOFNNpWA=']
+U+7AC3
+17
+zào
+116.12
+竃.mp3
+
+竄
+['run away', ' revise, edit', ' expel']
+['huir', 'revisar, editar', 'expulsar']
+['https://media.gettyimages.com/photos/young-sportswoman-running-outdoors-picture-id1043726272?k=6&m=1043726272&s=612x612&w=0&h=aj4APCy_HvrXRQCZsO80ZEIdwa_-XGEw2pPZkX_n-hI=', 'NONE', 'https://media.gettyimages.com/vectors/banned-rubber-stamp-ink-imprint-icon-vector-id476438414?k=6&m=476438414&s=612x612&w=0&h=pvZH9NglD_l49soQWPMesj-IIW5BqTPu6BzxmjgaUKU=']
+U+7AC4
+18
+cuàn
+116.13
+竄.mp3
+
+竅
+['hole, opening, aperture']
+['agujero, apertura, apertura']
+['https://media.gettyimages.com/photos/hole-in-black-picture-id182174162?k=6&m=182174162&s=612x612&w=0&h=maEK1m0KW_m6uL03Hv0uAhs4FmU1xmAdDPIcm9Ua8v0=']
+U+7AC5
+18
+qiào
+116.13
+竅.mp3
+
+竆
+['exhausted', ' impoverished', ' poor']
+['agotado', 'empobrecido', 'pobre']
+['https://media.gettyimages.com/photos/thats-it-im-done-picture-id874813758?k=6&m=874813758&s=612x612&w=0&h=bh5KZrNsZc3W3eO3InyE1cYie32-6ZM9wDLBaq00f90=', 'https://media.gettyimages.com/photos/brazilian-boy-studying-at-home-picture-id1018966316?k=6&m=1018966316&s=612x612&w=0&h=ZpAwhAoTr5qXFthXchNCMzOeb1IF1DOk57n_ThCGT90=', 'https://media.gettyimages.com/photos/brazilian-boy-studying-at-home-picture-id1018966316?k=6&m=1018966316&s=612x612&w=0&h=ZpAwhAoTr5qXFthXchNCMzOeb1IF1DOk57n_ThCGT90=']
+U+7AC6
+18
+qióng
+116.14
+竆.mp3
+
+竇
+['surname', ' hole, burrow', ' corrupt']
+['apellido', 'agujero, madriguera', 'corrupto']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/vectors/hammer-game-vector-id825886920?k=6&m=825886920&s=612x612&w=0&h=aZ7cSzBxJ-jC7_AIjRmoSdXpKgWMg_ibzuYXxdC4n90=', 'https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=']
+U+7AC7
+20
+dòu
+116.15
+竇.mp3
+
+竈
+['furnace', ' kitchen stove']
+['horno', 'Estufa de cocina']
+['https://media.gettyimages.com/photos/service-man-working-on-furnace-picture-id157509485?k=6&m=157509485&s=612x612&w=0&h=Kajl_tcXZ8N7XqMFG1ORTA6owqOkJbVQCiCMzKVVpqg=', 'https://media.gettyimages.com/photos/domestic-kitchen-picture-id940320814?k=6&m=940320814&s=612x612&w=0&h=mJxtMiOfCyroG7-xaRaN62PHOsHIAJlaeGuTOFNNpWA=']
+U+7AC8
+21
+zào
+116.16
+竈.mp3
+
+竉
+['a hole', ' a cleft', ' empty']
+['un agujero', 'una hendidura', 'vacío']
+['https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=', 'https://media.gettyimages.com/illustrations/rendered-illustration-visualization-of-neurons-firing-in-the-gap-illustration-id1173554908?k=6&m=1173554908&s=612x612&w=0&h=9YHqNPflFDkfTkoyS5hPqOaKz-jbA7WZkh3wcy6UmWQ=', 'https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+7AC9
+21
+lǒng
+116.16
+竉.mp3
+
+竊
+['secretly, stealthily', ' steal', ' thief']
+['secretamente, sigilosamente', 'robar', 'ladrón']
+['NONE', 'https://media.gettyimages.com/photos/car-thief-using-a-screwdriver-to-brake-into-a-car-picture-id521342503?k=6&m=521342503&s=612x612&w=0&h=mtg6bEqI-2mytwdYq0KwNsE8ks9Np3Iuo94Ip8O3SXI=', 'https://media.gettyimages.com/photos/robber-using-a-sledgehammer-picture-id475097370?k=6&m=475097370&s=612x612&w=0&h=OvT9KcaN2ZJX08rwjP4FBAr91GLLsVfBPEiLnwzpHlA=']
+U+7ACA
+22
+qiè
+116.17
+竊.mp3
+
+立
+['stand', ' let stand', ' establish, set']
+['estar', 'deje reposar', 'establecer, establecer']
+['https://media.gettyimages.com/photos/3d-blank-standing-advertising-digital-poster-picture-id185211029?k=6&m=185211029&s=612x612&w=0&h=aNd6ryRRzoNY6_axSZ6zHtES1uah3XJYnjax91mxYy4=', 'https://media.gettyimages.com/photos/let-the-preparation-begin-picture-id504367031?k=6&m=504367031&s=612x612&w=0&h=54nRQ9N-85Ma5EK1mVLkfs-YaBceaVl-EfJEuZOMsbE=', 'https://media.gettyimages.com/vectors/corporate-development-set-of-thin-line-vector-icons-vector-id943807642?k=6&m=943807642&s=612x612&w=0&h=0S7ZBLm4wT7vjeMxKUTWltApsq-F_VO4372i_i_YKbA=']
+U+7ACB
+5
+lì
+117.0
+立.mp3
+
+竌
+['NONE']
+['NINGUNA']
+[]
+U+7ACC
+7
+chù
+117.2
+竌.mp3
+
+竍
+['decaliter']
+['decalitro']
+['https://media.gettyimages.com/photos/decaliter-picture-id146275114?k=6&m=146275114&s=612x612&w=0&h=omMk7D68Uj4veUw5Bb7Bk9n6AQlAwcH_mfpJIf059Ro=']
+U+7ACD
+7
+shí
+117.2
+竍.mp3
+
+竎
+['NONE']
+['NINGUNA']
+[]
+U+7ACE
+8
+fù
+117.3
+竎.mp3
+
+竏
+['kiloliter']
+['kilolitros']
+['NONE']
+U+7ACF
+8
+qiān
+117.3
+竏.mp3
+
+竐
+['NONE']
+['NINGUNA']
+[]
+U+7AD0
+9
+chù
+117.4
+竐.mp3
+
+竑
+['be vast and endless', ' broad']
+['ser vasto e interminable', 'ancho']
+['https://media.gettyimages.com/photos/milky-way-galaxy-background-picture-id1018193742?k=6&m=1018193742&s=612x612&w=0&h=YLdsTQvU4UFwAO8DA85HBtyPl12Ef6IVcfcTW5ARSJs=', 'https://media.gettyimages.com/photos/deep-blue-ocean-panorama-picture-id184330929?k=6&m=184330929&s=612x612&w=0&h=kIkkguHYbU7XXV98DlQzthCzhURv9ZaA7ObtoxZ9VwE=']
+U+7AD1
+9
+hóng
+117.4
+unable to generate
+
+竒
+['strange, unusual, uncanny, occult']
+['extraño, inusual, misterioso, oculto']
+['NONE']
+U+7AD2
+9
+qí
+117.4
+竒.mp3
+
+竓
+['milliliter']
+['mililitro']
+['https://media.gettyimages.com/photos/isolated-shot-of-empty-measuring-beaker-on-white-background-picture-id175601617?k=6&m=175601617&s=612x612&w=0&h=Xee6raRceMOOrIn0g9gzV65fMqcRbPOlX6X24mpAxSA=']
+U+7AD3
+9
+háo
+117.4
+unable to generate
+
+竔
+['litre']
+['litro']
+['https://media.gettyimages.com/photos/bottle-of-water-picture-id172715253?k=6&m=172715253&s=612x612&w=0&h=Wa_9EwBoZcogNaPmLSMBlxgFAMj_I4gxiuPSfAMHLV4=']
+U+7AD4
+9
+shēng
+117.4
+竔.mp3
+
+竕
+['deciliter']
+['decilitro']
+['https://media.gettyimages.com/photos/old-measuring-cup-picture-id157720802?k=6&m=157720802&s=612x612&w=0&h=vxY5nG9fN2swzOl39LNkPFEZnqsLzJvtqA7YDo1DqFc=']
+U+7AD5
+9
+fēn
+117.4
+竕.mp3
+
+竖
+['perpendicular, vertical', ' erect']
+['perpendicular, vertical', 'erguido']
+['https://media.gettyimages.com/photos/plumb-bob-and-line-picture-id114397223?k=6&m=114397223&s=612x612&w=0&h=DuhMYY-W-56R_26xjmk-H-w3HssaEZ_BVUpGv2QY6cE=', 'https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=']
+U+7AD6
+9
+shù
+117.4
+竖.mp3
+
+竗
+['NONE']
+['NINGUNA']
+[]
+U+7AD7
+9
+miào
+117.4
+竗.mp3
+
+竘
+['NONE']
+['NINGUNA']
+[]
+U+7AD8
+10
+qǔ
+117.5
+竘.mp3
+
+站
+['stand up', ' a stand, station']
+['Levántate', 'un stand, estación']
+['https://media.gettyimages.com/photos/3d-blank-standing-advertising-digital-poster-picture-id185211029?k=6&m=185211029&s=612x612&w=0&h=aNd6ryRRzoNY6_axSZ6zHtES1uah3XJYnjax91mxYy4=', 'https://media.gettyimages.com/photos/businessman-at-an-airport-picture-id1150100330?k=6&m=1150100330&s=612x612&w=0&h=98YdtJ48Poh0FJdCJE864z8Gufqq4CKDQgSzP-hJmow=']
+U+7AD9
+10
+zhàn
+117.5
+站.mp3
+
+竚
+['stand and wait for long time']
+['estar de pie y esperar mucho tiempo']
+['NONE']
+U+7ADA
+10
+zhù
+117.5
+竚.mp3
+
+竛
+['NONE']
+['NINGUNA']
+[]
+U+7ADB
+10
+líng
+117.5
+竛.mp3
+
+竜
+['dragon', ' symbolic of emperor']
+['dragon', 'simbólico del emperador']
+['https://media.gettyimages.com/photos/iguana-eye-closeup-picture-id1033128160?k=6&m=1033128160&s=612x612&w=0&h=xg7kzis4ogWJpfJ7csn-RFGBuw6F3xKxB8X-SgXg8H0=', 'https://media.gettyimages.com/photos/beijing-forbidden-city-skyline-picture-id155444894?k=6&m=155444894&s=612x612&w=0&h=Q47vZclgEeJxINOyTJbCjD0N4dh9Nnq6R2sHpl2b-l8=']
+U+7ADC
+10
+lóng
+117.5
+竜.mp3
+
+竝
+['to combine, annex', " also, what's more"]
+['para combinar, anexo', 'además, lo que es más']
+['https://media.gettyimages.com/photos/portrait-of-opencast-colaminers-standing-next-to-health-and-safety-picture-id149316811?k=6&m=149316811&s=612x612&w=0&h=cz0RSrnUaoD5MWjTv8LfopR9rh9qUrvCzZZjaTyWNYs=', 'https://media.gettyimages.com/photos/what-would-the-mornings-be-without-social-media-picture-id1185838701?k=6&m=1185838701&s=612x612&w=0&h=RZmmizNTQn7AJDuVw8Lai4h-_xdomA3_6GDR5GNTIYY=']
+U+7ADD
+10
+bìng
+117.5
+竝.mp3
+
+竞
+['contend, vie, compete']
+['contender, la vida, competir']
+['https://media.gettyimages.com/photos/young-business-boys-in-suits-race-toy-cars-picture-id507282334?k=6&m=507282334&s=612x612&w=0&h=eOZa7w6c_X36YMwHv40gMsphO3xWLDj1QXTh_j_-A4g=']
+U+7ADE
+10
+jìng
+117.5
+竞.mp3
+
+竟
+['finally, after all, at last']
+['finalmente, después de todo, al fin']
+['https://media.gettyimages.com/photos/handsome-bearded-entrepreneur-as-his-business-partner-finally-signing-picture-id1152013583?k=6&m=1152013583&s=612x612&w=0&h=FYcdZUo0A3MFJoJEoK-yI6jUc5t1Z8zPRkeeT56ZXd4=']
+U+7ADF
+11
+jìng
+180.2
+竟.mp3
+
+章
+['composition', ' chapter, section']
+['composición', 'capítulo, sección']
+['https://media.gettyimages.com/vectors/notebook-cover-vector-id656037464?k=6&m=656037464&s=612x612&w=0&h=Uo1CBHdT-CCt2H9whhjCEQXca6lFoyBwm1cTRNFK84s=', 'https://media.gettyimages.com/photos/to-the-next-chapter-of-our-lives-picture-id614342852?k=6&m=614342852&s=612x612&w=0&h=mi5hz7VGkBcPVGm7q0JjVfby_kvLE6wz4G-pTn8DR2w=']
+U+7AE0
+11
+zhāng
+180.2
+章.mp3
+
+竡
+['hectoliter']
+['hectolitros']
+['NONE']
+U+7AE1
+11
+bǎi
+117.6
+竡.mp3
+
+竢
+['wait for, wait until, as soon as']
+['esperar, esperar hasta, tan pronto como']
+['https://media.gettyimages.com/vectors/reopening-soon-wuhan-coronavirus-outbreak-influenza-as-dangerous-flu-vector-id1225583849?k=6&m=1225583849&s=612x612&w=0&h=4we_4rcXNTsUxoUNw0_dMXiUuS5ojlxbtTQVpLbVpwM=']
+U+7AE2
+12
+sì
+117.7
+竢.mp3
+
+竣
+['terminate, end, finish', ' quit']
+['terminar, terminar, terminar', 'dejar']
+['https://media.gettyimages.com/photos/checkered-flag-waving-at-an-car-race-picture-id539234279?k=6&m=539234279&s=612x612&w=0&h=TQLsFnrXdpv1ip-XxZHRBa6_Z1WebSXi2ke_10WVafM=', 'https://media.gettyimages.com/photos/his-time-here-has-come-to-an-end-picture-id1070990852?k=6&m=1070990852&s=612x612&w=0&h=hjNaKwajS9TJvUQXK-Bmjw70i_ZfM1qufsd7rgHZmAk=']
+U+7AE3
+12
+jùn
+117.7
+竣.mp3
+
+竤
+['NONE']
+['NINGUNA']
+[]
+U+7AE4
+12
+hóng
+117.7
+竤.mp3
+
+童
+['child, boy, servant boy', ' virgin']
+['niño, niño, sirviente', 'Virgen']
+['https://media.gettyimages.com/photos/bell-picture-id90904267?k=6&m=90904267&s=612x612&w=0&h=1igv7xDwsmacxJo80uil1cnOAxDSMgWUCHEVrUHeKdY=', 'https://media.gettyimages.com/photos/the-virgin-of-guadalupe-picture-id184935696?k=6&m=184935696&s=612x612&w=0&h=P7UW45AS69NOvN6pGQSnXbf-dfKficBLfW_x8lmUUac=']
+U+7AE5
+12
+tóng
+117.7
+童.mp3
+
+竦
+['revere, respect, be in awe of']
+['reverenciar, respetar, asombrarnos']
+['NONE']
+U+7AE6
+12
+sǒng
+117.7
+竦.mp3
+
+竧
+['NONE']
+['NINGUNA']
+[]
+U+7AE7
+12
+jìng
+117.7
+竧.mp3
+
+竨
+['NONE']
+['NINGUNA']
+[]
+U+7AE8
+13
+diào
+117.8
+竨.mp3
+
+竩
+['NONE']
+['NINGUNA']
+[]
+U+7AE9
+13
+yì
+117.8
+竩.mp3
+
+竪
+['perpendicular, vertical', ' erect']
+['perpendicular, vertical', 'erguido']
+['https://media.gettyimages.com/photos/plumb-bob-and-line-picture-id114397223?k=6&m=114397223&s=612x612&w=0&h=DuhMYY-W-56R_26xjmk-H-w3HssaEZ_BVUpGv2QY6cE=', 'https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=']
+U+7AEA
+13
+shù
+117.8
+竪.mp3
+
+竫
+['NONE']
+['NINGUNA']
+[]
+U+7AEB
+11
+jìng
+117.8
+竫.mp3
+
+竬
+['NONE']
+['NINGUNA']
+[]
+U+7AEC
+14
+qǔ
+117.9
+竬.mp3
+
+竭
+['put forth great effort', ' exhaust']
+['hacer un gran esfuerzo', 'cansada']
+['NONE', 'https://media.gettyimages.com/photos/polluting-clouds-of-exhaust-fumes-rise-in-the-air-picture-id157313230?k=6&m=157313230&s=612x612&w=0&h=IWSuHEsCuYNQuHeIwX3OqyEsbwHEp6jfMkEoV6onLuc=']
+U+7AED
+14
+jié
+117.9
+竭.mp3
+
+竮
+['NONE']
+['NINGUNA']
+[]
+U+7AEE
+14
+pīng
+117.11
+竮.mp3
+
+端
+['end, extreme', ' head', ' beginning']
+['final, extremo', 'cabeza', 'comenzando']
+['https://media.gettyimages.com/photos/criterium-road-bike-race-picture-id508486694?k=6&m=508486694&s=612x612&w=0&h=nqdeXA3kV5Hibo10qmg5EqUOYOqhzcYSqnrEaGIyZPQ=', 'https://media.gettyimages.com/vectors/portrait-de-jeune-homme-vector-id944722920?k=6&m=944722920&s=612x612&w=0&h=1ymjqwaifqaavjCJFdyu4Ss0IoaPLmUXK9S-QzjHYOQ=', 'https://media.gettyimages.com/photos/two-men-pushing-open-doors-picture-id648539971?k=6&m=648539971&s=612x612&w=0&h=iWYVHnOJEFBu-IC1IOvs9LNreJ5SCAUMT2RE_zKCMCE=']
+U+7AEF
+14
+duān
+117.9
+端.mp3
+
+竰
+['centiliter']
+['centilitro']
+['NONE']
+U+7AF0
+14
+lí
+117.9
+竰.mp3
+
+竱
+['NONE']
+['NINGUNA']
+[]
+U+7AF1
+16
+zhuǎn
+117.11
+竱.mp3
+
+竲
+['NONE']
+['NINGUNA']
+[]
+U+7AF2
+17
+céng
+117.12
+竲.mp3
+
+竳
+['NONE']
+['NINGUNA']
+[]
+U+7AF3
+17
+dēng
+117.12
+竳.mp3
+
+竴
+['NONE']
+['NINGUNA']
+[]
+U+7AF4
+17
+cūn
+117.12
+竴.mp3
+
+竵
+['NONE']
+['NINGUNA']
+[]
+U+7AF5
+18
+wāi
+117.13
+竵.mp3
+
+競
+['contend, vie, compete']
+['contender, la vida, competir']
+['https://media.gettyimages.com/photos/young-business-boys-in-suits-race-toy-cars-picture-id507282334?k=6&m=507282334&s=612x612&w=0&h=eOZa7w6c_X36YMwHv40gMsphO3xWLDj1QXTh_j_-A4g=']
+U+7AF6
+20
+jìng
+117.15
+競.mp3
+
+竷
+['NONE']
+['NINGUNA']
+[]
+U+7AF7
+20
+kǎn
+117.15
+竷.mp3
+
+竸
+['contend, vie, compete']
+['contender, la vida, competir']
+['https://media.gettyimages.com/photos/young-business-boys-in-suits-race-toy-cars-picture-id507282334?k=6&m=507282334&s=612x612&w=0&h=eOZa7w6c_X36YMwHv40gMsphO3xWLDj1QXTh_j_-A4g=']
+U+7AF8
+22
+jìng
+117.17
+竸.mp3
+
+竹
+['bamboo', ' flute', ' KangXi radical 118']
+['bambú', 'flauta', 'K Ang ξ radical 118']
+['https://media.gettyimages.com/photos/high-resolution-lightcolored-bamboo-background-picture-id175427437?k=6&m=175427437&s=612x612&w=0&h=yI-6ELH0QGql4y13EQEVj78XlB18aB9e3qmgEsUV4Oo=', 'https://media.gettyimages.com/photos/glass-of-champagne-picture-id171160119?k=6&m=171160119&s=612x612&w=0&h=7gnsod_T3T8JqBbYEbdwFsBeuK7cjRBRiHiK7XIvT2g=', 'NONE']
+U+7AF9
+6
+zhú
+118.0
+竹.mp3
+
+竺
+['India', ' bamboo', ' surname']
+['India', 'bambú', 'apellido']
+['https://media.gettyimages.com/photos/using-mobile-phone-picture-id1147785920?k=6&m=1147785920&s=612x612&w=0&h=ZhXW2w8LDfxRbRKK-3BXWIVl1UwHmiLrV-LPHww-ZF8=', 'https://media.gettyimages.com/photos/high-resolution-lightcolored-bamboo-background-picture-id175427437?k=6&m=175427437&s=612x612&w=0&h=yI-6ELH0QGql4y13EQEVj78XlB18aB9e3qmgEsUV4Oo=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+7AFA
+8
+zhú
+118.2
+竺.mp3
+
+竻
+['thorns, brambles']
+['espinas, zarzas']
+['https://media.gettyimages.com/photos/crown-of-thorns-picture-id184922994?k=6&m=184922994&s=612x612&w=0&h=vV8QrbsjKtSGNPOLv4-BB7WXZhc-nBeaXKWMVJNJnEE=']
+U+7AFB
+8
+lè
+118.2
+竻.mp3
+
+竼
+['bamboo cover for boat']
+['funda de bambú para barco']
+['https://media.gettyimages.com/photos/african-boat-image-picture-id1280557473?k=6&m=1280557473&s=612x612&w=0&h=qtPIvRR7a01zVkYi3bSZGQG5tO50AKNLCABTilZpwWQ=']
+U+7AFC
+9
+péng
+118.3
+竼.mp3
+
+竽
+['ancient woodwind instrument']
+['antiguo instrumento de viento de madera']
+['https://media.gettyimages.com/illustrations/group-of-minstrels-performing-16th-century-illustration-id1142047068?k=6&m=1142047068&s=612x612&w=0&h=oEWdoRpVnAHKSwS-WuHMOHE18JbogBseB9RQj-Bw_IQ=']
+U+7AFD
+9
+yú
+118.3
+竽.mp3
+
+竾
+['flute']
+['flauta']
+['https://media.gettyimages.com/photos/glass-of-champagne-picture-id171160119?k=6&m=171160119&s=612x612&w=0&h=7gnsod_T3T8JqBbYEbdwFsBeuK7cjRBRiHiK7XIvT2g=']
+U+7AFE
+9
+chí
+118.3
+竾.mp3
+
+竿
+['bamboo pole', ' penis']
+['caña de bambú', 'pene']
+['https://media.gettyimages.com/photos/bamboo-poles-picture-id182245004?k=6&m=182245004&s=612x612&w=0&h=iKDsupKmkEe8n9abnac19YB-hGCu3_0denjFhjr_oBs=', 'https://media.gettyimages.com/photos/banana-penis-picture-id1093918228?k=6&m=1093918228&s=612x612&w=0&h=6Wa9ZZFac-VyDlRDcFNIDkHD-8G9b1VsVhVXEA1NKiE=']
+U+7AFF
+9
+gān
+118.3
+竿.mp3
+
+笀
+['NONE']
+['NINGUNA']
+[]
+U+7B00
+9
+máng
+118.3
+笀.mp3
+
+笁
+['NONE']
+['NINGUNA']
+[]
+U+7B01
+9
+zhú
+118.3
+笁.mp3
+
+笂
+['NONE']
+['NINGUNA']
+[]
+U+7B02
+9
+wán
+118.3
+笂.mp3
+
+笃
+['deep, true, sincere, genuine']
+['profundo, verdadero, sincero, genuino']
+['https://media.gettyimages.com/photos/utah-senior-cowboy-picture-id992303262?k=6&m=992303262&s=612x612&w=0&h=4LPoCQJj-PNriqSxllFFwZSZJcglOaESpFro-zUMqLo=']
+U+7B03
+9
+dǔ
+118.3
+笃.mp3
+
+笄
+['hairpin', ' fifteen year old girl']
+['horquilla', 'niña de quince años']
+['https://media.gettyimages.com/photos/bobby-pins-cut-out-on-white-picture-id113708964?k=6&m=113708964&s=612x612&w=0&h=50tdoPnSyy75gXqq0XLqBPeKWBvzPCLW5nUbFuwrii4=', 'https://media.gettyimages.com/photos/teenager-girl-listening-music-picture-id537686710?k=6&m=537686710&s=612x612&w=0&h=kN4o8Mj1Nm59pQOszguRxwu2eGc8Ovz8QahiF9Ekt7E=']
+U+7B04
+10
+jī
+118.6
+笄.mp3
+
+笅
+['NONE']
+['NINGUNA']
+[]
+U+7B05
+10
+jiǎo
+118.4
+笅.mp3
+
+笆
+['bamboo fence']
+['cerca de bambú']
+['https://media.gettyimages.com/photos/bamboo-floor-texture-background-picture-id471416165?k=6&m=471416165&s=612x612&w=0&h=8NUzpGYKlmG0xI9qzQNN5T1XUreRVcVWhFgZJjVDY9I=']
+U+7B06
+10
+bā
+118.4
+笆.mp3
+
+笇
+['NONE']
+['NINGUNA']
+[]
+U+7B07
+10
+suàn
+118.4
+笇.mp3
+
+笈
+['bamboo box used carry books']
+['caja de bambú usados \u200b\u200bllevar libros']
+['NONE']
+U+7B08
+9
+jí
+118.4
+笈.mp3
+
+笉
+['NONE']
+['NINGUNA']
+[]
+U+7B09
+10
+qǐn
+118.4
+笉.mp3
+
+笊
+['ladle, bamboo skimmer']
+['cucharón, espumadera de bambú']
+['https://media.gettyimages.com/photos/bamboo-skimmer-picture-id603224019?k=6&m=603224019&s=612x612&w=0&h=hFAb__HjsDwGvXNgByk-xpJr_AORN5fEt0azLaw77IU=']
+U+7B0A
+10
+zhào
+118.4
+笊.mp3
+
+笋
+['bamboo shoots']
+['brotes de bambú']
+['https://media.gettyimages.com/photos/bamboo-plants-in-garden-picture-id636034636?k=6&m=636034636&s=612x612&w=0&h=BNDIUarjsJ7fvEMYmSdqpDkMliTwxe3j0w8Q0q2B8wM=']
+U+7B0B
+10
+sǔn
+118.4
+笋.mp3
+
+笌
+['NONE']
+['NINGUNA']
+[]
+U+7B0C
+10
+yá
+118.4
+笌.mp3
+
+笍
+['NONE']
+['NINGUNA']
+[]
+U+7B0D
+10
+zhuì
+118.4
+笍.mp3
+
+笎
+['NONE']
+['NINGUNA']
+[]
+U+7B0E
+10
+yuán
+118.4
+笎.mp3
+
+笏
+['tablet held by someone having authority']
+['tableta sostenida por alguien que tiene autoridad']
+['https://media.gettyimages.com/photos/happy-young-businessman-with-digital-tablet-in-warehouse-picture-id536051931?k=6&m=536051931&s=612x612&w=0&h=eRBSejWxDtVRdwjd-7xqqth3y7W-uWHOO2QyU0tp-z4=']
+U+7B0F
+10
+hù
+118.4
+笏.mp3
+
+笐
+['bamboos placed across wooden frames on which grain may be stored in damp climates']
+['bambúes colocados sobre marcos de madera en los que el grano puede almacenarse en climas húmedos']
+['NONE']
+U+7B10
+10
+háng
+118.4
+笐.mp3
+
+笑
+['smile, laugh, giggle', ' snicker']
+['sonreír, reír, reír', 'risa disimulada']
+['https://media.gettyimages.com/photos/nothing-inspires-happiness-like-love-picture-id1094338222?k=6&m=1094338222&s=612x612&w=0&h=Aa85rto1n0SamxoW1g2GQ9ctcdrKpGNNlbAwpt3muZg=', 'https://media.gettyimages.com/photos/suzy-snickers-picture-id973925814?k=6&m=973925814&s=612x612&w=0&h=jkpSwv3BLvhSzO6q9IRlkrkShwpQjchx4IFjmvXLeJA=']
+U+7B11
+10
+xiào
+118.4
+笑.mp3
+
+笒
+['NONE']
+['NINGUNA']
+[]
+U+7B12
+10
+cén
+118.4
+笒.mp3
+
+笓
+['to comb', ' a fine-toothed comb']
+['peinar', 'un peine de dientes finos']
+['https://media.gettyimages.com/vectors/set-of-seamless-contour-hexagon-background-vector-id985082724?k=6&m=985082724&s=612x612&w=0&h=fNk-g2u-7Wgm60HX1Ljd6Zx6VEgzmRTcVpoenM2iJAU=', 'https://media.gettyimages.com/vectors/black-finetoothed-hair-comb-vector-id465897830?k=6&m=465897830&s=612x612&w=0&h=DcFe-N1H2QHSaa9fLGHslOMARtpzYtD8dKXVzwyOM5k=']
+U+7B13
+10
+bì
+118.4
+笓.mp3
+
+笔
+['writing brush', ' write', ' stroke']
+['pincel de escribir', 'escribir', 'carrera']
+['https://media.gettyimages.com/vectors/vector-arrows-grunge-brush-strokes-vector-id1141187334?k=6&m=1141187334&s=612x612&w=0&h=UDaUU34xEavupHFqHcmQHPZzHsypmiQSP6UXW8A-YbI=', 'https://media.gettyimages.com/photos/jot-it-down-and-just-do-it-picture-id1131971654?k=6&m=1131971654&s=612x612&w=0&h=cUq9I0IklNFFtF10m8AI2TEHaUQxg8PLh70LkKYZQ6c=', 'https://media.gettyimages.com/vectors/set-of-strokes-vector-id918445132?k=6&m=918445132&s=612x612&w=0&h=0BsPDtGELHlRNqCQ7wIzS6-5y3XbjdhMQLWH61S0Bk0=']
+U+7B14
+10
+bǐ
+118.4
+笔.mp3
+
+笕
+['bamboo water pipe']
+['tubería de agua de bambú']
+['https://media.gettyimages.com/photos/different-types-of-zero-waste-sponges-toothbrush-and-water-pipe-flat-picture-id1194617746?k=6&m=1194617746&s=612x612&w=0&h=6H7bydHodFPhLzd174C3gx21pf4ppiHEsHpioaZEyhc=']
+U+7B15
+10
+jiǎn
+118.4
+笕.mp3
+
+笖
+['NONE']
+['NINGUNA']
+[]
+U+7B16
+10
+yǐ
+118.5
+笖.mp3
+
+笗
+['NONE']
+['NINGUNA']
+[]
+U+7B17
+11
+dōng
+118.5
+笗.mp3
+
+笘
+['NONE']
+['NINGUNA']
+[]
+U+7B18
+11
+shān
+118.5
+笘.mp3
+

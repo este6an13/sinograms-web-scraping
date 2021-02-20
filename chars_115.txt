@@ -1,0 +1,2129 @@
+漙
+['dewy']
+['NONE']
+['https://media.gettyimages.com/photos/dew-drop-on-grass-blade-picture-id673708437?k=6&m=673708437&s=612x612&w=0&h=q89Eln2FkrUFcZh5IN4qfzvZPVDhKxbg6j3u4Dmz37Q=']
+U+6F19
+14
+tuán
+85.11
+漙.mp3
+
+漚
+['soak, steep', ' sodden, soaked', ' rotten', ' foam, froth']
+['NONE', 'NONE', 'NONE', 'NONE']
+['NONE', 'https://media.gettyimages.com/photos/businessman-standing-in-rain-smiling-portrait-closeup-picture-id200398471-001?k=6&m=200398471-001&s=612x612&w=0&h=IcdAhQeb2qU881dnz8E_EsZAqfGulUPGmLAlqjKTSIo=', 'https://media.gettyimages.com/photos/bad-apple-picture-id157309232?k=6&m=157309232&s=612x612&w=0&h=mgaYOOq-618s8B7yU4AMo9ZSp_DHcXrkfTsLUNlb7vY=', 'https://media.gettyimages.com/photos/full-frame-shot-of-soap-sud-picture-id1132562426?k=6&m=1132562426&s=612x612&w=0&h=lTrq0S5uiBVXeA8IDy6PUTUpNMiWHnAE815IUL9eM8I=']
+U+6F1A
+14
+ōu
+85.11
+漚.mp3
+
+漛
+['NONE']
+['NONE']
+[]
+U+6F1B
+14
+téng
+85.11
+漛.mp3
+
+漜
+['NONE']
+['NONE']
+[]
+U+6F1C
+14
+yě
+85.11
+漜.mp3
+
+漝
+['NONE']
+['NONE']
+[]
+U+6F1D
+14
+xí
+85.11
+漝.mp3
+
+漞
+['NONE']
+['NONE']
+[]
+U+6F1E
+14
+mì
+85.11
+漞.mp3
+
+漟
+['NONE']
+['NONE']
+[]
+U+6F1F
+14
+táng
+85.11
+漟.mp3
+
+漠
+['desert', ' aloof, indifferent, cool']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/desert-in-the-united-arab-emirates-at-sunset-picture-id1133009965?k=6&m=1133009965&s=612x612&w=0&h=fpV3Inm3P5F1ckG-2VlX5DpVWEpXsILLrhk4NMPitLY=', 'https://media.gettyimages.com/photos/man-using-a-laptop-and-ignoring-his-frustrated-girlfriend-picture-id103405824?k=6&m=103405824&s=612x612&w=0&h=B09aJ5v_1Ni3kaWeZgL3KCbtdfSIfupk3CiFVss8gfY=']
+U+6F20
+13
+mò
+85.11
+漠.mp3
+
+漡
+['NONE']
+['NONE']
+[]
+U+6F21
+14
+shāng
+85.11
+漡.mp3
+
+漢
+['the Chinese people, Chinese language']
+['NONE']
+['https://media.gettyimages.com/vectors/chinese-frame-and-text-vector-id180585415?k=6&m=180585415&s=612x612&w=0&h=3rBuyTPZSJqedWLcAp0AqsUBepQa8h9kZ1NjMN72NPQ=']
+U+6F22
+14
+hàn
+85.11
+漢.mp3
+
+漣
+['flowing water', ' ripples', ' weeping']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/light-reflecting-on-flowing-water-picture-id185264129?k=6&m=185264129&s=612x612&w=0&h=6YB1r_WraVWfxX6KbL_Rz00qzcDmJmtK0cgRMfhmTIw=', 'https://media.gettyimages.com/photos/ripples-on-water-picture-id520719370?k=6&m=520719370&s=612x612&w=0&h=6pc3Jx13xsFQZxyq114T0PCqv466gKFhBbQ2uvqh8OU=', 'https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=']
+U+6F23
+13
+lián
+85.11
+漣.mp3
+
+漤
+['marinate in salt']
+['NONE']
+['https://media.gettyimages.com/photos/hand-showing-spicy-seasoning-with-a-piece-of-raw-pork-picture-id485478500?k=6&m=485478500&s=612x612&w=0&h=RqeBS22QXGyNiu7bCVyfvAuEoFEM80lfWJrK6TWBTTs=']
+U+6F24
+14
+lǎn
+85.11
+漤.mp3
+
+漥
+['puddle, hollow, swamp']
+['NONE']
+['NONE']
+U+6F25
+14
+wā
+85.11
+漥.mp3
+
+漦
+['saliva', ' spittle', ' flowing downstream']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/womans-tongue-dripping-with-saliva-closeup-picture-idsb10064776t-001?k=6&m=sb10064776t-001&s=612x612&w=0&h=bJtDTJWn8hnQvD73sMPMh9eu1mycGsGapNAo34jKbuM=', 'https://media.gettyimages.com/photos/codden-hill-in-mist-bishops-tawton-devon-england-uk-picture-id976245008?k=6&m=976245008&s=612x612&w=0&h=bVoPPXfcS8RA_Z-5_yJUrR0TiQg2N0mV59gxtsK0kOQ=', 'https://media.gettyimages.com/photos/light-reflecting-on-flowing-water-picture-id185264129?k=6&m=185264129&s=612x612&w=0&h=6YB1r_WraVWfxX6KbL_Rz00qzcDmJmtK0cgRMfhmTIw=']
+U+6F26
+15
+chí
+85.11
+漦.mp3
+
+漧
+['NONE']
+['NONE']
+[]
+U+6F27
+14
+gān
+85.11
+漧.mp3
+
+漨
+['NONE']
+['NONE']
+[]
+U+6F28
+13
+féng
+85.11
+漨.mp3
+
+漩
+['eddy, whirlpool']
+['NONE']
+['https://media.gettyimages.com/photos/beautiful-clear-teal-water-vortex-picture-id157641313?k=6&m=157641313&s=612x612&w=0&h=U7UN3pojuvWGcB3eFu7eEH16vMbbwaRMCyiGFxSsQbI=']
+U+6F29
+14
+xuán
+85.11
+漩.mp3
+
+漪
+['ripples on water', ' swirling']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/ripples-on-water-picture-id520719370?k=6&m=520719370&s=612x612&w=0&h=6pc3Jx13xsFQZxyq114T0PCqv466gKFhBbQ2uvqh8OU=', 'https://media.gettyimages.com/vectors/blue-simple-abstract-background-vector-id1185144701?k=6&m=1185144701&s=612x612&w=0&h=_yqRfwab7JM3GoAopqw8-J_H9vujYVs6keiOaxQWs-k=']
+U+6F2A
+14
+yī
+85.11
+漪.mp3
+
+漫
+['overflow of water', ' spreading']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/water-pouring-into-glass-and-overflowing-picture-id97971214?k=6&m=97971214&s=612x612&w=0&h=CTqV25qYCjiJ5t_GwTNj1tWDoDankuVv2g7fwgSTmQ4=', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+6F2B
+14
+màn
+85.11
+漫.mp3
+
+漬
+['soak, steep', ' dye', ' stains', ' sodden']
+['NONE', 'NONE', 'NONE', 'NONE']
+['NONE', 'https://media.gettyimages.com/photos/mixing-hair-color-picture-id148441416?k=6&m=148441416&s=612x612&w=0&h=tnbX9W71ZLlHSRkUCObl2FGh-WzJHuDXzfRhA5xX-j4=', 'https://media.gettyimages.com/vectors/vector-set-of-ink-blobs-color-splatter-isolated-on-white-background-vector-id1135800580?k=6&m=1135800580&s=612x612&w=0&h=fANPgTh2n34LqixuPyRwB_V_kl098knqULONx67RJ80=', 'https://media.gettyimages.com/photos/businessman-standing-in-rain-smiling-portrait-closeup-picture-id200398471-001?k=6&m=200398471-001&s=612x612&w=0&h=IcdAhQeb2qU881dnz8E_EsZAqfGulUPGmLAlqjKTSIo=']
+U+6F2C
+14
+zì
+85.11
+漬.mp3
+
+漭
+['vast', ' expansive']
+['NONE', 'NONE']
+['https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=', 'https://media.gettyimages.com/photos/mountain-peak-zugspitze-summer-day-at-lake-eibsee-near-garmisch-picture-id1042404662?k=6&m=1042404662&s=612x612&w=0&h=V-2au3bpk83ci40SkNwtJYZk1MQvQKJuZfmCgHgzk2Q=']
+U+6F2D
+13
+mǎng
+85.11
+漭.mp3
+
+漮
+['NONE']
+['NONE']
+[]
+U+6F2E
+14
+kāng
+85.11
+漮.mp3
+
+漯
+['river in northern Shandong']
+['NONE']
+['NONE']
+U+6F2F
+14
+luò
+85.11
+漯.mp3
+
+漰
+['roar']
+['NONE']
+['https://media.gettyimages.com/photos/closeup-of-lion-roaring-on-field-at-rhino-and-lion-nature-reserve-picture-id675607089?k=6&m=675607089&s=612x612&w=0&h=jdDCCiiBgzcLgpQdil2kYXZTCvKjW2Fh1P0S85l1xCY=']
+U+6F30
+14
+pēng
+85.11
+漰.mp3
+
+漱
+['gargle, rinse', ' wash, scour']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/teenage-girl-rinsing-her-mouth-with-glass-of-water-picture-id1137620191?k=6&m=1137620191&s=612x612&w=0&h=FGSbFA7rXp2dF0Rs8-7HOLJ98p7z2wKjwlqBDZ7Urqw=', 'https://media.gettyimages.com/vectors/dish-washing-icons-vector-id165724197?k=6&m=165724197&s=612x612&w=0&h=0JKVZHh9FEf77HyS3L8Y_j-F2jVBkorxc5bBYMaj5yQ=']
+U+6F31
+14
+shù
+85.11
+漱.mp3
+
+漲
+['rise in price']
+['NONE']
+['https://media.gettyimages.com/vectors/arrows-up-icon-vector-id1051814280?k=6&m=1051814280&s=612x612&w=0&h=zDUKFnv0psItWDkAgsdwPZ1XKBWAG7SETvW8jzxNmR8=']
+U+6F32
+14
+zhǎng
+85.11
+漲.mp3
+
+漳
+['name of a river in Henan']
+['NONE']
+['NONE']
+U+6F33
+14
+zhāng
+85.11
+漳.mp3
+
+漴
+['NONE']
+['NONE']
+[]
+U+6F34
+14
+zhuàng
+85.11
+漴.mp3
+
+漵
+['river in Hunan']
+['NONE']
+['https://media.gettyimages.com/photos/chinese-traditional-rural-architecture-picture-id1147989893?k=6&m=1147989893&s=612x612&w=0&h=JCPRT557e6fqaLzuxflBzvP8r9JtKoXwAI5wtN6zHJ0=']
+U+6F35
+14
+xù
+85.11
+漵.mp3
+
+漶
+['indecipherable']
+['NONE']
+['https://media.gettyimages.com/photos/egypt-luxor-temple-of-luxor-hieroglyphs-sunrise-picture-id200418469-001?k=6&m=200418469-001&s=612x612&w=0&h=3jXdGXsfjjkvt6ab9ej1RjSz0nqPMc-F7E60djbNgUA=']
+U+6F36
+14
+huàn
+85.11
+漶.mp3
+
+漷
+['river in Hebei province']
+['NONE']
+['https://media.gettyimages.com/photos/grassland-scenery-in-hebei-province-china-picture-id642106411?k=6&m=642106411&s=612x612&w=0&h=o6UELGYUgJyErV69p0ReZs88UKtep3CMFgOE1ncENhs=']
+U+6F37
+13
+huǒ
+85.11
+漷.mp3
+
+漸
+['gradually']
+['NONE']
+['https://media.gettyimages.com/photos/antique-photo-of-man-in-gradually-fading-suit-with-no-head-picture-id172868023?k=6&m=172868023&s=612x612&w=0&h=ejGkNI6z-xcbpfcWB5eSujcnaJpD5bT1y9XT_phLshI=']
+U+6F38
+14
+jiàn
+85.11
+漸.mp3
+
+漹
+['NONE']
+['NONE']
+[]
+U+6F39
+14
+yān
+85.11
+漹.mp3
+
+漺
+['NONE']
+['NONE']
+[]
+U+6F3A
+14
+shuǎng
+85.11
+漺.mp3
+
+漻
+['NONE']
+['NONE']
+[]
+U+6F3B
+14
+liáo
+85.11
+漻.mp3
+
+漼
+['having the appearance of depth']
+['NONE']
+['https://media.gettyimages.com/photos/white-torn-paper-picture-id154964058?k=6&m=154964058&s=612x612&w=0&h=ozxOEUUo5GGUJV4j_Cox3PqAyyf8xgIyB8W5sic-H_0=']
+U+6F3C
+14
+cuǐ
+85.11
+漼.mp3
+
+漽
+['NONE']
+['NONE']
+[]
+U+6F3D
+15
+tí
+85.12
+漽.mp3
+
+漾
+['overflow', ' swirl, ripple', ' to be tossed by waves']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/water-pouring-into-glass-and-overflowing-picture-id97971214?k=6&m=97971214&s=612x612&w=0&h=CTqV25qYCjiJ5t_GwTNj1tWDoDankuVv2g7fwgSTmQ4=', 'https://media.gettyimages.com/vectors/spiral-abstract-background-vector-id1068153746?k=6&m=1068153746&s=612x612&w=0&h=UvPc8nRyzVAT1xvt5-1qPSbW8z98qWIRpk5fts1xzeo=', 'https://media.gettyimages.com/photos/trash-wave-picture-id1137573105?k=6&m=1137573105&s=612x612&w=0&h=X3rdeVabJMgjRS08qbLk1MYPY-96fCFgyGYBYF2hGSw=']
+U+6F3E
+14
+yàng
+85.11
+漾.mp3
+
+漿
+['any thick fluid', ' starch', ' broth']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/green-slime-picture-id1251065888?k=6&m=1251065888&s=612x612&w=0&h=J4LmKBlBvE8-Qo1NfHNxalRb9erYqmzGuXJtnp4hgrw=', 'https://media.gettyimages.com/photos/potato-starch-micrograph-picture-id116854914?k=6&m=116854914&s=612x612&w=0&h=1qhSBQnNI0DKx10bjsK272x3p2F-EfvSbaCT_6NjC-c=', 'https://media.gettyimages.com/photos/chicken-broth-picture-id638814226?k=6&m=638814226&s=612x612&w=0&h=N6p_DuvHM-CKgpb21d2k7rxKlaFaf818Hvf9eUYCRxs=']
+U+6F3F
+15
+jiāng
+85.11
+漿.mp3
+
+潀
+['gather', ' flow into (water)', ' sound of waters flowing together']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/two-warehouse-workers-preparing-to-lift-a-heavy-box-together-picture-id1027182958?k=6&m=1027182958&s=612x612&w=0&h=UW8fY2B3WtIpYp8x5NOUeRlEIgmPNpz_AgyPykwhjhM=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=', 'NONE']
+U+6F40
+14
+cóng
+85.11
+潀.mp3
+
+潁
+['river in Anhui']
+['NONE']
+['https://media.gettyimages.com/photos/xinan-river-picture-id1098232352?k=6&m=1098232352&s=612x612&w=0&h=nRpSQieNKYu0bbGQCiSnIPicSZ6oLLa-Irdh3z6gHG4=']
+U+6F41
+15
+yǐng
+85.11
+潁.mp3
+
+潂
+['NONE']
+['NONE']
+[]
+U+6F42
+14
+hóng
+85.11
+潂.mp3
+
+潃
+['NONE']
+['NONE']
+[]
+U+6F43
+13
+xiǔ
+85.11
+潃.mp3
+
+潄
+['NONE']
+['NONE']
+[]
+U+6F44
+14
+shù
+85.11
+潄.mp3
+
+潅
+['pour', ' water', ' irrigate, flood']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/red-wine-picture-id507143336?k=6&m=507143336&s=612x612&w=0&h=CMmD87iTf_zlrGwkejxGYIyhrTasNpq6bW2Fzm26zTc=', 'https://media.gettyimages.com/photos/underwater-bubbles-picture-id925440650?k=6&m=925440650&s=612x612&w=0&h=-j6bA6aMSp70YPgeyUFWrMEs6uOM8o9buBqIU-g95OY=', 'https://media.gettyimages.com/photos/flooded-fields-in-winter-picture-id952965368?k=6&m=952965368&s=612x612&w=0&h=2Pfu4zhtIVJjiBwyB1dS_G_VS6Nrr9rVXUZ874zSMpo=']
+U+6F45
+14
+guàn
+85.11
+潅.mp3
+
+潆
+['tiny stream', ' swirl around']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/woman-exercising-and-watching-online-fitness-live-streaming-classes-picture-id1218635093?k=6&m=1218635093&s=612x612&w=0&h=y9QZCH7kczoS7A16RWal-yn3Oxt-3RssZxl4yhHLTb4=', 'https://media.gettyimages.com/vectors/blue-simple-abstract-background-vector-id1185144701?k=6&m=1185144701&s=612x612&w=0&h=_yqRfwab7JM3GoAopqw8-J_H9vujYVs6keiOaxQWs-k=']
+U+6F46
+14
+yíng
+85.11
+潆.mp3
+
+潇
+['sound of beating wind and rain']
+['NONE']
+['https://media.gettyimages.com/photos/woman-locked-in-little-bucket-picture-id1262672421?k=6&m=1262672421&s=612x612&w=0&h=QndV0NE-wN3-3kcWDiOvFNRxXmR4RGcMhgGH1rKtKMU=']
+U+6F47
+14
+xiāo
+85.11
+潇.mp3
+
+潈
+['NONE']
+['NONE']
+[]
+U+6F48
+14
+zong
+85.11
+潈.mp3
+
+潉
+['NONE']
+['NONE']
+[]
+U+6F49
+14
+kūn
+85.11
+潉.mp3
+
+潊
+['NONE']
+['NONE']
+[]
+U+6F4A
+14
+xù
+85.11
+潊.mp3
+
+潋
+['waves, ripples', ' overflow']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/ripples-on-water-picture-id520719370?k=6&m=520719370&s=612x612&w=0&h=6pc3Jx13xsFQZxyq114T0PCqv466gKFhBbQ2uvqh8OU=', 'https://media.gettyimages.com/photos/water-pouring-into-glass-and-overflowing-picture-id97971214?k=6&m=97971214&s=612x612&w=0&h=CTqV25qYCjiJ5t_GwTNj1tWDoDankuVv2g7fwgSTmQ4=']
+U+6F4B
+14
+liàn
+85.11
+潋.mp3
+
+潌
+['NONE']
+['NONE']
+[]
+U+6F4C
+14
+zhì
+85.11
+潌.mp3
+
+潍
+['county in Shandong province']
+['NONE']
+['https://media.gettyimages.com/photos/crane-lifting-up-container-in-yard-picture-id1160749193?k=6&m=1160749193&s=612x612&w=0&h=CR-3-kl_1dzLQXRqP6pGSN8sFpie89aGLXbzaM9lJQ8=']
+U+6F4D
+14
+wéi
+85.11
+潍.mp3
+
+潎
+['rippling', ' pour']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/ripples-on-water-picture-id520719370?k=6&m=520719370&s=612x612&w=0&h=6pc3Jx13xsFQZxyq114T0PCqv466gKFhBbQ2uvqh8OU=', 'https://media.gettyimages.com/photos/red-wine-picture-id507143336?k=6&m=507143336&s=612x612&w=0&h=CMmD87iTf_zlrGwkejxGYIyhrTasNpq6bW2Fzm26zTc=']
+U+6F4E
+14
+pì
+85.12
+潎.mp3
+
+潏
+['land reclaimed from a wetlands/river, dike/embankment/man-made island']
+['NONE']
+['NONE']
+U+6F4F
+15
+yù
+85.12
+潏.mp3
+
+潐
+['NONE']
+['NONE']
+[]
+U+6F50
+15
+jiào
+85.12
+潐.mp3
+
+潑
+['pour, splash, water, sprinkle', ' violent, malignant']
+['NONE', 'NONE']
+['https://media.gettyimages.com/illustrations/pouring-water-with-crown-splash-illustration-illustration-id1129545910?k=6&m=1129545910&s=612x612&w=0&h=zlyD5NJhQs4-Ayaduyv4FPMY-BGF0g1Nf0MFFOEtc4o=', 'https://media.gettyimages.com/photos/virus-cells-attacking-a-dna-strand-picture-id1183281148?k=6&m=1183281148&s=612x612&w=0&h=514_guCmZdtSYN0ofOLXyATRfUyL5VUHbUJyxBShXrY=']
+U+6F51
+15
+pō
+85.12
+潑.mp3
+
+潒
+['NONE']
+['NONE']
+[]
+U+6F52
+14
+dàng
+85.12
+潒.mp3
+
+潓
+['NONE']
+['NONE']
+[]
+U+6F53
+15
+huì
+85.12
+潓.mp3
+
+潔
+['clean, purify, pure']
+['NONE']
+['https://media.gettyimages.com/photos/pure-water-picture-id173877108?k=6&m=173877108&s=612x612&w=0&h=cy-0g-iaCL2jyadWebmFxEQDSASAklI4mb6XevGOpAY=']
+U+6F54
+15
+jié
+85.12
+潔.mp3
+
+潕
+['river in Henan']
+['NONE']
+['https://media.gettyimages.com/photos/cropped-hand-of-woman-holding-chocolate-ice-cream-against-sky-picture-id717382783?k=6&m=717382783&s=612x612&w=0&h=LTvKTlObiCHMMz8b2y0VHp7SEES6wYCLsEY8nISAcPQ=']
+U+6F55
+15
+wǔ
+85.12
+潕.mp3
+
+潖
+['name of a certain river']
+['NONE']
+['https://media.gettyimages.com/photos/young-woman-outdoors-dressed-warmly-portrait-picture-id513086949?k=6&m=513086949&s=612x612&w=0&h=YzE1dY7Criw78R1vVU3sPsquv9aMIiPuM7fPjmFtoek=']
+U+6F56
+15
+pá
+85.12
+潖.mp3
+
+潗
+['friendly', ' harmonious']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/two-young-women-friends-sharing-happy-time-together-picture-id1057923694?k=6&m=1057923694&s=612x612&w=0&h=-xzoJqEIxm05jH3IIX6oJuO_0UcJE-baUpq3XKoZF6E=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+6F57
+15
+jí
+85.12
+潗.mp3
+
+潘
+['surname', ' water in which rice has been rinsed', ' a river that flows into the Han']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/cropped-hands-washing-rice-in-container-picture-id1029845258?k=6&m=1029845258&s=612x612&w=0&h=G8-iebiiQ5fyjbkSWeEunKXpoeNH0sDncniiGyk_KzE=', 'https://media.gettyimages.com/photos/bridge-above-a-lake-at-night-picture-id939584800?k=6&m=939584800&s=612x612&w=0&h=3VluoLoT7d1arFY9q-uz25vAXoc2v05QQkBKRxhXQTE=']
+U+6F58
+15
+pān
+85.12
+潘.mp3
+
+潙
+['river in Shanxi']
+['NONE']
+['https://media.gettyimages.com/photos/datang-lotus-garden-in-xianshanxi-picture-id1143946677?k=6&m=1143946677&s=612x612&w=0&h=d1oZKe8VWjaph-wwsK9erzH_Wq8HsdM7BqliaiHWjGc=']
+U+6F59
+15
+wéi
+85.12
+潙.mp3
+
+潚
+['gay', ' deep']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/gay-dads-picture-id1131402695?k=6&m=1131402695&s=612x612&w=0&h=gam0zhK0muAXpygHUZHgkHX6Lt_vcZrrYLvZBpuqGh0=', 'https://media.gettyimages.com/photos/bubble-in-blue-ocean-picture-id674153270?k=6&m=674153270&s=612x612&w=0&h=tLmU7aI6FtUQCGhIeA3KcySlOecpqGFvtIK7PqBetUM=']
+U+6F5A
+16
+sù
+85.12
+潚.mp3
+
+潛
+['hide', ' hidden, secret, latent']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/woman-hiding-behind-cubicle-in-office-picture-id103060206?k=6&m=103060206&s=612x612&w=0&h=mm6WgYBRnMqYRtWAJQ3QgJO6kgpFZQ8PhuCur-dNKjE=', 'NONE']
+U+6F5B
+15
+qián
+85.12
+潛.mp3
+
+潜
+['hide', ' hidden, secret, latent']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/woman-hiding-behind-cubicle-in-office-picture-id103060206?k=6&m=103060206&s=612x612&w=0&h=mm6WgYBRnMqYRtWAJQ3QgJO6kgpFZQ8PhuCur-dNKjE=', 'NONE']
+U+6F5C
+15
+qián
+85.12
+潜.mp3
+
+潝
+['agree']
+['NONE']
+['https://media.gettyimages.com/photos/lets-merge-our-talents-as-we-get-to-the-top-picture-id1008207382?k=6&m=1008207382&s=612x612&w=0&h=hWCJqGWeATT9HOH5m2T0Rlldfh-CNm-rxBbYNNCYQos=']
+U+6F5D
+15
+xī
+85.12
+潝.mp3
+
+潞
+['river in northern china']
+['NONE']
+['https://media.gettyimages.com/photos/pangong-lake-in-summer-picture-id952077918?k=6&m=952077918&s=612x612&w=0&h=zJtq8WnEUGvcAnQnRRVVUMYpmwGOlpY7G6nw1yh5Mxg=']
+U+6F5E
+16
+lù
+85.12
+潞.mp3
+
+潟
+['land impregnated with salt from the tide']
+['NONE']
+['NONE']
+U+6F5F
+15
+xì
+85.12
+潟.mp3
+
+潠
+['to blow out', ' to puff out']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/smiling-woman-sitting-in-beanbag-using-cell-phone-picture-id909597902?k=6&m=909597902&s=612x612&w=0&h=-BN7K7IcW8eKg5jE8rC6WqYK4hkqpYs4aCAdbvYCno8=']
+U+6F60
+15
+xùn
+85.12
+潠.mp3
+
+潡
+['NONE']
+['NONE']
+[]
+U+6F61
+15
+dùn
+85.12
+潡.mp3
+
+潢
+['expanse of water, lake, pond']
+['NONE']
+['https://media.gettyimages.com/photos/calm-expanse-of-pond-water-on-a-bright-sunny-day-with-green-grass-in-picture-id1250593837?k=6&m=1250593837&s=612x612&w=0&h=sW_FfM7evYbHelOw1hTdfzRILAK0yO4pmKFwxIdh404=']
+U+6F62
+14
+huáng
+85.12
+潢.mp3
+
+潣
+['to pollute, contaminate']
+['NONE']
+['https://media.gettyimages.com/photos/young-woman-wearing-mask-and-feeling-sick-picture-id1154808471?k=6&m=1154808471&s=612x612&w=0&h=STdNE5s9dmVNu6e5iWRrKGuLMjpyvzaOS3MEO7fjOkM=']
+U+6F63
+15
+mǐn
+85.12
+潣.mp3
+
+潤
+['soft, moist', ' sleek', ' freshen']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/closeup-shot-of-delicate-pink-tulip-petals-with-water-drops-picture-id928261760?k=6&m=928261760&s=612x612&w=0&h=W895glYkzNEwBjevvLZAyMzEAXCBvAWn5wJGp5Tf07A=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=', 'https://media.gettyimages.com/photos/man-holding-crate-ob-fresh-vegetables-picture-id870915532?k=6&m=870915532&s=612x612&w=0&h=S30PAuOM2bln88FOLvQk7gkOyYppoSDMQTi0hHbz99w=']
+U+6F64
+15
+rùn
+85.12
+潤.mp3
+
+潥
+['NONE']
+['NONE']
+[]
+U+6F65
+15
+sù
+85.12
+潥.mp3
+
+潦
+['to flood', ' a puddle', ' without care']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/young-couple-in-wellington-boots-on-flooded-floor-picture-id107908197?k=6&m=107908197&s=612x612&w=0&h=AXmco6qt6kyvXMtvY27xqbUy-9o04rOROQcAI97Y1mw=', 'https://media.gettyimages.com/photos/rain-drops-falling-onto-a-large-puddle-a-reflection-of-sky-and-clouds-picture-id158308668?k=6&m=158308668&s=612x612&w=0&h=pI0kC9s7UzKZzHAC8HJCncrrZoaU2TsVC3G1XPU5n-k=', 'NONE']
+U+6F66
+15
+lǎo
+85.12
+潦.mp3
+
+潧
+['NONE']
+['NONE']
+[]
+U+6F67
+15
+zhēn
+85.12
+潧.mp3
+
+潨
+['gather', ' flow into (water)', ' sound of waters flowing together']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/two-warehouse-workers-preparing-to-lift-a-heavy-box-together-picture-id1027182958?k=6&m=1027182958&s=612x612&w=0&h=UW8fY2B3WtIpYp8x5NOUeRlEIgmPNpz_AgyPykwhjhM=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=', 'NONE']
+U+6F68
+15
+cóng
+85.12
+潨.mp3
+
+潩
+['NONE']
+['NONE']
+[]
+U+6F69
+14
+yì
+85.12
+潩.mp3
+
+潪
+['NONE']
+['NONE']
+[]
+U+6F6A
+15
+zhè
+85.12
+潪.mp3
+
+潫
+['NONE']
+['NONE']
+[]
+U+6F6B
+15
+wān
+85.12
+潫.mp3
+
+潬
+['a rapid', ' a sand-bank', ' a foreshore']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/vectors/fast-time-icons-multi-series-vector-id1060491424?k=6&m=1060491424&s=612x612&w=0&h=Vj5v7yQgfgpuIcs7vRfSuDQqsJv5ER5sEvnFgeaiZK8=', 'https://media.gettyimages.com/photos/aerial-view-of-stingrays-at-stingray-city-on-grand-cayman-picture-id487194428?k=6&m=487194428&s=612x612&w=0&h=x4k7nrf6IZOxwOoxv0DvLT_7fUfLzBjtf6w_fkHXnrc=', 'https://media.gettyimages.com/photos/walkway-to-beach-picture-id183779757?k=6&m=183779757&s=612x612&w=0&h=zW2yjxHIWr9OcES-i8TGNhARMRODOCDDLH67h859EdM=']
+U+6F6C
+15
+shàn
+85.12
+潬.mp3
+
+潭
+['deep pool, lake', ' deep, profound']
+['NONE', 'NONE']
+['https://media.gettyimages.com/vectors/blue-depth-gradient-abstract-background-vector-id1154065323?k=6&m=1154065323&s=612x612&w=0&h=FPjHgh68lIchn4jXOxdvH_r34Hzu7SmqNaalDkAwmdM=', 'https://media.gettyimages.com/photos/businesswoman-relaxing-outdoor-picture-id1185007236?k=6&m=1185007236&s=612x612&w=0&h=15ViKx0lD98luDf6xrjnJSISlJHCZxH2m32tHdzl5AQ=']
+U+6F6D
+15
+tán
+85.12
+潭.mp3
+
+潮
+['tide', ' moist, wet, damp', ' flow']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/abstract-sea-and-sky-background-picture-id846279828?k=6&m=846279828&s=612x612&w=0&h=cR5of5YzyNa_n7GrLe26EhxZkGFdKNhkohYA8JPDZKI=', 'https://media.gettyimages.com/photos/crumpled-paper-picture-id173546785?k=6&m=173546785&s=612x612&w=0&h=7r0J-cCV1qB9oE4rp7vYG3GMAWRIGpDaE7XkJI-tGdI=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=']
+U+6F6E
+15
+cháo
+85.12
+潮.mp3
+
+潯
+['steep bank by stream', ' jiujiang']
+['NONE', 'NONE']
+['NONE', 'https://media.gettyimages.com/photos/black-beans-and-watercress-picture-id165354746?k=6&m=165354746&s=612x612&w=0&h=aLlNChPeNshNut9gnVBiH8HZum6Fd1Lcr-SwIyQwCDg=']
+U+6F6F
+15
+xún
+85.12
+潯.mp3
+
+潰
+['flooding river', ' militarily defeat']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/torrential-rain-in-kyoto-picture-id997424604?k=6&m=997424604&s=612x612&w=0&h=QjNUIjVlmMG_5rJjV5whq7B1DYwsoWm8l0EFpgWl3SY=', 'NONE']
+U+6F70
+15
+kuì
+85.12
+潰.mp3
+
+潱
+['NONE']
+['NONE']
+[]
+U+6F71
+15
+yē
+85.12
+潱.mp3
+
+潲
+['driving rain', ' to sprinkle']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/rainy-mountain-road-picture-id521007958?k=6&m=521007958&s=612x612&w=0&h=p_9yndVL6mqvxqHVz48qz4yr6V6dKZXWdWTzB6ZRXis=', 'https://media.gettyimages.com/vectors/colorful-watercolor-splashes-vector-id1085391426?k=6&m=1085391426&s=612x612&w=0&h=tCLSR-cJuE2aU4o6UEmChckX0Gj_DpCx0wDgIeRHBa8=']
+U+6F72
+15
+shào
+85.12
+潲.mp3
+
+潳
+['NONE']
+['NONE']
+[]
+U+6F73
+14
+tú
+85.12
+潳.mp3
+
+潴
+['pond', ' a pool']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/the-perfect-backyard-picture-id157329538?k=6&m=157329538&s=612x612&w=0&h=cktp0T-HvkXCKnozca5tFdnUNcy53jtjv-AmQ9AUAy0=', 'https://media.gettyimages.com/photos/kids-playing-underwater-in-pool-picture-id1154945979?k=6&m=1154945979&s=612x612&w=0&h=vAvwOsSsZgcN9cdkbLdtqKQj3dsKN1QZXWPWQP95Z54=']
+U+6F74
+14
+zhū
+85.12
+潴.mp3
+
+潵
+['NONE']
+['NONE']
+[]
+U+6F75
+15
+sǎ
+85.12
+潵.mp3
+
+潶
+['NONE']
+['NONE']
+[]
+U+6F76
+15
+hēi
+85.12
+潶.mp3
+
+潷
+['drain']
+['NONE']
+['https://media.gettyimages.com/photos/kitchen-sink-with-running-water-picture-id168583229?k=6&m=168583229&s=612x612&w=0&h=cz6liK7Rmky4ituIYZghc4UyRHE91Sn1gbFfK2YlykE=']
+U+6F77
+15
+bì
+85.12
+潷.mp3
+
+潸
+['weep', ' tears flowing']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/glacial-flows-and-the-sea-iceland-picture-id996792890?k=6&m=996792890&s=612x612&w=0&h=JpdqDkh7ezhKpQmrwJzhrvhMOZpyFfklZ-GlKKAkKi0=']
+U+6F78
+15
+shān
+85.12
+潸.mp3
+
+潹
+['NONE']
+['NONE']
+[]
+U+6F79
+15
+chán
+85.12
+潹.mp3
+
+潺
+['sound of flowing water']
+['NONE']
+['https://media.gettyimages.com/photos/river-flowing-picture-id942530698?k=6&m=942530698&s=612x612&w=0&h=OUu_mDClFI6Il8Gv99Es59w3wjFu2Zh3Ys0N0cd6IzQ=']
+U+6F7A
+15
+chán
+85.12
+潺.mp3
+
+潻
+['NONE']
+['NONE']
+[]
+U+6F7B
+15
+shǔ
+85.12
+潻.mp3
+
+潼
+['high, lofty', ' damp']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/photos/crumpled-paper-picture-id173546785?k=6&m=173546785&s=612x612&w=0&h=7r0J-cCV1qB9oE4rp7vYG3GMAWRIGpDaE7XkJI-tGdI=']
+U+6F7C
+15
+tóng
+85.12
+潼.mp3
+
+潽
+['NONE']
+['NONE']
+[]
+U+6F7D
+15
+pū
+85.12
+潽.mp3
+
+潾
+['clear water']
+['NONE']
+['https://media.gettyimages.com/photos/bubble-in-black-and-white-picture-id865800572?k=6&m=865800572&s=612x612&w=0&h=oP_u-yLQtPyiKFbfjxtbKE9b0pzpZbLcKu7GPRcPH6s=']
+U+6F7E
+15
+lín
+85.12
+潾.mp3
+
+潿
+['still water']
+['NONE']
+['https://media.gettyimages.com/photos/feather-floating-on-calm-water-picture-id665117140?k=6&m=665117140&s=612x612&w=0&h=A5_DkhXVrL9WJYKGgOpY10BEZFXoeT7mY5mIdDgoeWI=']
+U+6F7F
+15
+wéi
+85.12
+潿.mp3
+
+澀
+['astringent', ' harsh', ' uneven, rough']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/the-spring-flowering-yellow-blooms-of-witch-hazel-hamamelis-x-picture-id918850828?k=6&m=918850828&s=612x612&w=0&h=WivqzLqxwQqJDAxlMN64pUlkCs7ruVW9UcVhMLhJm2M=', 'https://media.gettyimages.com/photos/domestic-violence-abuse-picture-id154902161?k=6&m=154902161&s=612x612&w=0&h=hFsF_-drKf6e1f8QUUNCjNZhLnKMz2YcoSOEE2krqb8=', 'https://media.gettyimages.com/vectors/big-single-bad-printed-black-dots-on-white-paper-background-seamless-vector-id1128977441?k=6&m=1128977441&s=612x612&w=0&h=0Yq0NBhlGegBj8PeTOR7yRlRLebG6KEqA6IB-tLhZco=']
+U+6F80
+17
+sè
+85.14
+澀.mp3
+
+澁
+['astringent', ' harsh', ' uneven, rough']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/the-spring-flowering-yellow-blooms-of-witch-hazel-hamamelis-x-picture-id918850828?k=6&m=918850828&s=612x612&w=0&h=WivqzLqxwQqJDAxlMN64pUlkCs7ruVW9UcVhMLhJm2M=', 'https://media.gettyimages.com/photos/domestic-violence-abuse-picture-id154902161?k=6&m=154902161&s=612x612&w=0&h=hFsF_-drKf6e1f8QUUNCjNZhLnKMz2YcoSOEE2krqb8=', 'https://media.gettyimages.com/vectors/big-single-bad-printed-black-dots-on-white-paper-background-seamless-vector-id1128977441?k=6&m=1128977441&s=612x612&w=0&h=0Yq0NBhlGegBj8PeTOR7yRlRLebG6KEqA6IB-tLhZco=']
+U+6F81
+15
+sè
+85.12
+澁.mp3
+
+澂
+['clear and still water']
+['NONE']
+['https://media.gettyimages.com/photos/stockholm-city-hall-with-reflection-on-calm-water-picture-id884656320?k=6&m=884656320&s=612x612&w=0&h=5mjCdp7np_B2Z-kNkq-EL_DGuCVsjMee9W1OEFhGhXk=']
+U+6F82
+15
+chéng
+85.12
+澂.mp3
+
+澃
+['NONE']
+['NONE']
+[]
+U+6F83
+16
+jiǒng
+85.12
+澃.mp3
+
+澄
+['purify water by allowing sediment to settle', ' clear, pure']
+['NONE', 'NONE']
+['NONE', 'https://media.gettyimages.com/photos/electric-blender-picture-id471441539?k=6&m=471441539&s=612x612&w=0&h=VB7eonV3AIm3LUbC3IjsKjRnGPaq2aJ90ibLjnjJwPA=']
+U+6F84
+15
+chéng
+85.12
+澄.mp3
+
+澅
+['NONE']
+['NONE']
+[]
+U+6F85
+15
+huà
+85.12
+澅.mp3
+
+澆
+['spray, water, sprinkle']
+['NONE']
+['https://media.gettyimages.com/vectors/water-icons-set-vector-id902053412?k=6&m=902053412&s=612x612&w=0&h=b4NnP6NnXHiUH6QbnG9X6opZXSKvQaupyhrPT6tF83g=']
+U+6F86
+15
+jiāo
+85.12
+澆.mp3
+
+澇
+['inundate, flood', ' torrent']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/town-during-flood-picture-id925369688?k=6&m=925369688&s=612x612&w=0&h=M3cmYCRAd4y8ZE9SJpOy47WxNInz6XUPJcYYf07ize0=', 'https://media.gettyimages.com/photos/mature-man-kayaking-on-river-soca-rapids-high-angle-view-picture-id810563614?k=6&m=810563614&s=612x612&w=0&h=XVs7694ElTbkrpTgWz0msCf2xfjJ_wHcnSafflzn6Qk=']
+U+6F87
+15
+lào
+85.12
+澇.mp3
+
+澈
+['thoroughly, completely']
+['NONE']
+['NONE']
+U+6F88
+15
+chè
+85.12
+澈.mp3
+
+澉
+['to wash name of a place']
+['NONE']
+['https://media.gettyimages.com/photos/georgian-woman-at-home-in-remote-village-picture-id598163013?k=6&m=598163013&s=612x612&w=0&h=mE0NwmqLL5epSHcBUhKLiLsTBL7EjzWY12m2m0vyJ-w=']
+U+6F89
+14
+gǎn
+85.12
+澉.mp3
+
+澊
+['NONE']
+['NONE']
+[]
+U+6F8A
+15
+cūn
+85.12
+澊.mp3
+
+澋
+['NONE']
+['NONE']
+[]
+U+6F8B
+15
+hòng
+85.12
+澋.mp3
+
+澌
+['to exhaust', ' to drain dry']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/polluting-clouds-of-exhaust-fumes-rise-in-the-air-picture-id157313230?k=6&m=157313230&s=612x612&w=0&h=IWSuHEsCuYNQuHeIwX3OqyEsbwHEp6jfMkEoV6onLuc=', 'https://media.gettyimages.com/photos/top-viewfaults-and-cracks-in-the-farmland-picture-id899636312?k=6&m=899636312&s=612x612&w=0&h=hfeXTlptvE7BgmuUGNWw2b6Wx7_h1WQMtIMU9OAGSCg=']
+U+6F8C
+15
+sī
+85.12
+澌.mp3
+
+澍
+['timely rain, life-giving rain']
+['NONE']
+['https://media.gettyimages.com/photos/this-is-fun-picture-id495775768?k=6&m=495775768&s=612x612&w=0&h=q8C_4TdRL57bP6_G2khXry-ixaSY0tBFmmzDxatr7DE=']
+U+6F8D
+15
+shù
+85.12
+澍.mp3
+
+澎
+['splatter']
+['NONE']
+['https://media.gettyimages.com/vectors/colorful-watercolor-splashes-vector-id1085391426?k=6&m=1085391426&s=612x612&w=0&h=tCLSR-cJuE2aU4o6UEmChckX0Gj_DpCx0wDgIeRHBa8=']
+U+6F8E
+15
+pēng
+85.12
+澎.mp3
+
+澏
+['NONE']
+['NONE']
+[]
+U+6F8F
+15
+hán
+85.12
+澏.mp3
+
+澐
+['billows']
+['NONE']
+['https://media.gettyimages.com/photos/smoke-billowing-from-farmland-fire-picture-id620920909?k=6&m=620920909&s=612x612&w=0&h=ztgW-E7EiRO_h8dpXVCIHg8KFjMRol2E9-jRCkiM5gk=']
+U+6F90
+15
+yún
+85.12
+澐.mp3
+
+澑
+['slide, glide, slip', ' slippery']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/sign-vorsicht-rutschgefahr-german-for-caution-slip-hazard-at-the-picture-id134468123?k=6&m=134468123&s=612x612&w=0&h=qioGZN2ETWSlPheBL7iT-2CCFPthtQdBZ5dSwnTEnxo=', 'https://media.gettyimages.com/photos/german-motorway-bad-weather-conditions-picture-id175546539?k=6&m=175546539&s=612x612&w=0&h=jE-wyQFoMkNyKUZxU59pELwi99ZbaeRBtKDaxywPlEI=']
+U+6F91
+15
+liù
+85.12
+澑.mp3
+
+澒
+['vast']
+['NONE']
+['https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=']
+U+6F92
+15
+hòng
+85.12
+澒.mp3
+
+澓
+['NONE']
+['NONE']
+[]
+U+6F93
+15
+fú
+85.12
+澓.mp3
+
+澔
+['radiance of gems']
+['NONE']
+['https://media.gettyimages.com/vectors/sunburst-elements-vector-id466067740?k=6&m=466067740&s=612x612&w=0&h=RmPeth27sz4hPWx2d-QmNKv5GIwx1Nq7NFxgOhr1-to=']
+U+6F94
+15
+hào
+85.12
+澔.mp3
+
+澕
+['NONE']
+['NONE']
+[]
+U+6F95
+13
+hé
+85.12
+澕.mp3
+
+澖
+['NONE']
+['NONE']
+[]
+U+6F96
+15
+xián
+85.12
+澖.mp3
+
+澗
+['brook, mountain stream']
+['NONE']
+['https://media.gettyimages.com/photos/glacier-stream-in-thaiwaszozila-passjammu-and-kashmir-ladakh-region-picture-id1128044725?k=6&m=1128044725&s=612x612&w=0&h=BeeN9rOzKCRtqe64g-6cq3Rqaezn6IPkeaEJ3oTHa4I=']
+U+6F97
+15
+jiàn
+85.12
+澗.mp3
+
+澘
+['NONE']
+['NONE']
+[]
+U+6F98
+15
+shān
+85.12
+澘.mp3
+
+澙
+['NONE']
+['NONE']
+[]
+U+6F99
+15
+xì
+85.13
+澙.mp3
+
+澚
+['NONE']
+['NONE']
+[]
+U+6F9A
+14
+yu
+85.12
+澚.mp3
+
+澛
+['NONE']
+['NONE']
+[]
+U+6F9B
+15
+lǔ
+85.12
+澛.mp3
+
+澜
+['overflowing', ' waves, ripples']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/water-pouring-into-glass-and-overflowing-picture-id97971214?k=6&m=97971214&s=612x612&w=0&h=CTqV25qYCjiJ5t_GwTNj1tWDoDankuVv2g7fwgSTmQ4=', 'https://media.gettyimages.com/photos/ripples-on-water-picture-id520719370?k=6&m=520719370&s=612x612&w=0&h=6pc3Jx13xsFQZxyq114T0PCqv466gKFhBbQ2uvqh8OU=']
+U+6F9C
+15
+lán
+85.12
+澜.mp3
+
+澝
+['mud', ' miry, muddy, stagnant']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/dirt-background-picture-id182187754?k=6&m=182187754&s=612x612&w=0&h=9BYykbnRG0cs_fuWDop-aigA3N8R9hO30p7YLVfZ8KM=', 'NONE']
+U+6F9D
+15
+nìng
+85.12
+澝.mp3
+
+澞
+['NONE']
+['NONE']
+[]
+U+6F9E
+16
+yú
+85.13
+澞.mp3
+
+澟
+['NONE']
+['NONE']
+[]
+U+6F9F
+16
+lǐn
+85.13
+澟.mp3
+
+澠
+['name of a river in Shandong']
+['NONE']
+['NONE']
+U+6FA0
+16
+miǎn
+85.13
+澠.mp3
+
+澡
+['wash, bathe']
+['NONE']
+['https://media.gettyimages.com/photos/caucasian-woman-in-bathrobe-and-towel-warming-hands-on-cup-picture-id764778483?k=6&m=764778483&s=612x612&w=0&h=dxEXqYubM1r-ev4vqhbmGZt3-d-Q4Y3zrO-0-oY_fIE=']
+U+6FA1
+16
+zǎo
+85.13
+澡.mp3
+
+澢
+['NONE']
+['NONE']
+[]
+U+6FA2
+16
+dāng
+85.13
+澢.mp3
+
+澣
+['cleanse, wash']
+['NONE']
+['https://media.gettyimages.com/photos/young-woman-removing-makeup-from-her-face-picture-id980392648?k=6&m=980392648&s=612x612&w=0&h=gkGVw3HXD2joWg-RPxg8p-gnnsa3yfOrvCdCyJtU8bk=']
+U+6FA3
+16
+huàn
+85.13
+澣.mp3
+
+澤
+['marsh, swamp', ' grace, brilliance', ' damp, moist', ' fertile']
+['NONE', 'NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/vectors/wetlands-black-silhouette-icons-with-multiple-marsh-elements-and-vector-id95745106?k=6&m=95745106&s=612x612&w=0&h=kM7bxAMSuoBagLx8L4dr4GUSpBPRXI707yKIrifQMIk=', 'https://media.gettyimages.com/photos/portrait-of-a-woman-in-her-artist-studio-picture-id590474513?k=6&m=590474513&s=612x612&w=0&h=sr2gn2MQr6-EH53uC9ONjJESyPcgcoFQgh_wJL5wcVQ=', 'https://media.gettyimages.com/photos/crumpled-paper-picture-id173546785?k=6&m=173546785&s=612x612&w=0&h=7r0J-cCV1qB9oE4rp7vYG3GMAWRIGpDaE7XkJI-tGdI=', 'https://media.gettyimages.com/photos/jungle-leaves-background-picture-id974079490?k=6&m=974079490&s=612x612&w=0&h=b19ayS1DK3yx3YvolSrp5cTNXofGJCBPlca-yFSLDj8=']
+U+6FA4
+16
+zé
+85.13
+澤.mp3
+
+澥
+['a blocked stream', ' gulf']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/stressed-young-asian-woman-using-laptop-working-at-home-picture-id1224618559?k=6&m=1224618559&s=612x612&w=0&h=ooLbsNdkEc3bLqdfWYngIscoPL4WLQbyNv_eU3YNUjo=', 'https://media.gettyimages.com/photos/drone-view-on-coastline-of-salvador-da-bahia-picture-id941870976?k=6&m=941870976&s=612x612&w=0&h=GXwqbwfbibFNG6WBkjSpbEF6eVEtD_amIvOIHhRj3NA=']
+U+6FA5
+16
+xiè
+85.13
+澥.mp3
+
+澦
+['place in Sichuan']
+['NONE']
+['https://media.gettyimages.com/photos/beautiful-landscape-snow-mountain-at-sichuan-province-picture-id1159529064?k=6&m=1159529064&s=612x612&w=0&h=I4eWhmy8zfWbzZy4jnmhXv1r5eLZurPU3qWvS-pujts=']
+U+6FA6
+16
+yù
+85.13
+澦.mp3
+
+澧
+['river in northern Hunan province']
+['NONE']
+['NONE']
+U+6FA7
+16
+lǐ
+85.13
+澧.mp3
+
+澨
+['shore', ' river in Hubei']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/aerial-view-of-clear-turquoise-sea-picture-id956431518?k=6&m=956431518&s=612x612&w=0&h=fUCFlF3qMGuKNEywwBzOGfD7bLeuhFjFBApfNW-cN_o=', 'https://media.gettyimages.com/photos/qingchuan-bridge-in-wuhan-china-picture-id513388248?k=6&m=513388248&s=612x612&w=0&h=DrtATrCLMhV8-M5hJxj3IhNG0p9dmpw5B4ZTLPqHxHo=']
+U+6FA8
+16
+shì
+85.13
+澨.mp3
+
+澩
+['NONE']
+['NONE']
+[]
+U+6FA9
+17
+xué
+85.13
+澩.mp3
+
+澪
+['NONE']
+['NONE']
+[]
+U+6FAA
+16
+líng
+85.13
+澪.mp3
+
+澫
+['NONE']
+['NONE']
+[]
+U+6FAB
+15
+wàn
+85.13
+澫.mp3
+
+澬
+['NONE']
+['NONE']
+[]
+U+6FAC
+16
+zī
+85.13
+澬.mp3
+
+澭
+['NONE']
+['NONE']
+[]
+U+6FAD
+16
+yōng
+85.13
+澭.mp3
+
+澮
+['irrigation ditch, trench', ' river']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/new-pipework-picture-id157317217?k=6&m=157317217&s=612x612&w=0&h=pzL0r_Qgf-uXt7fNnWOG9n4SS3s9zlJTsmMentJvYco=', 'https://media.gettyimages.com/photos/mata-atlantica-atlantic-forest-in-brazil-picture-id935746242?k=6&m=935746242&s=612x612&w=0&h=tzTaZgFixIqpuBdEY9yfFmzcyAU-uM3xUKiGyLT4EIE=']
+U+6FAE
+16
+huì
+85.13
+澮.mp3
+
+澯
+['NONE']
+['NONE']
+[]
+U+6FAF
+16
+càn
+85.13
+澯.mp3
+
+澰
+['overflowing']
+['NONE']
+['https://media.gettyimages.com/photos/water-pouring-into-glass-and-overflowing-picture-id97971214?k=6&m=97971214&s=612x612&w=0&h=CTqV25qYCjiJ5t_GwTNj1tWDoDankuVv2g7fwgSTmQ4=']
+U+6FB0
+16
+liàn
+85.13
+澰.mp3
+
+澱
+['sediment, dregs, precipitate']
+['NONE']
+['NONE']
+U+6FB1
+16
+diàn
+85.13
+澱.mp3
+
+澲
+['NONE']
+['NONE']
+[]
+U+6FB2
+16
+yè
+85.13
+澲.mp3
+
+澳
+['inlet, bay', ' dock, bank']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/cala-de-deia-majorca-picture-id168259717?k=6&m=168259717&s=612x612&w=0&h=dTGEOUGBThaWD6xfxQKcLfeFK7SHaOEUEwZbl6kqHuc=', 'https://media.gettyimages.com/photos/hong-kong-victoria-harboureast-asia-picture-id943351626?k=6&m=943351626&s=612x612&w=0&h=sct4gSeo2wAGcKCK58TcJZF6ZnejQDCXFov3LcDSY4w=']
+U+6FB3
+15
+ào
+85.13
+澳.mp3
+
+澴
+['river in Hubei province']
+['NONE']
+['https://media.gettyimages.com/photos/urban-architecture-along-the-yangtze-river-in-hankou-district-wuhan-picture-id1195700637?k=6&m=1195700637&s=612x612&w=0&h=9V3L61GzMuIC0rtWkONmOIWihTzocZeQbXnNnWi7gW4=']
+U+6FB4
+16
+huán
+85.13
+澴.mp3
+
+澵
+['NONE']
+['NONE']
+[]
+U+6FB5
+16
+zhēn
+85.13
+澵.mp3
+
+澶
+['still water, placid, tranquil']
+['NONE']
+['https://media.gettyimages.com/photos/lady-floating-in-the-sea-in-a-rubber-ring-wearing-large-hat-picture-id1044207222?k=6&m=1044207222&s=612x612&w=0&h=HvnRK4PfQia3xcAhzwOK9v4AJRXyHhxhDhv3e8pZf0Q=']
+U+6FB6
+16
+chán
+85.13
+澶.mp3
+
+澷
+['water overflowing diffused', ' spreading']
+['NONE', 'NONE']
+['NONE', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+6FB7
+16
+màn
+85.13
+澷.mp3
+
+澸
+['NONE']
+['NONE']
+[]
+U+6FB8
+16
+dǎn
+85.13
+澸.mp3
+
+澹
+['calm, quiet, tranquil']
+['NONE']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+6FB9
+16
+dàn
+85.13
+澹.mp3
+
+澺
+['NONE']
+['NONE']
+[]
+U+6FBA
+16
+yì
+85.13
+澺.mp3
+
+澻
+['NONE']
+['NONE']
+[]
+U+6FBB
+15
+suì
+85.13
+澻.mp3
+
+澼
+['bleach', ' wash, clean']
+['NONE', 'NONE']
+['https://media.gettyimages.com/vectors/bleach-bottle-vector-id514730891?k=6&m=514730891&s=612x612&w=0&h=J5m2wttpL9ZWUr0Malcb06t4ICU3nkjnHZeGwKZYEMM=', 'https://media.gettyimages.com/photos/practice-good-hygiene-picture-id1131973999?k=6&m=1131973999&s=612x612&w=0&h=wsStUnKZ-hpitsTdyJ2biIaMn1UrCdMxKiloKfkUO5w=']
+U+6FBC
+16
+pì
+85.13
+澼.mp3
+
+澽
+['NONE']
+['NONE']
+[]
+U+6FBD
+16
+jù
+85.13
+澽.mp3
+
+澾
+['slippery, smooth']
+['NONE']
+['https://media.gettyimages.com/photos/smooth-white-foam-picture-id1226856195?k=6&m=1226856195&s=612x612&w=0&h=_wzUpy8Aukn1P5yETfVm-aQp2q6bTBm0FrfiESv-B-8=']
+U+6FBE
+15
+tà
+85.13
+澾.mp3
+
+澿
+['NONE']
+['NONE']
+[]
+U+6FBF
+16
+qín
+85.13
+澿.mp3
+
+激
+['arouse, excite, incite', ' quickly']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/teamwork-and-team-spirit-picture-id154926864?k=6&m=154926864&s=612x612&w=0&h=jicFn-coQw76Wun7oD9p1tykHYYe-9pkze9uj7BxlaA=', 'https://media.gettyimages.com/vectors/fast-time-icons-multi-series-vector-id1060491424?k=6&m=1060491424&s=612x612&w=0&h=Vj5v7yQgfgpuIcs7vRfSuDQqsJv5ER5sEvnFgeaiZK8=']
+U+6FC0
+16
+jī
+85.13
+激.mp3
+
+濁
+['muddy, turbid, dirty, filthy']
+['NONE']
+['https://media.gettyimages.com/photos/washing-a-bicycle-in-the-river-picture-id157288178?k=6&m=157288178&s=612x612&w=0&h=3_mQhMzjKnB96wXaCLgKTZ1DojWTOXgj9gbZDIQCmGY=']
+U+6FC1
+16
+zhuó
+85.13
+濁.mp3
+
+濂
+['a waterfall', ' a river in Hunan']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/majestic-waterfall-picture-id1097302392?k=6&m=1097302392&s=612x612&w=0&h=AokVxd3F5USqfoDU6VkHlSbUW7Piathnq-8e2toKSao=', 'https://media.gettyimages.com/photos/chinese-traditional-rural-architecture-picture-id1147989893?k=6&m=1147989893&s=612x612&w=0&h=JCPRT557e6fqaLzuxflBzvP8r9JtKoXwAI5wtN6zHJ0=']
+U+6FC2
+16
+lián
+85.13
+濂.mp3
+
+濃
+['thick, strong, concentrated']
+['NONE']
+['https://media.gettyimages.com/photos/studio-shot-of-a-plant-root-closeup-picture-id1249758792?k=6&m=1249758792&s=612x612&w=0&h=_YE4fF4eycoJvCQa9EGbDjNYpbd6fUhQmAdgtGFaYaE=']
+U+6FC3
+16
+nóng
+85.13
+濃.mp3
+
+濄
+['NONE']
+['NONE']
+[]
+U+6FC4
+14
+guō
+85.13
+濄.mp3
+
+濅
+['NONE']
+['NONE']
+[]
+U+6FC5
+16
+jìn
+85.13
+濅.mp3
+
+濆
+['river bank', ' river in Henan province', ' gush']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/shanghai-urban-skyline-china-picture-id829204664?k=6&m=829204664&s=612x612&w=0&h=tuRhalMMnmNw69-wHBTkUIHZEThXz0j6xwYFd0PHUsM=', 'https://media.gettyimages.com/photos/lotus-on-the-jinshui-river-of-zhengzhou-henan-province-china-picture-id1263905179?k=6&m=1263905179&s=612x612&w=0&h=sWP7TNWzzsNsCgYFU4n46btFIGCShFjUIRgnKuUjUzE=', 'https://media.gettyimages.com/photos/car-on-road-under-waterfall-picture-id707439081?k=6&m=707439081&s=612x612&w=0&h=WJXUlCT5U4bsy53kjbgfMluBhVJbG80O6UHg3I2fQNw=']
+U+6FC6
+15
+fén
+85.13
+濆.mp3
+
+濇
+['astringent', ' harsh, rough', ' uneven']
+['NONE', 'NONE', 'NONE']
+['https://media.gettyimages.com/photos/the-spring-flowering-yellow-blooms-of-witch-hazel-hamamelis-x-picture-id918850828?k=6&m=918850828&s=612x612&w=0&h=WivqzLqxwQqJDAxlMN64pUlkCs7ruVW9UcVhMLhJm2M=', 'https://media.gettyimages.com/photos/portrait-of-rebellious-young-man-wearing-hooded-shirt-picture-id1095258592?k=6&m=1095258592&s=612x612&w=0&h=uP2B-g0RwIyVGjX0afM_SMgftsJyog0W0MOug_P8iHk=', 'https://media.gettyimages.com/vectors/challenge-vector-id1068265778?k=6&m=1068265778&s=612x612&w=0&h=mfJHrUzWpZq0BuEiIV435V40UblWB1wxbUPy4vUfe7k=']
+U+6FC7
+16
+sè
+85.13
+濇.mp3
+
+濈
+['many']
+['NONE']
+['https://media.gettyimages.com/photos/zodiac-signs-inside-of-horoscope-circle-astrology-in-the-sky-with-picture-id1193343235?k=6&m=1193343235&s=612x612&w=0&h=dGpYB2ik4dnZ4NJEFrzjLrwb7B0gBzkGDxtNfZvKG1g=']
+U+6FC8
+15
+jí
+85.13
+濈.mp3
+
+濉
+['NONE']
+['NONE']
+[]
+U+6FC9
+16
+suī
+85.13
+濉.mp3
+
+濊
+['vast, expansive, deep', ' dirty']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/deep-blue-ocean-panorama-picture-id184330929?k=6&m=184330929&s=612x612&w=0&h=kIkkguHYbU7XXV98DlQzthCzhURv9ZaA7ObtoxZ9VwE=', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+6FCA
+16
+huì
+85.13
+濊.mp3
+
+濋
+['NONE']
+['NONE']
+[]
+U+6FCB
+16
+chǔ
+85.13
+濋.mp3
+
+濌
+['NONE']
+['NONE']
+[]
+U+6FCC
+17
+tà
+85.13
+濌.mp3
+
+濍
+['NONE']
+['NONE']
+[]
+U+6FCD
+15
+sōng
+85.13
+濍.mp3
+
+濎
+['NONE']
+['NONE']
+[]
+U+6FCE
+15
+dǐng
+85.13
+濎.mp3
+
+濏
+['NONE']
+['NONE']
+[]
+U+6FCF
+16
+sè
+85.13
+濏.mp3
+
+濐
+['NONE']
+['NONE']
+[]
+U+6FD0
+15
+zhǔ
+85.12
+濐.mp3
+
+濑
+['swift current', ' rapids']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/skys-alive-picture-id182676336?k=6&m=182676336&s=612x612&w=0&h=s9rgPqFK87PhCY4aGTATQFlcu-KuMmuVXEraJCEVFKY=', 'https://media.gettyimages.com/photos/mature-man-kayaking-on-river-soca-rapids-high-angle-view-picture-id810563614?k=6&m=810563614&s=612x612&w=0&h=XVs7694ElTbkrpTgWz0msCf2xfjJ_wHcnSafflzn6Qk=']
+U+6FD1
+16
+lài
+85.13
+濑.mp3
+
+濒
+['approach, be on verge of', ' near']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/speeding-truck-on-dutch-highway-picture-id185278949?k=6&m=185278949&s=612x612&w=0&h=HDBApyMyEGFWVlKCLnHa3DDK2UQZs0vw80sg_1vYVy0=', 'https://media.gettyimages.com/vectors/male-and-female-figures-holding-hands-vector-id1140397994?k=6&m=1140397994&s=612x612&w=0&h=IG0F3UVI_5doqKgZqYU9pN-itXwHBlQxGycEnTSB1aA=']
+U+6FD2
+16
+bīn
+85.13
+濒.mp3
+
+濓
+['NONE']
+['NONE']
+[]
+U+6FD3
+16
+lián
+85.13
+濓.mp3
+
+濔
+['many']
+['NONE']
+['https://media.gettyimages.com/photos/zodiac-signs-inside-of-horoscope-circle-astrology-in-the-sky-with-picture-id1193343235?k=6&m=1193343235&s=612x612&w=0&h=dGpYB2ik4dnZ4NJEFrzjLrwb7B0gBzkGDxtNfZvKG1g=']
+U+6FD4
+17
+mǐ
+85.14
+濔.mp3
+
+濕
+['wet, moist, humid, damp', ' an illness']
+['NONE', 'NONE']
+['https://media.gettyimages.com/vectors/air-conditioner-line-icons-vector-id1082363896?k=6&m=1082363896&s=612x612&w=0&h=dNWT9bmhHLarmKJLtOVEKOOZmfO9WPNOpJc3GBiUnHQ=', 'https://media.gettyimages.com/photos/sick-woman-blowing-her-nose-she-covered-with-blanket-picture-id1135175362?k=6&m=1135175362&s=612x612&w=0&h=Nke1Q193RMRqF2sma8hUym_Ou662E891V8vFu17PAoc=']
+U+6FD5
+17
+shī
+85.14
+濕.mp3
+
+濖
+['NONE']
+['NONE']
+[]
+U+6FD6
+16
+shù
+85.13
+濖.mp3
+
+濗
+['NONE']
+['NONE']
+[]
+U+6FD7
+16
+mì
+85.14
+濗.mp3
+
+濘
+['mud', ' miry, muddy, stagnant']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/dirt-background-picture-id182187754?k=6&m=182187754&s=612x612&w=0&h=9BYykbnRG0cs_fuWDop-aigA3N8R9hO30p7YLVfZ8KM=', 'NONE']
+U+6FD8
+17
+nìng
+85.14
+濘.mp3
+
+濙
+['to revolve', ' to curl in eddies, as rushing water']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/revolving-door-in-office-building-lobby-picture-id109350373?k=6&m=109350373&s=612x612&w=0&h=vRJKKQQ-G7LQpj8XbuEpnAAjrzlIXUHoNh0omW-daYM=', 'NONE']
+U+6FD9
+17
+yíng
+85.14
+濙.mp3
+
+濚
+['a stream, eddy', ' to eddy']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/stream-of-water-pulverized-with-water-drops-suspended-in-the-air-on-a-picture-id636474222?k=6&m=636474222&s=612x612&w=0&h=modbKtWx86lvzjSIH4L26SOGBThhvSKTk9ntuySxldY=', 'https://media.gettyimages.com/photos/beautiful-clear-teal-water-vortex-picture-id157641313?k=6&m=157641313&s=612x612&w=0&h=U7UN3pojuvWGcB3eFu7eEH16vMbbwaRMCyiGFxSsQbI=']
+U+6FDA
+17
+yíng
+85.14
+濚.mp3
+
+濛
+['drizzling, misty, raining']
+['NONE']
+['https://media.gettyimages.com/photos/fog-and-clouds-on-mountain-picture-id1160438555?k=6&m=1160438555&s=612x612&w=0&h=OHMCasK377QMKyev3TKXstvNmvV8eb9W7qC8gMfYOyI=']
+U+6FDB
+16
+méng
+85.14
+濛.mp3
+
+濜
+['river in Hubei province']
+['NONE']
+['https://media.gettyimages.com/photos/urban-architecture-along-the-yangtze-river-in-hankou-district-wuhan-picture-id1195700637?k=6&m=1195700637&s=612x612&w=0&h=9V3L61GzMuIC0rtWkONmOIWihTzocZeQbXnNnWi7gW4=']
+U+6FDC
+17
+jìn
+85.14
+濜.mp3
+
+濝
+['NONE']
+['NONE']
+[]
+U+6FDD
+17
+qí
+85.14
+濝.mp3
+
+濞
+['NONE']
+['NONE']
+[]
+U+6FDE
+17
+bì
+85.14
+濞.mp3
+
+濟
+['to help, aid, relieve', ' to ferry, cross']
+['NONE', 'NONE']
+['https://media.gettyimages.com/vectors/charity-and-donate-icons-vector-id638425566?k=6&m=638425566&s=612x612&w=0&h=TtgfOo4WMdRT_Cp5JuCqGgr_JEunIcaXux23-3JWNLw=', 'https://media.gettyimages.com/photos/greece-cyclades-santorini-fira-santorini-church-elevated-view-picture-id200546389-001?k=6&m=200546389-001&s=612x612&w=0&h=enk4Tz8FqDm7itTbO0iVKpsL42kThgLU0HT6AVfZV48=']
+U+6FDF
+17
+jì
+85.14
+濟.mp3
+
+濠
+['moat, trench, ditch']
+['NONE']
+['NONE']
+U+6FE0
+17
+háo
+85.14
+濠.mp3
+
+濡
+['immerse, moisten', ' wet, damp']
+['NONE', 'NONE']
+['NONE', 'https://media.gettyimages.com/photos/crumpled-paper-picture-id173546785?k=6&m=173546785&s=612x612&w=0&h=7r0J-cCV1qB9oE4rp7vYG3GMAWRIGpDaE7XkJI-tGdI=']
+U+6FE1
+17
+rú
+85.14
+濡.mp3
+
+濢
+['NONE']
+['NONE']
+[]
+U+6FE2
+17
+cuì
+85.14
+濢.mp3
+
+濣
+['NONE']
+['NONE']
+[]
+U+6FE3
+17
+wò
+85.14
+濣.mp3
+
+濤
+['large waves']
+['NONE']
+['https://media.gettyimages.com/photos/barrelling-wave-picture-id168351395?k=6&m=168351395&s=612x612&w=0&h=jf1LrRa3hqH_AEAnzz5lj7HnH61GXZGOfC0IQlRcbtc=']
+U+6FE4
+17
+tāo
+85.14
+濤.mp3
+
+濥
+['NONE']
+['NONE']
+[]
+U+6FE5
+17
+yǐn
+85.14
+濥.mp3
+
+濦
+['NONE']
+['NONE']
+[]
+U+6FE6
+17
+yǐn
+85.14
+濦.mp3
+
+濧
+['NONE']
+['NONE']
+[]
+U+6FE7
+17
+duì
+85.14
+濧.mp3
+
+濨
+['NONE']
+['NONE']
+[]
+U+6FE8
+16
+cí
+85.14
+濨.mp3
+
+濩
+['pour down, cascade down', ' look']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/clear-blue-water-flowing-ripples-and-waves-picture-id155151743?k=6&m=155151743&s=612x612&w=0&h=JQyTubcC5N2CizD4n-LF9prVvNXBWIVFDRPbd9bZ77U=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+6FE9
+16
+huò
+85.14
+濩.mp3
+
+濪
+['NONE']
+['NONE']
+[]
+U+6FEA
+17
+qìng
+85.14
+濪.mp3
+
+濫
+['flood, overflow', ' excessive']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/rubber-duck-falling-out-of-bath-overflowing-with-water-picture-id571978003?k=6&m=571978003&s=612x612&w=0&h=2uVyiZbnRkmyYKSaKTBZen8eFlsE_PT-HbyZVpHPFkw=', 'https://media.gettyimages.com/photos/can-i-get-a-moment-to-breathe-picture-id654187068?k=6&m=654187068&s=612x612&w=0&h=atcg1DFapQuyx1bd1_2Sw4YDfjKx3bYn6zA0cdukyAQ=']
+U+6FEB
+17
+làn
+85.14
+濫.mp3
+
+濬
+['dredge, dig', ' profound, deep']
+['NONE', 'NONE']
+['https://media.gettyimages.com/photos/sand-and-gravel-pit-lakeshore-aerial-view-picture-id1137521281?k=6&m=1137521281&s=612x612&w=0&h=NoVtgUQEZ1imKgtnZ9QPXruaePiKLp5xhceORrzcntM=', 'https://media.gettyimages.com/photos/businesswoman-relaxing-outdoor-picture-id1185007236?k=6&m=1185007236&s=612x612&w=0&h=15ViKx0lD98luDf6xrjnJSISlJHCZxH2m32tHdzl5AQ=']
+U+6FEC
+17
+jùn
+85.14
+濬.mp3
+
+濭
+['NONE']
+['NONE']
+[]
+U+6FED
+16
+ǎi
+85.14
+濭.mp3

@@ -1,0 +1,2560 @@
+椙
+['NONE']
+['NINGUNA']
+[]
+U+6919
+12
+chāng
+75.8
+椙.mp3
+
+椚
+['a kind of oak used for charcoal']
+['una especie de roble usado para carbón']
+['NONE']
+U+691A
+12
+mēn
+75.8
+椚.mp3
+
+椛
+['type of birch']
+['tipo de abedul']
+['https://media.gettyimages.com/photos/green-2011-picture-id154925593?k=6&m=154925593&s=612x612&w=0&h=s-HAVoMl2rlci7W4BRdgEyMDbM4h6lKOAGtSVX5S2eY=']
+U+691B
+11
+huā
+75.8
+椛.mp3
+
+検
+['check', ' examine']
+['cheque', 'examinar']
+['https://media.gettyimages.com/photos/closeup-of-blank-bank-check-sample-against-white-background-picture-id92871728?k=6&m=92871728&s=612x612&w=0&h=lU5eO1f8dTm8jJvEXUze1mq_JKZcgZsiwIucCifsWFs=', 'https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+691C
+12
+jiǎn
+75.8
+検.mp3
+
+椝
+['NONE']
+['NINGUNA']
+[]
+U+691D
+12
+guī
+75.8
+椝.mp3
+
+椞
+['NONE']
+['NINGUNA']
+[]
+U+691E
+12
+xì
+75.8
+椞.mp3
+
+椟
+['cabinet, wardrobe', ' closet']
+['armario, armario', 'armario']
+['https://media.gettyimages.com/photos/wardrobe-2-picture-id172960307?k=6&m=172960307&s=612x612&w=0&h=sKvxpyUXLTd_3X-3WmZvkOQugb7gd6r6KidpzGKS-5I=', 'https://media.gettyimages.com/photos/side-view-of-young-woman-hanging-clothes-on-rack-at-home-picture-id1085954936?k=6&m=1085954936&s=612x612&w=0&h=bkiDpU_On8pD468eoLrBana9ZqCmMqlY_927u5M6OJY=']
+U+691F
+12
+dú
+75.8
+椟.mp3
+
+椠
+['wooden tablet', ' edition']
+['tableta de madera', 'edición']
+['https://media.gettyimages.com/photos/man-working-with-tablet-pc-at-desk-picture-id656297873?k=6&m=656297873&s=612x612&w=0&h=otpmkLTLDioV9E1Z80jR9mG40vIa4FPXqDRIqQ7K5KE=', 'https://media.gettyimages.com/photos/this-is-our-special-edition-model-of-shoes-picture-id1161197281?k=6&m=1161197281&s=612x612&w=0&h=arknRCi829W7tSaS7pxMNt_LSDeZrx0UynsjSqd2YoY=']
+U+6920
+12
+qiàn
+75.8
+椠.mp3
+
+椡
+['NONE']
+['NINGUNA']
+[]
+U+6921
+12
+dào
+75.8
+椡.mp3
+
+椢
+['NONE']
+['NINGUNA']
+[]
+U+6922
+12
+guì
+75.8
+椢.mp3
+
+椣
+['NONE']
+['NINGUNA']
+[]
+U+6923
+12
+diǎn
+75.8
+椣.mp3
+
+椤
+['tree']
+['árbol']
+['https://media.gettyimages.com/photos/trees-against-white-background-picture-id928125712?k=6&m=928125712&s=612x612&w=0&h=dwCW4-o9_irGVexxKqEQacXs9nJAgCXin4uCXCQrzgw=']
+U+6924
+12
+luó
+75.8
+椤.mp3
+
+椥
+['NONE']
+['NINGUNA']
+[]
+U+6925
+12
+zhī
+75.8
+椥.mp3
+
+椦
+['NONE']
+['NINGUNA']
+[]
+U+6926
+12
+quan
+75.8
+椦.mp3
+
+椧
+['gutter']
+['Niños']
+['https://media.gettyimages.com/photos/senior-man-stands-on-ladder-and-cleans-a-roof-gutter-picture-id965015416?k=6&m=965015416&s=612x612&w=0&h=EVNGZSNh9zXb0dGSPJZQXIHujJxJlNJAGrGV6zRpe2E=']
+U+6927
+12
+mìng
+75.8
+椧.mp3
+
+椨
+['NONE']
+['NINGUNA']
+[]
+U+6928
+12
+fǔ
+75.8
+椨.mp3
+
+椩
+['NONE']
+['NINGUNA']
+[]
+U+6929
+12
+gēng
+75.8
+椩.mp3
+
+椪
+['Machilus nanmu, variety of evergreen']
+['Machilus nanmu, variedad de hoja perenne']
+['NONE']
+U+692A
+12
+pèng
+75.8
+椪.mp3
+
+椫
+['NONE']
+['NINGUNA']
+[]
+U+692B
+12
+shàn
+75.8
+椫.mp3
+
+椬
+['NONE']
+['NINGUNA']
+[]
+U+692C
+12
+yí
+75.8
+椬.mp3
+
+椭
+['oval-shaped, elliptical, tubular']
+['ovalada, elíptica, tubular']
+['https://media.gettyimages.com/photos/picture-frame-gold-oval-round-narrow-white-isolated-studio-shot-picture-id136700815?k=6&m=136700815&s=612x612&w=0&h=7pmxSCAbWcl8rDiSwvjnMn0yeh9svvHNlkHxDnDYhdM=']
+U+692D
+12
+tuǒ
+75.8
+椭.mp3
+
+椮
+['NONE']
+['NINGUNA']
+[]
+U+692E
+12
+sēn
+75.8
+椮.mp3
+
+椯
+['NONE']
+['NINGUNA']
+[]
+U+692F
+13
+duǒ
+75.9
+椯.mp3
+
+椰
+['palm tree, coconut palm']
+['palmera, palma de coco']
+['https://media.gettyimages.com/photos/closeup-of-coconut-palm-tree-against-white-background-picture-id1082396342?k=6&m=1082396342&s=612x612&w=0&h=ViXVn0rR3ceqVaD6WTr_dljv9SgZlE4wvHg3K7Zj80U=']
+U+6930
+12
+yē
+75.9
+椰.mp3
+
+椱
+['NONE']
+['NINGUNA']
+[]
+U+6931
+13
+fù
+75.9
+椱.mp3
+
+椲
+['NONE']
+['NINGUNA']
+[]
+U+6932
+13
+wěi
+75.9
+椲.mp3
+
+椳
+['the pivots, at the top and bottom of a Chinese door, on which the door turns']
+['los pivotes, en la parte superior e inferior de una puerta china, sobre los que gira la puerta']
+['NONE']
+U+6933
+13
+wēi
+75.9
+椳.mp3
+
+椴
+['poplar, aspen']
+['álamo, álamo temblón']
+['https://media.gettyimages.com/photos/wyoming-grand-teton-national-park-aspen-trees-with-autumn-foliage-picture-id559556807?k=6&m=559556807&s=612x612&w=0&h=NBPGID6qHzo__ai-6vQ1V1gHgShEguT08GDgbSiqi_A=']
+U+6934
+13
+duàn
+75.9
+椴.mp3
+
+椵
+['pompelmous', ' canque (breech, rump, buttock)']
+['pomelo', 'canque (nalgas, nalgas, nalgas)']
+['https://media.gettyimages.com/photos/shaddock-with-chinese-calligraphy-picture-id78725163?k=6&m=78725163&s=612x612&w=0&h=wsCsTohM3ZQyp_ee2-8SQaphvnPXQtbxQ-0xXWafuCU=', 'NONE']
+U+6935
+13
+jiǎ
+75.9
+椵.mp3
+
+椶
+['palm tree']
+['palmera']
+['https://media.gettyimages.com/photos/closeup-of-coconut-palm-tree-against-white-background-picture-id1082396342?k=6&m=1082396342&s=612x612&w=0&h=ViXVn0rR3ceqVaD6WTr_dljv9SgZlE4wvHg3K7Zj80U=']
+U+6936
+13
+zōng
+75.9
+椶.mp3
+
+椷
+['box', ' casket', ' letter', ' envelope']
+['caja', 'ataúd', 'carta', 'sobre']
+['https://media.gettyimages.com/photos/smiling-woman-opening-a-carton-box-picture-id1005857546?k=6&m=1005857546&s=612x612&w=0&h=-afIKQJwHD_F_tDpcIH2SHjFAfCfwP7xW1tRuy1DBsk=', 'https://media.gettyimages.com/photos/coffin-at-a-cemetery-picture-id104304892?k=6&m=104304892&s=612x612&w=0&h=Ve-_L8Mk5k4kX8s4EsRruZ4ZMLy8p90ev3jC4c7ffDw=', 'https://media.gettyimages.com/photos/ransom-note-alphabets-xxxl-picture-id148124096?k=6&m=148124096&s=612x612&w=0&h=wsJS0lVVzjHtRPFqJf8yMRryxH9ajjbEfxF0AldTyRo=', 'https://media.gettyimages.com/photos/envelope-picture-id174671047?k=6&m=174671047&s=612x612&w=0&h=7vXaUsGQjfhhWWfWIrhAAgPYG6P0CF7GGmUC5B02SgE=']
+U+6937
+13
+jiān
+75.9
+椷.mp3
+
+椸
+['rack']
+['estante']
+['https://media.gettyimages.com/photos/empty-bookshelf-picture-id1015893864?k=6&m=1015893864&s=612x612&w=0&h=uEsko8oNkiWDvwkNYcahLkSKEAiXMez93FeF4T5A9So=']
+U+6938
+13
+yí
+75.9
+椸.mp3
+
+椹
+['a chopping board']
+['una tabla de cortar']
+['https://media.gettyimages.com/photos/directly-above-shot-of-cutting-board-on-wooden-table-picture-id1147730363?k=6&m=1147730363&s=612x612&w=0&h=WfXYevz_PmkpmCHmtGNj3zCh-mPK8958GQPwQ1rPQRA=']
+U+6939
+13
+shèn
+75.9
+椹.mp3
+
+椺
+['beam of a house']
+['haz de una casa']
+['https://media.gettyimages.com/photos/wooden-interior-with-funiture-and-fireplace-picture-id1133765996?k=6&m=1133765996&s=612x612&w=0&h=waCOW-ewa4-8YKM20925Vi972ZWVM6ixrMFJ7QVly7c=']
+U+693A
+13
+xí
+75.9
+椺.mp3
+
+椻
+['NONE']
+['NINGUNA']
+[]
+U+693B
+13
+yàn
+75.9
+椻.mp3
+
+椼
+['NONE']
+['NINGUNA']
+[]
+U+693C
+13
+yǎn
+75.9
+椼.mp3
+
+椽
+['beams, rafters, supports']
+['vigas, vigas, soportes']
+['https://media.gettyimages.com/photos/roof-support-beams-in-home-under-construction-picture-id108003743?k=6&m=108003743&s=612x612&w=0&h=MjfAKl89CwDkRjNKSQqOUyd92tPg_BXd9uHxbf69RlU=']
+U+693D
+13
+chuán
+75.9
+椽.mp3
+
+椾
+['NONE']
+['NINGUNA']
+[]
+U+693E
+13
+jiān
+75.9
+椾.mp3
+
+椿
+['father', ' a plant with white flowers']
+['padre', 'una planta con flores blancas']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'https://media.gettyimages.com/photos/high-angle-view-of-plant-leaves-picture-id1002317098?k=6&m=1002317098&s=612x612&w=0&h=o8KLw5V9lGsbyxQ3SjTEskduj8TlY2x32ANjAXPJLcI=']
+U+693F
+13
+chūn
+75.9
+椿.mp3
+
+楀
+['name of tree', ' surname']
+['nombre del árbol', 'apellido']
+['https://media.gettyimages.com/photos/multiple-exposure-of-a-young-woman-and-mountain-landscape-picture-id617178920?k=6&m=617178920&s=612x612&w=0&h=W2w3Q_RTGJCDyf8Aj2YwXC-2gLuVM-L1jbcE-6UG1Nc=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6940
+13
+yǔ
+75.9
+楀.mp3
+
+楁
+['NONE']
+['NINGUNA']
+[]
+U+6941
+13
+hé
+75.9
+楁.mp3
+
+楂
+['a raft, to hew, to fell trees']
+['una balsa, para cortar, para talar árboles']
+['NONE']
+U+6942
+13
+zhā
+75.9
+楂.mp3
+
+楃
+['NONE']
+['NINGUNA']
+[]
+U+6943
+13
+wò
+75.9
+楃.mp3
+
+楄
+['block']
+['bloquear']
+['https://media.gettyimages.com/photos/building-on-their-success-together-picture-id1062463400?k=6&m=1062463400&s=612x612&w=0&h=VOeN2xgQrZp0eRO4J8V5TlYEP1cKL84OOh2qm34xHnE=']
+U+6944
+13
+pián
+75.9
+楄.mp3
+
+楅
+['wooden board']
+['tabla de madera']
+['https://media.gettyimages.com/photos/directly-above-shot-of-cutting-board-on-wooden-table-picture-id1147730363?k=6&m=1147730363&s=612x612&w=0&h=WfXYevz_PmkpmCHmtGNj3zCh-mPK8958GQPwQ1rPQRA=']
+U+6945
+13
+bī
+75.9
+楅.mp3
+
+楆
+['NONE']
+['NINGUNA']
+[]
+U+6946
+13
+yāo
+75.9
+楆.mp3
+
+楇
+['NONE']
+['NINGUNA']
+[]
+U+6947
+12
+huò
+75.9
+楇.mp3
+
+楈
+['NONE']
+['NINGUNA']
+[]
+U+6948
+13
+xū
+75.9
+楈.mp3
+
+楉
+['NONE']
+['NINGUNA']
+[]
+U+6949
+12
+ruò
+75.9
+楉.mp3
+
+楊
+['willow, poplar, aspen', ' surname']
+['sauce, álamo, álamo temblón', 'apellido']
+['https://media.gettyimages.com/photos/poplar-and-willow-dead-leaves-on-a-woodland-ground-during-autumn-in-picture-id642448868?k=6&m=642448868&s=612x612&w=0&h=5hd4tXvyVRBk7VnkU7_A1xFj23UAIZ9QoMBxv31HuEU=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+694A
+13
+yáng
+75.9
+楊.mp3
+
+楋
+['NONE']
+['NINGUNA']
+[]
+U+694B
+13
+là
+75.9
+楋.mp3
+
+楌
+['NONE']
+['NINGUNA']
+[]
+U+694C
+13
+yán
+75.9
+楌.mp3
+
+楍
+['NONE']
+['NINGUNA']
+[]
+U+694D
+13
+běn
+75.9
+楍.mp3
+
+楎
+['peg']
+['clavija']
+['https://media.gettyimages.com/photos/green-office-supplies-on-green-background-picture-id589936879?k=6&m=589936879&s=612x612&w=0&h=6hhx4YbjdQLxz3XKmWa6JKBKWreT3T6fVYLq7K1KbYc=']
+U+694E
+13
+huī
+75.9
+楎.mp3
+
+楏
+['NONE']
+['NINGUNA']
+[]
+U+694F
+13
+kuí
+75.9
+楏.mp3
+
+楐
+['NONE']
+['NINGUNA']
+[]
+U+6950
+13
+jiè
+75.9
+楐.mp3
+
+楑
+['NONE']
+['NINGUNA']
+[]
+U+6951
+13
+kuí
+75.9
+楑.mp3
+
+楒
+['NONE']
+['NINGUNA']
+[]
+U+6952
+13
+sī
+75.9
+楒.mp3
+
+楓
+['maple tree']
+['árbol de arce']
+['https://media.gettyimages.com/photos/sycamore-maple-on-meadow-isolated-on_white-picture-id182790489?k=6&m=182790489&s=612x612&w=0&h=QWkvjbOAezKMn2AgcfHCtNQj_7znD5aDCEz04GPD7DI=']
+U+6953
+13
+fēng
+75.9
+楓.mp3
+
+楔
+['wedge', ' gatepost', ' foreword']
+['cuña', 'poste de la puerta', 'prefacio']
+['https://media.gettyimages.com/photos/tomato-slice-picture-id182746000?k=6&m=182746000&s=612x612&w=0&h=2Fp6bgV3doTxo0is16GqsOM_UT1JHqvVX98rlFPPHXk=', 'https://media.gettyimages.com/photos/the-purrr-picture-id1168009658?k=6&m=1168009658&s=612x612&w=0&h=5utCGiSiNWtt1OcA6nuWyHhtdq6G12TM7UTTy9mXxqg=', 'https://media.gettyimages.com/photos/out-of-this-light-i-walk-picture-id479475991?k=6&m=479475991&s=612x612&w=0&h=Rdpo74PRzu7FBmnUfxIvbGQ8KWO_GXEWqSimzkWIp1M=']
+U+6954
+13
+xiē
+75.9
+楔.mp3
+
+楕
+['oval-shaped, elliptical, tubular']
+['ovalada, elíptica, tubular']
+['https://media.gettyimages.com/photos/picture-frame-gold-oval-round-narrow-white-isolated-studio-shot-picture-id136700815?k=6&m=136700815&s=612x612&w=0&h=7pmxSCAbWcl8rDiSwvjnMn0yeh9svvHNlkHxDnDYhdM=']
+U+6955
+13
+tuǒ
+75.9
+楕.mp3
+
+楖
+['NONE']
+['NINGUNA']
+[]
+U+6956
+11
+zhì
+75.9
+楖.mp3
+
+楗
+['bar of door, bolt of lock']
+['barra de puerta, cerrojo de cerradura']
+['NONE']
+U+6957
+12
+jiàn
+75.9
+楗.mp3
+
+楘
+['band']
+['banda']
+['https://media.gettyimages.com/photos/caucasian-band-playing-in-garage-picture-id1146332557?k=6&m=1146332557&s=612x612&w=0&h=sP7ojATwuVKI74rSXnp7pfnPLJzaDSCz6AS2qQ0PrNY=']
+U+6958
+13
+mù
+75.9
+楘.mp3
+
+楙
+['name of plant', ' lush']
+['nombre de la planta', 'lozano']
+['https://media.gettyimages.com/photos/scanning-and-checking-boxes-picture-id835810076?k=6&m=835810076&s=612x612&w=0&h=EalNFpXMVrkptzakUHaBxAyfBr6Y59e0DJUUXNzRNvY=', 'https://media.gettyimages.com/photos/jungle-leaves-background-picture-id974079490?k=6&m=974079490&s=612x612&w=0&h=b19ayS1DK3yx3YvolSrp5cTNXofGJCBPlca-yFSLDj8=']
+U+6959
+13
+mào
+75.9
+楙.mp3
+
+楚
+['name of feudal state', ' clear']
+['nombre del estado feudal', 'claro']
+['NONE', 'https://media.gettyimages.com/photos/clear-blue-sky-background-with-scattered-clouds-picture-id184304316?k=6&m=184304316&s=612x612&w=0&h=Y3daH7tigcvjNSI7dYKWiT2EWGQ14XHkxdHLqkTpaSU=']
+U+695A
+13
+chǔ
+75.9
+楚.mp3
+
+楛
+['coarse, crude', ' plant']
+['grueso, crudo', 'planta']
+['https://media.gettyimages.com/photos/grunge-frame-picture-id92492526?k=6&m=92492526&s=612x612&w=0&h=d75nWc7pK5EsI8HDll55oZghWI9pGicEbVHIMhQq7vE=', 'https://media.gettyimages.com/photos/welding-robots-and-conveyor-belt-in-automated-factory-picture-id1057277428?k=6&m=1057277428&s=612x612&w=0&h=pMNGqOt3algNNZzgV1IYjq9OLx0GwwqDufU_6G0q4UI=']
+U+695B
+12
+hù
+75.9
+楛.mp3
+
+楜
+['NONE']
+['NINGUNA']
+[]
+U+695C
+13
+hú
+75.9
+楜.mp3
+
+楝
+['Melia japonica']
+['Melia japonica']
+['https://media.gettyimages.com/photos/closeup-image-of-the-beautiful-spring-flowering-pink-camellia-yours-picture-id1194703346?k=6&m=1194703346&s=612x612&w=0&h=DI3uYiSGiC0JHyEGJsmy8ODz1g9_fmv2YyVDtJw0OFU=']
+U+695D
+13
+liàn
+75.9
+楝.mp3
+
+楞
+['used for Ceylon in Buddhist texts']
+['utilizado para Ceilán en los textos budistas']
+['https://media.gettyimages.com/photos/muthumariamman-temple-or-arulmigu-sri-muthumari-amman-kovil-is-a-in-picture-id1234679726?k=6&m=1234679726&s=612x612&w=0&h=EWOxAFUjMFYJ-0k5nGVmE4aIkBRHKOgZ_9e7fr6OaH8=']
+U+695E
+13
+léng
+75.9
+楞.mp3
+
+楟
+['tree']
+['árbol']
+['https://media.gettyimages.com/photos/trees-against-white-background-picture-id928125712?k=6&m=928125712&s=612x612&w=0&h=dwCW4-o9_irGVexxKqEQacXs9nJAgCXin4uCXCQrzgw=']
+U+695F
+13
+tíng
+75.9
+楟.mp3
+
+楠
+['name of tree, machilus nanmu']
+['nombre del árbol, machilus nanmu']
+['NONE']
+U+6960
+13
+nán
+75.9
+楠.mp3
+
+楡
+['elm tree']
+['Olmo']
+['https://media.gettyimages.com/photos/tree-picture-id183362598?k=6&m=183362598&s=612x612&w=0&h=XBm36HC1wC46qXJnrjCjIeivBBMtseQEXamz1OtPr8c=']
+U+6961
+13
+yú
+75.9
+楡.mp3
+
+楢
+['tinder']
+['picos']
+['https://media.gettyimages.com/photos/fire-hazard-picture-id114311642?k=6&m=114311642&s=612x612&w=0&h=xfC1P-eVGvh6pnLuOyCAiwQ8qKZ01Ff8FM6GaDPyeRQ=']
+U+6962
+13
+yóu
+75.9
+楢.mp3
+
+楣
+['crossbeam above or under gate']
+['viga transversal por encima o por debajo de la puerta']
+['NONE']
+U+6963
+13
+méi
+75.9
+楣.mp3
+
+楤
+['NONE']
+['NINGUNA']
+[]
+U+6964
+13
+sǒng
+75.9
+楤.mp3
+
+楥
+['a last for making shoes', ' to turn on a lathe']
+['una horma para hacer zapatos', 'encender un torno']
+['https://media.gettyimages.com/photos/get-laced-up-and-get-going-picture-id1024678676?k=6&m=1024678676&s=612x612&w=0&h=7jMfjIfrUKW8-DIT5q40R4gOuizCyL_rIEwzqzZUYnU=', 'https://media.gettyimages.com/photos/large-glass-tube-on-lathe-in-glass-factory-picture-id548554503?k=6&m=548554503&s=612x612&w=0&h=a3-LzGNkx4f3QexiGE1Xp5clJ447qhp10IjnOndTyfI=']
+U+6965
+13
+xuàn
+75.9
+楥.mp3
+
+楦
+['a last for making shoes', ' to turn on a lathe']
+['una horma para hacer zapatos', 'encender un torno']
+['https://media.gettyimages.com/photos/get-laced-up-and-get-going-picture-id1024678676?k=6&m=1024678676&s=612x612&w=0&h=7jMfjIfrUKW8-DIT5q40R4gOuizCyL_rIEwzqzZUYnU=', 'https://media.gettyimages.com/photos/large-glass-tube-on-lathe-in-glass-factory-picture-id548554503?k=6&m=548554503&s=612x612&w=0&h=a3-LzGNkx4f3QexiGE1Xp5clJ447qhp10IjnOndTyfI=']
+U+6966
+13
+xuàn
+75.9
+楦.mp3
+
+楧
+['NONE']
+['NINGUNA']
+[]
+U+6967
+12
+yǎng
+75.9
+楧.mp3
+
+楨
+['hardwood', ' supports, posts']
+['madera dura', 'soportes, postes']
+['https://media.gettyimages.com/photos/home-decorfloor-samples-b-picture-id183275463?k=6&m=183275463&s=612x612&w=0&h=iJzXygAXw9f7HHQoiUAaNNW7KXzNd2dssr3_eL3jqyA=', 'https://media.gettyimages.com/photos/street-signs-gesturing-to-two-paths-questions-and-answers-picture-id182366039?k=6&m=182366039&s=612x612&w=0&h=uMw2BbARUljizD9mcw2WhfqKpPiYUmGSGKzc9vOJwkI=']
+U+6968
+13
+zhēn
+75.9
+楨.mp3
+
+楩
+['tree']
+['árbol']
+['https://media.gettyimages.com/photos/trees-against-white-background-picture-id928125712?k=6&m=928125712&s=612x612&w=0&h=dwCW4-o9_irGVexxKqEQacXs9nJAgCXin4uCXCQrzgw=']
+U+6969
+13
+pián
+75.9
+楩.mp3
+
+楪
+['small dish', ' window']
+['plato pequeño', 'ventana']
+['https://media.gettyimages.com/photos/breakfast-picture-id137579244?k=6&m=137579244&s=612x612&w=0&h=Rn33CCXX1YdeQymsE99MRGEWol6StYcnS6C_JgOzETk=', 'https://media.gettyimages.com/photos/loft-kitchen-picture-id896352308?k=6&m=896352308&s=612x612&w=0&h=pDlFSBvZaQk24i3jUpW2kzA5OmemsUpAHlyWEtbvWYQ=']
+U+696A
+13
+yè
+75.9
+楪.mp3
+
+楫
+['oar, paddle']
+['remo, remo']
+['https://media.gettyimages.com/photos/high-angle-view-of-oar-in-lake-picture-id1004358160?k=6&m=1004358160&s=612x612&w=0&h=j1hgJF4LOE5RfCdD-TlbO0qChfyptl8M1-o1v6j2_dg=']
+U+696B
+13
+jí
+75.9
+楫.mp3
+
+楬
+['tablet', ' a signpost']
+['tableta', 'un cartel']
+['https://media.gettyimages.com/photos/black-tablet-computer-isolated-on-over-white-background-picture-id1125232982?k=6&m=1125232982&s=612x612&w=0&h=vvbHeMjjdssnYIdI6M2qxNiGWNgBy1wvUbUJerNpSRU=', 'https://media.gettyimages.com/photos/blank-road-sign-picture-id172789285?k=6&m=172789285&s=612x612&w=0&h=r7IK724ysiHJjs9gpAFZv2QskxdpSXx8hV7488IHiyg=']
+U+696C
+13
+jié
+75.9
+楬.mp3
+
+業
+['profession, business, trade']
+['profesión, negocio, comercio']
+['https://media.gettyimages.com/photos/business-people-working-in-the-office-picture-id1085389362?k=6&m=1085389362&s=612x612&w=0&h=Bnzvk6HStsJ22Vi58PBFV5xlJUD3Wa9MB-C7Jwkt61U=']
+U+696D
+13
+yè
+75.9
+業.mp3
+
+楮
+['mulberry', ' paper']
+['mora', 'papel']
+['https://media.gettyimages.com/photos/fruit-blackberry-picture-id182194161?k=6&m=182194161&s=612x612&w=0&h=kCpNtSjMq9r6ABKY-e2OEEQpWuFuJOkMEb8155p7wM8=', 'https://media.gettyimages.com/photos/full-frame-shot-of-white-paper-picture-id1152160886?k=6&m=1152160886&s=612x612&w=0&h=bKhejx7FlVvziJP_si7x8XcTzCd9IKiCbZFmEiHr-_U=']
+U+696E
+12
+chǔ
+75.9
+楮.mp3
+
+楯
+['shield', ' horizontal bar']
+['proteger', 'horizontal bar']
+['https://media.gettyimages.com/photos/silver-shield-picture-id104105829?k=6&m=104105829&s=612x612&w=0&h=ei6eSwC7AeiheuKWG9jNdr5f1gVkp6A_P8MV3I-pBOU=', 'https://media.gettyimages.com/photos/young-entrepreneurs-food-truck-picture-id988321954?k=6&m=988321954&s=612x612&w=0&h=psmNFy44QWDJm1wxjgBaoDplOwSN6c0XGLTEBwzrS_s=']
+U+696F
+13
+dùn
+75.9
+楯.mp3
+
+楰
+['tree']
+['árbol']
+['https://media.gettyimages.com/photos/trees-against-white-background-picture-id928125712?k=6&m=928125712&s=612x612&w=0&h=dwCW4-o9_irGVexxKqEQacXs9nJAgCXin4uCXCQrzgw=']
+U+6970
+12
+yú
+75.9
+楰.mp3
+
+楱
+['NONE']
+['NINGUNA']
+[]
+U+6971
+13
+zòu
+75.9
+楱.mp3
+
+楲
+['NONE']
+['NINGUNA']
+[]
+U+6972
+13
+wēi
+75.9
+楲.mp3
+
+楳
+['plums', ' prunes', ' surname']
+['ciruelas', 'ciruelas pasas', 'apellido']
+['https://media.gettyimages.com/photos/two-whole-and-one-sliced-plum-with-flesh-and-pit-showing-picture-id157682002?k=6&m=157682002&s=612x612&w=0&h=WoHWt5PuxunBipocdUVjKy2quCFMxA5lOdHQSl5d7to=', 'https://media.gettyimages.com/photos/gardener-trimming-hedge-in-garden-picture-id1163739474?k=6&m=1163739474&s=612x612&w=0&h=nIWMybLxn38ncKAlNbbBvu5xOjL5_k--WRul58kZKaA=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6973
+13
+méi
+75.9
+楳.mp3
+
+楴
+['NONE']
+['NINGUNA']
+[]
+U+6974
+13
+tì
+75.9
+楴.mp3
+
+極
+['extreme, utmost, furthest, final']
+['extremo, máximo, más lejano, final']
+['NONE']
+U+6975
+12
+jí
+75.9
+極.mp3
+
+楶
+['NONE']
+['NINGUNA']
+[]
+U+6976
+13
+jié
+75.9
+楶.mp3
+
+楷
+['model style of Chinese writing']
+['estilo modelo de escritura china']
+['https://media.gettyimages.com/photos/portrait-of-chinese-girl-in-traditional-dress-picture-id544183529?k=6&m=544183529&s=612x612&w=0&h=4qvPz07q7KoqdLisSYf1Im-Gj9c0Goe31TIrcUfwP2Y=']
+U+6977
+13
+kǎi
+75.9
+楷.mp3
+
+楸
+['mallotus japonicus, deciduous tre']
+['mallotus japonicus, árbol de hoja caduca']
+['NONE']
+U+6978
+13
+qiū
+75.9
+楸.mp3
+
+楹
+['column, pillar', ' numerary adjunct']
+['columna, pilar', 'adjunto numerario']
+['https://media.gettyimages.com/photos/old-summer-palace-after-snow-picture-id822473888?k=6&m=822473888&s=612x612&w=0&h=2MyDqj2r5R24_V63Hg4x_zDrhRseWW4oskSx860u5oM=', 'NONE']
+U+6979
+13
+yíng
+75.9
+楹.mp3
+
+楺
+['NONE']
+['NINGUNA']
+[]
+U+697A
+13
+rǒu
+75.9
+楺.mp3
+
+楻
+['NONE']
+['NINGUNA']
+[]
+U+697B
+13
+huáng
+75.9
+楻.mp3
+
+楼
+['building of two or more stories']
+['edificio de dos o más pisos']
+['https://media.gettyimages.com/photos/office-building-windows-in-tokyo-picture-id931418318?k=6&m=931418318&s=612x612&w=0&h=QnOtYVxU4_HAygnIbgvOH70u3b8pB4pmiFULt5YjfLg=']
+U+697C
+13
+lóu
+75.9
+楼.mp3
+
+楽
+['happy, glad', ' enjoyable', ' music']
+['feliz, contento', 'agradable', 'música']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'https://media.gettyimages.com/photos/woman-chasing-man-while-riding-bicycle-picture-id509403985?k=6&m=509403985&s=612x612&w=0&h=HXqlas81oPbJWz4Tvh3ZWzUWsGmRWyloMMwdhK1kJsY=', 'https://media.gettyimages.com/photos/this-is-my-kinda-music-picture-id1064852106?k=6&m=1064852106&s=612x612&w=0&h=Q65AUON3SPKksta3p27gnJyO8kPS2dJM7fQJ7EYm4Ws=']
+U+697D
+13
+lè
+75.9
+楽.mp3
+
+楾
+['NONE']
+['NINGUNA']
+[]
+U+697E
+13
+quán
+75.9
+楾.mp3
+
+楿
+['NONE']
+['NINGUNA']
+[]
+U+697F
+13
+xiāng
+75.9
+楿.mp3
+
+榀
+['NONE']
+['NINGUNA']
+[]
+U+6980
+13
+pǐn
+75.9
+榀.mp3
+
+榁
+['NONE']
+['NINGUNA']
+[]
+U+6981
+13
+shǐ
+75.9
+榁.mp3
+
+概
+['generally, approximately']
+['generalmente, aproximadamente']
+['NONE']
+U+6982
+13
+gài
+75.9
+概.mp3
+
+榃
+['raised path between fields']
+['camino elevado entre campos']
+['https://media.gettyimages.com/photos/aerial-view-of-vineyards-oberkrich-germany-europe-picture-id978532038?k=6&m=978532038&s=612x612&w=0&h=coQdqDkPN2aJKUda-ItwLtH2Fmok9074t7TlC2JC9mc=']
+U+6983
+13
+tán
+75.9
+榃.mp3
+
+榄
+['olive']
+['aceituna']
+['https://media.gettyimages.com/photos/antipasti-olives-isolated-iii-picture-id97863822?k=6&m=97863822&s=612x612&w=0&h=AWQOtaBY3MOWoLwG5FXRaT9SJIKoM0CGxBi8R-OerHY=']
+U+6984
+13
+lǎn
+75.9
+榄.mp3
+
+榅
+['pillar, cryptomeria']
+['pilar, cryptomeria']
+['NONE']
+U+6985
+13
+wēn
+75.9
+榅.mp3
+
+榆
+['elm tree']
+['Olmo']
+['https://media.gettyimages.com/photos/tree-picture-id183362598?k=6&m=183362598&s=612x612&w=0&h=XBm36HC1wC46qXJnrjCjIeivBBMtseQEXamz1OtPr8c=']
+U+6986
+13
+yú
+75.9
+榆.mp3
+
+榇
+['coffin', ' tung tree']
+['ataúd', 'árbol de tung']
+['https://media.gettyimages.com/photos/coffin-at-a-cemetery-picture-id104304892?k=6&m=104304892&s=612x612&w=0&h=Ve-_L8Mk5k4kX8s4EsRruZ4ZMLy8p90ev3jC4c7ffDw=', 'https://media.gettyimages.com/photos/lovely-little-girl-looking-smiling-joyfully-at-red-envelope-in-new-picture-id1077681556?k=6&m=1077681556&s=612x612&w=0&h=nOeQctX9jxuw9QO_pil03GYAwnrel3K8q0K8LDsFAZU=']
+U+6987
+13
+chèn
+75.9
+榇.mp3
+
+榈
+['palm']
+['palma']
+['https://media.gettyimages.com/photos/green-palm-tree-leaf-with-isolated-on-white-clipping-path-picture-id157439518?k=6&m=157439518&s=612x612&w=0&h=p6WWK3PaYQJ9zviDVAh39LoBpP1mZycuZBs8s6eV0UY=']
+U+6988
+13
+lǘ
+75.9
+榈.mp3
+
+榉
+['type of elm']
+['tipo de olmo']
+['NONE']
+U+6989
+13
+jǔ
+75.9
+榉.mp3
+
+榊
+['a sacred Shinto tree']
+['un árbol sagrado sintoísta']
+['https://media.gettyimages.com/photos/traditional-japanese-temple-in-kyoto-picture-id914473786?k=6&m=914473786&s=612x612&w=0&h=uMUEWKUUygD4LqcyG3ChAjTY57ALkUaHJpCdvJV78rg=']
+U+698A
+13
+shén
+75.10
+榊.mp3
+
+榋
+['NONE']
+['NINGUNA']
+[]
+U+698B
+13
+chu
+75.9
+榋.mp3
+
+榌
+['wooden ladder']
+['escalera de madera']
+['https://media.gettyimages.com/photos/ladder-isolated-on-white-background-picture-id155415424?k=6&m=155415424&s=612x612&w=0&h=MhoUrAEB1NsMdVugr2luYG3w-5f4OoYQMjjrp2YX-iY=']
+U+698C
+13
+bī
+75.9
+榌.mp3
+
+榍
+['NONE']
+['NINGUNA']
+[]
+U+698D
+14
+xiè
+75.10
+榍.mp3
+
+榎
+['small evergreen shrub']
+['pequeño arbusto de hoja perenne']
+['https://media.gettyimages.com/photos/ilex-or-holly-evergreen-shrubs-picture-id1181646848?k=6&m=1181646848&s=612x612&w=0&h=wsZtqj7zQcQWsmyhTv-MaBqmAbZKRzH4lUiCrxntosE=']
+U+698E
+14
+jiǎ
+75.10
+榎.mp3
+
+榏
+['NONE']
+['NINGUNA']
+[]
+U+698F
+14
+yì
+75.10
+榏.mp3
+
+榐
+['NONE']
+['NINGUNA']
+[]
+U+6990
+14
+zhǎn
+75.10
+榐.mp3
+
+榑
+['NONE']
+['NINGUNA']
+[]
+U+6991
+14
+fú
+75.10
+榑.mp3
+
+榒
+['NONE']
+['NINGUNA']
+[]
+U+6992
+14
+nuò
+75.10
+榒.mp3
+
+榓
+['NONE']
+['NINGUNA']
+[]
+U+6993
+14
+mì
+75.10
+榓.mp3
+
+榔
+['betel-nut tree']
+['árbol de nuez de betel']
+['NONE']
+U+6994
+12
+láng
+75.9
+榔.mp3
+
+榕
+['banyan tree']
+['higuera de Bengala']
+['https://media.gettyimages.com/photos/banyan-tree-canopy-sunstar-picture-id874980264?k=6&m=874980264&s=612x612&w=0&h=nHKAvyps3oagS8WVMX3vdNYdXnWEHs4aIVYLAahlwMA=']
+U+6995
+14
+róng
+75.10
+榕.mp3
+
+榖
+['paper mulberry']
+['morera de papel']
+['https://media.gettyimages.com/photos/handmade-recycled-flower-and-leaf-paper-background-picture-id157679596?k=6&m=157679596&s=612x612&w=0&h=E_vAHpbJ4ShvSTL7tdTVNRq10C_MCVgfaiAkJwa1n0Q=']
+U+6996
+14
+gǔ
+75.10
+榖.mp3
+
+榗
+['NONE']
+['NINGUNA']
+[]
+U+6997
+14
+jiàn
+75.10
+榗.mp3
+
+榘
+["carpenter's square, ruler, rule"]
+['escuadra de carpintero, regla, regla']
+['https://media.gettyimages.com/photos/carpenter-square-picture-id476715868?k=6&m=476715868&s=612x612&w=0&h=NP317nWtjUQpk-zBiK97n2WwycfFRCsKjktO1x-yBFY=']
+U+6998
+13
+jǔ
+75.9
+榘.mp3
+
+榙
+['NONE']
+['NINGUNA']
+[]
+U+6999
+13
+tā
+75.10
+榙.mp3
+
+榚
+['NONE']
+['NINGUNA']
+[]
+U+699A
+14
+yǎo
+75.10
+榚.mp3
+
+榛
+['hazelnut', ' thicket, underbrush']
+['avellana', 'matorral, maleza']
+['https://media.gettyimages.com/photos/hazelnuts-composition-picture-id133366333?k=6&m=133366333&s=612x612&w=0&h=BfELdq3qhxouqSrVTciesRVSlLP_HZiTmWwsRy6T_-E=', 'https://media.gettyimages.com/photos/trefflingfall-waterfall-treffling-bach-oetschertormaeuer-most-lower-picture-id130843458?k=6&m=130843458&s=612x612&w=0&h=ZJEcS2-SpjofXD03LtAlF-bA90YAx3QtP8qCLFEEb1Y=']
+U+699B
+14
+zhēn
+75.10
+榛.mp3
+
+榜
+['placard', ' list of successful exam candidates']
+['placard', 'lista de candidatos exitosos al examen']
+['https://media.gettyimages.com/photos/good-style-starts-in-the-morning-picture-id1133811709?k=6&m=1133811709&s=612x612&w=0&h=gsp0rwPsoh9kSpslCsG_GqUWze2_loZC4MLs7AYo0sU=', 'NONE']
+U+699C
+14
+bǎng
+75.10
+榜.mp3
+
+榝
+['NONE']
+['NINGUNA']
+[]
+U+699D
+14
+shā
+75.10
+榝.mp3
+
+榞
+['NONE']
+['NINGUNA']
+[]
+U+699E
+14
+yuán
+75.10
+榞.mp3
+
+榟
+['NONE']
+['NINGUNA']
+[]
+U+699F
+14
+zǐ
+75.10
+榟.mp3
+
+榠
+['NONE']
+['NINGUNA']
+[]
+U+69A0
+14
+míng
+75.10
+榠.mp3
+
+榡
+['NONE']
+['NINGUNA']
+[]
+U+69A1
+14
+sù
+75.10
+榡.mp3
+
+榢
+['a frame, a stand, a rack. framework or scaffold.to lay on a frame', ' to put up']
+['un marco, un soporte, un estante. marco o andamio para colocar en un marco', 'yo puedo subir']
+['NONE', 'https://media.gettyimages.com/photos/closeup-of-a-female-doctor-with-blue-eyes-and-put-on-the-mask-picture-id1192101596?k=6&m=1192101596&s=612x612&w=0&h=up9WJRk4UZ335mMLeJ7D04bCp3BUCji0WWWV-r9pnUI=']
+U+69A2
+14
+jià
+75.10
+榢.mp3
+
+榣
+['NONE']
+['NINGUNA']
+[]
+U+69A3
+14
+yáo
+75.10
+榣.mp3
+
+榤
+['perch for fowls roost on']
+['percha para las aves que se posan en']
+['https://media.gettyimages.com/photos/rooster-on-fence-at-dawn-crowing-picture-id200408619-001?k=6&m=200408619-001&s=612x612&w=0&h=O5SKZFDgjFF1QJIC1Be9irzZ140VwqPFTwjwjD0tGYg=']
+U+69A4
+14
+jié
+75.10
+榤.mp3
+
+榥
+['screen']
+['pantalla']
+['https://media.gettyimages.com/photos/logged-into-work-productivity-picture-id981750082?k=6&m=981750082&s=612x612&w=0&h=BpcsEbbPdPmF_-zBWRY3B3Yq9pW8dBkEjfshyatHoTI=']
+U+69A5
+14
+huàng
+75.10
+榥.mp3
+
+榦
+['tree trunk', ' support, prop']
+['tronco de arbol', 'apoyo, apoyo']
+['https://media.gettyimages.com/photos/old-oak-tree-trunk-in-autumn-fog-at-park-picture-id157189641?k=6&m=157189641&s=612x612&w=0&h=bX7U-Gf0Ns9V2j2Tv1f_rNgduJo1_ofQ_dS9OI2dU5M=', 'https://media.gettyimages.com/photos/two-multiethnic-male-friends-taking-a-break-during-exercise-and-on-picture-id1149616413?k=6&m=1149616413&s=612x612&w=0&h=xlQhv5PE6318wtTls47rm0FCZYeaQV5Ah79yzP36yeI=']
+U+69A6
+14
+gàn
+75.10
+榦.mp3
+
+榧
+['type of yew']
+['tipo de tejo']
+['https://media.gettyimages.com/photos/mature-businessman-typing-on-laptop-in-kitchen-picture-id558965763?k=6&m=558965763&s=612x612&w=0&h=79hxA6cIWXAvNmmDdaPMY5ykc6_oX3Uv2YYPKcsbTQA=']
+U+69A7
+14
+fěi
+75.10
+榧.mp3
+
+榨
+['to press or extract juices', ' a press to extract juices', ' a vegetable']
+['para exprimir o extraer jugos', 'una prensa para extraer jugos', 'un vegetal']
+['https://media.gettyimages.com/photos/green-smoothieantioxidantdetox-juicelemon-juicespinach-juice-picture-id1137916623?k=6&m=1137916623&s=612x612&w=0&h=8mYwLyAWBFim2uwifkhqcPqt60bpMB3WDquWmzuofW4=', 'https://media.gettyimages.com/photos/green-smoothieantioxidantdetox-juicelemon-juicespinach-juice-picture-id1137916623?k=6&m=1137916623&s=612x612&w=0&h=8mYwLyAWBFim2uwifkhqcPqt60bpMB3WDquWmzuofW4=', 'https://media.gettyimages.com/photos/healthy-fresh-rainbow-colored-fruits-and-vegetables-background-picture-id1208790371?k=6&m=1208790371&s=612x612&w=0&h=FCAj7paMmtAYe4W-8j12fSh9fe2Uf1yt7CItAzMNLTA=']
+U+69A8
+14
+zhà
+75.10
+榨.mp3
+
+榩
+['NONE']
+['NINGUNA']
+[]
+U+69A9
+14
+qián
+75.10
+榩.mp3
+
+榪
+['headboard']
+['cabecera']
+['https://media.gettyimages.com/photos/bed-with-nightstand-and-wall-lamp-template-picture-id899419432?k=6&m=899419432&s=612x612&w=0&h=PC6XIFNDfPvfvLiKFBMvGNK2f9TAV35w4qNvBFjPmeE=']
+U+69AA
+14
+mà
+75.10
+榪.mp3
+
+榫
+['mortise and tenon', ' fit into']
+['caja y espiga', 'encajar en']
+['https://media.gettyimages.com/photos/person-joining-together-a-mortise-and-tenon-joint-picture-id80033404?k=6&m=80033404&s=612x612&w=0&h=sbWbG_v2l1uRZUxFqHAMCjEY-XkHx41WiZH9BBGIFoc=', 'https://media.gettyimages.com/photos/woman-working-out-at-home-picture-id1203043225?k=6&m=1203043225&s=612x612&w=0&h=w5PyjeKzs9McIqPsUg6Zv27PH26EzkIeuahJLm-eYg0=']
+U+69AB
+14
+sǔn
+75.10
+榫.mp3
+
+榬
+['NONE']
+['NINGUNA']
+[]
+U+69AC
+14
+yuán
+75.10
+榬.mp3
+
+榭
+['kiosk, pavilion']
+['quiosco, pabellón']
+['https://media.gettyimages.com/photos/the-bandstand-in-downtown-mexico-city-the-day-after-the-19th-of-picture-id898216970?k=6&m=898216970&s=612x612&w=0&h=ZtyRImd7pMdqny0FgHDdG5Ei_kzJM_NWV2a-xVSbJBQ=']
+U+69AD
+14
+xiè
+75.10
+榭.mp3
+
+榮
+['glory, honor', ' flourish, prosper']
+['gloria, honor', 'florecer, prosperar']
+['https://media.gettyimages.com/photos/mixed-race-woman-gesturing-in-gallery-picture-id764780043?k=6&m=764780043&s=612x612&w=0&h=GS9BezcPZHmeODpSjR43iyzTQhEPRUShDe0ZxUijdew=', 'https://media.gettyimages.com/photos/money-growing-picture-id1165711948?k=6&m=1165711948&s=612x612&w=0&h=GERplqOwJ9oM8775bgNSnYsV0KVfaocYQAJc621d-ko=']
+U+69AE
+14
+róng
+75.10
+榮.mp3
+
+榯
+['NONE']
+['NINGUNA']
+[]
+U+69AF
+14
+shí
+75.10
+榯.mp3
+
+榰
+['NONE']
+['NINGUNA']
+[]
+U+69B0
+14
+zhī
+75.10
+榰.mp3
+
+榱
+['rafter']
+['viga']
+['https://media.gettyimages.com/photos/wooden-interior-with-funiture-and-fireplace-picture-id1133765996?k=6&m=1133765996&s=612x612&w=0&h=waCOW-ewa4-8YKM20925Vi972ZWVM6ixrMFJ7QVly7c=']
+U+69B1
+14
+cuī
+75.10
+榱.mp3
+
+榲
+['pillar, cryptomeria']
+['pilar, cryptomeria']
+['NONE']
+U+69B2
+14
+wēn
+75.10
+榲.mp3
+
+榳
+['NONE']
+['NINGUNA']
+[]
+U+69B3
+13
+tíng
+75.10
+榳.mp3
+
+榴
+['pomegranate']
+['granada']
+['https://media.gettyimages.com/photos/piece-of-pomegranate-picture-id185218827?k=6&m=185218827&s=612x612&w=0&h=IJscvpbpLWnQO5gRk3NBI0yzZwH9BujHFXMAp0t6TO0=']
+U+69B4
+14
+liú
+75.10
+榴.mp3
+
+榵
+['NONE']
+['NINGUNA']
+[]
+U+69B5
+13
+róng
+75.10
+榵.mp3
+
+榶
+['NONE']
+['NINGUNA']
+[]
+U+69B6
+14
+táng
+75.10
+榶.mp3
+
+榷
+['footbridge', ' toll, levy', ' monopoly']
+['puente peatonal', 'peaje, tasa', 'monopolio']
+['https://media.gettyimages.com/photos/woman-on-passerelle-solfrino-footbridge-in-paris-france-picture-id497899674?k=6&m=497899674&s=612x612&w=0&h=wU0A2WewMrCKCOKPym2zBAerdiyituslIPGsXTCyN-U=', 'NONE', 'https://media.gettyimages.com/photos/lets-join-forces-and-claim-greater-successes-picture-id909472406?k=6&m=909472406&s=612x612&w=0&h=6eWMVc5WNRP7-P_wVxe8DXjJisPVnclaXo0t3YLDA1s=']
+U+69B7
+14
+què
+75.10
+榷.mp3
+
+榸
+['NONE']
+['NINGUNA']
+[]
+U+69B8
+14
+zhāi
+75.10
+榸.mp3
+
+榹
+['NONE']
+['NINGUNA']
+[]
+U+69B9
+14
+sī
+75.10
+榹.mp3
+
+榺
+['NONE']
+['NINGUNA']
+[]
+U+69BA
+14
+shèng
+75.10
+榺.mp3
+
+榻
+['cot, couch, bed']
+['cuna, sofá, cama']
+['https://media.gettyimages.com/photos/curling-up-with-a-good-book-by-the-window-picture-id1143274928?k=6&m=1143274928&s=612x612&w=0&h=AhZcYTU7wRxhv6rek7zup8o7q_iTrplXJmhhBzpNE-M=']
+U+69BB
+14
+tà
+75.10
+榻.mp3
+
+榼
+['wine glass']
+['Copa de vino']
+['https://media.gettyimages.com/photos/wine-glasses-picture-id155392543?k=6&m=155392543&s=612x612&w=0&h=gW9t0wt5-JgS8NN7scdxJdvMtM1VlAbfTqHAAHLPcRo=']
+U+69BC
+14
+kē
+75.10
+榼.mp3
+
+榽
+['NONE']
+['NINGUNA']
+[]
+U+69BD
+14
+xī
+75.10
+榽.mp3
+
+榾
+['pieces of wood']
+['pedazos de madera']
+['https://media.gettyimages.com/photos/wooden-cross-section-picture-id160592733?k=6&m=160592733&s=612x612&w=0&h=qV-i2Lr8RlaTJIZ6WPKQzQTJQAbmTk6gdant9rp_cI8=']
+U+69BE
+13
+gǔ
+75.10
+榾.mp3
+
+榿
+['alder']
+['años']
+['https://media.gettyimages.com/photos/alnus-incana-aurea-catkins-picture-id1084583292?k=6&m=1084583292&s=612x612&w=0&h=44w8dRQ_D90xtSd7jfJnbzJitZ-AeA8JW1YTvKMoG_s=']
+U+69BF
+14
+qī
+75.10
+榿.mp3
+
+槀
+['draft, manuscript']
+['borrador, manuscrito']
+['https://media.gettyimages.com/photos/the-word-draft-stamped-on-paper-picture-id958607272?k=6&m=958607272&s=612x612&w=0&h=HhucYUczqY48Os04UllNU-FS4jQpwCrqcW4Wbn1mshs=']
+U+69C0
+14
+gǎo
+75.10
+槀.mp3
+
+槁
+['wither', ' withered, rotten, dead']
+['marchitar', 'marchito, podrido, muerto']
+['https://media.gettyimages.com/photos/flower-and-tea-picture-id638045166?k=6&m=638045166&s=612x612&w=0&h=S1Z-UA-yNg3PMq-QrUwWEL5-9rw7RIQnD0ADVt7vH1I=', 'https://media.gettyimages.com/photos/close-up-of-a-rotten-corn-in-the-middle-picture-id182250766?k=6&m=182250766&s=612x612&w=0&h=8I6OxoTsxeCLB4NwTXxVAkKzRk8TW_9zqR4ubeuDCmI=']
+U+69C1
+14
+gǎo
+75.10
+槁.mp3
+
+槂
+['NONE']
+['NINGUNA']
+[]
+U+69C2
+14
+sūn
+75.10
+槂.mp3
+
+槃
+['tray', ' turn, rotate', ' search']
+['bandeja', 'girar, girar', 'buscar']
+['https://media.gettyimages.com/photos/directly-above-shot-of-apple-in-plate-on-tray-over-white-background-picture-id908787030?k=6&m=908787030&s=612x612&w=0&h=KFO95xcQqpr3czLojf7BmdNHd1zf3HTUMZKJRuEIPAk=', 'https://media.gettyimages.com/photos/angled-bottom-page-peel-copy-space-three-clipping-paths-picture-id174694341?k=6&m=174694341&s=612x612&w=0&h=dte2E5tstICeCHNxFJxRrONGp2It1w1jtrskaeGYEQ8=', 'https://media.gettyimages.com/photos/young-business-girl-looks-through-telescope-picture-id864707740?k=6&m=864707740&s=612x612&w=0&h=HYRZrAe_pUN6k4MUlrlk7_LHaXraalaGhYQYWFOlgA0=']
+U+69C3
+14
+pán
+75.10
+槃.mp3
+
+槄
+['NONE']
+['NINGUNA']
+[]
+U+69C4
+14
+tāo
+75.10
+槄.mp3
+
+槅
+['NONE']
+['NINGUNA']
+[]
+U+69C5
+14
+gé
+75.10
+槅.mp3
+
+槆
+['NONE']
+['NINGUNA']
+[]
+U+69C6
+13
+chūn
+75.10
+槆.mp3
+
+槇
+['tip of a tree', ' fallen tree']
+['punta de un árbol', 'Arbol caido']
+['https://media.gettyimages.com/photos/working-hard-to-help-her-environment-picture-id1199901182?k=6&m=1199901182&s=612x612&w=0&h=ecvNaKiyi-K4t2cdmUDX1d4oaqO8AdTgazNEm4LrPo0=', 'https://media.gettyimages.com/photos/fallen-tree-blocking-road-picture-id157481087?k=6&m=157481087&s=612x612&w=0&h=dTxg-TNKN4FIBA6QjGe0SqV0kA1xYReQ1pZVGUZVO-8=']
+U+69C7
+14
+diān
+75.10
+槇.mp3
+
+槈
+['NONE']
+['NINGUNA']
+[]
+U+69C8
+14
+nòu
+75.10
+槈.mp3
+
+槉
+['NONE']
+['NINGUNA']
+[]
+U+69C9
+14
+jí
+75.10
+槉.mp3
+
+槊
+['spear, lance']
+['lanza, lanza']
+['https://media.gettyimages.com/photos/knights-clash-at-a-joust-picture-id174684392?k=6&m=174684392&s=612x612&w=0&h=Ft25MsLAnszf36lbgiPBrz6XcgqcY6hd-rCqeENi3vE=']
+U+69CA
+14
+shuò
+75.10
+槊.mp3
+
+構
+['frame, building, structure']
+['marco, edificio, estructura']
+['https://media.gettyimages.com/photos/construction-of-a-wooden-roof-frame-underway-picture-id134253640?k=6&m=134253640&s=612x612&w=0&h=E5uf_4PdyTcbAR-3mkfwH4H2qw3SpI28THrz3Y2Y7V0=']
+U+69CB
+14
+gòu
+75.10
+構.mp3
+
+槌
+['hammer, mallet', ' strike, beat']
+['martillo, mazo', 'golpear, golpear']
+['https://media.gettyimages.com/photos/hand-holding-wooden-mallet-picture-id102416395?k=6&m=102416395&s=612x612&w=0&h=vcqr_nhN5THA9guJsKXTWtDJSBlJ4_F520Ir5wHVXzU=', 'https://media.gettyimages.com/photos/hands-of-joy-or-protest-picture-id1176143006?k=6&m=1176143006&s=612x612&w=0&h=zKNtmUBHMnPhnpObleXNg98ZYkzgMk9hHn8_EHWqlEI=']
+U+69CC
+13
+chuí
+75.10
+槌.mp3
+
+槍
+['spear, lance', ' gun, rifle']
+['lanza, lanza', 'pistola, rifle']
+['https://media.gettyimages.com/photos/knights-clash-at-a-joust-picture-id174684392?k=6&m=174684392&s=612x612&w=0&h=Ft25MsLAnszf36lbgiPBrz6XcgqcY6hd-rCqeENi3vE=', 'https://media.gettyimages.com/photos/gun-case-picture-id157317484?k=6&m=157317484&s=612x612&w=0&h=RnWrBiB_kIGLn3S3JUbdlKE7B9kwzXQtZSpDj28KGHM=']
+U+69CD
+14
+qiāng
+75.10
+槍.mp3
+
+槎
+['raft', ' time, occasion', ' to hew']
+['balsa', 'tiempo, ocasión', 'cortar']
+['https://media.gettyimages.com/photos/colorful-air-mattresses-in-a-row-picture-id157439801?k=6&m=157439801&s=612x612&w=0&h=E8KP0EwR0gJYBZQnERxD64w2QsCwlLqiVGdL0KCbnEA=', 'https://media.gettyimages.com/photos/ezra-bailey-picture-id550215717?k=6&m=550215717&s=612x612&w=0&h=7qHtUhzcbyv3EANLxOQyS2QzwisGbPZJcdjx6pD5AAk=', 'https://media.gettyimages.com/photos/man-chopping-cleaving-doing-wood-work-outside-woodcutterlumberjack-picture-id939966708?k=6&m=939966708&s=612x612&w=0&h=E98d-sq16lSBJbnVCDcyJVf22jFsSao-TsV5gnjAExY=']
+U+69CE
+13
+chá
+75.10
+槎.mp3
+
+槏
+['NONE']
+['NINGUNA']
+[]
+U+69CF
+14
+qiǎn
+75.10
+槏.mp3
+
+槐
+['locust tree']
+['árbol de langosta']
+['https://media.gettyimages.com/photos/cloud-of-locusts-picture-id523716020?k=6&m=523716020&s=612x612&w=0&h=VdFl0lgh-gAEG0EF-28rY50vxLZqOS0hY19-rlvcbu8=']
+U+69D0
+13
+huái
+75.10
+槐.mp3
+
+槑
+['NONE']
+['NINGUNA']
+[]
+U+69D1
+14
+méi
+75.10
+槑.mp3
+
+槒
+['NONE']
+['NINGUNA']
+[]
+U+69D2
+14
+xù
+75.10
+槒.mp3
+
+槓
+['lever, pole, crowbar', ' sharpen', ' (Cant.) a wardrobe, trunk']
+['palanca, poste, palanca', 'afilar', '(Can.) Un armario, baúl']
+['NONE', 'https://media.gettyimages.com/photos/closeup-of-a-chef-sharpening-a-large-kitchen-knife-blade-with-a-steel-picture-id945578694?k=6&m=945578694&s=612x612&w=0&h=p9u6OwhlgVFWcUWWvTSShJAbM4uE58S0Wx3zweMC6gY=', 'NONE']
+U+69D3
+14
+gàng
+75.10
+槓.mp3
+
+槔
+['NONE']
+['NINGUNA']
+[]
+U+69D4
+14
+gāo
+75.10
+槔.mp3
+
+槕
+['NONE']
+['NINGUNA']
+[]
+U+69D5
+14
+zhuō
+75.10
+槕.mp3
+
+槖
+['a sack', ' a stamping sound']
+['un saco', 'un sonido de estampa']
+['https://media.gettyimages.com/photos/burlap-sack-picture-id182036058?k=6&m=182036058&s=612x612&w=0&h=18DiODFg8VoN9Yje6oNQ2T3EKPwFmrxM8O9ZPras0uo=', 'https://media.gettyimages.com/photos/stamp-closeup-picture-id80484779?k=6&m=80484779&s=612x612&w=0&h=hRxZpc_tVPqhZqIkTVML_fez_fWLcpArJtJMm4ipgj4=']
+U+69D6
+14
+tuó
+75.10
+槖.mp3
+
+槗
+['NONE']
+['NINGUNA']
+[]
+U+69D7
+14
+qiáo
+75.10
+槗.mp3
+
+様
+['shape, form, pattern, style']
+['forma, forma, patrón, estilo']
+['https://media.gettyimages.com/photos/bronze-makeup-smear-isolated-on-white-background-liquid-foundation-picture-id1210933431?k=6&m=1210933431&s=612x612&w=0&h=UJwPNXtv7WTpKwOpTRGxRycn5SJXLI0WVU-UtOQQ4-4=']
+U+69D8
+14
+yàng
+75.10
+様.mp3
+
+槙
+['a twig', ' an ornamental evergreen']
+['una ramita', 'un árbol de hoja perenne ornamental']
+['https://media.gettyimages.com/photos/twigs-and-sticks-picture-id182145527?k=6&m=182145527&s=612x612&w=0&h=3gA4VXpIcHTWDO22ij4yU0Dg2W22-9YKrRS04uCzsYo=', 'https://media.gettyimages.com/photos/wreath-series-picture-id174896325?k=6&m=174896325&s=612x612&w=0&h=y6OkkJFzxBk7apmA_yvHT3eOF6gW2AIEy-llvturbOE=']
+U+69D9
+14
+diān
+75.10
+槙.mp3
+
+槚
+['small evergreen shrub']
+['pequeño arbusto de hoja perenne']
+['https://media.gettyimages.com/photos/ilex-or-holly-evergreen-shrubs-picture-id1181646848?k=6&m=1181646848&s=612x612&w=0&h=wsZtqj7zQcQWsmyhTv-MaBqmAbZKRzH4lUiCrxntosE=']
+U+69DA
+14
+jiǎ
+75.10
+槚.mp3
+
+槛
+['threshold, door-sill']
+['umbral, umbral de puerta']
+['NONE']
+U+69DB
+14
+kǎn
+75.10
+槛.mp3
+
+槜
+['NONE']
+['NINGUNA']
+[]
+U+69DC
+14
+zuì
+75.10
+槜.mp3
+
+槝
+['NONE']
+['NINGUNA']
+[]
+U+69DD
+14
+dǎo
+75.10
+槝.mp3
+
+槞
+['NONE']
+['NINGUNA']
+[]
+U+69DE
+14
+lóng
+75.10
+槞.mp3
+
+槟
+['betel-nut, areca nut']
+['nuez de betel, nuez de areca']
+['https://media.gettyimages.com/photos/betel-nut-picture-id912792878?k=6&m=912792878&s=612x612&w=0&h=pvohAu1A1_JRjUeWGG2d3FOG4irUwso36ayeynNf_tI=']
+U+69DF
+14
+bīn
+75.10
+槟.mp3
+
+槠
+['Oak']
+['Roble']
+['https://media.gettyimages.com/photos/tall-green-tree-in-spring-picture-id175396140?k=6&m=175396140&s=612x612&w=0&h=beJCyzfuR2rbKjyoLLK6WW3sY-zn4A-RMpUqKu_ND8U=']
+U+69E0
+14
+zhū
+75.10
+槠.mp3
+
+槡
+['NONE']
+['NINGUNA']
+[]
+U+69E1
+14
+sāng
+75.10
+槡.mp3
+
+槢
+['a hard wood']
+['una madera dura']
+['https://media.gettyimages.com/photos/home-decorfloor-samples-b-picture-id183275463?k=6&m=183275463&s=612x612&w=0&h=iJzXygAXw9f7HHQoiUAaNNW7KXzNd2dssr3_eL3jqyA=']
+U+69E2
+15
+xí
+75.11
+槢.mp3
+
+槣
+['NONE']
+['NINGUNA']
+[]
+U+69E3
+15
+jī
+75.11
+槣.mp3
+
+槤
+['a flail']
+['un mayal']
+['https://media.gettyimages.com/photos/-picture-id615702262?k=6&m=615702262&s=612x612&w=0&h=1oVRxbVpBJ09xyD9EtuGIKaXis59f5GH56O3kmJcRyk=']
+U+69E4
+14
+lián
+75.11
+槤.mp3
+
+槥
+['coffin']
+['ataúd']
+['https://media.gettyimages.com/photos/coffin-at-a-cemetery-picture-id104304892?k=6&m=104304892&s=612x612&w=0&h=Ve-_L8Mk5k4kX8s4EsRruZ4ZMLy8p90ev3jC4c7ffDw=']
+U+69E5
+15
+huì
+75.11
+槥.mp3
+
+槦
+['NONE']
+['NINGUNA']
+[]
+U+69E6
+15
+yōng
+75.11
+槦.mp3
+
+槧
+['wooden tablet', ' edition']
+['tableta de madera', 'edición']
+['https://media.gettyimages.com/photos/man-working-with-tablet-pc-at-desk-picture-id656297873?k=6&m=656297873&s=612x612&w=0&h=otpmkLTLDioV9E1Z80jR9mG40vIa4FPXqDRIqQ7K5KE=', 'https://media.gettyimages.com/photos/this-is-our-special-edition-model-of-shoes-picture-id1161197281?k=6&m=1161197281&s=612x612&w=0&h=arknRCi829W7tSaS7pxMNt_LSDeZrx0UynsjSqd2YoY=']
+U+69E7
+15
+qiàn
+75.11
+槧.mp3
+
+槨
+['outer-coffin']
+['ataúd exterior']
+['NONE']
+U+69E8
+14
+guǒ
+75.11
+槨.mp3
+
+槩
+['generally, approximately']
+['generalmente, aproximadamente']
+['NONE']
+U+69E9
+13
+gài
+75.10
+槩.mp3
+
+槪
+['generally']
+['generalmente']
+['https://media.gettyimages.com/photos/money-usa-dollar-banknotes-for-backgroundmoney-is-any-item-or-record-picture-id1177396189?k=6&m=1177396189&s=612x612&w=0&h=MVDK5tCAnUiM8z7TRWsgv-mVQyYvsN0w5KEFo0suor0=']
+U+69EA
+15
+gài
+75.11
+槪.mp3
+
+槫
+['NONE']
+['NINGUNA']
+[]
+U+69EB
+15
+tuán
+75.11
+槫.mp3
+
+槬
+['NONE']
+['NINGUNA']
+[]
+U+69EC
+15
+huà
+75.11
+槬.mp3
+
+槭
+['maple']
+['arce']
+['https://media.gettyimages.com/photos/red-maple-picture-id183890877?k=6&m=183890877&s=612x612&w=0&h=RPWN75bNQpKfYKC7QHw6QNcjCotY_PNZ8bf23n8sHeI=']
+U+69ED
+15
+qī
+75.11
+槭.mp3
+
+槮
+['leafless', ' fish trap']
+['deshojado', 'Trampa para peces']
+['https://media.gettyimages.com/photos/bare-tree-against-clear-sky-picture-id932495746?k=6&m=932495746&s=612x612&w=0&h=USb6RCI_i5BPN1JVJ2gTFbGhN0Ewpgh4mwKd-nGzDqA=', 'https://media.gettyimages.com/photos/fishing-big-money-concept-picture-id167490303?k=6&m=167490303&s=612x612&w=0&h=hoIJutu9Ie4uuKfoRPg_wzWQAO_YCPaTS7OWXwnAEuA=']
+U+69EE
+15
+sēn
+75.11
+槮.mp3
+
+槯
+['NONE']
+['NINGUNA']
+[]
+U+69EF
+15
+cuī
+75.11
+槯.mp3
+
+槰
+['NONE']
+['NINGUNA']
+[]
+U+69F0
+14
+péng
+75.11
+槰.mp3
+
+槱
+['firewood for sacrifice']
+['leña para el sacrificio']
+['NONE']
+U+69F1
+15
+yǒu
+75.11
+槱.mp3
+
+槲
+['type of oak']
+['tipo de roble']
+['https://media.gettyimages.com/photos/blank-newspaper-picture-id114320996?k=6&m=114320996&s=612x612&w=0&h=VrSSQfzzPPMjfkpvt3MtW813Xvcieekl5C-T8_LqERQ=']
+U+69F2
+15
+hú
+75.11
+槲.mp3
+
+槳
+['oar, paddle']
+['remo, remo']
+['https://media.gettyimages.com/photos/high-angle-view-of-oar-in-lake-picture-id1004358160?k=6&m=1004358160&s=612x612&w=0&h=j1hgJF4LOE5RfCdD-TlbO0qChfyptl8M1-o1v6j2_dg=']
+U+69F3
+15
+jiǎng
+75.11
+槳.mp3
+
+槴
+['NONE']
+['NINGUNA']
+[]
+U+69F4
+15
+hù
+75.11
+槴.mp3
+
+槵
+['NONE']
+['NINGUNA']
+[]
+U+69F5
+15
+huàn
+75.11
+槵.mp3
+
+槶
+['NONE']
+['NINGUNA']
+[]
+U+69F6
+15
+guì
+75.11
+槶.mp3
+
+槷
+['NONE']
+['NINGUNA']
+[]
+U+69F7
+15
+niè
+75.11
+槷.mp3
+
+槸
+['NONE']
+['NINGUNA']
+[]
+U+69F8
+15
+yì
+75.11
+槸.mp3
+
+槹
+['spar', ' well-sweep']
+['salvar', 'bien barrido']
+['https://media.gettyimages.com/photos/theres-nothing-better-than-a-day-at-the-spar-picture-id470803235?k=6&m=470803235&s=612x612&w=0&h=Y5MltveVy8j_cdaSpBgHtGPLnyFckosdYHJFhf6aSsI=', 'NONE']
+U+69F9
+15
+gāo
+75.11
+槹.mp3
+
+槺
+['NONE']
+['NINGUNA']
+[]
+U+69FA
+15
+kāng
+75.11
+槺.mp3
+
+槻
+['zelkova tree']
+['árbol de zelkova']
+['https://media.gettyimages.com/photos/zelkova-serrata-rain-forest-picture-id1166747721?k=6&m=1166747721&s=612x612&w=0&h=j2mJfY797ZRzmZ2w8AVf3N9useTr8ie2Lmi3QKqijBw=']
+U+69FB
+15
+guī
+75.11
+槻.mp3
+
+槼
+['rules, regulations, customs, law']
+['reglas, regulaciones, costumbres, ley']
+['https://media.gettyimages.com/photos/two-women-wearing-protective-face-masks-enjoying-the-outdoors-during-picture-id1256012768?k=6&m=1256012768&s=612x612&w=0&h=wXQ8_Idz0Q2b_7a65jlLzmfQgn4LSuhf8lWyEKaKKTQ=']
+U+69FC
+15
+guī
+75.11
+槼.mp3
+
+槽
+['trough', ' manger', ' vat, tank', ' groove', ' a distillery']
+['canal', 'comer', 'Habla, tanque', 'ranura', 'una destilería']
+['https://media.gettyimages.com/photos/baby-jesus-lying-in-wooden-crib-picture-id182173554?k=6&m=182173554&s=612x612&w=0&h=xOdgVvUmGVnwxQiXPtZIRoTSvfPoYeoGFmRNLbWooaw=', 'https://media.gettyimages.com/photos/nativity-scene-next-to-a-christmas-tree-picture-id114414239?k=6&m=114414239&s=612x612&w=0&h=h-O0d8anSiGM7nNhZC0JuQs7Vumpbno6vDEYtYgT3vs=', 'https://media.gettyimages.com/photos/old-water-tower-and-the-landmark-81-building-picture-id1227340945?k=6&m=1227340945&s=612x612&w=0&h=2e2m3c18y-E4S_pnhslnlxakLd7mZAPa3aJFSRlXOQE=', 'https://media.gettyimages.com/photos/vinyl-background-picture-id157185792?k=6&m=157185792&s=612x612&w=0&h=WfaRKwhgIrfQ0kEcJ2Iwlv0p1aadSPevbuYa4L_cNg0=', 'https://media.gettyimages.com/photos/male-worker-operating-machinery-in-brewery-picture-id892115380?k=6&m=892115380&s=612x612&w=0&h=eLfR7zA68RYt4dYy2btzvknKqrFTVwWb0Qf4bKR7c1U=']
+U+69FD
+15
+cáo
+75.11
+槽.mp3
+
+槾
+['paste wall with dirt']
+['pegar la pared con tierra']
+['https://media.gettyimages.com/photos/glue-stain-on-the-wall-picture-id1126274356?k=6&m=1126274356&s=612x612&w=0&h=jmQ4w6zT-NM23YNS5q3HPbDWDs4dzXYp7a8fJEKevDk=']
+U+69FE
+15
+màn
+75.11
+槾.mp3
+
+槿
+['hibiscus']
+['hibiscus']
+['https://media.gettyimages.com/photos/perfect-pink-hibiscus-flower-picture-id157609777?k=6&m=157609777&s=612x612&w=0&h=27ppKTcBf5d2hvt4x9ZugP-4_Qb3_17J30OcMogQGcg=']
+U+69FF
+15
+jǐn
+75.11
+槿.mp3
+
+樀
+['NONE']
+['NINGUNA']
+[]
+U+6A00
+15
+dí
+75.11
+樀.mp3
+
+樁
+['stake, post', ' affair, matter']
+['estaca, poste', 'asunto']
+['https://media.gettyimages.com/photos/survey-stake-picture-id157293316?k=6&m=157293316&s=612x612&w=0&h=sjRVyZGIUa7i95_G0dhZHOFWmkJFTzJg_kEPORIsWR8=', 'https://media.gettyimages.com/photos/crack-in-grey-concrete-surface-picture-id172950698?k=6&m=172950698&s=612x612&w=0&h=dL4izE-Pc47JKkvWgm7E7k4EITNDKSCR2knKU7MEv6k=']
+U+6A01
+15
+zhuāng
+75.11
+樁.mp3
+
+樂
+['happy, glad', ' enjoyable', ' music']
+['feliz, contento', 'agradable', 'música']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'https://media.gettyimages.com/photos/woman-chasing-man-while-riding-bicycle-picture-id509403985?k=6&m=509403985&s=612x612&w=0&h=HXqlas81oPbJWz4Tvh3ZWzUWsGmRWyloMMwdhK1kJsY=', 'https://media.gettyimages.com/photos/this-is-my-kinda-music-picture-id1064852106?k=6&m=1064852106&s=612x612&w=0&h=Q65AUON3SPKksta3p27gnJyO8kPS2dJM7fQJ7EYm4Ws=']
+U+6A02
+15
+lè
+75.11
+樂.mp3
+
+樃
+['NONE']
+['NINGUNA']
+[]
+U+6A03
+14
+lǎng
+75.11
+樃.mp3
+
+樄
+['NONE']
+['NINGUNA']
+[]
+U+6A04
+14
+chén
+75.11
+樄.mp3
+
+樅
+['fir tree']
+['abeto']
+['https://media.gettyimages.com/photos/christmas-tree-isolated-on-white-background-xxxl-picture-id183244084?k=6&m=183244084&s=612x612&w=0&h=jGSFzaL7txgKUEFMZUI_9uzQlR96kDDBMAub50OSvWw=']
+U+6A05
+15
+cōng
+75.11
+樅.mp3
+
+樆
+['NONE']
+['NINGUNA']
+[]
+U+6A06
+14
+lí
+75.11
+樆.mp3
+
+樇
+['NONE']
+['NINGUNA']
+[]
+U+6A07
+14
+xiū
+75.11
+樇.mp3
+
+樈
+['NONE']
+['NINGUNA']
+[]
+U+6A08
+15
+qíng
+75.11
+樈.mp3
+
+樉
+['NONE']
+['NINGUNA']
+[]
+U+6A09
+15
+shuǎng
+75.11
+樉.mp3
+
+樊
+['a railing', ' a fence an enclosed place']
+['una barandilla', 'una cerca un lugar cerrado']
+['https://media.gettyimages.com/photos/sun-shining-on-the-boat-deck-of-a-passenger-ship-canadian-coastline-picture-id153342686?k=6&m=153342686&s=612x612&w=0&h=RMzprWSxmdWrisN8uTOfg1zVf4hcJolS_JE7TbzgPng=', 'https://media.gettyimages.com/photos/breakfast-is-served-picture-id639309882?k=6&m=639309882&s=612x612&w=0&h=RoKERZKUFttHvaQ2e8S9gXnRtxxG2kzZ93fMngFlX-A=']
+U+6A0A
+15
+fán
+75.11
+樊.mp3
+
+樋
+['tree name']
+['nombre del árbol']
+['https://media.gettyimages.com/photos/multiple-exposure-of-a-young-woman-and-mountain-landscape-picture-id617178920?k=6&m=617178920&s=612x612&w=0&h=W2w3Q_RTGJCDyf8Aj2YwXC-2gLuVM-L1jbcE-6UG1Nc=']
+U+6A0B
+14
+tōng
+75.11
+樋.mp3
+
+樌
+['NONE']
+['NINGUNA']
+[]
+U+6A0C
+15
+guàn
+75.11
+樌.mp3
+
+樍
+['NONE']
+['NINGUNA']
+[]
+U+6A0D
+15
+zé
+75.11
+樍.mp3
+
+樎
+['NONE']
+['NINGUNA']
+[]
+U+6A0E
+15
+sù
+75.11
+樎.mp3
+
+樏
+['sedan']
+['ya que']
+['https://media.gettyimages.com/photos/car-driving-on-urban-road-picture-id912334166?k=6&m=912334166&s=612x612&w=0&h=xqTR9EaWKqQdmtnillg9097emYYADkYJsSQvBAY3Q_w=']
+U+6A0F
+15
+lěi
+75.11
+樏.mp3
+
+樐
+['a lookout turret on a city wall, movable wooden tower for archers', ' a scull a sweep, an oar']
+['una torre de vigilancia en una muralla de la ciudad, torre de madera móvil para arqueros', 'un remo, un barrido, un remo']
+['NONE', 'https://media.gettyimages.com/photos/two-male-athletes-taking-sweep-oar-boat-out-of-boathouse-picture-id861260776?k=6&m=861260776&s=612x612&w=0&h=MzOSsOW0p-Qw7pjxY33fK2TrG7uwFzZdmbIwo65dr5k=']
+U+6A10
+15
+lǔ
+75.11
+樐.mp3
+
+樑
+['bridge', ' beam']
+['puente', 'haz']
+['https://media.gettyimages.com/photos/semitruck-crossing-oresund-bridge-picture-id1027421358?k=6&m=1027421358&s=612x612&w=0&h=BYy_Y-YHLp818W9MDSg5J5KtnRVYiKjFvrsb_h3So2g=', 'https://media.gettyimages.com/photos/light-from-heaven-picture-id979356356?k=6&m=979356356&s=612x612&w=0&h=yzdQx9q0ZyO3vYy-RUTjo5PQYXZHhKQq5xDQViMlbFA=']
+U+6A11
+15
+liáng
+75.11
+樑.mp3
+
+樒
+['a tree whose branches are placed on Buddhist graves']
+['un árbol cuyas ramas se colocan sobre tumbas budistas']
+['NONE']
+U+6A12
+15
+mì
+75.11
+樒.mp3
+
+樓
+['building of two or more stories']
+['edificio de dos o más pisos']
+['https://media.gettyimages.com/photos/office-building-windows-in-tokyo-picture-id931418318?k=6&m=931418318&s=612x612&w=0&h=QnOtYVxU4_HAygnIbgvOH70u3b8pB4pmiFULt5YjfLg=']
+U+6A13
+15
+lóu
+75.11
+樓.mp3
+
+樔
+['NONE']
+['NINGUNA']
+[]
+U+6A14
+15
+cháo
+75.11
+樔.mp3
+
+樕
+['shrub']
+['arbusto']
+['https://media.gettyimages.com/photos/moss-picture-id184952456?k=6&m=184952456&s=612x612&w=0&h=-k3VxhnwlUOps2OVZPIGsxXwUmJngh-gCMPuZRFDHPc=']
+U+6A15
+15
+sù
+75.11
+樕.mp3
+
+樖
+['(Cant.) classifier for plants or trees', ' a tree-trunk']
+['(Cant.) Clasificador para plantas o árboles', 'un tronco de árbol']
+['NONE', 'https://media.gettyimages.com/photos/twisted-tree-trunk-picture-id937056434?k=6&m=937056434&s=612x612&w=0&h=520agKv-WkZZ9OEKIQcwe57NYt9vYhS1AgfrFVwsxj4=']
+U+6A16
+15
+kē
+75.11
+樖.mp3
+
+樗
+['Ailanthus glandulosa or A. altissima, a kind of tree useless as timber']
+['Ailanthus glandulosa o A. altissima, una especie de árbol inútil como madera']
+['NONE']
+U+6A17
+15
+chū
+75.11
+樗.mp3
+
+樘
+['NONE']
+['NINGUNA']
+[]
+U+6A18
+15
+táng
+75.11
+樘.mp3
+

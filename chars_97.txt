@@ -1,0 +1,2560 @@
+崙
+['Kunlun mountains in Jiangsu']
+['Kunlun mountain sin Jiangsu']
+['NONE']
+U+5D19
+11
+lún
+46.8
+崙.mp3
+
+崚
+['hilly, steep, rugged']
+['montañoso, empinado, accidentado']
+['https://media.gettyimages.com/photos/closeup-of-cuillin-mountain-ridge-isle-of-skye-picture-id1019765248?k=6&m=1019765248&s=612x612&w=0&h=hThDgYld2KC3WKlPRnXvA9sZ2gskZoZSKR7Tk3ZJ5a4=']
+U+5D1A
+11
+léng
+46.8
+崚.mp3
+
+崛
+['towering, eminent', ' rise abruptly']
+['imponente, eminente', 'levantarse abruptamente']
+['https://media.gettyimages.com/photos/businessman-climbing-ladder-picture-id1006243960?k=6&m=1006243960&s=612x612&w=0&h=E1GD4JG61GV2zElgyhaOsHgt6QsfxgfPBdWdFNnNO1Q=', 'https://media.gettyimages.com/photos/concrete-freeway-structure-ends-abruptly-picture-id124290971?k=6&m=124290971&s=612x612&w=0&h=OFD45bp9A8ViNw8_jBr6UYE4HDsFj_jGbpUMJyhGPsI=']
+U+5D1B
+11
+jué
+46.8
+崛.mp3
+
+崜
+['NONE']
+['NINGUNA']
+[]
+U+5D1C
+11
+duō
+46.8
+崜.mp3
+
+崝
+['NONE']
+['NINGUNA']
+[]
+U+5D1D
+11
+zhēng
+46.8
+崝.mp3
+
+崞
+['mountain in Shanxi']
+['montaña INS Coreano']
+['https://media.gettyimages.com/photos/zigzag-mountain-road-with-light-trails-xian-china-picture-id1168292358?k=6&m=1168292358&s=612x612&w=0&h=oKiziSFhcvJrn5OPBFlL4yp_VF5QVtAHc6t25vvycJ4=']
+U+5D1E
+11
+guō
+46.8
+崞.mp3
+
+崟
+['cliffs']
+['acantilados']
+['https://media.gettyimages.com/photos/closeup-of-cliff-by-sea-against-sky-during-winter-picture-id733495043?k=6&m=733495043&s=612x612&w=0&h=tiNrydEJGv8sKT1a8_k7Zhd3qsFhM6tfV8vFdInmRrY=']
+U+5D1F
+11
+yín
+46.8
+崟.mp3
+
+崠
+['place name in Guangxi province']
+['nombre del lugar en la provincia de Guangxi']
+['NONE']
+U+5D20
+11
+dōng
+46.8
+崠.mp3
+
+崡
+['NONE']
+['NINGUNA']
+[]
+U+5D21
+11
+hán
+46.8
+崡.mp3
+
+崢
+['high, lofty, noble', ' steep, perilous']
+['alto, alto, noble', 'empinado, peligroso']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/photos/woman-free-climbing-sheer-rock-face-high-up-at-sunrise-picture-id1083682910?k=6&m=1083682910&s=612x612&w=0&h=XrQ2G3SAEIIUFpO0ehuZMNtLDaEz4eBgzpnF-Pr10LA=']
+U+5D22
+11
+zhēng
+46.8
+崢.mp3
+
+崣
+['NONE']
+['NINGUNA']
+[]
+U+5D23
+11
+wěi
+46.8
+崣.mp3
+
+崤
+['mountain in Henan']
+['montaña en Henan']
+['https://media.gettyimages.com/photos/crossing-ancient-china-bridge-picture-id841806134?k=6&m=841806134&s=612x612&w=0&h=jxIxp7s1CgtaSKxFH5HQhrhGOqXQqj4kALhBEXrl0Tk=']
+U+5D24
+11
+xiáo
+46.8
+崤.mp3
+
+崥
+['NONE']
+['NINGUNA']
+[]
+U+5D25
+11
+pí
+46.8
+崥.mp3
+
+崦
+['a mountain in Kansu, where there is a cave into which the sun is said to sink at night']
+['una montaña en Kansu, donde hay una cueva en la que se dice que el sol se hunde por la noche']
+['NONE']
+U+5D26
+11
+yān
+46.8
+崦.mp3
+
+崧
+['high mountain', ' lofty, eminent']
+['Montaña alta', 'noble, eminente']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=']
+U+5D27
+11
+sōng
+46.8
+崧.mp3
+
+崨
+['NONE']
+['NINGUNA']
+[]
+U+5D28
+11
+jié
+46.8
+崨.mp3
+
+崩
+['rupture, split apart, collapse']
+['ruptura, escisión, colapso']
+['NONE']
+U+5D29
+11
+bēng
+46.8
+崩.mp3
+
+崪
+['rocky peaks', ' lofty and dangerous']
+['picos rocosos', 'elevado y peligroso']
+['https://media.gettyimages.com/photos/caucasian-hiker-on-rocky-hilltop-in-remote-landscape-picture-id591405723?k=6&m=591405723&s=612x612&w=0&h=sdgyX0EB3RViNzjkFUxUiiWSAikeHKu75DiSLxH4kOM=', 'https://media.gettyimages.com/photos/bold-picture-id499257721?k=6&m=499257721&s=612x612&w=0&h=Mf2SEB0NoJwbkePUOn-oejgbwFDQAncaV0lb4EKMlyE=']
+U+5D2A
+11
+zú
+46.8
+崪.mp3
+
+崫
+['high and lofty (mountains)']
+['alto y sublime (montañas)']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=']
+U+5D2B
+11
+kū
+46.8
+崫.mp3
+
+崬
+['place name in Guangxi province']
+['nombre del lugar en la provincia de Guangxi']
+['NONE']
+U+5D2C
+11
+dōng
+46.8
+崬.mp3
+
+崭
+['high, steep, precipitous', ' new']
+['alto, empinado, escarpado', 'nuevo']
+['https://media.gettyimages.com/photos/woman-free-climbing-sheer-rock-face-high-up-at-sunrise-picture-id1083682910?k=6&m=1083682910&s=612x612&w=0&h=XrQ2G3SAEIIUFpO0ehuZMNtLDaEz4eBgzpnF-Pr10LA=', 'https://media.gettyimages.com/photos/young-couple-buying-a-car-picture-id988321834?k=6&m=988321834&s=612x612&w=0&h=u-F5olaM8fioHmYRvGB5SRVLnnVX7CnXXVHKlrXQgfY=']
+U+5D2D
+11
+zhǎn
+46.8
+崭.mp3
+
+崮
+['a mesa, hill with flat top and steep sides']
+['una mesa, colina con cima plana y lados empinados']
+['NONE']
+U+5D2E
+11
+gù
+46.8
+崮.mp3
+
+崯
+['NONE']
+['NINGUNA']
+[]
+U+5D2F
+11
+yín
+46.8
+崯.mp3
+
+崰
+['NONE']
+['NINGUNA']
+[]
+U+5D30
+11
+zī
+46.8
+崰.mp3
+
+崱
+['lofty']
+['elevado']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=']
+U+5D31
+12
+zè
+46.9
+崱.mp3
+
+崲
+['NONE']
+['NINGUNA']
+[]
+U+5D32
+12
+huáng
+46.9
+崲.mp3
+
+崳
+['county in Shandong province']
+['condado en la provincia de Shandong']
+['https://media.gettyimages.com/photos/crane-lifting-up-container-in-yard-picture-id1160749193?k=6&m=1160749193&s=612x612&w=0&h=CR-3-kl_1dzLQXRqP6pGSN8sFpie89aGLXbzaM9lJQ8=']
+U+5D33
+12
+yú
+46.9
+崳.mp3
+
+崴
+['high, lofty', ' precipitous']
+['alto, alto', 'precipitado']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/photos/car-on-a-san-francisco-hill-picture-id87304325?k=6&m=87304325&s=612x612&w=0&h=bY8LlXfOmi1tLrkaqEjR1AnCSx9xUHuF85NTzdjjtyI=']
+U+5D34
+12
+wǎi
+46.9
+崴.mp3
+
+崵
+['NONE']
+['NINGUNA']
+[]
+U+5D35
+12
+yáng
+46.9
+崵.mp3
+
+崶
+['NONE']
+['NINGUNA']
+[]
+U+5D36
+12
+fēng
+46.9
+崶.mp3
+
+崷
+['NONE']
+['NINGUNA']
+[]
+U+5D37
+12
+qiú
+46.9
+崷.mp3
+
+崸
+['NONE']
+['NINGUNA']
+[]
+U+5D38
+12
+yáng
+46.9
+崸.mp3
+
+崹
+['NONE']
+['NINGUNA']
+[]
+U+5D39
+12
+tí
+46.9
+崹.mp3
+
+崺
+['NONE']
+['NINGUNA']
+[]
+U+5D3A
+12
+yǐ
+46.9
+崺.mp3
+
+崻
+['NONE']
+['NINGUNA']
+[]
+U+5D3B
+12
+zhì
+46.9
+崻.mp3
+
+崼
+['NONE']
+['NINGUNA']
+[]
+U+5D3C
+12
+shì
+46.9
+崼.mp3
+
+崽
+['a child, a servant', ' a diminutive']
+['un niño, un sirviente', 'un diminutivo']
+['https://media.gettyimages.com/photos/junior-account-juniorpartner-picture-id130880613?k=6&m=130880613&s=612x612&w=0&h=nAxZAVyFkoPDXdS1YK65X9xJ9pWJ4-mCWVUpsN0KeYM=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=']
+U+5D3D
+12
+zǎi
+46.9
+崽.mp3
+
+崾
+['place name in Shanxi province']
+['nombre del lugar en la provincia de Shanxi']
+['NONE']
+U+5D3E
+12
+yǎo
+46.9
+崾.mp3
+
+崿
+['cliffs']
+['acantilados']
+['https://media.gettyimages.com/photos/closeup-of-cliff-by-sea-against-sky-during-winter-picture-id733495043?k=6&m=733495043&s=612x612&w=0&h=tiNrydEJGv8sKT1a8_k7Zhd3qsFhM6tfV8vFdInmRrY=']
+U+5D3F
+12
+è
+46.9
+崿.mp3
+
+嵀
+['NONE']
+['NINGUNA']
+[]
+U+5D40
+12
+zhù
+46.9
+嵀.mp3
+
+嵁
+['rugged']
+['escabroso']
+['https://media.gettyimages.com/photos/dark-concrete-picture-id184601291?k=6&m=184601291&s=612x612&w=0&h=YfwPw9jvfCzKxNUS_g1bwNiczgWJlx2_ADp9X1wfd_I=']
+U+5D41
+12
+kān
+46.9
+嵁.mp3
+
+嵂
+['lofty']
+['elevado']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=']
+U+5D42
+12
+lǜ
+46.9
+嵂.mp3
+
+嵃
+['NONE']
+['NINGUNA']
+[]
+U+5D43
+12
+yǎn
+46.9
+嵃.mp3
+
+嵄
+['NONE']
+['NINGUNA']
+[]
+U+5D44
+12
+měi
+46.9
+嵄.mp3
+
+嵅
+['NONE']
+['NINGUNA']
+[]
+U+5D45
+12
+hán
+46.9
+嵅.mp3
+
+嵆
+['mountain in Henan', ' surname']
+['montaña en Henan', 'apellido']
+['https://media.gettyimages.com/photos/crossing-ancient-china-bridge-picture-id841806134?k=6&m=841806134&s=612x612&w=0&h=jxIxp7s1CgtaSKxFH5HQhrhGOqXQqj4kALhBEXrl0Tk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+5D46
+12
+jī
+46.9
+嵆.mp3
+
+嵇
+['mountain in Henan', ' surname']
+['montaña en Henan', 'apellido']
+['https://media.gettyimages.com/photos/crossing-ancient-china-bridge-picture-id841806134?k=6&m=841806134&s=612x612&w=0&h=jxIxp7s1CgtaSKxFH5HQhrhGOqXQqj4kALhBEXrl0Tk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+5D47
+12
+jī
+46.9
+嵇.mp3
+
+嵈
+['NONE']
+['NINGUNA']
+[]
+U+5D48
+12
+huàn
+46.9
+嵈.mp3
+
+嵉
+['NONE']
+['NINGUNA']
+[]
+U+5D49
+12
+tíng
+46.9
+嵉.mp3
+
+嵊
+['district in Shaohsing, Chekiang']
+['distrito en Shaohsing, Chekiang']
+['NONE']
+U+5D4A
+13
+shèng
+46.10
+嵊.mp3
+
+嵋
+['Omei mountain in Sichuan']
+['Lo siento lo siento']
+['NONE']
+U+5D4B
+12
+méi
+46.9
+嵋.mp3
+
+嵌
+['inlay, set in', ' fall into', ' rugged']
+['incrustación, engastado en', 'caer en', 'escabroso']
+['https://media.gettyimages.com/photos/morrocan-styled-tea-set-picture-id1216565491?k=6&m=1216565491&s=612x612&w=0&h=mlOY1P-0AYRbea-P66VZB37U8ZzgJm1PY7VlE_py3mE=', 'https://media.gettyimages.com/photos/falling-autumn-leaves-picture-id171276011?k=6&m=171276011&s=612x612&w=0&h=mDdJfeIq_QaLHvb1-yLnzr1pZ8nfOYxc_xuFAZ6rCYI=', 'https://media.gettyimages.com/photos/dark-concrete-picture-id184601291?k=6&m=184601291&s=612x612&w=0&h=YfwPw9jvfCzKxNUS_g1bwNiczgWJlx2_ADp9X1wfd_I=']
+U+5D4C
+12
+qiàn
+46.9
+嵌.mp3
+
+嵍
+['NONE']
+['NINGUNA']
+[]
+U+5D4D
+12
+wù
+46.9
+嵍.mp3
+
+嵎
+['mountain recess', ' canyon']
+['recreo de montaña', 'cañón']
+['https://media.gettyimages.com/photos/group-of-children-sledding-together-picture-id641160216?k=6&m=641160216&s=612x612&w=0&h=NU2_DxHzOiVFh0cM_pOuoornGB2HMzG4qgonEJvYPAQ=', 'https://media.gettyimages.com/photos/lower-antelope-canyon-arizona-picture-id508757052?k=6&m=508757052&s=612x612&w=0&h=s1ZE9OhwEooLPAX3Jl55RxPM87TUSzf6OHurQRBrA-k=']
+U+5D4E
+12
+yú
+46.9
+嵎.mp3
+
+嵏
+['a mountain in Shenxi']
+['una montaña en shenxi']
+['NONE']
+U+5D4F
+12
+zōng
+46.9
+嵏.mp3
+
+嵐
+['mountain mist, mountain haze']
+['neblina de montaña, neblina de montaña']
+['https://media.gettyimages.com/photos/fog-and-clouds-on-mountain-picture-id1160438555?k=6&m=1160438555&s=612x612&w=0&h=OHMCasK377QMKyev3TKXstvNmvV8eb9W7qC8gMfYOyI=']
+U+5D50
+12
+lán
+46.9
+嵐.mp3
+
+嵑
+['NONE']
+['NINGUNA']
+[]
+U+5D51
+12
+kě
+46.9
+嵑.mp3
+
+嵒
+['cliff', ' soar']
+['acantilado', 'remontarse']
+['https://media.gettyimages.com/photos/closeup-of-cliff-by-sea-against-sky-during-winter-picture-id733495043?k=6&m=733495043&s=612x612&w=0&h=tiNrydEJGv8sKT1a8_k7Zhd3qsFhM6tfV8vFdInmRrY=', 'https://media.gettyimages.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=6&m=155439315&s=612x612&w=0&h=1bPal14stPAXKODdCMHMUWCVheYPVHXl4iyHDCh2Ndk=']
+U+5D52
+12
+yán
+46.9
+嵒.mp3
+
+嵓
+['NONE']
+['NINGUNA']
+[]
+U+5D53
+12
+yán
+46.9
+嵓.mp3
+
+嵔
+['NONE']
+['NINGUNA']
+[]
+U+5D54
+12
+wěi
+46.9
+嵔.mp3
+
+嵕
+['NONE']
+['NINGUNA']
+[]
+U+5D55
+12
+zōng
+46.9
+嵕.mp3
+
+嵖
+['name of a mountain', ' (Cant.) to obstruct']
+['nombre de una montaña', '(Cant.) Obstruir']
+['https://media.gettyimages.com/photos/big-ideas-lemonade-stand-picture-id1017294308?k=6&m=1017294308&s=612x612&w=0&h=jCL_v1STIi8uzm8EFjFXThQWn-BUYOH7vlRZ_J3afBU=', 'https://media.gettyimages.com/photos/writing-on-a-post-states-you-can-detroy-our-buildings-but-you-cant-picture-id57225991?k=6&m=57225991&s=612x612&w=0&h=-YiMk3-2BMCyC4-E-A2q-UkrM21YTcSGpge-YCp4hRI=']
+U+5D56
+12
+chá
+46.9
+嵖.mp3
+
+嵗
+['year', ' age', ' harvest']
+['año', 'años', 'cosecha']
+['https://media.gettyimages.com/photos/year-old-getting-flu-jab-picture-id85997773?k=6&m=85997773&s=612x612&w=0&h=fVde3w1OKSam7whLCd3q8ZCLKZ0-BfTmJ6hqOu1tBcA=', 'https://media.gettyimages.com/photos/close-up-of-mother-and-daughter-faces-together-picture-id526427753?k=6&m=526427753&s=612x612&w=0&h=bmlu2ig02ej9CN57Wr6uEh5yoqPhI2Yp5ZsHMMqyACw=', 'https://media.gettyimages.com/photos/seasonal-work-on-the-field-picture-id1072634078?k=6&m=1072634078&s=612x612&w=0&h=aIhlcgZshY4HHUgSHOJA84nJMVPfj53AQvlAsNSqJdI=']
+U+5D57
+12
+suì
+46.9
+嵗.mp3
+
+嵘
+['high, steep', ' lofty, towering']
+['alto, empinado', 'elevado']
+['https://media.gettyimages.com/photos/woman-free-climbing-sheer-rock-face-high-up-at-sunrise-picture-id1083682910?k=6&m=1083682910&s=612x612&w=0&h=XrQ2G3SAEIIUFpO0ehuZMNtLDaEz4eBgzpnF-Pr10LA=', 'https://media.gettyimages.com/photos/aerial-view-of-paraglider-over-mountain-range-picture-id678833571?k=6&m=678833571&s=612x612&w=0&h=C_zj4E5WACZN-qhw8s-zHjId9f0rAI6J27xhrvtzGwQ=']
+U+5D58
+12
+róng
+46.9
+嵘.mp3
+
+嵙
+['place name']
+['ponga su nombre']
+['https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+5D59
+12
+kē
+46.9
+嵙.mp3
+
+嵚
+['lofty, towering']
+['elevado']
+['https://media.gettyimages.com/photos/aerial-view-of-paraglider-over-mountain-range-picture-id678833571?k=6&m=678833571&s=612x612&w=0&h=C_zj4E5WACZN-qhw8s-zHjId9f0rAI6J27xhrvtzGwQ=']
+U+5D5A
+12
+qīn
+46.9
+嵚.mp3
+
+嵛
+['county in Shandong province']
+['condado en la provincia de Shandong']
+['https://media.gettyimages.com/photos/crane-lifting-up-container-in-yard-picture-id1160749193?k=6&m=1160749193&s=612x612&w=0&h=CR-3-kl_1dzLQXRqP6pGSN8sFpie89aGLXbzaM9lJQ8=']
+U+5D5B
+12
+yú
+46.9
+嵛.mp3
+
+嵜
+['rough, uneven, jagged, rugged']
+['áspero, desigual, irregular, rugoso']
+['https://media.gettyimages.com/photos/cardboard-or-paper-antique-texture-background-light-gray-color-picture-id688934930?k=6&m=688934930&s=612x612&w=0&h=NlbEvaBMRoLvKHksdjAe0iDc2V7zAJkkxDxVfMbNeg8=']
+U+5D5C
+12
+qí
+46.9
+嵜.mp3
+
+嵝
+['Goulou mountain peak in hunan']
+['Pico de la montaña Goulou en hunan']
+['NONE']
+U+5D5D
+12
+lǒu
+46.9
+嵝.mp3
+
+嵞
+['NONE']
+['NINGUNA']
+[]
+U+5D5E
+13
+tú
+46.10
+嵞.mp3
+
+嵟
+['NONE']
+['NINGUNA']
+[]
+U+5D5F
+13
+duī
+46.10
+嵟.mp3
+
+嵠
+['a valley with a stream in it', ' a gorge']
+['un valle con un arroyo en él', 'una garganta']
+['https://media.gettyimages.com/photos/high-view-of-a-river-valley-with-horses-picture-id1134102752?k=6&m=1134102752&s=612x612&w=0&h=C2ZUPo6-duzefMruYItUdvTaZUC9q_65xp1U79TaH7o=', 'https://media.gettyimages.com/photos/fjarrgljfur-picture-id615963500?k=6&m=615963500&s=612x612&w=0&h=CdrjrhwhMnSmErgKhX62gU6KDJsSGV9Nt6y8nxUAdOs=']
+U+5D60
+13
+xī
+46.10
+嵠.mp3
+
+嵡
+['NONE']
+['NINGUNA']
+[]
+U+5D61
+13
+wěng
+46.10
+嵡.mp3
+
+嵢
+['NONE']
+['NINGUNA']
+[]
+U+5D62
+13
+cāng
+46.10
+嵢.mp3
+
+嵣
+['NONE']
+['NINGUNA']
+[]
+U+5D63
+13
+dàng
+46.10
+嵣.mp3
+
+嵤
+['NONE']
+['NINGUNA']
+[]
+U+5D64
+13
+róng
+46.10
+嵤.mp3
+
+嵥
+['NONE']
+['NINGUNA']
+[]
+U+5D65
+13
+jié
+46.10
+嵥.mp3
+
+嵦
+['a raised site', ' pleasant']
+['un sitio elevado', 'agradable']
+['https://media.gettyimages.com/photos/construction-workers-and-architects-viewed-from-above-picture-id646587338?k=6&m=646587338&s=612x612&w=0&h=sSwoEIsI9SB9LFgi7zDf037_lxc1wEDa5nFdyylDyoA=', 'https://media.gettyimages.com/photos/above-view-of-playful-parents-tickling-their-daughters-at-home-picture-id1159543952?k=6&m=1159543952&s=612x612&w=0&h=EdDKiaqzUXgcTOoWw28Cv5BDvFTDy_bUzRjKvotSx_s=']
+U+5D66
+13
+kǎi
+46.10
+嵦.mp3
+
+嵧
+['NONE']
+['NINGUNA']
+[]
+U+5D67
+13
+liú
+46.10
+嵧.mp3
+
+嵨
+['NONE']
+['NINGUNA']
+[]
+U+5D68
+13
+wù
+46.10
+嵨.mp3
+
+嵩
+['high, lofty', ' one of the 5 peaks, situated in Hunan']
+['alto, alto', 'uno de los 5 picos, situado en Hunan']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'NONE']
+U+5D69
+13
+sōng
+46.10
+嵩.mp3
+
+嵪
+['NONE']
+['NINGUNA']
+[]
+U+5D6A
+13
+qiāo
+46.10
+嵪.mp3
+
+嵫
+['a hill in Shantung']
+['una colina en Shantung']
+['https://media.gettyimages.com/photos/scenic-view-of-sea-and-mountain-against-sky-picture-id1173094484?k=6&m=1173094484&s=612x612&w=0&h=GlizmaeibwjczKP7_WXFDCzjELyYn7Cnz0VL3medshM=']
+U+5D6B
+12
+zī
+46.10
+嵫.mp3
+
+嵬
+['high', ' rugged, rocky, precipitous']
+['alto', 'accidentado, rocoso, escarpado']
+['https://media.gettyimages.com/photos/mother-measuring-sons-height-picture-id952712526?k=6&m=952712526&s=612x612&w=0&h=vK-nDsneL9qEoPzD8NC2fhjlmV7RKB09nnW2_fCuRMw=', 'https://media.gettyimages.com/photos/winter-storms-hit-the-rocky-coastline-with-monumental-force-at-lands-picture-id126013298?k=6&m=126013298&s=612x612&w=0&h=7M6UXk_AJhoMhtNP-J5cGBuRR6aLBV8gzKFM54lqsWA=']
+U+5D6C
+12
+wéi
+46.10
+嵬.mp3
+
+嵭
+['NONE']
+['NINGUNA']
+[]
+U+5D6D
+13
+bēng
+46.10
+嵭.mp3
+
+嵮
+['NONE']
+['NINGUNA']
+[]
+U+5D6E
+13
+diān
+46.10
+嵮.mp3
+
+嵯
+['high, towering', ' irregular, rugged']
+['alto, imponente', 'irregular, accidentado']
+['https://media.gettyimages.com/photos/side-view-studio-portrait-showing-contrasting-height-of-young-couple-picture-id507851307?k=6&m=507851307&s=612x612&w=0&h=h4U78EXVnffBaUqGGW7Rwu71CzH-zjHeGkm-Tb7yhYc=', 'https://media.gettyimages.com/photos/very-rough-watercolor-paper-bumpy-surface-picture-id1156991952?k=6&m=1156991952&s=612x612&w=0&h=jG-U3PMbvRrEiwYlmAW8lvwTp5WGfENqvpDdmecoROo=']
+U+5D6F
+12
+cuó
+46.10
+嵯.mp3
+
+嵰
+['NONE']
+['NINGUNA']
+[]
+U+5D70
+13
+qiǎn
+46.10
+嵰.mp3
+
+嵱
+['NONE']
+['NINGUNA']
+[]
+U+5D71
+13
+yǒng
+46.10
+嵱.mp3
+
+嵲
+['NONE']
+['NINGUNA']
+[]
+U+5D72
+13
+niè
+46.10
+嵲.mp3
+
+嵳
+['high, towering', ' irregular, rugged']
+['alto, imponente', 'irregular, accidentado']
+['https://media.gettyimages.com/photos/side-view-studio-portrait-showing-contrasting-height-of-young-couple-picture-id507851307?k=6&m=507851307&s=612x612&w=0&h=h4U78EXVnffBaUqGGW7Rwu71CzH-zjHeGkm-Tb7yhYc=', 'https://media.gettyimages.com/photos/very-rough-watercolor-paper-bumpy-surface-picture-id1156991952?k=6&m=1156991952&s=612x612&w=0&h=jG-U3PMbvRrEiwYlmAW8lvwTp5WGfENqvpDdmecoROo=']
+U+5D73
+12
+cuó
+46.10
+嵳.mp3
+
+嵴
+['mountain ridge']
+['cresta de la montaña']
+['https://media.gettyimages.com/photos/mountaineers-walking-on-the-ridge-of-weissmies-switzerland-picture-id1051764096?k=6&m=1051764096&s=612x612&w=0&h=uei2GOJN_GXMISM5p-cLkZ1V0MTinWN-nNy3_z2bHLA=']
+U+5D74
+13
+jǐ
+46.10
+嵴.mp3
+
+嵵
+['NONE']
+['NINGUNA']
+[]
+U+5D75
+13
+shí
+46.10
+嵵.mp3
+
+嵶
+['low part of a mountain']
+['parte baja de una montaña']
+['https://media.gettyimages.com/photos/man-standing-on-sand-picture-id124263041?k=6&m=124263041&s=612x612&w=0&h=K090umRkGCBdtS_wcjJ9HnNJt69_0l9B62XkZZ-DUio=']
+U+5D76
+13
+ruò
+46.10
+嵶.mp3
+
+嵷
+['NONE']
+['NINGUNA']
+[]
+U+5D77
+14
+sǒng
+46.11
+嵷.mp3
+
+嵸
+['NONE']
+['NINGUNA']
+[]
+U+5D78
+14
+zōng
+46.11
+嵸.mp3
+
+嵹
+['NONE']
+['NINGUNA']
+[]
+U+5D79
+15
+jiàng
+46.11
+嵹.mp3
+
+嵺
+['NONE']
+['NINGUNA']
+[]
+U+5D7A
+14
+liáo
+46.11
+嵺.mp3
+
+嵻
+['NONE']
+['NINGUNA']
+[]
+U+5D7B
+14
+kāng
+46.11
+嵻.mp3
+
+嵼
+['NONE']
+['NINGUNA']
+[]
+U+5D7C
+14
+chǎn
+46.11
+嵼.mp3
+
+嵽
+['NONE']
+['NINGUNA']
+[]
+U+5D7D
+14
+dié
+46.11
+嵽.mp3
+
+嵾
+['uneven']
+['desigual']
+['https://media.gettyimages.com/photos/balancing-stones-picture-id185254543?k=6&m=185254543&s=612x612&w=0&h=AquWd_DoUJr5Q60zLzaKkAKib_-9CVo6Cywr5Uc8vgw=']
+U+5D7E
+14
+cēn
+46.11
+嵾.mp3
+
+嵿
+['NONE']
+['NINGUNA']
+[]
+U+5D7F
+14
+dǐng
+46.11
+嵿.mp3
+
+嶀
+['NONE']
+['NINGUNA']
+[]
+U+5D80
+14
+tū
+46.11
+嶀.mp3
+
+嶁
+['Goulou mountain peak in Hunan']
+['Pico de la montaña Goulou en Hunan']
+['NONE']
+U+5D81
+14
+lǒu
+46.11
+嶁.mp3
+
+嶂
+['cliff', ' mountain barrier']
+['acantilado', 'barrera de montaña']
+['https://media.gettyimages.com/photos/closeup-of-cliff-by-sea-against-sky-during-winter-picture-id733495043?k=6&m=733495043&s=612x612&w=0&h=tiNrydEJGv8sKT1a8_k7Zhd3qsFhM6tfV8vFdInmRrY=', 'https://media.gettyimages.com/photos/people-ice-climbing-picture-id104329737?k=6&m=104329737&s=612x612&w=0&h=KyZ6NvWwVoFl3uNHNhpM0M_tW_0I37mstBDcm0x5Cz8=']
+U+5D82
+14
+zhàng
+46.11
+嶂.mp3
+
+嶃
+['a cliff, a peak']
+['un acantilado, un pico']
+['https://media.gettyimages.com/photos/wanderlust-adventure-hiking-woman-enjoys-sunset-catskills-mountain-picture-id609049602?k=6&m=609049602&s=612x612&w=0&h=LSaztNW1j7TSgJktMQ-86Iui3A5tV3OUOX2WzV9ooX4=']
+U+5D83
+14
+zhǎn
+46.11
+嶃.mp3
+
+嶄
+['high, steep, precipitous', ' new']
+['alto, empinado, escarpado', 'nuevo']
+['https://media.gettyimages.com/photos/woman-free-climbing-sheer-rock-face-high-up-at-sunrise-picture-id1083682910?k=6&m=1083682910&s=612x612&w=0&h=XrQ2G3SAEIIUFpO0ehuZMNtLDaEz4eBgzpnF-Pr10LA=', 'https://media.gettyimages.com/photos/young-couple-buying-a-car-picture-id988321834?k=6&m=988321834&s=612x612&w=0&h=u-F5olaM8fioHmYRvGB5SRVLnnVX7CnXXVHKlrXQgfY=']
+U+5D84
+14
+zhǎn
+46.11
+嶄.mp3
+
+嶅
+['NONE']
+['NINGUNA']
+[]
+U+5D85
+13
+áo
+46.11
+嶅.mp3
+
+嶆
+['NONE']
+['NINGUNA']
+[]
+U+5D86
+14
+cáo
+46.11
+嶆.mp3
+
+嶇
+['steep, sheer', ' rugged, rough']
+['empinado, escarpado', 'rugoso']
+['https://media.gettyimages.com/photos/car-on-a-san-francisco-hill-picture-id87304325?k=6&m=87304325&s=612x612&w=0&h=bY8LlXfOmi1tLrkaqEjR1AnCSx9xUHuF85NTzdjjtyI=', 'https://media.gettyimages.com/photos/dark-concrete-picture-id184601291?k=6&m=184601291&s=612x612&w=0&h=YfwPw9jvfCzKxNUS_g1bwNiczgWJlx2_ADp9X1wfd_I=']
+U+5D87
+14
+qū
+46.11
+嶇.mp3
+
+嶈
+['NONE']
+['NINGUNA']
+[]
+U+5D88
+14
+qiāng
+46.11
+嶈.mp3
+
+嶉
+['NONE']
+['NINGUNA']
+[]
+U+5D89
+14
+cuī
+46.11
+嶉.mp3
+
+嶊
+['NONE']
+['NINGUNA']
+[]
+U+5D8A
+14
+zuǐ
+46.11
+嶊.mp3
+
+嶋
+['island']
+['isla']
+['https://media.gettyimages.com/photos/fiji-mamanuca-islands-beautiful-small-islet-picture-id640912574?k=6&m=640912574&s=612x612&w=0&h=cKTj9NYhKUhah9U99CdwuUOxP5AAG7b9Zc-IjeP_hY0=']
+U+5D8B
+14
+dǎo
+46.11
+嶋.mp3
+
+嶌
+['island']
+['isla']
+['https://media.gettyimages.com/photos/fiji-mamanuca-islands-beautiful-small-islet-picture-id640912574?k=6&m=640912574&s=612x612&w=0&h=cKTj9NYhKUhah9U99CdwuUOxP5AAG7b9Zc-IjeP_hY0=']
+U+5D8C
+14
+dǎo
+46.11
+嶌.mp3
+
+嶍
+['NONE']
+['NINGUNA']
+[]
+U+5D8D
+14
+xí
+46.11
+嶍.mp3
+
+嶎
+['luxuriant, elegant']
+['exuberante, elegante']
+['https://media.gettyimages.com/photos/yorkshire-terrier-dog-at-the-grooming-salon-picture-id1143736533?k=6&m=1143736533&s=612x612&w=0&h=tjPQTntSJhMme170T38IWRV5gbTWXc4b9U54q-uPpP8=']
+U+5D8E
+14
+yù
+46.11
+嶎.mp3
+
+嶏
+['NONE']
+['NINGUNA']
+[]
+U+5D8F
+15
+pèi
+46.12
+嶏.mp3
+
+嶐
+['NONE']
+['NINGUNA']
+[]
+U+5D90
+14
+lóng
+46.12
+嶐.mp3
+
+嶑
+['NONE']
+['NINGUNA']
+[]
+U+5D91
+14
+xiàng
+46.12
+嶑.mp3
+
+嶒
+['towering, lofty, steep']
+['altísimo, elevado, empinado']
+['https://media.gettyimages.com/photos/clouds-on-the-rocky-crest-of-santis-and-green-valley-seen-from-picture-id1027533526?k=6&m=1027533526&s=612x612&w=0&h=LSZCC28dWg0iV0YuePpjjYWT8ZBkjNcz1-Hd3U3VsMI=']
+U+5D92
+15
+céng
+46.12
+嶒.mp3
+
+嶓
+['Boshan, mountain in Shaanxi']
+['Boshan, montaña en Shaanxi']
+['https://media.gettyimages.com/photos/zigzag-mountain-road-with-light-trails-xian-china-picture-id1168292358?k=6&m=1168292358&s=612x612&w=0&h=oKiziSFhcvJrn5OPBFlL4yp_VF5QVtAHc6t25vvycJ4=']
+U+5D93
+15
+bō
+46.12
+嶓.mp3
+
+嶔
+['lofty, towering']
+['elevado']
+['https://media.gettyimages.com/photos/aerial-view-of-paraglider-over-mountain-range-picture-id678833571?k=6&m=678833571&s=612x612&w=0&h=C_zj4E5WACZN-qhw8s-zHjId9f0rAI6J27xhrvtzGwQ=']
+U+5D94
+15
+qīn
+46.12
+嶔.mp3
+
+嶕
+['NONE']
+['NINGUNA']
+[]
+U+5D95
+15
+jiāo
+46.12
+嶕.mp3
+
+嶖
+['NONE']
+['NINGUNA']
+[]
+U+5D96
+15
+yān
+46.12
+嶖.mp3
+
+嶗
+['Laoshan, mountain in Shandong']
+['l Okuyama, sacudidas del INS de montaña']
+['https://media.gettyimages.com/photos/overlooking-the-scenery-of-jiaozhou-bay-in-qingdao-shandong-province-picture-id1161368188?k=6&m=1161368188&s=612x612&w=0&h=nEb6d5C1ii3sYoJrOAjZNJzGoL6DheGE-wcqPiVufQw=']
+U+5D97
+15
+láo
+46.12
+嶗.mp3
+
+嶘
+['NONE']
+['NINGUNA']
+[]
+U+5D98
+15
+zhàn
+46.12
+嶘.mp3
+
+嶙
+['precipitous']
+['precipitado']
+['https://media.gettyimages.com/photos/car-on-a-san-francisco-hill-picture-id87304325?k=6&m=87304325&s=612x612&w=0&h=bY8LlXfOmi1tLrkaqEjR1AnCSx9xUHuF85NTzdjjtyI=']
+U+5D99
+15
+lín
+46.12
+嶙.mp3
+
+嶚
+['NONE']
+['NINGUNA']
+[]
+U+5D9A
+15
+liáo
+46.12
+嶚.mp3
+
+嶛
+['NONE']
+['NINGUNA']
+[]
+U+5D9B
+15
+liáo
+46.12
+嶛.mp3
+
+嶜
+['NONE']
+['NINGUNA']
+[]
+U+5D9C
+15
+jīn
+46.12
+嶜.mp3
+
+嶝
+['path leading up a mountain']
+['camino que conduce a una montaña']
+['https://media.gettyimages.com/photos/friends-giving-each-other-a-hand-in-the-mountains-picture-id687316164?k=6&m=687316164&s=612x612&w=0&h=WGkOcEC8uN9WDmrz_KQFazr6Sao5PNSGZVg8ldWTh08=']
+U+5D9D
+15
+dèng
+46.12
+嶝.mp3
+
+嶞
+['ridge']
+['cresta']
+['https://media.gettyimages.com/photos/mountaineers-walking-on-the-ridge-of-weissmies-switzerland-picture-id1051764096?k=6&m=1051764096&s=612x612&w=0&h=uei2GOJN_GXMISM5p-cLkZ1V0MTinWN-nNy3_z2bHLA=']
+U+5D9E
+14
+duò
+46.12
+嶞.mp3
+
+嶟
+['NONE']
+['NINGUNA']
+[]
+U+5D9F
+15
+zūn
+46.12
+嶟.mp3
+
+嶠
+['high pointed mountain']
+['montaña alta puntiaguda']
+['https://media.gettyimages.com/photos/germany-saxony-elbe-sandstone-mountains-friends-on-a-hiking-trip-on-picture-id970176442?k=6&m=970176442&s=612x612&w=0&h=awbPuTEeRd-Wz5WsMG_1piK58p8X-4AzhqS_8L8WH1Q=']
+U+5DA0
+15
+jiào
+46.12
+嶠.mp3
+
+嶡
+['table']
+['mesa']
+['https://media.gettyimages.com/photos/closeup-of-empty-table-picture-id1163934557?k=6&m=1163934557&s=612x612&w=0&h=WGqQbMuhcXrnsSmwTFF7lGw9PPbtuNVj-DpL8_mjuyY=']
+U+5DA1
+15
+guì
+46.12
+嶡.mp3
+
+嶢
+['high or tall']
+['alto o alto']
+['https://media.gettyimages.com/photos/side-view-studio-portrait-showing-contrasting-height-of-young-couple-picture-id507851307?k=6&m=507851307&s=612x612&w=0&h=h4U78EXVnffBaUqGGW7Rwu71CzH-zjHeGkm-Tb7yhYc=']
+U+5DA2
+15
+yáo
+46.12
+嶢.mp3
+
+嶣
+['NONE']
+['NINGUNA']
+[]
+U+5DA3
+15
+jiāo
+46.12
+嶣.mp3
+
+嶤
+['NONE']
+['NINGUNA']
+[]
+U+5DA4
+15
+yáo
+46.12
+嶤.mp3
+
+嶥
+['NONE']
+['NINGUNA']
+[]
+U+5DA5
+15
+jué
+46.12
+嶥.mp3
+
+嶦
+['NONE']
+['NINGUNA']
+[]
+U+5DA6
+16
+zhān
+46.13
+嶦.mp3
+
+嶧
+['a range of peaks in Shandong and Jiangsu', ' the name of a mountain']
+['una variedad de picos en Shandong y Jiangsu', 'el nombre de una montaña']
+['NONE', 'https://media.gettyimages.com/photos/big-ideas-lemonade-stand-picture-id1017294308?k=6&m=1017294308&s=612x612&w=0&h=jCL_v1STIi8uzm8EFjFXThQWn-BUYOH7vlRZ_J3afBU=']
+U+5DA7
+16
+yì
+46.13
+嶧.mp3
+
+嶨
+['big rocky mountain']
+['gran montaña rocosa']
+['https://media.gettyimages.com/photos/rocky-island-picture-id825223490?k=6&m=825223490&s=612x612&w=0&h=CAAiqiBQ5crzECpKtqZOL5Y-LtZYQdKcPZWX1AguxJg=']
+U+5DA8
+16
+xué
+46.13
+嶨.mp3
+
+嶩
+['NONE']
+['NINGUNA']
+[]
+U+5DA9
+16
+náo
+46.13
+嶩.mp3
+
+嶪
+['NONE']
+['NINGUNA']
+[]
+U+5DAA
+16
+yè
+46.13
+嶪.mp3
+
+嶫
+['NONE']
+['NINGUNA']
+[]
+U+5DAB
+16
+yè
+46.13
+嶫.mp3
+
+嶬
+['NONE']
+['NINGUNA']
+[]
+U+5DAC
+16
+yí
+46.13
+嶬.mp3
+
+嶭
+['elevated, lofty']
+['elevado']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=']
+U+5DAD
+16
+niè
+46.13
+嶭.mp3
+
+嶮
+['high, steep, precipitous']
+['alto, empinado, escarpado']
+['https://media.gettyimages.com/photos/woman-free-climbing-sheer-rock-face-high-up-at-sunrise-picture-id1083682910?k=6&m=1083682910&s=612x612&w=0&h=XrQ2G3SAEIIUFpO0ehuZMNtLDaEz4eBgzpnF-Pr10LA=']
+U+5DAE
+16
+xiǎn
+46.13
+嶮.mp3
+
+嶯
+['NONE']
+['NINGUNA']
+[]
+U+5DAF
+15
+jí
+46.13
+嶯.mp3
+
+嶰
+['gorge']
+['garganta']
+['https://media.gettyimages.com/photos/fjarrgljfur-picture-id615963500?k=6&m=615963500&s=612x612&w=0&h=CdrjrhwhMnSmErgKhX62gU6KDJsSGV9Nt6y8nxUAdOs=']
+U+5DB0
+16
+xiè
+46.13
+嶰.mp3
+
+嶱
+['NONE']
+['NINGUNA']
+[]
+U+5DB1
+15
+kě
+46.13
+嶱.mp3
+
+嶲
+['a name of an old town in Sichuan', ' cuckoo', ' revolution of a wheel']
+['un nombre de una ciudad vieja en Sichuan', 'cuco', 'revolución de una rueda']
+['NONE', 'https://media.gettyimages.com/photos/cuckoo-clock-closeup-picture-id79560980?k=6&m=79560980&s=612x612&w=0&h=4iEzz5Iwqesb5b7u2zHrSdstozVlPWr_FnHGUDy963M=', 'https://media.gettyimages.com/photos/electric-scooter-a-new-ways-of-transport-in-cities-picture-id1018369472?k=6&m=1018369472&s=612x612&w=0&h=q9nHFxk8uhYjn_CLcmwno0IZg36uT-i6C0AdL0OBS4Q=']
+U+5DB2
+15
+xī
+46.13
+嶲.mp3
+
+嶳
+['NONE']
+['NINGUNA']
+[]
+U+5DB3
+16
+dì
+46.13
+嶳.mp3
+
+嶴
+['island']
+['isla']
+['https://media.gettyimages.com/photos/fiji-mamanuca-islands-beautiful-small-islet-picture-id640912574?k=6&m=640912574&s=612x612&w=0&h=cKTj9NYhKUhah9U99CdwuUOxP5AAG7b9Zc-IjeP_hY0=']
+U+5DB4
+15
+ào
+46.13
+嶴.mp3
+
+嶵
+['NONE']
+['NINGUNA']
+[]
+U+5DB5
+16
+zuǐ
+46.13
+嶵.mp3
+
+嶶
+['NONE']
+['NINGUNA']
+[]
+U+5DB6
+16
+wēi
+46.13
+嶶.mp3
+
+嶷
+['a range of mountains in Hunan province']
+['una cadena de montañas en la provincia de Hunan']
+['https://media.gettyimages.com/photos/the-winding-road-of-tianmen-mountain-national-park-in-clouds-mist-picture-id1090681780?k=6&m=1090681780&s=612x612&w=0&h=5Ks3m6cm7U574BSIPuTqN1VzxocPhZ2lXVqKFSkx0Rw=']
+U+5DB7
+17
+yí
+46.14
+嶷.mp3
+
+嶸
+['high, steep', ' lofty, towering']
+['alto, empinado', 'elevado']
+['https://media.gettyimages.com/photos/woman-free-climbing-sheer-rock-face-high-up-at-sunrise-picture-id1083682910?k=6&m=1083682910&s=612x612&w=0&h=XrQ2G3SAEIIUFpO0ehuZMNtLDaEz4eBgzpnF-Pr10LA=', 'https://media.gettyimages.com/photos/aerial-view-of-paraglider-over-mountain-range-picture-id678833571?k=6&m=678833571&s=612x612&w=0&h=C_zj4E5WACZN-qhw8s-zHjId9f0rAI6J27xhrvtzGwQ=']
+U+5DB8
+17
+róng
+46.14
+嶸.mp3
+
+嶹
+['NONE']
+['NINGUNA']
+[]
+U+5DB9
+17
+dǎo
+46.14
+嶹.mp3
+
+嶺
+['mountain ridge, mountain peak']
+['cresta de la montaña, pico de la montaña']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=']
+U+5DBA
+17
+lǐng
+46.14
+嶺.mp3
+
+嶻
+['NONE']
+['NINGUNA']
+[]
+U+5DBB
+17
+jié
+46.16
+嶻.mp3
+
+嶼
+['island']
+['isla']
+['https://media.gettyimages.com/photos/fiji-mamanuca-islands-beautiful-small-islet-picture-id640912574?k=6&m=640912574&s=612x612&w=0&h=cKTj9NYhKUhah9U99CdwuUOxP5AAG7b9Zc-IjeP_hY0=']
+U+5DBC
+16
+yǔ
+46.14
+嶼.mp3
+
+嶽
+['mountain peak, summit']
+['pico de la montaña, cumbre']
+['https://media.gettyimages.com/photos/success-picture-id912928582?k=6&m=912928582&s=612x612&w=0&h=GCLKEbbQKhh17Z36oHO6mC6q-hHXnrFUVjXOsYzWNyw=']
+U+5DBD
+17
+yuè
+46.14
+嶽.mp3
+
+嶾
+['NONE']
+['NINGUNA']
+[]
+U+5DBE
+17
+yǐn
+46.14
+嶾.mp3
+
+嶿
+['NONE']
+['NINGUNA']
+[]
+U+5DBF
+17
+ru
+46.14
+嶿.mp3
+
+巀
+['NONE']
+['NINGUNA']
+[]
+U+5DC0
+18
+jié
+46.15
+巀.mp3
+
+巁
+['NONE']
+['NINGUNA']
+[]
+U+5DC1
+17
+lì
+46.15
+巁.mp3
+
+巂
+['place name']
+['ponga su nombre']
+['https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+5DC2
+18
+guī
+46.15
+巂.mp3
+
+巃
+['lofty']
+['elevado']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=']
+U+5DC3
+19
+lóng
+46.16
+巃.mp3
+
+巄
+['NONE']
+['NINGUNA']
+[]
+U+5DC4
+19
+lóng
+46.16
+巄.mp3
+
+巅
+['summit of mountain, mountain top']
+['cumbre de la montaña, cima de la montaña']
+['https://media.gettyimages.com/photos/men-sitting-on-the-top-of-mountain-and-looking-cityscape-picture-id1124644013?k=6&m=1124644013&s=612x612&w=0&h=37yTidqoIk2EqWVWCZpJcqV5KFYxPzXboiSxSo4rMKU=']
+U+5DC5
+19
+diān
+46.16
+巅.mp3
+
+巆
+['NONE']
+['NINGUNA']
+[]
+U+5DC6
+19
+róng
+46.17
+巆.mp3
+
+巇
+['a crack', ' hazardous']
+['una grieta', 'peligroso']
+['https://media.gettyimages.com/photos/stock-market-picture-id169975453?k=6&m=169975453&s=612x612&w=0&h=_4OUHYNMF8iM4A8LJYGFbpIIJZIVV9TOUltqoFBUhbI=', 'https://media.gettyimages.com/photos/toxic-substance-picture-id157529625?k=6&m=157529625&s=612x612&w=0&h=A6WC72CCa-2ki5aA5SBd9xqSUK_34mOSGP3KGpFqvhk=']
+U+5DC7
+20
+xī
+46.17
+巇.mp3
+
+巈
+['NONE']
+['NINGUNA']
+[]
+U+5DC8
+20
+jú
+46.17
+巈.mp3
+
+巉
+['steep, rugged, jagged, precipitous']
+['escarpado, accidentado, irregular, escarpado']
+['https://media.gettyimages.com/photos/closeup-of-cuillin-mountain-ridge-isle-of-skye-picture-id1019765248?k=6&m=1019765248&s=612x612&w=0&h=hThDgYld2KC3WKlPRnXvA9sZ2gskZoZSKR7Tk3ZJ5a4=']
+U+5DC9
+20
+chán
+46.17
+巉.mp3
+
+巊
+['NONE']
+['NINGUNA']
+[]
+U+5DCA
+20
+yǐng
+46.17
+巊.mp3
+
+巋
+['grand, stately', ' secure, lasting']
+['grandioso, majestuoso', 'seguro, duradero']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=', 'https://media.gettyimages.com/photos/connection-concepts-with-climbing-ropes-and-carabiners-picture-id1133638956?k=6&m=1133638956&s=612x612&w=0&h=O1LyG9Sg1o7wRuIm_sYhYyq2Ws4v5P_jsVTQr02GkKI=']
+U+5DCB
+21
+kuī
+46.17
+巋.mp3
+
+巌
+['cliff, precipice', ' cave, grotto']
+['acantilado, precipicio', 'cueva, gruta']
+['https://media.gettyimages.com/photos/aerial-view-of-coastline-in-hornstrandir-nature-reserve-iceland-picture-id890904492?k=6&m=890904492&s=612x612&w=0&h=SIEERLKi_hLbRUwc5QuBxx5OCBHRxbMtwN41bAnxbPQ=', 'https://media.gettyimages.com/photos/wierzchowska-gorna-cave-with-stalactites-and-stalagmites-in-poland-picture-id157721344?k=6&m=157721344&s=612x612&w=0&h=lPW7aUlryP9vvGzY2kszQo-QaC0HV7fRLkp6m8nx8yM=']
+U+5DCC
+19
+yán
+46.17
+巌.mp3
+
+巍
+['high, lofty, majestic, eminent']
+['alto, alto, majestuoso, eminente']
+['https://media.gettyimages.com/photos/switzerland-grosser-mythen-young-woman-on-a-hiking-trip-sitting-on-a-picture-id1090688076?k=6&m=1090688076&s=612x612&w=0&h=NnA_CnUTRvkAOcaNpNbxRk1cFYdFBQYKO3mcdlmLlX4=']
+U+5DCD
+20
+wēi
+46.18
+巍.mp3
+
+巎
+['NONE']
+['NINGUNA']
+[]
+U+5DCE
+22
+náo
+46.19
+巎.mp3
+
+巏
+['NONE']
+['NINGUNA']
+[]
+U+5DCF
+20
+quán
+46.18
+巏.mp3
+
+巐
+['NONE']
+['NINGUNA']
+[]
+U+5DD0
+21
+chǎo
+46.18
+巐.mp3
+
+巑
+['NONE']
+['NINGUNA']
+[]
+U+5DD1
+22
+cuán
+46.19
+巑.mp3
+
+巒
+['mountain range', ' pointed mountain']
+['cordillera', 'montaña puntiaguda']
+['https://media.gettyimages.com/photos/bayerische-alpen-picture-id950079458?k=6&m=950079458&s=612x612&w=0&h=qCVm7pJqUUNHuQGxBRbSQi4ztslRcosuW8KFte4Lvwo=', 'https://media.gettyimages.com/photos/going-on-an-outdoor-odyssey-picture-id544599372?k=6&m=544599372&s=612x612&w=0&h=XzX3eY4TtlBZmOte_FSoLivdYdKU5hLsynEf0nTktRI=']
+U+5DD2
+22
+luán
+46.19
+巒.mp3
+
+巓
+['summit of mountain']
+['cumbre de la montaña']
+['https://media.gettyimages.com/photos/success-picture-id912928582?k=6&m=912928582&s=612x612&w=0&h=GCLKEbbQKhh17Z36oHO6mC6q-hHXnrFUVjXOsYzWNyw=']
+U+5DD3
+22
+diān
+46.19
+巓.mp3
+
+巔
+['summit of mountain, mountain top']
+['cumbre de la montaña, cima de la montaña']
+['https://media.gettyimages.com/photos/men-sitting-on-the-top-of-mountain-and-looking-cityscape-picture-id1124644013?k=6&m=1124644013&s=612x612&w=0&h=37yTidqoIk2EqWVWCZpJcqV5KFYxPzXboiSxSo4rMKU=']
+U+5DD4
+22
+diān
+46.19
+巔.mp3
+
+巕
+['NONE']
+['NINGUNA']
+[]
+U+5DD5
+22
+niè
+46.19
+巕.mp3
+
+巖
+['cliff, precipice', ' cave, grotto']
+['acantilado, precipicio', 'cueva, gruta']
+['https://media.gettyimages.com/photos/aerial-view-of-coastline-in-hornstrandir-nature-reserve-iceland-picture-id890904492?k=6&m=890904492&s=612x612&w=0&h=SIEERLKi_hLbRUwc5QuBxx5OCBHRxbMtwN41bAnxbPQ=', 'https://media.gettyimages.com/photos/wierzchowska-gorna-cave-with-stalactites-and-stalagmites-in-poland-picture-id157721344?k=6&m=157721344&s=612x612&w=0&h=lPW7aUlryP9vvGzY2kszQo-QaC0HV7fRLkp6m8nx8yM=']
+U+5DD6
+22
+yán
+46.20
+巖.mp3
+
+巗
+['NONE']
+['NINGUNA']
+[]
+U+5DD7
+22
+yán
+46.19
+巗.mp3
+
+巘
+['summit, peak']
+['cumbre, pico']
+['https://media.gettyimages.com/photos/success-picture-id912928582?k=6&m=912928582&s=612x612&w=0&h=GCLKEbbQKhh17Z36oHO6mC6q-hHXnrFUVjXOsYzWNyw=']
+U+5DD8
+23
+yǎn
+46.20
+巘.mp3
+
+巙
+['NONE']
+['NINGUNA']
+[]
+U+5DD9
+24
+kuí
+46.20
+巙.mp3
+
+巚
+['NONE']
+['NINGUNA']
+[]
+U+5DDA
+23
+yǎn
+46.20
+巚.mp3
+
+巛
+['river', ' KangXi radical 47']
+['río', 'K 昂 ξ radical 47']
+['https://media.gettyimages.com/photos/mata-atlantica-atlantic-forest-in-brazil-picture-id935746242?k=6&m=935746242&s=612x612&w=0&h=tzTaZgFixIqpuBdEY9yfFmzcyAU-uM3xUKiGyLT4EIE=', 'NONE']
+U+5DDB
+3
+chuān
+47.0
+巛.mp3
+
+巜
+['NONE']
+['NINGUNA']
+[]
+U+5DDC
+2
+kuài
+47.-1
+巜.mp3
+
+川
+['stream, river', ' flow', ' boil']
+['arroyo, río', 'fluir', 'hervir']
+['https://media.gettyimages.com/photos/glacier-stream-in-thaiwaszozila-passjammu-and-kashmir-ladakh-region-picture-id1128044725?k=6&m=1128044725&s=612x612&w=0&h=BeeN9rOzKCRtqe64g-6cq3Rqaezn6IPkeaEJ3oTHa4I=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=', 'https://media.gettyimages.com/photos/water-boiling-on-a-gas-stove-stainless-pot-picture-id155146092?k=6&m=155146092&s=612x612&w=0&h=2Rv-w9nxjo4450lsXOeY9RqyazhvI015AwWGlUv6_ls=']
+U+5DDD
+3
+chuān
+47.0
+川.mp3
+
+州
+['administrative division, state']
+['división administrativa, estado']
+['NONE']
+U+5DDE
+6
+zhōu
+47.3
+州.mp3
+
+巟
+['a watery waste', ' to reach']
+['un desperdicio acuoso', 'alcanzar']
+['NONE', 'https://media.gettyimages.com/photos/photo-for-body-part-hand-picture-id911345354?k=6&m=911345354&s=612x612&w=0&h=6gikSrpHYjXrk4Hz3-UY2znNi5ym8oTi5g6mwPxZfII=']
+U+5DDF
+6
+huāng
+47.3
+巟.mp3
+
+巠
+['streams running underground', ' flowing water']
+['arroyos que corren bajo tierra', 'agua que fluye']
+['NONE', 'https://media.gettyimages.com/photos/light-reflecting-on-flowing-water-picture-id185264129?k=6&m=185264129&s=612x612&w=0&h=6YB1r_WraVWfxX6KbL_Rz00qzcDmJmtK0cgRMfhmTIw=']
+U+5DE0
+7
+jīng
+47.4
+巠.mp3
+
+巡
+['patrol, go on circuit, cruise']
+['patrulla, ir en circuito, crucero']
+['NONE']
+U+5DE1
+6
+xún
+162.3
+巡.mp3
+
+巢
+['nest, living quarter in tree']
+['nido, cuarto vivo en el árbol']
+['NONE']
+U+5DE2
+11
+cháo
+47.8
+巢.mp3
+
+巣
+['nest, living quarter in tree']
+['nido, cuarto vivo en el árbol']
+['NONE']
+U+5DE3
+11
+cháo
+47.8
+巣.mp3
+
+巤
+['a mane', ' bristles, as on a hog', ' dorsal fins']
+['Ese soy yo', 'cerdas, como en un cerdo', 'aletas dorsales']
+['https://media.gettyimages.com/photos/close-up-of-iceland-ponys-chestnut-ginger-mane-picture-id1151340304?k=6&m=1151340304&s=612x612&w=0&h=LP84lBlFQDDq2U1GQcCZ1qEo3igL9aAUp9aXjwlfp10=', 'NONE', 'https://media.gettyimages.com/photos/woman-riding-bicycle-picture-id103912354?k=6&m=103912354&s=612x612&w=0&h=ayUt0Y9FIyBLU6lRupR3oZbkT3zgmmKUh7l1OKD8X6s=']
+U+5DE4
+15
+liè
+47.12
+巤.mp3
+
+工
+['labor, work', ' worker, laborer']
+['trabajo laboral', 'trabajador, peón']
+['https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=', 'https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=']
+U+5DE5
+3
+gōng
+48.0
+工.mp3
+
+左
+['left', ' east', ' unorthodox, improper']
+['izquierda', 'este', 'poco ortodoxo, inadecuado']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=', 'https://media.gettyimages.com/photos/baklava-picture-id669566924?k=6&m=669566924&s=612x612&w=0&h=710hdBM53mDke7aLRJrFPjm68bkmlEH_SoEoOTMkLG4=', 'NONE']
+U+5DE6
+5
+zuǒ
+48.2
+左.mp3
+
+巧
+['skillful, ingenious, clever']
+['hábil, ingenioso, inteligente']
+['https://media.gettyimages.com/photos/female-industrial-worker-working-with-manufacturing-equipment-in-a-picture-id1129335362?k=6&m=1129335362&s=612x612&w=0&h=ZQSL5puLgdP3X1xk73IAno6VZ-Cf29Py_u93vwN3zXA=']
+U+5DE7
+5
+qiǎo
+48.2
+巧.mp3
+
+巨
+['large, great, enormous', ' chief']
+['grande, grande, enorme', 'jefe']
+['https://media.gettyimages.com/photos/aerial-view-of-surfer-surfing-waves-picture-id949272866?k=6&m=949272866&s=612x612&w=0&h=gPHcXR3VeTWH8OMdTOVtTK6XmXH5no4lLU68m_qfUT8=', 'https://media.gettyimages.com/photos/woman-using-her-smartphone-picture-id1179858772?k=6&m=1179858772&s=612x612&w=0&h=LHHFiSyAg_jBJQzl9eD-5QBLutvnUNUI8VFXq3aOKW4=']
+U+5DE8
+4
+jù
+48.2
+巨.mp3
+
+巩
+['bind', ' firm, secure, strong']
+['enlazar', 'firme, seguro, fuerte']
+['https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=', 'https://media.gettyimages.com/photos/businessman-relaxing-chair-surrounded-by-shards-of-glass-picture-id916191702?k=6&m=916191702&s=612x612&w=0&h=YyKjmGaexNqCFixpMaxk7OA4Lcnt86yrYGErBwRXwSo=']
+U+5DE9
+6
+gǒng
+48.3
+巩.mp3
+
+巪
+["person's name"]
+['nombre de persona']
+['https://media.gettyimages.com/photos/drone-image-directly-above-a-person-holding-a-red-umbrella-on-a-picture-id1166619125?k=6&m=1166619125&s=612x612&w=0&h=6UGTQVrxDv7JZIJ6NpkxbnrmoNkzCIpl3y9Vs8nx6Ug=']
+U+5DEA
+6
+jù
+48.3
+巪.mp3
+
+巫
+['wizard, sorcerer, witch, shaman']
+['mago, hechicero, bruja, chamán']
+['https://media.gettyimages.com/photos/man-with-wearing-a-hooded-coat-making-magic-for-halloween-picture-id857596682?k=6&m=857596682&s=612x612&w=0&h=gYQ27pKtQ-HpzxhqrmssVMe5kgL_cEI0uRem26yxG6s=']
+U+5DEB
+7
+wū
+48.4
+巫.mp3
+
+巬
+['NONE']
+['NINGUNA']
+[]
+U+5DEC
+9
+pu
+48.6
+巬.mp3
+
+巭
+['study']
+['estudiar']
+['https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=']
+U+5DED
+9
+pu
+48.6
+巭.mp3
+
+差
+['to differ', ' different, wrong', ' nearly, almost', ' an officer']
+['diferir', 'diferente, mal', 'casi, casi', 'Un oficial']
+['https://media.gettyimages.com/photos/please-stop-arguing-picture-id1060407278?k=6&m=1060407278&s=612x612&w=0&h=HPnnmaJ25TfCuqGLNoR_6cScWJ8EvsGODzXD-OpxKj0=', 'https://media.gettyimages.com/photos/singled-out-conceptual-still-life-picture-id1167704311?k=6&m=1167704311&s=612x612&w=0&h=nXnumWirRSJbG6BACWhWhuo3AdheasNufhwDwXcyJqg=', 'https://media.gettyimages.com/photos/full-frame-background-of-a-light-almost-white-carpet-viewed-from-picture-id1135836957?k=6&m=1135836957&s=612x612&w=0&h=p3eRPdFZHD8ReKohmNXJtRo9oi5Mx47xUHBZJbBKhfk=', 'https://media.gettyimages.com/photos/police-officers-picture-id468740573?k=6&m=468740573&s=612x612&w=0&h=hgc6NeIUQorTivcLbMO0oAE-7S2JCKyHFPqf4lQ-lA8=']
+U+5DEE
+9
+chà chā
+48.7
+差.mp3
+
+巯
+['an atom group']
+['un grupo de átomos']
+['https://media.gettyimages.com/photos/abstract-multicolored-spheres-on-pink-background-picture-id1141468849?k=6&m=1141468849&s=612x612&w=0&h=O6JYzC_Bpe-IGNaWXGNzSQxGsa9mzUhzf70kzWH14H4=']
+U+5DEF
+12
+qiú
+48.9
+巯.mp3
+
+巰
+['an atom group']
+['un grupo de átomos']
+['https://media.gettyimages.com/photos/abstract-multicolored-spheres-on-pink-background-picture-id1141468849?k=6&m=1141468849&s=612x612&w=0&h=O6JYzC_Bpe-IGNaWXGNzSQxGsa9mzUhzf70kzWH14H4=']
+U+5DF0
+14
+qiú
+48.10
+巰.mp3
+
+己
+['self, oneself', ' personal, private', ' 6th heavenly stem']
+['uno mismo', 'personal, privado', '6to tallo celestial']
+['https://media.gettyimages.com/photos/standing-out-from-the-crowd-picture-id1090812568?k=6&m=1090812568&s=612x612&w=0&h=0-sitnRQ0sANSvFyjs1-n5oGfVRJ-dNjVl4RA3fCFyc=', 'https://media.gettyimages.com/photos/crowd-walking-over-binary-code-picture-id1185884207?k=6&m=1185884207&s=612x612&w=0&h=HiugSOfFb2VDDlKh_5pS4fU4jlzxHRBX9ZJdhZD02cA=', 'NONE']
+U+5DF1
+3
+jǐ
+49.0
+己.mp3
+
+已
+['already', ' finished', ' stop']
+['ya', 'terminado', 'detener']
+['https://media.gettyimages.com/photos/my-hair-feels-healthier-and-stronger-already-picture-id1181653478?k=6&m=1181653478&s=612x612&w=0&h=AIMlWYr2ASMlMc75CnP1G7G17aBDuuD-us4hjCP89lM=', 'https://media.gettyimages.com/photos/blank-photo-paper-picture-id482708831?k=6&m=482708831&s=612x612&w=0&h=htkt4LstScuHxR6M-TTXPUUuyQp3eoHtgqpQPXak8Ok=', 'https://media.gettyimages.com/photos/stop-sign-with-clipping-path-picture-id172233405?k=6&m=172233405&s=612x612&w=0&h=dn9Q9zH6_kv-0DYtefGPHH_SYnxkNcNYRSyYE_fdA84=']
+U+5DF2
+3
+yǐ
+49.0
+已.mp3
+
+巳
+['the hours from 9 to 11', ' 6th terrestrial branch']
+['las horas de 9 a 11', '6ta rama terrestre']
+['NONE', 'https://media.gettyimages.com/photos/six-grasshoppers-eating-a-leaf-picture-id1254461422?k=6&m=1254461422&s=612x612&w=0&h=YKr9xDKSFnDntW0jScql7r-7y-HQtAON6mOehD6Q9s0=']
+U+5DF3
+3
+sì
+49.0
+巳.mp3
+
+巴
+['greatly desire, anxiously hope']
+['grande deseo, ansiosa esperanza']
+['NONE']
+U+5DF4
+4
+bā
+49.1
+巴.mp3
+
+巵
+['measuring cup', ' wine container']
+['taza medidora', 'contenedor de vino']
+['https://media.gettyimages.com/photos/flour-picture-id172192355?k=6&m=172192355&s=612x612&w=0&h=uyx9FcSCMMWdZIEnPMWjs5rpiCnCv9gw1gNuOjEI_u4=', 'https://media.gettyimages.com/photos/maintanence-worker-working-with-cargo-containers-picture-id835976500?k=6&m=835976500&s=612x612&w=0&h=c2wUYoem28qev4PuB3_5P3TQ_yBYXlvlzTb_GUjV2yI=']
+U+5DF5
+7
+zhī
+49.4
+巵.mp3
+
+巶
+['NONE']
+['NINGUNA']
+[]
+U+5DF6
+8
+zhāo
+49.5
+巶.mp3
+
+巷
+['alley, lane']
+['callejón, carril']
+['https://media.gettyimages.com/photos/empty-alley-amidst-buildings-in-city-picture-id1016840708?k=6&m=1016840708&s=612x612&w=0&h=2YG5vFnR4z3AZ0VdEYie6DGQybt0JaIm1tQgacNdKVs=']
+U+5DF7
+9
+xiàng
+49.6
+巷.mp3
+
+巸
+['NONE']
+['NINGUNA']
+[]
+U+5DF8
+10
+yí
+49.6
+巸.mp3
+
+巹
+['NONE']
+['NINGUNA']
+[]
+U+5DF9
+9
+jǐn
+49.6
+巹.mp3
+
+巺
+['5th of the 8 trigrams', ' South-east', ' mild, modest, obedient']
+['5to de los 8 trigramas', 'Sureste', 'suave, modesto, obediente']
+['NONE', 'https://media.gettyimages.com/photos/cooking-a-banh-xeo-at-a-street-market-vietnam-picture-id1184600842?k=6&m=1184600842&s=612x612&w=0&h=B1lj8XXpnh_ZX5UtsXVtikxOzFnQhiabeyx1HLSbHeI=', 'NONE']
+U+5DFA
+9
+xùn
+49.6
+巺.mp3
+
+巻
+['scroll', ' curl', ' make a comeback']
+['Desplazarse', 'rizo', 'hacer una reaparición']
+['https://media.gettyimages.com/photos/old-paper-picture-id165102644?k=6&m=165102644&s=612x612&w=0&h=TAHnCaac5YqVSRg_mLnRmWslV5ZAmHmWDYBuERROLVQ=', 'https://media.gettyimages.com/photos/portrait-of-laughing-young-woman-picture-id934877872?k=6&m=934877872&s=612x612&w=0&h=5OMH8hZFJxtBUlp9NMgxiuSdzQCnKwZf6Df9XC9HKug=', 'https://media.gettyimages.com/photos/josh-gibson-making-his-comeback-from-injury-marks-the-ball-during-a-picture-id452634828?k=6&m=452634828&s=612x612&w=0&h=lRN7p5DXxo5nIV9sVjK-bd8hb13ufROk2ck4TeamGP8=']
+U+5DFB
+9
+juàn
+49.6
+巻.mp3
+
+巼
+['place name']
+['ponga su nombre']
+['https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+5DFC
+10
+bā
+49.7
+巼.mp3
+
+巽
+['5th of the 8 trigrams', ' south-east', ' mild, modest, obedient']
+['5to de los 8 trigramas', 'Sureste', 'suave, modesto, obediente']
+['NONE', 'https://media.gettyimages.com/photos/cooking-a-banh-xeo-at-a-street-market-vietnam-picture-id1184600842?k=6&m=1184600842&s=612x612&w=0&h=B1lj8XXpnh_ZX5UtsXVtikxOzFnQhiabeyx1HLSbHeI=', 'NONE']
+U+5DFD
+12
+xùn
+49.9
+巽.mp3
+
+巾
+['kerchief', ' towel', ' turban', ' KangXi radical number 50']
+['pañuelo', 'toalla', 'turbante', 'K Ang ξ número radical 50']
+['https://media.gettyimages.com/photos/red-scarf-cut-out-on-white-picture-id113583618?k=6&m=113583618&s=612x612&w=0&h=ySbyfVGC4SVPb4piAonUhevPfO8WaRDMDmghy1Pu_kQ=', 'https://media.gettyimages.com/photos/bath-towels-picture-id184963233?k=6&m=184963233&s=612x612&w=0&h=0fn347jW3xr_p0o6Em_RVbz8Cuxu_X_Aep_mUlm2Gt8=', 'https://media.gettyimages.com/photos/indian-senior-man-picture-id125142915?k=6&m=125142915&s=612x612&w=0&h=mqv8FW09gJ7P5U-HAJKPN-sdbZfHEOS3cLFxg6nYye8=', 'NONE']
+U+5DFE
+3
+jīn
+50.0
+巾.mp3
+
+巿
+['revolve, make circuit, turn']
+['girar, hacer circuito, girar']
+['NONE']
+U+5DFF
+4
+fú
+50.1
+巿.mp3
+
+帀
+['to go round, to make a circuit, to make a revolution, to turn round']
+['dar la vuelta, hacer un circuito, hacer una revolución, dar la vuelta']
+['NONE']
+U+5E00
+4
+zā
+50.1
+帀.mp3
+
+币
+['currency, coins, legal tender']
+['moneda, monedas, curso legal']
+['https://media.gettyimages.com/photos/bullet-over-coins-picture-id567328887?k=6&m=567328887&s=612x612&w=0&h=LfAP3GnmsFyNes9Bn6TarCHcXIiliKq4P3gqgdq6sUo=']
+U+5E01
+4
+bì
+50.1
+币.mp3
+
+市
+['market, fair', ' city, town', ' trade']
+['mercado, feria', 'ciudad, pueblo', 'comercio']
+['https://media.gettyimages.com/photos/woman-buying-fruits-on-street-market-picture-id940279870?k=6&m=940279870&s=612x612&w=0&h=ta3kVY4AGoZHOnEN9nKK5V7APpOn_XBru4rLjz9QES8=', 'https://media.gettyimages.com/photos/aerial-view-of-a-new-residential-neighborhood-picture-id1070117618?k=6&m=1070117618&s=612x612&w=0&h=giSGAkCoe8iCVdRRzfn9HgoRwoxXdCuX-osLGC7b-fE=', 'https://media.gettyimages.com/photos/financial-stock-market-numbers-and-city-light-reflection-picture-id942696884?k=6&m=942696884&s=612x612&w=0&h=c0AhXJu-sgpUZmpKp28GyN1VbjhJDA-LxpcGRQzKvMU=']
+U+5E02
+5
+shì
+50.2
+市.mp3
+
+布
+['cotton cloth, textiles, linen']
+['tela de algodón, textiles, lino']
+['https://media.gettyimages.com/photos/full-frame-shot-of-textile-picture-id914593836?k=6&m=914593836&s=612x612&w=0&h=s6cO1IigQLPzWwPHAASHnBRTcmjoCuptSHf6GRb7nhU=']
+U+5E03
+5
+bù
+50.2
+布.mp3
+
+帄
+['NONE']
+['NINGUNA']
+[]
+U+5E04
+5
+dīng
+50.2
+帄.mp3
+
+帅
+['commander, commander-in-chief']
+['comandante, comandante en jefe']
+['https://media.gettyimages.com/photos/soldiers-salute-the-flag-at-sunset-picture-id98460911?k=6&m=98460911&s=612x612&w=0&h=jdN7nvG0NCNcmuyKgiWiqFPh6WPRM8mX6i_skyGLv_w=']
+U+5E05
+5
+shuài
+50.2
+帅.mp3
+
+帆
+['sail', ' boat']
+['vela', 'bote']
+['https://media.gettyimages.com/photos/sailing-with-sailboat-picture-id480615130?k=6&m=480615130&s=612x612&w=0&h=U9Fa9CgxD7_LzUo5L3rVqTyYoIvlARhMO3TjxpQ05Dg=', 'https://media.gettyimages.com/photos/from-the-front-picture-id1021092784?k=6&m=1021092784&s=612x612&w=0&h=i88D4JVsXOsLV8Auuj-cphDZIMdwusHkSKvYiB4ScWU=']
+U+5E06
+6
+fān fán
+50.3
+帆.mp3
+
+帇
+['NONE']
+['NINGUNA']
+[]
+U+5E07
+6
+niè
+50.3
+帇.mp3
+
+师
+['teacher, master, specialist']
+['maestro, maestro, especialista']
+['https://media.gettyimages.com/photos/japanese-tea-master-making-a-cup-of-traditional-matcha-tea-picture-id1152641648?k=6&m=1152641648&s=612x612&w=0&h=P4I69JzoY2n6U--gk_JsoA7xQWDT-TL5_NpMHWUplEM=']
+U+5E08
+6
+shī
+50.3
+师.mp3
+
+帉
+['NONE']
+['NINGUNA']
+[]
+U+5E09
+7
+fēn
+50.4
+帉.mp3
+
+帊
+['napkin, kerchief']
+['servilleta, pañuelo']
+['https://media.gettyimages.com/photos/mother-wiping-sons-mouth-after-lunch-at-dining-table-picture-id687775551?k=6&m=687775551&s=612x612&w=0&h=Q0CiLczerQhApC8b8TcOQbQu6oesTKpZjm2Qhsw-6ug=']
+U+5E0A
+7
+pà
+50.4
+帊.mp3
+
+帋
+['paper', ' stationary', ' document']
+['papel', 'estacionario', 'documento']
+['https://media.gettyimages.com/photos/full-frame-shot-of-white-paper-picture-id1152160886?k=6&m=1152160886&s=612x612&w=0&h=bKhejx7FlVvziJP_si7x8XcTzCd9IKiCbZFmEiHr-_U=', 'https://media.gettyimages.com/photos/office-supply-background-picture-id165835492?k=6&m=165835492&s=612x612&w=0&h=i6ir28gtldpc17UCLHs78GKPHy2GKlSIiEzDmjccXTY=', 'https://media.gettyimages.com/photos/combing-through-the-fine-print-picture-id889031464?k=6&m=889031464&s=612x612&w=0&h=dxqNpsfVu_od-WdRSTfewXki74RYkm6WrUNJdjpOKf4=']
+U+5E0B
+7
+zhǐ
+50.4
+帋.mp3
+
+希
+['rare', ' hope, expect, strive for']
+['raro', 'esperanza, espera, lucha por']
+['https://media.gettyimages.com/photos/polar-bear-on-ice-close-to-golden-glittering-water-picture-id182183614?k=6&m=182183614&s=612x612&w=0&h=ksG9GMtkBcBpvjl6ur4tr1Y9s07BovFfNEn__0tbYGE=', 'https://media.gettyimages.com/photos/balloon-flying-near-to-scissors-picture-id1190354278?k=6&m=1190354278&s=612x612&w=0&h=A-aJSObCMSI19BvKPbAzgvfqDWv7CmMrfJksxxDRCbU=']
+U+5E0C
+7
+xī
+50.4
+希.mp3
+
+帍
+['NONE']
+['NINGUNA']
+[]
+U+5E0D
+7
+hù
+50.4
+帍.mp3
+
+帎
+["(Cant.) a way of playing snooker with the stick on top of one's thumb"]
+['(Cant.) Una forma de jugar al billar con el palo en la parte superior del pulgar']
+['NONE']
+U+5E0E
+7
+dàn
+50.4
+帎.mp3
+
+帏
+['curtain that forms wall']
+['cortina que forma la pared']
+['NONE']
+U+5E0F
+7
+wéi
+50.4
+帏.mp3
+
+帐
+['tent', ' screen, mosquito net']
+['tienda', 'pantalla, mosquitera']
+['https://media.gettyimages.com/photos/yellow-dome-tent-with-open-zip-enclosure-picture-id142533334?k=6&m=142533334&s=612x612&w=0&h=kwahfmJ--HB0gMh2vJbybnW9MjBpbzrCegW4Wj1ApvQ=', 'https://media.gettyimages.com/photos/mosquito-screen-window-picture-id1165067912?k=6&m=1165067912&s=612x612&w=0&h=_ynYtz_bzCLB-kCpAvvBW_W3ldQxwwsB6tDirJU60OE=']
+U+5E10
+7
+zhàng
+50.4
+帐.mp3
+
+帑
+['a treasury', ' public funds']
+['un tesoro', 'fondos publicos']
+['https://media.gettyimages.com/photos/blank-government-check-picture-id118370564?k=6&m=118370564&s=612x612&w=0&h=lvNKcM4zPbBi4H8I2rKw8ejuZLrQcvC5gy2NdyxVNzQ=', 'https://media.gettyimages.com/photos/group-of-financial-professionals-analyzing-markets-picture-id897667680?k=6&m=897667680&s=612x612&w=0&h=8P4167bAB5CvfwudQBY96NMqiDiDq02kQAvihlzsBMY=']
+U+5E11
+8
+tǎng
+50.5
+帑.mp3
+
+帒
+['a bag, a sack', ' a case', ' a pocket, a pouch']
+['una bolsa, un saco', 'un caso', 'un bolsillo, una bolsa']
+['https://media.gettyimages.com/photos/burlap-sack-picture-id182036058?k=6&m=182036058&s=612x612&w=0&h=18DiODFg8VoN9Yje6oNQ2T3EKPwFmrxM8O9ZPras0uo=', 'https://media.gettyimages.com/photos/empty-attache-case-picture-id160477017?k=6&m=160477017&s=612x612&w=0&h=HD-3z1ISYjNBKiZL5BgMgRyc1LQbIhkTBe9OojFbsWM=', 'https://media.gettyimages.com/photos/texture-blue-plastic-bagbackground-picture-id1092636382?k=6&m=1092636382&s=612x612&w=0&h=7AcGX7n7vb_WLe4U71NcKpMaUo4649KK_p8hm9ZikJ8=']
+U+5E12
+8
+dài
+50.5
+帒.mp3
+
+帓
+['NONE']
+['NINGUNA']
+[]
+U+5E13
+8
+mò
+50.5
+帓.mp3
+
+帔
+['a skirt', ' long robe for women, having no sleeves and fasten down the front']
+['una falda', 'bata larga para mujer, sin mangas y abrochada en la parte delantera']
+['https://media.gettyimages.com/photos/young-pretty-fashioned-girl-picture-id1063674520?k=6&m=1063674520&s=612x612&w=0&h=SJPwoAmVES_jNkbjDJVDxsoGt8XIVh1a8cqiY5Rijbc=', 'NONE']
+U+5E14
+8
+pèi
+50.5
+帔.mp3
+
+帕
+['turban, kerchief, veil', ' wrap']
+['turbante, pañuelo, velo', 'envolver']
+['https://media.gettyimages.com/photos/confident-business-leader-picture-id981058284?k=6&m=981058284&s=612x612&w=0&h=cVhhmK0wI7gr_a2FIKjpIN1ZaLcdB4jC8m6ww5TnXgE=', 'https://media.gettyimages.com/photos/woman-wrapping-christmas-gifts-overhead-shot-picture-id1168265467?k=6&m=1168265467&s=612x612&w=0&h=uy5e3n6hh8yJYW-yMsnQiRPs4OB88eVPzXlzqaALr2Q=']
+U+5E15
+8
+pà
+50.5
+帕.mp3
+
+帖
+['invitation card', ' notice']
+['tarjeta de invitación', 'darse cuenta']
+['https://media.gettyimages.com/photos/isolated-shot-of-opened-antique-blank-paper-on-white-background-picture-id182917717?k=6&m=182917717&s=612x612&w=0&h=Qse4wmbIuWn7_SLZvVJzsBZM7TlhnYNPOmnn2WRf-ww=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+5E16
+8
+tiē
+50.5
+帖.mp3
+
+帗
+['a multicolored prop used in dancing']
+['un accesorio multicolor utilizado en el baile']
+['NONE']
+U+5E17
+8
+bō
+50.5
+帗.mp3
+
+帘
+['flag-sign of a tavern']
+['señal de bandera de una taberna']
+['NONE']
+U+5E18
+8
+lián
+50.5
+帘.mp3
+

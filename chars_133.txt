@@ -1,0 +1,2560 @@
+脙
+['NONE']
+['NINGUNA']
+[]
+U+8119
+11
+xiū
+130.7
+脙.mp3
+
+脚
+['leg, foot', ' base, leg, foundation']
+['pie pierna', 'base, pierna, fundación']
+['https://media.gettyimages.com/photos/personal-perspective-of-woman-relaxing-on-hammock-feet-view-picture-id910785546?k=6&m=910785546&s=612x612&w=0&h=iiOOxD2tVMWytYGCqvDMQ0Tg8rKHCyZ1y2laEmDwejI=', 'https://media.gettyimages.com/photos/two-workmen-one-on-ladder-other-holding-base-rear-view-picture-id200024696-001?k=6&m=200024696-001&s=612x612&w=0&h=9eFL7a7fdNs3P2MOQI1SSRfm2ZcXDOQKbMEizGgdkxE=']
+U+811A
+11
+jiǎo
+130.7
+脚.mp3
+
+脛
+['shinbone', ' calf of leg']
+['tibia', 'pantorrilla de pierna']
+['https://media.gettyimages.com/photos/normal-ankle-joint-xray-picture-id116758877?k=6&m=116758877&s=612x612&w=0&h=ANHnGtp12Psuc9VyKrmBO4bujYmVrhL-3XcZEqjTMdY=', 'https://media.gettyimages.com/photos/cramp-in-calf-picture-id184877506?k=6&m=184877506&s=612x612&w=0&h=oSabJpch0J4iAuHOxUx4r2EIvM7fy1Vsg2EPO7UyaVw=']
+U+811B
+11
+jìng
+130.7
+脛.mp3
+
+脜
+['NONE']
+['NINGUNA']
+[]
+U+811C
+11
+yǒu
+130.7
+脜.mp3
+
+脝
+['distend']
+['distender']
+['NONE']
+U+811D
+11
+hēng
+130.7
+脝.mp3
+
+脞
+['minced meat', ' trifles']
+['carne picada', 'bagatelas']
+['https://media.gettyimages.com/photos/sirloin-steaks-with-fresh-thyme-picture-id972852490?k=6&m=972852490&s=612x612&w=0&h=4XGgeXqPzKpCM1jHM8Gf6u-WDy_MgDU40Au_O1Yt3t0=', 'https://media.gettyimages.com/photos/trifle-dessert-picture-id186818692?k=6&m=186818692&s=612x612&w=0&h=d65uRv2yC9664CjrWi9-SVlRhWiwcA3UEgbN0rPYEJQ=']
+U+811E
+11
+cuǒ
+130.7
+脞.mp3
+
+脟
+['NONE']
+['NINGUNA']
+[]
+U+811F
+11
+liè
+130.7
+脟.mp3
+
+脠
+['NONE']
+['NINGUNA']
+[]
+U+8120
+10
+shān
+130.7
+脠.mp3
+
+脡
+['strips of dried meat, jerky', ' stiff and straight']
+['tiras de carne seca, cecina', 'rígido y recto']
+['NONE', 'https://media.gettyimages.com/illustrations/dancers-in-action-illustration-id165735833?k=6&m=165735833&s=612x612&w=0&h=31aydfmVRuTp43O8oZZrEM8uD_bmofSd3gJqLPFMmGI=']
+U+8121
+10
+tǐng
+130.7
+脡.mp3
+
+脢
+['flesh']
+['carne']
+['https://media.gettyimages.com/photos/take-care-of-it-picture-id1139791315?k=6&m=1139791315&s=612x612&w=0&h=rwBBfxcqqDlq9NyCbcUcAQmx1yt4xRiR1tz8HkYwF9k=']
+U+8122
+11
+méi
+130.7
+脢.mp3
+
+脣
+['lips']
+['labios']
+['https://media.gettyimages.com/photos/lips-eyes-comp-montage-picture-id815059920?k=6&m=815059920&s=612x612&w=0&h=tAOhZBvwlhfk4W5-Dn4DrcvfZXV12tXYIvPwe1aQIF0=']
+U+8123
+11
+chún
+130.7
+脣.mp3
+
+脤
+['raw meat for sacrifice']
+['carne cruda para sacrificio']
+['https://media.gettyimages.com/photos/the-people-cuts-meat-of-a-goat-picture-id1263611427?k=6&m=1263611427&s=612x612&w=0&h=IigS680_32prp0F1YJJJUqflKKiURAckoI-WtCtMX2k=']
+U+8124
+11
+shèn
+130.7
+脤.mp3
+
+脥
+['NONE']
+['NINGUNA']
+[]
+U+8125
+11
+qiǎn
+130.7
+脥.mp3
+
+脦
+["used in 'lede', slovenly"]
+["usado en 'lede', descuidado"]
+['https://media.gettyimages.com/vectors/black-grunge-texture-vector-id1023444086?k=6&m=1023444086&s=612x612&w=0&h=JbMjNRqV2bJ9ShOdZaOyPxil2gyWppWA5rfP1_Z1om8=']
+U+8126
+11
+de
+130.7
+脦.mp3
+
+脧
+['reduce, contract', ' exploit', ' reproductive organ of infant']
+['reducir, contraer', 'explotar', 'órgano reproductivo del lactante']
+['https://media.gettyimages.com/vectors/decline-flat-icon-vector-id835335276?k=6&m=835335276&s=612x612&w=0&h=QhRYmkVI_Ky7FTAoULL9wNufFXdtKi93ZCZVCDL2GP8=', 'https://media.gettyimages.com/photos/if-you-dont-control-your-business-someone-else-will-picture-id840512502?k=6&m=840512502&s=612x612&w=0&h=VHYSpB7K-FCLOdSuvjwE1NoAblzYOnw4IjEkh6Y45fw=', 'https://media.gettyimages.com/vectors/baby-and-newborn-line-icons-vector-id1094832484?k=6&m=1094832484&s=612x612&w=0&h=Pp8Q43accgzWLh0uAnTR9lpxRJPyLZDS9ULZq80L8nQ=']
+U+8127
+11
+juān
+130.7
+脧.mp3
+
+脨
+['NONE']
+['NINGUNA']
+[]
+U+8128
+11
+cù
+130.7
+脨.mp3
+
+脩
+['dried meat (used as teachers payment in ancient times)']
+['carne seca (utilizada como pago a los maestros en la antigüedad)']
+['NONE']
+U+8129
+10
+xiū
+130.7
+脩.mp3
+
+脪
+['erysipelas', ' sloughing of an ulcer']
+['erisipela', 'desprendimiento de una úlcera']
+['https://media.gettyimages.com/photos/old-engraved-illustration-of-butterfly-from-of-erysipelas-picture-id1248582112?k=6&m=1248582112&s=612x612&w=0&h=8pm6JdjcurK_TwYel-irQPWgpsN459nn0tDm-fGC-Zc=', 'NONE']
+U+812A
+11
+xìn
+130.7
+脪.mp3
+
+脫
+['take off, peel off, strip']
+['despegar, despegar, pelar']
+['https://media.gettyimages.com/photos/portrait-of-woman-peeling-off-pulling-off-her-charcoal-black-facial-picture-id1126729886?k=6&m=1126729886&s=612x612&w=0&h=AIOZpf-HOp5zIAFl6h5FgEmyLqn6-cY_31gCBrUVFCs=']
+U+812B
+11
+tuō
+130.7
+脫.mp3
+
+脬
+['a bladder']
+['una vejiga']
+['https://media.gettyimages.com/photos/having-issues-down-there-picture-id1041085098?k=6&m=1041085098&s=612x612&w=0&h=56XKpXMXXBmZRvlnEwF45zMaZpIYwD4LT_Uf8hUD4Cs=']
+U+812C
+11
+pāo
+130.7
+脬.mp3
+
+脭
+['NONE']
+['NINGUNA']
+[]
+U+812D
+11
+chéng
+130.7
+脭.mp3
+
+脮
+['NONE']
+['NINGUNA']
+[]
+U+812E
+11
+něi
+130.7
+脮.mp3
+
+脯
+['dried meat', ' preserved fruits']
+['carne seca', 'frutas en conserva']
+['https://media.gettyimages.com/photos/hand-showing-spicy-seasoning-with-a-piece-of-raw-pork-picture-id485478500?k=6&m=485478500&s=612x612&w=0&h=RqeBS22QXGyNiu7bCVyfvAuEoFEM80lfWJrK6TWBTTs=', 'https://media.gettyimages.com/photos/canning-jars-of-canned-pickled-vegetable-food-preserved-for-storage-picture-id184119226?k=6&m=184119226&s=612x612&w=0&h=kUnN7J5KTalF0arv23CAE3Y3VMPwvB77um3DiuSKdek=']
+U+812F
+11
+pú
+130.7
+脯.mp3
+
+脰
+['the neck']
+['el cuello']
+['https://media.gettyimages.com/photos/beauty-redefined-picture-id968868620?k=6&m=968868620&s=612x612&w=0&h=1DJsdQ2vgCed9RtN2i2UbLnKv86Sf-rFVDO-7Eguyg4=']
+U+8130
+11
+dòu
+130.7
+脰.mp3
+
+脱
+['take off']
+['quitarse']
+['https://media.gettyimages.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=6&m=155439315&s=612x612&w=0&h=1bPal14stPAXKODdCMHMUWCVheYPVHXl4iyHDCh2Ndk=']
+U+8131
+11
+tuō
+130.7
+脱.mp3
+
+脲
+['urea']
+['urea']
+['https://media.gettyimages.com/photos/farmer-spreading-fertilizer-in-the-field-wheat-picture-id503646746?k=6&m=503646746&s=612x612&w=0&h=FAnZHcYrcp7o5gGOPqiXVM6DrwQRhnIzMM4np32lqr0=']
+U+8132
+11
+niào
+130.7
+脲.mp3
+
+脳
+['brain']
+['cerebro']
+['https://media.gettyimages.com/vectors/human-brain-icons-vector-illustration-vector-id1156135751?k=6&m=1156135751&s=612x612&w=0&h=kUVgqfXo2Y2CQ0mJugBhCoqZ3fv9QC6sn7zcvHbb9WY=']
+U+8133
+11
+nǎo
+130.7
+脳.mp3
+
+脴
+['NONE']
+['NINGUNA']
+[]
+U+8134
+11
+pǐ
+130.7
+脴.mp3
+
+脵
+['thighs, haunches, rump', ' share']
+['muslos, ancas, rabadilla', 'compartir']
+['NONE', 'https://media.gettyimages.com/vectors/charitable-giving-line-icons-editable-stroke-vector-id1124327938?k=6&m=1124327938&s=612x612&w=0&h=ua_6p_CjZzL2BmfKqTGAqL3lxJv5825ZDjtCYPPDEq8=']
+U+8135
+11
+gǔ
+130.7
+脵.mp3
+
+脶
+['lines']
+['líneas']
+['https://media.gettyimages.com/vectors/abstract-gradient-background-of-black-and-white-parallel-vertical-vector-id985915244?k=6&m=985915244&s=612x612&w=0&h=2LgHz9I9RcbxOwxFs3bJMBtCZvUfbKg9Q4_suJjx-NY=']
+U+8136
+11
+luó
+130.7
+脶.mp3
+
+脷
+['(Cant.) tongue']
+['(Cant.) Lengua']
+['https://media.gettyimages.com/photos/the-fine-sample-of-mans-best-friend-sticks-out-his-tongue-but-it-cant-picture-id502835309?k=6&m=502835309&s=612x612&w=0&h=EIoN7IFT8eMrzX_metWw4F12xypAdgKn9lky4DkO9oI=']
+U+8137
+11
+lì
+130.7
+脷.mp3
+
+脸
+['face', ' cheek', ' reputation']
+['cara', 'mejilla', 'reputación']
+['https://media.gettyimages.com/photos/serene-beauty-picture-id1083617440?k=6&m=1083617440&s=612x612&w=0&h=wLq7N87zwUamnN1g1BebCxYdt3BVU8bhEyCSymDFyFI=', 'https://media.gettyimages.com/photos/cheeky-picture-id472050857?k=6&m=472050857&s=612x612&w=0&h=2xp9VK75iNFuM4wnC6jLO0dM9HQDOerhuIgyKwm684Y=', 'https://media.gettyimages.com/vectors/winning-success-and-achievement-vector-icons-vector-id487166882?k=6&m=487166882&s=612x612&w=0&h=UOyR99LIkseZEF39jehsZ6f2XeRh7Inh-5byIR4dstE=']
+U+8138
+11
+liǎn
+130.7
+脸.mp3
+
+脹
+['swell, inflate, expand']
+['hinchar, inflar, expandir']
+['https://media.gettyimages.com/photos/scientist-blowing-up-weather-balloon-with-air-picture-id82770199?k=6&m=82770199&s=612x612&w=0&h=wJzSKQ5u9a59y-jac7oL9D7JzrmqdQEZeFLYogunpQY=']
+U+8139
+12
+zhàng
+130.8
+脹.mp3
+
+脺
+['NONE']
+['NINGUNA']
+[]
+U+813A
+12
+cuì
+130.8
+脺.mp3
+
+脻
+['NONE']
+['NINGUNA']
+[]
+U+813B
+12
+jiē
+130.8
+脻.mp3
+
+脼
+['NONE']
+['NINGUNA']
+[]
+U+813C
+12
+liǎng
+130.8
+脼.mp3
+
+脽
+["(Cant.) a child's penis"]
+['(Cant.) El pene de un niño']
+['NONE']
+U+813D
+12
+shuí
+130.8
+脽.mp3
+
+脾
+['spleen, pancreas', ' disposition']
+['bazo, páncreas', 'disposición']
+['https://media.gettyimages.com/vectors/human-internal-organs-icon-set-vector-id907974722?k=6&m=907974722&s=612x612&w=0&h=Arv45vpV6x9EkBMC2yGbVANa-c_tQ52-Vq_szYI3OpQ=', 'https://media.gettyimages.com/photos/dress-up-picture-id1162832854?k=6&m=1162832854&s=612x612&w=0&h=N8BzewXZlIW4bJpI4yRfhZq9H5tqYj5bWVyxHSTeFTg=']
+U+813E
+12
+pí
+130.8
+脾.mp3
+
+脿
+['NONE']
+['NINGUNA']
+[]
+U+813F
+12
+biāo
+130.8
+脿.mp3
+
+腀
+['NONE']
+['NINGUNA']
+[]
+U+8140
+12
+lún
+130.8
+腀.mp3
+
+腁
+['callus']
+['callo']
+['https://media.gettyimages.com/photos/australian-swimmer-ashley-callus-pictured-after-the-australia-relay-picture-id696086299?k=6&m=696086299&s=612x612&w=0&h=rDoWoQGFb8KQhQke_q9Bcw9C-NqrFdwdcML2OFStJVI=']
+U+8141
+12
+pián
+130.8
+腁.mp3
+
+腂
+['NONE']
+['NINGUNA']
+[]
+U+8142
+12
+lěi
+130.8
+腂.mp3
+
+腃
+['NONE']
+['NINGUNA']
+[]
+U+8143
+12
+kuì
+130.8
+腃.mp3
+
+腄
+['NONE']
+['NINGUNA']
+[]
+U+8144
+12
+chuí
+130.8
+腄.mp3
+
+腅
+['NONE']
+['NINGUNA']
+[]
+U+8145
+12
+dàn
+130.8
+腅.mp3
+
+腆
+['prosperous', ' good', ' protruding']
+['próspero', 'bueno', 'saliente']
+['https://media.gettyimages.com/photos/woman-with-coins-in-hand-with-purse-picture-id1044967460?k=6&m=1044967460&s=612x612&w=0&h=JntBTAoOg_d9mnVzJDpp1lHzQTPHHBzTiOMc__FCNIc=', 'https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=', 'https://media.gettyimages.com/photos/white-tulip-in-a-red-field-picture-id953888530?k=6&m=953888530&s=612x612&w=0&h=Fye-LPEzTLbh8AZTxX4d6ci-Rp7ewuynB32EUINkkLY=']
+U+8146
+12
+tiǎn
+130.8
+腆.mp3
+
+腇
+['NONE']
+['NINGUNA']
+[]
+U+8147
+12
+něi
+130.8
+腇.mp3
+
+腈
+['an organic compound']
+['un compuesto orgánico']
+['https://media.gettyimages.com/photos/hardboiled-egg-halves-picture-id1190419548?k=6&m=1190419548&s=612x612&w=0&h=3sTZBdAltzZHHID4UX542n8tPM0zjHIgNIPDysXBaU0=']
+U+8148
+12
+jīng
+130.8
+腈.mp3
+
+腉
+['nipple, pap']
+['pezón, pap']
+['NONE']
+U+8149
+12
+nái
+130.8
+腉.mp3
+
+腊
+['year end sacrifice', ' dried meat']
+['sacrificio de fin de año', 'carne seca']
+['NONE', 'https://media.gettyimages.com/photos/hand-showing-spicy-seasoning-with-a-piece-of-raw-pork-picture-id485478500?k=6&m=485478500&s=612x612&w=0&h=RqeBS22QXGyNiu7bCVyfvAuEoFEM80lfWJrK6TWBTTs=']
+U+814A
+12
+là
+130.8
+腊.mp3
+
+腋
+['armpit']
+['axila']
+['https://media.gettyimages.com/photos/feeling-and-smelling-fresh-picture-id1141996550?k=6&m=1141996550&s=612x612&w=0&h=NNRUJ-qagDuGZpKq32dYuKeV6FqJbDenc8sInhuN3zo=']
+U+814B
+12
+yè
+130.8
+腋.mp3
+
+腌
+['salt, pickle', ' be dirty']
+['sal, pepinillo', 'estar sucio']
+['https://media.gettyimages.com/photos/fermented-carrots-in-preserving-jar-picture-id681908213?k=6&m=681908213&s=612x612&w=0&h=ZKq1fO-yGkQZSuJJhkTbjOi4Qo-ESwOykN32jaVGZy0=', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+814C
+12
+yān
+130.8
+腌.mp3
+
+腍
+['soft']
+['suave']
+['https://media.gettyimages.com/photos/pink-silk-background-picture-id175398143?k=6&m=175398143&s=612x612&w=0&h=WU0hHedKq7AP6yzLWzgBegp4cQfv3rm0sNcHw-pp_14=']
+U+814D
+12
+rèn
+130.8
+腍.mp3
+
+腎
+['kidneys', ' testes, gizzard']
+['riñones', 'pruebas, molleja']
+['https://media.gettyimages.com/photos/normal-metal-kidney-picture-id1006988296?k=6&m=1006988296&s=612x612&w=0&h=ZfjYrsUTl-q11yNUYJPd7uCxk7xu9Ap-3EdyDe33tMU=', 'NONE']
+U+814E
+12
+shèn
+130.8
+腎.mp3
+
+腏
+['NONE']
+['NINGUNA']
+[]
+U+814F
+12
+chuò
+130.8
+腏.mp3
+
+腐
+['rot, decay, spoil', ' rotten']
+['pudrición, descomposición, estropear', 'podrido']
+['https://media.gettyimages.com/photos/old-wall-texture-picture-id182670278?k=6&m=182670278&s=612x612&w=0&h=cbGOnhe7ZqAzYI3aNh0CQItFUOZdep_3-X5roN413bE=', 'https://media.gettyimages.com/photos/bad-apple-picture-id157309232?k=6&m=157309232&s=612x612&w=0&h=mgaYOOq-618s8B7yU4AMo9ZSp_DHcXrkfTsLUNlb7vY=']
+U+8150
+14
+fǔ
+130.8
+腐.mp3
+
+腑
+['bowels, entrails, internal organs']
+['intestinos, entrañas, órganos internos']
+['https://media.gettyimages.com/illustrations/medical-illustration-of-anatomy-entrails-stomach-intestines-1897-illustration-id1185891030?k=6&m=1185891030&s=612x612&w=0&h=IVS8ajycSWWrv_Ox80wS2bVE1KdZv6GGO6HX6b5LLaI=']
+U+8151
+12
+fǔ
+130.8
+腑.mp3
+
+腒
+['game']
+['juego']
+['https://media.gettyimages.com/vectors/video-game-line-icons-vector-id825457152?k=6&m=825457152&s=612x612&w=0&h=7X_AzYg-CVmT9hcjGBRSoYJU3WF_f6Q8Knb3ep795Xg=']
+U+8152
+12
+jū
+130.8
+腒.mp3
+
+腓
+['calf', ' avoid', ' be ill', ' wither']
+['becerro', 'evitar', 'estar enfermo', 'marchitar']
+['https://media.gettyimages.com/photos/hereford-calf-on-white-background-looking-at-camera-picture-id155004548?k=6&m=155004548&s=612x612&w=0&h=YtbU5TgzLvRpqUxnQPDOT-WglqNlUUvlOhF_7r42UfQ=', 'https://media.gettyimages.com/photos/businesswoman-with-protective-gloves-and-face-mask-at-office-picture-id1227207229?k=6&m=1227207229&s=612x612&w=0&h=VnQwRWMObGzJQ67QZU8OqahE_y6OEOjciUrdvXL3h4A=', 'https://media.gettyimages.com/photos/sick-woman-blowing-her-nose-she-covered-with-blanket-picture-id1135175362?k=6&m=1135175362&s=612x612&w=0&h=Nke1Q193RMRqF2sma8hUym_Ou662E891V8vFu17PAoc=', 'https://media.gettyimages.com/vectors/transparent-leaf-vector-id165660688?k=6&m=165660688&s=612x612&w=0&h=h4IgVYzKL7AmjNycJTTgMKrnkggsMSXEFI9L6w8Og4U=']
+U+8153
+12
+féi
+130.8
+腓.mp3
+
+腔
+['chest cavity', ' hollow in body']
+['cavidad torácica', 'hueco en el cuerpo']
+['https://media.gettyimages.com/photos/mature-woman-having-her-teeth-checked-by-dentist-picture-id574878369?k=6&m=574878369&s=612x612&w=0&h=LgJKqxiDrHJWoOsvDq9uWLonbhBrArXMuNEGv4TtgBs=', 'https://media.gettyimages.com/photos/macro-ear-of-a-child-xxxl-picture-id185265962?k=6&m=185265962&s=612x612&w=0&h=ckAjvlblYwOhEqXq8KdlB79JoWE2X8deF5QMLAIcZsM=']
+U+8154
+12
+qiāng
+130.8
+腔.mp3
+
+腕
+['wrist']
+['muñeca']
+['https://media.gettyimages.com/photos/financial-trading-data-shown-on-smart-watch-on-human-hand-against-picture-id949389590?k=6&m=949389590&s=612x612&w=0&h=4Uwuq2ogV0NmaIAe1orlxBpeoETRh_Dx05AyEaMbbok=']
+U+8155
+12
+wàn
+130.8
+腕.mp3
+
+腖
+['peptone']
+['peptona']
+['NONE']
+U+8156
+12
+dòng
+130.8
+腖.mp3
+
+腗
+['NONE']
+['NINGUNA']
+[]
+U+8157
+12
+pí
+130.8
+腗.mp3
+
+腘
+['NONE']
+['NINGUNA']
+[]
+U+8158
+12
+guó
+130.8
+腘.mp3
+
+腙
+['an organic compound']
+['un compuesto orgánico']
+['https://media.gettyimages.com/photos/hardboiled-egg-halves-picture-id1190419548?k=6&m=1190419548&s=612x612&w=0&h=3sTZBdAltzZHHID4UX542n8tPM0zjHIgNIPDysXBaU0=']
+U+8159
+12
+zōng
+130.8
+腙.mp3
+
+腚
+['buttock']
+['nalga']
+['https://media.gettyimages.com/photos/she-stays-in-shape-picture-id912928426?k=6&m=912928426&s=612x612&w=0&h=3ZyiPlyr5-0jDMCfv_Z52qEJ-Je-iElkaoTHtGc6rkI=']
+U+815A
+12
+dìng
+130.8
+腚.mp3
+
+腛
+['NONE']
+['NINGUNA']
+[]
+U+815B
+13
+wò
+130.9
+腛.mp3
+
+腜
+['quickening of the foetus']
+['aceleración del feto']
+['https://media.gettyimages.com/photos/embryo-floating-in-sphere-in-cyberspace-picture-id758285651?k=6&m=758285651&s=612x612&w=0&h=HWwn7lpR17RsXoly1rnobaACgmR0ufJyjmUay18v_Jw=']
+U+815C
+13
+méi
+130.9
+腜.mp3
+
+腝
+['NONE']
+['NINGUNA']
+[]
+U+815D
+13
+ní
+130.9
+腝.mp3
+
+腞
+['NONE']
+['NINGUNA']
+[]
+U+815E
+13
+zhuàn
+130.9
+腞.mp3
+
+腟
+['vagina']
+['vagina']
+['https://media.gettyimages.com/photos/having-issues-down-there-picture-id1041085098?k=6&m=1041085098&s=612x612&w=0&h=56XKpXMXXBmZRvlnEwF45zMaZpIYwD4LT_Uf8hUD4Cs=']
+U+815F
+13
+chì
+130.9
+腟.mp3
+
+腠
+['between the skin and the flesh']
+['entre la piel y la carne']
+['https://media.gettyimages.com/photos/take-care-of-it-picture-id1139791315?k=6&m=1139791315&s=612x612&w=0&h=rwBBfxcqqDlq9NyCbcUcAQmx1yt4xRiR1tz8HkYwF9k=']
+U+8160
+13
+còu
+130.9
+腠.mp3
+
+腡
+['lines']
+['líneas']
+['https://media.gettyimages.com/vectors/abstract-gradient-background-of-black-and-white-parallel-vertical-vector-id985915244?k=6&m=985915244&s=612x612&w=0&h=2LgHz9I9RcbxOwxFs3bJMBtCZvUfbKg9Q4_suJjx-NY=']
+U+8161
+12
+luó
+130.9
+腡.mp3
+
+腢
+['the collar-bone']
+['la clavícula']
+['https://media.gettyimages.com/photos/womans-lower-face-neck-and-bare-upper-chest-picture-id56093706?k=6&m=56093706&s=612x612&w=0&h=MJOHa41_m9vJbtjU43pZxuHyCfpWeRuhYljRj6t9hyw=']
+U+8162
+13
+ǒu
+130.9
+腢.mp3
+
+腣
+['NONE']
+['NINGUNA']
+[]
+U+8163
+13
+dì
+130.9
+腣.mp3
+
+腤
+['NONE']
+['NINGUNA']
+[]
+U+8164
+13
+ān
+130.9
+腤.mp3
+
+腥
+['raw meat', ' rank, strong-smelling']
+['carne cruda', 'rancio, de olor fuerte']
+['https://media.gettyimages.com/photos/prime-boneless-hip-sirloin-steak-picture-id171359079?k=6&m=171359079&s=612x612&w=0&h=WRAvE017NJFt5AQumCE1_4OG9Jjdqur8wQ7rmhuuCDU=', 'NONE']
+U+8165
+13
+xīng
+130.9
+腥.mp3
+
+腦
+['brain']
+['cerebro']
+['https://media.gettyimages.com/vectors/human-brain-icons-vector-illustration-vector-id1156135751?k=6&m=1156135751&s=612x612&w=0&h=kUVgqfXo2Y2CQ0mJugBhCoqZ3fv9QC6sn7zcvHbb9WY=']
+U+8166
+13
+nǎo
+130.9
+腦.mp3
+
+腧
+['insertion point in acupuncture', ' acupoint']
+['punto de inserción en acupuntura', 'acupuntura']
+['NONE', 'https://media.gettyimages.com/photos/woman-having-acupuncture-therapy-on-her-face-picture-id93034853?k=6&m=93034853&s=612x612&w=0&h=iogk-rbIIlIGaUU1LImhbelN3jVcA9dEKQHNtilGBQ8=']
+U+8167
+13
+shù
+130.9
+腧.mp3
+
+腨
+['NONE']
+['NINGUNA']
+[]
+U+8168
+13
+shuàn
+130.9
+腨.mp3
+
+腩
+["(Cant.) fatty meat on a cow's belly", ' abdomen', ' to boil meat']
+['(Can.) Carne grasa en el vientre de una vaca', 'abdomen', 'hervir carne']
+['NONE', 'https://media.gettyimages.com/photos/you-gotta-show-love-to-your-body-picture-id1149503683?k=6&m=1149503683&s=612x612&w=0&h=vXbBAZEyABhvryTfE5yHQXkE6n5mAYy5ensflMM3N2w=', 'https://media.gettyimages.com/photos/vegetable-broth-in-a-half-of-saucepan-picture-id931347586?k=6&m=931347586&s=612x612&w=0&h=k5wcmOAaOovof3Gi5H0joBBCXJJ1LAB2oDvu_qvdbAA=']
+U+8169
+13
+nǎn
+130.9
+腩.mp3
+
+腪
+['NONE']
+['NINGUNA']
+[]
+U+816A
+13
+yùn
+130.9
+腪.mp3
+
+腫
+['swell', ' swollen', ' swelling']
+['hinchar', 'hinchado', 'hinchazón']
+['https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=', 'https://media.gettyimages.com/photos/gout-picture-id185206944?k=6&m=185206944&s=612x612&w=0&h=KLMu0rXYJ7YpD6IaHNL9E32KClSIkNrPrxVMfo1cDts=', 'https://media.gettyimages.com/photos/gout-picture-id185206944?k=6&m=185206944&s=612x612&w=0&h=KLMu0rXYJ7YpD6IaHNL9E32KClSIkNrPrxVMfo1cDts=']
+U+816B
+13
+zhǒng
+130.9
+腫.mp3
+
+腬
+['(Cant.) greasy, oily']
+['(Cant.) Grasoso, aceitoso']
+['NONE']
+U+816C
+13
+róu
+130.9
+腬.mp3
+
+腭
+['palate, roof of mouth']
+['paladar, paladar']
+['https://media.gettyimages.com/illustrations/mouth-wide-open-illustration-id72196911?k=6&m=72196911&s=612x612&w=0&h=-8TG420L2uwN4aqITjmjuccFD0yTHBf6J4XkPVEIvZ8=']
+U+816D
+13
+è
+130.9
+腭.mp3
+
+腮
+['lower part of face', ' jaw', ' gills of a fish']
+['parte inferior de la cara', 'mandíbula', 'branquias de un pez']
+['https://media.gettyimages.com/photos/who-do-you-have-in-your-business-circle-picture-id1133819263?k=6&m=1133819263&s=612x612&w=0&h=ZDoAq9WOECb-Jo-IX8KGQvsR_1ryzojL34ZUCJctSHM=', 'https://media.gettyimages.com/vectors/vector-shark-silhouette-vector-id1050741574?k=6&m=1050741574&s=612x612&w=0&h=J9BkmTFdialP4mCENt-a9WwR6F0tyVUXcbACZfNgQD0=', 'https://media.gettyimages.com/photos/head-of-large-fish-giant-grouper-brown-spotted-cod-picture-id1153386423?k=6&m=1153386423&s=612x612&w=0&h=QC4om21bnbqjdBvno6Lgg9VEH04sq6oVK5iompjSTu0=']
+U+816E
+13
+sāi
+130.9
+腮.mp3
+
+腯
+['strong']
+['fuerte']
+['https://media.gettyimages.com/photos/am-a-strong-woman-picture-id614012698?k=6&m=614012698&s=612x612&w=0&h=xkVq4YsfXEfueSpYst5_pJjnZGOWXUrYIMzntFUIIoo=']
+U+816F
+13
+tú
+130.9
+腯.mp3
+
+腰
+['waist', ' kidney']
+['cintura', 'riñón']
+['https://media.gettyimages.com/photos/you-can-get-the-same-results-picture-id639710470?k=6&m=639710470&s=612x612&w=0&h=jQ3JK1lczswYTKZu7DDG_Fv9GOW8-El-Srw5J0jFTrQ=', 'https://media.gettyimages.com/photos/normal-metal-kidney-picture-id1006988296?k=6&m=1006988296&s=612x612&w=0&h=ZfjYrsUTl-q11yNUYJPd7uCxk7xu9Ap-3EdyDe33tMU=']
+U+8170
+13
+yāo
+130.9
+腰.mp3
+
+腱
+['tendons']
+['tendones']
+['https://media.gettyimages.com/photos/pain-in-achilles-tendon-picture-id184840231?k=6&m=184840231&s=612x612&w=0&h=rSdRrbWxfoSnWjesP816LoeItHo5S31AfygE7E2vxSg=']
+U+8171
+12
+jiàn
+130.9
+腱.mp3
+
+腲
+['NONE']
+['NINGUNA']
+[]
+U+8172
+13
+wěi
+130.9
+腲.mp3
+
+腳
+['foot', ' base, leg, foundation']
+['pie', 'base, pierna, fundación']
+['https://media.gettyimages.com/vectors/foot-print-icon-set-vector-id934812346?k=6&m=934812346&s=612x612&w=0&h=MqykQHDp_JOoGX7c2biUxhJzDvL7hUY4GMsFugwKOfY=', 'https://media.gettyimages.com/photos/two-workmen-one-on-ladder-other-holding-base-rear-view-picture-id200024696-001?k=6&m=200024696-001&s=612x612&w=0&h=9eFL7a7fdNs3P2MOQI1SSRfm2ZcXDOQKbMEizGgdkxE=']
+U+8173
+13
+jiǎo
+130.9
+腳.mp3
+
+腴
+['fat', ' fertile, rich', ' plump, soft']
+['grasa', 'fértil, rico', 'regordeta, suave']
+['https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=', 'https://media.gettyimages.com/photos/garden-view-of-parents-with-their-young-son-looking-outside-of-their-picture-id900233338?k=6&m=900233338&s=612x612&w=0&h=LidCQVq2pT3vu5Rsdb8tobTAXznHyo59qedm--bk9Pw=', 'https://media.gettyimages.com/photos/beauty-starts-with-being-good-to-your-skin-picture-id1193064595?k=6&m=1193064595&s=612x612&w=0&h=D-7o79VKvQmvghmoxzP5wD0jQd9WPnY3f4YDP5FHTro=']
+U+8174
+12
+yú
+130.9
+腴.mp3
+
+腵
+['NONE']
+['NINGUNA']
+[]
+U+8175
+13
+jiā
+130.9
+腵.mp3
+
+腶
+['meat']
+['carne']
+['https://media.gettyimages.com/photos/sirloin-steaks-with-fresh-thyme-picture-id972852490?k=6&m=972852490&s=612x612&w=0&h=4XGgeXqPzKpCM1jHM8Gf6u-WDy_MgDU40Au_O1Yt3t0=']
+U+8176
+13
+duàn
+130.9
+腶.mp3
+
+腷
+['NONE']
+['NINGUNA']
+[]
+U+8177
+13
+bì
+130.9
+腷.mp3
+
+腸
+['intestines', ' emotions', ' sausage']
+['intestinos', 'emociones', 'salchicha']
+['https://media.gettyimages.com/photos/male-and-female-intestinal-health-concept-picture-id892955980?k=6&m=892955980&s=612x612&w=0&h=e07uGTbDq209cS6M_2qTBBOlJRT5ujj-LPdIuH1tMZo=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/sausages-in-a-skillet-picture-id1143625004?k=6&m=1143625004&s=612x612&w=0&h=m885QE2tPPLJQ2q8azDrBpOoCHSBtUuLa_XP-pwuuIM=']
+U+8178
+13
+cháng
+130.9
+腸.mp3
+
+腹
+['stomach, belly, abdomen', ' inside']
+['estómago, vientre, abdomen', 'dentro']
+['https://media.gettyimages.com/photos/you-gotta-show-love-to-your-body-picture-id1149503683?k=6&m=1149503683&s=612x612&w=0&h=vXbBAZEyABhvryTfE5yHQXkE6n5mAYy5ensflMM3N2w=', 'https://media.gettyimages.com/photos/sunlight-living-room-picture-id1134293954?k=6&m=1134293954&s=612x612&w=0&h=ldmgckQPxiYiRRT8rMUv2zfdzdLfWOGXcWLD9ziE8tM=']
+U+8179
+13
+fù
+130.9
+腹.mp3
+
+腺
+['gland']
+['glándula']
+['https://media.gettyimages.com/vectors/eyelacrimalgland-vector-id871453970?k=6&m=871453970&s=612x612&w=0&h=z76KyZ3PhseShlHOb7ecZJh3ZizAos1WNF0qlVUcIiI=']
+U+817A
+13
+xiàn
+130.9
+腺.mp3
+
+腻
+['greasy, oily, dirty', ' smooth']
+['grasiento, aceitoso, sucio', 'suave']
+['NONE', 'https://media.gettyimages.com/vectors/woman-snapping-her-finger-two-versions-vector-id1169175370?k=6&m=1169175370&s=612x612&w=0&h=RDsHy09_TNU0PCJHp0a-s7g_5weg8djqTjzB4038-Sg=']
+U+817B
+13
+nì
+130.9
+腻.mp3
+
+腼
+['modest']
+['modesto']
+['https://media.gettyimages.com/vectors/simple-straight-line-map-of-the-world-vector-background-vector-id1133296208?k=6&m=1133296208&s=612x612&w=0&h=SWIEKGR7IZJdSl9RZq-8ugLSdS-Uo6U06sOV26gy5M0=']
+U+817C
+13
+miǎn
+130.9
+腼.mp3
+
+腽
+['fat']
+['grasa']
+['https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+817D
+13
+wà
+130.9
+腽.mp3
+
+腾
+['fly', ' gallop', ' run', ' prance', ' rise']
+['mosca', 'galope', 'correr', 'cabriola', 'subir']
+['https://media.gettyimages.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=6&m=155439315&s=612x612&w=0&h=1bPal14stPAXKODdCMHMUWCVheYPVHXl4iyHDCh2Ndk=', 'https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=', 'https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=', 'https://media.gettyimages.com/photos/having-fun-is-the-best-way-to-bond-picture-id1137393747?k=6&m=1137393747&s=612x612&w=0&h=WLyIK6ib9ypAiKO1omazzMvnxrHRQe7SaaNFvN0VoCk=', 'https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=']
+U+817E
+13
+téng
+130.9
+腾.mp3
+
+腿
+['legs, thighs']
+['piernas, muslos']
+['https://media.gettyimages.com/photos/the-female-body-is-beautiful-no-matter-the-figure-picture-id921765710?k=6&m=921765710&s=612x612&w=0&h=sdcEZA9Aa9kHe8CCAH1Bh_MEvfs__iW_KEowbxs6a_k=']
+U+817F
+13
+tuǐ
+130.10
+腿.mp3
+
+膀
+['upper arm', ' shoulder', ' wing']
+['parte superior del brazo', 'hombro', 'ala']
+['https://media.gettyimages.com/photos/hand-top-view-picture-id172274420?k=6&m=172274420&s=612x612&w=0&h=wACQVSwNBfBl_aiRD-iZOJ7ccGfvTjfN4L69Rf37-uw=', 'https://media.gettyimages.com/photos/need-some-urgent-treatment-for-this-picture-id973809922?k=6&m=973809922&s=612x612&w=0&h=_qqXFi7B0Q6oSbg1ltjWN6gvJp-NIDt41fxoRmQTJpk=', 'https://media.gettyimages.com/photos/isolated-white-angel-wings-picture-id173012289?k=6&m=173012289&s=612x612&w=0&h=Tiq6IWze2VYcVFEOmRAv9ikYtuTCqyShrohce96-has=']
+U+8180
+14
+bǎng
+130.10
+膀.mp3
+
+膁
+['(Cant.) ']
+['(Hipocresía.)']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+8181
+14
+qiǎn
+130.10
+膁.mp3
+
+膂
+['backbone, spinal column']
+['espina dorsal, columna vertebral']
+['https://media.gettyimages.com/photos/back-problems-picture-id857090084?k=6&m=857090084&s=612x612&w=0&h=Vs44dkf88ah8cbkXomygw309xKqIgsd3i4abv5L4Bs4=']
+U+8182
+14
+lǚ
+130.10
+膂.mp3
+
+膃
+['fat']
+['grasa']
+['https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+8183
+14
+wà
+130.10
+膃.mp3
+
+膄
+['to become emaciated']
+['volverse demacrado']
+['https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=']
+U+8184
+13
+shòu
+130.10
+膄.mp3
+
+膅
+['NONE']
+['NINGUNA']
+[]
+U+8185
+14
+táng
+130.10
+膅.mp3
+
+膆
+['the corp of a bird or fowl', ' fat']
+['el cuerpo de un pájaro o ave', 'grasa']
+['https://media.gettyimages.com/photos/corp-picture-id994247370?k=6&m=994247370&s=612x612&w=0&h=yepgtAJWEaopTcHe1isGp2cqq_vNIfaDIcYPVwKO3MA=', 'https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+8186
+14
+sù
+130.10
+膆.mp3
+
+膇
+['swell']
+['hinchar']
+['https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=']
+U+8187
+13
+zhuì
+130.10
+膇.mp3
+
+膈
+['diaphragm']
+['diafragma']
+['https://media.gettyimages.com/photos/diaphragm-in-pink-case-picture-idMEL_025?k=6&m=MEL_025&s=612x612&w=0&h=sB1p46IYyD7XE4-7GDcBKLWgSVKMl5xos7CbyeD771s=']
+U+8188
+14
+gé
+130.10
+膈.mp3
+
+膉
+["(Cant.) the smell of oily food that's gone bad"]
+['(Can.) El olor a comida grasosa que se ha echado a perder']
+['NONE']
+U+8189
+14
+yì
+130.10
+膉.mp3
+
+膊
+['shoulders, upper arms']
+['hombros, brazos']
+['https://media.gettyimages.com/photos/arm-stretch-picture-id969629938?k=6&m=969629938&s=612x612&w=0&h=7IoFv7KYdEv9EDiOE0XoxuBSG0FVxeOCV76nmaGhWzE=']
+U+818A
+14
+bó
+130.10
+膊.mp3
+
+膋
+['fat']
+['grasa']
+['https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+818B
+14
+liáo
+130.10
+膋.mp3
+
+膌
+['to become emaciated']
+['volverse demacrado']
+['https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=']
+U+818C
+14
+jí
+130.10
+膌.mp3
+
+膍
+['(Cant.) ']
+['(Hipocresía.)']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+818D
+14
+pí
+130.10
+膍.mp3
+
+膎
+['NONE']
+['NINGUNA']
+[]
+U+818E
+14
+xié
+130.10
+膎.mp3
+
+膏
+['grease, fat', ' paste, ointment']
+['grasa, grasa', 'pasta, ungüento']
+['https://media.gettyimages.com/photos/male-mechanic-educating-young-apprentice-about-car-parts-picture-id1205809160?k=6&m=1205809160&s=612x612&w=0&h=S_1V7dEkrankXZHsZ-9ouRTnohxGo9G9MELFAVq7mLw=', 'https://media.gettyimages.com/photos/fly-in-the-ointment-picture-id101883331?k=6&m=101883331&s=612x612&w=0&h=pzc0JF-TQH1bpEuF2vyrmTM9YqfzLk1JQ2jI_Xev-Go=']
+U+818F
+14
+gāo
+130.10
+膏.mp3
+
+膐
+['NONE']
+['NINGUNA']
+[]
+U+8190
+16
+lǚ
+130.10
+膐.mp3
+
+膑
+['the kneecap']
+['la rótula']
+['https://media.gettyimages.com/vectors/human-knee-vector-id1159883675?k=6&m=1159883675&s=612x612&w=0&h=GpEAfFrYXEmWgKw9-OTXyouy9yO2RqwlOwbcZZz5AuE=']
+U+8191
+14
+bìn
+130.10
+膑.mp3
+
+膒
+['NONE']
+['NINGUNA']
+[]
+U+8192
+15
+ōu
+130.11
+膒.mp3
+
+膓
+['intestines', ' emotions', ' sausage']
+['intestinos', 'emociones', 'salchicha']
+['https://media.gettyimages.com/photos/male-and-female-intestinal-health-concept-picture-id892955980?k=6&m=892955980&s=612x612&w=0&h=e07uGTbDq209cS6M_2qTBBOlJRT5ujj-LPdIuH1tMZo=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/sausages-in-a-skillet-picture-id1143625004?k=6&m=1143625004&s=612x612&w=0&h=m885QE2tPPLJQ2q8azDrBpOoCHSBtUuLa_XP-pwuuIM=']
+U+8193
+15
+cháng
+130.11
+膓.mp3
+
+膔
+['NONE']
+['NINGUNA']
+[]
+U+8194
+15
+lù
+130.11
+膔.mp3
+
+膕
+['hollow']
+['hueco']
+['https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=']
+U+8195
+15
+guó
+130.11
+膕.mp3
+
+膖
+['NONE']
+['NINGUNA']
+[]
+U+8196
+14
+pāng
+130.11
+膖.mp3
+
+膗
+['ugly and fat', ' too fat to move']
+['feo y gordo', 'demasiado gordo para moverse']
+['https://media.gettyimages.com/photos/white-trash-series-couple-sitting-on-their-couch-picture-id108351263?k=6&m=108351263&s=612x612&w=0&h=gt4PEMStNI6PrPZBn69A6cFLjSqSdv_nfnAYlnnnbGM=', 'NONE']
+U+8197
+15
+chuái
+130.11
+膗.mp3
+
+膘
+['fat', ' rump']
+['grasa', 'grupa']
+['https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=', 'https://media.gettyimages.com/photos/corgi-puppy-butt-picture-id637221014?k=6&m=637221014&s=612x612&w=0&h=ikDxNq9Yu_3S0ElBbrEfpbg6DCxc7Ajih17CAtNo1Rg=']
+U+8198
+15
+biāo
+130.11
+膘.mp3
+
+膙
+['callous skin on the feet']
+['callos en los pies']
+['https://media.gettyimages.com/photos/close-up-of-cracks-on-heels-picture-id1192078962?k=6&m=1192078962&s=612x612&w=0&h=zraRQ1kuCpLWdBfaO4e8WsGaTAxpr28YKGf78iCN0UU=']
+U+8199
+16
+jiǎng
+130.11
+膙.mp3
+
+膚
+['skin', ' superficial, shallow']
+['piel', 'superficial, superficial']
+['https://media.gettyimages.com/photos/take-care-of-it-picture-id1139791315?k=6&m=1139791315&s=612x612&w=0&h=rwBBfxcqqDlq9NyCbcUcAQmx1yt4xRiR1tz8HkYwF9k=', 'https://media.gettyimages.com/photos/autumn-leaves-on-sun-picture-id848386798?k=6&m=848386798&s=612x612&w=0&h=lkSTkAg5g_QEieor2bpBpG4toN0qFw5xnOmGXaHn7LE=']
+U+819A
+15
+fū
+130.11
+膚.mp3
+
+膛
+['chest', ' hollow space, cavity']
+['cofre', 'espacio hueco, cavidad']
+['https://media.gettyimages.com/photos/chest-xray-image-for-physicians-examination-picture-id92988886?k=6&m=92988886&s=612x612&w=0&h=36TRNmSr5Ab2xumqHI1Dy6wWUpsKSKqKEZDJ_eJsFn0=', 'https://media.gettyimages.com/photos/a-big-hole-on-the-tree-trunk-picture-id1270078951?k=6&m=1270078951&s=612x612&w=0&h=xnrUr4z-YyreHUDIOkTLivi6KnDagVypEYqJe44RfCA=']
+U+819B
+15
+táng
+130.11
+膛.mp3
+
+膜
+['membrane', ' to kneel and worship']
+['membrana', 'arrodillarse y adorar']
+['https://media.gettyimages.com/photos/speaker-picture-id90368236?k=6&m=90368236&s=612x612&w=0&h=8o0hFjfV5E-d63vl0fMDvCfJZJAOJriYzZYJ7ZuuDsE=', 'https://media.gettyimages.com/photos/man-prays-to-god-picture-id143917072?k=6&m=143917072&s=612x612&w=0&h=BQ4vSNSrTyezVkq5tmi9A7BEcZaD8ZNEQnOY1TKedsY=']
+U+819C
+14
+mó
+130.11
+膜.mp3
+
+膝
+['knee']
+['rodilla']
+['https://media.gettyimages.com/photos/this-doesnt-feel-right-picture-id1081493552?k=6&m=1081493552&s=612x612&w=0&h=a-6V1ZoZgq_I4zbg7Xv-bpErfDRjx-7CZzV4BwMosbQ=']
+U+819D
+15
+xī
+130.11
+膝.mp3
+
+膞
+['NONE']
+['NINGUNA']
+[]
+U+819E
+15
+zhuān
+130.11
+膞.mp3
+
+膟
+['fat']
+['grasa']
+['https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+819F
+15
+lǜ
+130.11
+膟.mp3
+
+膠
+['glue, gum, resin, rubber']
+['pegamento, goma, resina, caucho']
+['NONE']
+U+81A0
+15
+jiāo
+130.11
+膠.mp3
+
+膡
+['NONE']
+['NINGUNA']
+[]
+U+81A1
+15
+yìng
+130.11
+膡.mp3
+
+膢
+['NONE']
+['NINGUNA']
+[]
+U+81A2
+15
+lǘ
+130.11
+膢.mp3
+
+膣
+['vagina']
+['vagina']
+['https://media.gettyimages.com/photos/having-issues-down-there-picture-id1041085098?k=6&m=1041085098&s=612x612&w=0&h=56XKpXMXXBmZRvlnEwF45zMaZpIYwD4LT_Uf8hUD4Cs=']
+U+81A3
+15
+zhì
+130.11
+膣.mp3
+
+膤
+['NONE']
+['NINGUNA']
+[]
+U+81A4
+15
+xuě
+74.11
+膤.mp3
+
+膥
+['(Cant.) eggs of birds or reptiles', ' testicles']
+['(Cant.) Huevos de aves o reptiles', 'testiculos']
+['https://media.gettyimages.com/photos/you-can-run-but-you-cant-hide-picture-id986459770?k=6&m=986459770&s=612x612&w=0&h=-EZiUAhkOL7_KsBfGF0DiszJuA4LSAsJt5R58LWJEQA=', 'https://media.gettyimages.com/photos/male-pelvis-picture-id155355221?k=6&m=155355221&s=612x612&w=0&h=l6CU75mELUbEOrynX-lVskwIOmzQ5oJLNsXU0buy_O0=']
+U+81A5
+17
+cūn
+130.12
+膥.mp3
+
+膦
+['NONE']
+['NINGUNA']
+[]
+U+81A6
+16
+lìn
+130.12
+膦.mp3
+
+膧
+['NONE']
+['NINGUNA']
+[]
+U+81A7
+16
+tóng
+130.12
+膧.mp3
+
+膨
+['to swell', ' swollen, bloated, inflated']
+['a hincharse', 'hinchado, hinchado, inflado']
+['https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=', 'https://media.gettyimages.com/vectors/intragastric-balloon-vector-id165667238?k=6&m=165667238&s=612x612&w=0&h=WeAKxr4wMryPpfHOvW70C-mIivUsKxjM4wr7GtGjToc=']
+U+81A8
+16
+péng
+130.12
+膨.mp3
+
+膩
+['greasy, oily, dirty', ' smooth']
+['grasiento, aceitoso, sucio', 'suave']
+['NONE', 'https://media.gettyimages.com/vectors/woman-snapping-her-finger-two-versions-vector-id1169175370?k=6&m=1169175370&s=612x612&w=0&h=RDsHy09_TNU0PCJHp0a-s7g_5weg8djqTjzB4038-Sg=']
+U+81A9
+16
+nì
+130.12
+膩.mp3
+
+膪
+['pork']
+['Cerdo']
+['https://media.gettyimages.com/photos/raw-cuts-of-pork-meat-on-a-wooden-chopping-board-picture-id168246602?k=6&m=168246602&s=612x612&w=0&h=EmQqDgoBFHECme3IUatkVELBAfORINgC2h8JZDGnRs4=']
+U+81AA
+16
+chuài
+130.12
+膪.mp3
+
+膫
+['the fat covering the intestines', ' the omentum']
+['la grasa que cubre los intestinos', 'el omento']
+['NONE', 'https://media.gettyimages.com/photos/side-or-profile-view-250x-shows-the-flatness-of-the-squamous-cells-picture-id139825397?k=6&m=139825397&s=612x612&w=0&h=en6W6C-8hyl5KP0rHK6GFgmQwRYDRDfBOw5mZKZUb2k=']
+U+81AB
+16
+liáo
+130.12
+膫.mp3
+
+膬
+['NONE']
+['NINGUNA']
+[]
+U+81AC
+16
+cuì
+130.12
+膬.mp3
+
+膭
+['NONE']
+['NINGUNA']
+[]
+U+81AD
+16
+guī
+130.12
+膭.mp3
+
+膮
+['NONE']
+['NINGUNA']
+[]
+U+81AE
+16
+xiāo
+130.12
+膮.mp3
+
+膯
+['NONE']
+['NINGUNA']
+[]
+U+81AF
+16
+tēng
+130.12
+膯.mp3
+
+膰
+['to cook meat for a sacrifice or offering']
+['cocinar carne para sacrificio u ofrenda']
+['https://media.gettyimages.com/photos/hand-taking-a-hot-dog-picture-id1149358141?k=6&m=1149358141&s=612x612&w=0&h=zAWm9Rr8dmeWV-XQpDMz0ZjFlLwchT0kVzKUR4eRk7U=']
+U+81B0
+16
+fán
+130.12
+膰.mp3
+
+膱
+["(Cant.) the smell of oily food that's gone bad"]
+['(Can.) El olor a comida grasosa que se ha echado a perder']
+['NONE']
+U+81B1
+16
+zhí
+130.12
+膱.mp3
+
+膲
+['(medicine) the three divisions of the viscera']
+['(medicina) las tres divisiones de las vísceras']
+['NONE']
+U+81B2
+16
+jiāo
+130.12
+膲.mp3
+
+膳
+['meals, provisions, board']
+['comidas, provisiones, comida']
+['https://media.gettyimages.com/photos/freshly-baked-bread-on-wooden-table-picture-id617603536?k=6&m=617603536&s=612x612&w=0&h=WfKeflraZVemNe7CM-YJAfhXrrIXA8S863JJqpPyw7w=']
+U+81B3
+16
+shàn
+130.12
+膳.mp3
+
+膴
+['fine']
+['multa']
+['https://media.gettyimages.com/photos/police-officer-writing-ticket-2-picture-id157284610?k=6&m=157284610&s=612x612&w=0&h=9tBXcdZjp_iWu0qT2UoBgK-TkQhQ6qXIheiRTpGU85U=']
+U+81B4
+16
+hū
+130.12
+膴.mp3
+
+膵
+['pancreas']
+['páncreas']
+['https://media.gettyimages.com/vectors/human-internal-organs-icon-set-vector-id1027093220?k=6&m=1027093220&s=612x612&w=0&h=t-1yDA4ctNUnfZHzWMd_xNwKqF36WxzWzRoU8H299h8=']
+U+81B5
+15
+cuì
+130.12
+膵.mp3
+
+膶
+['(Cant.) liver']
+['(Cant.) Hígado']
+['https://media.gettyimages.com/photos/cant-let-go-steven-tyler-guest-stars-as-himself-to-sing-a-duet-of-picture-id487322792?k=6&m=487322792&s=612x612&w=0&h=0EYrv2THZgd11T-4nZwNXelJGl7rYHLZJe7bA4uzUUQ=']
+U+81B6
+16
+rùn
+130.12
+膶.mp3
+
+膷
+['soup']
+['sopa']
+['https://media.gettyimages.com/photos/pumpkin-soup-with-ingredients-on-rustic-wooden-table-picture-id1062175262?k=6&m=1062175262&s=612x612&w=0&h=3C9w0dEA3Yey5xXRMSFjlafZNd9BgUX3Ee9rlVQcUpE=']
+U+81B7
+15
+xiāng
+130.13
+膷.mp3
+
+膸
+['NONE']
+['NINGUNA']
+[]
+U+81B8
+17
+suǐ
+130.13
+膸.mp3
+
+膹
+['NONE']
+['NINGUNA']
+[]
+U+81B9
+16
+fèn
+130.13
+膹.mp3
+
+膺
+['breast, chest', ' undertake, bear']
+['pecho de mama', 'emprender, oso']
+['https://media.gettyimages.com/photos/cropped-image-of-woman-touching-armpit-picture-id899165016?k=6&m=899165016&s=612x612&w=0&h=BuGD6lrw6kgjkaghhXhSktGtWWV1NeFXGKX-4BNZ7AI=', 'NONE']
+U+81BA
+17
+yīng
+130.13
+膺.mp3
+
+膻
+['a rank odor', ' a technical term from Chinese medicine for the center of the chest']
+['un olor fétido', 'un término técnico de la medicina china para el centro del pecho']
+['https://media.gettyimages.com/photos/open-blue-door-picture-id1009292060?k=6&m=1009292060&s=612x612&w=0&h=l_EAHwJ292MTpn2_A5ADa0R8SWzylNhLsTN5QcEhA_o=', 'NONE']
+U+81BB
+17
+shān
+130.13
+膻.mp3
+
+膼
+['NONE']
+['NINGUNA']
+[]
+U+81BC
+15
+zhuā
+130.13
+膼.mp3
+
+膽
+['gall bladder', ' bravery, courage']
+['vesícula biliar', 'valentía, coraje']
+['https://media.gettyimages.com/vectors/human-internal-organs-icon-set-vector-id907974722?k=6&m=907974722&s=612x612&w=0&h=Arv45vpV6x9EkBMC2yGbVANa-c_tQ52-Vq_szYI3OpQ=', 'https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=']
+U+81BD
+17
+dǎn
+130.13
+膽.mp3
+
+膾
+['minced meat or fish']
+['carne o pescado picados']
+['https://media.gettyimages.com/vectors/grilled-food-and-seafood-outline-icon-set-vector-id959147812?k=6&m=959147812&s=612x612&w=0&h=CN56z9AUP1d4oJRs1Azqz9-N8uuohwIZ_5ebaQzHowE=']
+U+81BE
+17
+kuài
+130.13
+膾.mp3
+
+膿
+['pus']
+['poner']
+['https://media.gettyimages.com/photos/closeup-of-pink-roses-against-white-background-picture-id932482880?k=6&m=932482880&s=612x612&w=0&h=2uooH_f8SwawUkEMskO2Hs25Kmw2HN8xEtHuV40IxT4=']
+U+81BF
+17
+nóng
+130.13
+膿.mp3
+
+臀
+['buttocks']
+['nalgas']
+['https://media.gettyimages.com/photos/she-stays-in-shape-picture-id912928426?k=6&m=912928426&s=612x612&w=0&h=3ZyiPlyr5-0jDMCfv_Z52qEJ-Je-iElkaoTHtGc6rkI=']
+U+81C0
+17
+tún
+130.13
+臀.mp3
+
+臁
+['calf of the leg']
+['pantorrilla de la pierna']
+['https://media.gettyimages.com/photos/cramp-in-calf-picture-id184877506?k=6&m=184877506&s=612x612&w=0&h=oSabJpch0J4iAuHOxUx4r2EIvM7fy1Vsg2EPO7UyaVw=']
+U+81C1
+17
+lián
+130.13
+臁.mp3
+
+臂
+['arm']
+['brazo']
+['https://media.gettyimages.com/photos/detail-of-a-mans-arm-outstretched-picture-id76186588?k=6&m=76186588&s=612x612&w=0&h=SFMmJLGDZbmqNIkYKrlqyu0JVeN3JizAbhcDUmZGYks=']
+U+81C2
+17
+bì
+130.13
+臂.mp3
+
+臃
+['swell up', ' swelling', ' fat']
+['hincharse', 'hinchazón', 'grasa']
+['https://media.gettyimages.com/photos/gout-picture-id185206944?k=6&m=185206944&s=612x612&w=0&h=KLMu0rXYJ7YpD6IaHNL9E32KClSIkNrPrxVMfo1cDts=', 'https://media.gettyimages.com/photos/gout-picture-id185206944?k=6&m=185206944&s=612x612&w=0&h=KLMu0rXYJ7YpD6IaHNL9E32KClSIkNrPrxVMfo1cDts=', 'https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+81C3
+17
+yōng
+130.13
+臃.mp3
+
+臄
+['palate']
+['paladar']
+['https://media.gettyimages.com/photos/male-throat-picture-id185312219?k=6&m=185312219&s=612x612&w=0&h=yVJoourvccgiIY67heRU_iBIVYy0S9AOA-tjWl2II_s=']
+U+81C4
+17
+jué
+130.13
+臄.mp3
+
+臅
+['NONE']
+['NINGUNA']
+[]
+U+81C5
+17
+chù
+130.13
+臅.mp3
+
+臆
+['chest, breast, bosom', ' thought']
+['pecho, pecho, pecho', 'pensamiento']
+['https://media.gettyimages.com/photos/cropped-image-of-woman-touching-armpit-picture-id899165016?k=6&m=899165016&s=612x612&w=0&h=BuGD6lrw6kgjkaghhXhSktGtWWV1NeFXGKX-4BNZ7AI=', 'https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=']
+U+81C6
+17
+yì
+130.13
+臆.mp3
+
+臇
+['fat, rich', ' a stew of fish']
+['gordo, rico', 'un guiso de pescado']
+['https://media.gettyimages.com/photos/woman-eating-beef-burger-picture-id1127579847?k=6&m=1127579847&s=612x612&w=0&h=nSnDYjIGZWeXpOs_H5NJ-MvkzMWTp93HSSriZYLfBWY=', 'https://media.gettyimages.com/photos/seafood-fish-stew-still-life-picture-id829675290?k=6&m=829675290&s=612x612&w=0&h=NvF7UyvC24jfjgDQrp0Kr-ntn-JrEgiNWcSgF5d5PO0=']
+U+81C7
+16
+juǎn
+130.13
+臇.mp3
+
+臈
+['year end sacrifice', ' dried meat']
+['sacrificio de fin de año', 'carne seca']
+['NONE', 'https://media.gettyimages.com/photos/hand-showing-spicy-seasoning-with-a-piece-of-raw-pork-picture-id485478500?k=6&m=485478500&s=612x612&w=0&h=RqeBS22QXGyNiu7bCVyfvAuEoFEM80lfWJrK6TWBTTs=']
+U+81C8
+16
+là
+130.13
+臈.mp3
+
+臉
+['face', ' cheek', ' reputation']
+['cara', 'mejilla', 'reputación']
+['https://media.gettyimages.com/photos/serene-beauty-picture-id1083617440?k=6&m=1083617440&s=612x612&w=0&h=wLq7N87zwUamnN1g1BebCxYdt3BVU8bhEyCSymDFyFI=', 'https://media.gettyimages.com/photos/cheeky-picture-id472050857?k=6&m=472050857&s=612x612&w=0&h=2xp9VK75iNFuM4wnC6jLO0dM9HQDOerhuIgyKwm684Y=', 'https://media.gettyimages.com/vectors/winning-success-and-achievement-vector-icons-vector-id487166882?k=6&m=487166882&s=612x612&w=0&h=UOyR99LIkseZEF39jehsZ6f2XeRh7Inh-5byIR4dstE=']
+U+81C9
+17
+liǎn
+130.13
+臉.mp3
+
+臊
+['rank', ' rancid', ' frowzy, fetid', ' bashful']
+['rango', 'rancio', 'malhumorado, fétido', 'tímido']
+['https://media.gettyimages.com/vectors/vector-superhero-team-running-silhouette-with-sunlight-in-the-vector-id1175147564?k=6&m=1175147564&s=612x612&w=0&h=s0U25fp5L-iMx_ZIhDA2J42Z3MMyOnXevvlrMHKnSlU=', 'https://media.gettyimages.com/photos/rancid-pose-for-group-portraits-in-san-diego-california-united-states-picture-id181945131?k=6&m=181945131&s=612x612&w=0&h=hO6z95PsLDNmo19mB2P66h7yGoEPijSFtTuuPo836Rg=', 'https://media.gettyimages.com/photos/laundry-day-chaos-picture-id1095038108?k=6&m=1095038108&s=612x612&w=0&h=gUsGmdy5sISGfu3lWZgE92qCyTKpBZf1tXRKkFtoKx8=', 'https://media.gettyimages.com/photos/african-american-woman-covering-face-with-hands-picture-id916194700?k=6&m=916194700&s=612x612&w=0&h=A8Z_p6eUCHmN8liDLUlQAb4y3747mOnkhsF1GWb1Fuw=']
+U+81CA
+17
+sāo
+130.13
+臊.mp3
+
+臋
+['NONE']
+['NINGUNA']
+[]
+U+81CB
+19
+tún
+130.13
+臋.mp3
+
+臌
+['dropsical swelling', ' puffy bloated']
+['hinchazón hidrópica', 'hinchado hinchado']
+['NONE', 'https://media.gettyimages.com/photos/valve-of-airbed-closeup-picture-id79554034?k=6&m=79554034&s=612x612&w=0&h=6cY1dncJDK-Do_ch7JaHTaau1RdAyhf4x_EL_1Ae3qs=']
+U+81CC
+17
+gǔ
+130.13
+臌.mp3
+
+臍
+['abdominal area of crab', ' navel']
+['área abdominal de cangrejo', 'ombligo']
+['https://media.gettyimages.com/photos/cooked-crab-crab-shelleriocheir-sinensiscrab-clawchinese-hairy-crab-picture-id1202016834?k=6&m=1202016834&s=612x612&w=0&h=qiN6r6ewdKRYrdpcklyCgoap0W0TD-zul9Qjpo_V1k8=', 'https://media.gettyimages.com/photos/closeup-of-navel-picture-id667733507?k=6&m=667733507&s=612x612&w=0&h=T3A_wsmFZmLcM5sOGC_VWKwXK4IUDQCdxO5HFSYxODo=']
+U+81CD
+18
+qí
+130.14
+臍.mp3
+
+臎
+['NONE']
+['NINGUNA']
+[]
+U+81CE
+18
+cuì
+130.14
+臎.mp3
+
+臏
+['the kneecap']
+['la rótula']
+['https://media.gettyimages.com/vectors/human-knee-vector-id1159883675?k=6&m=1159883675&s=612x612&w=0&h=GpEAfFrYXEmWgKw9-OTXyouy9yO2RqwlOwbcZZz5AuE=']
+U+81CF
+18
+bìn
+130.14
+臏.mp3
+
+臐
+['broth']
+['caldo']
+['https://media.gettyimages.com/photos/chicken-broth-picture-id638814226?k=6&m=638814226&s=612x612&w=0&h=N6p_DuvHM-CKgpb21d2k7rxKlaFaf818Hvf9eUYCRxs=']
+U+81D0
+18
+xūn
+130.14
+臐.mp3
+
+臑
+['soft']
+['suave']
+['https://media.gettyimages.com/photos/pink-silk-background-picture-id175398143?k=6&m=175398143&s=612x612&w=0&h=WU0hHedKq7AP6yzLWzgBegp4cQfv3rm0sNcHw-pp_14=']
+U+81D1
+18
+nào
+130.14
+臑.mp3
+
+臒
+['NONE']
+['NINGUNA']
+[]
+U+81D2
+17
+wò
+130.14
+臒.mp3
+
+臓
+['internal organs, viscera']
+['órganos internos, vísceras']
+['https://media.gettyimages.com/vectors/human-anatomy-set-of-line-vector-icons-vector-id1085903686?k=6&m=1085903686&s=612x612&w=0&h=xVwV8bHhst1u5zN-E9Ehlg4lrho7qeqaEcQrcCkxvTU=']
+U+81D3
+18
+zàng
+130.14
+臓.mp3
+
+臔
+['NONE']
+['NINGUNA']
+[]
+U+81D4
+19
+xiàn
+130.15
+臔.mp3
+
+臕
+['fat', ' gross, sleek']
+['grasa', 'asqueroso, elegante']
+['https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=', 'https://media.gettyimages.com/vectors/alphabet-vector-id1145282204?k=6&m=1145282204&s=612x612&w=0&h=PvMkfZWlwiJly5QGRC-oN6DclBeI9d_bNsxHC_jKwc0=']
+U+81D5
+19
+biāo
+130.15
+臕.mp3
+
+臖
+['NONE']
+['NINGUNA']
+[]
+U+81D6
+20
+xìng
+130.16
+臖.mp3
+
+臗
+['NONE']
+['NINGUNA']
+[]
+U+81D7
+18
+kuān
+130.15
+臗.mp3
+
+臘
+['year end sacrifice', ' dried meat']
+['sacrificio de fin de año', 'carne seca']
+['NONE', 'https://media.gettyimages.com/photos/hand-showing-spicy-seasoning-with-a-piece-of-raw-pork-picture-id485478500?k=6&m=485478500&s=612x612&w=0&h=RqeBS22QXGyNiu7bCVyfvAuEoFEM80lfWJrK6TWBTTs=']
+U+81D8
+19
+là
+130.15
+臘.mp3
+
+臙
+['rouge, cosmetics']
+['colorete, cosméticos']
+['https://media.gettyimages.com/photos/crushed-blush-picture-id183023500?k=6&m=183023500&s=612x612&w=0&h=jFYjY8-JtGYHDeVDKs1HMwMZYwJ_tZ6M6b9kBJLrmMs=']
+U+81D9
+20
+yān
+130.16
+臙.mp3
+
+臚
+['arrange in order', ' display']
+['arreglar en orden', 'monitor']
+['https://media.gettyimages.com/photos/couple-carrying-box-picture-id484355041?k=6&m=484355041&s=612x612&w=0&h=mlx7jVM_1SjnuzwhtYZxLe8VSjwoVPf9VFJ4-Me-JDw=', 'https://media.gettyimages.com/photos/take-a-look-and-tell-me-what-you-think-picture-id682621408?k=6&m=682621408&s=612x612&w=0&h=1nDhwvzD3Fe_pXXUBKCwZRshQGTMZ9aSv7KuEGOWsTU=']
+U+81DA
+20
+lú
+130.16
+臚.mp3
+
+臛
+['broth']
+['caldo']
+['https://media.gettyimages.com/photos/chicken-broth-picture-id638814226?k=6&m=638814226&s=612x612&w=0&h=N6p_DuvHM-CKgpb21d2k7rxKlaFaf818Hvf9eUYCRxs=']
+U+81DB
+20
+huò
+130.16
+臛.mp3
+
+臜
+['dirty', ' filthy']
+['sucio', 'inmundo']
+['https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+81DC
+20
+zā
+130.16
+臜.mp3
+
+臝
+['be bare', ' nude']
+['solo reza', 'desnudo']
+['https://media.gettyimages.com/photos/closeup-of-bare-tree-against-white-background-picture-id1178364683?k=6&m=1178364683&s=612x612&w=0&h=HsVi3nA5RJdSfhsZoclKDO79BbSq_tGD7pHRg0qosKA=', 'https://media.gettyimages.com/photos/couple-in-love-picture-id491291202?k=6&m=491291202&s=612x612&w=0&h=w9WWnWJwIpSd4ib-yD2YM9FPycpARU5Uk2s8ER21GWI=']
+U+81DD
+21
+luǒ
+130.17
+臝.mp3
+
+臞
+['thin, wasted']
+['delgado, desperdiciado']
+['https://media.gettyimages.com/photos/man-showing-weight-loss-by-showing-his-loose-pants-picture-id183350834?k=6&m=183350834&s=612x612&w=0&h=1mk6Z483LjTAFO3b39-tXY8EeehcyLevdq8W6NL-yjY=']
+U+81DE
+22
+qú
+130.18
+臞.mp3
+
+臟
+['internal organs, viscera']
+['órganos internos, vísceras']
+['https://media.gettyimages.com/vectors/human-anatomy-set-of-line-vector-icons-vector-id1085903686?k=6&m=1085903686&s=612x612&w=0&h=xVwV8bHhst1u5zN-E9Ehlg4lrho7qeqaEcQrcCkxvTU=']
+U+81DF
+21
+zàng
+130.18
+臟.mp3
+
+臠
+['small lump of meat', ' sliced meat']
+['pequeño trozo de carne', 'carne en rodajas']
+['NONE', 'https://media.gettyimages.com/photos/medium-rare-steak-picture-id536616025?k=6&m=536616025&s=612x612&w=0&h=ftSO4YfjiknIA1t77zGCDtuE3AA4nGBC9r9xmjpanps=']
+U+81E0
+25
+luán
+130.19
+臠.mp3
+
+臡
+['NONE']
+['NINGUNA']
+[]
+U+81E1
+25
+ní
+130.19
+臡.mp3
+
+臢
+['dirty', ' filthy']
+['sucio', 'inmundo']
+['https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+81E2
+23
+zā
+130.19
+臢.mp3
+
+臣
+['minister, statesman, official']
+['ministro, estadista, funcionario']
+['https://media.gettyimages.com/illustrations/william-ewart-gladstone-illustration-id168857422?k=6&m=168857422&s=612x612&w=0&h=kRhwkbX6bD4Zaf5QZAYDJK9nf8lS-6bCFspr98Ct8us=']
+U+81E3
+6
+chén
+131.0
+臣.mp3
+
+臤
+['hard', ' wise']
+['difícil', 'sabio']
+['https://media.gettyimages.com/photos/domestic-violence-abuse-picture-id154902161?k=6&m=154902161&s=612x612&w=0&h=hFsF_-drKf6e1f8QUUNCjNZhLnKMz2YcoSOEE2krqb8=', 'https://media.gettyimages.com/vectors/user-experience-icon-acme-series-vector-id1071761474?k=6&m=1071761474&s=612x612&w=0&h=JO8rSvZFsdq5uSFptdRcW51VF-nYUIz8EOEwTs8-AdU=']
+U+81E4
+8
+qiān
+131.2
+臤.mp3
+
+臥
+['lie down', ' crouch']
+['acostarse', 'agacharse']
+['https://media.gettyimages.com/photos/relaxed-young-man-sleeping-on-grass-picture-id996157540?k=6&m=996157540&s=612x612&w=0&h=Y-UBoAIpVgNxtMfISqorPby0VpB85WT0hT2GjVJbu24=', 'https://media.gettyimages.com/photos/woman-in-sports-clothing-doing-squats-picture-id713857713?k=6&m=713857713&s=612x612&w=0&h=1B4It58YbSFW5UExXlpqVn43tQq9LAtlyUoDHOb23z0=']
+U+81E5
+8
+wò
+131.2
+臥.mp3
+
+臦
+['NONE']
+['NINGUNA']
+[]
+U+81E6
+12
+guàng
+131.6
+臦.mp3
+
+臧
+['good, right, generous', ' command']
+['bueno, cierto, generoso', 'mando']
+['https://media.gettyimages.com/photos/smiling-coworkers-looking-at-data-on-digital-tablet-in-office-picture-id1097998932?k=6&m=1097998932&s=612x612&w=0&h=UKGM3nrCUt0Dqdf_oezZNi9uXqiqTFrP7meRJ65VBpg=', 'https://media.gettyimages.com/photos/remote-control-isolated-on-white-background-picture-id157335453?k=6&m=157335453&s=612x612&w=0&h=4UUcAelpuz4PhhBe-ldM7K8Vu91LnCVI06y1s22paBs=']
+U+81E7
+14
+zāng
+131.8
+臧.mp3
+
+臨
+['draw near, approach', ' descend']
+['acercarse, acercarse', 'descender']
+['https://media.gettyimages.com/photos/say-hi-to-new-year-2020-picture-id1178480381?k=6&m=1178480381&s=612x612&w=0&h=VYXN7F97dBgCTGzAYPxu0xlDKfnKFlyQlS9-JnjMygo=', 'https://media.gettyimages.com/vectors/change-arrows-up-and-down-vector-id911914726?k=6&m=911914726&s=612x612&w=0&h=uvhnOsGuP4RaxT8mMMXNF0FKuKjc0uFdI61pipq5EDc=']
+U+81E8
+17
+lín
+131.11
+臨.mp3
+
+臩
+['NONE']
+['NINGUNA']
+[]
+U+81E9
+17
+guǎng
+131.11
+臩.mp3
+
+自
+['self, private, personal', ' from']
+['yo, privado, personal', 'desde']
+['https://media.gettyimages.com/photos/crowd-walking-over-binary-code-picture-id1185884207?k=6&m=1185884207&s=612x612&w=0&h=HiugSOfFb2VDDlKh_5pS4fU4jlzxHRBX9ZJdhZD02cA=', 'https://media.gettyimages.com/photos/abstract-background-from-old-grey-concrete-texture-with-grunge-and-picture-id1180566838?k=6&m=1180566838&s=612x612&w=0&h=HBgMujkW9Mp76-tA18cRFcqfzm_OSrQf8aGt-elzXqU=']
+U+81EA
+6
+zì
+132.0
+自.mp3
+
+臫
+['NONE']
+['NINGUNA']
+[]
+U+81EB
+7
+jiǎo
+132.1
+臫.mp3
+
+臬
+['law, rule', ' door post']
+['ley, regla', 'por correo']
+['https://media.gettyimages.com/vectors/-vector-id1014727420?k=6&m=1014727420&s=612x612&w=0&h=kubH8O3Zj3VMHAvGc9NRW565C-qWCGEj44qg32c03fk=', 'https://media.gettyimages.com/photos/courier-holding-cardboard-box-for-delivery-picture-id1158696205?k=6&m=1158696205&s=612x612&w=0&h=tElJfI8c5dRXbWRuoXRCfTp8IuStjEpGLbw3aGm3S8A=']
+U+81EC
+10
+niè
+132.4
+臬.mp3
+
+臭
+['smell, stink, emit foul odor']
+['huele, apesta, emite mal olor']
+['https://media.gettyimages.com/photos/deodorant-gel-close-up-picture-id157403098?k=6&m=157403098&s=612x612&w=0&h=ezWBE7rM-QQL4eZ0tcI5uA-IAIzAbj2dCkdC4XDSF_A=']
+U+81ED
+10
+chòu
+132.4
+臭.mp3
+
+臮
+['NONE']
+['NINGUNA']
+[]
+U+81EE
+12
+jì
+132.6
+臮.mp3
+
+臯
+['to praise', ' to bless high', ' eminent', ' (Cant.) a marsh, pool']
+['elogiar', 'bendecir alto', 'eminente', '(Can.) Un pantano, piscina']
+['https://media.gettyimages.com/photos/applauding-on-a-business-seminar-picture-id1066868794?k=6&m=1066868794&s=612x612&w=0&h=JnLc81Wur9V-H64XPC2ZjWJMjlIwM-6Y5GJiFBXirDU=', 'https://media.gettyimages.com/photos/pope-john-paul-ii-statue-jerez-de-la-frontera-picture-id1171877178?k=6&m=1171877178&s=612x612&w=0&h=6C7-ahbCWHnkCtFdfg1dG_WOIEbIb2iJO4YONev58JQ=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=', 'NONE']
+U+81EF
+12
+gāo
+132.6
+臯.mp3
+
+臰
+['NONE']
+['NINGUNA']
+[]
+U+81F0
+12
+chòu
+132.6
+臰.mp3
+
+臱
+['NONE']
+['NINGUNA']
+[]
+U+81F1
+15
+mián
+132.9
+臱.mp3
+
+臲
+['jumpy', ' jittery', ' worried', ' to grasp']
+['asustadizo', 'nervioso', 'preocupado', 'para captar']
+['https://media.gettyimages.com/photos/-picture-id126458620?k=6&m=126458620&s=612x612&w=0&h=dAjksrIWoRk6bsn92yntqroj7TPVFfl65iGgd2NG2vE=', 'https://media.gettyimages.com/photos/woman-helping-another-up-rock-outcrop-kittery-maine-usa-picture-id1026457532?k=6&m=1026457532&s=612x612&w=0&h=wu0m3KQYpKDDknAq0o1UJmAtAopukGN9Vm1STrxaD_U=', 'https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=', 'https://media.gettyimages.com/photos/group-with-hands-together-picture-id183060490?k=6&m=183060490&s=612x612&w=0&h=ILDZ6sxVDiFCD28j5DPJ4FZuoOQnowyD64uvZJFjCgw=']
+U+81F2
+16
+niè
+132.10
+臲.mp3
+
+至
+['reach, arrive', ' extremely, very']
+['llegar, llegar', 'extremadamente, muy']
+['https://media.gettyimages.com/photos/closeup-of-mature-couple-opening-door-to-holiday-rental-apartment-picture-id825888028?k=6&m=825888028&s=612x612&w=0&h=1w31JgDEPkhXAhJbPzq2SPR3awGzekMkzr86G665hdU=', 'https://media.gettyimages.com/photos/very-rough-watercolor-paper-bumpy-surface-picture-id1156991952?k=6&m=1156991952&s=612x612&w=0&h=jG-U3PMbvRrEiwYlmAW8lvwTp5WGfENqvpDdmecoROo=']
+U+81F3
+6
+zhì
+133.0
+至.mp3
+
+致
+['send, deliver, present', ' cause']
+['enviar, entregar, presentar', 'porque']
+['https://media.gettyimages.com/photos/box-open-isolated-over-a-white-background-picture-id160948900?k=6&m=160948900&s=612x612&w=0&h=kIxNoAe45ZyOaauVfzMfumDN6dwffxT6AJPz7av5NWY=', 'https://media.gettyimages.com/photos/generous-people-helping-to-poor-people-picture-id1139776668?k=6&m=1139776668&s=612x612&w=0&h=VNUe36-Oy5kgDWiQL_mrRfjUjLNYPZ9euG19DAoLD2o=']
+U+81F4
+10
+zhì
+133.3
+致.mp3
+
+臵
+['NONE']
+['NINGUNA']
+[]
+U+81F5
+12
+gé
+133.6
+臵.mp3
+
+臶
+['NONE']
+['NINGUNA']
+[]
+U+81F6
+12
+jiàn
+133.6
+臶.mp3
+
+臷
+['NONE']
+['NINGUNA']
+[]
+U+81F7
+12
+dié
+133.6
+臷.mp3
+
+臸
+['NONE']
+['NINGUNA']
+[]
+U+81F8
+12
+zhī
+133.6
+臸.mp3
+
+臹
+['NONE']
+['NINGUNA']
+[]
+U+81F9
+12
+xiū
+133.7
+臹.mp3
+
+臺
+['tower, lookout', ' stage, platform']
+['torre, mirador', 'escenario, plataforma']
+['https://media.gettyimages.com/vectors/wireless-technology-wifi-lines-icons-eps-10-vector-id664908956?k=6&m=664908956&s=612x612&w=0&h=eZcBOl89Cijqm7qfexseVxQst-Sdge9-hyDOda7NvQ4=', 'https://media.gettyimages.com/vectors/spot-light-the-oval-stage-vector-id165904469?k=6&m=165904469&s=612x612&w=0&h=w9WN5r-BJAAglZ7NoyuiU8YnAaW8NA1KNXLaQuD-SJE=']
+U+81FA
+14
+tái
+133.8
+臺.mp3
+
+臻
+['reach, arrive', ' utmost, superior']
+['llegar, llegar', 'supremo, superior']
+['https://media.gettyimages.com/photos/closeup-of-mature-couple-opening-door-to-holiday-rental-apartment-picture-id825888028?k=6&m=825888028&s=612x612&w=0&h=1w31JgDEPkhXAhJbPzq2SPR3awGzekMkzr86G665hdU=', 'NONE']
+U+81FB
+16
+zhēn
+133.10
+臻.mp3
+
+臼
+['mortar', ' bone joint socket']
+['mortero', 'cavidad de la articulación ósea']
+['https://media.gettyimages.com/photos/tile-handyman-applying-adhesive-on-a-tile-picture-id638506270?k=6&m=638506270&s=612x612&w=0&h=xsmUDUZp-0QnHwyEyXqAj2gUFJiocczRHokAKSnv6k0=', 'https://media.gettyimages.com/photos/pelvis-with-plated-leg-bone-xray-picture-id1227508808?k=6&m=1227508808&s=612x612&w=0&h=5lbSi9REctbPmq3LMVMXdQr28b7F6WJSZykDlwElk7I=']
+U+81FC
+6
+jiù
+134.0
+臼.mp3
+
+臽
+['a pit, a hole']
+['un hoyo, un hoyo']
+['https://media.gettyimages.com/photos/deep-well-picture-id182145805?k=6&m=182145805&s=612x612&w=0&h=9Vr_F93KCUx0vuRt1eW-Ivh1SKo-OcgOoxdYcvlsMto=']
+U+81FD
+8
+xiàn
+134.2
+臽.mp3
+
+臾
+['moment, instant, short while']
+['momento, instante, poco tiempo']
+['https://media.gettyimages.com/photos/instant-polaroid-portrait-of-a-young-woman-picture-id1050005906?k=6&m=1050005906&s=612x612&w=0&h=qNNGHX2KhWKpjNFGpHXK4LVHXR2ElH_NxOk1wltIkac=']
+U+81FE
+8
+yú
+134.2
+臾.mp3
+
+臿
+['to separate the grain from the husk']
+['separar el grano de la cáscara']
+['https://media.gettyimages.com/photos/high-angle-view-of-women-winnowing-rice-picture-id560512959?k=6&m=560512959&s=612x612&w=0&h=S5U4dPSOulVdmmVdaxeOAHOmZuLv7Bm7fUS_iT_psRo=']
+U+81FF
+9
+chā
+134.3
+臿.mp3
+
+舀
+['dip, ladle', ' ladle']
+['dip, cucharón', 'cucharón']
+['https://media.gettyimages.com/photos/ladle-and-jar-of-peach-salsa-with-slices-of-toasted-bread-on-a-tray-picture-id584335080?k=6&m=584335080&s=612x612&w=0&h=jJCLJB6ABNZPdXpLl4rVA_0lZZ_7HJDEyfFjHE4yCmE=', 'https://media.gettyimages.com/photos/kitchen-utensils-picture-id173947711?k=6&m=173947711&s=612x612&w=0&h=Pg4Phl9OcWZntYEIAbFVaFE1BWeCnIoHZXNGIgkn6vI=']
+U+8200
+10
+yǎo
+134.4
+舀.mp3
+
+舁
+["carry on one's shoulder"]
+['llevar al hombro']
+['NONE']
+U+8201
+9
+yú
+134.4
+舁.mp3
+
+舂
+['grind in mortar']
+['moler en mortero']
+['https://media.gettyimages.com/photos/ceramic-mortar-and-pestle-on-a-white-background-picture-id984334592?k=6&m=984334592&s=612x612&w=0&h=NQT1ztb3K-govGDRQJjrzHj2FC1XPDa4PKEkLiiwGq0=']
+U+8202
+11
+chōng
+134.5
+舂.mp3
+
+舃
+['a shoe', ' the sole of a shoe', ' magpie']
+['un zapato', 'la suela de un zapato', 'urraca']
+['https://media.gettyimages.com/photos/high-angle-view-of-blue-stilettos-over-pink-background-picture-id1025627712?k=6&m=1025627712&s=612x612&w=0&h=5N86x5eYjpZePlz6fNcA2zZ2AM8JZ40OfDnhT2efpk8=', 'https://media.gettyimages.com/photos/close-up-shot-of-runners-shoes-picture-id1148822167?k=6&m=1148822167&s=612x612&w=0&h=8QIF8XmPZrVoIo8TiU31smtwVt2y2r5U3cuEegI6iLY=', 'https://media.gettyimages.com/vectors/magpie-bird-poses-set-vector-illustration-vector-id911284564?k=6&m=911284564&s=612x612&w=0&h=SssdYk6TrjSULuUG1gEvTLJGkQe-sfz0P__XPlFWQPk=']
+U+8203
+12
+xì
+134.6
+舃.mp3
+
+舄
+['a shoe', ' the sole of a shoe', ' magpie']
+['un zapato', 'la suela de un zapato', 'urraca']
+['https://media.gettyimages.com/photos/high-angle-view-of-blue-stilettos-over-pink-background-picture-id1025627712?k=6&m=1025627712&s=612x612&w=0&h=5N86x5eYjpZePlz6fNcA2zZ2AM8JZ40OfDnhT2efpk8=', 'https://media.gettyimages.com/photos/close-up-shot-of-runners-shoes-picture-id1148822167?k=6&m=1148822167&s=612x612&w=0&h=8QIF8XmPZrVoIo8TiU31smtwVt2y2r5U3cuEegI6iLY=', 'https://media.gettyimages.com/vectors/magpie-bird-poses-set-vector-illustration-vector-id911284564?k=6&m=911284564&s=612x612&w=0&h=SssdYk6TrjSULuUG1gEvTLJGkQe-sfz0P__XPlFWQPk=']
+U+8204
+12
+xì
+134.6
+舄.mp3
+
+舅
+["mother's brother, uncle"]
+['hermano de la madre, tío']
+['NONE']
+U+8205
+13
+jiù
+134.7
+舅.mp3
+
+舆
+['cart, palanquin, sedan chair']
+['carro, palanquín, silla de manos']
+['https://media.gettyimages.com/illustrations/antique-illustration-of-sedan-chair-illustration-id475715129?k=6&m=475715129&s=612x612&w=0&h=orvqmbvH192bE9Mk3s4T7vlyJow-Gfxo0NNZjBDN0bs=']
+U+8206
+14
+yú
+134.10
+舆.mp3
+
+與
+['and', ' with', ' to', ' for', ' give, grant']
+['y', 'con', 'a', 'para', 'dar, conceder']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/photos/directly-above-shot-of-smart-phone-with-blank-screen-against-white-picture-id1173299471?k=6&m=1173299471&s=612x612&w=0&h=RfVxIUbSE724FCK3C1GvmN5q2t6SZ9NpMFY-7i1ym8M=', 'https://media.gettyimages.com/photos/watercolor-paint-on-paper-mixed-to-create-a-watercolor-effect-picture-id1188016482?k=6&m=1188016482&s=612x612&w=0&h=-2kwvfiDnEbHaP8PMuo2LvoOn8DuMXvh5KkrZ--SjVY=', 'https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/vectors/education-grant-icon-vector-id1094500336?k=6&m=1094500336&s=612x612&w=0&h=ck8LAWUKqLePmehg3TJ_W2a8-gxY2hRUABLloEhJ_rk=']
+U+8207
+13
+yǔ
+134.8
+與.mp3
+
+興
+['thrive, prosper, flourish']
+['prosperar, prosperar, florecer']
+['https://media.gettyimages.com/photos/money-growing-picture-id1165711948?k=6&m=1165711948&s=612x612&w=0&h=GERplqOwJ9oM8775bgNSnYsV0KVfaocYQAJc621d-ko=']
+U+8208
+16
+xìng
+134.9
+興.mp3
+
+舉
+['raise, lift up', ' recommend']
+['levantar, levantar', 'recomendar']
+['https://media.gettyimages.com/photos/woman-with-arms-raised-above-crowd-picture-id151811192?k=6&m=151811192&s=612x612&w=0&h=NVf4nyZU4D2JU55GmPK4M4NurdqvrYgEetOsHGK3sAU=', 'https://media.gettyimages.com/vectors/feedback-and-testimonials-line-icons-editable-stroke-pixel-perfect-vector-id1158238775?k=6&m=1158238775&s=612x612&w=0&h=ZiQhSrTzwXGwgIPMOyYFpM_mGjgc6VfO32WuDa9MaBo=']
+U+8209
+16
+jǔ
+134.10
+舉.mp3
+
+舊
+['old, ancient', ' former, past']
+['viejo', 'antiguo, pasado']
+['https://media.gettyimages.com/photos/parchment-paper-picture-id1132975278?k=6&m=1132975278&s=612x612&w=0&h=irHTimR95srY0-ICOXGlwFoxGRI5ozCJkQ-Gmuuhf7E=', 'https://media.gettyimages.com/photos/old-medicine-book-from-qing-dynasty-picture-id184347392?k=6&m=184347392&s=612x612&w=0&h=R7zqhi4D1SDhyprUUjydo2yy7ZH5Z2_CTG5TBuIJq30=']
+U+820A
+17
+jiù
+134.12
+舊.mp3
+
+舋
+['split', ' (Cant.) a mark, trace']
+['división', '(Cant.) Una marca, rastro']
+['https://media.gettyimages.com/photos/ragged-white-paper-picture-id184140028?k=6&m=184140028&s=612x612&w=0&h=M0-_SVsCETOASEfYEPeG3pp9Z6rNLTa79-BGGsIn4AM=', 'NONE']
+U+820B
+20
+xìn
+134.13
+舋.mp3
+
+舌
+['tongue', ' clapper of bell', ' KangXi radical 135']
+['lengua', 'badajo de campana', 'K Ang ξ radical 135']
+['https://media.gettyimages.com/photos/portrait-of-happy-young-woman-with-glasses-sticking-her-tongue-out-picture-id691050747?k=6&m=691050747&s=612x612&w=0&h=f4t-gX40P-4djUsCKDWFpNqkI0cIS3BwHFPEAHUIeBA=', 'https://media.gettyimages.com/vectors/christmas-handbell-vector-id165684225?k=6&m=165684225&s=612x612&w=0&h=famdMP_avuJy7xM4AD_Vo36F1AIxx7qHIr4K8eU6bBk=', 'NONE']
+U+820C
+6
+shé
+135.0
+舌.mp3
+
+舍
+['house, dwelling', ' dwell, reside']
+['casa, vivienda', 'habitar, residir']
+['https://media.gettyimages.com/vectors/real-estate-line-icons-editable-stroke-pixel-perfect-for-mobile-and-vector-id1158830787?k=6&m=1158830787&s=612x612&w=0&h=VVQvGUe4AxWX3mrMVut0YyKTHjzjJWczN-TSOwMnu90=', 'https://media.gettyimages.com/photos/apartment-05-picture-id182148783?k=6&m=182148783&s=612x612&w=0&h=49H49I8L-WNQxtHPWvovLZzqFZj8blpkF24M6XjF5K4=']
+U+820D
+8
+shě shè
+135.2
+舍.mp3
+
+舎
+['house, dwelling', ' dwell, reside']
+['casa, vivienda', 'habitar, residir']
+['https://media.gettyimages.com/vectors/real-estate-line-icons-editable-stroke-pixel-perfect-for-mobile-and-vector-id1158830787?k=6&m=1158830787&s=612x612&w=0&h=VVQvGUe4AxWX3mrMVut0YyKTHjzjJWczN-TSOwMnu90=', 'https://media.gettyimages.com/photos/apartment-05-picture-id182148783?k=6&m=182148783&s=612x612&w=0&h=49H49I8L-WNQxtHPWvovLZzqFZj8blpkF24M6XjF5K4=']
+U+820E
+8
+shè
+135.2
+舎.mp3
+
+舏
+['NONE']
+['NINGUNA']
+[]
+U+820F
+8
+jiǔ
+135.2
+舏.mp3
+
+舐
+['lick with tongue']
+['lamer con lengua']
+['https://media.gettyimages.com/photos/yum-picture-id172422750?k=6&m=172422750&s=612x612&w=0&h=Rp0nWzdxvmlbotSrGLS61OCauNal1fk_hdP7-HL8ZY8=']
+U+8210
+10
+shì
+135.4
+舐.mp3
+
+舑
+['NONE']
+['NINGUNA']
+[]
+U+8211
+11
+tān
+135.5
+舑.mp3
+
+舒
+['open up, unfold, stretch out', ' comfortable, easy']
+['abrir, desplegar, estirar', 'cómodo, fácil']
+['NONE', 'https://media.gettyimages.com/photos/person-wearing-patterned-socks-with-feet-up-on-leather-sofa-picture-id1145040971?k=6&m=1145040971&s=612x612&w=0&h=w0PzJldQsn_b_Nf9Wzipo1akKXWc0tcYzzHZODdYzvU=']
+U+8212
+12
+shū
+135.6
+舒.mp3
+
+舓
+['to lick']
+['lamer']
+['https://media.gettyimages.com/photos/man-and-dog-in-the-park-picture-id934108632?k=6&m=934108632&s=612x612&w=0&h=6mR128QMHPKPYeh6czndtQa36XH_iHxbBR1JFaYM0BA=']
+U+8213
+14
+shì
+135.8
+舓.mp3
+
+舔
+['lick with tongue', ' taste']
+['lamer con lengua', 'gusto']
+['https://media.gettyimages.com/photos/yum-picture-id172422750?k=6&m=172422750&s=612x612&w=0&h=Rp0nWzdxvmlbotSrGLS61OCauNal1fk_hdP7-HL8ZY8=', 'https://media.gettyimages.com/vectors/five-senses-sight-hearing-smell-touch-taste-icons-and-symbols-vector-id1059288106?k=6&m=1059288106&s=612x612&w=0&h=__amgtwzeC6IWvYUCnE_PoYlK-enx7WoTvbmLnO402E=']
+U+8214
+14
+tiǎn
+135.8
+舔.mp3
+
+舕
+['to stick out the tongue']
+['sacar la lengua']
+['https://media.gettyimages.com/photos/closeup-portrait-of-beautiful-woman-sticking-out-tongue-against-black-picture-id739294495?k=6&m=739294495&s=612x612&w=0&h=Fgs9jCbr_OqGXpZVgbjkExT5w5x5YQj8t8AWCxHzuvE=']
+U+8215
+14
+tàn
+135.8
+舕.mp3
+
+舖
+['store, shop']
+['tienda']
+['https://media.gettyimages.com/vectors/black-friday-icons-line-series-vector-id1061303100?k=6&m=1061303100&s=612x612&w=0&h=ClIhHClYyH-8ijC4BdnUXqTVY1FkDupcvBXnTk66OnE=']
+U+8216
+15
+pù
+135.9
+舖.mp3
+
+舗
+['store, shop']
+['tienda']
+['https://media.gettyimages.com/vectors/black-friday-icons-line-series-vector-id1061303100?k=6&m=1061303100&s=612x612&w=0&h=ClIhHClYyH-8ijC4BdnUXqTVY1FkDupcvBXnTk66OnE=']
+U+8217
+15
+pù
+135.9
+舗.mp3
+
+舘
+['a mansion', ' a building']
+['una mansión', 'un edificio']
+['https://media.gettyimages.com/photos/beautiful-swimming-pool-at-an-estate-home-picture-id157193895?k=6&m=157193895&s=612x612&w=0&h=fjtemGNYyYwLEfqpICAKBBQjdSsCjM0XlnA9Zpn4iAQ=', 'https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=']
+U+8218
+16
+guǎn
+135.10
+舘.mp3
+

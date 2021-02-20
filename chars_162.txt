@@ -1,0 +1,2560 @@
+鸙
+['NONE']
+['NINGUNA']
+[]
+U+9E19
+28
+yuè
+196.17
+鸙.mp3
+
+鸚
+['parrot']
+['loro']
+['https://media.gettyimages.com/photos/redandgreen-macaw-picture-id92275497?k=6&m=92275497&s=612x612&w=0&h=yKDYMvJhhrTOvza5s5To-ga9L2zs6SnWas1E9JgXIFI=']
+U+9E1A
+28
+yīng
+196.17
+鸚.mp3
+
+鸛
+['crane, Grus japonensis', ' stork', ' Ciconia species (various)']
+['grulla, Grus japonensis', 'cigüeña', 'Especies de Ciconia (varias)']
+['https://media.gettyimages.com/photos/japanese-cranes-standing-upright-spreading-their-wings-and-preening-picture-id163243504?k=6&m=163243504&s=612x612&w=0&h=GXh53UuLm9_6xxxlDKf-l0dPsRv_gPS3qHFQroH3nEo=', 'https://media.gettyimages.com/vectors/stork-vector-id165636517?k=6&m=165636517&s=612x612&w=0&h=YwIJ4prMe9LBM0sqMSTo2ZUFygorbpKQnbGrtDViRBw=', 'NONE']
+U+9E1B
+28
+guàn
+196.18
+鸛.mp3
+
+鸜
+['a species of mynah']
+['una especie de mynah']
+['https://media.gettyimages.com/photos/common-myna-birds-thailand-picture-id981290070?k=6&m=981290070&s=612x612&w=0&h=77sXT5Fsb3nFjhZzGkR76P7-SLo-9oo6s5u2AtT0wGM=']
+U+9E1C
+29
+qú
+196.18
+鸜.mp3
+
+鸝
+['Chinese oriole', ' Oriolus oriolus']
+['Oropéndola china', 'Oriolus oriolus']
+['NONE', 'https://media.gettyimages.com/photos/african-golden-oriole-picture-id807983580?k=6&m=807983580&s=612x612&w=0&h=OnPtDX-F-aCRi_j_HC1C-7ldN3bOdOIkRzRCyM5IixA=']
+U+9E1D
+30
+lí
+196.19
+鸝.mp3
+
+鸞
+['fabulous bird']
+['pájaro fabuloso']
+['https://media.gettyimages.com/photos/couple-look-out-to-floating-palace-on-lake-at-sunset-picture-id1137780002?k=6&m=1137780002&s=612x612&w=0&h=OWDkaqcVlmCpNGcKH8481FrxsFN0SlxqEYnrQAlmJMg=']
+U+9E1E
+30
+luán
+196.19
+鸞.mp3
+
+鸟
+['bird', ' KangXi radical 196']
+['pájaro', 'K Ang ξ radical 196']
+['https://media.gettyimages.com/vectors/pigeons-flying-silhouettes-2-vector-id1038653776?k=6&m=1038653776&s=612x612&w=0&h=MHfhMDbUxzLkKCKoEbh_6Tf5tRg4FOT0-1awxg10rQc=', 'NONE']
+U+9E1F
+5
+niǎo
+196'.0
+鸟.mp3
+
+鸠
+['pigeon', ' collect, assemble']
+['Paloma', 'recoger, montar']
+['https://media.gettyimages.com/photos/white-dove-isolated-picture-id483585627?k=6&m=483585627&s=612x612&w=0&h=0CHALKflO5kw5bLFqwQqeMRTzJC3xqcTgsVqc8eINtc=', 'https://media.gettyimages.com/vectors/business-workflow-concept-vector-id1149209080?k=6&m=1149209080&s=612x612&w=0&h=OsIYB2cOd0J2tX3cnsjFsD94g74V6JZpgpPIG2yOMUo=']
+U+9E20
+7
+jiū
+196'.2
+鸠.mp3
+
+鸡
+['chicken']
+['pollo']
+['https://media.gettyimages.com/photos/two-raw-chicken-breast-on-white-backdrop-picture-id93456470?k=6&m=93456470&s=612x612&w=0&h=TOrh8wh8eXkqFm8sYMHXnFLohjMOsLgUOwhp9zqyN7k=']
+U+9E21
+7
+jī
+196'.2
+鸡.mp3
+
+鸢
+['kite', ' Milvus species (various)']
+['cometa', 'Especies de Milvus (varias)']
+['https://media.gettyimages.com/photos/rainbow-delta-kite-isolated-on-white-with-clipping-path-picture-id173240166?k=6&m=173240166&s=612x612&w=0&h=c7LGklmhtVMhbZx6r13p31q7PXJ7nEVcwkSsU8SD1j8=', 'https://media.gettyimages.com/illustrations/red-kite-two-birds-perching-on-a-branch-one-perching-on-top-end-of-illustration-id88007935?k=6&m=88007935&s=612x612&w=0&h=AV3r7Z2Y-DJ2fLwNwsMoL6mq_SvBmSKSDL3D554Qiz0=']
+U+9E22
+8
+yuān
+196'.3
+鸢.mp3
+
+鸣
+['cry of bird or animal', ' make sound']
+['grito de pájaro o animal', 'hacer sonido']
+['https://media.gettyimages.com/photos/little-girl-is-crying-till-holding-hen-in-the-farm-picture-id658729544?k=6&m=658729544&s=612x612&w=0&h=vwf6DxOYIyPg4HslMTKn2WVrkCMrB-jWvaF7lcyyOqw=', 'https://media.gettyimages.com/photos/tv-set-studio-kitchen-female-cook-preparing-cookies-picture-id1070097534?k=6&m=1070097534&s=612x612&w=0&h=7M8Q7qh-lVtBEBUQU3mCsUVj4iyqquBXLOs71b_xigs=']
+U+9E23
+8
+míng
+196'.3
+鸣.mp3
+
+鸤
+['turtledove, cuckoo']
+['tórtola, cuco']
+['NONE']
+U+9E24
+8
+shī
+196'.3
+鸤.mp3
+
+鸥
+['seagull, tern', ' Larus species (various)']
+['gaviota, charrán', 'Especies de larus (varias)']
+['https://media.gettyimages.com/vectors/sea-birds-vector-id165682198?k=6&m=165682198&s=612x612&w=0&h=6LOswuHOfx4s_5F9CcoQvfEP4XgohSg6qLJU-7_vOxw=', 'https://media.gettyimages.com/vectors/beach-and-summer-vector-ink-doodles-on-white-background-vector-id696288552?k=6&m=696288552&s=612x612&w=0&h=HIx64fUewlYgQUwntY2Y5wt5l0UfWhEh2dCjublDbh0=']
+U+9E25
+9
+ōu
+196'.4
+鸥.mp3
+
+鸦
+['crow', ' Corvus species (various)']
+['cuervo', 'Especies de Corvus (varias)']
+['https://media.gettyimages.com/photos/raven-in-black-white-isolated-picture-id173542839?k=6&m=173542839&s=612x612&w=0&h=IZBqcdNPVMOMz3PNlkh7TnWrH13wFWPG0uBzgkDV-9I=', 'https://media.gettyimages.com/photos/halloween-jackolantern-pumpkins-on-rustic-wooden-background-picture-id1175106211?k=6&m=1175106211&s=612x612&w=0&h=QWWo7kvPmJMytLEYIRoDz9QY3jWaEZTDxk18bklEEus=']
+U+9E26
+9
+yā
+196'.4
+鸦.mp3
+
+鸧
+['oriole']
+['oriol']
+['https://media.gettyimages.com/photos/baltimore-oriole-in-flight-male-bird-icterus-galbula-picture-id532028122?k=6&m=532028122&s=612x612&w=0&h=9ueviaMJsRMbuicehlztucc21sJJIBhCguPTo-vwIc0=']
+U+9E27
+9
+cāng
+196'.4
+鸧.mp3
+
+鸨
+['bustard', ' procuress', ' Otis species (various)']
+['avutarda', 'proxeneta', 'Especies de Otis (varias)']
+['https://media.gettyimages.com/photos/great-indian-bustard-picture-id186707302?k=6&m=186707302&s=612x612&w=0&h=2XOf-_RKH-QbZ3rs9VDbUtbx7j-nLjJGT29j08WQehU=', 'NONE', 'https://media.gettyimages.com/photos/emoji-badges-on-blue-background-picture-id884378360?k=6&m=884378360&s=612x612&w=0&h=WfvNkeQQayFp2mBsogT_rN6Bp_Bv3rZpZzoRPfAC0ZU=']
+U+9E28
+9
+bǎo
+196'.4
+鸨.mp3
+
+鸩
+['a bird resembling the secretary falcon']
+['un pájaro parecido al halcón secretario']
+['NONE']
+U+9E29
+9
+zhèn
+196'.4
+鸩.mp3
+
+鸪
+['species of Taiwan pigeon']
+['especie de paloma de Taiwán']
+['https://media.gettyimages.com/photos/pigeon-picture-id127379386?k=6&m=127379386&s=612x612&w=0&h=toxbruH8mMF80bXwNn4hVDgHUFL2lYhD_5qFapJTmLs=']
+U+9E2A
+10
+gū
+196'.5
+鸪.mp3
+
+鸫
+['thrush', ' Turdus species (various)']
+['tordo', 'Especies de Turdus (varias)']
+['https://media.gettyimages.com/photos/having-issues-down-there-picture-id1041085098?k=6&m=1041085098&s=612x612&w=0&h=56XKpXMXXBmZRvlnEwF45zMaZpIYwD4LT_Uf8hUD4Cs=', 'https://media.gettyimages.com/illustrations/redstart-male-and-female-perching-side-by-side-side-view-illustration-id88007908?k=6&m=88007908&s=612x612&w=0&h=m7Oj5YfE3IZKfla2h5z0EMaIff2uN6NEPYx4qWwH8EQ=']
+U+9E2B
+10
+dōng
+196'.5
+鸫.mp3
+
+鸬
+['cormorant']
+['cormorán']
+['https://media.gettyimages.com/photos/cormorant-with-wings-spread-picture-id864479014?k=6&m=864479014&s=612x612&w=0&h=LrS5ATDfvovaZ1yazPsz4u6opr3P6DBIbFn7TXeqNKM=']
+U+9E2C
+10
+lú
+196'.5
+鸬.mp3
+
+鸭
+['duck', ' Anas species (various)']
+['Pato', 'Especies de Anas (varias)']
+['https://media.gettyimages.com/photos/side-view-of-a-white-green-and-brown-flying-mallard-drake-picture-id157679422?k=6&m=157679422&s=612x612&w=0&h=yCtnUrB6GcDwXQUqRsEoykYN3RdcwmwaaCJiZugGeKk=', 'https://media.gettyimages.com/photos/selection-of-various-raw-meats-roast-duck-germany-picture-id1168257837?k=6&m=1168257837&s=612x612&w=0&h=eR1hZR4e3COL5z9Ugxmj05xrn4zOn1fPoD4MkmJWeHg=']
+U+9E2D
+10
+yā
+196'.5
+鸭.mp3
+
+鸮
+['owl']
+['búho']
+['https://media.gettyimages.com/photos/wise-owl-picture-id155599332?k=6&m=155599332&s=612x612&w=0&h=3SlC1RkIQ_R4DFk7eTBw18faQQ14_AmCj65bYScBJSs=']
+U+9E2E
+10
+xiāo
+196'.5
+鸮.mp3
+
+鸯
+['female mandarin duck (Aix galericulata)']
+['pato mandarín hembra (Aix galericulata)']
+['https://media.gettyimages.com/photos/female-mandarin-duck-aix-galericulata-standing-on-a-log-in-the-reeds-picture-id1234410688?k=6&m=1234410688&s=612x612&w=0&h=9311MyQAJ9EsdsXdOSm-hShzqclQxMr1Zype9MdMsTQ=']
+U+9E2F
+10
+yāng
+196'.5
+鸯.mp3
+
+鸰
+['species of lark', ' wagtail', ' Motacilla species (various)']
+['especie de alondra', 'aguzanieves', 'Especies de motacilla (varias)']
+['https://media.gettyimages.com/photos/skylark-alauda-arvensis-picture-id1157201214?k=6&m=1157201214&s=612x612&w=0&h=zsHY_mewdyYrG4SBVJ4gpYWcJGsvn06Ho1-RzrIMtPQ=', 'https://media.gettyimages.com/photos/pied-wagtail-picture-id452544699?k=6&m=452544699&s=612x612&w=0&h=abnzixn4iZbkyxpzZe0xNzrMkKB3SA6yFWqYPwfwLiU=', 'NONE']
+U+9E30
+10
+líng
+196'.5
+鸰.mp3
+
+鸱
+['kite, horned owl', ' wine cups']
+['kite, horned owl', ' wine cups']
+['https://media.gettyimages.com/photos/black-bird-red-wings-picture-id1149518797?k=6&m=1149518797&s=612x612&w=0&h=iejXSeEE25ZfIEzSRsK_hqJqQo6c6t5c7AhE7py75Rk=', 'https://media.gettyimages.com/photos/wine-glass-isolated-on-white-picture-id182174764?k=6&m=182174764&s=612x612&w=0&h=CEJCeBEV19jXo-GbqHKjIw406ZwZ7fsknEQR2swN3zY=']
+U+9E31
+10
+chī
+196'.5
+鸱.mp3
+
+鸲
+['mynah', ' Erithacus species (various)']
+['mynah', ' Erithacus species (various)']
+['https://media.gettyimages.com/photos/common-myna-birds-thailand-picture-id981290070?k=6&m=981290070&s=612x612&w=0&h=77sXT5Fsb3nFjhZzGkR76P7-SLo-9oo6s5u2AtT0wGM=', 'https://media.gettyimages.com/vectors/set-of-hand-drawn-birds-vector-id674585702?k=6&m=674585702&s=612x612&w=0&h=6n97mB-R67In9pZLsUnoLdk5Y9Nq1kYoba4gVEy7RHI=']
+U+9E32
+10
+qú
+196'.5
+鸲.mp3
+
+鸳
+['male mandarin duck (Aix galericulata)']
+['male mandarin duck (Aix galericulata)']
+['https://media.gettyimages.com/photos/stunning-male-mandarin-duck-splashing-around-in-a-stream-having-a-picture-id803850402?k=6&m=803850402&s=612x612&w=0&h=IG2-23w6FztyI2imN8hGWV9azsF1CUsAiP9RW-TOfZA=']
+U+9E33
+10
+yuān
+196'.5
+鸳.mp3
+
+鸴
+['oriental bullfinch, weaver bird', ' Pyrrhula species (various)']
+['oriental bullfinch, weaver bird', ' Pyrrhula species (various)']
+['NONE', 'NONE']
+U+9E34
+10
+xué
+196'.5
+鸴.mp3
+
+鸵
+['ostrich']
+['ostrich']
+['https://media.gettyimages.com/photos/ostrich-hiding-his-head-under-sand-picture-id465874351?k=6&m=465874351&s=612x612&w=0&h=mVkw6FXjniIP3IaJrG3_QcTp73OPfaEa_q4I-iUFSJk=']
+U+9E35
+10
+tuó
+196'.5
+鸵.mp3
+
+鸶
+['the eastern egret']
+['the eastern egret']
+['https://media.gettyimages.com/photos/heron-in-mangrove-forest-iriomote-island-okinawa-japan-picture-id1142958171?k=6&m=1142958171&s=612x612&w=0&h=nZuqjE1YNdMhqN_ockiRcEld0ao97HgA2ysErV7vRL4=']
+U+9E36
+10
+sī
+196'.5
+鸶.mp3
+
+鸷
+['hawk, vulture']
+['hawk, vulture']
+['https://media.gettyimages.com/photos/common-buzzard-with-rabbit-picture-id531663493?k=6&m=531663493&s=612x612&w=0&h=AqfUmKlU0i8D-89BfOSDr_6ELu5Sfq2XpXzPuEzwJtk=']
+U+9E37
+11
+zhì
+196'.6
+鸷.mp3
+
+鸸
+['swallow']
+['swallow']
+['https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=']
+U+9E38
+11
+ér
+196'.6
+鸸.mp3
+
+鸹
+['the crow']
+['the crow']
+['https://media.gettyimages.com/photos/young-woman-doing-yoga-meditation-and-stretching-exercises-picture-id508540526?k=6&m=508540526&s=612x612&w=0&h=ukda_EQQzFydhUh_R0k3KrsxUWdW-FSLUVh3pIjqU9A=']
+U+9E39
+11
+guā
+196'.6
+鸹.mp3
+
+鸺
+['horned owl, scops chinensis']
+['horned owl, scops chinensis']
+['NONE']
+U+9E3A
+11
+xiū
+196'.6
+鸺.mp3
+
+鸻
+['NONE']
+['NONE']
+[]
+U+9E3B
+11
+héng
+196'.6
+鸻.mp3
+
+鸼
+['NONE']
+['NONE']
+[]
+U+9E3C
+11
+zhōu
+196'.6
+鸼.mp3
+
+鸽
+['pigeon, dove', ' Columba species (various)']
+['pigeon, dove', ' Columba species (various)']
+['https://media.gettyimages.com/photos/white-dove-isolated-picture-id483585627?k=6&m=483585627&s=612x612&w=0&h=0CHALKflO5kw5bLFqwQqeMRTzJC3xqcTgsVqc8eINtc=', 'https://media.gettyimages.com/vectors/dove-icon-on-black-and-white-vector-backgrounds-vector-id831853670?k=6&m=831853670&s=612x612&w=0&h=jDo9swFZ0y9Oor4aVRBv2Y5cpPhlTKl_1q97wtkSVZU=']
+U+9E3D
+11
+gē
+196'.6
+鸽.mp3
+
+鸾
+['fabulous bird']
+['fabulous bird']
+['https://media.gettyimages.com/photos/couple-look-out-to-floating-palace-on-lake-at-sunset-picture-id1137780002?k=6&m=1137780002&s=612x612&w=0&h=OWDkaqcVlmCpNGcKH8481FrxsFN0SlxqEYnrQAlmJMg=']
+U+9E3E
+11
+luán
+196'.6
+鸾.mp3
+
+鸿
+['species of wild swan', ' vast']
+['species of wild swan', ' vast']
+['https://media.gettyimages.com/photos/beautiful-flamingo-bird-with-pastel-background-picture-id959802368?k=6&m=959802368&s=612x612&w=0&h=3SEeN--H68iFPT83LZGd4k1XVx3XWaqXWIDytYVa8Nk=', 'https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=']
+U+9E3F
+11
+hóng
+196'.6
+鸿.mp3
+
+鹀
+['NONE']
+['NONE']
+[]
+U+9E40
+12
+wú
+196'.7
+鹀.mp3
+
+鹁
+['species of pigeon']
+['species of pigeon']
+['https://media.gettyimages.com/photos/white-dove-isolated-picture-id483585627?k=6&m=483585627&s=612x612&w=0&h=0CHALKflO5kw5bLFqwQqeMRTzJC3xqcTgsVqc8eINtc=']
+U+9E41
+12
+bó
+196'.7
+鹁.mp3
+
+鹂
+['Chinese oriole', ' Oriolus oriolus']
+['Chinese oriole', ' Oriolus oriolus']
+['NONE', 'https://media.gettyimages.com/photos/african-golden-oriole-picture-id807983580?k=6&m=807983580&s=612x612&w=0&h=OnPtDX-F-aCRi_j_HC1C-7ldN3bOdOIkRzRCyM5IixA=']
+U+9E42
+12
+lí
+196'.7
+鹂.mp3
+
+鹃
+['cuckoo']
+['cuckoo']
+['https://media.gettyimages.com/photos/cuckoo-clock-picture-id183268031?k=6&m=183268031&s=612x612&w=0&h=HsEhzfJbtIX7Q7qjjeIHznThR2XJn34ivziqWjj8-IM=']
+U+9E43
+12
+juān
+196'.7
+鹃.mp3
+
+鹄
+['target']
+['target']
+['https://media.gettyimages.com/vectors/target-icon-vector-id986621330?k=6&m=986621330&s=612x612&w=0&h=7sxF5nwJRLftSRYujjr4vHnANVsxSmGebmoGVIodzu8=']
+U+9E44
+12
+gǔ
+196'.7
+鹄.mp3
+
+鹅
+['goose']
+['goose']
+['https://media.gettyimages.com/photos/migrating-canada-geese-picture-id136917788?k=6&m=136917788&s=612x612&w=0&h=6O3iTSdQs0ptuP28pSkUw7dWExhslahxY_TECj8DIyU=']
+U+9E45
+12
+é
+196'.7
+鹅.mp3
+
+鹆
+['myna', ' manah', ' Acridotheres tristis']
+['myna', ' manah', ' Acridotheres tristis']
+['https://media.gettyimages.com/photos/common-myna-birds-thailand-picture-id981290070?k=6&m=981290070&s=612x612&w=0&h=77sXT5Fsb3nFjhZzGkR76P7-SLo-9oo6s5u2AtT0wGM=', 'https://media.gettyimages.com/photos/men-and-women-pilgrims-gathering-around-alharam-mosque-for-prayer-picture-id1149882634?k=6&m=1149882634&s=612x612&w=0&h=vluaKGE7Go0dCL3mYvWE_-m98tBnOCUa3rja16pij5k=', 'https://media.gettyimages.com/photos/common-myna-birds-thailand-picture-id981290070?k=6&m=981290070&s=612x612&w=0&h=77sXT5Fsb3nFjhZzGkR76P7-SLo-9oo6s5u2AtT0wGM=']
+U+9E46
+12
+yù
+196'.7
+鹆.mp3
+
+鹇
+['silver pheasant, Lophura nycthemera', ' Lophura species (various)']
+['silver pheasant, Lophura nycthemera', ' Lophura species (various)']
+['https://media.gettyimages.com/photos/silver-pheasant-picture-id1126671997?k=6&m=1126671997&s=612x612&w=0&h=_YR-S4eNXnR2QviVy4yDYrJD0E_nJMWhDbQ6Jrz-Bv0=', 'NONE']
+U+9E47
+12
+xián
+196'.7
+鹇.mp3
+
+鹈
+['pelican']
+['pelican']
+['https://media.gettyimages.com/vectors/pelican-silhouettes-vector-id528439033?k=6&m=528439033&s=612x612&w=0&h=f8f5tURXlK-xO1k-8nEcLZM3Xeih12SdaoyksfRzHuw=']
+U+9E48
+12
+tí
+196'.7
+鹈.mp3
+
+鹉
+['species of parrot']
+['species of parrot']
+['https://media.gettyimages.com/photos/big-family-picture-id1163498728?k=6&m=1163498728&s=612x612&w=0&h=LElCLVAT60Wlpbda2L3queN1oq_vQRyGDdBFWCfNlz8=']
+U+9E49
+13
+wǔ
+196'.8
+鹉.mp3
+
+鹊
+['magpie', ' Pica species (various)']
+['magpie', ' Pica species (various)']
+['https://media.gettyimages.com/vectors/magpie-bird-poses-set-vector-illustration-vector-id911284564?k=6&m=911284564&s=612x612&w=0&h=SssdYk6TrjSULuUG1gEvTLJGkQe-sfz0P__XPlFWQPk=', 'https://media.gettyimages.com/photos/produce-grocery-store-picture-id1040778340?k=6&m=1040778340&s=612x612&w=0&h=bP7fFX6CJLkgg4sIACblHM4CQe3ghHGUO1wDHdkT-Ds=']
+U+9E4A
+13
+què
+196'.8
+鹊.mp3
+
+鹋
+['emu']
+['emu']
+['https://media.gettyimages.com/photos/closeup-of-an-australian-emu-picture-id1130356655?k=6&m=1130356655&s=612x612&w=0&h=d4pdg1jn2zIfAy4THjiYdQhv_CIZDUmss089xTRwFv8=']
+U+9E4B
+13
+miáo
+196'.8
+鹋.mp3
+
+鹌
+['quail', ' Coturnix coturnix']
+['quail', ' Coturnix coturnix']
+['https://media.gettyimages.com/vectors/blue-quail-icons-vector-id858028068?k=6&m=858028068&s=612x612&w=0&h=pI9ZJ7QmZKwSAK7L4aSEQsHRv2822iL4-oou4mKQG0s=', 'https://media.gettyimages.com/photos/common-quail-picture-id1192962853?k=6&m=1192962853&s=612x612&w=0&h=my6zaWfDDne4NHToTbY1x-Y0Cxygi7C_FnxNGwisOpg=']
+U+9E4C
+13
+ān
+196'.8
+鹌.mp3
+
+鹍
+['a bird resembling the crane']
+['a bird resembling the crane']
+['https://media.gettyimages.com/photos/businesswoman-looking-at-an-origami-crane-picture-id88797481?k=6&m=88797481&s=612x612&w=0&h=ykCxtuM-rtaGSjeIkEod4lkqoNdQUJBYlN2A9gwjdfE=']
+U+9E4D
+13
+kūn
+196'.8
+鹍.mp3
+
+鹎
+['bird']
+['bird']
+['https://media.gettyimages.com/vectors/pigeons-flying-silhouettes-2-vector-id1038653776?k=6&m=1038653776&s=612x612&w=0&h=MHfhMDbUxzLkKCKoEbh_6Tf5tRg4FOT0-1awxg10rQc=']
+U+9E4E
+13
+bēi
+196'.8
+鹎.mp3
+
+鹏
+['fabulous bird of enormous size']
+['fabulous bird of enormous size']
+['https://media.gettyimages.com/photos/eclectic-living-room-with-stacks-of-books-and-large-birdcage-picture-id97562256?k=6&m=97562256&s=612x612&w=0&h=oBU055iQ-U57RfUfpSDcGczhJOEPhPnViHaptG6nNbc=']
+U+9E4F
+13
+péng
+196'.8
+鹏.mp3
+
+鹐
+['to peck, as birds']
+['to peck, as birds']
+['https://media.gettyimages.com/photos/pigeons-scatter-as-child-runs-towards-them-picture-id1268698137?k=6&m=1268698137&s=612x612&w=0&h=7EM46NM1_E-lFBHIfjKymC20G6g-zqlXk1n5RVCBjiI=']
+U+9E50
+13
+qiān
+196'.8
+鹐.mp3
+
+鹑
+['quail', ' Turnix species (various)']
+['quail', ' Turnix species (various)']
+['https://media.gettyimages.com/vectors/blue-quail-icons-vector-id858028068?k=6&m=858028068&s=612x612&w=0&h=pI9ZJ7QmZKwSAK7L4aSEQsHRv2822iL4-oou4mKQG0s=', 'NONE']
+U+9E51
+13
+chún
+196'.8
+鹑.mp3
+
+鹒
+['oriole']
+['oriole']
+['https://media.gettyimages.com/photos/baltimore-oriole-in-flight-male-bird-icterus-galbula-picture-id532028122?k=6&m=532028122&s=612x612&w=0&h=9ueviaMJsRMbuicehlztucc21sJJIBhCguPTo-vwIc0=']
+U+9E52
+13
+gēng
+196'.8
+鹒.mp3
+
+鹓
+['co-worker']
+['co-worker']
+['https://media.gettyimages.com/photos/need-everyone-to-give-me-their-best-ideas-picture-id863497498?k=6&m=863497498&s=612x612&w=0&h=hkY198qY7oFO8nSNWDjoVWwFojiqm_IdJ7ZME5RUTGw=']
+U+9E53
+13
+yuān
+196'.8
+鹓.mp3
+
+鹔
+['turquoise kingfisher']
+['turquoise kingfisher']
+['https://media.gettyimages.com/photos/full-length-of-kingfisher-flying-outdoors-picture-id1054398000?k=6&m=1054398000&s=612x612&w=0&h=My6Uf2mxjtW_mcXzxUdu_02v8kiY-uG0KY2rWH9DTsM=']
+U+9E54
+13
+sù
+196'.8
+鹔.mp3
+
+鹕
+['pelican']
+['pelican']
+['https://media.gettyimages.com/vectors/pelican-silhouettes-vector-id528439033?k=6&m=528439033&s=612x612&w=0&h=f8f5tURXlK-xO1k-8nEcLZM3Xeih12SdaoyksfRzHuw=']
+U+9E55
+14
+hú
+196'.9
+鹕.mp3
+
+鹖
+['crossbill, species of nightingale']
+['crossbill, species of nightingale']
+['NONE']
+U+9E56
+14
+hé
+196'.9
+鹖.mp3
+
+鹗
+['osprey, fishhawk']
+['osprey, fishhawk']
+['https://media.gettyimages.com/photos/hang-eight-picture-id1130003387?k=6&m=1130003387&s=612x612&w=0&h=Db6drm2J6-XaziM4fmpcXxRFGvce3TXF2xlJTUMReZY=']
+U+9E57
+14
+è
+196'.9
+鹗.mp3
+
+鹘
+['a kind of pigeon', ' treron permagna']
+['a kind of pigeon', ' treron permagna']
+['https://media.gettyimages.com/photos/girls-feeding-bird-picture-id1158060493?k=6&m=1158060493&s=612x612&w=0&h=zdfOgH4QD2UptnEbccphCai2UE_1o37xXdfwVJCKLVc=', 'NONE']
+U+9E58
+14
+gǔ
+196'.10
+鹘.mp3
+
+鹙
+['large waterfowl with naked head', ' Garrulus glandarius']
+['large waterfowl with naked head', ' Garrulus glandarius']
+['NONE', 'https://media.gettyimages.com/photos/lantz-spain-picture-id1068087734?k=6&m=1068087734&s=612x612&w=0&h=1H6djX0Nw9bXwD0vWySsJ1mRkgedKMEc_Ll9rKCOG0E=']
+U+9E59
+14
+qiū
+196'.9
+鹙.mp3
+
+鹚
+['cormorant']
+['cormorant']
+['https://media.gettyimages.com/photos/cormorant-with-wings-spread-picture-id864479014?k=6&m=864479014&s=612x612&w=0&h=LrS5ATDfvovaZ1yazPsz4u6opr3P6DBIbFn7TXeqNKM=']
+U+9E5A
+14
+cí
+196'.9
+鹚.mp3
+
+鹛
+['NONE']
+['NONE']
+[]
+U+9E5B
+14
+méi
+196'.9
+鹛.mp3
+
+鹜
+['duck']
+['duck']
+['https://media.gettyimages.com/photos/side-view-of-a-white-green-and-brown-flying-mallard-drake-picture-id157679422?k=6&m=157679422&s=612x612&w=0&h=yCtnUrB6GcDwXQUqRsEoykYN3RdcwmwaaCJiZugGeKk=']
+U+9E5C
+14
+wù
+196'.9
+鹜.mp3
+
+鹝
+['pheasant']
+['pheasant']
+['https://media.gettyimages.com/photos/flying-rooster-pheasant-isolated-on-white-picture-id1065862132?k=6&m=1065862132&s=612x612&w=0&h=liL3MZjIkVCYLXvn7TxEtUiXCwDuio9nJ4xGnijuXE4=']
+U+9E5D
+15
+yì
+196'.10
+鹝.mp3
+
+鹞
+['sparrow hawk', ' kite shaped like']
+['sparrow hawk', ' kite shaped like']
+['https://media.gettyimages.com/vectors/usa-tattoo-flash-vector-id476431195?k=6&m=476431195&s=612x612&w=0&h=hYK2a4DNil6YRr-_LeYftoIK1zwd7fZnYF0pV7zmax8=', 'https://media.gettyimages.com/photos/octopusshaped-kite-in-the-sky-picture-id932628540?k=6&m=932628540&s=612x612&w=0&h=05hJ2uAPvbdkTNvdq3qd_lgnqn2hgfyVbpYyDmV_7us=']
+U+9E5E
+15
+yào
+196'.10
+鹞.mp3
+
+鹟
+['NONE']
+['NONE']
+[]
+U+9E5F
+15
+wēng
+196'.10
+鹟.mp3
+
+鹠
+['the owl']
+['the owl']
+['https://media.gettyimages.com/photos/wise-owl-picture-id155599332?k=6&m=155599332&s=612x612&w=0&h=3SlC1RkIQ_R4DFk7eTBw18faQQ14_AmCj65bYScBJSs=']
+U+9E60
+15
+liú
+196'.10
+鹠.mp3
+
+鹡
+['wagtail']
+['wagtail']
+['https://media.gettyimages.com/photos/pied-wagtail-picture-id452544699?k=6&m=452544699&s=612x612&w=0&h=abnzixn4iZbkyxpzZe0xNzrMkKB3SA6yFWqYPwfwLiU=']
+U+9E61
+15
+jí
+196'.10
+鹡.mp3
+
+鹢
+['fishhawk bow or prow']
+['fishhawk bow or prow']
+['NONE']
+U+9E62
+15
+yì
+196'.10
+鹢.mp3
+
+鹣
+['fabulous mythical bird']
+['fabulous mythical bird']
+['https://media.gettyimages.com/photos/beautiful-collection-gray-baby-blue-feather-isolated-on-white-picture-id1207259162?k=6&m=1207259162&s=612x612&w=0&h=gUehcjfGacTQIMEKjFpqfmi0c_yeRwCL27qDkyZZOOs=']
+U+9E63
+15
+jiān
+196'.10
+鹣.mp3
+
+鹤
+['crane', ' Grus species (various)']
+['crane', ' Grus species (various)']
+['https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=', 'https://media.gettyimages.com/photos/flock-of-origami-cranes-picture-idsb10064839e-003?k=6&m=sb10064839e-003&s=612x612&w=0&h=KPcG9UuGn4cnUwOEMbxyIBRDifVvKmX4WP4MuM3Xz5o=']
+U+9E64
+15
+hè
+196'.10
+鹤.mp3
+
+鹥
+['seagull']
+['seagull']
+['https://media.gettyimages.com/photos/curious-seagull-picture-id157195802?k=6&m=157195802&s=612x612&w=0&h=jqll0mLGvmNjx5-PHkBm1465GZ1reesv-mIzmlJaOq0=']
+U+9E65
+16
+yī
+196'.11
+鹥.mp3
+
+鹦
+['parrot']
+['parrot']
+['https://media.gettyimages.com/photos/redandgreen-macaw-picture-id92275497?k=6&m=92275497&s=612x612&w=0&h=yKDYMvJhhrTOvza5s5To-ga9L2zs6SnWas1E9JgXIFI=']
+U+9E66
+16
+yīng
+196'.11
+鹦.mp3
+
+鹧
+['partridge']
+['partridge']
+['https://media.gettyimages.com/photos/red-legged-partridge-picture-id135287834?k=6&m=135287834&s=612x612&w=0&h=T-g5L0gbslaVxn5XF9SvJd4Q3ePpCeHYFXhF-_En3hY=']
+U+9E67
+16
+zhè
+196'.11
+鹧.mp3
+
+鹨
+['Anthus species (various)']
+['Anthus species (various)']
+['NONE']
+U+9E68
+16
+liù
+196'.11
+鹨.mp3
+
+鹩
+['wren']
+['wren']
+['https://media.gettyimages.com/photos/wren-sitting-on-wooden-post-singing-picture-id1098348608?k=6&m=1098348608&s=612x612&w=0&h=Ip54Q-yrA4tsrwSYRbHCkr5T_VXj7USFpC-N1S0OeR4=']
+U+9E69
+17
+liáo
+196'.12
+鹩.mp3
+
+鹪
+['wren']
+['wren']
+['https://media.gettyimages.com/photos/wren-sitting-on-wooden-post-singing-picture-id1098348608?k=6&m=1098348608&s=612x612&w=0&h=Ip54Q-yrA4tsrwSYRbHCkr5T_VXj7USFpC-N1S0OeR4=']
+U+9E6A
+17
+jiāo
+196'.12
+鹪.mp3
+
+鹫
+['condor, vulture']
+['condor, vulture']
+['https://media.gettyimages.com/vectors/blue-condor-icon-vector-id483263968?k=6&m=483263968&s=612x612&w=0&h=jk75ZzkWPr8OU3l2a5WDFqlcN-XAw9dsH6RpeFLTdyk=']
+U+9E6B
+17
+jiù
+196'.12
+鹫.mp3
+
+鹬
+['snipe, kingfisher']
+['snipe, kingfisher']
+['NONE']
+U+9E6C
+17
+yù
+196'.12
+鹬.mp3
+
+鹭
+['heron, egret', ' Ardea species (various)']
+['heron, egret', ' Ardea species (various)']
+['https://media.gettyimages.com/vectors/herons-vector-id165498461?k=6&m=165498461&s=612x612&w=0&h=qMh1kD_Oag7_X-qRATN73hlt73bjIX5TG8AizIVFjT0=', 'https://media.gettyimages.com/vectors/silhouette-collection-of-birds-vector-id165687224?k=6&m=165687224&s=612x612&w=0&h=5KYEdl5iZK2kYD6BC-77rt2FtvW8lsDz7DqayOGyAyA=']
+U+9E6D
+18
+lù
+196'.13
+鹭.mp3
+
+鹮
+['spoonbill', ' ibis', ' family Threskiornidae']
+['spoonbill', ' ibis', ' family Threskiornidae']
+['https://media.gettyimages.com/photos/roseate-spoonbill-in-breeding-plumage-spreading-wings-picture-id200481015-001?k=6&m=200481015-001&s=612x612&w=0&h=GLB--BGWG4RR3n6vg2oYqAyjKukZSO4Jiee-KcpvDHk=', 'https://media.gettyimages.com/photos/blackheaded-ibis-perching-on-garbage-can-against-brick-wall-picture-id650032287?k=6&m=650032287&s=612x612&w=0&h=6uEzyCUV3kfifXBUjIPEte5KBg-LtiZUmv1arLOJLeQ=', 'NONE']
+U+9E6E
+18
+huán
+196'.13
+鹮.mp3
+
+鹯
+['hawk', ' Butastur indicus']
+['hawk', ' Butastur indicus']
+['https://media.gettyimages.com/photos/closeup-of-a-red-tailed-hawk-buteo-jamaicensis-picture-id157613274?k=6&m=157613274&s=612x612&w=0&h=2Ewoku5PwQomaeMcXz9CrlBlSZRevUfcEM4qzRPKNT4=', 'NONE']
+U+9E6F
+18
+zhān
+196'.13
+鹯.mp3
+
+鹰
+['falcon', ' Accipiter species (various)']
+['falcon', ' Accipiter species (various)']
+['https://media.gettyimages.com/photos/chocolate-labrador-retriever-picture-id503936874?k=6&m=503936874&s=612x612&w=0&h=c1XnJDRjc0W1lkV0KCMlXaIylVxyPSycKmt6YuQ8T08=', 'https://media.gettyimages.com/photos/african-fish-eagle-haliaeetus-vocifer-fighting-with-marabou-storks-picture-id128111827?k=6&m=128111827&s=612x612&w=0&h=u3oDMr7wGlsI6UvQSJW2lRVMw_gwff7vheVrJyEOZV4=']
+U+9E70
+18
+yīng
+196'.13
+鹰.mp3
+
+鹱
+['NONE']
+['NONE']
+[]
+U+9E71
+18
+hù
+196'.14
+鹱.mp3
+
+鹲
+['NONE']
+['NONE']
+[]
+U+9E72
+18
+méng
+196'.14
+鹲.mp3
+
+鹳
+['crane, grus japonensis', ' stork', ' Ciconia species (various)']
+['crane, grus japonensis', ' stork', ' Ciconia species (various)']
+['https://media.gettyimages.com/photos/japanese-cranes-standing-upright-spreading-their-wings-and-preening-picture-id163243504?k=6&m=163243504&s=612x612&w=0&h=GXh53UuLm9_6xxxlDKf-l0dPsRv_gPS3qHFQroH3nEo=', 'https://media.gettyimages.com/vectors/stork-vector-id165636517?k=6&m=165636517&s=612x612&w=0&h=YwIJ4prMe9LBM0sqMSTo2ZUFygorbpKQnbGrtDViRBw=', 'NONE']
+U+9E73
+22
+guàn
+196'.17
+鹳.mp3
+
+鹴
+['eagle']
+['eagle']
+['https://media.gettyimages.com/vectors/eagle-icons-vector-id897183572?k=6&m=897183572&s=612x612&w=0&h=zpKzQGhfdoRw2uwCGQYliBoVThIxUbdoQv1zfkElOWU=']
+U+9E74
+22
+shuāng
+196'.17
+鹴.mp3
+
+鹵
+['saline soil', ' natural salt, rock']
+['saline soil', ' natural salt, rock']
+['https://media.gettyimages.com/photos/salt-lake-pink-picture-id514449626?k=6&m=514449626&s=612x612&w=0&h=PasK3-MQ_Mcx6O4gvSwvIB3v_taT8BC5DVjlVtfo90o=', 'https://media.gettyimages.com/photos/organic-oil-and-salt-with-lavender-on-table-cloth-picture-id168860178?k=6&m=168860178&s=612x612&w=0&h=ptWx4BPAVFTGmZgPkWKinTXayWRqhQNAyo9ScU_AKsk=']
+U+9E75
+11
+lǔ
+197.0
+鹵.mp3
+
+鹶
+['salty and bitter', ' pitiful']
+['salty and bitter', ' pitiful']
+['https://media.gettyimages.com/illustrations/illustration-of-human-tongue-showing-areas-of-taste-highlighted-in-illustration-id88021929?k=6&m=88021929&s=612x612&w=0&h=z92mI2cQFU2I4s1m56U-wxnJjQIZ3BMeekBtYtCKo84=', 'https://media.gettyimages.com/photos/portrait-of-pensive-woman-sitting-at-table-in-the-kitchen-picture-id919440232?k=6&m=919440232&s=612x612&w=0&h=6yI90cmoKY8Xd-e-7Fb_2HJkUl00XA29QmR_x_AD_Hs=']
+U+9E76
+15
+jīn
+197.4
+鹶.mp3
+
+鹷
+['NONE']
+['NONE']
+[]
+U+9E77
+16
+líng
+197.5
+鹷.mp3
+
+鹸
+['alkaline, alkali, lye, salt']
+['alkaline, alkali, lye, salt']
+['NONE']
+U+9E78
+19
+jiǎn
+197.8
+鹸.mp3
+
+鹹
+['salty, briny', ' salted', ' pickled']
+['salty, briny', ' salted', ' pickled']
+['https://media.gettyimages.com/photos/salinas-de-janubio-lanzarote-picture-id171269307?k=6&m=171269307&s=612x612&w=0&h=URf6RhL2Ie5D865bu4Ift9A0Vi9PiW4w0R3qK2Z2Whs=', 'https://media.gettyimages.com/photos/salted-peanuts-background-picture-id157294999?k=6&m=157294999&s=612x612&w=0&h=aa8YWn7RILLHNxs4AKW79HsRiCKUP0r4zCLY8nOOgDk=', 'https://media.gettyimages.com/photos/pickled-gherkins-picture-id171292196?k=6&m=171292196&s=612x612&w=0&h=rLiQzPPeXNSZlVobiwaxXfZwOEe5TMLWAhCe1elgOM4=']
+U+9E79
+20
+xián
+197.9
+鹹.mp3
+
+鹺
+['salty', ' salt']
+['salty', ' salt']
+['https://media.gettyimages.com/photos/heap-of-salt-picture-id165820985?k=6&m=165820985&s=612x612&w=0&h=V-90pMcllFPWY6t17Ra7ehxpciTM8LwB3tqIjsTf3C8=', 'https://media.gettyimages.com/photos/heap-of-salt-picture-id165820985?k=6&m=165820985&s=612x612&w=0&h=V-90pMcllFPWY6t17Ra7ehxpciTM8LwB3tqIjsTf3C8=']
+U+9E7A
+20
+cuó
+197.10
+鹺.mp3
+
+鹻
+['impure carbonate of sodium of natron']
+['impure carbonate of sodium of natron']
+['NONE']
+U+9E7B
+21
+jiǎn
+197.10
+鹻.mp3
+
+鹼
+['alkaline, alkali, lye, salt']
+['alkaline, alkali, lye, salt']
+['NONE']
+U+9E7C
+24
+jiǎn
+197.13
+鹼.mp3
+
+鹽
+['(same as of ']
+['(same as of ']
+['https://media.gettyimages.com/vectors/red-and-black-aces-seamless-pattern-vector-id903522566?k=6&m=903522566&s=612x612&w=0&h=PbQ2nH9P03BuYDRKCWxUiOu5a3kNPj1mPRscZkxvVD8=']
+U+9E7D
+24
+yán
+197.13
+鹽.mp3
+
+鹾
+['salty', ' salt']
+['salty', ' salt']
+['https://media.gettyimages.com/photos/heap-of-salt-picture-id165820985?k=6&m=165820985&s=612x612&w=0&h=V-90pMcllFPWY6t17Ra7ehxpciTM8LwB3tqIjsTf3C8=', 'https://media.gettyimages.com/photos/heap-of-salt-picture-id165820985?k=6&m=165820985&s=612x612&w=0&h=V-90pMcllFPWY6t17Ra7ehxpciTM8LwB3tqIjsTf3C8=']
+U+9E7E
+16
+cuó
+197'.9
+鹾.mp3
+
+鹿
+['deer', ' surname', ' KangXi radical 198']
+['deer', ' surname', ' KangXi radical 198']
+['https://media.gettyimages.com/photos/fawn-picture-id91696445?k=6&m=91696445&s=612x612&w=0&h=_07IbDnnldamy-qMmrasCnwcwCy0x71cCJPHF_dGew4=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE']
+U+9E7F
+11
+lù
+198.0
+鹿.mp3
+
+麀
+['female deer', ' roe, doe']
+['female deer', ' roe, doe']
+['https://media.gettyimages.com/photos/young-red-deer-doe-standing-picture-id898667300?k=6&m=898667300&s=612x612&w=0&h=DD5I1lfgZ34dCiKb_Jqws9dek7hBesVn_TTqrgATQVs=', 'https://media.gettyimages.com/photos/roebuck-and-roe-doe-at-edge-of-arable-field-picture-id674914603?k=6&m=674914603&s=612x612&w=0&h=_96HuXmKd38WaVHFPNKrhysAV8g_GqVZfPSeFDaSnak=']
+U+9E80
+13
+yōu
+198.2
+麀.mp3
+
+麁
+['rough, thick, course', ' rude']
+['rough, thick, course', ' rude']
+['https://media.gettyimages.com/photos/vehicle-tracks-through-thick-layer-of-ice-with-blue-sky-and-sun-above-picture-id1090670320?k=6&m=1090670320&s=612x612&w=0&h=8v7pIlJDZmnzAtN9Z2seCc9f4bDwl2Bh9kppnxThGSs=', 'https://media.gettyimages.com/vectors/curse-vector-id503782483?k=6&m=503782483&s=612x612&w=0&h=3gdYOAvjXZ9eqwu42xJeT5Yh5ZKuETtjPti_05tJvII=']
+U+9E81
+13
+cū
+198.2
+麁.mp3
+
+麂
+['species of deer']
+['species of deer']
+['https://media.gettyimages.com/vectors/colourful-sunny-landscape-with-plants-trees-and-deers-vector-id167252016?k=6&m=167252016&s=612x612&w=0&h=Tjpq8SsGICx7eySPlQK-QU6PtpNmdS_zSIgQkdvr5TQ=']
+U+9E82
+13
+jǐ
+198.2
+麂.mp3
+
+麃
+['till, plow']
+['till, plow']
+['https://media.gettyimages.com/photos/tractor-working-on-the-field-in-sunlight-picture-id480818120?k=6&m=480818120&s=612x612&w=0&h=j28MLNqKoxC-1A0__vjFRXf7I9Gvb2ntRpBc5F2VMC8=']
+U+9E83
+15
+páo biāo
+198.4
+麃.mp3
+
+麄
+['coarse, rough, rude']
+['coarse, rough, rude']
+['https://media.gettyimages.com/photos/wall-background-picture-id677426632?k=6&m=677426632&s=612x612&w=0&h=7eHIALz0tu9CglEvqZ2ISueRuitiUI6l5bLcJtrSwNQ=']
+U+9E84
+15
+cū
+198.4
+麄.mp3
+
+麅
+['a small spotted deer found in north China']
+['a small spotted deer found in north China']
+['NONE']
+U+9E85
+16
+páo
+198.5
+麅.mp3
+
+麆
+['NONE']
+['NONE']
+[]
+U+9E86
+16
+zhù
+198.5
+麆.mp3
+
+麇
+['general name for the hornless deer', ' to collect to band together']
+['general name for the hornless deer', ' to collect to band together']
+['NONE', 'https://media.gettyimages.com/photos/woman-planting-while-maltese-dog-is-besides-her-picture-id1219234129?k=6&m=1219234129&s=612x612&w=0&h=FI4I7ou1U9No1dN9ofzqi7otMBByGf3hPnHJTad3WNA=']
+U+9E87
+16
+jūn
+198.5
+麇.mp3
+
+麈
+['species of deer']
+['species of deer']
+['https://media.gettyimages.com/vectors/colourful-sunny-landscape-with-plants-trees-and-deers-vector-id167252016?k=6&m=167252016&s=612x612&w=0&h=Tjpq8SsGICx7eySPlQK-QU6PtpNmdS_zSIgQkdvr5TQ=']
+U+9E88
+16
+zhǔ
+198.5
+麈.mp3
+
+麉
+['NONE']
+['NONE']
+[]
+U+9E89
+17
+jiān
+198.6
+麉.mp3
+
+麊
+['NONE']
+['NONE']
+[]
+U+9E8A
+17
+mí
+198.6
+麊.mp3
+
+麋
+['elk', ' surname']
+['elk', ' surname']
+['https://media.gettyimages.com/photos/colorado-bull-moose-picture-id1005656358?k=6&m=1005656358&s=612x612&w=0&h=Sv3yhnUg8xcK17OWCEW827zPmarXK4ZlkbKNcwZlh4s=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9E8B
+17
+mí
+198.6
+麋.mp3
+
+麌
+['stag', ' herd']
+['stag', ' herd']
+['https://media.gettyimages.com/photos/happy-group-of-men-at-a-bachelor-party-picture-id494348116?k=6&m=494348116&s=612x612&w=0&h=L43wHJtJU171cxXHUvj0p6BestqHVNfZWZhyljYnjhs=', 'https://media.gettyimages.com/photos/zebra-herd-picture-id545671718?k=6&m=545671718&s=612x612&w=0&h=H3PU92I6dy-dVjyUpOJ5G7YsGsKAwoa6NQMlnI_k0CE=']
+U+9E8C
+18
+yǔ
+198.7
+麌.mp3
+
+麍
+['NONE']
+['NONE']
+[]
+U+9E8D
+18
+liú
+198.7
+麍.mp3
+
+麎
+['NONE']
+['NONE']
+[]
+U+9E8E
+18
+chén
+198.7
+麎.mp3
+
+麏
+['NONE']
+['NONE']
+[]
+U+9E8F
+18
+jūn
+198.7
+麏.mp3
+
+麐
+['female of Chinese unicorn']
+['female of Chinese unicorn']
+['https://media.gettyimages.com/photos/woman-holding-a-birthday-cupcake-wearing-a-party-hat-picture-id1061495430?k=6&m=1061495430&s=612x612&w=0&h=hD0APIXwX1bhHDUlXBPcMNfVkbw222yR2kHe_A-ttKI=']
+U+9E90
+18
+lín
+198.7
+麐.mp3
+
+麑
+['fawn, young deer']
+['fawn, young deer']
+['https://media.gettyimages.com/photos/fawn-picture-id91696445?k=6&m=91696445&s=612x612&w=0&h=_07IbDnnldamy-qMmrasCnwcwCy0x71cCJPHF_dGew4=']
+U+9E91
+19
+ní
+198.8
+麑.mp3
+
+麒
+['legendary auspicious animal']
+['legendary auspicious animal']
+['https://media.gettyimages.com/photos/hamster-with-balloons-picture-id1213682502?k=6&m=1213682502&s=612x612&w=0&h=KNseo8b4VbmM4YUozndh9yFwhu80hWPcYpfGf9B2RGs=']
+U+9E92
+19
+qí
+198.8
+麒.mp3
+
+麓
+['foot of hill', ' foothill']
+['foot of hill', ' foothill']
+['https://media.gettyimages.com/photos/closeup-of-feet-of-a-trail-runner-picture-id1125236004?k=6&m=1125236004&s=612x612&w=0&h=lWwS3TBvr0kpzXbZCUE7rpgQUAYsIdCUAatCZDvgbI8=', 'https://media.gettyimages.com/photos/looking-into-the-valley-from-kagel-canyon-picture-id658284714?k=6&m=658284714&s=612x612&w=0&h=trwkKbntug2PZmLzpTv4Lw2ohu6tEPYt94Ti1z1n4Os=']
+U+9E93
+19
+lù
+198.8
+麓.mp3
+
+麔
+['NONE']
+['NONE']
+[]
+U+9E94
+19
+jiù
+198.8
+麔.mp3
+
+麕
+['muntjac deer, hornless river deer']
+['muntjac deer, hornless river deer']
+['NONE']
+U+9E95
+19
+jūn
+198.8
+麕.mp3
+
+麖
+['NONE']
+['NONE']
+[]
+U+9E96
+19
+jīng
+198.8
+麖.mp3
+
+麗
+['beautiful, magnificent, elegant']
+['beautiful, magnificent, elegant']
+['https://media.gettyimages.com/vectors/colorful-geometric-background-vector-id1141259289?k=6&m=1141259289&s=612x612&w=0&h=V596Am23eRWGwZW95HWDhg9ShT5r-_4Y5pFoOgPKJCQ=']
+U+9E97
+19
+lì
+198.8
+麗.mp3
+
+麘
+['scent']
+['scent']
+['https://media.gettyimages.com/photos/african-american-woman-spraying-perfume-on-wrist-picture-id916194640?k=6&m=916194640&s=612x612&w=0&h=zSbydReOA_6kUnnuOIrAtQLbBAzAZGxI-meqr1a41F0=']
+U+9E98
+20
+xiāng
+198.9
+麘.mp3
+
+麙
+['NONE']
+['NONE']
+[]
+U+9E99
+20
+xián
+198.9
+麙.mp3
+
+麚
+['NONE']
+['NONE']
+[]
+U+9E9A
+20
+jiā
+198.9
+麚.mp3
+
+麛
+['fawn']
+['fawn']
+['https://media.gettyimages.com/photos/fawn-picture-id91696445?k=6&m=91696445&s=612x612&w=0&h=_07IbDnnldamy-qMmrasCnwcwCy0x71cCJPHF_dGew4=']
+U+9E9B
+20
+mí
+198.9
+麛.mp3
+
+麜
+['NONE']
+['NONE']
+[]
+U+9E9C
+21
+lì
+198.10
+麜.mp3
+
+麝
+['musk deer']
+['musk deer']
+['https://media.gettyimages.com/illustrations/musk-deer-old-woodcut-illustration-illustration-id1226090585?k=6&m=1226090585&s=612x612&w=0&h=8jht2KDcw_60-L_vKM8V6UYNBNUKbwM2HDaG9ACDX78=']
+U+9E9D
+21
+shè
+198.10
+麝.mp3
+
+麞
+['roebuck, Moschus chinloo']
+['roebuck, Moschus chinloo']
+['NONE']
+U+9E9E
+22
+zhāng
+198.11
+麞.mp3
+
+麟
+['female of Chinese unicorn']
+['female of Chinese unicorn']
+['https://media.gettyimages.com/photos/woman-holding-a-birthday-cupcake-wearing-a-party-hat-picture-id1061495430?k=6&m=1061495430&s=612x612&w=0&h=hD0APIXwX1bhHDUlXBPcMNfVkbw222yR2kHe_A-ttKI=']
+U+9E9F
+23
+lín
+198.12
+麟.mp3
+
+麠
+['a large deer']
+['a large deer']
+['https://media.gettyimages.com/photos/call-of-the-wild-picture-id183765700?k=6&m=183765700&s=612x612&w=0&h=s2qMSKagBExgjsUMfn2rt4BSsWa2beGS3u3PA8rftns=']
+U+9EA0
+24
+jīng
+198.13
+麠.mp3
+
+麡
+['NONE']
+['NONE']
+[]
+U+9EA1
+25
+qí
+198.14
+麡.mp3
+
+麢
+['NONE']
+['NONE']
+[]
+U+9EA2
+28
+líng
+198.17
+麢.mp3
+
+麣
+['NONE']
+['NONE']
+[]
+U+9EA3
+30
+yán
+198.20
+麣.mp3
+
+麤
+['rough, coarse, big, rough']
+['rough, coarse, big, rough']
+['https://media.gettyimages.com/photos/big-ocean-swells-picture-id1159485075?k=6&m=1159485075&s=612x612&w=0&h=C48sqMk040_Kt3caIgZqMlAtbSmolZO1VCOC8xzK_Os=']
+U+9EA4
+33
+cū
+198.22
+麤.mp3
+
+麥
+['wheat, barley, oats', ' KangXi radical number 199']
+['wheat, barley, oats', ' KangXi radical number 199']
+['https://media.gettyimages.com/photos/close-up-of-hands-examining-wheat-growth-picture-id589547828?k=6&m=589547828&s=612x612&w=0&h=l14ws6vzjfjvh6hmlHkBKsCn9GMighRlLYe6tPZOgj4=', 'NONE']
+U+9EA5
+11
+mài
+199.0
+麥.mp3
+
+麦
+['wheat, barley, oats', ' simplified form of KangXi radical number 199']
+['wheat, barley, oats', ' simplified form of KangXi radical number 199']
+['https://media.gettyimages.com/photos/close-up-of-hands-examining-wheat-growth-picture-id589547828?k=6&m=589547828&s=612x612&w=0&h=l14ws6vzjfjvh6hmlHkBKsCn9GMighRlLYe6tPZOgj4=', 'NONE']
+U+9EA6
+7
+mài
+199'.0
+麦.mp3
+
+麧
+['NONE']
+['NONE']
+[]
+U+9EA7
+14
+hé
+199.3
+麧.mp3
+
+麨
+['NONE']
+['NONE']
+[]
+U+9EA8
+15
+chǎo
+199.4
+麨.mp3
+
+麩
+['bran']
+['bran']
+['https://media.gettyimages.com/photos/wholegrain-food-still-life-shot-on-rustic-wooden-table-picture-id835833518?k=6&m=835833518&s=612x612&w=0&h=_sU5IsSiuT26ub-j_odBSlfQzepH_XdBj495-4Ckcz4=']
+U+9EA9
+15
+fū
+199.4
+麩.mp3
+
+麪
+['flour, noodles, dough']
+['flour, noodles, dough']
+['https://media.gettyimages.com/photos/closeup-of-womans-hands-kneading-dough-picture-id649219742?k=6&m=649219742&s=612x612&w=0&h=nPGysQh8HdJmX_KVYwwJPybKZdA-UhfvKcembvyX7HU=']
+U+9EAA
+15
+miàn
+199.4
+麪.mp3
+
+麫
+['flour', ' vermicelli', ' dough']
+['flour', ' vermicelli', ' dough']
+['https://media.gettyimages.com/photos/flour-on-white-background-picture-id155145132?k=6&m=155145132&s=612x612&w=0&h=lCtkQ6LntdsLQRmiyEDLIx2LeU5qjUbHqysb1GJ_ZIc=', 'https://media.gettyimages.com/photos/healthy-vegan-vietnamese-noodle-bowl-picture-id1153201469?k=6&m=1153201469&s=612x612&w=0&h=8lOqjIQSQXJADahvO1WPUouItLpXrU3_wMc6tqG1Mbw=', 'https://media.gettyimages.com/photos/making-yeast-dough-picture-id517164278?k=6&m=517164278&s=612x612&w=0&h=rPUm2RIP7mp0ZQXbCBeROOf-7ldLsUogPkuE0GEREQ4=']
+U+9EAB
+15
+miàn
+199.4
+麫.mp3
+
+麬
+['NONE']
+['NONE']
+[]
+U+9EAC
+16
+fū
+199.5
+麬.mp3
+
+麭
+['a sticky rice ball']
+['a sticky rice ball']
+['https://media.gettyimages.com/photos/chinese-new-year-picture-id469764261?k=6&m=469764261&s=612x612&w=0&h=zCR8mkvK3vxb6-N_8EkR2TrNlW2Oc2asID9s_CAeQYU=']
+U+9EAD
+16
+pào
+199.5
+麭.mp3
+
+麮
+['porridge']
+['porridge']
+['https://media.gettyimages.com/photos/healthy-organic-porridge-topped-with-berries-picture-id686045026?k=6&m=686045026&s=612x612&w=0&h=TkBwjavyqrVBd6dLUhSLS9zpYkLCNuQmaW1PSyddFck=']
+U+9EAE
+16
+qù
+199.5
+麮.mp3
+
+麯
+['yeast, leaven']
+['yeast, leaven']
+['https://media.gettyimages.com/photos/handmade-rustic-bread-picture-id578862140?k=6&m=578862140&s=612x612&w=0&h=0BoQ4jOzF1tRJ2aFYVh-TDF3actcOQ0MxFQbX-oWw-0=']
+U+9EAF
+17
+qū
+199.6
+麯.mp3
+
+麰
+['barley']
+['barley']
+['https://media.gettyimages.com/photos/pile-of-barley-picture-id103994698?k=6&m=103994698&s=612x612&w=0&h=UMF02N1tNeyb-zsmMZyqfWtu6rPkKr29UdDpszWB78I=']
+U+9EB0
+17
+móu
+199.6
+麰.mp3
+
+麱
+['NONE']
+['NONE']
+[]
+U+9EB1
+18
+fū
+199.7
+麱.mp3
+
+麲
+['NONE']
+['NONE']
+[]
+U+9EB2
+18
+xiàn
+199.7
+麲.mp3
+
+麳
+['NONE']
+['NONE']
+[]
+U+9EB3
+19
+lái
+199.8
+麳.mp3
+
+麴
+['yeast, leaven', ' surname']
+['yeast, leaven', ' surname']
+['https://media.gettyimages.com/photos/handmade-rustic-bread-picture-id578862140?k=6&m=578862140&s=612x612&w=0&h=0BoQ4jOzF1tRJ2aFYVh-TDF3actcOQ0MxFQbX-oWw-0=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9EB4
+19
+qū
+199.8
+麴.mp3
+
+麵
+['flour, dough, noodles']
+['flour, dough, noodles']
+['https://media.gettyimages.com/photos/closeup-of-womans-hands-kneading-dough-picture-id649219742?k=6&m=649219742&s=612x612&w=0&h=nPGysQh8HdJmX_KVYwwJPybKZdA-UhfvKcembvyX7HU=']
+U+9EB5
+20
+miàn
+199.9
+麵.mp3
+
+麶
+['NONE']
+['NONE']
+[]
+U+9EB6
+21
+chi
+199.11
+麶.mp3
+
+麷
+['NONE']
+['NONE']
+[]
+U+9EB7
+29
+fēng
+199.18
+麷.mp3
+
+麸
+['bran']
+['bran']
+['https://media.gettyimages.com/photos/wholegrain-food-still-life-shot-on-rustic-wooden-table-picture-id835833518?k=6&m=835833518&s=612x612&w=0&h=_sU5IsSiuT26ub-j_odBSlfQzepH_XdBj495-4Ckcz4=']
+U+9EB8
+11
+fū
+199'.4
+麸.mp3
+
+麹
+['yeast, leaven', ' surname']
+['yeast, leaven', ' surname']
+['https://media.gettyimages.com/photos/handmade-rustic-bread-picture-id578862140?k=6&m=578862140&s=612x612&w=0&h=0BoQ4jOzF1tRJ2aFYVh-TDF3actcOQ0MxFQbX-oWw-0=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9EB9
+15
+qū
+199'.8
+麹.mp3
+
+麺
+['flour, dough, noodles']
+['flour, dough, noodles']
+['https://media.gettyimages.com/photos/closeup-of-womans-hands-kneading-dough-picture-id649219742?k=6&m=649219742&s=612x612&w=0&h=nPGysQh8HdJmX_KVYwwJPybKZdA-UhfvKcembvyX7HU=']
+U+9EBA
+16
+miàn
+199'.9
+麺.mp3
+
+麻
+['hemp, jute, flax', ' sesame']
+['hemp, jute, flax', ' sesame']
+['https://media.gettyimages.com/photos/stacking-jute-twine-spool-picture-id1019573264?k=6&m=1019573264&s=612x612&w=0&h=Q9pDRzHJBLwPZatgGb4c9LxewPMYpQq4I7kSqvAOuac=', 'https://media.gettyimages.com/photos/sesame-seeds-picture-id157594579?k=6&m=157594579&s=612x612&w=0&h=PYYRYk5G4TzuW5XKKqNxndNZ_GpXCvhOnZrgesXfY4A=']
+U+9EBB
+11
+má
+200.0
+麻.mp3
+
+麼
+['interrogative final particle', ' insignificant, small, tiny']
+['interrogative final particle', ' insignificant, small, tiny']
+['NONE', 'https://media.gettyimages.com/photos/distant-jet-aeroplane-and-vapour-trails-flying-high-in-a-clear-blue-picture-id1134055869?k=6&m=1134055869&s=612x612&w=0&h=aGQZMVoqnaCh04nNQ6Gvbqwbhho4T4YBw9Qw5c1DnKQ=']
+U+9EBC
+14
+me
+200.3
+麼.mp3
+
+麽
+['interrogative final particle', ' insignificant, small, tiny']
+['interrogative final particle', ' insignificant, small, tiny']
+['NONE', 'https://media.gettyimages.com/photos/distant-jet-aeroplane-and-vapour-trails-flying-high-in-a-clear-blue-picture-id1134055869?k=6&m=1134055869&s=612x612&w=0&h=aGQZMVoqnaCh04nNQ6Gvbqwbhho4T4YBw9Qw5c1DnKQ=']
+U+9EBD
+14
+mó
+200.3
+麽.mp3
+
+麾
+['a pennant, flag, banner', ' to signal to']
+['a pennant, flag, banner', ' to signal to']
+['https://media.gettyimages.com/vectors/set-of-green-ribbons-banners-badges-labels-design-elements-on-white-vector-id1126391854?k=6&m=1126391854&s=612x612&w=0&h=rbq_1-5hjaG1XzaRHT29dnb-rbhM66yqxjHgXvzgUGU=', 'https://media.gettyimages.com/vectors/wave-icon-set-vector-id1064029290?k=6&m=1064029290&s=612x612&w=0&h=uOAu8OpJZLLqrTQnVSqN-7EjHiJajkeuLbbn4s9UfGQ=']
+U+9EBE
+15
+huī
+200.4
+麾.mp3
+
+麿
+['I, personal name marker']
+['I, personal name marker']
+['https://media.gettyimages.com/photos/man-filling-out-name-tag-picture-id86207061?k=6&m=86207061&s=612x612&w=0&h=BRfZbJGmmelegMMmee0u5PrvOuiUjDRgo_sJLhZyYig=']
+U+9EBF
+17
+mo
+200.7
+麿.mp3
+
+黀
+['NONE']
+['NONE']
+[]
+U+9EC0
+19
+zōu
+200.8
+黀.mp3
+
+黁
+['NONE']
+['NONE']
+[]
+U+9EC1
+20
+nún
+200.9
+黁.mp3
+
+黂
+['NONE']
+['NONE']
+[]
+U+9EC2
+23
+fén
+200.13
+黂.mp3
+
+黃
+['yellow', ' surname']
+['yellow', ' surname']
+['https://media.gettyimages.com/vectors/yellow-halftone-spotted-background-vector-id945172204?k=6&m=945172204&s=612x612&w=0&h=bP4XReoPy2UHtFXhwslYALrY4P0wNpWUas4tc_3zhaU=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9EC3
+12
+huáng
+201.0
+黃.mp3
+
+黄
+['yellow', ' surname']
+['yellow', ' surname']
+['https://media.gettyimages.com/vectors/yellow-halftone-spotted-background-vector-id945172204?k=6&m=945172204&s=612x612&w=0&h=bP4XReoPy2UHtFXhwslYALrY4P0wNpWUas4tc_3zhaU=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9EC4
+11
+huáng
+201.0 201'.0
+黄.mp3
+
+黅
+['NONE']
+['NONE']
+[]
+U+9EC5
+15
+jīn
+201.4
+黅.mp3
+
+黆
+['NONE']
+['NONE']
+[]
+U+9EC6
+15
+guāng
+201.4
+黆.mp3
+
+黇
+['NONE']
+['NONE']
+[]
+U+9EC7
+16
+tiān
+201.5
+黇.mp3
+
+黈
+['yellow', ' augment, increase']
+['yellow', ' augment, increase']
+['https://media.gettyimages.com/vectors/yellow-halftone-spotted-background-vector-id945172204?k=6&m=945172204&s=612x612&w=0&h=bP4XReoPy2UHtFXhwslYALrY4P0wNpWUas4tc_3zhaU=', 'https://media.gettyimages.com/photos/young-girl-and-magnifying-glass-picture-id738786521?k=6&m=738786521&s=612x612&w=0&h=yCabpaSkqPVapzkdXMhy_FnNc9TZlEHFxVs7Pg0Me9U=']
+U+9EC8
+16
+tǒu
+201.5
+黈.mp3
+
+黉
+['school']
+['school']
+['https://media.gettyimages.com/photos/back-view-of-elementary-students-raising-their-arms-on-a-class-picture-id1000887536?k=6&m=1000887536&s=612x612&w=0&h=_766UYb-oBcmrJQfIn5RU6SWLhTVMLszO9JT5USUDQ0=']
+U+9EC9
+16
+hóng
+201.5
+黉.mp3
+
+黊
+['NONE']
+['NONE']
+[]
+U+9ECA
+17
+huà
+201.6
+黊.mp3
+
+黋
+['NONE']
+['NONE']
+[]
+U+9ECB
+17
+kuàng
+201.6
+黋.mp3
+
+黌
+['school']
+['school']
+['https://media.gettyimages.com/photos/back-view-of-elementary-students-raising-their-arms-on-a-class-picture-id1000887536?k=6&m=1000887536&s=612x612&w=0&h=_766UYb-oBcmrJQfIn5RU6SWLhTVMLszO9JT5USUDQ0=']
+U+9ECC
+24
+hóng
+201.13
+黌.mp3
+
+黍
+['glutinous millet', ' KangXi radical number 202']
+['glutinous millet', ' KangXi radical number 202']
+['https://media.gettyimages.com/photos/close-up-millet-or-sorghum-in-field-of-feed-for-livestock-farming-picture-id1221666436?k=6&m=1221666436&s=612x612&w=0&h=lA0eQBakgh7DFpwM9PWKPPam10l-vGns4C32lr14EpU=', 'NONE']
+U+9ECD
+12
+shǔ
+202.0
+黍.mp3
+
+黎
+['surname', ' numerous, many', ' black']
+['surname', ' numerous, many', ' black']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/numerous-seats-on-the-football-field-form-a-photographic-composition-picture-id1021637688?k=6&m=1021637688&s=612x612&w=0&h=6uLxWD8obMmftlQ2DbU1bDnwtNx4RXhsGDoYxddrLRU=', 'https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=']
+U+9ECE
+15
+lí
+202.3
+黎.mp3
+
+黏
+['stick to', ' glutinous, sticky', ' glue']
+['stick to', ' glutinous, sticky', ' glue']
+['https://media.gettyimages.com/photos/twigs-and-sticks-picture-id182145527?k=6&m=182145527&s=612x612&w=0&h=3gA4VXpIcHTWDO22ij4yU0Dg2W22-9YKrRS04uCzsYo=', 'https://media.gettyimages.com/photos/white-sticky-rice-in-wooden-spoon-uncooked-glutinous-rice-for-design-picture-id1211727759?k=6&m=1211727759&s=612x612&w=0&h=AqyEGcL16S-Q48lqwLkUw5khZNwPYg9_c5RLtQSubrg=', 'https://media.gettyimages.com/photos/glue-bottle-on-white-picture-id185271404?k=6&m=185271404&s=612x612&w=0&h=EQO09AACY8xpfz8n9AjPQVQ-PuoUWTviFRoWRMo_U7c=']
+U+9ECF
+17
+nián
+202.5
+黏.mp3
+
+黐
+['to stick', ' sticky']
+['to stick', ' sticky']
+['https://media.gettyimages.com/photos/twigs-and-sticks-picture-id182145527?k=6&m=182145527&s=612x612&w=0&h=3gA4VXpIcHTWDO22ij4yU0Dg2W22-9YKrRS04uCzsYo=', 'https://media.gettyimages.com/photos/organic-honey-with-wooden-dipper-against-white-picture-id155095451?k=6&m=155095451&s=612x612&w=0&h=lOGh-7ET0Yh_4dDRIu2s0JXfbYDazrERcpP739vbTFI=']
+U+9ED0
+22
+chī
+202.10
+黐.mp3
+
+黑
+['black', ' dark', ' evil, sinister']
+['black', ' dark', ' evil, sinister']
+['https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=', 'https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=', 'https://media.gettyimages.com/photos/computer-hacker-working-on-laptop-late-at-night-in-office-picture-id637935458?k=6&m=637935458&s=612x612&w=0&h=nnCkpTLHLdOplCIFhNoW9y1hJBXHIiKo0d0uGJocl74=']
+U+9ED1
+12
+hēi
+203.0
+黑.mp3
+
+黒
+['black', ' dark', ' evil']
+['black', ' dark', ' evil']
+['https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=', 'https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=', 'https://media.gettyimages.com/photos/evil-and-angel-eggs-picture-id185266971?k=6&m=185266971&s=612x612&w=0&h=vGkVKkYFLCT30hRwWPHuuERf8Cj6XVTmNHw7-Mu3Msc=']
+U+9ED2
+11
+hēi
+203.0
+黒.mp3
+
+黓
+['black']
+['black']
+['https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=']
+U+9ED3
+15
+yì
+203.3
+黓.mp3
+
+黔
+['black', ' Guizhou']
+['black', ' Guizhou']
+['https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=', 'https://media.gettyimages.com/photos/gorgeous-sunset-view-of-an-old-chinese-village-picture-id1089338488?k=6&m=1089338488&s=612x612&w=0&h=l8c6OyDFtOZzmS3mswTCEqTBlyHJb5wkbyoL4j784rg=']
+U+9ED4
+16
+qián
+203.4
+黔.mp3
+
+黕
+['red']
+['red']
+['https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=']
+U+9ED5
+16
+dǎn
+203.4
+黕.mp3
+
+黖
+['NONE']
+['NONE']
+[]
+U+9ED6
+16
+xì
+203.4
+黖.mp3
+
+黗
+['NONE']
+['NONE']
+[]
+U+9ED7
+16
+tūn
+203.4
+黗.mp3
+
+默
+['silent', ' quiet, still', ' dark']
+['silent', ' quiet, still', ' dark']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=']
+U+9ED8
+16
+mò
+203.4
+默.mp3
+
+黙
+['silent', ' quiet, still', ' dark']
+['silent', ' quiet, still', ' dark']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=']
+U+9ED9
+15
+mò
+86.11
+黙.mp3
+
+黚
+['NONE']
+['NONE']
+[]
+U+9EDA
+17
+qián
+203.5
+黚.mp3
+
+黛
+['blacken eyebrows', ' black']
+['blacken eyebrows', ' black']
+['NONE', 'https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=']
+U+9EDB
+17
+dài
+203.5
+黛.mp3
+
+黜
+['dismiss', ' demote, downgrade']
+['dismiss', ' demote, downgrade']
+['https://media.gettyimages.com/photos/serious-young-businesswoman-holding-cardboard-box-picture-id1157185838?k=6&m=1157185838&s=612x612&w=0&h=BtglOgl09XG1TXKFygghQHns-ADwnBPwjPU5C_hvx0c=', 'NONE']
+U+9EDC
+17
+chù
+203.5
+黜.mp3
+
+黝
+['black']
+['black']
+['https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=']
+U+9EDD
+17
+yǒu
+203.5
+黝.mp3
+
+點
+['dot, speck, spot', ' point, degree']
+['dot, speck, spot', ' point, degree']
+['https://media.gettyimages.com/vectors/seamless-black-polka-dot-on-white-background-vector-id910331794?k=6&m=910331794&s=612x612&w=0&h=eyYt3cO3Nd7OEaTy4pnKsR3wQkO8v-v0aEaYYNaAfXw=', 'https://media.gettyimages.com/vectors/vector-line-icons-medal-award-and-trophy-vector-id1132307788?k=6&m=1132307788&s=612x612&w=0&h=ONOtYFp6MAgWFGo9T3cmCqOvsyQ5ChFZTdRmzXqbQhI=']
+U+9EDE
+17
+diǎn
+203.5
+點.mp3
+
+黟
+['black and shining', ' ebony']
+['black and shining', ' ebony']
+['https://media.gettyimages.com/photos/illuminated-spotlight-on-stage-picture-id1067554748?k=6&m=1067554748&s=612x612&w=0&h=DB51ddlpSTDOzOUlruLJ-_hxUhPYjW8Boyxubqq8anQ=', 'https://media.gettyimages.com/photos/ebony-wood-background-with-vertical-stripes-picture-id157402285?k=6&m=157402285&s=612x612&w=0&h=Px_-mDE49KGicTFIoI3YXAJX1GjfzIZY6O6qzP7Fyak=']
+U+9EDF
+18
+yī
+203.6
+黟.mp3
+
+黠
+['sly, cunning, shrewd', ' artful']
+['sly, cunning, shrewd', ' artful']
+['https://media.gettyimages.com/photos/businessmen-talking-in-secrecy-picture-id1054524238?k=6&m=1054524238&s=612x612&w=0&h=BA5i1NrydFR95YmpZY5eZECDDMmPh-mBBk62xSoQJi4=', 'https://media.gettyimages.com/photos/businessmen-talking-in-secrecy-picture-id1054524238?k=6&m=1054524238&s=612x612&w=0&h=BA5i1NrydFR95YmpZY5eZECDDMmPh-mBBk62xSoQJi4=']
+U+9EE0
+18
+xiá
+203.6
+黠.mp3
+
+黡
+['mole, scar, blemish']
+['mole, scar, blemish']
+['NONE']
+U+9EE1
+18
+yǎn
+203.6
+黡.mp3
+
+黢
+['black']
+['black']
+['https://media.gettyimages.com/photos/portrait-of-smiling-tattooed-man-with-arms-crossed-picture-id1141508304?k=6&m=1141508304&s=612x612&w=0&h=5vR-TvBk_YWUhXaEeboxVw28-taKhE78ftqHcO91GhQ=']
+U+9EE2
+19
+qū
+203.7
+黢.mp3
+
+黣
+['NONE']
+['NONE']
+[]
+U+9EE3
+19
+měi
+203.7
+黣.mp3
+
+黤
+['blue-black']
+['blue-black']
+['https://media.gettyimages.com/vectors/round-multicolored-watercolor-spots-vector-id978988538?k=6&m=978988538&s=612x612&w=0&h=3FexRdSE27a7dqJ8BZ4arEBI0wHuf09CP4pdHHFXDZU=']
+U+9EE4
+20
+yǎn
+203.8
+黤.mp3
+
+黥
+['to tattoo', ' to brand the face of criminals']
+['to tattoo', ' to brand the face of criminals']
+['https://media.gettyimages.com/photos/tattoo-artist-back-picture-id147444721?k=6&m=147444721&s=612x612&w=0&h=RbtNfpqJ-xkdih5icLqsLM1cE995BT1JNJGB551GUk4=', 'https://media.gettyimages.com/photos/suspiciouslooking-man-on-mobile-phone-app-marked-fake-news-picture-id1181391298?k=6&m=1181391298&s=612x612&w=0&h=qVXiRU8lkMW0_ZO9XY4OZgF_ktq9SALvjj7d1EjiP6I=']
+U+9EE5
+20
+qíng
+203.8
+黥.mp3
+
+黦
+['NONE']
+['NONE']
+[]
+U+9EE6
+20
+yuè
+203.8
+黦.mp3
+
+黧
+['a dark, sallow colour']
+['a dark, sallow colour']
+['https://media.gettyimages.com/photos/young-couple-in-moutains-cow-in-foreground-picture-id79563112?k=6&m=79563112&s=612x612&w=0&h=Fg7rBYvvowEbm_DC832myWRcamc9M0g-v2Qo2Io1eUQ=']
+U+9EE7
+20
+lí
+203.8
+黧.mp3
+
+黨
+['political party, gang, faction']
+['political party, gang, faction']
+['NONE']
+U+9EE8
+20
+dǎng
+203.8
+黨.mp3
+
+黩
+['to dishonor, defile, corrupt', ' soiled']
+['to dishonor, defile, corrupt', ' soiled']
+['NONE', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+9EE9
+20
+dú
+203.8
+黩.mp3
+
+黪
+['grey black']
+['grey black']
+['https://media.gettyimages.com/vectors/vector-illustration-textured-black-colored-grungy-old-background-vector-id1140126302?k=6&m=1140126302&s=612x612&w=0&h=VPexQLkpHI8QTA67XYlRuZ8cRGLH_CiQQm8TSqHNQZI=']
+U+9EEA
+20
+cǎn
+203.8
+黪.mp3
+
+黫
+['NONE']
+['NONE']
+[]
+U+9EEB
+21
+yān
+203.9
+黫.mp3
+
+黬
+['blackhead']
+['blackhead']
+['https://media.gettyimages.com/photos/woman-squeezing-spot-picture-id74411316?k=6&m=74411316&s=612x612&w=0&h=4nCCNJq_wQszdbh71QJjTDhzxCqGglJ5dvrPBFEyirA=']
+U+9EEC
+21
+yán
+203.9
+黬.mp3
+
+黭
+['NONE']
+['NONE']
+[]
+U+9EED
+21
+yǎn
+203.9
+黭.mp3
+
+黮
+['black, dark', ' unclear', ' private']
+['black, dark', ' unclear', ' private']
+['https://media.gettyimages.com/photos/dark-concrete-picture-id184601291?k=6&m=184601291&s=612x612&w=0&h=YfwPw9jvfCzKxNUS_g1bwNiczgWJlx2_ADp9X1wfd_I=', 'https://media.gettyimages.com/photos/woman-pulling-face-picture-id1144830585?k=6&m=1144830585&s=612x612&w=0&h=TWgpZu3NQp8qPfVqc06KluNDvcXMbcGnytsDkN6NhCc=', 'https://media.gettyimages.com/photos/crowd-walking-over-binary-code-picture-id1185884207?k=6&m=1185884207&s=612x612&w=0&h=HiugSOfFb2VDDlKh_5pS4fU4jlzxHRBX9ZJdhZD02cA=']
+U+9EEE
+21
+dǎn
+203.9
+黮.mp3
+
+黯
+['dark, black', ' sullen, dreary']
+['dark, black', ' sullen, dreary']
+['https://media.gettyimages.com/photos/dark-concrete-picture-id184601291?k=6&m=184601291&s=612x612&w=0&h=YfwPw9jvfCzKxNUS_g1bwNiczgWJlx2_ADp9X1wfd_I=', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=']
+U+9EEF
+21
+àn
+203.9
+黯.mp3
+
+黰
+["young girl's hair style"]
+["young girl's hair style"]
+['https://media.gettyimages.com/photos/little-girl-at-a-hairdresser-picture-id941797878?k=6&m=941797878&s=612x612&w=0&h=_aEYk3ywsYxXhwehl8O6B0T3w4tBZOPUkCznA8Ee2f4=']
+U+9EF0
+22
+zhěn
+203.10
+黰.mp3
+
+黱
+['NONE']
+['NONE']
+[]
+U+9EF1
+22
+dài
+203.10
+黱.mp3
+
+黲
+['grey black']
+['grey black']
+['https://media.gettyimages.com/vectors/vector-illustration-textured-black-colored-grungy-old-background-vector-id1140126302?k=6&m=1140126302&s=612x612&w=0&h=VPexQLkpHI8QTA67XYlRuZ8cRGLH_CiQQm8TSqHNQZI=']
+U+9EF2
+23
+cǎn
+203.11
+黲.mp3
+
+黳
+['NONE']
+['NONE']
+[]
+U+9EF3
+23
+yī
+203.11
+黳.mp3
+
+黴
+['mold, mildew', ' bacteria, fungi']
+['mold, mildew', ' bacteria, fungi']
+['https://media.gettyimages.com/photos/mold-growth-on-wall-and-damp-stained-wood-door-picture-id168259571?k=6&m=168259571&s=612x612&w=0&h=r2154rcRI51P3dypn-Hq8YkTXQ3zMRg2LILkprj6dAU=', 'https://media.gettyimages.com/illustrations/aspergillus-fumigatus-fungus-illustration-illustration-id1088371852?k=6&m=1088371852&s=612x612&w=0&h=3J8oz0UibuCAJf_9mLLDcpTN5OFI_txL3_jh6Xer90g=']
+U+9EF4
+23
+méi
+203.11
+黴.mp3
+
+黵
+['NONE']
+['NONE']
+[]
+U+9EF5
+25
+zhǎn
+203.13
+黵.mp3
+
+黶
+['mole, scar, blemish']
+['mole, scar, blemish']
+['NONE']
+U+9EF6
+26
+yǎn
+203.14
+黶.mp3
+
+黷
+['to dishonor, defile, corrupt', ' soiled']
+['to dishonor, defile, corrupt', ' soiled']
+['NONE', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+9EF7
+27
+dú
+203.15
+黷.mp3
+
+黸
+['NONE']
+['NONE']
+[]
+U+9EF8
+28
+lú
+203.16
+黸.mp3
+
+黹
+['embroidery, needlework', ' radical']
+['embroidery, needlework', ' radical']
+['https://media.gettyimages.com/photos/closeup-of-woman-embroidering-strawberry-pattern-picture-id1158875001?k=6&m=1158875001&s=612x612&w=0&h=doyK9ixaJMFyr4I6YrMYYdhmYGw1SgzC8ohmB-Hf4pc=', 'https://media.gettyimages.com/photos/our-style-is-influenced-by-our-upbringing-picture-id1179747953?k=6&m=1179747953&s=612x612&w=0&h=jLxp0F5lfsDtHnTBVh77gf8lcwMdsEv3THmbtA2NBPo=']
+U+9EF9
+12
+zhǐ
+204.0
+黹.mp3
+
+黺
+['NONE']
+['NONE']
+[]
+U+9EFA
+16
+fěn
+204.4
+黺.mp3
+
+黻
+['special pattern of embroidery']
+['special pattern of embroidery']
+['https://media.gettyimages.com/photos/young-woman-surrounded-by-flowers-picture-id920669550?k=6&m=920669550&s=612x612&w=0&h=07ssbIdnakYsMnrogfq8KpLGCCvPNQiWDXr0mte86DY=']
+U+9EFB
+17
+fú
+204.5
+黻.mp3
+
+黼
+['embroidered official or sacrificial robe']
+['embroidered official or sacrificial robe']
+['https://media.gettyimages.com/illustrations/palm-sunday-in-russia-illustration-id501939224?k=6&m=501939224&s=612x612&w=0&h=64l1O2_FlsCjM8ZYYu4XSkxc0jd0O1k_M3hcuPwRIog=']
+U+9EFC
+19
+fǔ
+204.7
+黼.mp3
+
+黽
+['to strive', ' to endeavor']
+['to strive', ' to endeavor']
+['https://media.gettyimages.com/photos/disability-man-climber-picture-id1020230422?k=6&m=1020230422&s=612x612&w=0&h=hjBCX5LblPeHGNTPxzkM9st5WRLjHrUAotX84oeLoAQ=', 'https://media.gettyimages.com/photos/some-coffee-for-a-late-night-shift-picture-id879751676?k=6&m=879751676&s=612x612&w=0&h=VnoD4Uy2NRanBy4eXokAVzS1NSJABDqPihHKzQpGA2s=']
+U+9EFD
+13
+miǎn
+205.0
+黽.mp3
+
+黾
+['to strive', ' to endeavor']
+['to strive', ' to endeavor']
+['https://media.gettyimages.com/photos/disability-man-climber-picture-id1020230422?k=6&m=1020230422&s=612x612&w=0&h=hjBCX5LblPeHGNTPxzkM9st5WRLjHrUAotX84oeLoAQ=', 'https://media.gettyimages.com/photos/some-coffee-for-a-late-night-shift-picture-id879751676?k=6&m=879751676&s=612x612&w=0&h=VnoD4Uy2NRanBy4eXokAVzS1NSJABDqPihHKzQpGA2s=']
+U+9EFE
+8
+miǎn
+205'.0
+黾.mp3
+
+黿
+['large turtle, sea turtle']
+['large turtle, sea turtle']
+['https://media.gettyimages.com/photos/green-sea-turtle-in-caribbean-sea-near-akumal-bay-riviera-maya-roo-picture-id842453708?k=6&m=842453708&s=612x612&w=0&h=aT5VRRJQ7d56FX2xItX2mSuFZlHjTq3W0zZs_DtJxIo=']
+U+9EFF
+17
+yuán
+205.4
+黿.mp3
+
+鼀
+['NONE']
+['NONE']
+[]
+U+9F00
+18
+cù
+205.5
+鼀.mp3
+
+鼁
+['NONE']
+['NONE']
+[]
+U+9F01
+18
+qù
+205.5
+鼁.mp3
+
+鼂
+['a kind of sea turtle', ' surname']
+['a kind of sea turtle', ' surname']
+['https://media.gettyimages.com/photos/stroking-a-baby-sea-turtle-in-sri-lanka-picture-id1031974390?k=6&m=1031974390&s=612x612&w=0&h=cvTVnwDkCgWCZ5acNx6rQAEbm0M7GpbFpDJ1vHFMPuY=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9F02
+18
+cháo
+205.5
+鼂.mp3
+
+鼃
+['the edible water-frog']
+['the edible water-frog']
+['NONE']
+U+9F03
+19
+wā
+205.6
+鼃.mp3
+
+鼄
+['the spider']
+['the spider']
+['https://media.gettyimages.com/vectors/cartoon-spider-vector-id877862104?k=6&m=877862104&s=612x612&w=0&h=eaz37mI11cvNhngGy-Sb858KW2bqIPiCtJMNVU_zofg=']
+U+9F04
+19
+zhū
+205.6
+鼄.mp3
+
+鼅
+['spider']
+['spider']
+['https://media.gettyimages.com/vectors/cartoon-spider-vector-id877862104?k=6&m=877862104&s=612x612&w=0&h=eaz37mI11cvNhngGy-Sb858KW2bqIPiCtJMNVU_zofg=']
+U+9F05
+21
+zhī
+205.8
+鼅.mp3
+
+鼆
+['NONE']
+['NONE']
+[]
+U+9F06
+23
+méng
+205.10
+鼆.mp3
+
+鼇
+['huge sea turtle']
+['huge sea turtle']
+['https://media.gettyimages.com/photos/green-sea-turtle-in-caribbean-sea-near-akumal-bay-riviera-maya-roo-picture-id842453708?k=6&m=842453708&s=612x612&w=0&h=aT5VRRJQ7d56FX2xItX2mSuFZlHjTq3W0zZs_DtJxIo=']
+U+9F07
+23
+áo
+205.10
+鼇.mp3
+
+鼈
+['a fresh-water turtle, Trionyx sinensis']
+['a fresh-water turtle, Trionyx sinensis']
+['NONE']
+U+9F08
+24
+biē
+205.12
+鼈.mp3
+
+鼉
+['large reptile, water lizard']
+['large reptile, water lizard']
+['https://media.gettyimages.com/vectors/dinosaurs-vector-id1158145147?k=6&m=1158145147&s=612x612&w=0&h=v0JP7SiCvjDrwfTxv8Nb-rN-NZBlwBiE-rrLJf55f54=']
+U+9F09
+25
+tuó
+205.12
+鼉.mp3
+
+鼊
+['NONE']
+['NONE']
+[]
+U+9F0A
+26
+bì
+205.13
+鼊.mp3
+
+鼋
+['large turtle, sea turtle']
+['large turtle, sea turtle']
+['https://media.gettyimages.com/photos/green-sea-turtle-in-caribbean-sea-near-akumal-bay-riviera-maya-roo-picture-id842453708?k=6&m=842453708&s=612x612&w=0&h=aT5VRRJQ7d56FX2xItX2mSuFZlHjTq3W0zZs_DtJxIo=']
+U+9F0B
+12
+yuán
+205'.4
+鼋.mp3
+
+鼌
+['NONE']
+['NONE']
+[]
+U+9F0C
+13
+cháo
+205'.5
+鼌.mp3
+
+鼍
+['large reptile, water lizard']
+['large reptile, water lizard']
+['https://media.gettyimages.com/vectors/dinosaurs-vector-id1158145147?k=6&m=1158145147&s=612x612&w=0&h=v0JP7SiCvjDrwfTxv8Nb-rN-NZBlwBiE-rrLJf55f54=']
+U+9F0D
+20
+tuó
+205'.12
+鼍.mp3
+
+鼎
+['large, three-legged bronze caldron']
+['large, three-legged bronze caldron']
+['NONE']
+U+9F0E
+12
+dǐng
+206.0
+鼎.mp3
+
+鼏
+['cover of tripod caldron']
+['cover of tripod caldron']
+['NONE']
+U+9F0F
+14
+mì
+206.2
+鼏.mp3
+
+鼐
+['incense tripod']
+['incense tripod']
+['NONE']
+U+9F10
+14
+nài
+206.2
+鼐.mp3
+
+鼑
+['NONE']
+['NONE']
+[]
+U+9F11
+14
+dǐng
+206.2
+鼑.mp3
+
+鼒
+['large tripod caldron with small mouth']
+['large tripod caldron with small mouth']
+['NONE']
+U+9F12
+15
+zī
+206.3
+鼒.mp3
+
+鼓
+['drum', ' beat, top, strike']
+['drum', ' beat, top, strike']
+['https://media.gettyimages.com/photos/silver-chrome-snare-drum-with-sticks-instrument-on-white-background-picture-id186875718?k=6&m=186875718&s=612x612&w=0&h=09veVPeYWXQZjlEUA3EWqFQSvbKaFzWoY-CKaeY8AIM=', 'https://media.gettyimages.com/photos/young-man-standing-on-a-rock-at-the-beach-picture-id57613610?k=6&m=57613610&s=612x612&w=0&h=fr55JZjN0ZtBHz3MBug8hzj8sG0IC3YiaxQGVrH_wbA=']
+U+9F13
+13
+gǔ
+207.0
+鼓.mp3
+
+鼔
+['a drum', ' to drum, from whence comes: to rouse', ' to swell', ' to bulge']
+['a drum', ' to drum, from whence comes: to rouse', ' to swell', ' to bulge']
+['https://media.gettyimages.com/photos/silver-chrome-snare-drum-with-sticks-instrument-on-white-background-picture-id186875718?k=6&m=186875718&s=612x612&w=0&h=09veVPeYWXQZjlEUA3EWqFQSvbKaFzWoY-CKaeY8AIM=', 'NONE', 'https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=', 'https://media.gettyimages.com/illustrations/microscopic-view-of-tumor-illustration-id506837571?k=6&m=506837571&s=612x612&w=0&h=EU2vW8keVdV9SoCEU9A2fMyJvX-Yhbtcfy0TwmuenWA=']
+U+9F14
+13
+gǔ
+207.0
+鼔.mp3
+
+鼕
+['rattle of drums']
+['rattle of drums']
+['https://media.gettyimages.com/photos/high-angle-view-of-musical-instruments-over-pink-background-picture-id1207224735?k=6&m=1207224735&s=612x612&w=0&h=Yq1Fw5AnWaisgsRkkbP0XkYqbzM8No0WKRIqVLY2B3s=']
+U+9F15
+18
+dōng
+207.5
+鼕.mp3
+
+鼖
+['drum']
+['drum']
+['https://media.gettyimages.com/photos/silver-chrome-snare-drum-with-sticks-instrument-on-white-background-picture-id186875718?k=6&m=186875718&s=612x612&w=0&h=09veVPeYWXQZjlEUA3EWqFQSvbKaFzWoY-CKaeY8AIM=']
+U+9F16
+18
+fén
+207.5
+鼖.mp3
+
+鼗
+['small revolving drum with knobs']
+['small revolving drum with knobs']
+['NONE']
+U+9F17
+19
+táo
+207.6
+鼗.mp3
+
+鼘
+['NONE']
+['NONE']
+[]
+U+9F18
+22
+yuān
+207.8
+鼘.mp3
+

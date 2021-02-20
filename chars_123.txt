@@ -1,0 +1,2560 @@
+眙
+['to gaze at']
+['mirar fijamente']
+['https://media.gettyimages.com/photos/portrait-of-young-businesswoman-in-office-picture-id1132119371?k=6&m=1132119371&s=612x612&w=0&h=7GKvxb4PGqreAeyBXJzFTJZpo2NDD0qcYgtVlNIBbDk=']
+U+7719
+10
+yí
+109.5
+眙.mp3
+
+眚
+['disease of the eyes', ' crime, fault']
+['enfermedad de los ojos', 'crimen, culpa']
+['https://media.gettyimages.com/photos/gazing-at-a-screen-is-a-frequent-eyestrain-culprit-picture-id1127520652?k=6&m=1127520652&s=612x612&w=0&h=JsAJrRCcmHyV96STNYKELDr6bOm85qB196DapjpLOBI=', 'https://media.gettyimages.com/photos/silhouette-of-business-people-negotiating-at-meeting-table-picture-id637902194?k=6&m=637902194&s=612x612&w=0&h=y13GA0KBHUGbixDmS3JvaQUfLCVjKJ6ImOFDfxpCRNc=']
+U+771A
+10
+shěng
+109.5
+眚.mp3
+
+眛
+['dim, dark, obscure', ' blind']
+['tenue, oscuro, oscuro', 'ciego']
+['https://media.gettyimages.com/photos/misty-evening-picture-id1016149444?k=6&m=1016149444&s=612x612&w=0&h=cYDsCeoAXk4lIu0ur0rOj5p-4Kl46r4R-uls7HGPvYM=', 'https://media.gettyimages.com/photos/man-using-visually-impaired-app-picture-id1094554012?k=6&m=1094554012&s=612x612&w=0&h=bA59DtQJdgZJXsOcJuYhqRnI0BVqC3P_GAUngzOXJrU=']
+U+771B
+10
+mèi
+109.5
+眛.mp3
+
+眜
+['NONE']
+['NINGUNA']
+[]
+U+771C
+10
+mò
+109.5
+眜.mp3
+
+眝
+['NONE']
+['NINGUNA']
+[]
+U+771D
+10
+zhù
+109.5
+眝.mp3
+
+眞
+['real, actual, true, genuine']
+['real, actual, verdadero, genuino']
+['https://media.gettyimages.com/photos/portrait-of-mature-businessman-seated-at-workstation-in-design-studio-picture-id1097998980?k=6&m=1097998980&s=612x612&w=0&h=v2sIU4er8RRdqxZ4lXJ8-p8SovBFNWQaN359aZ0HEGg=']
+U+771E
+10
+zhēn
+109.5
+眞.mp3
+
+真
+['real, actual, true, genuine']
+['real, actual, verdadero, genuino']
+['https://media.gettyimages.com/photos/portrait-of-mature-businessman-seated-at-workstation-in-design-studio-picture-id1097998980?k=6&m=1097998980&s=612x612&w=0&h=v2sIU4er8RRdqxZ4lXJ8-p8SovBFNWQaN359aZ0HEGg=']
+U+771F
+10
+zhēn
+109.5
+真.mp3
+
+眠
+['close eyes, sleep', ' hibernate']
+['cerrar los ojos, dormir', 'hibernar']
+['https://media.gettyimages.com/photos/eyes-shut-picture-id137451109?k=6&m=137451109&s=612x612&w=0&h=v0zi7wk0HAJIGURoc9YrzXNK3JzVdvFScRMwtxTRLNg=', 'https://media.gettyimages.com/photos/oh-my-goodness-what-a-shame-picture-id173608277?k=6&m=173608277&s=612x612&w=0&h=29Qw9ZKUR7dFE8CgWdQ84_nDNSX-XA1k-6iENe5KQV4=']
+U+7720
+10
+mián
+109.5
+眠.mp3
+
+眡
+['(Cant.) blurred sight']
+['(Cant.) Visión borrosa']
+['NONE']
+U+7721
+10
+shì
+109.5
+眡.mp3
+
+眢
+['eyes without brightness']
+['ojos sin brillo']
+['https://media.gettyimages.com/vectors/-vector-id1057132910?k=6&m=1057132910&s=612x612&w=0&h=cbTyEVNJRp7C95qyy6msqgIiH2rh636sCnnQhebN-5M=']
+U+7722
+10
+yuān
+109.5
+眢.mp3
+
+眣
+['prominent eyes']
+['ojos prominentes']
+['https://media.gettyimages.com/photos/protest-picture-id1254573243?k=6&m=1254573243&s=612x612&w=0&h=nguZAPnnb_-PWWppCCGMyAcGdlI2fxO4DMLZb5YXGns=']
+U+7723
+10
+dié
+109.5
+眣.mp3
+
+眤
+['NONE']
+['NINGUNA']
+[]
+U+7724
+10
+nì
+109.5
+眤.mp3
+
+眥
+['eye sockets', ' corner of the eyes']
+['cuencas de los ojos', 'esquina de los ojos']
+['https://media.gettyimages.com/illustrations/anatomy-of-the-eye-engraving-antique-illustration-published-1851-illustration-id1172298299?k=6&m=1172298299&s=612x612&w=0&h=XDB4DzsSaZ8nbzk8JPkBulKu8FbGBkYipnxwQBeUMVg=', 'https://media.gettyimages.com/photos/whats-that-up-there-picture-id133564421?k=6&m=133564421&s=612x612&w=0&h=GPe3LT3cUDOwTQVphGPTzWOKQeUwlK4OrGBdK2nGH3M=']
+U+7725
+11
+zì
+109.5
+眥.mp3
+
+眦
+['corner of the eyes, eye sockets']
+['esquina de los ojos, cuencas de los ojos']
+['NONE']
+U+7726
+11
+zì
+109.5
+眦.mp3
+
+眧
+['NONE']
+['NINGUNA']
+[]
+U+7727
+10
+chǎo
+109.5
+眧.mp3
+
+眨
+['wink']
+['guiño']
+['https://media.gettyimages.com/photos/portrait-of-laughing-young-man-pulling-funny-faces-picture-id946905444?k=6&m=946905444&s=612x612&w=0&h=7xrC2-EKAu917raneKlfSQG28E3EvNIUwfMAvL87ILU=']
+U+7728
+9
+zhǎ
+109.5
+眨.mp3
+
+眩
+['to confuse', ' dizzy, dazed, disoriented']
+['confundir', 'mareado, aturdido, desorientado']
+['https://media.gettyimages.com/photos/woman-pulling-face-picture-id1144830585?k=6&m=1144830585&s=612x612&w=0&h=TWgpZu3NQp8qPfVqc06KluNDvcXMbcGnytsDkN6NhCc=', 'https://media.gettyimages.com/vectors/emoticons-collection-vector-id937260522?k=6&m=937260522&s=612x612&w=0&h=j8x1TG6nOo9wQfUjpa1UepFQZDK6eDU0tYz3sePpktc=']
+U+7729
+10
+xuàn
+109.5
+眩.mp3
+
+眪
+['NONE']
+['NINGUNA']
+[]
+U+772A
+10
+bǐng
+109.5
+眪.mp3
+
+眫
+['NONE']
+['NINGUNA']
+[]
+U+772B
+10
+mǐ
+109.5
+眫.mp3
+
+眬
+['faint, fuzzy, blurred']
+['débil, borroso, borroso']
+['https://media.gettyimages.com/photos/clouds-covering-forests-and-earth-with-only-peaks-left-visible-picture-id1205725027?k=6&m=1205725027&s=612x612&w=0&h=L6zVlIcJlhh-KERnxFtRPiL4XkXSxAMAYmwfbYOaot8=']
+U+772C
+10
+lóng
+109.5
+眬.mp3
+
+眭
+['evil look of deep-set eyes']
+['mirada malvada de ojos hundidos']
+['NONE']
+U+772D
+11
+suī
+109.6
+眭.mp3
+
+眮
+['NONE']
+['NINGUNA']
+[]
+U+772E
+11
+tóng
+109.6
+眮.mp3
+
+眯
+['be blinded']
+['deslumbrarse']
+['https://media.gettyimages.com/photos/man-using-visually-impaired-app-picture-id1094554012?k=6&m=1094554012&s=612x612&w=0&h=bA59DtQJdgZJXsOcJuYhqRnI0BVqC3P_GAUngzOXJrU=']
+U+772F
+11
+mī
+109.6
+眯.mp3
+
+眰
+['NONE']
+['NINGUNA']
+[]
+U+7730
+11
+diè
+109.6
+眰.mp3
+
+眱
+['NONE']
+['NINGUNA']
+[]
+U+7731
+11
+dì
+109.6
+眱.mp3
+
+眲
+['NONE']
+['NINGUNA']
+[]
+U+7732
+11
+nè
+109.6
+眲.mp3
+
+眳
+['NONE']
+['NINGUNA']
+[]
+U+7733
+11
+míng
+109.6
+眳.mp3
+
+眴
+['dazzled']
+['deslumbrado']
+['https://media.gettyimages.com/photos/young-girl-looking-dazzled-picture-id96616645?k=6&m=96616645&s=612x612&w=0&h=mQTd1hn6MgNjnYbQFWE0IBM1jpZ7mqOST9EEc_JtaXk=']
+U+7734
+11
+xuàn
+109.6
+眴.mp3
+
+眵
+['eyes diseased and dim']
+['ojos enfermos y apagados']
+['https://media.gettyimages.com/photos/tired-team-resting-at-the-workplace-picture-id1077133490?k=6&m=1077133490&s=612x612&w=0&h=lGKJXLPFMZy_2X3UHeblMy7w2oLaJlZZXjvWSJvmBD0=']
+U+7735
+11
+chī
+109.6
+眵.mp3
+
+眶
+['eye socket', ' rim of eye']
+['cavidad del ojo', 'borde del ojo']
+['https://media.gettyimages.com/illustrations/anatomy-of-the-eye-engraving-antique-illustration-published-1851-illustration-id1172298299?k=6&m=1172298299&s=612x612&w=0&h=XDB4DzsSaZ8nbzk8JPkBulKu8FbGBkYipnxwQBeUMVg=', 'https://media.gettyimages.com/photos/cat-in-a-box-peeking-out-of-a-box-picture-id696166057?k=6&m=696166057&s=612x612&w=0&h=Z_MWH1jIggVHDuupIVsjxlyf5ih4JFg6rAmrr3FWTxI=']
+U+7736
+11
+kuàng
+109.6
+眶.mp3
+
+眷
+['take interest in, care for']
+['interesarse, cuidar']
+['https://media.gettyimages.com/photos/mother-holding-baby-daughters-body-helping-her-to-take-her-first-step-picture-id1075562306?k=6&m=1075562306&s=612x612&w=0&h=gVZ9tnCirUnbjK3T9O3EEqbW48NXY0aqRD1ipKhK6d8=']
+U+7737
+11
+juàn
+109.6
+眷.mp3
+
+眸
+['pupil of eye', ' eye']
+['pupila del ojo', 'ojo']
+['https://media.gettyimages.com/vectors/eyeballing-graphic-design-icon-icon-vector-id1089444910?k=6&m=1089444910&s=612x612&w=0&h=NWBNhAF4IfnotUa18MKbZZ6i5GyBR0PxAnLg0jiGNhQ=', 'https://media.gettyimages.com/vectors/-vector-id1057132910?k=6&m=1057132910&s=612x612&w=0&h=cbTyEVNJRp7C95qyy6msqgIiH2rh636sCnnQhebN-5M=']
+U+7738
+11
+móu
+109.6
+眸.mp3
+
+眹
+['pupil']
+['alumno']
+['https://media.gettyimages.com/photos/back-view-of-elementary-students-raising-their-arms-on-a-class-picture-id1000887536?k=6&m=1000887536&s=612x612&w=0&h=_766UYb-oBcmrJQfIn5RU6SWLhTVMLszO9JT5USUDQ0=']
+U+7739
+11
+zhèn
+109.6
+眹.mp3
+
+眺
+['look at, gaze at, scan, survey']
+['mirar, mirar, escanear, sondear']
+['NONE']
+U+773A
+11
+tiào
+109.6
+眺.mp3
+
+眻
+['NONE']
+['NINGUNA']
+[]
+U+773B
+11
+yáng
+109.6
+眻.mp3
+
+眼
+['eye', ' eyelet, hole, opening']
+['ojo', 'ojal, agujero, apertura']
+['https://media.gettyimages.com/vectors/-vector-id1057132910?k=6&m=1057132910&s=612x612&w=0&h=cbTyEVNJRp7C95qyy6msqgIiH2rh636sCnnQhebN-5M=', 'https://media.gettyimages.com/photos/back-view-of-young-woman-opening-white-curtains-picture-id488624127?k=6&m=488624127&s=612x612&w=0&h=m0ZsvQEcD5lss-l0JjlLAUHJGCQnmBxv_VGiVlBrERc=']
+U+773C
+11
+yǎn
+109.6
+眼.mp3
+
+眽
+['to gaze', ' to ogle to look at']
+['mirar', 'comerse con los ojos para mirar']
+['https://media.gettyimages.com/photos/portrait-of-young-businesswoman-in-office-picture-id1132119371?k=6&m=1132119371&s=612x612&w=0&h=7GKvxb4PGqreAeyBXJzFTJZpo2NDD0qcYgtVlNIBbDk=', 'https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+773D
+11
+mò
+109.6
+眽.mp3
+
+眾
+['masses, people, multitude, crowd']
+['masas, gente, multitud, multitud']
+['https://media.gettyimages.com/photos/people-walking-to-worklarge-group-of-business-peoplecrowds-of-and-picture-id1190755237?k=6&m=1190755237&s=612x612&w=0&h=xdBv9DCPrq8lxJQpEKD9jl4rt_ehxBVcllZWDL4uqZk=']
+U+773E
+11
+zhòng
+109.6
+眾.mp3
+
+眿
+['NONE']
+['NINGUNA']
+[]
+U+773F
+10
+mò
+109.5
+眿.mp3
+
+着
+['make move, take action']
+['hacer movimiento, actuar']
+['https://media.gettyimages.com/vectors/putting-together-a-puzzle-vector-id1086361616?k=6&m=1086361616&s=612x612&w=0&h=1Ug77tzOkY4sw2ihdKSN1PNccba_XGmqwmTVNZlH-vs=']
+U+7740
+11
+zhe
+109.7 123.5
+着.mp3
+
+睁
+['open eyes', ' stare']
+['ojos abiertos', 'condición']
+['https://media.gettyimages.com/photos/identical-twins-posing-one-with-eyes-open-the-other-closed-picture-id173591305?k=6&m=173591305&s=612x612&w=0&h=xR7-d7BbOZjD8ZC9Wnh_OvyOiUnxFO2zeWEGTXEu5-Y=', 'https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+7741
+11
+zhēng
+109.6
+睁.mp3
+
+睂
+['NONE']
+['NINGUNA']
+[]
+U+7742
+12
+méi
+109.7
+睂.mp3
+
+睃
+['NONE']
+['NINGUNA']
+[]
+U+7743
+12
+suō
+109.7
+睃.mp3
+
+睄
+['(Cant.) to glance']
+['(Cant.) Para mirar']
+['https://media.gettyimages.com/photos/karen-bartenstein-an-executive-assistant-at-the-long-and-foster-in-picture-id97989310?k=6&m=97989310&s=612x612&w=0&h=IM3p1hCOpP_YY6aKglXzEFs1BXKpR52knkmQwiflH0E=']
+U+7744
+12
+shào
+109.7
+睄.mp3
+
+睅
+['big-eyed']
+['ojos grandes']
+['https://media.gettyimages.com/photos/bigeyed-naughty-obese-cat-looking-at-the-target-british-sort-hair-cat-picture-id1168254404?k=6&m=1168254404&s=612x612&w=0&h=YZGnmNt6u8wsxZg49cdsOQ_R3CVPXxLUWXbR5cqj6nY=']
+U+7745
+12
+hàn
+109.7
+睅.mp3
+
+睆
+['bright']
+['brillante']
+['https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=']
+U+7746
+12
+huàn
+109.7
+睆.mp3
+
+睇
+['look at, glance at', ' stare at']
+['mira, mira', 'mirar a']
+['https://media.gettyimages.com/photos/studio-portrait-of-real-mediterranean-young-woman-looking-to-the-side-picture-id1135065358?k=6&m=1135065358&s=612x612&w=0&h=xJrWk_R5TR-21b-ptUXQgb_OarMzOuuVjNLH7DoB4_k=', 'https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+7747
+12
+dì
+109.7
+睇.mp3
+
+睈
+['NONE']
+['NINGUNA']
+[]
+U+7748
+12
+chěng
+109.7
+睈.mp3
+
+睉
+['NONE']
+['NINGUNA']
+[]
+U+7749
+12
+cuó
+109.7
+睉.mp3
+
+睊
+['see, look, gaze at', ' askance']
+['ver, mirar, mirar', 'de reojo']
+['https://media.gettyimages.com/photos/portrait-of-young-businesswoman-in-office-picture-id1132119371?k=6&m=1132119371&s=612x612&w=0&h=7GKvxb4PGqreAeyBXJzFTJZpo2NDD0qcYgtVlNIBbDk=', 'https://media.gettyimages.com/photos/studio-portrait-of-young-business-man-looking-askance-picture-id129312292?k=6&m=129312292&s=612x612&w=0&h=PCHHJjVUVkIsEXRL0HXFcSGqAc4yyPfJinZwx5W_qeU=']
+U+774A
+12
+juàn
+109.7
+睊.mp3
+
+睋
+['NONE']
+['NINGUNA']
+[]
+U+774B
+12
+é
+109.7
+睋.mp3
+
+睌
+['NONE']
+['NINGUNA']
+[]
+U+774C
+12
+mǎn
+109.7
+睌.mp3
+
+睍
+['to look at fearfully', ' overly cautious']
+['mirar con miedo', 'demasiado cauteloso']
+['https://media.gettyimages.com/photos/browneyed-girl-peeps-fearfully-through-venetian-blinds-picture-id1168896649?k=6&m=1168896649&s=612x612&w=0&h=7RJDpp-zjF5rZDhqb0l7N_4gYVEyOtAWtB3s40tiSuI=', 'https://media.gettyimages.com/photos/dry-plants-on-wooden-fence-at-grassy-field-picture-id645460587?k=6&m=645460587&s=612x612&w=0&h=2iw972YZ6AdH8rYQcjeIQAHMJuGjU7Mr8TWJCSbqRgg=']
+U+774D
+12
+xiàn
+109.7
+睍.mp3
+
+睎
+['to long for', ' to gaze at']
+['añorar', 'mirar fijamente']
+['https://media.gettyimages.com/photos/american-flag-with-uncle-sam-pointing-at-you-picture-id157696118?k=6&m=157696118&s=612x612&w=0&h=S_RhHgC0g7imk8x4bbpC93UPo7PYLSP5QqL8fx8LIko=', 'https://media.gettyimages.com/photos/portrait-of-young-businesswoman-in-office-picture-id1132119371?k=6&m=1132119371&s=612x612&w=0&h=7GKvxb4PGqreAeyBXJzFTJZpo2NDD0qcYgtVlNIBbDk=']
+U+774E
+12
+xī
+109.7
+睎.mp3
+
+睏
+['be tired, sleepy']
+['estar cansado, con sueño']
+['https://media.gettyimages.com/photos/entrepreneur-yawning-in-office-picture-id502938603?k=6&m=502938603&s=612x612&w=0&h=Ek2WcqGkHt9YNiVyGAYYwlICRZAkolj_JJiQ2ZPDddA=']
+U+774F
+12
+kùn
+109.7
+睏.mp3
+
+睐
+['squint at', ' sidelong glance']
+['entrecerrar los ojos a', 'mirada de reojo']
+['https://media.gettyimages.com/vectors/angled-abstract-gradient-background-vector-id1073750850?k=6&m=1073750850&s=612x612&w=0&h=6_gy0Q7mOiNFCMT7KzQubd_RdHyIGAAp8FeD6fXAbWc=', 'https://media.gettyimages.com/photos/young-woman-writing-on-postit-notes-on-glass-wall-picture-id621687954?k=6&m=621687954&s=612x612&w=0&h=mITsImCb3E7tvZ0nwM4zeXn-vtUMs7Z3t-O6zPsUU1o=']
+U+7750
+12
+lài
+109.7
+睐.mp3
+
+睑
+['eyelid']
+['párpado']
+['https://media.gettyimages.com/photos/marking-the-faceuppereyelid-blepharoplasty-picture-id531827681?k=6&m=531827681&s=612x612&w=0&h=gU0O_eAOzyztpSHMDUkWWQLEwv9_8iIZmdO5GeFKJ_k=']
+U+7751
+12
+jiǎn
+109.7
+睑.mp3
+
+睒
+['to glance at, to peep', ' glittering', ' to shine']
+['mirar, mirar', 'reluciente', 'brillar']
+['https://media.gettyimages.com/photos/young-male-portrait-picture-id183764289?k=6&m=183764289&s=612x612&w=0&h=lqL-UOrC8C-os7lbv2CEZfdGenpqQBRivPEQt4IPLfI=', 'https://media.gettyimages.com/vectors/silver-glitter-shiny-vector-background-vector-id1061398870?k=6&m=1061398870&s=612x612&w=0&h=Bqun_U3es_FuP1b9LwN_CU5Eosso8TBvn2o8MaejYYQ=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=']
+U+7752
+13
+shǎn
+109.8
+睒.mp3
+
+睓
+['NONE']
+['NINGUNA']
+[]
+U+7753
+13
+tiǎn
+109.8
+睓.mp3
+
+睔
+['NONE']
+['NINGUNA']
+[]
+U+7754
+13
+gùn
+109.8
+睔.mp3
+
+睕
+['NONE']
+['NINGUNA']
+[]
+U+7755
+13
+wǎn
+109.8
+睕.mp3
+
+睖
+['to stare straight ahead']
+['mirar al frente']
+['https://media.gettyimages.com/photos/young-woman-portrait-in-business-office-picture-id637864840?k=6&m=637864840&s=612x612&w=0&h=niTx1RypLBC7au1cmIKxetsVnHJLRcpEj_r-PrDfhGk=']
+U+7756
+13
+lèng
+109.8
+睖.mp3
+
+睗
+['a flash']
+['un resplandor']
+['https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=']
+U+7757
+13
+shì
+109.8
+睗.mp3
+
+睘
+['round', ' stare']
+['redondo', 'condición']
+['https://media.gettyimages.com/vectors/sun-vector-id1088732954?k=6&m=1088732954&s=612x612&w=0&h=r5vlPVcVGq-8OVPIN2p62MqxBOUNX5O1Th64LSYiTVQ=', 'https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+7758
+13
+qióng
+109.8
+睘.mp3
+
+睙
+['NONE']
+['NINGUNA']
+[]
+U+7759
+13
+liè
+109.8
+睙.mp3
+
+睚
+['corner of eye', ' stare']
+['esquina del ojo', 'condición']
+['https://media.gettyimages.com/photos/whats-that-up-there-picture-id133564421?k=6&m=133564421&s=612x612&w=0&h=GPe3LT3cUDOwTQVphGPTzWOKQeUwlK4OrGBdK2nGH3M=', 'https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+775A
+13
+yá
+109.8
+睚.mp3
+
+睛
+['eyeball', ' pupil of eye']
+['globo ocular', 'pupila del ojo']
+['https://media.gettyimages.com/photos/closeup-of-artificial-eyeball-over-white-background-picture-id1078932166?k=6&m=1078932166&s=612x612&w=0&h=VjzVE7EquB432UYDZGLcHwS5R1-377glD_cJ04LxrYE=', 'https://media.gettyimages.com/vectors/eyeballing-graphic-design-icon-icon-vector-id1089444910?k=6&m=1089444910&s=612x612&w=0&h=NWBNhAF4IfnotUa18MKbZZ6i5GyBR0PxAnLg0jiGNhQ=']
+U+775B
+13
+jīng
+109.8
+睛.mp3
+
+睜
+['to open the eyes', ' stare']
+['para abrir los ojos', 'condición']
+['https://media.gettyimages.com/photos/identical-twins-posing-one-with-eyes-open-the-other-closed-picture-id173591305?k=6&m=173591305&s=612x612&w=0&h=xR7-d7BbOZjD8ZC9Wnh_OvyOiUnxFO2zeWEGTXEu5-Y=', 'https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+775C
+13
+zhēng
+109.8
+睜.mp3
+
+睝
+['NONE']
+['NINGUNA']
+[]
+U+775D
+13
+lí
+109.8
+睝.mp3
+
+睞
+['squint at', ' sidelong glance']
+['entrecerrar los ojos a', 'mirada de reojo']
+['https://media.gettyimages.com/vectors/angled-abstract-gradient-background-vector-id1073750850?k=6&m=1073750850&s=612x612&w=0&h=6_gy0Q7mOiNFCMT7KzQubd_RdHyIGAAp8FeD6fXAbWc=', 'https://media.gettyimages.com/photos/young-woman-writing-on-postit-notes-on-glass-wall-picture-id621687954?k=6&m=621687954&s=612x612&w=0&h=mITsImCb3E7tvZ0nwM4zeXn-vtUMs7Z3t-O6zPsUU1o=']
+U+775E
+13
+lài
+109.8
+睞.mp3
+
+睟
+['clear-eyed']
+['de ojos claros']
+['https://media.gettyimages.com/photos/cleareyed-snail-picture-id982379172?k=6&m=982379172&s=612x612&w=0&h=D0_tmah3LhUl53-YwAKCqp4WrcMuiPlHMvgefozape8=']
+U+775F
+13
+suì
+109.8
+睟.mp3
+
+睠
+['to care for', ' love']
+['cuidar de', 'amor']
+['https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=', 'https://media.gettyimages.com/photos/in-love-with-the-landscape-picture-id892010070?k=6&m=892010070&s=612x612&w=0&h=LE0vwwLhyLGUpQiP0OYXIYNtNWS5Ezna07YYyQ3WPe0=']
+U+7760
+13
+juàn
+109.8
+睠.mp3
+
+睡
+['sleep, doze']
+['dormir, dormitar']
+['https://media.gettyimages.com/photos/time-for-a-catnap-picture-id647221380?k=6&m=647221380&s=612x612&w=0&h=nqpDp6z7MhMbPIcMkyiVSGKfQjguohXH_FlYNe1_0sc=']
+U+7761
+13
+shuì
+109.9
+睡.mp3
+
+睢
+['gaze at, stare at', ' uninhibited']
+['mirar fijamente, mirar fijamente', 'desinhibido']
+['https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+7762
+13
+suī
+109.8
+睢.mp3
+
+督
+['supervise, oversee, direct']
+['supervisar, supervisar, dirigir']
+['https://media.gettyimages.com/photos/senior-businesswoman-presenting-project-on-digital-tablet-to-in-picture-id1163568663?k=6&m=1163568663&s=612x612&w=0&h=eUe1f_nlKoIM8e2mMJsGglvIgfGnWkqQDogd4JPIf-Q=']
+U+7763
+13
+dū
+109.8
+督.mp3
+
+睤
+['to look around, look askance']
+['mirar alrededor, mirar de reojo']
+['https://media.gettyimages.com/photos/woman-with-orange-hat-picture-id86524969?k=6&m=86524969&s=612x612&w=0&h=D0tQhllhRiIJczE-to3hpEiYOUQ6nADqWXA0LapRJwU=']
+U+7764
+13
+bì
+109.8
+睤.mp3
+
+睥
+['look askance at, glare at']
+['mirar de reojo, fulminar']
+['https://media.gettyimages.com/vectors/-vector-id187840272?k=6&m=187840272&s=612x612&w=0&h=qExXe30y2LYSZmRWHBk320XcrckSW58rEnPCFSqZ96M=']
+U+7765
+13
+pì
+109.8
+睥.mp3
+
+睦
+['friendly, amiable, peaceful']
+['amistoso, amable, pacífico']
+['https://media.gettyimages.com/photos/family-sitting-on-pier-by-the-sea-picture-id1002673938?k=6&m=1002673938&s=612x612&w=0&h=7r58l3YSKvymCtNigkNUpBYLuVkix__mU4vETDCK63M=']
+U+7766
+13
+mù
+109.8
+睦.mp3
+
+睧
+['dull vision']
+['visión embotada']
+['https://media.gettyimages.com/photos/tired-businesswoman-rubbing-eyes-in-office-picture-id1017591486?k=6&m=1017591486&s=612x612&w=0&h=SD3tvIygRc39YbNM1pVZznmXcQgUeteyzOSjaxU7p74=']
+U+7767
+13
+hūn
+109.8
+睧.mp3
+
+睨
+['look askance at, glare at', ' squint']
+['mirar de reojo, fulminar', 'estrabismo']
+['https://media.gettyimages.com/vectors/-vector-id187840272?k=6&m=187840272&s=612x612&w=0&h=qExXe30y2LYSZmRWHBk320XcrckSW58rEnPCFSqZ96M=', 'https://media.gettyimages.com/vectors/angled-abstract-gradient-background-vector-id1073750850?k=6&m=1073750850&s=612x612&w=0&h=6_gy0Q7mOiNFCMT7KzQubd_RdHyIGAAp8FeD6fXAbWc=']
+U+7768
+13
+nì
+109.8
+睨.mp3
+
+睩
+['NONE']
+['NINGUNA']
+[]
+U+7769
+13
+lù
+109.8
+睩.mp3
+
+睪
+['spy on']
+['espiar']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+776A
+13
+yì
+109.8
+睪.mp3
+
+睫
+['eyelashes']
+['pestañas']
+['https://media.gettyimages.com/photos/beautiful-woman-picture-id866612478?k=6&m=866612478&s=612x612&w=0&h=g9VQecmVHwXNEQY_HpXx7l7vg3YAxCodKc7hZXL5Etc=']
+U+776B
+13
+jié
+109.8
+睫.mp3
+
+睬
+['notice', ' pay attention to']
+['darse cuenta', 'prestar atención a']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/vectors/communication-icon-set-vector-id936237384?k=6&m=936237384&s=612x612&w=0&h=f1MOhmvmaYoPFOFv38qFQqqpZw6wbvLBfAOpTiNYnH0=']
+U+776C
+13
+cǎi
+109.8
+睬.mp3
+
+睭
+['NONE']
+['NINGUNA']
+[]
+U+776D
+13
+zhǒu
+109.8
+睭.mp3
+
+睮
+['NONE']
+['NINGUNA']
+[]
+U+776E
+14
+yú
+109.9
+睮.mp3
+
+睯
+['NONE']
+['NINGUNA']
+[]
+U+776F
+14
+hūn
+109.9
+睯.mp3
+
+睰
+['NONE']
+['NINGUNA']
+[]
+U+7770
+13
+mà
+109.9
+睰.mp3
+
+睱
+['to gaze slowly', ' white appearance of the eyes']
+['mirar lentamente', 'apariencia blanca de los ojos']
+['https://media.gettyimages.com/photos/happy-rescued-sloth-picture-id675430282?k=6&m=675430282&s=612x612&w=0&h=yindra5jbJdPd1mmW-lWpHD9g0OjmW9QsIf0AVG54nA=', 'https://media.gettyimages.com/photos/teenage-beauty-picture-id1126913832?k=6&m=1126913832&s=612x612&w=0&h=SjP2o3ITBCNe7qes6KBUj_yuenftUxYbwEymGXCc89E=']
+U+7771
+14
+xià
+109.9
+睱.mp3
+
+睲
+['NONE']
+['NINGUNA']
+[]
+U+7772
+14
+xǐng
+109.9
+睲.mp3
+
+睳
+['NONE']
+['NINGUNA']
+[]
+U+7773
+14
+huī
+109.9
+睳.mp3
+
+睴
+['NONE']
+['NINGUNA']
+[]
+U+7774
+14
+gùn
+109.9
+睴.mp3
+
+睵
+['NONE']
+['NINGUNA']
+[]
+U+7775
+14
+zāi
+109.9
+睵.mp3
+
+睶
+['NONE']
+['NINGUNA']
+[]
+U+7776
+14
+chǔn
+109.9
+睶.mp3
+
+睷
+['NONE']
+['NINGUNA']
+[]
+U+7777
+13
+jiān
+109.9
+睷.mp3
+
+睸
+['(Cant.) to close, shut']
+['(Cant.) Cerrar, cerrar']
+['https://media.gettyimages.com/photos/cant-leave-anything-behind-picture-id478659713?k=6&m=478659713&s=612x612&w=0&h=OVNlWRGlTFFzx2HxIGJGQ4LDMchpddANMV9qTOsUMnU=']
+U+7778
+14
+mèi
+109.9
+睸.mp3
+
+睹
+['look at, gaze at', ' observe']
+['mira, mira fijamente', 'observar']
+['https://media.gettyimages.com/photos/portrait-of-young-businesswoman-in-office-picture-id1132119371?k=6&m=1132119371&s=612x612&w=0&h=7GKvxb4PGqreAeyBXJzFTJZpo2NDD0qcYgtVlNIBbDk=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+7779
+13
+dǔ
+109.9
+睹.mp3
+
+睺
+['(Cant.) to watch']
+['(Cant.) Para mirar']
+['https://media.gettyimages.com/photos/wiz-khalifa-and-izabela-guedes-attend-the-los-angeles-premiere-of-picture-id699508582?k=6&m=699508582&s=612x612&w=0&h=eWz6FKA-pRcBjjYHmAEQlzFRzTlGVPFSjXIvcJrwyyI=']
+U+777A
+14
+hóu
+109.9
+睺.mp3
+
+睻
+['NONE']
+['NINGUNA']
+[]
+U+777B
+14
+xuān
+109.9
+睻.mp3
+
+睼
+['NONE']
+['NINGUNA']
+[]
+U+777C
+14
+tiàn
+109.9
+睼.mp3
+
+睽
+['staring']
+['curioso']
+['https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+777D
+14
+kuí
+109.9
+睽.mp3
+
+睾
+['testicle']
+['testículo']
+['https://media.gettyimages.com/photos/male-pelvis-picture-id155355221?k=6&m=155355221&s=612x612&w=0&h=l6CU75mELUbEOrynX-lVskwIOmzQ5oJLNsXU0buy_O0=']
+U+777E
+14
+gāo
+109.9
+睾.mp3
+
+睿
+['shrewd, astute, clever, keen']
+['astuto, astuto, inteligente, entusiasta']
+['https://media.gettyimages.com/photos/portrait-of-smiling-little-girl-with-smartphone-in-the-kitchen-picture-id1139022525?k=6&m=1139022525&s=612x612&w=0&h=kt_zf6f0tnDs60nL-Jokwl-TGNjwgbQ72v2onDEvkQk=']
+U+777F
+14
+ruì
+109.9
+睿.mp3
+
+瞀
+['to look at closely', ' nearsighted', ' dim', ' indistinct vision']
+['para mirar de cerca', 'miope', 'No', 'visión indistinta']
+['https://media.gettyimages.com/photos/closely-examining-the-elements-of-a-painting-picture-id453661853?k=6&m=453661853&s=612x612&w=0&h=BXTrkpB--v8ZVREpRRC49xV5PMuO5O602DuVIIIFgcQ=', 'https://media.gettyimages.com/photos/myopia-in-madrid-picture-id667396944?k=6&m=667396944&s=612x612&w=0&h=1wE6E_WM6il_k4Xcm7j7nKmYa5mQPLpodCO2JBazUiM=', 'https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=', 'https://media.gettyimages.com/photos/abstract-radial-light-background-picture-id1074456994?k=6&m=1074456994&s=612x612&w=0&h=h3-WH2p1ioFK_mGyrxfnJWAdKwxN7rV9-1sCfooKeAs=']
+U+7780
+14
+mào
+109.9
+瞀.mp3
+
+瞁
+['NONE']
+['NINGUNA']
+[]
+U+7781
+14
+xù
+109.9
+瞁.mp3
+
+瞂
+['NONE']
+['NINGUNA']
+[]
+U+7782
+14
+fá
+109.9
+瞂.mp3
+
+瞃
+['NONE']
+['NINGUNA']
+[]
+U+7783
+14
+wò
+109.9
+瞃.mp3
+
+瞄
+['take aim at', ' look at']
+['apuntar a', 'mirar']
+['https://media.gettyimages.com/vectors/target-icon-vector-id986621330?k=6&m=986621330&s=612x612&w=0&h=7sxF5nwJRLftSRYujjr4vHnANVsxSmGebmoGVIodzu8=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+7784
+13
+miáo
+109.9
+瞄.mp3
+
+瞅
+['to see', ' to look at', ' to gaze']
+['para ver', 'para mirar', 'mirar']
+['https://media.gettyimages.com/photos/in-the-optics-store-picture-id1007940374?k=6&m=1007940374&s=612x612&w=0&h=9OcKjk37RkvyauWDt8SPyZsvV6J3Cet-Z97leraeFOI=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/portrait-of-young-businesswoman-in-office-picture-id1132119371?k=6&m=1132119371&s=612x612&w=0&h=7GKvxb4PGqreAeyBXJzFTJZpo2NDD0qcYgtVlNIBbDk=']
+U+7785
+14
+chǒu
+109.9
+瞅.mp3
+
+瞆
+['dim']
+['No']
+['https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=']
+U+7786
+14
+kuì
+109.9
+瞆.mp3
+
+瞇
+['to close (the eyes)', ' to squint']
+['cerrar (los ojos)', 'que entrecerrar los ojos']
+['https://media.gettyimages.com/photos/identical-twins-posing-one-with-eyes-open-the-other-closed-picture-id173591305?k=6&m=173591305&s=612x612&w=0&h=xR7-d7BbOZjD8ZC9Wnh_OvyOiUnxFO2zeWEGTXEu5-Y=', 'https://media.gettyimages.com/vectors/angled-abstract-gradient-background-vector-id1073750850?k=6&m=1073750850&s=612x612&w=0&h=6_gy0Q7mOiNFCMT7KzQubd_RdHyIGAAp8FeD6fXAbWc=']
+U+7787
+14
+mī
+109.10
+瞇.mp3
+
+瞈
+['NONE']
+['NINGUNA']
+[]
+U+7788
+15
+wěng
+109.10
+瞈.mp3
+
+瞉
+['NONE']
+['NINGUNA']
+[]
+U+7789
+15
+kòu
+109.10
+瞉.mp3
+
+瞊
+['NONE']
+['NINGUNA']
+[]
+U+778A
+15
+dàng
+109.10
+瞊.mp3
+
+瞋
+['glare with anger']
+['mirada de ira']
+['https://media.gettyimages.com/photos/headshot-of-disappointed-blond-hair-young-woman-picture-id481811390?k=6&m=481811390&s=612x612&w=0&h=jdBdcq122uSGotRzl29sdgCzW6woXYUXHz5y5ByWz0E=']
+U+778B
+15
+chēn
+109.10
+瞋.mp3
+
+瞌
+['doze off', ' sleepy']
+['dosis fuera', 'soñoliento']
+['https://media.gettyimages.com/photos/do-not-disturb-picture-id1058385764?k=6&m=1058385764&s=612x612&w=0&h=z48TOGZVybc8aRysENaZ2WAbdGz8s6fxHLdYhnlbrCo=', 'https://media.gettyimages.com/photos/entrepreneur-yawning-in-office-picture-id502938603?k=6&m=502938603&s=612x612&w=0&h=Ek2WcqGkHt9YNiVyGAYYwlICRZAkolj_JJiQ2ZPDddA=']
+U+778C
+15
+kē
+109.10
+瞌.mp3
+
+瞍
+['blind', ' no pupil in the eye']
+['ciego', 'sin pupila en el ojo']
+['https://media.gettyimages.com/photos/man-using-visually-impaired-app-picture-id1094554012?k=6&m=1094554012&s=612x612&w=0&h=bA59DtQJdgZJXsOcJuYhqRnI0BVqC3P_GAUngzOXJrU=', 'https://media.gettyimages.com/vectors/-vector-id1057132910?k=6&m=1057132910&s=612x612&w=0&h=cbTyEVNJRp7C95qyy6msqgIiH2rh636sCnnQhebN-5M=']
+U+778D
+14
+sǒu
+109.10
+瞍.mp3
+
+瞎
+['blind, reckless', ' rash']
+['ciego, imprudente', 'erupción']
+['https://media.gettyimages.com/vectors/blindfolded-driver-vector-id1095629226?k=6&m=1095629226&s=612x612&w=0&h=Ug4Lo8xz7twzTsP61e--QhzYDDwYWDWpVma2QuHzR9A=', 'https://media.gettyimages.com/photos/sunblock-application-picture-id173919923?k=6&m=173919923&s=612x612&w=0&h=LwJ-nOJDAo8BMjvb5x-SubAx167rUo3A_nRfTJERNBc=']
+U+778E
+15
+xiā
+109.10
+瞎.mp3
+
+瞏
+['round']
+['redondo']
+['https://media.gettyimages.com/vectors/sun-vector-id1088732954?k=6&m=1088732954&s=612x612&w=0&h=r5vlPVcVGq-8OVPIN2p62MqxBOUNX5O1Th64LSYiTVQ=']
+U+778F
+15
+qióng
+109.10
+瞏.mp3
+
+瞐
+['NONE']
+['NINGUNA']
+[]
+U+7790
+15
+mò
+109.10
+瞐.mp3
+
+瞑
+['close eyes']
+['ojos cerrados']
+['https://media.gettyimages.com/photos/identical-twins-posing-one-with-eyes-open-the-other-closed-picture-id173591305?k=6&m=173591305&s=612x612&w=0&h=xR7-d7BbOZjD8ZC9Wnh_OvyOiUnxFO2zeWEGTXEu5-Y=']
+U+7791
+15
+míng
+109.10
+瞑.mp3
+
+瞒
+['deceive, lie', ' eyes half-closed']
+['engañar, mentir', 'ojos medio cerrados']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=', 'https://media.gettyimages.com/photos/young-woman-with-eyes-halfclosed-portrait-picture-id158933162?k=6&m=158933162&s=612x612&w=0&h=t4iEugTpsSuZ1ES71tww7UOrM4fo9S78r7BmijeXuBY=']
+U+7792
+15
+mán
+109.10
+瞒.mp3
+
+瞓
+['to sleep']
+['dormir']
+['https://media.gettyimages.com/photos/do-not-disturb-picture-id1058385764?k=6&m=1058385764&s=612x612&w=0&h=z48TOGZVybc8aRysENaZ2WAbdGz8s6fxHLdYhnlbrCo=']
+U+7793
+15
+shuì
+109.10
+瞓.mp3
+
+瞔
+['NONE']
+['NINGUNA']
+[]
+U+7794
+16
+zé
+109.11
+瞔.mp3
+
+瞕
+['cataract in the eye']
+['catarata en el ojo']
+['https://media.gettyimages.com/photos/optometrist-with-patient-picture-id532317301?k=6&m=532317301&s=612x612&w=0&h=HDxKRKBmnLr4tRssxyjdl0cRrikhDfrkf7YQGcAPQgg=']
+U+7795
+16
+zhàng
+109.11
+瞕.mp3
+
+瞖
+['a cataract or film over the eye']
+['una catarata o película sobre el ojo']
+['https://media.gettyimages.com/photos/parents-cover-their-childrens-eyes-while-watching-tv-picture-id587202464?k=6&m=587202464&s=612x612&w=0&h=op-xrwndl6hegMi53XUqSamKo1SzPv-Bn5SQAJdb6Vo=']
+U+7796
+16
+yì
+109.11
+瞖.mp3
+
+瞗
+['NONE']
+['NINGUNA']
+[]
+U+7797
+16
+diāo
+109.11
+瞗.mp3
+
+瞘
+['deeply-sunk eyes']
+['ojos profundamente hundidos']
+['NONE']
+U+7798
+16
+kōu
+109.11
+瞘.mp3
+
+瞙
+['NONE']
+['NINGUNA']
+[]
+U+7799
+15
+mò
+109.11
+瞙.mp3
+
+瞚
+['NONE']
+['NINGUNA']
+[]
+U+779A
+16
+shùn
+109.11
+瞚.mp3
+
+瞛
+['NONE']
+['NINGUNA']
+[]
+U+779B
+16
+cōng
+109.11
+瞛.mp3
+
+瞜
+['to see', ' to look at', ' to observe']
+['para ver', 'para mirar', 'para observar']
+['https://media.gettyimages.com/photos/in-the-optics-store-picture-id1007940374?k=6&m=1007940374&s=612x612&w=0&h=9OcKjk37RkvyauWDt8SPyZsvV6J3Cet-Z97leraeFOI=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+779C
+16
+lōu
+109.11
+瞜.mp3
+
+瞝
+['NONE']
+['NINGUNA']
+[]
+U+779D
+15
+chī
+109.11
+瞝.mp3
+
+瞞
+['deceive, lie', ' eyes half-closed']
+['engañar, mentir', 'ojos medio cerrados']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=', 'https://media.gettyimages.com/photos/young-woman-with-eyes-halfclosed-portrait-picture-id158933162?k=6&m=158933162&s=612x612&w=0&h=t4iEugTpsSuZ1ES71tww7UOrM4fo9S78r7BmijeXuBY=']
+U+779E
+16
+mán
+109.11
+瞞.mp3
+
+瞟
+['glare at', ' look askance at', ' squint']
+['fulminar a', 'mirar con recelo', 'estrabismo']
+['https://media.gettyimages.com/vectors/blue-light-beam-on-black-background-vector-id1071711902?k=6&m=1071711902&s=612x612&w=0&h=LLFsqIJjkDQJ8cxgZmOvj1U5c6EvNWHNKgFx-hiHLNM=', 'https://media.gettyimages.com/photos/man-drinking-beer-in-bar-picture-id78035403?k=6&m=78035403&s=612x612&w=0&h=ahxFVIcaBvMABTxh7yXFH45CO1fW0MuH4MLp77j0wiM=', 'https://media.gettyimages.com/vectors/angled-abstract-gradient-background-vector-id1073750850?k=6&m=1073750850&s=612x612&w=0&h=6_gy0Q7mOiNFCMT7KzQubd_RdHyIGAAp8FeD6fXAbWc=']
+U+779F
+16
+piǎo
+109.11
+瞟.mp3
+
+瞠
+['look at, stare at, gaze at']
+['mira, mira fijamente, mira fijamente']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+77A0
+16
+chēng
+109.11
+瞠.mp3
+
+瞡
+['NONE']
+['NINGUNA']
+[]
+U+77A1
+16
+guī
+109.11
+瞡.mp3
+
+瞢
+['eyesight obscured', ' to feel ashamed']
+['vista oscurecida', 'sentir vergüenza']
+['https://media.gettyimages.com/photos/blindfolded-picture-id92007672?k=6&m=92007672&s=612x612&w=0&h=dpiWJPljvWeof9VAEhkkGZrBPt_xvodEn0F1QKB3TYc=', 'https://media.gettyimages.com/photos/young-woman-laughing-with-hand-over-mouth-picture-id755653139?k=6&m=755653139&s=612x612&w=0&h=JAb0zKnE22fOi2z1Zu0BBqGH6zMjn6c_naZzXaBTTvs=']
+U+77A2
+15
+méng
+109.11
+瞢.mp3
+
+瞣
+['NONE']
+['NINGUNA']
+[]
+U+77A3
+16
+wàn
+109.11
+瞣.mp3
+
+瞤
+['to blink or twitch the eyes']
+['parpadear o mover los ojos']
+['https://media.gettyimages.com/photos/look-me-in-the-eye-picture-id154948881?k=6&m=154948881&s=612x612&w=0&h=gqWMmA3FRoU80ZT1CHFkzX-cMkIRWEPqkiIk6AV78k4=']
+U+77A4
+17
+rún
+109.12
+瞤.mp3
+
+瞥
+['take fleeting glance at']
+['echar un vistazo fugaz a']
+['NONE']
+U+77A5
+16
+piē
+109.12
+瞥.mp3
+
+瞦
+['NONE']
+['NINGUNA']
+[]
+U+77A6
+17
+xī
+109.12
+瞦.mp3
+
+瞧
+['glance at, look at, see']
+['mirar, mirar, ver']
+['https://media.gettyimages.com/photos/studio-portrait-of-real-mediterranean-young-woman-looking-to-the-side-picture-id1135065358?k=6&m=1135065358&s=612x612&w=0&h=xJrWk_R5TR-21b-ptUXQgb_OarMzOuuVjNLH7DoB4_k=']
+U+77A7
+17
+qiáo
+109.12
+瞧.mp3
+
+瞨
+['NONE']
+['NINGUNA']
+[]
+U+77A8
+17
+pú
+109.12
+瞨.mp3
+
+瞩
+['watch carefully, stare at, focus on']
+['mira con atención, mira fijamente, concéntrate en']
+['https://media.gettyimages.com/photos/partial-reflection-of-man-looking-in-rear-view-mirror-picture-id899764864?k=6&m=899764864&s=612x612&w=0&h=y07KsBxS43WWnOeCc4R-vfYEE6OTJpcISiEJNVuZFSM=']
+U+77A9
+17
+zhǔ
+109.12
+瞩.mp3
+
+瞪
+['stare at']
+['mirar a']
+['https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+77AA
+17
+dèng
+109.12
+瞪.mp3
+
+瞫
+['look']
+['Mira']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+77AB
+17
+shěn
+109.12
+瞫.mp3
+
+瞬
+['wink, blink', ' in a wink, a flash']
+['guiño, parpadeo', 'en un guiño, un destello']
+['https://media.gettyimages.com/photos/portrait-of-a-caucasian-real-boy-winking-picture-id947798124?k=6&m=947798124&s=612x612&w=0&h=8rI7_F0ShPU3Qrhb57QRJvtEhVCbvcEEzh8c0_MdqBY=', 'https://media.gettyimages.com/vectors/smiley-faces-collection-vector-id455424045?k=6&m=455424045&s=612x612&w=0&h=DNRBDTnAe1FfJpmxe8IeNiJ-WqyS2nJfeC_tQAujzpk=']
+U+77AC
+17
+shùn
+109.12
+瞬.mp3
+
+瞭
+['bright, clear', ' clear-sighted']
+['brillante, claro', 'clarividente']
+['https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=', 'https://media.gettyimages.com/photos/-picture-id79407139?k=6&m=79407139&s=612x612&w=0&h=uhs7NAADEWJtJSYn-vMxRipKbbGx70ZXhWL5bSQwu6U=']
+U+77AD
+17
+liǎo
+109.12
+瞭.mp3
+
+瞮
+['NONE']
+['NINGUNA']
+[]
+U+77AE
+17
+chè
+109.12
+瞮.mp3
+
+瞯
+['to peep', ' to spy']
+['al Pío', 'el espía']
+['https://media.gettyimages.com/photos/curious-looking-man-picture-id157643213?k=6&m=157643213&s=612x612&w=0&h=pyoKGY9JRxrYNXSu1TZe3NdqlnESGXLvsD1DIV5Ya-A=', 'https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+77AF
+17
+xián
+109.12
+瞯.mp3
+
+瞰
+['watch, spy', ' overlook', ' look down']
+['reloj, espía', 'pasar por alto', 'mira abajo']
+['https://media.gettyimages.com/vectors/internet-marketing-icon-acme-series-vector-id954094108?k=6&m=954094108&s=612x612&w=0&h=I5B16-fkHW8ONBUslig-DpFJTVCy2bNzYa1eQyVnhiw=', 'https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=', 'https://media.gettyimages.com/photos/cheerful-mature-african-man-on-white-picture-id502617701?k=6&m=502617701&s=612x612&w=0&h=3GQGfVwqyfeOmaFnTcs-kP8Af1eDtZWZOd_T3Zt14Nk=']
+U+77B0
+16
+kàn
+109.12
+瞰.mp3
+
+瞱
+['NONE']
+['NINGUNA']
+[]
+U+77B1
+15
+yè
+109.12
+瞱.mp3
+
+瞲
+['NONE']
+['NINGUNA']
+[]
+U+77B2
+17
+xù
+109.12
+瞲.mp3
+
+瞳
+['pupil of eye']
+['pupila del ojo']
+['https://media.gettyimages.com/vectors/eyeballing-graphic-design-icon-icon-vector-id1089444910?k=6&m=1089444910&s=612x612&w=0&h=NWBNhAF4IfnotUa18MKbZZ6i5GyBR0PxAnLg0jiGNhQ=']
+U+77B3
+17
+tóng
+109.12
+瞳.mp3
+
+瞴
+['NONE']
+['NINGUNA']
+[]
+U+77B4
+17
+móu
+109.12
+瞴.mp3
+
+瞵
+['to stare at']
+['mirar fijamente']
+['https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+77B5
+17
+lín
+109.12
+瞵.mp3
+
+瞶
+['dim', ' blurred vision']
+['No', 'visión borrosa']
+['https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=', 'https://media.gettyimages.com/photos/acceleration-picture-id1145362526?k=6&m=1145362526&s=612x612&w=0&h=7H-_GH0rlyye3HHChCXC9oFgMaqICtTfQfWAgCfY3P4=']
+U+77B6
+17
+guì
+109.12
+瞶.mp3
+
+瞷
+['NONE']
+['NINGUNA']
+[]
+U+77B7
+17
+jiàn
+109.12
+瞷.mp3
+
+瞸
+['NONE']
+['NINGUNA']
+[]
+U+77B8
+17
+yè
+109.13
+瞸.mp3
+
+瞹
+['clouded, obscure']
+['nublado, oscuro']
+['https://media.gettyimages.com/photos/covered-car-picture-id93531541?k=6&m=93531541&s=612x612&w=0&h=Y_ZQ8aDmmnuOwAAcqmWx-AmkZEGMxw89IooGcd0Nvmo=']
+U+77B9
+18
+ài
+109.13
+瞹.mp3
+
+瞺
+['NONE']
+['NINGUNA']
+[]
+U+77BA
+18
+huì
+109.13
+瞺.mp3
+
+瞻
+['look', ' look out for', ' respect']
+['Mira', 'Tener cuidado de', 'el respeto']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+77BB
+18
+zhān
+109.13
+瞻.mp3
+
+瞼
+['eyelid']
+['párpado']
+['https://media.gettyimages.com/photos/marking-the-faceuppereyelid-blepharoplasty-picture-id531827681?k=6&m=531827681&s=612x612&w=0&h=gU0O_eAOzyztpSHMDUkWWQLEwv9_8iIZmdO5GeFKJ_k=']
+U+77BC
+18
+jiǎn
+109.13
+瞼.mp3
+
+瞽
+['blind', ' blind musician', ' stupid']
+['ciego', 'músico ciego', 'estúpido']
+['https://media.gettyimages.com/photos/man-using-visually-impaired-app-picture-id1094554012?k=6&m=1094554012&s=612x612&w=0&h=bA59DtQJdgZJXsOcJuYhqRnI0BVqC3P_GAUngzOXJrU=', 'https://media.gettyimages.com/photos/playing-the-ukelele-picture-id1135878224?k=6&m=1135878224&s=612x612&w=0&h=pqNd67CnAzj0qOEpOYYo5Qjit7Ram2es4fLOxHN3v80=', 'https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=']
+U+77BD
+18
+gǔ
+109.13
+瞽.mp3
+
+瞾
+['NONE']
+['NINGUNA']
+[]
+U+77BE
+18
+zhào
+109.13
+瞾.mp3
+
+瞿
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+77BF
+18
+qú
+109.13
+瞿.mp3
+
+矀
+['NONE']
+['NINGUNA']
+[]
+U+77C0
+18
+méi
+109.13
+矀.mp3
+
+矁
+['to see', ' to look at', ' to gaze']
+['para ver', 'para mirar', 'mirar']
+['https://media.gettyimages.com/photos/in-the-optics-store-picture-id1007940374?k=6&m=1007940374&s=612x612&w=0&h=9OcKjk37RkvyauWDt8SPyZsvV6J3Cet-Z97leraeFOI=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/portrait-of-young-businesswoman-in-office-picture-id1132119371?k=6&m=1132119371&s=612x612&w=0&h=7GKvxb4PGqreAeyBXJzFTJZpo2NDD0qcYgtVlNIBbDk=']
+U+77C1
+18
+chǒu
+109.13
+矁.mp3
+
+矂
+['NONE']
+['NINGUNA']
+[]
+U+77C2
+18
+sào
+109.13
+矂.mp3
+
+矃
+['NONE']
+['NINGUNA']
+[]
+U+77C3
+19
+nǐng
+109.14
+矃.mp3
+
+矄
+['NONE']
+['NINGUNA']
+[]
+U+77C4
+19
+xūn
+109.14
+矄.mp3
+
+矅
+['NONE']
+['NINGUNA']
+[]
+U+77C5
+19
+yào
+109.14
+矅.mp3
+
+矆
+['NONE']
+['NINGUNA']
+[]
+U+77C6
+18
+huò
+109.14
+矆.mp3
+
+矇
+['stupid, ignorant', ' blind']
+['estúpido, ignorante', 'ciego']
+['https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=', 'https://media.gettyimages.com/photos/man-using-visually-impaired-app-picture-id1094554012?k=6&m=1094554012&s=612x612&w=0&h=bA59DtQJdgZJXsOcJuYhqRnI0BVqC3P_GAUngzOXJrU=']
+U+77C7
+18
+méng
+109.14
+矇.mp3
+
+矈
+['dense, detailed, fine']
+['denso, detallado, fino']
+['NONE']
+U+77C8
+19
+mián
+109.14
+矈.mp3
+
+矉
+['an angry glare', ' to open the eyes with anger']
+['una mirada enojada', 'abrir los ojos con rabia']
+['https://media.gettyimages.com/photos/headshot-of-disappointed-blond-hair-young-woman-picture-id481811390?k=6&m=481811390&s=612x612&w=0&h=jdBdcq122uSGotRzl29sdgCzW6woXYUXHz5y5ByWz0E=', 'https://media.gettyimages.com/photos/eye-picture-id182178192?k=6&m=182178192&s=612x612&w=0&h=SAIvbaKQHz-8-exYXl45nZUwxCNB0lOixOFcCmZAua8=']
+U+77C9
+19
+pín
+109.14
+矉.mp3
+
+矊
+['NONE']
+['NINGUNA']
+[]
+U+77CA
+19
+mián
+109.14
+矊.mp3
+
+矋
+['(Cant.) to stare angrily']
+['(Cant.) Mirar con enojo']
+['NONE']
+U+77CB
+19
+lěi
+109.15
+矋.mp3
+
+矌
+['NONE']
+['NINGUNA']
+[]
+U+77CC
+19
+kuàng
+109.15
+矌.mp3
+
+矍
+['look about in fright or alarm']
+['mira a tu alrededor con miedo o alarma']
+['https://media.gettyimages.com/photos/somethings-not-right-here-picture-id487729433?k=6&m=487729433&s=612x612&w=0&h=MpX8sPL0F-AzKXLk7RA0-v66lrtQdwg6GmZnQI3T8TE=']
+U+77CD
+20
+jué
+109.15
+矍.mp3
+
+矎
+['NONE']
+['NINGUNA']
+[]
+U+77CE
+19
+xuān
+109.15
+矎.mp3
+
+矏
+['NONE']
+['NINGUNA']
+[]
+U+77CF
+20
+mián
+109.15
+矏.mp3
+
+矐
+['NONE']
+['NINGUNA']
+[]
+U+77D0
+21
+huò
+109.16
+矐.mp3
+
+矑
+['the pupil of the eye', ' to see']
+['la pupila del ojo', 'para ver']
+['https://media.gettyimages.com/vectors/eyeballing-graphic-design-icon-icon-vector-id1089444910?k=6&m=1089444910&s=612x612&w=0&h=NWBNhAF4IfnotUa18MKbZZ6i5GyBR0PxAnLg0jiGNhQ=', 'https://media.gettyimages.com/photos/in-the-optics-store-picture-id1007940374?k=6&m=1007940374&s=612x612&w=0&h=9OcKjk37RkvyauWDt8SPyZsvV6J3Cet-Z97leraeFOI=']
+U+77D1
+21
+lú
+109.16
+矑.mp3
+
+矒
+['NONE']
+['NINGUNA']
+[]
+U+77D2
+20
+méng
+109.16
+矒.mp3
+
+矓
+['faint, fuzzy, blurred']
+['débil, borroso, borroso']
+['https://media.gettyimages.com/photos/clouds-covering-forests-and-earth-with-only-peaks-left-visible-picture-id1205725027?k=6&m=1205725027&s=612x612&w=0&h=L6zVlIcJlhh-KERnxFtRPiL4XkXSxAMAYmwfbYOaot8=']
+U+77D3
+21
+lóng
+109.16
+矓.mp3
+
+矔
+['NONE']
+['NINGUNA']
+[]
+U+77D4
+22
+guàn
+109.18
+矔.mp3
+
+矕
+['to see, witness, inspect']
+['para ver, presenciar, inspeccionar']
+['https://media.gettyimages.com/vectors/linear-guy-vector-id165030079?k=6&m=165030079&s=612x612&w=0&h=M_8hJ-l2qC9jXdoe5kgIg6hJWq_fpovqPGA5HfmFZPs=']
+U+77D5
+24
+mǎn
+109.19
+矕.mp3
+
+矖
+['to stare at']
+['mirar fijamente']
+['https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+77D6
+24
+xǐ
+109.21
+矖.mp3
+
+矗
+['straight, upright, erect, lofty']
+['recto, erguido, erguido, elevado']
+['NONE']
+U+77D7
+24
+chù
+109.19
+矗.mp3
+
+矘
+['NONE']
+['NINGUNA']
+[]
+U+77D8
+25
+tǎng
+109.20
+矘.mp3
+
+矙
+['view']
+['ver']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+77D9
+24
+kàn
+109.20
+矙.mp3
+
+矚
+['watch carefully, stare at, focus on']
+['mira con atención, mira fijamente, concéntrate en']
+['https://media.gettyimages.com/photos/partial-reflection-of-man-looking-in-rear-view-mirror-picture-id899764864?k=6&m=899764864&s=612x612&w=0&h=y07KsBxS43WWnOeCc4R-vfYEE6OTJpcISiEJNVuZFSM=']
+U+77DA
+26
+zhǔ
+109.21
+矚.mp3
+
+矛
+['spear, lance', ' KangXi radical 110']
+['lanza, lanza', 'K Ang ξ radical 110']
+['https://media.gettyimages.com/vectors/lancer-mascot-vector-id165642929?k=6&m=165642929&s=612x612&w=0&h=p6kpLMV51xuXGYwIyjVD5Z3yFnLq5dKAhU5IZWlUOtk=', 'NONE']
+U+77DB
+5
+máo
+110.0
+矛.mp3
+
+矜
+['pity, feel sorry for, show sympathy']
+['compasión, sentir lástima, mostrar simpatía']
+['NONE']
+U+77DC
+9
+jīn
+110.4
+矜.mp3
+
+矝
+['NONE']
+['NINGUNA']
+[]
+U+77DD
+10
+jīn
+110.5
+矝.mp3
+
+矞
+['bore with awl', ' bright, charming']
+['perforar con punzón', 'brillante, encantador']
+['NONE', 'https://media.gettyimages.com/photos/glowing-neon-black-girl-picture-id1129891244?k=6&m=1129891244&s=612x612&w=0&h=31_KxrmoAv8COBY9CzDAlnBWars23YaNboiyb_4FJjA=']
+U+77DE
+12
+yù
+110.7
+矞.mp3
+
+矟
+['lance']
+['lanza']
+['https://media.gettyimages.com/vectors/knight-lancer-vector-id165643846?k=6&m=165643846&s=612x612&w=0&h=BAG_Q9odWBe6MSTUXuKMm2U6Aqaaz8JSA4L03vziQ6U=']
+U+77DF
+12
+shuò
+110.7
+矟.mp3
+
+矠
+['NONE']
+['NINGUNA']
+[]
+U+77E0
+13
+zé
+110.8
+矠.mp3
+
+矡
+['NONE']
+['NINGUNA']
+[]
+U+77E1
+25
+jué
+110.20
+矡.mp3
+
+矢
+['arrow, dart', ' vow, swear']
+['flecha, dardo', 'jurar, jurar']
+['https://media.gettyimages.com/vectors/target-icon-vector-id986621330?k=6&m=986621330&s=612x612&w=0&h=7sxF5nwJRLftSRYujjr4vHnANVsxSmGebmoGVIodzu8=', 'https://media.gettyimages.com/vectors/making-an-oath-icon-vector-id696658014?k=6&m=696658014&s=612x612&w=0&h=7Hb87uAMR8nRt04cfYY3iZKdcX0shlUYsheETsFMHvE=']
+U+77E2
+5
+shǐ
+111.0
+矢.mp3
+
+矣
+['particle of completed action']
+['partícula de acción completa']
+['https://media.gettyimages.com/photos/dirty-hands-of-a-man-covered-with-dust-slapping-picture-id585098110?k=6&m=585098110&s=612x612&w=0&h=SegOJpcoEhUmQAoPuG0SWPN3jfMU1Ltj4h_SG8Yy-Cs=']
+U+77E3
+7
+yǐ
+111.2
+矣.mp3
+
+矤
+['NONE']
+['NINGUNA']
+[]
+U+77E4
+8
+shěn
+111.3
+矤.mp3
+
+知
+['know, perceive, comprehend']
+['saber, percibir, comprender']
+['https://media.gettyimages.com/photos/seaside-sensations-picture-id588201101?k=6&m=588201101&s=612x612&w=0&h=aExePHWx8YIi_8gzOjvPyNf_Uo-HP0OD3KgwOFMjzHE=']
+U+77E5
+8
+zhī
+111.3
+知.mp3
+
+矦
+['NONE']
+['NINGUNA']
+[]
+U+77E6
+9
+hóu
+111.4
+矦.mp3
+
+矧
+['much more, still more', ' the gums']
+['mucho mas aun mas', 'las encías']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/beautiful-smile-with-dental-mirror-picture-id185331512?k=6&m=185331512&s=612x612&w=0&h=CtIqqOgwNWDCFW3UFfqmVMJRYu9rXMzamhdbVsuI7X8=']
+U+77E7
+9
+shěn
+111.4
+矧.mp3
+
+矨
+['NONE']
+['NINGUNA']
+[]
+U+77E8
+9
+yǐng
+111.4
+矨.mp3
+
+矩
+["carpenter's square, ruler, rule"]
+['escuadra de carpintero, regla, regla']
+['https://media.gettyimages.com/photos/carpenter-square-picture-id476715868?k=6&m=476715868&s=612x612&w=0&h=NP317nWtjUQpk-zBiK97n2WwycfFRCsKjktO1x-yBFY=']
+U+77E9
+9
+jǔ
+111.5
+矩.mp3
+
+矪
+['NONE']
+['NINGUNA']
+[]
+U+77EA
+11
+zhōu
+111.6
+矪.mp3
+
+矫
+['correct, rectify, straighten out']
+['corregir, rectificar, enderezar']
+['https://media.gettyimages.com/photos/precise-mechanics-on-robotic-arm-in-industry-picture-id856905066?k=6&m=856905066&s=612x612&w=0&h=MPL5YAz8nBGUtddU8chNqu4q_11Q3QSZ10kNBQIdoHI=']
+U+77EB
+11
+jiǎo
+111.6
+矫.mp3
+
+矬
+['a dwarf']
+['Un enano']
+['https://media.gettyimages.com/photos/portrait-of-dwarf-man-standing-against-white-background-picture-id1132259159?k=6&m=1132259159&s=612x612&w=0&h=fj0B0hBT209p2MTITLgPtnv_sK8PMItynljDgks-56M=']
+U+77EC
+12
+cuó
+111.7
+矬.mp3
+
+短
+['short', ' brief', ' deficient, lacking']
+['corto', 'breve', 'deficiente']
+['https://media.gettyimages.com/photos/beauty-woman-portrait-picture-id1131796161?k=6&m=1131796161&s=612x612&w=0&h=hQ-IqoEoqhnJWLFZ8v47E5XDUyw8fDoCnaLRMyi5h-s=', 'https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/illustrations/illustrative-image-of-businessman-holding-small-umbrella-representing-illustration-id494329939?k=6&m=494329939&s=612x612&w=0&h=wBdfxpDrKfYnVGK0424ENz17weMDSA5y0jiOwj0QXv0=']
+U+77ED
+12
+duǎn
+111.7
+短.mp3
+
+矮
+['short, dwarf', ' low']
+['corto, enano', 'bajo']
+['https://media.gettyimages.com/photos/kiss-on-the-cheek-picture-id108203480?k=6&m=108203480&s=612x612&w=0&h=dRhN5Y4kaM6Kb0KrywlpUGCi6ODF7h7NaJY5xd-yehI=', 'https://media.gettyimages.com/vectors/battery-icons-line-vector-icons-vector-id1089811060?k=6&m=1089811060&s=612x612&w=0&h=hriGX8wMYlYF_FlzNDI5ZucMFVgtgOX89I7q1Of7C4A=']
+U+77EE
+13
+ǎi
+111.8
+矮.mp3
+
+矯
+['correct, rectify, straighten out']
+['corregir, rectificar, enderezar']
+['https://media.gettyimages.com/photos/precise-mechanics-on-robotic-arm-in-industry-picture-id856905066?k=6&m=856905066&s=612x612&w=0&h=MPL5YAz8nBGUtddU8chNqu4q_11Q3QSZ10kNBQIdoHI=']
+U+77EF
+17
+jiǎo
+111.12
+矯.mp3
+
+矰
+['arrow with attached silk cord']
+['flecha con cordón de seda adjunto']
+['NONE']
+U+77F0
+17
+zēng
+111.12
+矰.mp3
+
+矱
+['measure, standard, criterion']
+['medida, estándar, criterio']
+['https://media.gettyimages.com/photos/measure-plan-and-design-tools-picture-id1256599743?k=6&m=1256599743&s=612x612&w=0&h=guyRh0OEELUUyjEYZHOKllGn4l66xZUhayv_SB5x3Wo=']
+U+77F1
+18
+yuē
+111.14
+矱.mp3
+
+矲
+['NONE']
+['NINGUNA']
+[]
+U+77F2
+20
+bà
+111.15
+矲.mp3
+
+石
+['stone, rock, mineral', ' rad. 112']
+['piedra, roca, mineral', 'trabajo. 112']
+['https://media.gettyimages.com/photos/green-mineral-picture-id1015895204?k=6&m=1015895204&s=612x612&w=0&h=w8CEWxjiMvEYc-AnGjZ01KlUehgBtYSeKwKbY_kw7bI=', 'NONE']
+U+77F3
+5
+shí
+112.0
+石.mp3
+
+矴
+['anchor', ' (Cant.) a place']
+['ancla', '(Can.) Un lugar']
+['https://media.gettyimages.com/photos/newsreader-in-television-studio-picture-id940035118?k=6&m=940035118&s=612x612&w=0&h=PmZi9bJrHKOoMjTPQhx3_wZRqDrqadaQDasgGxBLPdA=', 'https://media.gettyimages.com/photos/aerial-view-of-korean-village-houses-on-the-border-w-surrounding-farm-picture-id50775197?k=6&m=50775197&s=612x612&w=0&h=J3XaJmtr-FmN2i79rrWP56h0amb-fODcf61SXav-1WA=']
+U+77F4
+7
+dìng
+112.2
+矴.mp3
+
+矵
+['NONE']
+['NINGUNA']
+[]
+U+77F5
+7
+qì
+112.2
+矵.mp3
+
+矶
+['jetty', ' submerged rock', ' eddy']
+['embarcadero', 'roca sumergida', 'eddy']
+['https://media.gettyimages.com/photos/family-sitting-on-pier-by-the-sea-picture-id1002673938?k=6&m=1002673938&s=612x612&w=0&h=7r58l3YSKvymCtNigkNUpBYLuVkix__mU4vETDCK63M=', 'https://media.gettyimages.com/photos/underwater-landscape-at-koh-bon-similan-islands-picture-id556339177?k=6&m=556339177&s=612x612&w=0&h=oez5SO9cIr80uQR070SCth1pH-q7QxuLjvWHftXdU2o=', 'https://media.gettyimages.com/photos/beautiful-clear-teal-water-vortex-picture-id157641313?k=6&m=157641313&s=612x612&w=0&h=U7UN3pojuvWGcB3eFu7eEH16vMbbwaRMCyiGFxSsQbI=']
+U+77F6
+7
+jī
+112.2
+矶.mp3
+
+矷
+['NONE']
+['NINGUNA']
+[]
+U+77F7
+8
+zǐ
+112.3
+矷.mp3
+
+矸
+['a rock or cliff']
+['una roca o un acantilado']
+['https://media.gettyimages.com/photos/low-angle-view-of-rocky-mountain-against-sky-picture-id750490689?k=6&m=750490689&s=612x612&w=0&h=MHrZu_t19QOHRmgwJYTD5WTI6ZAQCT8rpM55rsmmVoQ=']
+U+77F8
+8
+gān
+112.3
+矸.mp3
+
+矹
+['NONE']
+['NINGUNA']
+[]
+U+77F9
+8
+wù
+112.3
+矹.mp3
+
+矺
+['(Cant.) to press steadily']
+['(Cant.) Para presionar constantemente']
+['NONE']
+U+77FA
+8
+zhé
+112.3
+矺.mp3
+
+矻
+['toil, slave away', ' busy']
+['trabajar duro, esclavo', 'ocupado']
+['https://media.gettyimages.com/photos/the-daily-grind-picture-id172170400?k=6&m=172170400&s=612x612&w=0&h=UVQ47az0XK0XcirzMnZNRMkhpY5VqB6obI07huNz7qY=', 'https://media.gettyimages.com/photos/aerial-view-of-a-crossing-in-mexico-city-picture-id1032513938?k=6&m=1032513938&s=612x612&w=0&h=85VZYkMFBanjqHysXmvwahiTweYTZ_hhewrKd84ELYI=']
+U+77FB
+8
+kū
+112.3
+矻.mp3
+
+矼
+['stone bridge', ' stepping stones']
+['puente de piedra', 'peldaños']
+['https://media.gettyimages.com/photos/arch-bridge-in-kromlau-picture-id539121576?k=6&m=539121576&s=612x612&w=0&h=zj8Vkp_V-w04EKPuVfaLRsB7YkVnqJTL2zi9PwK9Fls=', 'https://media.gettyimages.com/photos/pebbles-in-water-i-picture-id173019238?k=6&m=173019238&s=612x612&w=0&h=UKZvme9M-5pfMVNTW5GvVvFxWmEiEFP0P-9aXBXr0VE=']
+U+77FC
+8
+gāng
+112.3
+矼.mp3
+
+矽
+['silicon']
+['silicio']
+['https://media.gettyimages.com/photos/breast-implant-picture-id157589963?k=6&m=157589963&s=612x612&w=0&h=fMJfB6lsXZ1otsQ3AZr0GRQGo0AeCq47Ti0C1dA2tuU=']
+U+77FD
+8
+xì
+112.3
+矽.mp3
+
+矾
+['alum']
+['alumbre']
+['https://media.gettyimages.com/photos/graduation-day-picture-id1066324992?k=6&m=1066324992&s=612x612&w=0&h=PUdDocvWkqMoIonaWHahqNP6wL0or9IjAZuZimthJTA=']
+U+77FE
+8
+fán
+112.3
+矾.mp3
+
+矿
+['mine', ' mineral, ore']
+['mía', 'mineral, mineral']
+['https://media.gettyimages.com/photos/grassland-hills-and-cloud-picture-id579021062?k=6&m=579021062&s=612x612&w=0&h=eiPNupocg2hrh2OV5ES6gG59f2TEt1XWI5_cyULHPdM=', 'https://media.gettyimages.com/photos/small-pieces-of-strong-metal-ore-picture-id157526585?k=6&m=157526585&s=612x612&w=0&h=fgsH5AgmmVUAyvirdYUI1nRCIM7bL9SW6sjZ5lOR_dM=']
+U+77FF
+8
+kuàng
+112.3
+矿.mp3
+
+砀
+['brilliantly colored stone with veined patterns in it']
+['piedra de colores brillantes con patrones veteados en ella']
+['NONE']
+U+7800
+8
+dàng
+112.3
+砀.mp3
+
+码
+['number, numerals', ' yard', ' symbol']
+['número, numerales', 'yarda', 'símbolo']
+['https://media.gettyimages.com/vectors/numbers-design-red-numbers-on-carbon-fiber-background-vector-id529083495?k=6&m=529083495&s=612x612&w=0&h=TIiSGKsU_9mHT1tCk9CIbWMzkaOylYejTZB2XIfolxc=', 'https://media.gettyimages.com/photos/lawn-and-trees-in-the-park-picture-id1164727662?k=6&m=1164727662&s=612x612&w=0&h=BJ040ZsR4fCW5GgPcBeCzf-Js1KlAF_eVJAuJoT5Sfw=', 'https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=']
+U+7801
+8
+mǎ
+112.3
+码.mp3
+
+砂
+['sand', ' pebbles, gravel', ' gritty']
+['arena', 'guijarros, grava', 'arenoso']
+['https://media.gettyimages.com/photos/waves-of-sand-picture-id157308943?k=6&m=157308943&s=612x612&w=0&h=PT-3BHpLxI-t8Vpqlz2pEAIQJ03RxVTOePMZ01KlEZw=', 'https://media.gettyimages.com/photos/gravel-pebbles-and-sand-closeup-seamless-background-picture-id947296334?k=6&m=947296334&s=612x612&w=0&h=KYqYHpIkiDrK-Ym87ND6qnq7Xw9nHkb3aRJDdskkXhs=', 'https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=']
+U+7802
+9
+shā
+112.4
+砂.mp3
+
+砃
+['NONE']
+['NINGUNA']
+[]
+U+7803
+9
+dān
+112.4
+砃.mp3
+
+砄
+['NONE']
+['NINGUNA']
+[]
+U+7804
+9
+jué
+112.4
+砄.mp3
+
+砅
+['cross on stepping stones']
+['Cruz sobre escalones']
+['https://media.gettyimages.com/photos/stepping-stones-over-water-two-people-picture-id941738386?k=6&m=941738386&s=612x612&w=0&h=2gqhIrFKv_mIHDLru328KmzXGN7snuchuiIge_mHO4o=']
+U+7805
+9
+lì
+112.4
+砅.mp3
+
+砆
+['1/2 pr stone']
+['Piedra a 1/2']
+['NONE']
+U+7806
+9
+fū
+112.4
+砆.mp3
+
+砇
+['a stone resembling jade, alabaster']
+['una piedra que parece jade, alabastro']
+['NONE']
+U+7807
+9
+mín
+112.4
+砇.mp3
+
+砈
+['NONE']
+['NINGUNA']
+[]
+U+7808
+9
+ě
+112.4
+砈.mp3
+
+砉
+['NONE']
+['NINGUNA']
+[]
+U+7809
+9
+huò
+112.4
+砉.mp3
+
+砊
+['NONE']
+['NINGUNA']
+[]
+U+780A
+9
+kāng
+112.4
+砊.mp3
+
+砋
+['NONE']
+['NINGUNA']
+[]
+U+780B
+9
+zhǐ
+112.4
+砋.mp3
+
+砌
+['to build, pile up', ' stone steps, brick walk']
+['para construir, apilar', 'escalones de piedra, paseo de ladrillo']
+['https://media.gettyimages.com/photos/woman-stacking-stones-on-beach-picture-id1173354430?k=6&m=1173354430&s=612x612&w=0&h=gS2Qr_NGi0K2G9l31MMW9mccAVK4zg7dckhYcJR5DSI=', 'https://media.gettyimages.com/photos/bellhop-pushing-baggage-cart-picture-id97557164?k=6&m=97557164&s=612x612&w=0&h=2iO-ioGO5XZxu_SAA635AWjHWmLuObT8GFQDNQZD4aQ=']
+U+780C
+9
+qì
+112.4
+砌.mp3
+
+砍
+['hack, chop, cut, fell']
+['hackear, picar, cortar, caer']
+['NONE']
+U+780D
+9
+kǎn
+112.4
+砍.mp3
+
+砎
+['NONE']
+['NINGUNA']
+[]
+U+780E
+9
+jiè
+112.4
+砎.mp3
+
+砏
+['NONE']
+['NINGUNA']
+[]
+U+780F
+9
+bīn
+112.4
+砏.mp3
+
+砐
+["(Cant.) to nod one's head", ' to shake, sway']
+['(Cant.) Asentir con la cabeza', 'temblar']
+['NONE', 'NONE']
+U+7810
+8
+è
+112.4
+砐.mp3
+
+砑
+['to grind, to calender, to polish', ' to roll with a stone roller']
+['moler, calendarizar, pulir', 'rodar con un rodillo de piedra']
+['NONE', 'https://media.gettyimages.com/photos/closeup-of-beautiful-woman-with-jade-roller-at-spa-picture-id1180588063?k=6&m=1180588063&s=612x612&w=0&h=99NN-VF4rigS776BPAwpThGg4aURdgpUI-acP0E8fqM=']
+U+7811
+9
+yà
+112.4
+砑.mp3
+
+砒
+['arsenic']
+['arsénico']
+['https://media.gettyimages.com/photos/arsenic-sulfide-mineral-picture-id184957763?k=6&m=184957763&s=612x612&w=0&h=4aWeKovd4nOya0JPvig42uhdhPP_8jL5ub-reR3OUxk=']
+U+7812
+9
+pī
+112.4
+砒.mp3
+
+砓
+['NONE']
+['NINGUNA']
+[]
+U+7813
+9
+zhé
+112.4
+砓.mp3
+
+研
+['grind, rub', ' study, research']
+['moler, frotar', 'estudio, investigación']
+['https://media.gettyimages.com/photos/the-grind-is-getting-to-him-picture-id874811638?k=6&m=874811638&s=612x612&w=0&h=jAHqLjbWK4hnvLjbV6x1AnORPldlVS_UquiH7-6hznc=', 'https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+7814
+9
+yán
+112.4
+研.mp3
+
+砕
+['break, smash', ' broken, busted']
+['romper, aplastar', 'roto, roto']
+['https://media.gettyimages.com/photos/contractor-man-doing-home-improvement-and-demolition-picture-id1089045626?k=6&m=1089045626&s=612x612&w=0&h=fdSgS5P_VqMQ1gKpCjH_-y1h03xC0DOqC9XJeviYQeI=', 'https://media.gettyimages.com/photos/busted-picture-id125680412?k=6&m=125680412&s=612x612&w=0&h=JfR_fNJQmvAJh7fkNIXxHqQYwfGgYNJpW_D1BF8U1b8=']
+U+7815
+9
+suì
+112.4
+砕.mp3
+
+砖
+['tile, brick']
+['teja, ladrillo']
+['https://media.gettyimages.com/vectors/set-of-seamless-patterns-vector-id1148046907?k=6&m=1148046907&s=612x612&w=0&h=E8rLpewsXInoq6lay-YeqFXKIsNU-cA_GiCWXnI9AEY=']
+U+7816
+9
+zhuān
+112.4
+砖.mp3
+
+砗
+['giant clam, tridacna gigas']
+['almeja gigante, tridacna gigas']
+['https://media.gettyimages.com/photos/giant-clam-grows-on-a-reef-in-raja-ampat-picture-id599949407?k=6&m=599949407&s=612x612&w=0&h=YKLZZfDq2P0SsBQe0K94GkaFBqkJySppSCXGWoRptaI=']
+U+7817
+9
+chē
+112.4
+砗.mp3
+
+砘
+['a kind of farm tool']
+['una especie de herramienta agrícola']
+['https://media.gettyimages.com/vectors/gardening-outline-icon-set-vector-id941075954?k=6&m=941075954&s=612x612&w=0&h=cK033dbIzdBoUbv2dhv-Pvupam9N6H7IF7uwMnf_Seg=']
+U+7818
+9
+dùn
+112.4
+砘.mp3
+

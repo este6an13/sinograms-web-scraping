@@ -1,0 +1,2560 @@
+蘙
+['NONE']
+['NINGUNA']
+[]
+U+8619
+20
+yì
+140.17
+蘙.mp3
+
+蘚
+['moss, lichen']
+['musgo, liquen']
+['https://media.gettyimages.com/photos/moss-on-stone-wall-in-florence-italy-picture-id1082831094?k=6&m=1082831094&s=612x612&w=0&h=WwF2TsSDzAR-tKhrHKHeurIX0i_3s1XcqT6aP7lJMHU=']
+U+861A
+20
+xiǎn
+140.17
+蘚.mp3
+
+蘛
+['NONE']
+['NINGUNA']
+[]
+U+861B
+20
+yú
+140.17
+蘛.mp3
+
+蘜
+['NONE']
+['NINGUNA']
+[]
+U+861C
+20
+jú
+140.17
+蘜.mp3
+
+蘝
+['NONE']
+['NINGUNA']
+[]
+U+861D
+20
+liǎn
+140.17
+蘝.mp3
+
+蘞
+['wild vine, vitis pentaphylla']
+['vid silvestre, Vitis pentaphylla']
+['NONE']
+U+861E
+20
+liǎn
+140.17
+蘞.mp3
+
+蘟
+['NONE']
+['NINGUNA']
+[]
+U+861F
+19
+yǐn
+140.17
+蘟.mp3
+
+蘠
+['NONE']
+['NINGUNA']
+[]
+U+8620
+20
+qiáng
+140.17
+蘠.mp3
+
+蘡
+['NONE']
+['NINGUNA']
+[]
+U+8621
+20
+yīng
+140.17
+蘡.mp3
+
+蘢
+['tall grass', ' water-weeds']
+['cesped alto', 'malezas de agua']
+['https://media.gettyimages.com/photos/tall-grass-at-waters-edge-picture-id184967626?k=6&m=184967626&s=612x612&w=0&h=6k8ttUs_p40sYFRCUnxARwhzCoTY3WEm5fJFnTC0d8A=', 'https://media.gettyimages.com/vectors/waterweeds-vector-id644969228?k=6&m=644969228&s=612x612&w=0&h=ciJ4GykwePXGAUUfc9UvZtYZVWp0QU0I6x0fxV1zQcQ=']
+U+8622
+19
+lóng
+140.16
+蘢.mp3
+
+蘣
+['NONE']
+['NINGUNA']
+[]
+U+8623
+19
+tǒu
+140.17
+蘣.mp3
+
+蘤
+['flower, blossoms']
+['flor, flores']
+['https://media.gettyimages.com/photos/spring-meadow-picture-id1126841725?k=6&m=1126841725&s=612x612&w=0&h=hHbb9srZVqydRFw3adjxVAHJsgxNkm03nlNH0OQIpFE=']
+U+8624
+20
+huā
+140.14
+蘤.mp3
+
+蘥
+['NONE']
+['NINGUNA']
+[]
+U+8625
+20
+yuè
+140.17
+蘥.mp3
+
+蘦
+['NONE']
+['NINGUNA']
+[]
+U+8626
+20
+líng
+140.17
+蘦.mp3
+
+蘧
+['a plant which resembles wheat but has no edible grain']
+['una planta que se parece al trigo pero no tiene grano comestible']
+['https://media.gettyimages.com/photos/straw-goat-figure-picture-id1067819190?k=6&m=1067819190&s=612x612&w=0&h=MEL-Chylucaf2TGF7FV6TJEu0YlSdWnIxb0zXXeGZUA=']
+U+8627
+19
+qú
+140.17
+蘧.mp3
+
+蘨
+['luxuriant vegetation']
+['exuberante vegetación']
+['https://media.gettyimages.com/photos/jungle-leaves-background-picture-id974079490?k=6&m=974079490&s=612x612&w=0&h=b19ayS1DK3yx3YvolSrp5cTNXofGJCBPlca-yFSLDj8=']
+U+8628
+20
+yáo
+140.17
+蘨.mp3
+
+蘩
+['Artemisia stellariana']
+['Artemisia estelariana']
+['https://media.gettyimages.com/photos/color-stories-grey-picture-id602235505?k=6&m=602235505&s=612x612&w=0&h=DkenIgCyW-5spNr9K8Ue-eLhO1ywyEXfaeqpwfejnf0=']
+U+8629
+20
+fán
+140.17
+蘩.mp3
+
+蘪
+['NONE']
+['NINGUNA']
+[]
+U+862A
+20
+méi
+140.17
+蘪.mp3
+
+蘫
+['NONE']
+['NINGUNA']
+[]
+U+862B
+20
+hàn
+140.17
+蘫.mp3
+
+蘬
+['NONE']
+['NINGUNA']
+[]
+U+862C
+21
+kuī
+140.17
+蘬.mp3
+
+蘭
+['orchid', ' elegant, graceful']
+['orquídea', 'elegante']
+['https://media.gettyimages.com/photos/flowers-orchid-picture-id173034061?k=6&m=173034061&s=612x612&w=0&h=K8SshwyHGRNJg1WM0lnDiPWPctXqBiwc7Irw3s0_dF4=', 'https://media.gettyimages.com/photos/feelings-for-my-soul-picture-id637492768?k=6&m=637492768&s=612x612&w=0&h=RQYaI5a8Zxyw_iYAL0mh_2UeS3kQDixJToj2iHyNY1I=']
+U+862D
+20
+lán
+140.17
+蘭.mp3
+
+蘮
+['NONE']
+['NINGUNA']
+[]
+U+862E
+20
+jì
+140.17
+蘮.mp3
+
+蘯
+['to toss about', ' to swing', ' to rock']
+['dar vueltas', 'balancearse', 'rockear']
+['https://media.gettyimages.com/photos/graduation-day-picture-id1066324992?k=6&m=1066324992&s=612x612&w=0&h=PUdDocvWkqMoIonaWHahqNP6wL0or9IjAZuZimthJTA=', 'https://media.gettyimages.com/photos/rope-swing-picture-id184127898?k=6&m=184127898&s=612x612&w=0&h=tiFR0ahWTWn2wlviM-ZyBBoRrx1nuzxVTRr7YVVwRgc=', 'https://media.gettyimages.com/photos/limestone-picture-id170215830?k=6&m=170215830&s=612x612&w=0&h=Fua6_L10GPrfgKkQcoSaGh_jsQc0Pg7vD_dJ1fQtieo=']
+U+862F
+20
+dàng
+140.17
+蘯.mp3
+
+蘰
+['NONE']
+['NINGUNA']
+[]
+U+8630
+20
+màn
+140.17
+蘰.mp3
+
+蘱
+['NONE']
+['NINGUNA']
+[]
+U+8631
+22
+lèi
+140.19
+蘱.mp3
+
+蘲
+['NONE']
+['NINGUNA']
+[]
+U+8632
+21
+léi
+140.18
+蘲.mp3
+
+蘳
+['NONE']
+['NINGUNA']
+[]
+U+8633
+20
+huī
+140.18
+蘳.mp3
+
+蘴
+['young shoots of the rapeturnip']
+['brotes jóvenes de nabo de colza']
+['NONE']
+U+8634
+21
+fēng
+140.18
+蘴.mp3
+
+蘵
+['NONE']
+['NINGUNA']
+[]
+U+8635
+21
+zhī
+140.18
+蘵.mp3
+
+蘶
+['NONE']
+['NINGUNA']
+[]
+U+8636
+20
+wèi
+140.18
+蘶.mp3
+
+蘷
+['one-legged monster', ' walrus']
+['monstruo de una pierna', 'morsa']
+['NONE', 'https://media.gettyimages.com/photos/walrus-on-ice-picture-id534967474?k=6&m=534967474&s=612x612&w=0&h=eyavi_1f-Hi75Vl1VM-3j1CQsgnZe2UKjR2awWShJF8=']
+U+8637
+21
+kuí
+140.18
+蘷.mp3
+
+蘸
+['dip (a brush)', ' remarry']
+['dip (un cepillo)', 'volver a casarse']
+['https://media.gettyimages.com/photos/beef-ribs-picture-id86056615?k=6&m=86056615&s=612x612&w=0&h=2LAmBLu-6lvPa1Hd74fNdOlF0I4cTakAXUmVJF_tdHk=', 'NONE']
+U+8638
+22
+zhàn
+140.19
+蘸.mp3
+
+蘹
+['NONE']
+['NINGUNA']
+[]
+U+8639
+22
+huái
+140.19
+蘹.mp3
+
+蘺
+['gracilaria verrucosa']
+['gracilaria verrucosa']
+['NONE']
+U+863A
+21
+lí
+140.19
+蘺.mp3
+
+蘻
+['NONE']
+['NINGUNA']
+[]
+U+863B
+22
+jì
+140.19
+蘻.mp3
+
+蘼
+['NONE']
+['NINGUNA']
+[]
+U+863C
+22
+mí
+140.19
+蘼.mp3
+
+蘽
+['a creeper']
+['una enredadera']
+['https://media.gettyimages.com/photos/creeper-plant-with-clipping-path-included-picture-id157427263?k=6&m=157427263&s=612x612&w=0&h=i6gJrTmW8Pe_qtBYn04Czwv6eBlCWCNmCdQoRscR1zA=']
+U+863D
+22
+lěi
+140.19
+蘽.mp3
+
+蘾
+['NONE']
+['NINGUNA']
+[]
+U+863E
+22
+huài
+140.19
+蘾.mp3
+
+蘿
+['type of creeping plant', ' turnip']
+['tipo de planta rastrera', 'nabo']
+['https://media.gettyimages.com/vectors/hand-drawn-blackboard-christmas-labels-badges-vector-id520364789?k=6&m=520364789&s=612x612&w=0&h=bM0bFP-8b_0qJq63l_qt-g_x-4OKx1BHb0sRZ8CEehQ=', 'https://media.gettyimages.com/photos/turnip-picture-id174687596?k=6&m=174687596&s=612x612&w=0&h=LRbbK-I4GA2MAeOYhZ2vi5dphSfKo_etmps6-vE19xY=']
+U+863F
+22
+luó
+140.19
+蘿.mp3
+
+虀
+['minced pickles', ' leeks', ' mix', ' salt']
+['encurtidos picados', 'puerros', 'mezcla', 'sal']
+['https://media.gettyimages.com/photos/raw-beef-meat-burger-cutlets-with-ingredients-picture-id900946288?k=6&m=900946288&s=612x612&w=0&h=dF2Ft-nGQsBmvjWWo7hL1Wy6gcNOWsO2Y4meASiEyJo=', 'https://media.gettyimages.com/photos/artistic-shot-of-three-leeks-on-a-white-background-picture-id165701286?k=6&m=165701286&s=612x612&w=0&h=QQYusYiJ1R5jVW93jEkIZTfjApWGapSViamhxCd-8LY=', 'https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=', 'https://media.gettyimages.com/photos/heap-of-salt-picture-id165820985?k=6&m=165820985&s=612x612&w=0&h=V-90pMcllFPWY6t17Ra7ehxpciTM8LwB3tqIjsTf3C8=']
+U+8640
+22
+jī
+140.19
+虀.mp3
+
+虁
+['NONE']
+['NINGUNA']
+[]
+U+8641
+24
+kuí
+140.19
+虁.mp3
+
+虂
+['NONE']
+['NINGUNA']
+[]
+U+8642
+24
+lù
+140.20
+虂.mp3
+
+虃
+['NONE']
+['NINGUNA']
+[]
+U+8643
+23
+jiān
+140.20
+虃.mp3
+
+虄
+['NONE']
+['NINGUNA']
+[]
+U+8644
+26
+sà
+140.20
+虄.mp3
+
+虅
+['NONE']
+['NINGUNA']
+[]
+U+8645
+23
+téng
+140.20
+虅.mp3
+
+虆
+['entwine', ' basket for carrying dirt']
+['entrelazar', 'canasta para llevar tierra']
+['https://media.gettyimages.com/photos/rope-picture-id174903472?k=6&m=174903472&s=612x612&w=0&h=BBfLQanhgQq_6A7cIelkmVjn9GKpEHFJQiYFrD30cXo=', 'https://media.gettyimages.com/photos/hands-holding-a-grate-full-of-fresh-vegetables-picture-id532865778?k=6&m=532865778&s=612x612&w=0&h=Vgt8lFz0fDKJv64msT2r5Qz5255YIgghwiNYw-DmyY4=']
+U+8646
+24
+léi
+140.21
+虆.mp3
+
+虇
+['NONE']
+['NINGUNA']
+[]
+U+8647
+23
+quǎn
+140.21
+虇.mp3
+
+虈
+['NONE']
+['NINGUNA']
+[]
+U+8648
+24
+xiāo
+140.21
+虈.mp3
+
+虉
+['NONE']
+['NINGUNA']
+[]
+U+8649
+24
+yì
+140.21
+虉.mp3
+
+虊
+['NONE']
+['NINGUNA']
+[]
+U+864A
+26
+luán
+140.23
+虊.mp3
+
+虋
+['asparagus a variety of red-stalked millet']
+['espárragos una variedad de mijo de tallo rojo']
+['NONE']
+U+864B
+29
+mén
+140.25
+虋.mp3
+
+虌
+['NONE']
+['NINGUNA']
+[]
+U+864C
+27
+biē
+140.25
+虌.mp3
+
+虍
+['tiger', ' KangXi radical 141']
+['Tigre', 'K Ang ξ radical 141']
+['https://media.gettyimages.com/photos/tiger-portrait-picture-id949472768?k=6&m=949472768&s=612x612&w=0&h=3qvnpUNIclN9fXjD_qw7dZlbUMY6wFKK6HsgANW4j3s=', 'NONE']
+U+864D
+6
+hū
+141.0
+虍.mp3
+
+虎
+['tiger', ' brave, fierce', ' surname']
+['Tigre', 'valiente, feroz', 'apellido']
+['https://media.gettyimages.com/photos/tiger-portrait-picture-id949472768?k=6&m=949472768&s=612x612&w=0&h=3qvnpUNIclN9fXjD_qw7dZlbUMY6wFKK6HsgANW4j3s=', 'https://media.gettyimages.com/photos/boxing-is-her-passion-picture-id629966948?k=6&m=629966948&s=612x612&w=0&h=3RkPUOkvqlzMEpoeCqZJAgp1qy4UprLHLQfLNxYC6e0=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+864E
+8
+hǔ
+141.2
+虎.mp3
+
+虏
+['to capture, imprison, seize', ' a prison']
+['capturar, encarcelar, apoderarse', 'una prision']
+['https://media.gettyimages.com/photos/reaching-freedom-picture-id846586728?k=6&m=846586728&s=612x612&w=0&h=lobrEoofcCZce58AjAmNyfBtg20R9g1-lbyyCApnfU4=', 'https://media.gettyimages.com/photos/empty-prison-cell-picture-id73979720?k=6&m=73979720&s=612x612&w=0&h=AYwkdpRMy7JJLNQtC3kf9RimH7q_c390XVbAgcl7Yps=']
+U+864F
+8
+lǔ
+141.2
+虏.mp3
+
+虐
+['cruel, harsh, oppressive']
+['cruel, duro, opresivo']
+['NONE']
+U+8650
+9
+nüè
+141.3
+虐.mp3
+
+虑
+['be concerned, worry about']
+['estar preocupado, preocuparse por']
+['https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=']
+U+8651
+10
+lǜ
+141.4
+虑.mp3
+
+虒
+['an amphibious beast resembling a tiger with one horn', ' place name']
+['una bestia anfibia que se asemeja a un tigre con un cuerno', 'ponga su nombre']
+['NONE', 'https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+8652
+10
+sī
+27.8
+虒.mp3
+
+虓
+['roar']
+['rugido']
+['https://media.gettyimages.com/photos/closeup-of-lion-roaring-on-field-at-rhino-and-lion-nature-reserve-picture-id675607089?k=6&m=675607089&s=612x612&w=0&h=jdDCCiiBgzcLgpQdil2kYXZTCvKjW2Fh1P0S85l1xCY=']
+U+8653
+10
+xiāo
+141.4
+虓.mp3
+
+虔
+['act with reverence', ' reverent']
+['actuar con reverencia', 'reverente']
+['https://media.gettyimages.com/photos/pacific-islander-sumo-wrestler-reaching-for-trapeze-artist-picture-id91495297?k=6&m=91495297&s=612x612&w=0&h=57xie4sQX-6LhD6KuT8NUHtHxuiexWjTfGvtCYbePG0=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+8654
+10
+qián
+141.4
+虔.mp3
+
+處
+['place, locale', ' department']
+['lugar, localidad', 'Departamento']
+['https://media.gettyimages.com/photos/traditional-locale-pirogue-at-lake-uluabat-of-turkey-picture-id589707636?k=6&m=589707636&s=612x612&w=0&h=ylgOX7V9TkID1x_pMQZRnJz39ZWVnNAacoVBrYJQk78=', 'https://media.gettyimages.com/photos/business-people-working-in-modern-office-space-picture-id973718370?k=6&m=973718370&s=612x612&w=0&h=cSkCLNXnlyTEzQXd7WtbW4N-tQB7iHAcMDHZdGXWPTA=']
+U+8655
+11
+chù
+141.5
+處.mp3
+
+虖
+['to cry', ' to shout', ' to howl']
+['llorar', 'gritar', 'aullar']
+['https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=', 'https://media.gettyimages.com/photos/shes-reached-the-end-of-her-rope-picture-id487960859?k=6&m=487960859&s=612x612&w=0&h=-hB-SDo-_EZd9RVH-Ce0hoFScYFLZtvcCqg0sU84dEU=', 'https://media.gettyimages.com/vectors/lone-wolf-howling-at-the-moon-vector-id474157988?k=6&m=474157988&s=612x612&w=0&h=WSb_bQBNQLa2qyFyf6DyHp_9O2pcedFYLY3VoSQjl24=']
+U+8656
+11
+hū
+141.5
+虖.mp3
+
+虗
+['NONE']
+['NINGUNA']
+[]
+U+8657
+11
+xū
+141.5
+虗.mp3
+
+虘
+['NONE']
+['NINGUNA']
+[]
+U+8658
+11
+cuó
+141.5
+虘.mp3
+
+虙
+['NONE']
+['NINGUNA']
+[]
+U+8659
+11
+fú
+141.5
+虙.mp3
+
+虚
+['false']
+['falso']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+865A
+11
+xū
+141.5
+虚.mp3
+
+虛
+['false, worthless', ' empty, hollow']
+['falso, inútil', 'vacío, hueco']
+['https://media.gettyimages.com/photos/signup-for-the-money-picture-id182768929?k=6&m=182768929&s=612x612&w=0&h=FwGptk3685rkEh2WafCyqbGGJ0InPBOgxxhYRa6SMA4=', 'https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=']
+U+865B
+12
+xū
+141.6
+虛.mp3
+
+虜
+['to capture, imprison, seize', ' a prison']
+['capturar, encarcelar, apoderarse', 'una prision']
+['https://media.gettyimages.com/photos/reaching-freedom-picture-id846586728?k=6&m=846586728&s=612x612&w=0&h=lobrEoofcCZce58AjAmNyfBtg20R9g1-lbyyCApnfU4=', 'https://media.gettyimages.com/photos/empty-prison-cell-picture-id73979720?k=6&m=73979720&s=612x612&w=0&h=AYwkdpRMy7JJLNQtC3kf9RimH7q_c390XVbAgcl7Yps=']
+U+865C
+13
+lǔ
+141.6
+虜.mp3
+
+虝
+['NONE']
+['NINGUNA']
+[]
+U+865D
+12
+hǔ
+141.6
+虝.mp3
+
+虞
+['concerned about, anxious, worried']
+['preocupado, ansioso, preocupado']
+['https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=']
+U+865E
+13
+yú
+141.7
+虞.mp3
+
+號
+['mark, sign', ' symbol', ' number']
+['marcar, firmar', 'símbolo', 'número']
+['https://media.gettyimages.com/vectors/check-icons-vector-id527223106?k=6&m=527223106&s=612x612&w=0&h=1ZZKrZlLUUhR-jR4J8lJX9jHAon2brzyKCm1ArVz9TE=', 'https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=', 'https://media.gettyimages.com/vectors/numbers-on-black-vector-id513396117?k=6&m=513396117&s=612x612&w=0&h=oNtZGk6X_0Js5TyLZu8bnlW4sMTv_1ZBbO0tUodkdBM=']
+U+865F
+13
+hào
+141.7
+號.mp3
+
+虠
+['NONE']
+['NINGUNA']
+[]
+U+8660
+14
+jiāo
+141.8
+虠.mp3
+
+虡
+['support structure for bell']
+['estructura de soporte para campana']
+['https://media.gettyimages.com/photos/man-ringing-the-reception-bell-picture-id1160187169?k=6&m=1160187169&s=612x612&w=0&h=vIDJ0WsjSHOUG62Ljegl6O0dUZGxodDb8g2rSU3Ibms=']
+U+8661
+13
+jù
+141.8
+虡.mp3
+
+虢
+['name of ancient feudal State in Shenxi and Hunan']
+['nombre del antiguo estado feudal en Shenxi y Hunan']
+['NONE']
+U+8662
+15
+guó
+141.9
+虢.mp3
+
+虣
+['cruel, violent, passionate']
+['cruel, violento, apasionado']
+['https://media.gettyimages.com/photos/little-boy-training-boxing-with-punching-bag-picture-id896799182?k=6&m=896799182&s=612x612&w=0&h=_MCwe_JmVwml39cP7wihOHAtb9YS2fn7I2SBK2S19Jo=']
+U+8663
+16
+bào
+141.9
+虣.mp3
+
+虤
+['NONE']
+['NINGUNA']
+[]
+U+8664
+16
+yán
+141.10
+虤.mp3
+
+虥
+['NONE']
+['NINGUNA']
+[]
+U+8665
+16
+zhàn
+141.10
+虥.mp3
+
+虦
+['NONE']
+['NINGUNA']
+[]
+U+8666
+16
+zhàn
+141.10
+虦.mp3
+
+虧
+['lose, fail', ' damage', ' deficient']
+['perder, fallar', 'dañar', 'deficiente']
+['https://media.gettyimages.com/photos/tired-runner-laying-on-track-picture-id102284068?k=6&m=102284068&s=612x612&w=0&h=rtT4CzYurEC3Vex7JmIpKCUiWVEG1_HI_Vftn_pkcHQ=', 'https://media.gettyimages.com/photos/homeowner-roof-repair-picture-id157330520?k=6&m=157330520&s=612x612&w=0&h=D9O-UTB5mxp1ds6N9o7HQXlyMgE5nl3uGo_uj52fY8A=', 'https://media.gettyimages.com/photos/white-spots-on-nail-isolated-on-white-background-disease-leuconychia-picture-id1169025952?k=6&m=1169025952&s=612x612&w=0&h=uvddU5ioFtKFohp5M5HtaN63EpHSk0k7JFeA2aRsAr4=']
+U+8667
+17
+kuī
+141.11
+虧.mp3
+
+虨
+['NONE']
+['NINGUNA']
+[]
+U+8668
+17
+bīn
+141.11
+虨.mp3
+
+虩
+['fright']
+['susto']
+['https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+8669
+18
+xì
+141.12
+虩.mp3
+
+虪
+['NONE']
+['NINGUNA']
+[]
+U+866A
+26
+shù
+141.20
+虪.mp3
+
+虫
+['insects, worms', ' KangXi radical 142']
+['insectos, gusanos', 'K Ang ξ radical 142']
+['https://media.gettyimages.com/photos/edible-worms-picture-id641408482?k=6&m=641408482&s=612x612&w=0&h=ANdAjBJ6Qa5xRr9K-blIn14LguhbBwgnVGYISOVo_iA=', 'NONE']
+U+866B
+6
+chóng
+142.0
+虫.mp3
+
+虬
+['young dragon']
+['dragón joven']
+['https://media.gettyimages.com/vectors/cute-monsters-vector-id925688288?k=6&m=925688288&s=612x612&w=0&h=VvBNbDyVLrECfN_qu1xm-_G22OQ9JhMuQ6dR41LBM_c=']
+U+866C
+7
+qiú
+142.1
+虬.mp3
+
+虭
+['NONE']
+['NINGUNA']
+[]
+U+866D
+8
+diāo
+142.2
+虭.mp3
+
+虮
+['louse eggs, nits']
+['huevos de piojos, liendres']
+['https://media.gettyimages.com/photos/head-louse-infestation-picture-id182187155?k=6&m=182187155&s=612x612&w=0&h=HBVAXZCphJ6D90jeiSP7wUsSoLfeeGKd15ok2dHb8LQ=']
+U+866E
+8
+jǐ
+142.2
+虮.mp3
+
+虯
+['young dragon']
+['dragón joven']
+['https://media.gettyimages.com/vectors/cute-monsters-vector-id925688288?k=6&m=925688288&s=612x612&w=0&h=VvBNbDyVLrECfN_qu1xm-_G22OQ9JhMuQ6dR41LBM_c=']
+U+866F
+8
+qiú
+142.2
+虯.mp3
+
+虰
+['NONE']
+['NINGUNA']
+[]
+U+8670
+8
+dīng
+142.2
+虰.mp3
+
+虱
+['louse', ' bug', ' parasite']
+['piojo', 'insecto', 'parásito']
+['https://media.gettyimages.com/photos/head-lice-treatment-for-bug-removal-picture-id173865552?k=6&m=173865552&s=612x612&w=0&h=zYzY0kzTSuxd2jM4kG4XYnRuVoms1CGrutrpMM5cWFY=', 'https://media.gettyimages.com/vectors/insect-icon-set-vector-id1150764771?k=6&m=1150764771&s=612x612&w=0&h=zUGUASjEn0s6W1mq3M0GXfDjb3RLOkWlS9UYxOuwaaI=', 'https://media.gettyimages.com/photos/at-35mm-picture-id128117825?k=6&m=128117825&s=612x612&w=0&h=N-JwaouJHT2ss6UMezmyUKpaPktgifaYGyTGhaowxb0=']
+U+8671
+8
+shī
+142.2
+虱.mp3
+
+虲
+['NONE']
+['NINGUNA']
+[]
+U+8672
+8
+xiā
+142.2
+虲.mp3
+
+虳
+['NONE']
+['NINGUNA']
+[]
+U+8673
+9
+jué
+142.3
+虳.mp3
+
+虴
+['NONE']
+['NINGUNA']
+[]
+U+8674
+9
+zhé
+142.3
+虴.mp3
+
+虵
+['NONE']
+['NINGUNA']
+[]
+U+8675
+9
+shé
+142.3
+虵.mp3
+
+虶
+['NONE']
+['NINGUNA']
+[]
+U+8676
+9
+yū
+142.3
+虶.mp3
+
+虷
+['worm']
+['gusano']
+['https://media.gettyimages.com/vectors/microbe-icon-set-vector-id1158021219?k=6&m=1158021219&s=612x612&w=0&h=O7_cUN2HwAB6wC25D0-7Q2ZSmJpT8MTz_diYoQxq2n0=']
+U+8677
+9
+hán
+142.3
+虷.mp3
+
+虸
+['NONE']
+['NINGUNA']
+[]
+U+8678
+9
+zǐ
+142.3
+虸.mp3
+
+虹
+['rainbow']
+['arco iris']
+['https://media.gettyimages.com/vectors/rainbow-thank-you-vector-id1217621684?k=6&m=1217621684&s=612x612&w=0&h=n_Gz20l0WHsjwtEWS9g3dDpI3J09S1tSXfdsBM0iM7M=']
+U+8679
+9
+hóng
+142.3
+虹.mp3
+
+虺
+['large poisonous snake']
+['gran serpiente venenosa']
+['https://media.gettyimages.com/vectors/snake-silhouette-collection-vector-id165671129?k=6&m=165671129&s=612x612&w=0&h=4iVbwbH17fohG7LegDKhaCFdjzTGyA4sXLtaVRny8TM=']
+U+867A
+9
+huī
+142.3
+虺.mp3
+
+虻
+['horsefly, gadfly']
+['tábano, tábano']
+['https://media.gettyimages.com/photos/horsefly-closeup-picture-id1141818348?k=6&m=1141818348&s=612x612&w=0&h=IqbG9QBQmqNw0qBTemtrAADjVbM_q1RUtF5JTg-fFfg=']
+U+867B
+9
+méng
+142.3
+虻.mp3
+
+虼
+['a flea', ' species of beetle']
+['una pulga', 'especie de escarabajo']
+['https://media.gettyimages.com/photos/cat-flea-full-of-human-blood-picture-id182875308?k=6&m=182875308&s=612x612&w=0&h=Dm1rtVJwGE2uA3wfXTUIIfV0WgAlDG5U6zKImHlX8QA=', 'https://media.gettyimages.com/photos/close-up-of-a-selection-of-colourful-butterflies-and-beetles-in-a-picture-id904637674?k=6&m=904637674&s=612x612&w=0&h=PhFP5_xEOAuuUvAi5CsiUrsnCSRzV5tlKJD4hhZ9Xt8=']
+U+867C
+9
+gè
+142.3
+虼.mp3
+
+虽
+['although, even if']
+['aunque, incluso si']
+['https://media.gettyimages.com/photos/sport-boxing-pic-1993-wbo-middleweight-championship-at-old-trafford-picture-id78986749?k=6&m=78986749&s=612x612&w=0&h=uI3Nr5i_beVFkKjPlHpjOC7m3WMUkblcmHHj9rlPUkw=']
+U+867D
+9
+suī
+142.3
+虽.mp3
+
+虾
+['shrimp, prawn']
+['gambas camarones']
+['https://media.gettyimages.com/photos/cooked-shrimp-with-full-shell-isolated-on-white-background-picture-id157376365?k=6&m=157376365&s=612x612&w=0&h=ZlxqKTzCRsUknDtCd07Hnh3-3j8hE7-Nynlg1BgHwJQ=']
+U+867E
+9
+xiā
+142.3
+虾.mp3
+
+虿
+['a kind of scorpion']
+['una especie de escorpión']
+['https://media.gettyimages.com/photos/closeup-of-scorpion-and-babies-on-field-picture-id592262541?k=6&m=592262541&s=612x612&w=0&h=GsUQaQji6xb3sY204hb9tp3kFF8H9l93T5tWWfrNXR0=']
+U+867F
+9
+chài
+142.3
+虿.mp3
+
+蚀
+['nibble away', ' erode', ' eclipse']
+['mordisquear', 'erosionar', 'eclipse']
+['https://media.gettyimages.com/photos/group-of-sweet-and-salty-snacks-perfect-for-binge-watching-picture-id1149135424?k=6&m=1149135424&s=612x612&w=0&h=XsUeVv1kev86aV9a2WR1nNIg9_-I9NPEfeKL7bmnnY0=', 'https://media.gettyimages.com/photos/aerial-view-of-braided-river-picture-id1071052286?k=6&m=1071052286&s=612x612&w=0&h=gqZa49iHGvi3jgDgnz5lrV4wiHf-7jlJix7Gljw-oOk=', 'https://media.gettyimages.com/photos/solar-eclipse-picture-id155142633?k=6&m=155142633&s=612x612&w=0&h=8Ng1EbCn_UtGE8LqNh5tdzZFPPpWckWO_VExHNuNKiE=']
+U+8680
+9
+shí
+142.3
+蚀.mp3
+
+蚁
+['ants']
+['hormigas']
+['https://media.gettyimages.com/photos/ant-picture-id186823289?k=6&m=186823289&s=612x612&w=0&h=unkFJnKljAF5s9b9-xDCBoa4zKDuuK7b36SV-ewAbcQ=']
+U+8681
+9
+yǐ
+142.3
+蚁.mp3
+
+蚂
+['ant', ' leech']
+['hormiga', 'sanguijuela']
+['https://media.gettyimages.com/photos/ant-picture-id186823289?k=6&m=186823289&s=612x612&w=0&h=unkFJnKljAF5s9b9-xDCBoa4zKDuuK7b36SV-ewAbcQ=', 'https://media.gettyimages.com/photos/leech-picture-id183880519?k=6&m=183880519&s=612x612&w=0&h=UlbqCJc_M--Sd1BY5b3mYywA5YfHycbw8vgPLGT_n30=']
+U+8682
+9
+mǎ
+142.3
+蚂.mp3
+
+蚃
+['NONE']
+['NINGUNA']
+[]
+U+8683
+9
+xiǎng
+142.3
+蚃.mp3
+
+蚄
+['NONE']
+['NINGUNA']
+[]
+U+8684
+10
+fāng
+142.4
+蚄.mp3
+
+蚅
+['NONE']
+['NINGUNA']
+[]
+U+8685
+10
+è
+142.4
+蚅.mp3
+
+蚆
+['NONE']
+['NINGUNA']
+[]
+U+8686
+10
+bā
+142.4
+蚆.mp3
+
+蚇
+['NONE']
+['NINGUNA']
+[]
+U+8687
+10
+chǐ
+142.4
+蚇.mp3
+
+蚈
+['NONE']
+['NINGUNA']
+[]
+U+8688
+10
+qiān
+142.6
+蚈.mp3
+
+蚉
+['variant of ']
+['variante de']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+8689
+10
+wén
+142.4
+蚉.mp3
+
+蚊
+['mosquito', ' gnat']
+['mosquito', 'mosquito']
+['https://media.gettyimages.com/photos/closeup-of-a-mosquito-on-a-white-background-picture-id157197863?k=6&m=157197863&s=612x612&w=0&h=9abI_22kkMc8UfIa_elOZ02Ykwc4Ms9C8Pi4sAd3WXM=', 'https://media.gettyimages.com/photos/isolated-mosquito-02-picture-id115924735?k=6&m=115924735&s=612x612&w=0&h=BBxOBv5yXy21bBy7BSpjcXaP92_nPuiipGtjoHnGsiw=']
+U+868A
+10
+wén
+142.4
+蚊.mp3
+
+蚋
+['gnat, mosquito']
+['gnat, mosquito']
+['https://media.gettyimages.com/photos/isolated-mosquito-02-picture-id115924735?k=6&m=115924735&s=612x612&w=0&h=BBxOBv5yXy21bBy7BSpjcXaP92_nPuiipGtjoHnGsiw=']
+U+868B
+10
+ruì
+142.4
+蚋.mp3
+
+蚌
+['oysters, mussels', ' mother-of-pearl']
+['ostras, mejillones', 'madre perla']
+['https://media.gettyimages.com/vectors/sea-food-icons-line-series-vector-id1062482294?k=6&m=1062482294&s=612x612&w=0&h=GIu3_dFBfl36zVb1O8WReM8FAysaz6_n6qPtO-h6WKY=', 'https://media.gettyimages.com/photos/colorful-pearl-shell-macrophotography-picture-id1022876162?k=6&m=1022876162&s=612x612&w=0&h=ET2-tQ4JLpGveO3uanbIRJCsmGSER6z6wzn43ab_foE=']
+U+868C
+10
+bàng
+142.4
+蚌.mp3
+
+蚍
+['mussels', ' various shellfish']
+['mejillones', 'varios mariscos']
+['https://media.gettyimages.com/photos/seafood-mussels-picture-id182198467?k=6&m=182198467&s=612x612&w=0&h=oloT1q3tTM9OtWTKB1d4RzH82lpIqa0EKBY3Hs3ahb4=', 'https://media.gettyimages.com/photos/seafood-background-picture-id639130090?k=6&m=639130090&s=612x612&w=0&h=Vv6mGbJbWNAWOeqOug4dhWdNT15G_ZYUezCxCTd1B0A=']
+U+868D
+10
+pí
+142.4
+蚍.mp3
+
+蚎
+['NONE']
+['NINGUNA']
+[]
+U+868E
+10
+yuè
+142.4
+蚎.mp3
+
+蚏
+['NONE']
+['NINGUNA']
+[]
+U+868F
+10
+yuè
+142.4
+蚏.mp3
+
+蚐
+['NONE']
+['NINGUNA']
+[]
+U+8690
+10
+jūn
+142.4
+蚐.mp3
+
+蚑
+['tip-toe']
+['punta del pie']
+['https://media.gettyimages.com/photos/white-andalucian-horse-with-woman-on-tiptoe-low-section-picture-idBE9996-001?k=6&m=BE9996-001&s=612x612&w=0&h=OhVlY10IrF2ynFul_rGOSgZ_MWLiIplOP3aLr48Sz-8=']
+U+8691
+10
+qí
+142.4
+蚑.mp3
+
+蚒
+['(Cant.) an edible snake, lizard']
+['(Can.) Una serpiente comestible, lagarto']
+['NONE']
+U+8692
+10
+tóng
+142.4
+蚒.mp3
+
+蚓
+['earthworm']
+['lombriz']
+['https://media.gettyimages.com/photos/earthworm-in-the-dirt-picture-id172666317?k=6&m=172666317&s=612x612&w=0&h=cbiuuq-3XwKGVdGMtLBJAiGQG8ZiaDQ_Rjj4Z79Oscg=']
+U+8693
+10
+yǐn
+142.4
+蚓.mp3
+
+蚔
+['ant eggs']
+['huevos de hormiga']
+['https://media.gettyimages.com/illustrations/red-wood-ant-wood-engravings-published-in-1876-illustration-id475180300?k=6&m=475180300&s=612x612&w=0&h=DVftY1H8Hu0mlpaI2j3HDDU6dTAoMpdhqBEKoFzc-Ss=']
+U+8694
+10
+qí
+142.4
+蚔.mp3
+
+蚕
+['silkworms']
+['gusanos de seda']
+['https://media.gettyimages.com/photos/silkworm-cocoons-in-silk-factory-dalat-vietnam-picture-id160885775?k=6&m=160885775&s=612x612&w=0&h=ImlHx7IcOL0hhBeassFTVs-bipDa_zglYWRn5zCTIrI=']
+U+8695
+10
+cán
+142.4
+蚕.mp3
+
+蚖
+['NONE']
+['NINGUNA']
+[]
+U+8696
+10
+yuán
+142.4
+蚖.mp3
+
+蚗
+['NONE']
+['NINGUNA']
+[]
+U+8697
+10
+jué
+142.4
+蚗.mp3
+
+蚘
+['tapeworm']
+['tenia']
+['https://media.gettyimages.com/illustrations/tapeworm-artwork-illustration-id488635725?k=6&m=488635725&s=612x612&w=0&h=hbdMIW_kriI5DlCztTf3ulLFKOIjLxhgF-JlYHEjv1A=']
+U+8698
+10
+huí
+142.4
+蚘.mp3
+
+蚙
+['NONE']
+['NINGUNA']
+[]
+U+8699
+10
+qín
+142.4
+蚙.mp3
+
+蚚
+['NONE']
+['NINGUNA']
+[]
+U+869A
+10
+qí
+142.4
+蚚.mp3
+
+蚛
+['NONE']
+['NINGUNA']
+[]
+U+869B
+10
+zhòng
+142.4
+蚛.mp3
+
+蚜
+['plant louse, aphids']
+['piojo de las plantas, pulgones']
+['https://media.gettyimages.com/photos/aphids-luse-schdlingsbefall-picture-id154962271?k=6&m=154962271&s=612x612&w=0&h=v4cLH4RB98AruL-jmnc_wvyLaAoQDnKSMlVnfATe32Y=']
+U+869C
+10
+yá
+142.4
+蚜.mp3
+
+蚝
+['hairy and poisonous caterpillars']
+['orugas peludas y venenosas']
+['https://media.gettyimages.com/photos/caterpillar-of-pine-processionary-picture-id165823580?k=6&m=165823580&s=612x612&w=0&h=drJm3IpFLJR5tRcAojp-LDP9fBaR7v2sHCR4KieD5sE=']
+U+869D
+10
+háo
+142.4
+蚝.mp3
+
+蚞
+['NONE']
+['NINGUNA']
+[]
+U+869E
+10
+mù
+142.4
+蚞.mp3
+
+蚟
+['NONE']
+['NINGUNA']
+[]
+U+869F
+10
+wáng
+142.4
+蚟.mp3
+
+蚠
+["person's name"]
+['nombre de persona']
+['https://media.gettyimages.com/vectors/person-holding-out-business-card-icon-vector-id860194850?k=6&m=860194850&s=612x612&w=0&h=0tTG7f1ZaIxamvdbFegb_M_69Q2qgX_3vqcZtem_0z0=']
+U+86A0
+10
+fén
+142.4
+蚠.mp3
+
+蚡
+['mole']
+['Topo']
+['https://media.gettyimages.com/photos/mole-with-chiken-picture-id153527886?k=6&m=153527886&s=612x612&w=0&h=L1Y_eMZPbotbOOycGDMl-go3Ia_ZOWdmfrItny81k5U=']
+U+86A1
+10
+fén
+142.4
+蚡.mp3
+
+蚢
+['NONE']
+['NINGUNA']
+[]
+U+86A2
+10
+háng
+142.4
+蚢.mp3
+
+蚣
+['centipede']
+['ciempiés']
+['https://media.gettyimages.com/photos/centipede-picture-id185274173?k=6&m=185274173&s=612x612&w=0&h=rRfw2RolgFmMf-Ecc2vAoE_mp8f5VFZ5zg-OZJiJLS8=']
+U+86A3
+10
+gōng
+142.4
+蚣.mp3
+
+蚤
+['flea', ' louse']
+['pulga', 'piojo']
+['https://media.gettyimages.com/photos/cat-flea-full-of-human-blood-picture-id182875308?k=6&m=182875308&s=612x612&w=0&h=Dm1rtVJwGE2uA3wfXTUIIfV0WgAlDG5U6zKImHlX8QA=', 'https://media.gettyimages.com/photos/head-lice-treatment-for-bug-removal-picture-id173865552?k=6&m=173865552&s=612x612&w=0&h=zYzY0kzTSuxd2jM4kG4XYnRuVoms1CGrutrpMM5cWFY=']
+U+86A4
+9
+zǎo
+142.4
+蚤.mp3
+
+蚥
+['NONE']
+['NINGUNA']
+[]
+U+86A5
+10
+fù
+142.4
+蚥.mp3
+
+蚦
+['a boa constrictor']
+['el buen constrictor']
+['https://media.gettyimages.com/photos/boa-constrictor-redtailed-boa-snake-picture-id1128449575?k=6&m=1128449575&s=612x612&w=0&h=rt477eBXvrpwNoeXIaC1GM2L2raCQIUhbHLbLbMaXn4=']
+U+86A6
+10
+rán
+142.4
+蚦.mp3
+
+蚧
+['a red spotted lizard, used as medicine']
+['un lagarto manchado rojo, utilizado como medicina']
+['NONE']
+U+86A7
+10
+jiè
+142.4
+蚧.mp3
+
+蚨
+['a kind of water-beetle cash, then dollars and money generally']
+['una especie de dinero en efectivo de escarabajo de agua, luego dólares y dinero en general']
+['NONE']
+U+86A8
+10
+fú
+142.4
+蚨.mp3
+
+蚩
+['worm', ' ignorant, rustic', ' laugh']
+['gusano', 'ignorante, rústico', 'risa']
+['https://media.gettyimages.com/vectors/microbe-icon-set-vector-id1158021219?k=6&m=1158021219&s=612x612&w=0&h=O7_cUN2HwAB6wC25D0-7Q2ZSmJpT8MTz_diYoQxq2n0=', 'https://media.gettyimages.com/photos/senior-man-wearing-santa-hat-standing-in-middle-of-room-picture-id1145037305?k=6&m=1145037305&s=612x612&w=0&h=Glam4GKGKMLHcTypLas-pu_xavJlirLqIdAkeoqGNiw=', 'https://media.gettyimages.com/photos/woman-laughing-during-comedy-movie-picture-id1146818334?k=6&m=1146818334&s=612x612&w=0&h=7uVZkVVCtl8CryHROTPWdSEbZNP4gFXmLSmYXhX6FKs=']
+U+86A9
+10
+chī
+142.4
+蚩.mp3
+
+蚪
+['tadpole']
+['renacuajo']
+['https://media.gettyimages.com/photos/tadpoles-swimming-picture-id495801591?k=6&m=495801591&s=612x612&w=0&h=k1zVXWKZtaLQaGYzD1PO_Q1moh-DOZHz5nq3hLDLJC4=']
+U+86AA
+10
+dǒu
+142.4
+蚪.mp3
+
+蚫
+['abalone', ' dried fish', ' surname']
+['abulón', 'pescado seco', 'apellido']
+['https://media.gettyimages.com/photos/closeup-of-some-paula-shells-also-called-abalone-picture-id164537198?k=6&m=164537198&s=612x612&w=0&h=CThBk-FUT2FCrhsXlD2kmVszq1ZkZeChQLgWSE9Vzro=', 'https://media.gettyimages.com/photos/grilled-halibut-picture-id694244366?k=6&m=694244366&s=612x612&w=0&h=P2FMy5AetA-v_tZMMQCfoQB_Conl8UIfhJPcHgufj9I=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+86AB
+11
+bào
+142.5
+蚫.mp3
+
+蚬
+['a variety of bivalves']
+['una variedad de bivalvos']
+['https://media.gettyimages.com/photos/seafood-variety-picture-id183875021?k=6&m=183875021&s=612x612&w=0&h=qtHRbq1qj204xsfZcJO3AmSQiyFBR9jrzxr8k7wm0Kk=']
+U+86AC
+10
+xiǎn
+142.4
+蚬.mp3
+
+蚭
+['NONE']
+['NINGUNA']
+[]
+U+86AD
+11
+ní
+142.5
+蚭.mp3
+
+蚮
+['NONE']
+['NINGUNA']
+[]
+U+86AE
+11
+dài
+142.5
+蚮.mp3
+
+蚯
+['earthworm']
+['lombriz']
+['https://media.gettyimages.com/photos/earthworm-in-the-dirt-picture-id172666317?k=6&m=172666317&s=612x612&w=0&h=cbiuuq-3XwKGVdGMtLBJAiGQG8ZiaDQ_Rjj4Z79Oscg=']
+U+86AF
+11
+qiū
+142.5
+蚯.mp3
+
+蚰
+['millipede']
+['milpiés']
+['https://media.gettyimages.com/photos/big-millipede-02-picture-id115918334?k=6&m=115918334&s=612x612&w=0&h=6eJuxSoB2irUlNOzgfWd9gC-gDztglcGh7iN0pgJ-NI=']
+U+86B0
+11
+yóu
+142.5
+蚰.mp3
+
+蚱
+['grasshopper', ' (edible) locust', ' cicada']
+['saltamontes', 'langosta (comestible)', 'cigarra']
+['https://media.gettyimages.com/photos/grasshopper-picture-id155095890?k=6&m=155095890&s=612x612&w=0&h=gF_hLmEBXa1CuRFsktZTWxqfd3OZ2C0uyUJvhfZe-eY=', 'https://media.gettyimages.com/photos/fried-grasshopper-thai-snacks-crispy-food-popular-street-foods-in-picture-id1162790445?k=6&m=1162790445&s=612x612&w=0&h=_wpxJpNiII6xhaewDTaAioxyW0YiwMhn91imWrF2He8=', 'https://media.gettyimages.com/photos/periodical-cicada-adult-magicicada-spp-requires-17-years-to-complete-picture-id128109562?k=6&m=128109562&s=612x612&w=0&h=Y8BEBC3lcsrDHM-ISGB6qgvUPN_HDun9cx1TYKvveO8=']
+U+86B1
+11
+zhà
+142.5
+蚱.mp3
+
+蚲
+['NONE']
+['NINGUNA']
+[]
+U+86B2
+11
+píng
+142.5
+蚲.mp3
+
+蚳
+['ant eggs']
+['huevos de hormiga']
+['https://media.gettyimages.com/illustrations/red-wood-ant-wood-engravings-published-in-1876-illustration-id475180300?k=6&m=475180300&s=612x612&w=0&h=DVftY1H8Hu0mlpaI2j3HDDU6dTAoMpdhqBEKoFzc-Ss=']
+U+86B3
+11
+chí
+142.5
+蚳.mp3
+
+蚴
+['larva']
+['larva']
+['https://media.gettyimages.com/photos/quotfish-dinnerquot-picture-id94921925?k=6&m=94921925&s=612x612&w=0&h=QUD15ss2frbwH23aC_7Wni_Pdt0VDo-S5BqmjDrMQXY=']
+U+86B4
+11
+yòu
+142.5
+蚴.mp3
+
+蚵
+['oyster']
+['ostra']
+['https://media.gettyimages.com/photos/couple-enjoying-raw-oysters-picture-id691572613?k=6&m=691572613&s=612x612&w=0&h=prxDejdaE2TeOPUNClhfUGblACC5KPK7oaM5lIn7Fm0=']
+U+86B5
+11
+hé
+142.5
+蚵.mp3
+
+蚶
+['kind of clam, arca inflata']
+['especie de almeja, arca inflata']
+['NONE']
+U+86B6
+11
+hān
+142.5
+蚶.mp3
+
+蚷
+['NONE']
+['NINGUNA']
+[]
+U+86B7
+10
+jù
+142.5
+蚷.mp3
+
+蚸
+['NONE']
+['NINGUNA']
+[]
+U+86B8
+11
+lì
+142.5
+蚸.mp3
+
+蚹
+['NONE']
+['NINGUNA']
+[]
+U+86B9
+11
+fù
+142.5
+蚹.mp3
+
+蚺
+['a boa constrictor']
+['el buen constrictor']
+['https://media.gettyimages.com/photos/boa-constrictor-redtailed-boa-snake-picture-id1128449575?k=6&m=1128449575&s=612x612&w=0&h=rt477eBXvrpwNoeXIaC1GM2L2raCQIUhbHLbLbMaXn4=']
+U+86BA
+11
+rán
+142.5
+蚺.mp3
+
+蚻
+['small species of cicada']
+['pequeñas especies de cigarras']
+['https://media.gettyimages.com/photos/grasshoper-on-white-background-picture-id841591878?k=6&m=841591878&s=612x612&w=0&h=as5QvsXFwzTeKcnfgmOWhNwkCizLEPGzx2p-Md24h-c=']
+U+86BB
+11
+zhá
+142.5
+蚻.mp3
+
+蚼
+['NONE']
+['NINGUNA']
+[]
+U+86BC
+11
+gǒu
+142.5
+蚼.mp3
+
+蚽
+['NONE']
+['NINGUNA']
+[]
+U+86BD
+11
+pí
+142.5
+蚽.mp3
+
+蚾
+['NONE']
+['NINGUNA']
+[]
+U+86BE
+11
+pí
+142.5
+蚾.mp3
+
+蚿
+['millipede']
+['milpiés']
+['https://media.gettyimages.com/photos/big-millipede-02-picture-id115918334?k=6&m=115918334&s=612x612&w=0&h=6eJuxSoB2irUlNOzgfWd9gC-gDztglcGh7iN0pgJ-NI=']
+U+86BF
+11
+xián
+142.5
+蚿.mp3
+
+蛀
+['insects that eat books, clothes']
+['insectos que comen libros, ropa']
+['NONE']
+U+86C0
+11
+zhù
+142.5
+蛀.mp3
+
+蛁
+['NONE']
+['NINGUNA']
+[]
+U+86C1
+11
+diāo
+142.5
+蛁.mp3
+
+蛂
+['NONE']
+['NINGUNA']
+[]
+U+86C2
+11
+bié
+142.5
+蛂.mp3
+
+蛃
+['NONE']
+['NINGUNA']
+[]
+U+86C3
+11
+bǐng
+142.5
+蛃.mp3
+
+蛄
+['mole cricket']
+['grillo topo']
+['https://media.gettyimages.com/photos/close-up-of-mole-cricket-australia-picture-id1191013355?k=6&m=1191013355&s=612x612&w=0&h=HR52Ps19-79NxKjwfNHyvXilXAMJx-w-yhcb5WoQ8Cs=']
+U+86C4
+11
+gū
+142.5
+蛄.mp3
+
+蛅
+['a caterpillar']
+['una oruga']
+['https://media.gettyimages.com/photos/swallow-tail-butterfly-caterpillar-02-picture-id116017640?k=6&m=116017640&s=612x612&w=0&h=8PKg2MP-pna8pt6xFJHVajmeoZshbnN1zAYfnw_kBsk=']
+U+86C5
+11
+zhān
+142.5
+蛅.mp3
+
+蛆
+['maggots']
+['gusanos']
+['https://media.gettyimages.com/photos/maggots-picture-id460713669?k=6&m=460713669&s=612x612&w=0&h=5YZ4tQUCP1pVG8ED70BbNZYjx6GxI1Vj61MEKq0lSeY=']
+U+86C6
+11
+qū
+142.5
+蛆.mp3
+
+蛇
+['snake']
+['serpiente']
+['https://media.gettyimages.com/photos/venomous-snake-picture-id157479804?k=6&m=157479804&s=612x612&w=0&h=pOKoitg9oBA-ae0HILIZtoDlNUqSbiURWNC0d1_Thvk=']
+U+86C7
+11
+shé
+142.5
+蛇.mp3
+
+蛈
+['NONE']
+['NINGUNA']
+[]
+U+86C8
+11
+tiě
+142.5
+蛈.mp3
+
+蛉
+['dragonfly, libellulidae']
+['libélula, libellulidae']
+['https://media.gettyimages.com/photos/dragonfly-european-damselfly-picture-id839900180?k=6&m=839900180&s=612x612&w=0&h=DdPYRkzdZ2zC60mbzjhwMiclLv0cC_lYhxH1S77jpVk=']
+U+86C9
+11
+líng
+142.5
+蛉.mp3
+
+蛊
+['poison', ' venom', ' harm', ' bewitch']
+['veneno', 'veneno', 'daño', 'hechizar']
+['https://media.gettyimages.com/photos/bottles-with-toxic-labels-picture-id95011729?k=6&m=95011729&s=612x612&w=0&h=hm1VkmyfIvfe1FGDpXn-tyWpXy5ls7x-13nlp0-_gZI=', 'https://media.gettyimages.com/photos/bottles-with-toxic-labels-picture-id95011729?k=6&m=95011729&s=612x612&w=0&h=hm1VkmyfIvfe1FGDpXn-tyWpXy5ls7x-13nlp0-_gZI=', 'https://media.gettyimages.com/photos/farmer-spraying-pesticide-picture-id1125607687?k=6&m=1125607687&s=612x612&w=0&h=xM344PNQbyqKLSw1XJBuzuwTt1-x4CIT1glXD4gGbFI=', 'https://media.gettyimages.com/photos/is-there-something-there-picture-id507746755?k=6&m=507746755&s=612x612&w=0&h=NkSayyH4vZ4OrqiVUgdiyK_Tl4vXcAN-s96C8uEji-8=']
+U+86CA
+11
+gǔ
+142.5
+蛊.mp3
+
+蛋
+['eggs', ' term of abuse']
+['huevos', 'término de abuso']
+['https://media.gettyimages.com/photos/single-brown-chicken-egg-isolated-on-white-background-picture-id184394585?k=6&m=184394585&s=612x612&w=0&h=M22qyFQNEyjdhyFEqTidZlVRew5PiNeMsl9U7JHDEbg=', 'https://media.gettyimages.com/vectors/stop-violence-against-women-vector-id490967634?k=6&m=490967634&s=612x612&w=0&h=p8yoqcra92wZ48U8r3x9rosXFQPYlqVPuj14lfAfdlw=']
+U+86CB
+11
+dàn
+142.5
+蛋.mp3
+
+蛌
+['cricket']
+['Grillo']
+['https://media.gettyimages.com/photos/cricket-batsman-about-to-strike-ball-picture-id180868820?k=6&m=180868820&s=612x612&w=0&h=G4jBtnmgEFm5-YgP4-BkTdAtZCWhuhlfHcy8FQQCrpQ=']
+U+86CC
+11
+gǔ
+142.5
+蛌.mp3
+
+蛍
+['glow-worm, luminous insect']
+['luciérnaga, insecto luminoso']
+['https://media.gettyimages.com/photos/firefly-picture-id696917420?k=6&m=696917420&s=612x612&w=0&h=aGJvqXUfA-UXvOPSx8kGAc6oY0uNiFwWtvzuJxCfkeY=']
+U+86CD
+11
+yíng
+142.5
+蛍.mp3
+
+蛎
+['oyster']
+['ostra']
+['https://media.gettyimages.com/photos/couple-enjoying-raw-oysters-picture-id691572613?k=6&m=691572613&s=612x612&w=0&h=prxDejdaE2TeOPUNClhfUGblACC5KPK7oaM5lIn7Fm0=']
+U+86CE
+11
+lì
+142.5
+蛎.mp3
+
+蛏
+['razor clam']
+['navaja']
+['https://media.gettyimages.com/photos/grilled-razor-clams-picture-id1026694220?k=6&m=1026694220&s=612x612&w=0&h=P1ndjiDimz2Zh6XyDFk29hR7B2wqxl2WXf7c5j-5Z_Y=']
+U+86CF
+11
+chēng
+142.5
+蛏.mp3
+
+蛐
+['cricket', ' worm']
+['Grillo', 'gusano']
+['https://media.gettyimages.com/photos/cricket-batsman-about-to-strike-ball-picture-id180868820?k=6&m=180868820&s=612x612&w=0&h=G4jBtnmgEFm5-YgP4-BkTdAtZCWhuhlfHcy8FQQCrpQ=', 'https://media.gettyimages.com/vectors/microbe-icon-set-vector-id1158021219?k=6&m=1158021219&s=612x612&w=0&h=O7_cUN2HwAB6wC25D0-7Q2ZSmJpT8MTz_diYoQxq2n0=']
+U+86D0
+12
+qū
+142.6
+蛐.mp3
+
+蛑
+['a marine crab']
+['un cangrejo marino']
+['https://media.gettyimages.com/vectors/sea-food-icon-set-vector-id1096479390?k=6&m=1096479390&s=612x612&w=0&h=L03SuZ-KX0Cr7E8dqHdbm1QZ6KgwYg3mKvdw5YJLJFU=']
+U+86D1
+12
+móu
+142.6
+蛑.mp3
+
+蛒
+['NONE']
+['NINGUNA']
+[]
+U+86D2
+12
+gé
+142.6
+蛒.mp3
+
+蛓
+['caterpillar', ' (Cant.) a nit, louse', ' itching']
+['oruga', '(Canto.) A noche, Louse', 'picor']
+['https://media.gettyimages.com/photos/swallow-tail-butterfly-caterpillar-02-picture-id116017640?k=6&m=116017640&s=612x612&w=0&h=8PKg2MP-pna8pt6xFJHVajmeoZshbnN1zAYfnw_kBsk=', 'NONE', 'https://media.gettyimages.com/vectors/set-of-monochrome-texture-backgrounds-vector-id947554374?k=6&m=947554374&s=612x612&w=0&h=wR2nuSD9IaEuGeOLzP8xxoQ872AVIfjaHUj1Fdb_mp4=']
+U+86D3
+12
+cì
+142.6
+蛓.mp3
+
+蛔
+['tapeworm']
+['tenia']
+['https://media.gettyimages.com/illustrations/tapeworm-artwork-illustration-id488635725?k=6&m=488635725&s=612x612&w=0&h=hbdMIW_kriI5DlCztTf3ulLFKOIjLxhgF-JlYHEjv1A=']
+U+86D4
+12
+huí
+142.6
+蛔.mp3
+
+蛕
+['the common intestinal worms, the tape-worm']
+['los gusanos intestinales comunes, la tenia']
+['NONE']
+U+86D5
+12
+huí
+142.6
+蛕.mp3
+
+蛖
+['NONE']
+['NINGUNA']
+[]
+U+86D6
+13
+máng
+142.7
+蛖.mp3
+
+蛗
+['a grasshopper, locust']
+['un saltamontes, langosta']
+['https://media.gettyimages.com/photos/locust-on-the-move-picture-id114413730?k=6&m=114413730&s=612x612&w=0&h=s0jkZkoUySrFUYsVSXV148bHeOeWjuUfX0GFlL43HYE=']
+U+86D7
+12
+fù
+142.6
+蛗.mp3
+
+蛘
+['a weevil found in rice, etc.']
+['un gorgojo que se encuentra en el arroz, etc.']
+['NONE']
+U+86D8
+12
+yáng
+142.6
+蛘.mp3
+
+蛙
+['frog']
+['rana']
+['https://media.gettyimages.com/photos/frog-eating-a-fly-picture-id175422366?k=6&m=175422366&s=612x612&w=0&h=KIuCR0CEbHBHaGqGlRQspVITcIvNInL1zKZ9TmNPjEE=']
+U+86D9
+12
+wā
+142.6
+蛙.mp3
+
+蛚
+['NONE']
+['NINGUNA']
+[]
+U+86DA
+12
+liè
+142.6
+蛚.mp3
+
+蛛
+['spider']
+['araña']
+['https://media.gettyimages.com/vectors/cartoon-spider-vector-id877862104?k=6&m=877862104&s=612x612&w=0&h=eaz37mI11cvNhngGy-Sb858KW2bqIPiCtJMNVU_zofg=']
+U+86DB
+12
+zhū
+142.6
+蛛.mp3
+
+蛜
+['NONE']
+['NINGUNA']
+[]
+U+86DC
+12
+yī
+142.6
+蛜.mp3
+
+蛝
+['NONE']
+['NINGUNA']
+[]
+U+86DD
+12
+xián
+142.6
+蛝.mp3
+
+蛞
+['snail', ' slug, mole cricket']
+['caracol', 'babosa, grillo topo']
+['https://media.gettyimages.com/photos/helix-pomatia-picture-id522033672?k=6&m=522033672&s=612x612&w=0&h=GSVc_1X0DjxMbi-9n6ueyU-JQwmNDSOzFxOzh1ZN6v0=', 'NONE']
+U+86DE
+12
+kuò
+142.6
+蛞.mp3
+
+蛟
+['scaly dragon with four legs']
+['dragón escamoso con cuatro patas']
+['NONE']
+U+86DF
+12
+jiāo
+142.6
+蛟.mp3
+
+蛠
+['NONE']
+['NINGUNA']
+[]
+U+86E0
+12
+lì
+142.6
+蛠.mp3
+
+蛡
+['NONE']
+['NINGUNA']
+[]
+U+86E1
+12
+yì
+142.6
+蛡.mp3
+
+蛢
+['NONE']
+['NINGUNA']
+[]
+U+86E2
+12
+píng
+142.6
+蛢.mp3
+
+蛣
+['(dung) beetle']
+['(estiércol) escarabajo']
+['https://media.gettyimages.com/photos/dung-beetle-rolling-dung-ball-closeup-picture-id200214035-001?k=6&m=200214035-001&s=612x612&w=0&h=iG-SYvoQVRnjehWGzAvLWmHpm3kShFs9CdhRcQnCTyk=']
+U+86E3
+12
+qī
+142.6
+蛣.mp3
+
+蛤
+['clam']
+['almeja']
+['https://media.gettyimages.com/photos/fresh-steamed-clams-picture-id489726444?k=6&m=489726444&s=612x612&w=0&h=JMLfAaaLUHpTJ1pw9QsWM4IiFSSgD3gY2APnpFNKfc4=']
+U+86E4
+12
+há
+142.6
+蛤.mp3
+
+蛥
+['NONE']
+['NINGUNA']
+[]
+U+86E5
+12
+shé
+142.6
+蛥.mp3
+
+蛦
+['NONE']
+['NINGUNA']
+[]
+U+86E6
+12
+yí
+142.6
+蛦.mp3
+
+蛧
+['NONE']
+['NINGUNA']
+[]
+U+86E7
+12
+wǎng
+142.6
+蛧.mp3
+
+蛨
+['NONE']
+['NINGUNA']
+[]
+U+86E8
+12
+mò
+142.6
+蛨.mp3
+
+蛩
+['cricket, locust', ' anxious']
+['grillo, langosta', 'ansioso']
+['https://media.gettyimages.com/photos/grasshopper-picture-id168304418?k=6&m=168304418&s=612x612&w=0&h=qd6GEtqObhq7dMKL3peDkZC7yEeIYV3UVTmMGnACl-o=', 'https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=']
+U+86E9
+12
+qióng
+142.6
+蛩.mp3
+
+蛪
+['NONE']
+['NINGUNA']
+[]
+U+86EA
+12
+qiè
+142.6
+蛪.mp3
+
+蛫
+['NONE']
+['NINGUNA']
+[]
+U+86EB
+12
+guǐ
+142.6
+蛫.mp3
+
+蛬
+['NONE']
+['NINGUNA']
+[]
+U+86EC
+12
+qióng
+142.6
+蛬.mp3
+
+蛭
+['leech']
+['sanguijuela']
+['https://media.gettyimages.com/photos/leech-picture-id183880519?k=6&m=183880519&s=612x612&w=0&h=UlbqCJc_M--Sd1BY5b3mYywA5YfHycbw8vgPLGT_n30=']
+U+86ED
+12
+zhì
+142.6
+蛭.mp3
+
+蛮
+['barbarians', ' barbarous, savage']
+['bárbaros', 'bárbaro, salvaje']
+['https://media.gettyimages.com/photos/warrior-king-picture-id1199926978?k=6&m=1199926978&s=612x612&w=0&h=1-mnK6KVvZ3qCqH8LIfdEk3EUgrECECgWg3IMlb5_S8=', 'NONE']
+U+86EE
+12
+mán
+142.6
+蛮.mp3
+
+蛯
+['shrimp']
+['camarón']
+['https://media.gettyimages.com/photos/jumbo-shrimp-scampi-sauteeing-in-butter-and-olive-oil-picture-id469311080?k=6&m=469311080&s=612x612&w=0&h=GxpSrVb57d0poV1Ua_nlYIhqd1ZskC-kj2o01ZxMDRg=']
+U+86EF
+12
+lǎo
+142.6
+蛯.mp3
+
+蛰
+['to hibernate']
+['hibernar']
+['https://media.gettyimages.com/photos/oh-my-goodness-what-a-shame-picture-id173608277?k=6&m=173608277&s=612x612&w=0&h=29Qw9ZKUR7dFE8CgWdQ84_nDNSX-XA1k-6iENe5KQV4=']
+U+86F0
+12
+zhé
+142.6
+蛰.mp3
+
+蛱
+['kind of butterfly']
+['especie de mariposa']
+['https://media.gettyimages.com/illustrations/butterfly-on-finger-illustration-id1138909584?k=6&m=1138909584&s=612x612&w=0&h=z8vVIjgmpyfS__1iQU56nB1r9Kx9Yuv36Zc5DErAqo4=']
+U+86F1
+12
+jiá
+142.6
+蛱.mp3
+
+蛲
+['worms']
+['gusanos']
+['https://media.gettyimages.com/illustrations/martin-luther-at-the-diet-of-worms-illustration-id869775058?k=6&m=869775058&s=612x612&w=0&h=5M6j5q_chnYvFRmZEamJIYT3IPm1UWxp9-eHbj7p2IE=']
+U+86F2
+12
+náo
+142.6
+蛲.mp3
+
+蛳
+['kind of snail with spiral shell']
+['especie de caracol con concha en espiral']
+['https://media.gettyimages.com/vectors/tropical-sea-shells-vector-id455443035?k=6&m=455443035&s=612x612&w=0&h=fyJQ2e9T1LCzwVyn4L6V_YoZDeheJWT7I8RtbAkwTC4=']
+U+86F3
+12
+sī
+142.6
+蛳.mp3
+
+蛴
+['maggots, grubs']
+['gusanos, larvas']
+['https://media.gettyimages.com/illustrations/whole-and-cut-green-apple-illustration-id637302392?k=6&m=637302392&s=612x612&w=0&h=e-gRFPgbMkPjO5kVombaB7RJxHDtBYygrnFLPNb27jg=']
+U+86F4
+12
+qí
+142.6
+蛴.mp3
+
+蛵
+['NONE']
+['NINGUNA']
+[]
+U+86F5
+13
+xīng
+142.7
+蛵.mp3
+
+蛶
+['NONE']
+['NINGUNA']
+[]
+U+86F6
+13
+jiè
+142.7
+蛶.mp3
+
+蛷
+['NONE']
+['NINGUNA']
+[]
+U+86F7
+13
+qiú
+142.7
+蛷.mp3
+
+蛸
+['long legged spider', ' octopus', ' chrysalis of mantis']
+['araña de patas largas', 'pulpo', 'crisálida de mantis']
+['https://media.gettyimages.com/photos/camouflaged-creatures-picture-id606567109?k=6&m=606567109&s=612x612&w=0&h=5g0jj5XnrzfXg9qO-xeu-Kvoi1XtS73HUMChFHrvyQM=', 'https://media.gettyimages.com/photos/octopus-picture-id172257525?k=6&m=172257525&s=612x612&w=0&h=zqgvaMTseVnZUESIPK65lFkdjjhnD2n7fAgNBIAmETg=', 'https://media.gettyimages.com/vectors/insects-and-bugs-black-silhouette-icons-vector-id872271760?k=6&m=872271760&s=612x612&w=0&h=ccWY-46-AIZ6-huJT1SPKYyQpxLdMXz_PvPQfICOuBE=']
+U+86F8
+13
+shāo
+142.7
+蛸.mp3
+
+蛹
+['chrysalis, larva']
+['crisálida, larva']
+['https://media.gettyimages.com/vectors/life-cycle-of-butterflies-vector-vector-id518927835?k=6&m=518927835&s=612x612&w=0&h=IJG0_KWz2xapi2xAB5snjqINJ5CoausnSMD9sDg1-YQ=']
+U+86F9
+13
+yǒng
+142.7
+蛹.mp3
+
+蛺
+['kind of butterfly']
+['especie de mariposa']
+['https://media.gettyimages.com/illustrations/butterfly-on-finger-illustration-id1138909584?k=6&m=1138909584&s=612x612&w=0&h=z8vVIjgmpyfS__1iQU56nB1r9Kx9Yuv36Zc5DErAqo4=']
+U+86FA
+13
+jiá
+142.7
+蛺.mp3
+
+蛻
+['molt, exuviate, shed']
+['mucho, exuviate, shed']
+['NONE']
+U+86FB
+13
+tuì
+142.7
+蛻.mp3
+
+蛼
+['NONE']
+['NINGUNA']
+[]
+U+86FC
+13
+chē
+142.7
+蛼.mp3
+
+蛽
+['NONE']
+['NINGUNA']
+[]
+U+86FD
+13
+bèi
+142.7
+蛽.mp3
+
+蛾
+['moth']
+['polilla']
+['https://media.gettyimages.com/photos/moths-on-wool-sweater-picture-id112299687?k=6&m=112299687&s=612x612&w=0&h=N9-EGJLAnm4Cg_Fj9mVGgmuVSIaCS5cXBNDIWHtna18=']
+U+86FE
+13
+é
+142.7
+蛾.mp3
+
+蛿
+['NONE']
+['NINGUNA']
+[]
+U+86FF
+13
+hàn
+142.7
+蛿.mp3
+
+蜀
+['name of an ancient state']
+['nombre de un estado antiguo']
+['https://media.gettyimages.com/photos/turkish-national-flag-with-white-star-and-moon-in-sky-picture-id1153837732?k=6&m=1153837732&s=612x612&w=0&h=pPFMhJEP8j7bx6ZCEgCVSxZwmsUHOGiZu7iAce-e0Uk=']
+U+8700
+13
+shǔ
+142.7
+蜀.mp3
+
+蜁
+['NONE']
+['NINGUNA']
+[]
+U+8701
+13
+xuán
+142.7
+蜁.mp3
+
+蜂
+['bee, wasp, hornet']
+['abeja, avispa, avispón']
+['https://media.gettyimages.com/photos/wasp-nest-macro-picture-id1164595084?k=6&m=1164595084&s=612x612&w=0&h=tc8am_4UUczKJcRhbRYM2CAHumiUvQ1--wDgZgtpZ4M=']
+U+8702
+13
+fēng
+142.7
+蜂.mp3
+
+蜃
+['marine monster which can change its shape', ' water spouts', ' clams']
+['monstruo marino que puede cambiar de forma', 'chorros de agua', 'almejas']
+['NONE', 'https://media.gettyimages.com/photos/bathroom-faucet-picture-id182691828?k=6&m=182691828&s=612x612&w=0&h=XGIfWu-LE1yOD_41L0qk3iTQ9TNm-EcuEzdCUt_zZ2A=', 'https://media.gettyimages.com/photos/fresh-steamed-clams-picture-id489726444?k=6&m=489726444&s=612x612&w=0&h=JMLfAaaLUHpTJ1pw9QsWM4IiFSSgD3gY2APnpFNKfc4=']
+U+8703
+13
+shèn
+142.7
+蜃.mp3
+
+蜄
+['NONE']
+['NINGUNA']
+[]
+U+8704
+13
+shèn
+142.7
+蜄.mp3
+
+蜅
+['NONE']
+['NINGUNA']
+[]
+U+8705
+13
+fǔ
+142.7
+蜅.mp3
+
+蜆
+['a variety of bivalves']
+['una variedad de bivalvos']
+['https://media.gettyimages.com/photos/seafood-variety-picture-id183875021?k=6&m=183875021&s=612x612&w=0&h=qtHRbq1qj204xsfZcJO3AmSQiyFBR9jrzxr8k7wm0Kk=']
+U+8706
+13
+xiàn
+142.7
+蜆.mp3
+
+蜇
+['jellyfish']
+['Medusa']
+['https://media.gettyimages.com/photos/many-colorful-jellyfish-on-the-dark-sea-picture-id1124860235?k=6&m=1124860235&s=612x612&w=0&h=ul1Hvlvp9QOy0IcfjdkRIAfC5yU_eZe3VBggwhpRcaE=']
+U+8707
+13
+zhē
+142.7
+蜇.mp3
+
+蜈
+['centipede']
+['ciempiés']
+['https://media.gettyimages.com/photos/centipede-picture-id185274173?k=6&m=185274173&s=612x612&w=0&h=rRfw2RolgFmMf-Ecc2vAoE_mp8f5VFZ5zg-OZJiJLS8=']
+U+8708
+13
+wú
+142.7
+蜈.mp3
+
+蜉
+['mayfly', ' kind of large insect']
+['efímera', 'especie de insecto grande']
+['https://media.gettyimages.com/photos/dragonfly-picture-id1124382715?k=6&m=1124382715&s=612x612&w=0&h=LJc_oj8wr2h2J8n_T3EXfz9ecVFtqCEiJ2ZbzkkoPgQ=', 'https://media.gettyimages.com/photos/queen-ant-picture-id114321164?k=6&m=114321164&s=612x612&w=0&h=E8XdoDnmAnZT-HnPPcwYaGkHSyigMg3CC1L4ExmM73w=']
+U+8709
+13
+fú
+142.7
+蜉.mp3
+
+蜊
+['clam']
+['almeja']
+['https://media.gettyimages.com/photos/fresh-steamed-clams-picture-id489726444?k=6&m=489726444&s=612x612&w=0&h=JMLfAaaLUHpTJ1pw9QsWM4IiFSSgD3gY2APnpFNKfc4=']
+U+870A
+13
+lí
+142.7
+蜊.mp3
+
+蜋
+['mantis, dung beetle', ' insect']
+['mantis, escarabajo pelotero', 'insecto']
+['https://media.gettyimages.com/vectors/creepy-crawlies-bugs-spiders-snakes-vector-id165068505?k=6&m=165068505&s=612x612&w=0&h=VeaZM_xtwsYQw2ylK8Bw-dHXvk0z0tiftsjowT4rP2w=', 'https://media.gettyimages.com/vectors/insect-icon-set-vector-id1150764771?k=6&m=1150764771&s=612x612&w=0&h=zUGUASjEn0s6W1mq3M0GXfDjb3RLOkWlS9UYxOuwaaI=']
+U+870B
+13
+láng
+142.7
+蜋.mp3
+
+蜌
+['NONE']
+['NINGUNA']
+[]
+U+870C
+13
+bì
+142.7
+蜌.mp3
+
+蜍
+['toad']
+['sapo']
+['https://media.gettyimages.com/photos/cut-out-studio-shot-of-a-cane-toad-picture-iddv1648012?k=6&m=dv1648012&s=612x612&w=0&h=AvaQdUgQYKW9I3aOPolUpCxo175_YyE0z3d0pT6UIdU=']
+U+870D
+13
+chú
+142.7
+蜍.mp3
+
+蜎
+['mosquito larva']
+['mosquito larva']
+['https://media.gettyimages.com/photos/mosquito-larvae-and-pupa-culex-pipiens-picture-id116657680?k=6&m=116657680&s=612x612&w=0&h=_fPCvwPFoPdxoL0cS_d-ozAqbNT1od9S6EDerp-2CWo=']
+U+870E
+13
+yuān
+142.7
+蜎.mp3
+
+蜏
+['NONE']
+['NINGUNA']
+[]
+U+870F
+13
+yǒu
+142.7
+蜏.mp3
+
+蜐
+['NONE']
+['NINGUNA']
+[]
+U+8710
+13
+jié
+142.7
+蜐.mp3
+
+蜑
+['egg']
+['huevo']
+['https://media.gettyimages.com/photos/single-brown-chicken-egg-isolated-on-white-background-picture-id184394585?k=6&m=184394585&s=612x612&w=0&h=M22qyFQNEyjdhyFEqTidZlVRew5PiNeMsl9U7JHDEbg=']
+U+8711
+12
+dàn
+142.7
+蜑.mp3
+
+蜒
+['millipede']
+['milpiés']
+['https://media.gettyimages.com/photos/big-millipede-02-picture-id115918334?k=6&m=115918334&s=612x612&w=0&h=6eJuxSoB2irUlNOzgfWd9gC-gDztglcGh7iN0pgJ-NI=']
+U+8712
+12
+yán
+142.7
+蜒.mp3
+
+蜓
+['dragonfly']
+['libélula']
+['https://media.gettyimages.com/photos/dragonfly-picture-id182851950?k=6&m=182851950&s=612x612&w=0&h=B1Uk1hwdga5qWnGG7roW7QsoVlhPWsU0H-j1diRTIl0=']
+U+8713
+12
+tíng
+142.7
+蜓.mp3
+
+蜔
+['inlaid shell-work']
+['incrustaciones de concha']
+['NONE']
+U+8714
+13
+diàn
+142.7
+蜔.mp3
+
+蜕
+['molt']
+['muy']
+['https://media.gettyimages.com/photos/monarch-butterfly-emerging-from-its-chrysalis-picture-id182739033?k=6&m=182739033&s=612x612&w=0&h=kl1j04ZfwPWin3zCcRvQENqqziSs-tDlRYZ6tSg2r8U=']
+U+8715
+13
+tuì
+142.7
+蜕.mp3
+
+蜖
+['tapeworm']
+['tenia']
+['https://media.gettyimages.com/illustrations/tapeworm-artwork-illustration-id488635725?k=6&m=488635725&s=612x612&w=0&h=hbdMIW_kriI5DlCztTf3ulLFKOIjLxhgF-JlYHEjv1A=']
+U+8716
+13
+huí
+142.7
+蜖.mp3
+
+蜗
+['a snail, Eulota callizoma']
+['un caracol, Eulota callizoma']
+['NONE']
+U+8717
+13
+wō
+142.7
+蜗.mp3
+
+蜘
+['spider']
+['araña']
+['https://media.gettyimages.com/vectors/cartoon-spider-vector-id877862104?k=6&m=877862104&s=612x612&w=0&h=eaz37mI11cvNhngGy-Sb858KW2bqIPiCtJMNVU_zofg=']
+U+8718
+14
+zhī
+142.8
+蜘.mp3
+

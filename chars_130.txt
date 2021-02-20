@@ -1,0 +1,2560 @@
+縙
+['NONE']
+['NINGUNA']
+[]
+U+7E19
+15
+róng
+120.10
+縙.mp3
+
+縚
+['band']
+['banda']
+['https://media.gettyimages.com/photos/caucasian-band-playing-in-garage-picture-id1146332557?k=6&m=1146332557&s=612x612&w=0&h=sP7ojATwuVKI74rSXnp7pfnPLJzaDSCz6AS2qQ0PrNY=']
+U+7E1A
+16
+tāo
+120.10
+縚.mp3
+
+縛
+['to tie']
+['para atar']
+['https://media.gettyimages.com/photos/red-necktie-on-white-picture-id157180004?k=6&m=157180004&s=612x612&w=0&h=g-RkLkiaA1Hh4KLbEzIywLAjKKdzl_czM_z3XRlOLP4=']
+U+7E1B
+16
+fù
+120.10
+縛.mp3
+
+縜
+['NONE']
+['NINGUNA']
+[]
+U+7E1C
+16
+yún
+120.10
+縜.mp3
+
+縝
+['detailed, fine', ' closely woven']
+['detallado, bien', 'estrechamente tejido']
+['https://media.gettyimages.com/photos/woman-painting-a-ceramic-plate-with-a-brush-picture-id681907751?k=6&m=681907751&s=612x612&w=0&h=v6aTSZLHtbEdCDpqOoziJlA57Y9tkFYrygzbByEMil4=', 'NONE']
+U+7E1D
+16
+chēn
+120.10
+縝.mp3
+
+縞
+['white raw silk']
+['seda cruda blanca']
+['https://media.gettyimages.com/photos/flat-lay-concept-of-feminine-light-blue-background-with-cell-phone-picture-id1163828181?k=6&m=1163828181&s=612x612&w=0&h=p6ItNpWWmjEeJQViIHJdOR9qJkL4l5uq_FuAJCu3mIk=']
+U+7E1E
+16
+gǎo
+120.10
+縞.mp3
+
+縟
+['decorative, adorned, elegant']
+['decorativo, adornado, elegante']
+['https://media.gettyimages.com/photos/red-bow-ontop-picture-id172155800?k=6&m=172155800&s=612x612&w=0&h=Z0PadlW5hCGxj09EwWfxl-M8TLLkbq2_kaLXrT8D7ic=']
+U+7E1F
+16
+rù
+120.10
+縟.mp3
+
+縠
+['crepe']
+['crepe']
+['https://media.gettyimages.com/photos/preparing-baked-crepes-pancakes-with-ham-and-tomatoes-picture-id515602452?k=6&m=515602452&s=612x612&w=0&h=9XXZpN3Lt7FRE0zlvDS7NjRj7ZA-FxT0GxFwOBVfNr8=']
+U+7E20
+16
+hú
+120.10
+縠.mp3
+
+縡
+['matter, affair']
+['asunto, asunto']
+['https://media.gettyimages.com/photos/crack-in-grey-concrete-surface-picture-id172950698?k=6&m=172950698&s=612x612&w=0&h=dL4izE-Pc47JKkvWgm7E7k4EITNDKSCR2knKU7MEv6k=']
+U+7E21
+16
+zài
+120.10
+縡.mp3
+
+縢
+['bind, tie up, restrain', ' cord']
+['atar, atar, restringir', 'cable']
+['https://media.gettyimages.com/photos/children-tying-up-father-with-rope-picture-id97560669?k=6&m=97560669&s=612x612&w=0&h=TI_6yvMOf4xq4itgkyX8MsrlN2muBzAktc0kHjEXIQA=', 'https://media.gettyimages.com/photos/closeup-of-a-server-network-panel-with-lights-and-cables-picture-id157647179?k=6&m=157647179&s=612x612&w=0&h=tNI5XfiuK8WdOXaaxyjwdBgwir6J6RFTVxD_HRUA4dg=']
+U+7E22
+16
+téng
+120.10
+縢.mp3
+
+縣
+['county, district, subdivision']
+['condado, distrito, subdivisión']
+['https://media.gettyimages.com/photos/street-corner-in-a-typical-subdivision-picture-id85454026?k=6&m=85454026&s=612x612&w=0&h=tlrI9rH-YTC-4yzs1fnksiXdtJq28MzZXEIrrivSi00=']
+U+7E23
+16
+xiàn
+120.10
+縣.mp3
+
+縤
+['NONE']
+['NINGUNA']
+[]
+U+7E24
+16
+sù
+120.10
+縤.mp3
+
+縥
+['NONE']
+['NINGUNA']
+[]
+U+7E25
+16
+zhěn
+120.10
+縥.mp3
+
+縦
+['indulge in, give free reign to']
+['disfrutar, dar rienda suelta a']
+['NONE']
+U+7E26
+16
+zòng
+120.10
+縦.mp3
+
+縧
+['silk cord, ribbon']
+['cordón de seda, cinta']
+['https://media.gettyimages.com/photos/golden-silk-thread-on-a-white-background-picture-id1192340589?k=6&m=1192340589&s=612x612&w=0&h=IQguvCNvqqM7MX_I8b3RqDuisFFHxyFdOA3Cg_uQBFQ=']
+U+7E27
+16
+tāo
+120.10
+縧.mp3
+
+縨
+['NONE']
+['NINGUNA']
+[]
+U+7E28
+16
+huǎng
+120.10
+縨.mp3
+
+縩
+['NONE']
+['NINGUNA']
+[]
+U+7E29
+17
+cài
+120.11
+縩.mp3
+
+縪
+['NONE']
+['NINGUNA']
+[]
+U+7E2A
+16
+bì
+120.11
+縪.mp3
+
+縫
+['sew, mend']
+['coser, reparar']
+['https://media.gettyimages.com/photos/woman-repairing-jeans-picture-id134573421?k=6&m=134573421&s=612x612&w=0&h=mTpD215O24l02KbC01nH0ArV6DNW5nIlKhZnCgbNAlM=']
+U+7E2B
+16
+fèng
+120.11
+縫.mp3
+
+縬
+['NONE']
+['NINGUNA']
+[]
+U+7E2C
+17
+cù
+120.11
+縬.mp3
+
+縭
+['a bridal veil', ' to tie', ' to bind']
+['un velo de novia', 'para atar', 'unir']
+['https://media.gettyimages.com/photos/ghostly-bride-raising-her-veil-picture-id157082482?k=6&m=157082482&s=612x612&w=0&h=UcNbAI0NlQ2ye3yCWB5Y8hyl5l6GDD2-Mk0bm3O_nmU=', 'https://media.gettyimages.com/photos/red-necktie-on-white-picture-id157180004?k=6&m=157180004&s=612x612&w=0&h=g-RkLkiaA1Hh4KLbEzIywLAjKKdzl_czM_z3XRlOLP4=', 'https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=']
+U+7E2D
+16
+lí
+120.11
+縭.mp3
+
+縮
+['contract, draw in, reduce']
+['contratar, dibujar, reducir']
+['https://media.gettyimages.com/photos/man-ready-to-write-something-in-a-white-paper-picture-id1277516615?k=6&m=1277516615&s=612x612&w=0&h=k80lrKKuF2cPhsnKeBkbck0HclgGOiFBXtOTnf0Xydg=']
+U+7E2E
+17
+suō
+120.11
+縮.mp3
+
+縯
+['long']
+['largo']
+['https://media.gettyimages.com/photos/portrait-of-confident-man-with-long-hair-picture-id985138682?k=6&m=985138682&s=612x612&w=0&h=cfHGi9Ed55pQGUbHX989mc38XMGCQ21wO2b5agmUMVg=']
+U+7E2F
+17
+yǎn
+120.11
+縯.mp3
+
+縰
+['band for the hair']
+['banda para el cabello']
+['https://media.gettyimages.com/photos/rock-singer-shaking-her-hair-at-recording-studio-picture-id685037685?k=6&m=685037685&s=612x612&w=0&h=H3PjNzjUxWe_lHtsSfIpBUsExpS6TWC0lWv6GySAOnI=']
+U+7E30
+17
+xǐ
+120.11
+縰.mp3
+
+縱
+['indulge in, give free reign to']
+['disfrutar, dar rienda suelta a']
+['NONE']
+U+7E31
+17
+zòng
+120.11
+縱.mp3
+
+縲
+['a chain or rope used bind criminals']
+['una cadena o cuerda usada para atar criminales']
+['https://media.gettyimages.com/illustrations/beef-cattle-with-nail-execution-mask-illustration-id1187820462?k=6&m=1187820462&s=612x612&w=0&h=clnr-AzYU3PhmqxlC_K9Per1RRzM-qFCWddE7Ij2a50=']
+U+7E32
+17
+léi
+120.11
+縲.mp3
+
+縳
+['wrap']
+['envolver']
+['https://media.gettyimages.com/photos/woman-wrapping-christmas-gifts-overhead-shot-picture-id1168265467?k=6&m=1168265467&s=612x612&w=0&h=uy5e3n6hh8yJYW-yMsnQiRPs4OB88eVPzXlzqaALr2Q=']
+U+7E33
+17
+juàn
+120.11
+縳.mp3
+
+縴
+['tow line']
+['línea de remolque']
+['https://media.gettyimages.com/vectors/traffic-icons-line-series-vector-id914427078?k=6&m=914427078&s=612x612&w=0&h=-X-_18a6fcUa_sfsSuCKD7A59xctNdxVOvxRl6gLtVA=']
+U+7E34
+17
+qiàn
+120.11
+縴.mp3
+
+縵
+['plain silk', ' simple, plain']
+['seda simple', 'simple, llano']
+['https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=', 'https://media.gettyimages.com/vectors/simple-straight-line-map-of-the-world-vector-background-vector-id1133296208?k=6&m=1133296208&s=612x612&w=0&h=SWIEKGR7IZJdSl9RZq-8ugLSdS-Uo6U06sOV26gy5M0=']
+U+7E35
+17
+màn
+120.11
+縵.mp3
+
+縶
+['confine, tie up', ' imprison, shackle']
+['confinar, atar', 'encarcelar, grillete']
+['https://media.gettyimages.com/photos/trapped-businessman-picture-id108177011?k=6&m=108177011&s=612x612&w=0&h=qVn_tOFumdxF01Td8hlEwS7BJlOrCbj77Y_Ag7auges=', 'https://media.gettyimages.com/vectors/justice-and-law-silhouette-icons-vector-id181839908?k=6&m=181839908&s=612x612&w=0&h=DzKMpyUboKj5Ev7GqaWM4ozwV1l3vR-Pofqkn0nmrUE=']
+U+7E36
+17
+zhí
+120.11
+縶.mp3
+
+縷
+['thread', ' detailed, precise']
+['hilo', 'detallado, preciso']
+['https://media.gettyimages.com/photos/needle-and-red-line-picture-id185231391?k=6&m=185231391&s=612x612&w=0&h=cup0oYOtncdJIEGo9JX0PF1oTQN6wQ13eayZv3LowJ4=', 'https://media.gettyimages.com/vectors/map-with-states-full-vector-id993186836?k=6&m=993186836&s=612x612&w=0&h=yTRVMyqlK2R_p9fb5m2LLv5W0eyJRD8EWzCF1LZy5KY=']
+U+7E37
+17
+lǚ
+120.11
+縷.mp3
+
+縸
+['NONE']
+['NINGUNA']
+[]
+U+7E38
+16
+mù
+120.11
+縸.mp3
+
+縹
+['light blue silk', ' dim', ' misty']
+['seda azul claro', 'No', 'brumoso']
+['https://media.gettyimages.com/photos/abstract-light-blue-background-textured-effectxxxl-picture-id157686859?k=6&m=157686859&s=612x612&w=0&h=RBdqGl_unSf5bGySmb1_GWAsqYOh74Ee902F8MBxQHk=', 'https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=', 'https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=']
+U+7E39
+17
+piǎo
+120.11
+縹.mp3
+
+縺
+['to tangle, knot, kink, get twisted', ' to get complicated']
+['enredar, anudar, retorcer, retorcer', 'complicarse']
+['NONE', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+7E3A
+16
+lián
+120.11
+縺.mp3
+
+縻
+['halter for ox', ' tie up, harness']
+['cabestro para buey', 'atar, arnés']
+['https://media.gettyimages.com/photos/ox-looking-out-from-barn-window-picture-id520443788?k=6&m=520443788&s=612x612&w=0&h=bMb0cceZPmUwkr6NT2dVF_58vWt2CAxZMrEvWiVmEyc=', 'https://media.gettyimages.com/photos/climbing-picture-id108442013?k=6&m=108442013&s=612x612&w=0&h=egVuM7Ez_n0PT325bThEK-orm6VLDa0frByCmFgyKzc=']
+U+7E3B
+17
+mí
+120.11
+縻.mp3
+
+縼
+['NONE']
+['NINGUNA']
+[]
+U+7E3C
+17
+xuàn
+120.11
+縼.mp3
+
+總
+['collect', ' overall, altogether']
+['recoger', 'en general, en conjunto']
+['https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=', 'https://media.gettyimages.com/photos/portrait-of-3-cool-kids-together-on-blue-backdrop-in-summer-picture-id1013511978?k=6&m=1013511978&s=612x612&w=0&h=1Audvj2Tp1Cfk4Qoj2V5taUoO5zoS1Huchyw1b-dtr0=']
+U+7E3D
+17
+zǒng
+120.11
+總.mp3
+
+績
+['spin', ' achievements']
+['girar', 'logros']
+['https://media.gettyimages.com/photos/embrace-the-power-of-a-bike-picture-id820404152?k=6&m=820404152&s=612x612&w=0&h=fA2GCph0K1S3q2nlhsja8PQ-Rs1eBmBkwg7ZS1xkTXw=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+7E3E
+17
+jī
+120.11
+績.mp3
+
+縿
+['streamer']
+['serpentina']
+['https://media.gettyimages.com/photos/curled-pink-ribbons-on-a-white-background-picture-id170647690?k=6&m=170647690&s=612x612&w=0&h=hvJHopoYZBwt6f7Dc5RdAtYz5DuIlETVVcVmAh3Tbcs=']
+U+7E3F
+17
+shān
+120.11
+縿.mp3
+
+繀
+['NONE']
+['NINGUNA']
+[]
+U+7E40
+17
+suì
+120.11
+繀.mp3
+
+繁
+['complicated, complex, difficult']
+['complicado, complejo, difícil']
+['https://media.gettyimages.com/photos/confused-businessman-staring-at-scribble-on-wall-picture-id469328524?k=6&m=469328524&s=612x612&w=0&h=d817ditsy6Sohq8_KDPrBlOc1sGcPm_4AvmnNwA6SNw=']
+U+7E41
+17
+fán
+120.11
+繁.mp3
+
+繂
+['to let down slowly']
+['decepcionar lentamente']
+['NONE']
+U+7E42
+17
+lǜ
+120.11
+繂.mp3
+
+繃
+['bind, draw firmly, strap']
+['atar, tirar firmemente, atar']
+['NONE']
+U+7E43
+17
+běng bēng
+120.11
+繃.mp3
+
+繄
+['be', ' particle', ' sigh, alas']
+['ser', 'partícula', 'Suspiro, ay']
+['https://media.gettyimages.com/photos/blank-billboard-on-the-highway-during-the-twilight-with-city-with-picture-id1195818240?k=6&m=1195818240&s=612x612&w=0&h=BtKwo4aVfC0xAGANrcaXCqtawXTUW7MLeEaU0lp2dgE=', 'https://media.gettyimages.com/photos/particle-wave-picture-id1017380290?k=6&m=1017380290&s=612x612&w=0&h=h6w0evNISH3FYjKV8Arikjfy_4w4fiqSKiKjwzJcFWw=', 'https://media.gettyimages.com/vectors/technology-light-bulb-vector-id455461743?k=6&m=455461743&s=612x612&w=0&h=6ofh8O-HEvxoy0TxNpA4uYZccas_qR40YBh9XTkcqCQ=']
+U+7E44
+17
+yī
+120.11
+繄.mp3
+
+繅
+['draw, reel silk from cocoons', ' elegant compositions']
+['dibujar, enrollar la seda de los capullos', 'composiciones elegantes']
+['NONE', 'https://media.gettyimages.com/photos/close-up-view-at-compositions-of-fresh-orange-cut-for-buffet-picture-id1161948004?k=6&m=1161948004&s=612x612&w=0&h=QvqmeAJrQ1T1xKls1rzONOpeJaVceYdee2pFjHtFq3A=']
+U+7E45
+17
+sāo
+120.11
+繅.mp3
+
+繆
+['wind around, bind', ' prepare']
+['enrollar, atar', 'preparar']
+['https://media.gettyimages.com/photos/friends-laughing-looking-out-of-window-of-car-picture-id649063551?k=6&m=649063551&s=612x612&w=0&h=wcZdd2NXQyW0cdBLBZW38XRXKDHter-MZEXzBrQLToM=', 'https://media.gettyimages.com/photos/woman-doing-finances-at-home-picture-id1172587378?k=6&m=1172587378&s=612x612&w=0&h=YHXfw7WeEBGGI9bPL7M7DxQ5XASl4FVRiJXfLZAJU_k=']
+U+7E46
+17
+móu
+120.11
+繆.mp3
+
+繇
+['reason, cause']
+['razón, causa']
+['https://media.gettyimages.com/photos/men-in-a-support-group-picture-id1048189202?k=6&m=1048189202&s=612x612&w=0&h=PTF-B9IJeJZEUuuDhMhxnTNsXiVVVbv9_4go3yKtUrE=']
+U+7E47
+17
+yáo
+120.11
+繇.mp3
+
+繈
+['string of copper coins', ' swaddling clothes']
+['cadena de monedas de cobre', 'pañales']
+['https://media.gettyimages.com/photos/coin-wrapped-with-string-suspended-in-air-closeup-picture-id200555058-002?k=6&m=200555058-002&s=612x612&w=0&h=PFIU_MAdCrb0gO-z7AHh02gTuY8eiCRon77YzgQdR_o=', 'https://media.gettyimages.com/photos/hispanic-baby-wrapped-in-pink-blanket-picture-id81387429?k=6&m=81387429&s=612x612&w=0&h=8xlUaj7tvr3MYUPGX_Yu_tcQnYng1oZPcIZjKCOvNSo=']
+U+7E48
+17
+qiǎng
+120.12
+繈.mp3
+
+繉
+['NONE']
+['NINGUNA']
+[]
+U+7E49
+17
+hún
+120.11
+繉.mp3
+
+繊
+['fine, delicate', ' minute', ' graceful']
+['fino, delicado', 'minuto', 'agraciado']
+['https://media.gettyimages.com/photos/air-plant-in-a-pendant-picture-id1011456118?k=6&m=1011456118&s=612x612&w=0&h=MU7kBPScshX2JiDiU8PM6nczuU7oQCmpu1zIerAo9bE=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'https://media.gettyimages.com/photos/feelings-for-my-soul-picture-id637492768?k=6&m=637492768&s=612x612&w=0&h=RQYaI5a8Zxyw_iYAL0mh_2UeS3kQDixJToj2iHyNY1I=']
+U+7E4A
+17
+xiān
+120.11
+繊.mp3
+
+繋
+['attach, connect, unite, fasten']
+['adjuntar, conectar, unir, sujetar']
+['https://media.gettyimages.com/photos/partnership-unity-teamwork-picture-id175417286?k=6&m=175417286&s=612x612&w=0&h=9IeQe67Fg7MYO04MyQa82LL1cdk2gmmtlx_h98m52JM=']
+U+7E4B
+17
+jì
+120.13
+繋.mp3
+
+繌
+['NONE']
+['NINGUNA']
+[]
+U+7E4C
+17
+sha
+120.11
+繌.mp3
+
+繍
+['embroider', ' embroidery', ' ornament']
+['bordar', 'bordado', 'ornamento']
+['https://media.gettyimages.com/photos/young-groom-in-tang-suit-holding-a-embroider-ball-picture-id642107263?k=6&m=642107263&s=612x612&w=0&h=PjmZxchk6f3Uhn6Sl42yOxdACbKVxnQCbQHpP6ByBTQ=', 'https://media.gettyimages.com/photos/japans-flag-patch-picture-id182912892?k=6&m=182912892&s=612x612&w=0&h=PypLk58U9THWLwVGM123ALnBXGXxM4TBq2iHFfRRAPc=', 'https://media.gettyimages.com/photos/christmas-ball-picture-id184966410?k=6&m=184966410&s=612x612&w=0&h=yK7lLeMGiTpNfEEUfecjsOqAzFcON1YwPR8z1VeSKM0=']
+U+7E4D
+17
+xiù
+120.11
+繍.mp3
+
+繎
+['NONE']
+['NINGUNA']
+[]
+U+7E4E
+18
+rán
+120.12
+繎.mp3
+
+繏
+['NONE']
+['NINGUNA']
+[]
+U+7E4F
+18
+xuàn
+120.12
+繏.mp3
+
+繐
+['fine cloth']
+['paño fino']
+['https://media.gettyimages.com/photos/raw-cotton-texture-picture-id1024613722?k=6&m=1024613722&s=612x612&w=0&h=J2heE6kdHR3ICEys-sFNy0nf-58EDCcAJ2mzYtgjSK4=']
+U+7E50
+18
+suì
+120.12
+繐.mp3
+
+繑
+['to wind (as a spring)']
+['to wind (como un resorte)']
+['https://media.gettyimages.com/photos/closeup-image-of-a-vibrant-red-spring-flowering-anemone-coronaria-de-picture-id860414288?k=6&m=860414288&s=612x612&w=0&h=BPU_SSweQGr8ffAuHciTZ9udiBp5DyVxRKpXasOy5vY=']
+U+7E51
+18
+qiāo
+120.12
+繑.mp3
+
+繒
+['silk fabrics', ' surname']
+['tejidos de seda', 'apellido']
+['https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+7E52
+18
+zēng
+120.12
+繒.mp3
+
+繓
+['NONE']
+['NINGUNA']
+[]
+U+7E53
+18
+zuǒ
+120.12
+繓.mp3
+
+織
+['weave, knit', ' organize, unite']
+['tejer', 'organizar, unir']
+['https://media.gettyimages.com/photos/fabric-cloth-picture-id183233168?k=6&m=183233168&s=612x612&w=0&h=lN-UilVKD4NwwoNAznUApRrryyOrCZx5Ejf_kCVaCSI=', 'https://media.gettyimages.com/photos/sea-of-hands-picture-id857146092?k=6&m=857146092&s=612x612&w=0&h=f20YK04UbUf8ceD423WwhB1Bm8y1QbnMliDzIBf32Kg=']
+U+7E54
+18
+zhī
+120.12
+織.mp3
+
+繕
+['repair, mend', ' rewrite, transcribe']
+['reparar, reparar', 'reescribir, transcribir']
+['https://media.gettyimages.com/photos/young-man-fixing-a-leak-under-the-bathroom-sink-picture-id1146120013?k=6&m=1146120013&s=612x612&w=0&h=NbTRJgT31dTZVMN0KfRFU7Fr8PPeNiAbJNqf3XoZHrs=', 'https://media.gettyimages.com/photos/old-remington-typewriter-picture-id157283462?k=6&m=157283462&s=612x612&w=0&h=JVKMT_eLlzWsQhBAGSIxwfoQDJIogKtv5kS_QQvGU5Y=']
+U+7E55
+18
+shàn
+120.12
+繕.mp3
+
+繖
+['umbrella, parasol, parachute']
+['paraguas, sombrilla, paracaídas']
+['https://media.gettyimages.com/vectors/financial-crisis-vector-id598143864?k=6&m=598143864&s=612x612&w=0&h=sFQ9M-o0sBAl4sBFzdRYqyqtTXbCV68MdjbMO1trcVw=']
+U+7E56
+18
+sǎn
+120.12
+繖.mp3
+
+繗
+['NONE']
+['NINGUNA']
+[]
+U+7E57
+18
+lín
+120.12
+繗.mp3
+
+繘
+['rope']
+['cuerda']
+['https://media.gettyimages.com/photos/ropes-picture-id155277565?k=6&m=155277565&s=612x612&w=0&h=0c8DYvRHsMZimdPR5atVy4ClB93ppRtpDG7sQDikCVg=']
+U+7E58
+18
+yù
+120.12
+繘.mp3
+
+繙
+['to interpret', ' to flap, flutter in the wind']
+['interpretar', 'aletear, aletear en el viento']
+['https://media.gettyimages.com/photos/businessman-using-computer-picture-id1129171241?k=6&m=1129171241&s=612x612&w=0&h=Y0Fo3TmZhiOFi3LuFJ0DicnHGuRXEcoFINNGruZepgY=', 'https://media.gettyimages.com/photos/seagull-fishing-picture-id521002575?k=6&m=521002575&s=612x612&w=0&h=HHyUHfU80lpTvYSzWIyyvC0pr5BOM6DIVXvyQ2PtERc=']
+U+7E59
+18
+fān
+120.12
+繙.mp3
+
+繚
+['wind round, rap around, bind']
+['enrollar, envolver, atar']
+['NONE']
+U+7E5A
+18
+liáo
+120.12
+繚.mp3
+
+繛
+['NONE']
+['NINGUNA']
+[]
+U+7E5B
+18
+chuò
+120.12
+繛.mp3
+
+繜
+['NONE']
+['NINGUNA']
+[]
+U+7E5C
+18
+zūn
+120.12
+繜.mp3
+
+繝
+['NONE']
+['NINGUNA']
+[]
+U+7E5D
+18
+jiàn
+120.12
+繝.mp3
+
+繞
+['entwine', ' wind around', ' surround']
+['entrelazar', 'viento alrededor', 'rodear']
+['https://media.gettyimages.com/photos/rope-picture-id174903472?k=6&m=174903472&s=612x612&w=0&h=BBfLQanhgQq_6A7cIelkmVjn9GKpEHFJQiYFrD30cXo=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/human-crowd-surrounding-three-people-on-white-background-picture-id1181760380?k=6&m=1181760380&s=612x612&w=0&h=JHPuWXN7ABxU8jG-niKdEoTgQSEOQ8yBduLY2Ao712I=']
+U+7E5E
+18
+rào
+120.12
+繞.mp3
+
+繟
+['NONE']
+['NINGUNA']
+[]
+U+7E5F
+18
+chǎn
+120.12
+繟.mp3
+
+繠
+['hang']
+['colgar']
+['https://media.gettyimages.com/photos/old-weathered-white-wood-signboard-picture-id157739459?k=6&m=157739459&s=612x612&w=0&h=7g33mpTBA65XQWXiS2y00B1qdz8PeavaxneqWgTT86U=']
+U+7E60
+18
+ruǐ
+120.12
+繠.mp3
+
+繡
+['embroider', ' embroidery', ' ornament']
+['bordar', 'bordado', 'ornamento']
+['https://media.gettyimages.com/photos/young-groom-in-tang-suit-holding-a-embroider-ball-picture-id642107263?k=6&m=642107263&s=612x612&w=0&h=PjmZxchk6f3Uhn6Sl42yOxdACbKVxnQCbQHpP6ByBTQ=', 'https://media.gettyimages.com/photos/japans-flag-patch-picture-id182912892?k=6&m=182912892&s=612x612&w=0&h=PypLk58U9THWLwVGM123ALnBXGXxM4TBq2iHFfRRAPc=', 'https://media.gettyimages.com/photos/christmas-ball-picture-id184966410?k=6&m=184966410&s=612x612&w=0&h=yK7lLeMGiTpNfEEUfecjsOqAzFcON1YwPR8z1VeSKM0=']
+U+7E61
+19
+xiù
+120.12
+繡.mp3
+
+繢
+['draw, sketch, paint']
+['dibujar, dibujar, pintar']
+['https://media.gettyimages.com/vectors/grunge-brush-strokes-vector-id166080183?k=6&m=166080183&s=612x612&w=0&h=G58Y4vQmPi8gIhFkm8droV-IgU2Ssk-l-ppRuZz6dsE=']
+U+7E62
+18
+huì
+120.12
+繢.mp3
+
+繣
+['obstinate', ' perverse']
+['obstinado', 'perverso']
+['https://media.gettyimages.com/photos/man-pulling-stubborn-donkey-picture-id97639598?k=6&m=97639598&s=612x612&w=0&h=SOf61p5UWh9vp1IZxYZubIgcXxYrWVhBPqFeAFwvdXU=', 'https://media.gettyimages.com/photos/possessed-do-you-believe-in-devil-picture-id157282842?k=6&m=157282842&s=612x612&w=0&h=x8q-Xtz9IudmFe39SLJIrfDNml-LHfbJ1OJtYf3gpEo=']
+U+7E63
+18
+huà
+120.12
+繣.mp3
+
+繤
+['edit']
+['editar']
+['https://media.gettyimages.com/vectors/graphic-design-pixel-perfect-icons-vector-id815767976?k=6&m=815767976&s=612x612&w=0&h=jiXtuVImTqJlv5fr8nhL1UR2HRhYRPlc3v7J2ts7xhA=']
+U+7E64
+17
+zuǎn
+120.12
+繤.mp3
+
+繥
+['NONE']
+['NINGUNA']
+[]
+U+7E65
+18
+xī
+120.12
+繥.mp3
+
+繦
+['string of copper coins', ' swaddling']
+['cadena de monedas de cobre', 'envolver']
+['https://media.gettyimages.com/photos/coin-wrapped-with-string-suspended-in-air-closeup-picture-id200555058-002?k=6&m=200555058-002&s=612x612&w=0&h=PFIU_MAdCrb0gO-z7AHh02gTuY8eiCRon77YzgQdR_o=', 'https://media.gettyimages.com/photos/hispanic-baby-wrapped-in-pink-blanket-picture-id81387429?k=6&m=81387429&s=612x612&w=0&h=8xlUaj7tvr3MYUPGX_Yu_tcQnYng1oZPcIZjKCOvNSo=']
+U+7E66
+18
+qiǎng
+120.13
+繦.mp3
+
+繧
+['NONE']
+['NINGUNA']
+[]
+U+7E67
+18
+yun
+120.12
+繧.mp3
+
+繨
+['a knot (of a rope)']
+['a knot (de una cuerda)']
+['https://media.gettyimages.com/photos/knotted-rope-picture-id175501983?k=6&m=175501983&s=612x612&w=0&h=lAbqWb6Ovvq5MT_qiFetlyBScciEaDWvxE70TzcIIX8=']
+U+7E68
+18
+da
+120.13
+繨.mp3
+
+繩
+['rope, string, cord', ' measure, restrain']
+['cuerda, cuerda, cuerda', 'medir, frenar']
+['https://media.gettyimages.com/photos/individual-strands-join-to-form-one-fabric-network-business-family-picture-id170224184?k=6&m=170224184&s=612x612&w=0&h=vR0JddJPjsRDMajT4D7WTjyxBl8KxrHhsSSLNPMPkYs=', 'NONE']
+U+7E69
+19
+shéng
+120.13
+繩.mp3
+
+繪
+['draw, sketch, paint']
+['dibujar, dibujar, pintar']
+['https://media.gettyimages.com/vectors/grunge-brush-strokes-vector-id166080183?k=6&m=166080183&s=612x612&w=0&h=G58Y4vQmPi8gIhFkm8droV-IgU2Ssk-l-ppRuZz6dsE=']
+U+7E6A
+19
+huì
+120.13
+繪.mp3
+
+繫
+['attach, connect, unite, fasten']
+['adjuntar, conectar, unir, sujetar']
+['https://media.gettyimages.com/photos/partnership-unity-teamwork-picture-id175417286?k=6&m=175417286&s=612x612&w=0&h=9IeQe67Fg7MYO04MyQa82LL1cdk2gmmtlx_h98m52JM=']
+U+7E6B
+19
+xì
+120.13
+繫.mp3
+
+繬
+['NONE']
+['NINGUNA']
+[]
+U+7E6C
+19
+sè
+120.13
+繬.mp3
+
+繭
+['cocoon', ' callus, blister']
+['capullo', 'callo, ampolla']
+['https://media.gettyimages.com/photos/sunlight-living-room-picture-id1134293954?k=6&m=1134293954&s=612x612&w=0&h=ldmgckQPxiYiRRT8rMUv2zfdzdLfWOGXcWLD9ziE8tM=', 'NONE']
+U+7E6D
+18
+jiǎn
+120.13
+繭.mp3
+
+繮
+['reins, bridle']
+['riendas, brida']
+['https://media.gettyimages.com/photos/woman-caring-for-horse-picture-id83163407?k=6&m=83163407&s=612x612&w=0&h=fArUw-1_HBxXRm9YuV8n5SRZd5waK76XfYMK8i3hIrQ=']
+U+7E6E
+19
+jiāng
+120.13
+繮.mp3
+
+繯
+['noose', ' hang death', ' tie, bind']
+['lazo', 'colgar la muerte', 'atar, atar']
+['https://media.gettyimages.com/photos/noose-picture-id96808933?k=6&m=96808933&s=612x612&w=0&h=3yBHFJNTPqzkDgduwL93egmg-xr2waNi8qmoS2VKfiw=', 'https://media.gettyimages.com/photos/low-angle-view-of-rope-hanging-on-ceiling-picture-id928932136?k=6&m=928932136&s=612x612&w=0&h=eUHp6Ko6UarwzjuSUpANayixGkf136gJYg-RSZUQOSM=', 'https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=']
+U+7E6F
+19
+huán
+120.13
+繯.mp3
+
+繰
+['to reel silk from cocoons']
+['para enrollar la seda de los capullos']
+['https://media.gettyimages.com/photos/closeup-of-silk-reeling-in-factory-picture-id603144035?k=6&m=603144035&s=612x612&w=0&h=BQnbTviYrYCTGpF0SH5YqEJeHD__an0NZCOfQZeSHWI=']
+U+7E70
+19
+zǎo
+120.13
+繰.mp3
+
+繱
+['NONE']
+['NINGUNA']
+[]
+U+7E71
+18
+cōng
+120.12
+繱.mp3
+
+繲
+['to work as a tailor, and do washing-for a living']
+['trabajar como sastre, y lavar para ganarse la vida']
+['NONE']
+U+7E72
+19
+xiè
+120.13
+繲.mp3
+
+繳
+['deliver, submit', ' hand over']
+['entregar, enviar', 'entregar']
+['https://media.gettyimages.com/photos/business-men-handshaking-for-the-deal-in-a-financial-district-picture-id165788264?k=6&m=165788264&s=612x612&w=0&h=0EbHPGJybDFZnCl9zzNGAZM1IMrZX12DH09M0DlYXTk=', 'https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=']
+U+7E73
+19
+jiǎo
+120.13
+繳.mp3
+
+繴
+['a kind of fishing-net']
+['una especie de red de pesca']
+['NONE']
+U+7E74
+19
+bì
+120.13
+繴.mp3
+
+繵
+['NONE']
+['NINGUNA']
+[]
+U+7E75
+19
+dàn
+120.13
+繵.mp3
+
+繶
+['NONE']
+['NINGUNA']
+[]
+U+7E76
+19
+yì
+120.13
+繶.mp3
+
+繷
+['NONE']
+['NINGUNA']
+[]
+U+7E77
+19
+nǒng
+120.13
+繷.mp3
+
+繸
+['hem or border of a garment', ' tassel']
+['dobladillo o borde de una prenda', 'borla']
+['https://media.gettyimages.com/photos/closeup-of-a-blank-white-clothing-label-picture-id175481578?k=6&m=175481578&s=612x612&w=0&h=VwfbQkJ55wDD9EbiEd9lwp7HG2cwlg7D9yreGQaizuc=', 'https://media.gettyimages.com/photos/gold-isolated-tassel-picture-id183273158?k=6&m=183273158&s=612x612&w=0&h=z4L13kn9FGoO3baeneaZfkUEk8tApLaWCBZckl9x6Aw=']
+U+7E78
+18
+suì
+120.13
+繸.mp3
+
+繹
+['to unravel or unreel silk', ' to interpret, explain']
+['desenredar o desenrollar seda', 'interpretar, explicar']
+['https://media.gettyimages.com/photos/original-cloth-picture-id135514262?k=6&m=135514262&s=612x612&w=0&h=I9abiRrRd_kfOf7epSZ1iImTNehOWJbXsE0bN0RPO5k=', 'https://media.gettyimages.com/photos/female-psychiatrist-discusses-something-with-female-patient-picture-id917744786?k=6&m=917744786&s=612x612&w=0&h=rkF-sfkjJaioEjYc5FvEQuYlsgdO57LfN5hjIBozoUQ=']
+U+7E79
+19
+yì
+120.13
+繹.mp3
+
+繺
+['NONE']
+['NINGUNA']
+[]
+U+7E7A
+19
+shǎi
+120.13
+繺.mp3
+
+繻
+['fine silk gauze', ' torn piece of silk']
+['gasa de seda fina', 'pedazo de seda rasgado']
+['NONE', 'https://media.gettyimages.com/photos/mexican-sewing-looms-picture-id889851462?k=6&m=889851462&s=612x612&w=0&h=Fkmuasm6yhV6MF01JWXwQL-N401A5dUSSzxZzsjcCoY=']
+U+7E7B
+20
+xū
+120.14
+繻.mp3
+
+繼
+['continue, maintain, carry on']
+['continuar, mantener, continuar']
+['https://media.gettyimages.com/vectors/disaster-recovery-plan-vector-id1219676005?k=6&m=1219676005&s=612x612&w=0&h=F6MDPLWhVP-Ecrmu-docGV9zCUPVGjJP3b5XZm8PzcQ=']
+U+7E7C
+20
+jì
+120.14
+繼.mp3
+
+繽
+['flourishing, thriving, abundant']
+['floreciente, próspera, abundante']
+['https://media.gettyimages.com/photos/crops-grow-on-fertile-farm-land-panoramic-before-harvest-picture-id937010674?k=6&m=937010674&s=612x612&w=0&h=CfpTzmFjHUK8K_cRSePnGpEQVOscfCiTsB1fuZkCL0s=']
+U+7E7D
+20
+bīn
+120.14
+繽.mp3
+
+繾
+['attached to, inseparable', ' entangled']
+['apegado a, inseparable', 'enredado']
+['https://media.gettyimages.com/photos/love-bird-portrait-picture-id1129380548?k=6&m=1129380548&s=612x612&w=0&h=BzLhMuw4A11HWlMB2jnKQcwkVRv0I7HuRriPSkUVQiQ=', 'https://media.gettyimages.com/photos/tangle-of-multi-colored-wire-picture-id492927271?k=6&m=492927271&s=612x612&w=0&h=-HB5hbwcniue19pIBdJU86CJlMT6-SqM168ZdZw4UVE=']
+U+7E7E
+19
+qiǎn
+120.14
+繾.mp3
+
+繿
+['(same as ']
+['(igual que']
+['https://media.gettyimages.com/vectors/red-and-black-aces-seamless-pattern-vector-id903522566?k=6&m=903522566&s=612x612&w=0&h=PbQ2nH9P03BuYDRKCWxUiOu5a3kNPj1mPRscZkxvVD8=']
+U+7E7F
+20
+lán
+120.14
+繿.mp3
+
+纀
+['NONE']
+['NINGUNA']
+[]
+U+7E80
+20
+pú
+120.14
+纀.mp3
+
+纁
+['light red, pink']
+['rojo claro, rosa']
+['https://media.gettyimages.com/vectors/landing-page-template-abstract-design-with-geometric-shapes-trendy-vector-id1180948837?k=6&m=1180948837&s=612x612&w=0&h=643mssAA3_iVneJOighflGCueYGG813ozeB_gRNWcOw=']
+U+7E81
+20
+xūn
+120.14
+纁.mp3
+
+纂
+['edit, compile', ' topknot, chignon']
+['editar, compilar', 'moño, moño']
+['NONE', 'https://media.gettyimages.com/photos/closeup-profile-of-pensive-young-woman-looking-away-picture-id916539896?k=6&m=916539896&s=612x612&w=0&h=xHW3L7V3-xYLoO_lgJu6iYU-4DtRjf3vk_jtxtdDrZ0=']
+U+7E82
+20
+zuǎn
+120.14
+纂.mp3
+
+纃
+['NONE']
+['NINGUNA']
+[]
+U+7E83
+20
+qí
+120.14
+纃.mp3
+
+纄
+['NONE']
+['NINGUNA']
+[]
+U+7E84
+19
+péng
+120.15
+纄.mp3
+
+纅
+['NONE']
+['NINGUNA']
+[]
+U+7E85
+21
+yào
+120.15
+纅.mp3
+
+纆
+['cord']
+['cable']
+['https://media.gettyimages.com/photos/closeup-of-a-server-network-panel-with-lights-and-cables-picture-id157647179?k=6&m=157647179&s=612x612&w=0&h=tNI5XfiuK8WdOXaaxyjwdBgwir6J6RFTVxD_HRUA4dg=']
+U+7E86
+21
+mò
+120.15
+纆.mp3
+
+纇
+['knot', ' blemish, flaw, wicked']
+['nudo', 'mancha, defecto, malvado']
+['https://media.gettyimages.com/photos/knotted-rope-picture-id175501983?k=6&m=175501983&s=612x612&w=0&h=lAbqWb6Ovvq5MT_qiFetlyBScciEaDWvxE70TzcIIX8=', 'NONE']
+U+7E87
+21
+lèi
+120.15
+纇.mp3
+
+纈
+['patterned silk', ' tie knot']
+['seda estampada', 'nudo de corbata']
+['https://media.gettyimages.com/vectors/soft-silk-satin-pink-background-vector-illustration-vector-id1159776728?k=6&m=1159776728&s=612x612&w=0&h=CE5xVB8Cpg_Of-urFHQQNYa10muYg2s1IjlCMG12Qso=', 'https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=']
+U+7E88
+21
+xié
+120.15
+纈.mp3
+
+纉
+['NONE']
+['NINGUNA']
+[]
+U+7E89
+21
+zuǎn
+120.15
+纉.mp3
+
+纊
+['cotton', ' silk']
+['algodón', 'seda']
+['https://media.gettyimages.com/photos/raw-cotton-crops-picture-id157742904?k=6&m=157742904&s=612x612&w=0&h=QVJB3kxPCaL_ewTBYlQGUklKenreI1SfX1ssPhozFfs=', 'https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=']
+U+7E8A
+20
+kuàng
+120.15
+纊.mp3
+
+纋
+['NONE']
+['NINGUNA']
+[]
+U+7E8B
+21
+yōu
+120.15
+纋.mp3
+
+續
+['continue, carry on', ' succeed']
+['continuar, continuar', 'tener éxito']
+['https://media.gettyimages.com/photos/balancing-balls-newtons-cradle-picture-id183417229?k=6&m=183417229&s=612x612&w=0&h=cKRf608yG2Rh8kP8g_6YhQtnYMIUOmI0rAit8CX4Aiw=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+7E8C
+21
+xù
+120.15
+續.mp3
+
+纍
+['bind, wind about', ' link, join']
+['atar, enrollar', 'enlace, unirse']
+['https://media.gettyimages.com/photos/friends-laughing-looking-out-of-window-of-car-picture-id649063551?k=6&m=649063551&s=612x612&w=0&h=wcZdd2NXQyW0cdBLBZW38XRXKDHter-MZEXzBrQLToM=', 'https://media.gettyimages.com/vectors/internet-marketing-icons-set-line-series-vector-id903358258?k=6&m=903358258&s=612x612&w=0&h=ltbnGoVMyNGe7i1kZx0JI2oXCmUCQl-VF0Ipc9Gga7g=']
+U+7E8D
+21
+léi
+120.15
+纍.mp3
+
+纎
+['fine, delicate', ' minute', ' graceful']
+['fino, delicado', 'minuto', 'agraciado']
+['https://media.gettyimages.com/photos/air-plant-in-a-pendant-picture-id1011456118?k=6&m=1011456118&s=612x612&w=0&h=MU7kBPScshX2JiDiU8PM6nczuU7oQCmpu1zIerAo9bE=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'https://media.gettyimages.com/photos/feelings-for-my-soul-picture-id637492768?k=6&m=637492768&s=612x612&w=0&h=RQYaI5a8Zxyw_iYAL0mh_2UeS3kQDixJToj2iHyNY1I=']
+U+7E8E
+21
+xiān
+120.15
+纎.mp3
+
+纏
+['wrap, wind around', ' tie, bind']
+['envolver, enrollar', 'atar, atar']
+['https://media.gettyimages.com/photos/coquette-picture-id175388956?k=6&m=175388956&s=612x612&w=0&h=-z-g0cCiRP5d0YimzV6CYJqy-EI6OtbFGe-FhuggRBs=', 'https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=']
+U+7E8F
+21
+chán
+120.15
+纏.mp3
+
+纐
+['NONE']
+['NINGUNA']
+[]
+U+7E90
+21
+jiǎo
+120.15
+纐.mp3
+
+纑
+['to soften hemp by boiling', ' thread']
+['ablandar el cáñamo hirviendo', 'hilo']
+['NONE', 'https://media.gettyimages.com/photos/needle-and-red-line-picture-id185231391?k=6&m=185231391&s=612x612&w=0&h=cup0oYOtncdJIEGo9JX0PF1oTQN6wQ13eayZv3LowJ4=']
+U+7E91
+22
+lú
+120.16
+纑.mp3
+
+纒
+['wrap, wind around', ' tie, bind']
+['envolver, enrollar', 'atar, atar']
+['https://media.gettyimages.com/photos/coquette-picture-id175388956?k=6&m=175388956&s=612x612&w=0&h=-z-g0cCiRP5d0YimzV6CYJqy-EI6OtbFGe-FhuggRBs=', 'https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=']
+U+7E92
+22
+chán
+120.16
+纒.mp3
+
+纓
+['a chin strap, tassel', ' to annoy, bother']
+['una correa para la barbilla, borla', 'molestar, molestar']
+['NONE', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+7E93
+23
+yīng
+120.17
+纓.mp3
+
+纔
+['talent, ability', ' just, only']
+['talento, habilidad', 'solo, solo']
+['https://media.gettyimages.com/vectors/teamwork-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1124263210?k=6&m=1124263210&s=612x612&w=0&h=PoQHKAtCBlbVHfMxH12TKbRU_C2FonE5pX8cHK48FIU=', 'https://media.gettyimages.com/photos/gavel-picture-id174197278?k=6&m=174197278&s=612x612&w=0&h=Q6EfAZkvopPQa8P-b71PeS_5YW5pkFgfvfqyvTrimlI=']
+U+7E94
+23
+cái
+120.17
+纔.mp3
+
+纕
+['belt']
+['cinturón']
+['https://media.gettyimages.com/photos/seat-belt-picture-id93354869?k=6&m=93354869&s=612x612&w=0&h=KUCvsN4NnBCWNilBpk1iCrUrzNkc9xKdurN3ojyzs6c=']
+U+7E95
+23
+rǎng
+120.17
+纕.mp3
+
+纖
+['fine, delicate', ' minute', ' graceful']
+['fino, delicado', 'minuto', 'agraciado']
+['https://media.gettyimages.com/photos/air-plant-in-a-pendant-picture-id1011456118?k=6&m=1011456118&s=612x612&w=0&h=MU7kBPScshX2JiDiU8PM6nczuU7oQCmpu1zIerAo9bE=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'https://media.gettyimages.com/photos/feelings-for-my-soul-picture-id637492768?k=6&m=637492768&s=612x612&w=0&h=RQYaI5a8Zxyw_iYAL0mh_2UeS3kQDixJToj2iHyNY1I=']
+U+7E96
+23
+xiān
+120.17
+纖.mp3
+
+纗
+['NONE']
+['NINGUNA']
+[]
+U+7E97
+24
+zuī
+120.18
+纗.mp3
+
+纘
+['continue, carry on, succeed']
+['continuar, continuar, tener éxito']
+['https://media.gettyimages.com/photos/aerial-view-of-a-rowing-boat-surrounded-by-classic-blue-water-picture-id1200412206?k=6&m=1200412206&s=612x612&w=0&h=aSwogc9ZJ3QH-U0UlMkjoR8P78SFfGhb26YYgkJkZVk=']
+U+7E98
+25
+zuǎn
+120.19
+纘.mp3
+
+纙
+['NONE']
+['NINGUNA']
+[]
+U+7E99
+25
+luò
+120.19
+纙.mp3
+
+纚
+['long', ' dangling', ' kerchief', ' rope']
+['largo', 'colgado', 'pañuelo', 'cuerda']
+['https://media.gettyimages.com/photos/portrait-of-confident-man-with-long-hair-picture-id985138682?k=6&m=985138682&s=612x612&w=0&h=cfHGi9Ed55pQGUbHX989mc38XMGCQ21wO2b5agmUMVg=', 'https://media.gettyimages.com/photos/old-weathered-white-wood-signboard-picture-id157739459?k=6&m=157739459&s=612x612&w=0&h=7g33mpTBA65XQWXiS2y00B1qdz8PeavaxneqWgTT86U=', 'https://media.gettyimages.com/photos/red-scarf-cut-out-on-white-picture-id113583618?k=6&m=113583618&s=612x612&w=0&h=ySbyfVGC4SVPb4piAonUhevPfO8WaRDMDmghy1Pu_kQ=', 'https://media.gettyimages.com/photos/ropes-picture-id155277565?k=6&m=155277565&s=612x612&w=0&h=0c8DYvRHsMZimdPR5atVy4ClB93ppRtpDG7sQDikCVg=']
+U+7E9A
+25
+lí
+120.19
+纚.mp3
+
+纛
+['a banner, a streamer']
+['una pancarta, una serpentina']
+['https://media.gettyimages.com/vectors/happy-new-year-2018-banners-vector-id856568882?k=6&m=856568882&s=612x612&w=0&h=L_Dr1QV3Ix1iFoyI-fPN2THtetRdxJmXjO0GASl24vA=']
+U+7E9B
+25
+dào
+120.19
+纛.mp3
+
+纜
+['hawser, heavy-duty rope, cable']
+['guinchero, cuerda para trabajo pesado, cable']
+['NONE']
+U+7E9C
+27
+lǎn
+120.21
+纜.mp3
+
+纝
+['NONE']
+['NINGUNA']
+[]
+U+7E9D
+27
+léi
+120.21
+纝.mp3
+
+纞
+['NONE']
+['NINGUNA']
+[]
+U+7E9E
+29
+liàn
+120.23
+纞.mp3
+
+纟
+['silk', ' KangXi radical 120']
+['seda', 'K Ang ξ radical 120']
+['https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=', 'NONE']
+U+7E9F
+3
+sī
+120'.0
+纟.mp3
+
+纠
+['investigate, inspect']
+['investigar, inspeccionar']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+7EA0
+5
+jiū
+120'.2
+纠.mp3
+
+纡
+['bend, turn, twist', ' distort']
+['doblar, girar, girar', 'distorsionar']
+['https://media.gettyimages.com/vectors/arrows-vector-id505393609?k=6&m=505393609&s=612x612&w=0&h=DUG8L772Z2ldIc1alLp7DplzBXy06JxaQeYy62AQ4bU=', 'https://media.gettyimages.com/photos/digital-television-glitch-pattern-picture-id953396796?k=6&m=953396796&s=612x612&w=0&h=6f_hDGRbSF0dMQ9rO5bxqqMuMX0-ncLZsCnOc2D5yZI=']
+U+7EA1
+6
+yū
+120'.3
+纡.mp3
+
+红
+['red, vermillion', ' blush, flush']
+['rojo, bermellón', 'rubor, rubor']
+['https://media.gettyimages.com/photos/arizona-page-paria-canyon-vermillion-cliffs-wilderness-coyote-buttes-picture-id709134799?k=6&m=709134799&s=612x612&w=0&h=xCN8fZuiTJt_9Aji4hWVbFHkyC9rX8pypsQhW5mAK4w=', 'https://media.gettyimages.com/vectors/feeling-sick-vector-id525952295?k=6&m=525952295&s=612x612&w=0&h=AmpqjvE4opy8swy20xPN4Yf2dors_kuQq7E18qAjL3I=']
+U+7EA2
+6
+hóng
+120'.3
+红.mp3
+
+纣
+['name of an emperor', ' saddle part']
+['nombre de un emperador', 'parte de la silla de montar']
+['https://media.gettyimages.com/photos/terracotta-warriors-picture-id157736183?k=6&m=157736183&s=612x612&w=0&h=_Z7ZiWxJgSgt1bBwsPHiWdlNEvawcXmw89uwqvLxYUM=', 'https://media.gettyimages.com/vectors/bicycle-parts-line-icons-vector-id1091449494?k=6&m=1091449494&s=612x612&w=0&h=_YYksctrcWOMkkCN3H9Z5VbZVfgLWpZ5glRVsOgG0ME=']
+U+7EA3
+6
+zhòu
+120'.3
+纣.mp3
+
+纤
+['fine, delicate', ' minute', ' graceful']
+['fino, delicado', 'minuto', 'agraciado']
+['https://media.gettyimages.com/photos/air-plant-in-a-pendant-picture-id1011456118?k=6&m=1011456118&s=612x612&w=0&h=MU7kBPScshX2JiDiU8PM6nczuU7oQCmpu1zIerAo9bE=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'https://media.gettyimages.com/photos/feelings-for-my-soul-picture-id637492768?k=6&m=637492768&s=612x612&w=0&h=RQYaI5a8Zxyw_iYAL0mh_2UeS3kQDixJToj2iHyNY1I=']
+U+7EA4
+6
+xiān
+120'.3
+纤.mp3
+
+纥
+['inferior silk', ' tassel, fringe']
+['seda inferior', 'borla, flecos']
+['https://media.gettyimages.com/photos/schreiendes-gesicht-hinter-schwarzen-latex-stoff-picture-id1077969166?k=6&m=1077969166&s=612x612&w=0&h=DlLJKgSQi2Dcj7K-bn_Svv_4-wh6JwmnoHQTo2bR5Y0=', 'https://media.gettyimages.com/photos/blank-banner-picture-id157284473?k=6&m=157284473&s=612x612&w=0&h=rLFwSolQYUq-hZgWaI81bWeuyiYQ8yOTT8IGNQ0D_lc=']
+U+7EA5
+6
+gē
+120'.3
+纥.mp3
+
+约
+['treaty, agreement, covenant']
+['tratado, acuerdo, pacto']
+['https://media.gettyimages.com/photos/toned-signature-picture-id183359112?k=6&m=183359112&s=612x612&w=0&h=gRxqe4ecSZkTQ-5avcdAe-Pqi4MlhPLqmYuJYg6VEdA=']
+U+7EA6
+6
+yuē
+120'.3
+约.mp3
+
+级
+['level, rank, class', ' grade']
+['nivel, rango, clase', 'grado']
+['NONE', 'https://media.gettyimages.com/photos/an-up-close-picture-of-report-card-grades-picture-id172413295?k=6&m=172413295&s=612x612&w=0&h=RPxdO9WGUkj2TX8PcalAvew0nv_DisTsaP1NlaykW8E=']
+U+7EA7
+6
+jí
+120'.3
+级.mp3
+
+纨
+['white silk, fine silk', ' gauze']
+['seda blanca, seda fina', 'gasa']
+['https://media.gettyimages.com/photos/raw-cotton-texture-picture-id1024613722?k=6&m=1024613722&s=612x612&w=0&h=J2heE6kdHR3ICEys-sFNy0nf-58EDCcAJ2mzYtgjSK4=', 'https://media.gettyimages.com/photos/bandage-background-picture-id172656310?k=6&m=172656310&s=612x612&w=0&h=RIINfSVpqN1P44keiFKlPorlqKrFcWF_mOrMqktNP2Y=']
+U+7EA8
+6
+wán
+120'.3
+纨.mp3
+
+纩
+['cotton', ' silk']
+['algodón', 'seda']
+['https://media.gettyimages.com/photos/raw-cotton-crops-picture-id157742904?k=6&m=157742904&s=612x612&w=0&h=QVJB3kxPCaL_ewTBYlQGUklKenreI1SfX1ssPhozFfs=', 'https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=']
+U+7EA9
+6
+kuàng
+120'.3
+纩.mp3
+
+纪
+['record, annal, historical account']
+['registro, annal, relato histórico']
+['NONE']
+U+7EAA
+6
+jì
+120'.3
+纪.mp3
+
+纫
+['thread needle, sew stitch, string']
+['aguja de hilo, coser puntada, hilo']
+['https://media.gettyimages.com/photos/needle-and-thread-picture-id184838523?k=6&m=184838523&s=612x612&w=0&h=XtEY5k0dXmhpaO4reaoElH1Wm9yraTECXQuPysbo6SM=']
+U+7EAB
+6
+rèn
+120'.3
+纫.mp3
+
+纬
+['woof', ' parallels of latitude']
+['guau', 'paralelos de latitud']
+['https://media.gettyimages.com/vectors/hearth-smiling-character-vector-id861008354?k=6&m=861008354&s=612x612&w=0&h=7246JtB2KjG_lZQV6uK-WPp4Iz_b_QXko64HnB1F-m8=', 'https://media.gettyimages.com/vectors/spinning-earth-globe-icon-set-latitude-15-n-view-vector-id153812732?k=6&m=153812732&s=612x612&w=0&h=rDI1zAApn4sftMchj82O9kLYB2csTAYilurAtrXgp1A=']
+U+7EAC
+7
+wěi
+120'.4
+纬.mp3
+
+纭
+['confused, in disorder', ' numerous']
+['confundido, en desorden', 'numeroso']
+['https://media.gettyimages.com/photos/human-head-with-tangled-wires-picture-id1171617600?k=6&m=1171617600&s=612x612&w=0&h=487JsEalhnIpQZgtDaJ7TCUkC61jqzvpuvQQatyG4Vw=', 'https://media.gettyimages.com/photos/numerous-seats-on-the-football-field-form-a-photographic-composition-picture-id1021637688?k=6&m=1021637688&s=612x612&w=0&h=6uLxWD8obMmftlQ2DbU1bDnwtNx4RXhsGDoYxddrLRU=']
+U+7EAD
+7
+yún
+120'.4
+纭.mp3
+
+纮
+['string', ' vast, expansive']
+['cuerda', 'vasto, expansivo']
+['https://media.gettyimages.com/photos/ropes-picture-id155277565?k=6&m=155277565&s=612x612&w=0&h=0c8DYvRHsMZimdPR5atVy4ClB93ppRtpDG7sQDikCVg=', 'https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=']
+U+7EAE
+7
+hóng
+120'.4
+纮.mp3
+
+纯
+['pure, clean, simple']
+['puro, limpio, simple']
+['https://media.gettyimages.com/photos/bowl-of-mashed-sweet-potato-picture-id690868048?k=6&m=690868048&s=612x612&w=0&h=4UAFoPkaQVrvxofN2CXBkaDQOlJmuBdmJbZGgKUdcJ0=']
+U+7EAF
+7
+chún
+120'.4
+纯.mp3
+
+纰
+['spoiled silk', ' hem of dress', ' mista']
+['seda estropeada', 'dobladillo del vestido', 'mezclado']
+['https://media.gettyimages.com/photos/abstract-background-from-corrugated-white-fabric-texture-picture-for-picture-id1211260983?k=6&m=1211260983&s=612x612&w=0&h=wMGGEFcQCwdcrbIqxZvhtv53nkh32vunDS-absp1jIs=', 'https://media.gettyimages.com/photos/seamstress-looks-at-dress-hem-picture-id81380554?k=6&m=81380554&s=612x612&w=0&h=f7E5dvndV6CjNsbJYmuN60D5p-7eutw8pZbrAtcTfH0=', 'https://media.gettyimages.com/photos/miguel-angel-ferrer-martinez-mista-of-valencia-legends-looks-on-prior-picture-id1138639100?k=6&m=1138639100&s=612x612&w=0&h=71RhLb0pLR7MQCSXruMInJx6uq_mYhAsBScqcgLzs84=']
+U+7EB0
+7
+pī
+120'.4
+纰.mp3
+
+纱
+['gauze, thin silk', ' yarn, thread']
+['gasa, seda fina', 'hilo, hilo']
+['NONE', 'https://media.gettyimages.com/photos/red-ball-of-wool-on-white-background-picture-id959911178?k=6&m=959911178&s=612x612&w=0&h=_Kwe9bVwGD0PiS6RFVCCd0iq6GnwvOY-SPDfegGi88o=']
+U+7EB1
+7
+shā
+120'.4
+纱.mp3
+
+纲
+['heavy rope, hawser', ' main points']
+['cuerda pesada', 'puntos principales']
+['NONE', 'https://media.gettyimages.com/vectors/computer-mouse-click-cursor-hand-touch-in-drawing-icon-vector-id1132046622?k=6&m=1132046622&s=612x612&w=0&h=b6rUNpHmthPORAc8BZghAVcPc7Xr-BTC4LZyjJSN_TI=']
+U+7EB2
+7
+gāng
+120'.4
+纲.mp3
+
+纳
+['admit, take, receive, accept']
+['admitir, tomar, recibir, aceptar']
+['https://media.gettyimages.com/photos/business-people-with-passport-at-airport-picture-id996797656?k=6&m=996797656&s=612x612&w=0&h=S1_iIWeoYx3gvYMVhVFTnSTUTmZMmKGIKUgLYU5DGVA=']
+U+7EB3
+7
+nà
+120'.4
+纳.mp3
+
+纴
+['weave, lay warp']
+['tejer, poner urdimbre']
+['NONE']
+U+7EB4
+7
+rèn
+120'.4
+纴.mp3
+
+纵
+['indulge in, give free reign to']
+['disfrutar, dar rienda suelta a']
+['NONE']
+U+7EB5
+7
+zòng
+120'.4
+纵.mp3
+
+纶
+['green silk thread or tassel']
+['hilo de seda verde o borla']
+['https://media.gettyimages.com/photos/green-silkclose-up-picture-id159406176?k=6&m=159406176&s=612x612&w=0&h=l7M1M5Fv1hQmSxTwxBx7kizmANPEjYdoXeqYxp-4M6Y=']
+U+7EB6
+7
+lún
+120'.3
+纶.mp3
+
+纷
+['in disorder, scattered, tangled']
+['en desorden, dispersos, enredados']
+['https://media.gettyimages.com/photos/human-head-with-tangled-wires-picture-id1171617600?k=6&m=1171617600&s=612x612&w=0&h=487JsEalhnIpQZgtDaJ7TCUkC61jqzvpuvQQatyG4Vw=']
+U+7EB7
+7
+fēn
+120'.4
+纷.mp3
+
+纸
+['paper']
+['papel']
+['https://media.gettyimages.com/photos/full-frame-shot-of-white-paper-picture-id1152160886?k=6&m=1152160886&s=612x612&w=0&h=bKhejx7FlVvziJP_si7x8XcTzCd9IKiCbZFmEiHr-_U=']
+U+7EB8
+7
+zhǐ
+120'.4
+纸.mp3
+
+纹
+['line, streak, stripe', ' wrinkle']
+['línea, racha, raya', 'arruga']
+['https://media.gettyimages.com/vectors/circle-editing-highlighting-hand-drawn-vector-id861325684?k=6&m=861325684&s=612x612&w=0&h=sl6fnowCT9BXXykyt25PZn8aDnc-n3GBkpFQunfbp_4=', 'https://media.gettyimages.com/photos/crushed-paper-picture-id483376851?k=6&m=483376851&s=612x612&w=0&h=IH9ji0ldCayQ9GAV6GoT-laxo0VVPcctrD4pgNs8Dc0=']
+U+7EB9
+7
+wén
+120'.4
+纹.mp3
+
+纺
+['spin, reel, weave', ' reeled pongee']
+['girar, enrollar, tejer', 'pongee enrollado']
+['https://media.gettyimages.com/photos/yarn-spinning-machine-picture-id171357988?k=6&m=171357988&s=612x612&w=0&h=SIUQCapRb9nlRqbILg4i0qDRS7_F_VyfPT69g5TLiiI=', 'NONE']
+U+7EBA
+7
+fǎng
+120'.4
+纺.mp3
+
+纻
+['ramie', ' sack cloth']
+['brazo', 'tela de saco']
+['https://media.gettyimages.com/illustrations/fiber-plants-wood-engravings-published-in-1878-illustration-id479845418?k=6&m=479845418&s=612x612&w=0&h=iNBwpQEc_hciqUm260j5x8Z1oWIHo43NfAGs4DY5hZA=', 'https://media.gettyimages.com/photos/burlap-fabric-with-wrinkles-wide-shot-full-frame-picture-id182174156?k=6&m=182174156&s=612x612&w=0&h=gRgbxa4u4JZhdDLNqjQMYEWJ4vDHiEk99pnCQJaJZck=']
+U+7EBB
+7
+zhù
+120'.4
+纻.mp3
+
+纼
+['a rope for leading cattle or horse']
+['una cuerda para guiar ganado o caballo']
+['https://media.gettyimages.com/photos/man-training-horse-on-rein-picture-id672158405?k=6&m=672158405&s=612x612&w=0&h=Z0DB53mZY9sgdfhlUJAnpONDOxHYZyU8Zk8BS5RjMko=']
+U+7EBC
+7
+zhèn
+120'.4
+纼.mp3
+
+纽
+['knot', ' button', ' handle, knob', ' tie']
+['nudo', 'botón', 'manija, perilla', 'Corbata']
+['https://media.gettyimages.com/photos/knotted-rope-picture-id175501983?k=6&m=175501983&s=612x612&w=0&h=lAbqWb6Ovvq5MT_qiFetlyBScciEaDWvxE70TzcIIX8=', 'https://media.gettyimages.com/vectors/modern-vector-collection-of-multimedia-web-elements-vector-id165954835?k=6&m=165954835&s=612x612&w=0&h=kQPEpfXFMsM4Ng6_TlUYe2Uda7vFMWzGmYIGc6cWyjk=', 'https://media.gettyimages.com/photos/old-door-knob-picture-id1124917032?k=6&m=1124917032&s=612x612&w=0&h=4yqgWAP5W0zoJnWxYqvXNJ-_ftivgmi9mKENdAQu8Gw=', 'https://media.gettyimages.com/photos/red-necktie-on-white-picture-id157180004?k=6&m=157180004&s=612x612&w=0&h=g-RkLkiaA1Hh4KLbEzIywLAjKKdzl_czM_z3XRlOLP4=']
+U+7EBD
+7
+niǔ
+120'.4
+纽.mp3
+
+纾
+['loosen, relax, relieve', ' extricate']
+['aflojar, relajar, aliviar', 'librar']
+['https://media.gettyimages.com/photos/woman-lying-in-beauty-esthetic-picture-id624496938?k=6&m=624496938&s=612x612&w=0&h=DuvftYeiATJlP079vpVFpI5W_cDLkUYogzdHXk5t4Io=', 'https://media.gettyimages.com/photos/animal-shelter-picture-id1172155138?k=6&m=1172155138&s=612x612&w=0&h=guf-TdT206nruZZQUH6YHzz9X16VTkVEGkm_RGBYcY8=']
+U+7EBE
+7
+shū
+120'.4
+纾.mp3
+
+线
+['line, thread, wire', ' clue']
+['línea, hilo, alambre', 'pista']
+['https://media.gettyimages.com/photos/individual-strands-join-to-form-one-fabric-network-business-family-picture-id170224184?k=6&m=170224184&s=612x612&w=0&h=vR0JddJPjsRDMajT4D7WTjyxBl8KxrHhsSSLNPMPkYs=', 'https://media.gettyimages.com/photos/doctor-in-protective-suit-opening-a-swab-picture-id1223774001?k=6&m=1223774001&s=612x612&w=0&h=FnY8gkG7BH-3gaUveG8bYHtMEhkA9mUwhZuXIE-AuHg=']
+U+7EBF
+8
+xiàn
+120'.5
+线.mp3
+
+绀
+['dark blue or reddish color']
+['color azul oscuro o rojizo']
+['https://media.gettyimages.com/vectors/abstract-blurred-background-defocused-blue-gradient-vector-id1190577138?k=6&m=1190577138&s=612x612&w=0&h=ozFIuZYkKl6eM9y1bCAhST1onTzEDI1vu6PJijHK08k=']
+U+7EC0
+8
+gàn
+120'.5
+绀.mp3
+
+绁
+['to contract, draw in, reduce, shorten']
+['contraer, dibujar, reducir, acortar']
+['https://media.gettyimages.com/photos/man-ready-to-write-something-in-a-white-paper-picture-id1277516615?k=6&m=1277516615&s=612x612&w=0&h=k80lrKKuF2cPhsnKeBkbck0HclgGOiFBXtOTnf0Xydg=']
+U+7EC1
+8
+xiè
+120'.5
+绁.mp3
+
+绂
+['ribbon or cord used attach ornaments']
+['cinta o cordón usado adjuntar adornos']
+['NONE']
+U+7EC2
+8
+fú
+120'.5
+绂.mp3
+
+练
+['to practice, drill, exercise, train']
+['practicar, perforar, ejercitarse, entrenar']
+['https://media.gettyimages.com/photos/sprinter-seen-from-above-with-shadow-and-copy-space-picture-id1139036092?k=6&m=1139036092&s=612x612&w=0&h=Kmx_6JRCvjiSrBhEbeEZm2v3vxVBoy2Qn3HIgznMJKM=']
+U+7EC3
+8
+liàn
+120'.5
+练.mp3
+
+组
+['class', ' section, department']
+['clase', 'sección, departamento']
+['https://media.gettyimages.com/photos/back-view-of-elementary-students-raising-their-arms-on-a-class-picture-id1000887536?k=6&m=1000887536&s=612x612&w=0&h=_766UYb-oBcmrJQfIn5RU6SWLhTVMLszO9JT5USUDQ0=', 'https://media.gettyimages.com/photos/business-people-finding-solution-together-at-office-picture-id639198068?k=6&m=639198068&s=612x612&w=0&h=e-sBUl4lCoxNs0w7VnBV7heiaB0ndwXVO4KzJA88yg8=']
+U+7EC4
+8
+zǔ
+120'.5
+组.mp3
+
+绅
+['girdle', ' tie, bind', ' gentry']
+['faja', 'atar, atar', 'alta burguesía']
+['https://media.gettyimages.com/photos/corset-for-backache-picture-id168365222?k=6&m=168365222&s=612x612&w=0&h=kvyhEvYdl2snE-bC5zS-VDNvr3Yfs3x7lZVd_BrHSPw=', 'https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=', 'https://media.gettyimages.com/photos/portrait-of-young-woman-looking-through-window-at-home-picture-id1210066655?k=6&m=1210066655&s=612x612&w=0&h=RVtMblmq7lkM48-Q9HqwiRFXvmSx33GGSMIMN4CM3S0=']
+U+7EC5
+8
+shēn
+120'.5
+绅.mp3
+
+细
+['fine, tiny', ' slender, thin']
+['bien, diminuto', 'delgado']
+['https://media.gettyimages.com/photos/mini-cooper-60s-picture-id184400651?k=6&m=184400651&s=612x612&w=0&h=Qnr9OLa83XXTtbrn0YWvMhUc58XlcpEvlEJECI9Xmqg=', 'https://media.gettyimages.com/photos/funny-sports-nerd-posing-with-thumbs-up-picture-id466306220?k=6&m=466306220&s=612x612&w=0&h=RIRBdHrWTj5ywlnhYvIPhg4UTt39t2AYYp4A1-kU_3o=']
+U+7EC6
+8
+xì
+120'.5
+细.mp3
+
+织
+['weave, knit', ' organize, unite']
+['tejer', 'organizar, unir']
+['https://media.gettyimages.com/photos/fabric-cloth-picture-id183233168?k=6&m=183233168&s=612x612&w=0&h=lN-UilVKD4NwwoNAznUApRrryyOrCZx5Ejf_kCVaCSI=', 'https://media.gettyimages.com/photos/sea-of-hands-picture-id857146092?k=6&m=857146092&s=612x612&w=0&h=f20YK04UbUf8ceD423WwhB1Bm8y1QbnMliDzIBf32Kg=']
+U+7EC7
+8
+zhī
+120'.5
+织.mp3
+
+终
+['end', ' finally, in the end']
+['fin', 'finalmente, al final']
+['https://media.gettyimages.com/photos/young-business-boy-wins-go-cart-race-picture-id959599356?k=6&m=959599356&s=612x612&w=0&h=Degbr43Lrgrj5stA6LTwV_k2covnqdnzM9QqJq2PhYA=', 'https://media.gettyimages.com/photos/the-end-of-school-year-is-finally-here-picture-id1093523258?k=6&m=1093523258&s=612x612&w=0&h=WnKPTqYPZGqgvxKGFngYLEn2ESj_NcLfpTQmGXbYT3U=']
+U+7EC8
+8
+zhōng
+120'.5
+终.mp3
+
+绉
+['crepe, crape, wrinkles, creases']
+['crepé, crespón, arrugas, pliegues']
+['NONE']
+U+7EC9
+8
+zhòu
+120'.5
+绉.mp3
+
+绊
+['loop, catch', ' fetter, shackle']
+['bucle, captura', 'grillete, grillete']
+['https://media.gettyimages.com/photos/hand-trying-to-catch-soap-bubbles-picture-id956487506?k=6&m=956487506&s=612x612&w=0&h=cQ_TSaK5brM9gldR3W55VO_QF67YqijcrLfCQFYk_1g=', 'NONE']
+U+7ECA
+8
+bàn
+120'.5
+绊.mp3
+
+绋
+['large rope', ' rope attached to bier']
+['cuerda grande', 'cuerda atada al féretro']
+['https://media.gettyimages.com/photos/manual-high-worker-offshore-climbing-down-from-windturbine-on-ladder-picture-id1065764774?k=6&m=1065764774&s=612x612&w=0&h=SwdlNV_iT8IZlmYzx129Fn3eWDcODlbZo38B8KfsNSY=', 'NONE']
+U+7ECB
+8
+fú
+120'.5
+绋.mp3
+
+绌
+['sew, stitch', ' insufficient']
+['coser, coser', 'insuficiente']
+['https://media.gettyimages.com/vectors/sewing-and-needlework-line-icons-vector-id1087227746?k=6&m=1087227746&s=612x612&w=0&h=_HXhqaQKoxNGX9kh8AFiXlzWvSGNc2Q-sY_2bWpIVtY=', 'https://media.gettyimages.com/photos/boy-wearing-short-jeans-low-section-picture-id73224063?k=6&m=73224063&s=612x612&w=0&h=UDfKCQeBg8Xh7QJ-7Tr-QzSwDjFPg3RsKcNcM1101Ho=']
+U+7ECC
+8
+chù
+120'.5
+绌.mp3
+
+绍
+['continue, carry on', ' join']
+['continuar, continuar', 'unirse']
+['https://media.gettyimages.com/photos/balancing-balls-newtons-cradle-picture-id183417229?k=6&m=183417229&s=612x612&w=0&h=cKRf608yG2Rh8kP8g_6YhQtnYMIUOmI0rAit8CX4Aiw=', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+7ECD
+8
+shào
+120'.5
+绍.mp3
+
+绎
+['to unravel or unreel silk', ' to interpret']
+['desenredar o desenrollar seda', 'interpretar']
+['https://media.gettyimages.com/photos/original-cloth-picture-id135514262?k=6&m=135514262&s=612x612&w=0&h=I9abiRrRd_kfOf7epSZ1iImTNehOWJbXsE0bN0RPO5k=', 'https://media.gettyimages.com/photos/businessman-using-computer-picture-id1129171241?k=6&m=1129171241&s=612x612&w=0&h=Y0Fo3TmZhiOFi3LuFJ0DicnHGuRXEcoFINNGruZepgY=']
+U+7ECE
+8
+yì
+120'.5
+绎.mp3
+
+经
+['classic works', ' pass through']
+['obras clásicas', 'pasar por']
+['https://media.gettyimages.com/photos/father-and-son-changing-a-tire-picture-id123495463?k=6&m=123495463&s=612x612&w=0&h=hZljGMXeU_5jEn8ALyLc9zgPWL8i0xxOeaTbubaBi88=', 'https://media.gettyimages.com/photos/close-up-of-exchanging-relay-baton-on-a-race-picture-id491468940?k=6&m=491468940&s=612x612&w=0&h=4YPrHAtX1Yp8Ht7Re5-R97Ax5op8VA6sFZNSwQhMew4=']
+U+7ECF
+8
+jīng
+120'.5
+经.mp3
+
+绐
+['cheat, fool, pretend']
+['engañar, engañar, fingir']
+['https://media.gettyimages.com/vectors/april-fools-day-typography-colorful-flat-design-stock-illustration-vector-id1215381011?k=6&m=1215381011&s=612x612&w=0&h=xS9tDz5DFDQF4C95x88-7mtlCEBNgy8Vl63al9K4naA=']
+U+7ED0
+8
+dài
+120'.5
+绐.mp3
+
+绑
+['bind, tie, fasten']
+['atar, atar, sujetar']
+['https://media.gettyimages.com/photos/connection-concepts-with-climbing-ropes-and-carabiners-picture-id1133638956?k=6&m=1133638956&s=612x612&w=0&h=O1LyG9Sg1o7wRuIm_sYhYyq2Ws4v5P_jsVTQr02GkKI=']
+U+7ED1
+9
+bǎng
+120'.6
+绑.mp3
+
+绒
+['silk, cotton, or woolen fabric']
+['tela de seda, algodón o lana']
+['https://media.gettyimages.com/photos/fabric-texture-background-picture-id599530918?k=6&m=599530918&s=612x612&w=0&h=8kSatUQ01Wm4nT0fB-rJzjId2w0QP4O14BQafYq1A8A=']
+U+7ED2
+9
+róng
+120'.6
+绒.mp3
+
+结
+['knot, tie', ' join, connect']
+['nudo, corbata', 'unirse, conectarse']
+['https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+7ED3
+9
+jié
+120'.6
+结.mp3
+
+绔
+['trousers']
+['pantalones']
+['https://media.gettyimages.com/photos/mens-clothing-isolated-on-white-background-picture-id895403704?k=6&m=895403704&s=612x612&w=0&h=NmT4fMUTQaHesiykjZ2t1ZWXHQTtJczmKzyIEs_FJPY=']
+U+7ED4
+9
+kù
+120'.6
+绔.mp3
+
+绕
+['entwine', ' wind around', ' surround']
+['entrelazar', 'viento alrededor', 'rodear']
+['https://media.gettyimages.com/photos/rope-picture-id174903472?k=6&m=174903472&s=612x612&w=0&h=BBfLQanhgQq_6A7cIelkmVjn9GKpEHFJQiYFrD30cXo=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/human-crowd-surrounding-three-people-on-white-background-picture-id1181760380?k=6&m=1181760380&s=612x612&w=0&h=JHPuWXN7ABxU8jG-niKdEoTgQSEOQ8yBduLY2Ao712I=']
+U+7ED5
+9
+rào
+120'.6
+绕.mp3
+
+绖
+['white hempen cloth worn by mourners']
+['paño de cáñamo blanco usado por los dolientes']
+['NONE']
+U+7ED6
+9
+dié
+120'.6
+绖.mp3
+
+绗
+['baste']
+['baste']
+['https://media.gettyimages.com/photos/close-up-of-unrecognizable-couple-preparing-thanksgiving-turkey-picture-id984008110?k=6&m=984008110&s=612x612&w=0&h=Ci5say5zQkR-8_bhpZU_Vk533x4v9PW1LpyLx3lUrAs=']
+U+7ED7
+9
+háng
+120'.6
+绗.mp3
+
+绘
+['draw, sketch, paint']
+['dibujar, dibujar, pintar']
+['https://media.gettyimages.com/vectors/grunge-brush-strokes-vector-id166080183?k=6&m=166080183&s=612x612&w=0&h=G58Y4vQmPi8gIhFkm8droV-IgU2Ssk-l-ppRuZz6dsE=']
+U+7ED8
+9
+huì
+120'.6
+绘.mp3
+
+给
+['give', ' by, for']
+['dar', 'por para']
+['https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=', 'https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=']
+U+7ED9
+9
+gěi
+120'.6
+给.mp3
+
+绚
+['variegated, adorned', ' brilliant']
+['abigarrado, adornado', 'brillante']
+['https://media.gettyimages.com/photos/portrait-of-young-adult-male-adorned-with-flowers-and-plants-picture-id1175571757?k=6&m=1175571757&s=612x612&w=0&h=5PymhXu3wwqmfvPai7t2KNgbx_d_AsNK3RSt7WZZbxQ=', 'https://media.gettyimages.com/vectors/teamwork-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1124263210?k=6&m=1124263210&s=612x612&w=0&h=PoQHKAtCBlbVHfMxH12TKbRU_C2FonE5pX8cHK48FIU=']
+U+7EDA
+9
+xuàn
+120'.6
+绚.mp3
+
+绛
+['deep red', ' river in Shanxi province']
+['color rojo oscuro', 'río en la provincia de Shanxi']
+['https://media.gettyimages.com/photos/abstract-particles-render-on-dark-background-graphic-and-motion-picture-id1022134070?k=6&m=1022134070&s=612x612&w=0&h=Wi1eN8oZV9DL5yF0gpFwCxse_JKJIf-sq5Yair3kOZQ=', 'https://media.gettyimages.com/vectors/hong-qiao-bridge-vector-id647040580?k=6&m=647040580&s=612x612&w=0&h=IiLK-OlzK3WsYEJIxmqaL-FKQ3m4_jGfgMTGnNMTL1c=']
+U+7EDB
+9
+jiàng
+120'.6
+绛.mp3
+
+络
+['enmesh, wrap around', ' web, net']
+['enredar, envolver', 'web, red']
+['NONE', 'https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=']
+U+7EDC
+9
+luò
+120'.6
+络.mp3
+
+绝
+['to cut, sever, break off, terminate']
+['cortar, cortar, romper, terminar']
+['NONE']
+U+7EDD
+9
+jué
+120'.6
+绝.mp3
+
+绞
+['twist, wring', ' intertwine', ' winch']
+['retorcer, retorcer', 'entrelazar', 'cabrestante']
+['https://media.gettyimages.com/vectors/big-hands-wringing-a-businessman-vector-id693928682?k=6&m=693928682&s=612x612&w=0&h=26qpOh96A5NnSuDsZoVcoT5Gu7_Io5FWb_rRk0Va7-w=', 'https://media.gettyimages.com/photos/two-gerbera-daisies-intertwined-picture-id103333011?k=6&m=103333011&s=612x612&w=0&h=o1JExhVPd9AknovqOXt6G5rmh6QWDc1Gs6e_t--XZro=', 'https://media.gettyimages.com/photos/sailor-winding-rope-on-winch-with-hands-picture-id1164848801?k=6&m=1164848801&s=612x612&w=0&h=ZRpUVygza3KxcW_x9-rBNxbKK10W_WOuM0H_SiMP_EI=']
+U+7EDE
+9
+jiǎo
+120'.6
+绞.mp3
+
+统
+['govern, command, control', ' unite']
+['gobernar, mandar, controlar', 'unido']
+['https://media.gettyimages.com/vectors/compliance-line-icon-set-vector-id1087301088?k=6&m=1087301088&s=612x612&w=0&h=-ONRgSYqz6EOBhdHwPe-4qPJX_jMRZ5NZzc13TPKXEI=', 'https://media.gettyimages.com/vectors/merge-arrows-infographic-vector-id1096774350?k=6&m=1096774350&s=612x612&w=0&h=SEvrlj6owHhIW0Mde_4AKfDi6p01-tWg34xVLvBmJgY=']
+U+7EDF
+9
+tǒng
+120'.6
+统.mp3
+
+绠
+['well rope']
+['bien cuerda']
+['https://media.gettyimages.com/vectors/health-and-fitness-doodles-vector-id165790574?k=6&m=165790574&s=612x612&w=0&h=R5iMaYRSBDSjBPZLXbcArpWJVDEYLerQ8YtsW7czaXo=']
+U+7EE0
+10
+gěng
+120'.7
+绠.mp3
+
+绡
+['raw silk fabric']
+['tela de seda cruda']
+['https://media.gettyimages.com/photos/raw-cotton-texture-picture-id1024613722?k=6&m=1024613722&s=612x612&w=0&h=J2heE6kdHR3ICEys-sFNy0nf-58EDCcAJ2mzYtgjSK4=']
+U+7EE1
+10
+xiāo
+120'.7
+绡.mp3
+
+绢
+['kind of thick stiff silk']
+['especie de seda gruesa y rígida']
+['NONE']
+U+7EE2
+10
+juàn
+120'.7
+绢.mp3
+
+绣
+['embroider', ' embroidery', ' ornament']
+['bordar', 'bordado', 'ornamento']
+['https://media.gettyimages.com/photos/young-groom-in-tang-suit-holding-a-embroider-ball-picture-id642107263?k=6&m=642107263&s=612x612&w=0&h=PjmZxchk6f3Uhn6Sl42yOxdACbKVxnQCbQHpP6ByBTQ=', 'https://media.gettyimages.com/photos/japans-flag-patch-picture-id182912892?k=6&m=182912892&s=612x612&w=0&h=PypLk58U9THWLwVGM123ALnBXGXxM4TBq2iHFfRRAPc=', 'https://media.gettyimages.com/photos/christmas-ball-picture-id184966410?k=6&m=184966410&s=612x612&w=0&h=yK7lLeMGiTpNfEEUfecjsOqAzFcON1YwPR8z1VeSKM0=']
+U+7EE3
+10
+xiù
+120'.7
+绣.mp3
+
+绤
+['cloth']
+['paño']
+['https://media.gettyimages.com/photos/canvas-texture-background-picture-id1129501532?k=6&m=1129501532&s=612x612&w=0&h=8wV2fx2-qIvGlwHb95_RFsqNTeYc0WUtwHImcOH3e3k=']
+U+7EE4
+10
+xì
+120'.7
+绤.mp3
+
+绥
+['soothe, appease, pacify']
+['calmar, apaciguar, pacificar']
+['NONE']
+U+7EE5
+10
+suí
+120'.7
+绥.mp3
+
+绦
+['silk cord, ribbon']
+['cordón de seda, cinta']
+['https://media.gettyimages.com/photos/golden-silk-thread-on-a-white-background-picture-id1192340589?k=6&m=1192340589&s=612x612&w=0&h=IQguvCNvqqM7MX_I8b3RqDuisFFHxyFdOA3Cg_uQBFQ=']
+U+7EE6
+10
+tāo
+120'.7
+绦.mp3
+
+继
+['continue, maintain, carry on']
+['continuar, mantener, continuar']
+['https://media.gettyimages.com/vectors/disaster-recovery-plan-vector-id1219676005?k=6&m=1219676005&s=612x612&w=0&h=F6MDPLWhVP-Ecrmu-docGV9zCUPVGjJP3b5XZm8PzcQ=']
+U+7EE7
+10
+jì
+120'.7
+继.mp3
+
+绨
+['coarse pongee, kind of heavy silk']
+['pongee grueso, especie de seda pesada']
+['NONE']
+U+7EE8
+10
+tí
+120'.7
+绨.mp3
+
+绩
+['spin', ' achievements']
+['girar', 'logros']
+['https://media.gettyimages.com/photos/embrace-the-power-of-a-bike-picture-id820404152?k=6&m=820404152&s=612x612&w=0&h=fA2GCph0K1S3q2nlhsja8PQ-Rs1eBmBkwg7ZS1xkTXw=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+7EE9
+11
+jī
+120'.8
+绩.mp3
+
+绪
+['end of thread', ' thread, clue']
+['fin del hilo', 'hilo, pista']
+['https://media.gettyimages.com/photos/rope-breaking-picture-id71273464?k=6&m=71273464&s=612x612&w=0&h=qudOnjmD4VQ1X-9sVuYfvdzBiSTh_k32tHc9Uf7XOVM=', 'https://media.gettyimages.com/photos/twine-clue-texture-picture-id987373858?k=6&m=987373858&s=612x612&w=0&h=Ys373T3TRFg_Uitr-6jI7VRFD2JYxEziHCuK4fyzRwU=']
+U+7EEA
+11
+xù
+120'.8
+绪.mp3
+
+绫
+['thin silk, damask silk']
+['seda fina, seda damasco']
+['NONE']
+U+7EEB
+11
+líng
+120'.8
+绫.mp3
+
+绬
+['NONE']
+['NINGUNA']
+[]
+U+7EEC
+11
+yīng
+120'.8
+绬.mp3
+
+续
+['continue, carry on', ' succeed']
+['continuar, continuar', 'tener éxito']
+['https://media.gettyimages.com/photos/balancing-balls-newtons-cradle-picture-id183417229?k=6&m=183417229&s=612x612&w=0&h=cKRf608yG2Rh8kP8g_6YhQtnYMIUOmI0rAit8CX4Aiw=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+7EED
+11
+xù
+120'.8
+续.mp3
+
+绮
+['fine thin silk', ' elegant, beautiful']
+['fina seda fina', 'elegante, hermoso']
+['NONE', 'https://media.gettyimages.com/photos/bohemian-living-room-interior-3d-render-picture-id1182454657?k=6&m=1182454657&s=612x612&w=0&h=dRk1Cc_hNhVLhppNDh8XA6AXvUiknl5TwFvAOrJAuag=']
+U+7EEE
+11
+qǐ
+120'.8
+绮.mp3
+
+绯
+['scarlet, dark red, crimson', ' purple']
+['escarlata, rojo oscuro, carmesí', 'púrpura']
+['https://media.gettyimages.com/vectors/dark-purple-abstract-technology-background-vector-id1144194317?k=6&m=1144194317&s=612x612&w=0&h=c5QDLLUqOhOhRrHCgDN-9bIQIg7fUnETC2XWbEaia2s=', 'https://media.gettyimages.com/vectors/abstract-red-light-trail-on-blue-background-vector-id958693744?k=6&m=958693744&s=612x612&w=0&h=8fxI021WWzfZyfu-inVXxR_dejuWCZtGTSSQ6ftg5p4=']
+U+7EEF
+11
+fēi
+120'.8
+绯.mp3
+
+绰
+['graceful, delicate', ' spacious']
+['elegante, delicado', 'espacioso']
+['https://media.gettyimages.com/photos/field-of-flowers-at-sunset-germany-picture-id870527424?k=6&m=870527424&s=612x612&w=0&h=iEubJJ10eBhtXuILNSUu_D7TaayGqMnueq1Qb4WKUrY=', 'https://media.gettyimages.com/photos/modern-living-room-with-dining-room-picture-id1089808216?k=6&m=1089808216&s=612x612&w=0&h=amG32g9liBOP_vIedxXM_8CpqxlXYd3puPlhEmiQmz0=']
+U+7EF0
+11
+chuò
+120'.8
+绰.mp3
+
+绱
+['the piece of leather used for soles on Chinese shoes', ' a patch']
+['la pieza de cuero que se usa para las suelas de los zapatos chinos', 'un parche']
+['NONE', 'https://media.gettyimages.com/photos/many-different-plasters-with-clipping-paths-picture-id157579299?k=6&m=157579299&s=612x612&w=0&h=ZZ0MW6fYooEzExCH_G3804xEPDNJoDT1mJFCxHw7EP0=']
+U+7EF1
+11
+shàng
+120'.8
+绱.mp3
+
+绲
+['cord', ' woven belt', ' hem', ' hemming']
+['cable', 'cinturón tejido', 'él', 'dobladillo']
+['https://media.gettyimages.com/photos/closeup-of-a-server-network-panel-with-lights-and-cables-picture-id157647179?k=6&m=157647179&s=612x612&w=0&h=tNI5XfiuK8WdOXaaxyjwdBgwir6J6RFTVxD_HRUA4dg=', 'https://media.gettyimages.com/photos/multicolored-abstract-of-a-oaxacan-textile-picture-id1068653908?k=6&m=1068653908&s=612x612&w=0&h=pPDydqukzH45dw2tT0sA4lLi1GtPJfSkbRnpZfoGBs8=', 'https://media.gettyimages.com/photos/cropped-view-of-woman-sewing-hem-on-quilt-picture-id692026513?k=6&m=692026513&s=612x612&w=0&h=EtmMp0vXEKEod2UqwQx64i0pvGoGnv8TkFGsvyEp_aQ=', 'https://media.gettyimages.com/photos/seamstress-hemming-dress-picture-id94740562?k=6&m=94740562&s=612x612&w=0&h=TXe40BFjaRtvnXbENf-Er0QLCjx8_eT-LKmuly3TKxM=']
+U+7EF2
+11
+gǔn
+120'.8
+绲.mp3
+
+绳
+['rope, string, cord', ' control']
+['cuerda, cuerda, cuerda', 'control']
+['https://media.gettyimages.com/photos/individual-strands-join-to-form-one-fabric-network-business-family-picture-id170224184?k=6&m=170224184&s=612x612&w=0&h=vR0JddJPjsRDMajT4D7WTjyxBl8KxrHhsSSLNPMPkYs=', 'https://media.gettyimages.com/photos/revolution-fist-raised-picture-id1006071592?k=6&m=1006071592&s=612x612&w=0&h=GGuVxtCAaILgJFEHMf9jIkWJgj7fGAgk0yUCAL6KSFk=']
+U+7EF3
+11
+shéng
+120'.8
+绳.mp3
+
+维
+['maintain, preserve, safeguard']
+['mantener, preservar, salvaguardar']
+['NONE']
+U+7EF4
+11
+wéi
+120'.8
+维.mp3
+
+绵
+['cotton wad', ' wool', ' soft, downy']
+['taco de algodón', 'lana', 'suave, velloso']
+['https://media.gettyimages.com/photos/white-bed-linen-picture-id185010136?k=6&m=185010136&s=612x612&w=0&h=KntdHh330ygQL4LzFFUYks3Y5pKH-PmdmvucoHpwCRg=', 'https://media.gettyimages.com/photos/knitted-wool-textile-background-picture-id182838404?k=6&m=182838404&s=612x612&w=0&h=opHUWfaCv4e-JEQNVAYD1MQvt4Q39ImFzW0Ch3gtXgY=', 'https://media.gettyimages.com/photos/pink-silk-background-picture-id175398143?k=6&m=175398143&s=612x612&w=0&h=WU0hHedKq7AP6yzLWzgBegp4cQfv3rm0sNcHw-pp_14=']
+U+7EF5
+11
+mián
+120'.8
+绵.mp3
+
+绶
+['silk ribbon attached as a seal']
+['cinta de seda unida como un sello']
+['NONE']
+U+7EF6
+11
+shòu
+120'.8
+绶.mp3
+
+绷
+['bind, draw firmly, strap']
+['atar, tirar firmemente, atar']
+['NONE']
+U+7EF7
+11
+bēng
+120'.8
+绷.mp3
+
+绸
+['silk cloth, satin damask']
+['tela de seda, damasco satinado']
+['https://media.gettyimages.com/photos/folds-in-silver-fabric-with-floral-pattern-closeup-full-frame-picture-id55992429?k=6&m=55992429&s=612x612&w=0&h=IPbhHVTxXCLlvgKpo7lNisjwmM4Kxb17bzsBwtA5LZ0=']
+U+7EF8
+11
+chóu
+120'.8
+绸.mp3
+
+绹
+['to braid, twist', ' twisted or braided']
+['trenzar, torcer', 'retorcido o trenzado']
+['https://media.gettyimages.com/photos/mother-styling-daughters-curly-hair-picture-id932451838?k=6&m=932451838&s=612x612&w=0&h=zaw9bND2GXgp4Z7xZh9ZejV_GHQxZ-T7vWNHv-iovyw=', 'https://media.gettyimages.com/photos/individual-strands-joining-together-as-team-family-business-or-picture-id170042070?k=6&m=170042070&s=612x612&w=0&h=1X4zyc-lpZ1IbDblnNE9XvMiHbbaUlKfmwWBfUzk0A0=']
+U+7EF9
+11
+táo
+120'.8
+绹.mp3
+
+绺
+['skein', ' tuft, lock', ' wrinkle']
+['madeja', 'penacho, cerradura', 'arruga']
+['https://media.gettyimages.com/photos/red-ball-of-wool-on-white-background-picture-id959911178?k=6&m=959911178&s=612x612&w=0&h=_Kwe9bVwGD0PiS6RFVCCd0iq6GnwvOY-SPDfegGi88o=', 'https://media.gettyimages.com/photos/door-lock-and-key-of-an-antique-wardrobe-picture-id486483707?k=6&m=486483707&s=612x612&w=0&h=xEYW7mtCxuv3zCaGy5fGeM6V2seE6G1pDLSj1WAYrJY=', 'https://media.gettyimages.com/photos/crushed-paper-picture-id483376851?k=6&m=483376851&s=612x612&w=0&h=IH9ji0ldCayQ9GAV6GoT-laxo0VVPcctrD4pgNs8Dc0=']
+U+7EFA
+11
+liǔ
+120'.8
+绺.mp3
+
+绻
+['affectionate, solicitous']
+['cariñoso, solícito']
+['https://media.gettyimages.com/photos/close-up-of-african-mother-and-newborn-baby-picture-id74579423?k=6&m=74579423&s=612x612&w=0&h=VW6_t1b-0ht2GStxm5NG2gp6P4pU6_7mwV_hUTfkNqE=']
+U+7EFB
+11
+quǎn
+120'.8
+绻.mp3
+
+综
+['arrange threads for weaving']
+['organizar hilos para tejer']
+['https://media.gettyimages.com/photos/working-hands-picture-id144748717?k=6&m=144748717&s=612x612&w=0&h=iwVOX8nZObg-brh5svWENPBn7mvEBGiIjhhAY569iPA=']
+U+7EFC
+11
+zōng
+120'.8
+综.mp3
+
+绽
+['ripped seam, rend, crack']
+['costura rasgada, rasgar, agrietar']
+['NONE']
+U+7EFD
+11
+zhàn
+120'.8
+绽.mp3
+
+绾
+['to string together, to bind up']
+['para unir, para atar']
+['https://media.gettyimages.com/photos/individuals-unite-to-become-team-family-network-picture-id171053447?k=6&m=171053447&s=612x612&w=0&h=TALIFPh12NvZw4IRMuXAr71-mBF0wareGVKd_Crov9M=']
+U+7EFE
+11
+wǎn
+120'.8
+绾.mp3
+
+绿
+['green', ' chlorine']
+['verde', 'cloro']
+['https://media.gettyimages.com/vectors/defocused-abstract-blue-and-green-background-vector-id1044292966?k=6&m=1044292966&s=612x612&w=0&h=nfnok6cdT7qpz5Fjwukdz8GVSyFuT6JcY0lTMQLgh-Y=', 'https://media.gettyimages.com/photos/pool-testing-kit-being-used-in-a-swimming-pool-picture-id1253063113?k=6&m=1253063113&s=612x612&w=0&h=gpbnB86ocHNyKnijetTiZygkz8OtQRMzEIEO2xKtwas=']
+U+7EFF
+11
+lǜ
+120'.8
+绿.mp3
+
+缀
+['patch together, link, connect']
+['parchear juntos, enlazar, conectar']
+['NONE']
+U+7F00
+11
+zhuì
+120'.8
+缀.mp3
+
+缁
+['black silk']
+['seda negra']
+['https://media.gettyimages.com/photos/fabric-picture-id803910898?k=6&m=803910898&s=612x612&w=0&h=Y94aZnMyp2cItNpHdvlFncXWNwHU46gZA0CMfNEk2rA=']
+U+7F01
+11
+zī
+120'.8
+缁.mp3
+
+缂
+['the woof of a woven item']
+['la trama de un artículo tejido']
+['https://media.gettyimages.com/photos/shuttle-weaving-tool-equipment-to-work-natural-textile-fiber-art-of-picture-id1159730479?k=6&m=1159730479&s=612x612&w=0&h=rQu7l0l9gjnr7saoHVVa1L6go7ddY4D868c9vcKZ55c=']
+U+7F02
+12
+kè
+120'.9
+缂.mp3
+
+缃
+['light-yellow color']
+['color amarillo claro']
+['https://media.gettyimages.com/photos/lightyellow-lily-picture-id974339148?k=6&m=974339148&s=612x612&w=0&h=5Xu2MzCRkK4c0-28Y624cMdkvOSUkEmtRX05zo-XgvM=']
+U+7F03
+12
+xiāng
+120'.9
+缃.mp3
+
+缄
+['seal, close', ' bind', ' letter']
+['sellar, cerrar', 'enlazar', 'carta']
+['https://media.gettyimages.com/vectors/red-rubber-stamp-icon-on-transparent-background-vector-id919303572?k=6&m=919303572&s=612x612&w=0&h=LaTUUYBhdoSsa2qmgBqNl_relDHFIFAo390XUdrWXbc=', 'https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=', 'https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=']
+U+7F04
+12
+jiān
+120'.9
+缄.mp3
+
+缅
+['distant, remote', ' think of']
+['distante', 'pensar en']
+['https://media.gettyimages.com/vectors/thin-line-vector-icon-set-pixel-perfect-editable-stroke-the-set-at-vector-id1217163115?k=6&m=1217163115&s=612x612&w=0&h=xKZlJa4_34T878RP-7vpTCXvkwXrqfCTTvPtEIcrq2s=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+7F05
+12
+miǎn
+120'.9
+缅.mp3
+
+缆
+['hawser, heavy-duty rope, cable']
+['guinchero, cuerda para trabajo pesado, cable']
+['NONE']
+U+7F06
+12
+lǎn
+120'.9
+缆.mp3
+
+缇
+['reddish color, red, brown']
+['color rojizo, rojo, marrón']
+['https://media.gettyimages.com/vectors/landing-page-template-fluid-abstract-design-on-orange-gradient-vector-id1188585075?k=6&m=1188585075&s=612x612&w=0&h=uEZ5Dknx_S7CbeZE31hGCOrbw2yPpdlXJwIXGzMzUvk=']
+U+7F07
+12
+tí
+120'.9
+缇.mp3
+
+缈
+['indistinct, dim', ' minute', ' distant']
+['indistinto, tenue', 'minuto', 'distante']
+['https://media.gettyimages.com/photos/soft-focused-image-of-steam-from-norris-geothermal-spring-in-picture-id1175617226?k=6&m=1175617226&s=612x612&w=0&h=usByA8043dte-oxUtS9sWUnHhpWfk4vJfbyRD_Ryygc=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=']
+U+7F08
+12
+miǎo
+120'.9
+缈.mp3
+
+缉
+['to sew in close stitches']
+['coser puntos cerrados']
+['https://media.gettyimages.com/photos/mouth-sewn-shut-picture-id475383693?k=6&m=475383693&s=612x612&w=0&h=zvJOh35X5yjCuamMNUBPMdDZ6xut9DCsFtGo6Xt8vG4=']
+U+7F09
+12
+jī
+120'.9
+缉.mp3
+
+缊
+['tangled hemp, raveled silk', ' vague, confused']
+['cáñamo enredado, seda enredada', 'vago, confuso']
+['NONE', 'https://media.gettyimages.com/photos/lost-in-japan-picture-id542327594?k=6&m=542327594&s=612x612&w=0&h=kDvywg2Y6P2Z5U4JaFN8eRPPICGnaADDx73VVCc1Dzs=']
+U+7F0A
+12
+yūn
+120'.9
+缊.mp3
+
+缋
+['draw, sketch, paint']
+['dibujar, dibujar, pintar']
+['https://media.gettyimages.com/vectors/grunge-brush-strokes-vector-id166080183?k=6&m=166080183&s=612x612&w=0&h=G58Y4vQmPi8gIhFkm8droV-IgU2Ssk-l-ppRuZz6dsE=']
+U+7F0B
+12
+huì
+120'.9
+缋.mp3
+
+缌
+['coarse cotton cloth used for mourning']
+['paño de algodón grueso utilizado para el luto']
+['NONE']
+U+7F0C
+12
+sī
+120'.9
+缌.mp3
+
+缍
+['NONE']
+['NINGUNA']
+[]
+U+7F0D
+11
+duǒ
+120'.9
+缍.mp3
+
+缎
+['satin']
+['satín']
+['https://media.gettyimages.com/photos/white-silk-fabric-background-picture-id171115530?k=6&m=171115530&s=612x612&w=0&h=PuC6RdWsjIyW3dwfpC9fVFP1zuMJ8pusF-5GY4bh-Ss=']
+U+7F0E
+12
+duàn
+120'.9
+缎.mp3
+
+缏
+['hem', ' plait, braid, queue']
+['él', 'por favor trenza la cola']
+['https://media.gettyimages.com/photos/cropped-view-of-woman-sewing-hem-on-quilt-picture-id692026513?k=6&m=692026513&s=612x612&w=0&h=EtmMp0vXEKEod2UqwQx64i0pvGoGnv8TkFGsvyEp_aQ=', 'https://media.gettyimages.com/photos/group-of-friends-standing-in-a-row-picture-id116357624?k=6&m=116357624&s=612x612&w=0&h=oLhiHoTSQdiXZzGwJWqiOTxx5CFQDYK-BH_C9DzA7iA=']
+U+7F0F
+12
+biàn
+120'.9
+缏.mp3
+
+缐
+['NONE']
+['NINGUNA']
+[]
+U+7F10
+12
+xiàn
+120'.9
+缐.mp3
+
+缑
+['cord binding on hilt of sword']
+['atadura de cordón en la empuñadura de la espada']
+['NONE']
+U+7F11
+12
+gōu
+120'.9
+缑.mp3
+
+缒
+['climb down rope', ' hang by rope']
+['bajar por la cuerda', 'colgar de una cuerda']
+['https://media.gettyimages.com/photos/caucasian-man-rappelling-down-ice-wall-picture-id150337621?k=6&m=150337621&s=612x612&w=0&h=i5uTrTe4pcAiBRZRA_HL_8669ACw54vrCNXYmNqPT38=', 'https://media.gettyimages.com/photos/old-weathered-white-wood-signboard-picture-id157739459?k=6&m=157739459&s=612x612&w=0&h=7g33mpTBA65XQWXiS2y00B1qdz8PeavaxneqWgTT86U=']
+U+7F12
+12
+zhuì
+120'.9
+缒.mp3
+
+缓
+['slow, leisurely', ' to postpone, delay']
+['lento, pausado', 'posponer, retrasar']
+['https://media.gettyimages.com/photos/female-tennis-player-with-stretched-out-arm-picture-idsb10067216b-002?k=6&m=sb10067216b-002&s=612x612&w=0&h=eGPLEf1fBvmJ2yJ1v0YedImY7i0BkYUxQpQY6wm_--E=', 'https://media.gettyimages.com/vectors/covid-19-rubber-stamps-canceled-postponed-delayed-closed-vector-id1213563840?k=6&m=1213563840&s=612x612&w=0&h=q5JZVi7hwHI9Q37wJ0FObuyYwxeB1noEEgR1SgUl_yY=']
+U+7F13
+12
+huǎn
+120'.9
+缓.mp3
+
+缔
+['tie, join, connect', ' connection']
+['atar, unirse, conectar', 'conexión']
+['https://media.gettyimages.com/photos/two-coloured-ropes-knotted-together-picture-id1084542290?k=6&m=1084542290&s=612x612&w=0&h=3PGJqc9XhXTA1M3UuxDcUf_iraDY-PdRt02Ze3OGAyQ=', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+7F14
+12
+dì
+120'.9
+缔.mp3
+
+缕
+['thread', ' detailed, precise']
+['hilo', 'detallado, preciso']
+['https://media.gettyimages.com/photos/needle-and-red-line-picture-id185231391?k=6&m=185231391&s=612x612&w=0&h=cup0oYOtncdJIEGo9JX0PF1oTQN6wQ13eayZv3LowJ4=', 'https://media.gettyimages.com/vectors/map-with-states-full-vector-id993186836?k=6&m=993186836&s=612x612&w=0&h=yTRVMyqlK2R_p9fb5m2LLv5W0eyJRD8EWzCF1LZy5KY=']
+U+7F15
+12
+lǚ
+120'.9
+缕.mp3
+
+编
+['knit, weave', ' arrange', ' compile']
+['tejer', 'organizar', 'compilar']
+['https://media.gettyimages.com/photos/fabric-cloth-picture-id183233168?k=6&m=183233168&s=612x612&w=0&h=lN-UilVKD4NwwoNAznUApRrryyOrCZx5Ejf_kCVaCSI=', 'https://media.gettyimages.com/photos/like-everything-to-be-in-its-place-picture-id1187135281?k=6&m=1187135281&s=612x612&w=0&h=AwsiVKTLS3le5u5T2RS9mr0UrEbwza_7p1RXotltxOU=', 'https://media.gettyimages.com/vectors/vintage-radio-tape-vector-id493337546?k=6&m=493337546&s=612x612&w=0&h=1DRscH5ZTUmPYvpZPhzoSyVcRgEH2ifgIIHw-yOLNw4=']
+U+7F16
+12
+biān
+120'.9
+编.mp3
+
+缗
+['fishing-line', ' cord', ' string of coi']
+['sedal', 'cable', 'cadena de coi']
+['https://media.gettyimages.com/photos/fishing-equipment-picture-id694027143?k=6&m=694027143&s=612x612&w=0&h=_7cCTnhRclTl8uCsJ2kRA4kWnr8YXEkxSFLhS3dGeR8=', 'https://media.gettyimages.com/photos/closeup-of-a-server-network-panel-with-lights-and-cables-picture-id157647179?k=6&m=157647179&s=612x612&w=0&h=tNI5XfiuK8WdOXaaxyjwdBgwir6J6RFTVxD_HRUA4dg=', 'NONE']
+U+7F17
+12
+mín
+120'.9
+缗.mp3
+
+缘
+['hem, margin', ' reason, cause', ' fate']
+['dobladillo, margen', 'razón, causa', 'destino']
+['NONE', 'https://media.gettyimages.com/photos/men-in-a-support-group-picture-id1048189202?k=6&m=1048189202&s=612x612&w=0&h=PTF-B9IJeJZEUuuDhMhxnTNsXiVVVbv9_4go3yKtUrE=', 'https://media.gettyimages.com/vectors/young-hipster-woman-with-binoculars-and-stars-vector-id1127212818?k=6&m=1127212818&s=612x612&w=0&h=fJb8h1axf76BJ1xL-FTTHE9dxtDEvahjClEHuc7gCg0=']
+U+7F18
+12
+yuán
+120'.9
+缘.mp3
+

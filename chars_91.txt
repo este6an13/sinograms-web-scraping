@@ -1,0 +1,2560 @@
+圙
+['NONE']
+['NONE']
+[]
+U+5719
+14
+lüè
+31.11
+圙.mp3
+
+圚
+['NONE']
+['NINGUNA']
+[]
+U+571A
+15
+huì
+31.12
+圚.mp3
+
+圛
+['used in place names', ' stratus']
+['utilizado en nombres de lugares', 'estrato']
+['https://media.gettyimages.com/photos/dublin-cut-in-stone-picture-id157611513?k=6&m=157611513&s=612x612&w=0&h=ZR6lO1FD1XtP0saRs6YeFUTKHcNHRp2nUNWoXgyZPq0=', 'https://media.gettyimages.com/photos/clouds-over-the-mediterranean-sea-picture-id1174602982?k=6&m=1174602982&s=612x612&w=0&h=Ie-T6q6btg229JaH65yMLbRfckkuJnuKpxYUDVtoTcY=']
+U+571B
+16
+yì
+31.13
+圛.mp3
+
+圜
+['circle, surround', ' encircle']
+['círculo, rodear', 'rodear']
+['https://media.gettyimages.com/photos/human-crowd-surrounding-three-people-on-white-background-picture-id1181760380?k=6&m=1181760380&s=612x612&w=0&h=JHPuWXN7ABxU8jG-niKdEoTgQSEOQ8yBduLY2Ao712I=', 'https://media.gettyimages.com/photos/colorful-light-trail-swirl-picture-id948600830?k=6&m=948600830&s=612x612&w=0&h=0vDbB4nue1oE8qGXlWWy-8zgH6UB6a-btNzpXwg498w=']
+U+571C
+16
+huán
+31.13
+圜.mp3
+
+圝
+['entire']
+['todo']
+['https://media.gettyimages.com/photos/roast-beef-tenderloin-dinner-picture-id184910692?k=6&m=184910692&s=612x612&w=0&h=gF_pk4CQmyMvRoAnnO0bHN5pUI_yepRJqFf_5k1fD80=']
+U+571D
+22
+luán
+31.19
+圝.mp3
+
+圞
+['entire, complete', ' round']
+['entero, completo', 'redondo']
+['https://media.gettyimages.com/photos/roast-beef-tenderloin-dinner-picture-id184910692?k=6&m=184910692&s=612x612&w=0&h=gF_pk4CQmyMvRoAnnO0bHN5pUI_yepRJqFf_5k1fD80=', 'https://media.gettyimages.com/photos/colorful-light-trail-swirl-picture-id948600830?k=6&m=948600830&s=612x612&w=0&h=0vDbB4nue1oE8qGXlWWy-8zgH6UB6a-btNzpXwg498w=']
+U+571E
+26
+luán
+31.23
+圞.mp3
+
+土
+['soil, earth', ' items made of earth']
+['suelo, tierra', 'artículos hechos de tierra']
+['https://media.gettyimages.com/photos/background-of-earth-and-dirt-picture-id96707219?k=6&m=96707219&s=612x612&w=0&h=csP3QS9Uw76KN0x1F8G-zCEXytvFIC4StuO4o4U2VcY=', 'https://media.gettyimages.com/photos/glass-bottles-recycle-picture-id1181343932?k=6&m=1181343932&s=612x612&w=0&h=DywuT-b_7gyTA6vQhjT78zfJ2dGjropr8WTPiCZmP8o=']
+U+571F
+3
+tǔ
+32.0
+土.mp3
+
+圠
+['NONE']
+['NINGUNA']
+[]
+U+5720
+4
+yà
+32.1
+圠.mp3
+
+圡
+['NONE']
+['NINGUNA']
+[]
+U+5721
+4
+tǔ
+32.1
+圡.mp3
+
+圢
+['paths between fields']
+['caminos entre campos']
+['https://media.gettyimages.com/photos/winding-farm-road-through-foggy-landscape-picture-id158636263?k=6&m=158636263&s=612x612&w=0&h=iSaPMhk-HEV1R6zN3oGI7pXCFLLsgAVKwd7JrVJ50ds=']
+U+5722
+5
+tǐng
+32.2
+圢.mp3
+
+圣
+['holy, sacred']
+['santo, sagrado']
+['https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=']
+U+5723
+5
+shèng
+32.2
+圣.mp3
+
+圤
+['NONE']
+['NINGUNA']
+[]
+U+5724
+5
+pú
+32.2
+圤.mp3
+
+圥
+['mushroom']
+['seta']
+['https://media.gettyimages.com/photos/mushrooms-picture-id686666966?k=6&m=686666966&s=612x612&w=0&h=TeqpEGob51yo4MvWjm0YShc0vkQnbm6AlHQU4CN05wU=']
+U+5725
+5
+lù
+32.2
+圥.mp3
+
+圦
+['(kokuji) water gate, spout']
+['(kokuji) puerta de agua, pico']
+['NONE']
+U+5726
+5
+kuài
+32.2
+圦.mp3
+
+圧
+['same as ']
+['igual que']
+['https://media.gettyimages.com/photos/hand-holding-five-aces-fanned-out-picture-id153339622?k=6&m=153339622&s=612x612&w=0&h=N3WPB6cGJAXmbgtIk8npwcFj0LT2wvC8tPXLRr_UWh8=']
+U+5727
+5
+yā
+32.2
+圧.mp3
+
+在
+['be at, in, on', ' consist in, rest']
+['estar en, en, en', 'consistir en descansar']
+['https://media.gettyimages.com/photos/white-cloud-in-dark-sky-2547-picture-id1155235411?k=6&m=1155235411&s=612x612&w=0&h=bTIZkr5OXVRoSb8Vxpj3XknRG5JXRNv0v69ZroCQJdo=', 'NONE']
+U+5728
+6
+zài
+32.3
+在.mp3
+
+圩
+['dike, embankment']
+['dique, terraplén']
+['https://media.gettyimages.com/photos/aerial-photo-of-farmland-picture-id155069657?k=6&m=155069657&s=612x612&w=0&h=7mLOdvooVfd-9F7PExOrPXimJZJYrT0fO2rS45uy6xs=']
+U+5729
+6
+wéi
+32.3
+圩.mp3
+
+圪
+['NONE']
+['NINGUNA']
+[]
+U+572A
+6
+gē
+32.3
+圪.mp3
+
+圫
+['NONE']
+['NINGUNA']
+[]
+U+572B
+6
+yù
+32.3
+圫.mp3
+
+圬
+['plaster over with layer of mud']
+['revoque con una capa de barro']
+['NONE']
+U+572C
+6
+wū
+32.3
+圬.mp3
+
+圭
+['jade pointed at top']
+['jade puntiagudo en la parte superior']
+['NONE']
+U+572D
+6
+guī
+32.3
+圭.mp3
+
+圮
+['destroyed, ruined', ' to subvert to injure']
+['destruido, arruinado', 'subvertir para herir']
+['https://media.gettyimages.com/photos/post-apocalyptic-urban-landscape-picture-id1175959113?k=6&m=1175959113&s=612x612&w=0&h=1QbYHxqAtuetoXi25mzUp2RjiNz8G9wxO4fsuy8xFwg=', 'NONE']
+U+572E
+6
+pǐ
+32.3
+圮.mp3
+
+圯
+['bridge, bank']
+['puente, banco']
+['https://media.gettyimages.com/photos/bangkok-business-district-picture-id636229226?k=6&m=636229226&s=612x612&w=0&h=4BzMO2vWHE-pc366XsvvUE6V92IF9QtyP-x5rzUjQBY=']
+U+572F
+6
+yí
+32.3
+圯.mp3
+
+地
+['earth', ' soil, ground', ' region']
+['tierra', 'suelo', 'región']
+['https://media.gettyimages.com/photos/global-communication-network-picture-id1038383026?k=6&m=1038383026&s=612x612&w=0&h=BpORQNUGHL51KfQ30COlcD1zPtyVop2sioeivLfat5M=', 'https://media.gettyimages.com/photos/background-of-earth-and-dirt-picture-id96707219?k=6&m=96707219&s=612x612&w=0&h=csP3QS9Uw76KN0x1F8G-zCEXytvFIC4StuO4o4U2VcY=', 'https://media.gettyimages.com/photos/medoc-wine-region-nouvelleaquitaine-france-picture-id1165067975?k=6&m=1165067975&s=612x612&w=0&h=hULHTGj9suR91y2LHaPVkgYzTvJXANNQZXNo_hQL6nY=']
+U+5730
+6
+de dì
+32.3
+地.mp3
+
+圱
+['NONE']
+['NINGUNA']
+[]
+U+5731
+6
+qiān
+32.3
+圱.mp3
+
+圲
+['NONE']
+['NINGUNA']
+[]
+U+5732
+6
+qiān
+32.3
+圲.mp3
+
+圳
+['furrow in field, small drainage ditch']
+['surco en el campo, pequeña zanja de drenaje']
+['NONE']
+U+5733
+6
+zhèn
+32.3
+圳.mp3
+
+圴
+['NONE']
+['NINGUNA']
+[]
+U+5734
+6
+zhuó
+32.3
+圴.mp3
+
+圵
+['NONE']
+['NINGUNA']
+[]
+U+5735
+6
+dàng
+32.3
+圵.mp3
+
+圶
+['NONE']
+['NINGUNA']
+[]
+U+5736
+6
+qià
+32.3
+圶.mp3
+
+圷
+['NONE']
+['NINGUNA']
+[]
+U+5737
+6
+xià
+32.3
+圷.mp3
+
+圸
+['NONE']
+['NINGUNA']
+[]
+U+5738
+6
+shān
+32.3
+圸.mp3
+
+圹
+['tomb, grave: prairie', ' open wilderness']
+['tumba, tumba: pradera', 'desierto abierto']
+['https://media.gettyimages.com/photos/punic-mausoleum-in-dougga-picture-id585869050?k=6&m=585869050&s=612x612&w=0&h=4MoLQavyUuQQ6aSm6mgFSetvmOzcauWk3LUlayHEMP0=', 'https://media.gettyimages.com/photos/red-mud-barren-land-wide-open-picture-id1048712676?k=6&m=1048712676&s=612x612&w=0&h=X2Xizu80nBPsNsyTNPwRFx_4eqrhL__F_v9WQwSs_cs=']
+U+5739
+6
+kuàng
+32.3
+圹.mp3
+
+场
+['open space, field, market']
+['espacio abierto, campo, mercado']
+['https://media.gettyimages.com/photos/instructor-holding-digital-tablet-while-talking-with-farmers-sitting-picture-id916358248?k=6&m=916358248&s=612x612&w=0&h=G52pArftQi1wzxHWPdUH9cWApPeuKzJtvlyC9NimaKs=']
+U+573A
+6
+chǎng
+32.3
+场.mp3
+
+圻
+['border, boundary']
+['frontera, frontera']
+['https://media.gettyimages.com/photos/overcome-adversity-picture-id160177512?k=6&m=160177512&s=612x612&w=0&h=y045a2a_eHTqWWrR5dA43aKRBuy9poB9ecuvqjQPhpY=']
+U+573B
+7
+qí
+32.4
+圻.mp3
+
+圼
+['NONE']
+['NINGUNA']
+[]
+U+573C
+7
+niè
+32.4
+圼.mp3
+
+圽
+['NONE']
+['NINGUNA']
+[]
+U+573D
+7
+mò
+32.4
+圽.mp3
+
+圾
+['garbage, rubbish', ' shaking', ' danger']
+['basura, basura', 'sacudida', 'peligro']
+['https://media.gettyimages.com/photos/making-compost-from-vegetable-leftovers-picture-id1160205101?k=6&m=1160205101&s=612x612&w=0&h=ZcLf2vVBuv-0wGGrpviLiExbszxTUra8-vPrE-sYMWY=', 'https://media.gettyimages.com/photos/dog-shaking-hair-while-standing-at-doorway-picture-id961128902?k=6&m=961128902&s=612x612&w=0&h=SGQuzdGI3YrEOideIwJgEcU-oBh6z8mMrOfbcyKhNo8=', 'https://media.gettyimages.com/photos/hazard-warning-sign-picture-id73096444?k=6&m=73096444&s=612x612&w=0&h=YQHQ9wwhEGQhNYL-F-o2SFRSRe6TcMh0SzZS4sbO5iA=']
+U+573E
+6
+jī
+32.4
+圾.mp3
+
+圿
+['NONE']
+['NINGUNA']
+[]
+U+573F
+7
+jiá
+32.4
+圿.mp3
+
+址
+['site, location, land for house']
+['sitio, ubicación, terreno para casa']
+['https://media.gettyimages.com/photos/italy-tuscany-san-quirico-dorcia-podere-belvedere-green-hills-olive-picture-id950438726?k=6&m=950438726&s=612x612&w=0&h=QqmSnwApvkmf97izA0ufZ-6X90NrtE47VjPTCGX98Es=']
+U+5740
+7
+zhǐ
+32.4
+址.mp3
+
+坁
+['NONE']
+['NINGUNA']
+[]
+U+5741
+7
+zhǐ
+32.4
+坁.mp3
+
+坂
+['hillside, inconvenient places']
+['ladera, lugares inconvenientes']
+['https://media.gettyimages.com/photos/flooded-country-road-picture-id165615265?k=6&m=165615265&s=612x612&w=0&h=OMAcH3_Yz62CLR-4tsrDnUsYjo6rae0BHj6qeEqBgcM=']
+U+5742
+7
+bǎn
+32.4
+坂.mp3
+
+坃
+['NONE']
+['NINGUNA']
+[]
+U+5743
+7
+xūn
+32.4
+坃.mp3
+
+坄
+['NONE']
+['NINGUNA']
+[]
+U+5744
+7
+yì
+32.4
+坄.mp3
+
+坅
+['NONE']
+['NINGUNA']
+[]
+U+5745
+7
+qǐn
+32.4
+坅.mp3
+
+坆
+['a grave, tomb']
+['una tumba, tumba']
+['https://media.gettyimages.com/photos/kids-and-candles-by-the-grave-picture-id665497048?k=6&m=665497048&s=612x612&w=0&h=Y4VLmO-eIYVnUdqKLnYs7F5_Lt4ZkxfRWX2m87itiLg=']
+U+5746
+7
+méi
+32.4
+坆.mp3
+
+均
+['equal, even, fair', ' all, also']
+['igual, par, justo', 'todos, tambien']
+['https://media.gettyimages.com/photos/glass-of-water-balancing-on-middle-of-seesaw-picture-id104822194?k=6&m=104822194&s=612x612&w=0&h=SDr7SSH8fR7HN_8mON9GMM6TCp5hJLY9-ARFWiH8KQA=', 'https://media.gettyimages.com/photos/horse-racing-detail-hooves-on-all-weather-track-picture-id596300831?k=6&m=596300831&s=612x612&w=0&h=cbg2qIglnGFZEMbqf8CCiSDk8Ux_THTDUIEjhdCQw7Y=']
+U+5747
+7
+jūn
+32.4
+均.mp3
+
+坈
+['NONE']
+['NINGUNA']
+[]
+U+5748
+7
+rǒng
+32.4
+坈.mp3
+
+坉
+['NONE']
+['NINGUNA']
+[]
+U+5749
+7
+tún
+32.4
+坉.mp3
+
+坊
+['neighborhood, urban subdivision', " (J) priest's residence", ' (Buddhist) priest', ' boy']
+['barrio, subdivisión urbana', '(J) residencia del sacerdote', 'Sacerdote (budista)', 'chico']
+['https://media.gettyimages.com/photos/housing-subdivision-picture-id520406748?k=6&m=520406748&s=612x612&w=0&h=k2RkPLVvmoDdTiU0QZMKovSIiqmqUZib4kldxqKtE5Q=', 'NONE', 'https://media.gettyimages.com/photos/asian-monks-running-on-white-temple-walls-hsinbyume-pagoda-mandalay-picture-id1142883653?k=6&m=1142883653&s=612x612&w=0&h=I8oaNWI_U5MXr1Qw9CUGbHD5EZwmSzLVMK9hiZO352o=', 'https://media.gettyimages.com/photos/teenage-boy-using-laptop-for-homework-picture-id1035393946?k=6&m=1035393946&s=612x612&w=0&h=yUjUJr_aGvjpI7UZx896kikvOyJ6LXdYdQbLCjNqQx8=']
+U+574A
+7
+fāng
+32.4
+坊.mp3
+
+坋
+['dust, earth', ' a bank of earth', ' to dig', ' to bring together']
+['polvo, tierra', 'un banco de tierra', 'para ti', 'para reunir']
+['https://media.gettyimages.com/photos/background-of-earth-and-dirt-picture-id96707219?k=6&m=96707219&s=612x612&w=0&h=csP3QS9Uw76KN0x1F8G-zCEXytvFIC4StuO4o4U2VcY=', 'https://media.gettyimages.com/photos/cityscape-tokyo-with-investment-theme-background-and-stock-market-picture-id1209658580?k=6&m=1209658580&s=612x612&w=0&h=1RMgnimZAlJkES4ieA39TLjD_6d2snN1N9hq8cctsT0=', 'https://media.gettyimages.com/photos/excavator-at-a-construction-site-against-the-setting-sun-picture-id143918313?k=6&m=143918313&s=612x612&w=0&h=psDwgavm_upH-E5K3xkmFArFWpHy2wjaEAPrjqYcCb4=', 'https://media.gettyimages.com/photos/team-teamwork-join-hands-partnership-concept-picture-id869163826?k=6&m=869163826&s=612x612&w=0&h=ntV9H7x4TkQWFbsUUVn8RbullsqLbHEhY9pUkAcBsdQ=']
+U+574B
+7
+bèn
+32.4
+坋.mp3
+
+坌
+['dust, earth', ' a bank of earth', ' to dig', ' to bring together']
+['polvo, tierra', 'un banco de tierra', 'para ti', 'para reunir']
+['https://media.gettyimages.com/photos/background-of-earth-and-dirt-picture-id96707219?k=6&m=96707219&s=612x612&w=0&h=csP3QS9Uw76KN0x1F8G-zCEXytvFIC4StuO4o4U2VcY=', 'https://media.gettyimages.com/photos/cityscape-tokyo-with-investment-theme-background-and-stock-market-picture-id1209658580?k=6&m=1209658580&s=612x612&w=0&h=1RMgnimZAlJkES4ieA39TLjD_6d2snN1N9hq8cctsT0=', 'https://media.gettyimages.com/photos/excavator-at-a-construction-site-against-the-setting-sun-picture-id143918313?k=6&m=143918313&s=612x612&w=0&h=psDwgavm_upH-E5K3xkmFArFWpHy2wjaEAPrjqYcCb4=', 'https://media.gettyimages.com/photos/team-teamwork-join-hands-partnership-concept-picture-id869163826?k=6&m=869163826&s=612x612&w=0&h=ntV9H7x4TkQWFbsUUVn8RbullsqLbHEhY9pUkAcBsdQ=']
+U+574C
+7
+bèn
+32.4
+坌.mp3
+
+坍
+['collapse', ' landslide']
+['collapse', 'deslizamiento de tierra']
+['https://media.gettyimages.com/photos/partly-demolished-large-building-picture-id943743546?k=6&m=943743546&s=612x612&w=0&h=CeFuSUH8gq6VoRHD6WvkiiRgTdh50EpYTrx9aFKDK-c=', 'https://media.gettyimages.com/photos/rock-slide-with-damage-on-the-road-during-a-storm-picture-id186876633?k=6&m=186876633&s=612x612&w=0&h=9L6gqp47-AFAwJQU-rf-IccZLeTko5vzrCzQLLdJQR0=']
+U+574D
+7
+tān
+32.4
+坍.mp3
+
+坎
+['pit, hole', ' snare, trap', ' crisis']
+['hoyo, hoyo', 'lazo, trampa', 'crisis']
+['https://media.gettyimages.com/photos/deep-well-picture-id182145805?k=6&m=182145805&s=612x612&w=0&h=9Vr_F93KCUx0vuRt1eW-Ivh1SKo-OcgOoxdYcvlsMto=', 'https://media.gettyimages.com/photos/trap-picture-id181900229?k=6&m=181900229&s=612x612&w=0&h=IFHS_xf_knZU74JQWc6ZuKjpr_IMKdIJYNGjQnpHPA0=', 'https://media.gettyimages.com/photos/generous-people-helping-to-poor-people-picture-id1139776668?k=6&m=1139776668&s=612x612&w=0&h=VNUe36-Oy5kgDWiQL_mrRfjUjLNYPZ9euG19DAoLD2o=']
+U+574E
+7
+kǎn
+32.4
+坎.mp3
+
+坏
+['rotten, spoilt, bad, broken down']
+['podrido, estropeado, malo, descompuesto']
+['NONE']
+U+574F
+7
+huài
+32.4
+坏.mp3
+
+坐
+['sit', ' seat', ' ride, travel by']
+['sentar', 'asiento', 'montar, viajar por']
+['https://media.gettyimages.com/photos/portrait-of-young-woman-against-white-background-picture-id991586638?k=6&m=991586638&s=612x612&w=0&h=9qiwj3hnqa-VJRWe94c0xtIqGmC65_qYWT6TfUCZ1YY=', 'https://media.gettyimages.com/photos/airplane-seats-picture-id155003722?k=6&m=155003722&s=612x612&w=0&h=-YN9pm69X62Mzq8ge7R6vV9s7KkJ1wG3nDghMnMI648=', 'https://media.gettyimages.com/photos/rear-view-of-couple-with-arms-raised-about-to-begin-descent-on-roller-picture-id1083855824?k=6&m=1083855824&s=612x612&w=0&h=qgDxvHyXF4YF5sZNCmDT2hbbsnlrJ3yUxgYsAwGcD9g=']
+U+5750
+7
+zuò
+32.4
+坐.mp3
+
+坑
+['pit, hole', ' bury, trap', ' harry']
+['hoyo, hoyo', 'enterrar, trampa', 'harry']
+['https://media.gettyimages.com/photos/deep-well-picture-id182145805?k=6&m=182145805&s=612x612&w=0&h=9Vr_F93KCUx0vuRt1eW-Ivh1SKo-OcgOoxdYcvlsMto=', 'https://media.gettyimages.com/photos/cars-buried-in-snow-picture-id79253324?k=6&m=79253324&s=612x612&w=0&h=uzYw3MMwdUvJW2g7Bsk5HGJ2NT-MqFpwULRRshYqwkg=', 'https://media.gettyimages.com/photos/prince-harry-duke-of-sussex-and-meghan-duchess-of-sussex-react-after-picture-id1192408411?k=6&m=1192408411&s=612x612&w=0&h=wEYvcx5YtMbYDGBhMm5bD0kKxTIftzzMm2nbi1ZmLdc=']
+U+5751
+7
+kēng
+32.4
+坑.mp3
+
+坒
+['to compare', ' to match', ' to equal']
+['comparar', 'para igualar', 'A igual']
+['https://media.gettyimages.com/photos/home-finances-picture-id1156486392?k=6&m=1156486392&s=612x612&w=0&h=YFpvCX6cD9uoh7XV2SHuz8TB6FSeHx8xgXBOsrbxYlY=', 'https://media.gettyimages.com/photos/professional-soccer-player-about-to-kick-football-during-soccer-match-picture-id959257646?k=6&m=959257646&s=612x612&w=0&h=ZfkR_P4457TdNf7uCcZBxnSPCf40DC19DFOs4PMTbtY=', 'https://media.gettyimages.com/photos/colorful-handprints-picture-id174661842?k=6&m=174661842&s=612x612&w=0&h=aEYWptqxq1fIlU3x1FHPePfSAXrj85NUuOwV86EpufY=']
+U+5752
+7
+bì
+32.4
+坒.mp3
+
+坓
+['NONE']
+['NINGUNA']
+[]
+U+5753
+7
+jǐng
+32.4
+坓.mp3
+
+坔
+['NONE']
+['NINGUNA']
+[]
+U+5754
+7
+dì
+32.4
+坔.mp3
+
+坕
+['NONE']
+['NINGUNA']
+[]
+U+5755
+7
+jīng
+32.4
+坕.mp3
+
+坖
+['NONE']
+['NINGUNA']
+[]
+U+5756
+7
+jì
+32.4
+坖.mp3
+
+块
+['piece, lump', ' dollar']
+['pedazo, bulto', 'dólar']
+['https://media.gettyimages.com/photos/coal-picture-id117330859?k=6&m=117330859&s=612x612&w=0&h=OQEeD9tlxY4NU5SlbqzyboqhXIZf6GVwpljZvFMzEPs=', 'https://media.gettyimages.com/photos/unrecognizable-mature-man-holding-us-dollar-bills-picture-id643757808?k=6&m=643757808&s=612x612&w=0&h=baXB4oSMj2orxhRzvdh2zMl5GgzPPuiu3KW4My5ghyQ=']
+U+5757
+7
+kuài
+32.4
+块.mp3
+
+坘
+['NONE']
+['NINGUNA']
+[]
+U+5758
+7
+dǐ
+32.4
+坘.mp3
+
+坙
+['NONE']
+['NINGUNA']
+[]
+U+5759
+7
+jīng
+32.4
+坙.mp3
+
+坚
+['hard, strong, firm', ' resolute']
+['duro, fuerte, firme', 'resuelto']
+['https://media.gettyimages.com/photos/hard-workouts-picture-id599467104?k=6&m=599467104&s=612x612&w=0&h=RouxbWNvNYTTg-B_F7NwN8tEmza2mesoqhN1nOxaAwI=', 'https://media.gettyimages.com/photos/prove-it-to-yourself-picture-id693655538?k=6&m=693655538&s=612x612&w=0&h=ILmm-yEyIb9IAav-SvWq-TlqiTTzo2pI4m6gY-dSnU0=']
+U+575A
+7
+jiān
+32.4
+坚.mp3
+
+坛
+['altar', ' arena, examination hall']
+['altar', 'arena, sala de examen']
+['https://media.gettyimages.com/photos/day-of-the-dead-in-oaxaca-picture-id1064682816?k=6&m=1064682816&s=612x612&w=0&h=dgAzVUc0IOl4DGP5M0sGbdWZ1FiVjUuo2DnGOb2nZwo=', 'NONE']
+U+575B
+7
+tán
+32.4
+坛.mp3
+
+坜
+['a hole, pit']
+['un hoyo, hoyo']
+['https://media.gettyimages.com/photos/deep-well-picture-id182145805?k=6&m=182145805&s=612x612&w=0&h=9Vr_F93KCUx0vuRt1eW-Ivh1SKo-OcgOoxdYcvlsMto=']
+U+575C
+7
+lì
+32.4
+坜.mp3
+
+坝
+['embankment', ' dam']
+['terraplén', 'represa']
+['https://media.gettyimages.com/photos/young-boys-running-at-riverbank-picture-id1087167356?k=6&m=1087167356&s=612x612&w=0&h=-mevPtYFP_NGbtaKy610Of4SfqIqiCubY_jIKoIhwfw=', 'https://media.gettyimages.com/photos/waterfall-picture-id157524977?k=6&m=157524977&s=612x612&w=0&h=l-y75k5I-dv44tTqkWnHp714eN3eeJjpwTpRoHFBrik=']
+U+575D
+7
+bà
+32.4
+坝.mp3
+
+坞
+['entrenchment, bank, low wall']
+['atrincheramiento, banco, muro bajo']
+['NONE']
+U+575E
+7
+wù
+32.4
+坞.mp3
+
+坟
+['grave, mound', ' bulge', ' bulging']
+['tumba, montículo', 'bulto', 'abultado']
+['https://media.gettyimages.com/photos/shes-got-an-eye-for-quality-control-picture-id690781410?k=6&m=690781410&s=612x612&w=0&h=N-L8ZVHMpWReVH17GtMz_G2R3MQqwuoOJ6PYbPR0HhQ=', 'https://media.gettyimages.com/photos/knarly-tree-picture-id1138588935?k=6&m=1138588935&s=612x612&w=0&h=Ta6-BJoboIoI5hlONh68m0kjhGLTqnLrQueKygSKFvo=', 'https://media.gettyimages.com/photos/groceries-shopping-picture-id1069220964?k=6&m=1069220964&s=612x612&w=0&h=7KgkJ6wh0E_n9v2j7JWTtThUiL_ZVLF6P8UV_X2L-MI=']
+U+575F
+7
+fén
+32.4
+坟.mp3
+
+坠
+['fall down, drop, sink, go to ruin']
+['caer, caer, hundirse, ir a la ruina']
+['NONE']
+U+5760
+7
+zhuì
+32.4
+坠.mp3
+
+坡
+['slope, bank, hillside']
+['pendiente, banco, ladera']
+['https://media.gettyimages.com/photos/businessman-running-away-from-problems-picture-id1157216485?k=6&m=1157216485&s=612x612&w=0&h=N-aSL8Cj-bv4qjTbENU2KRY1iAgQyDjO8-AaQWzhq8s=']
+U+5761
+8
+pō
+32.5
+坡.mp3
+
+坢
+['NONE']
+['NINGUNA']
+[]
+U+5762
+8
+bàn
+32.5
+坢.mp3
+
+坣
+['NONE']
+['NINGUNA']
+[]
+U+5763
+8
+táng
+32.5
+坣.mp3
+
+坤
+['earth', ' feminine, female']
+['tierra', 'femenino, femenino']
+['https://media.gettyimages.com/photos/global-communication-network-picture-id1038383026?k=6&m=1038383026&s=612x612&w=0&h=BpORQNUGHL51KfQ30COlcD1zPtyVop2sioeivLfat5M=', 'https://media.gettyimages.com/photos/smiling-businesswoman-at-work-picture-id1092806334?k=6&m=1092806334&s=612x612&w=0&h=QFciT2-ETPhrtXIdaSaBhMCK80qXkZ0gtBTvad_tQYw=']
+U+5764
+8
+kūn
+32.5
+坤.mp3
+
+坥
+['NONE']
+['NINGUNA']
+[]
+U+5765
+8
+qū
+32.5
+坥.mp3
+
+坦
+['flat, smooth', ' self-possessed']
+['plano, liso', 'dueño de sí mismo']
+['https://media.gettyimages.com/photos/white-wall-texture-surface-background-picture-id1149080050?k=6&m=1149080050&s=612x612&w=0&h=vb8kOGh-oHMkIaMdR4OqcpZ72meyVjOufNX25COj5wM=', 'NONE']
+U+5766
+8
+tǎn
+32.5
+坦.mp3
+
+坧
+['NONE']
+['NINGUNA']
+[]
+U+5767
+8
+zhī
+32.5
+坧.mp3
+
+坨
+['a lump, heap']
+['un bulto, montón']
+['https://media.gettyimages.com/photos/meadow-hay-picture-id182760255?k=6&m=182760255&s=612x612&w=0&h=n9OEphdAj-5kMeesjLPKlz_hvSmRqcZPsTXFI-xTqog=']
+U+5768
+8
+tuó
+32.5
+坨.mp3
+
+坩
+['earthenware, earthenware vessel']
+['loza de barro, vasija de barro']
+['https://media.gettyimages.com/photos/senior-potter-working-on-a-clay-vase-picture-id522336883?k=6&m=522336883&s=612x612&w=0&h=5AjW_6EKhHVhQwKDLJYIlFmigf53-yHDu5pGa6qUVBU=']
+U+5769
+8
+gān
+32.5
+坩.mp3
+
+坪
+['level ground', ' Japanese measure']
+['nivel del suelo', 'Medida japonesa']
+['https://media.gettyimages.com/photos/muddy-cross-section-closeup-picture-id157290350?k=6&m=157290350&s=612x612&w=0&h=rN0wtlHxOuEPiH00kMbwJoAEzDz3fkF0Gqw1Nb46SLk=', 'https://media.gettyimages.com/photos/mid-adult-woman-baking-bread-in-an-industrial-kitchen-picture-id1131294429?k=6&m=1131294429&s=612x612&w=0&h=SRGogVPq5EWEaQl-rRPOhmnKjiYDG4X2qdVALDcR-AI=']
+U+576A
+8
+píng
+32.5
+坪.mp3
+
+坫
+['a stand on which to replace goblets after drinking']
+['un soporte en el que reemplazar las copas después de beber']
+['NONE']
+U+576B
+8
+diàn
+32.5
+坫.mp3
+
+坬
+['NONE']
+['NINGUNA']
+[]
+U+576C
+8
+guà
+32.5
+坬.mp3
+
+坭
+['mud, mire', ' to paste, to plaster']
+['mod, mundo', 'pegar, enyesar']
+['https://media.gettyimages.com/photos/blooming-green-water-green-algae-polluted-river-aerial-view-picture-id1175185683?k=6&m=1175185683&s=612x612&w=0&h=YzEqev0xK8nf6oMfM4RA_G5RPHJqVD8UHEMpC7kAIsc=', 'https://media.gettyimages.com/photos/home-improvement-and-remodeling-demolition-phase-picture-id183408274?k=6&m=183408274&s=612x612&w=0&h=m3GbLUhOXg6xt_KA_Lt5YuwbPacxWp8Aj6Y045SZGoc=']
+U+576D
+8
+ní
+32.5
+坭.mp3
+
+坮
+['platform', ' unit', ' term of address']
+['plataforma', 'unidad', 'término de la dirección']
+['https://media.gettyimages.com/photos/manual-high-worker-offshore-climbing-on-windturbine-on-ladder-picture-id1059318656?k=6&m=1059318656&s=612x612&w=0&h=GQTlgWKsPL9ilVIN6QvicRfMtwMapYKnx57XGqkxIws=', 'https://media.gettyimages.com/photos/working-that-social-networking-picture-id1155621260?k=6&m=1155621260&s=612x612&w=0&h=KBmE6fRvWCPXWMhrjewBdnIeMgGE3-H2te58Wo2kc3U=', 'https://media.gettyimages.com/photos/ransom-note-alphabets-xxxl-picture-id148124096?k=6&m=148124096&s=612x612&w=0&h=wsJS0lVVzjHtRPFqJf8yMRryxH9ajjbEfxF0AldTyRo=']
+U+576E
+8
+tái
+32.5
+坮.mp3
+
+坯
+['dam, embankment', ' weir']
+['presa, terraplén', 'presa']
+['https://media.gettyimages.com/photos/gold-creek-dam-in-brookfield-brisbane-in-winter-picture-id1169349311?k=6&m=1169349311&s=612x612&w=0&h=Q8-jW3hmz_7c1BzmL8Z2owcD7A3giaTlg0h72vUgnP8=', 'https://media.gettyimages.com/photos/poultney-bridge-and-weir-in-bath-picture-id577675554?k=6&m=577675554&s=612x612&w=0&h=Kbcsj-gJjthFqvxeiH65xU3xbyHXG2kEn_5-s5B8YOY=']
+U+576F
+8
+pī
+32.5
+坯.mp3
+
+坰
+['wilds']
+['salvajes']
+['https://media.gettyimages.com/photos/man-outdoors-in-the-woods-picture-id477773129?k=6&m=477773129&s=612x612&w=0&h=3mzbWbGxmBOfFITWjpx6WJ2IzG3OUm2lRfbaYd1LlGw=']
+U+5770
+8
+jiōng
+32.5
+坰.mp3
+
+坱
+['dust']
+['polvo']
+['https://media.gettyimages.com/photos/explosion-by-an-impact-of-a-cloud-of-particles-of-powder-of-color-a-picture-id914458412?k=6&m=914458412&s=612x612&w=0&h=dnSKCJMoHT7VVH5rAnw0LeXF7u-3X2_8QP76zvvIbl8=']
+U+5771
+8
+yǎng
+32.5
+坱.mp3
+
+坲
+['NONE']
+['NINGUNA']
+[]
+U+5772
+8
+fó
+32.5
+坲.mp3
+
+坳
+['a hollow in the ground, a cavity, depression', ' undulating, depressed']
+['un hueco en el suelo, una cavidad, una depresión', 'ondulante, deprimido']
+['NONE', 'https://media.gettyimages.com/photos/dramatic-seascape-with-ocean-wave-and-dark-sky-picture-id1165416211?k=6&m=1165416211&s=612x612&w=0&h=TmhthodRII0sO0HgnerH70VYEgYKpZE1l8fVXRAZDtY=']
+U+5773
+8
+ào
+32.5
+坳.mp3
+
+坴
+['a clod of earth', ' land']
+['un terrón de tierra', 'tierra']
+['https://media.gettyimages.com/photos/dirt-picture-id182174215?k=6&m=182174215&s=612x612&w=0&h=X9yz_xKkKc-k0LTt6oLnFSYFi05fgmfCI_pr3OHjrS0=', 'https://media.gettyimages.com/photos/background-of-earth-and-dirt-picture-id96707219?k=6&m=96707219&s=612x612&w=0&h=csP3QS9Uw76KN0x1F8G-zCEXytvFIC4StuO4o4U2VcY=']
+U+5774
+8
+lù
+32.5
+坴.mp3
+
+坵
+['earthenware, earthenware vessel']
+['loza de barro, vasija de barro']
+['https://media.gettyimages.com/photos/senior-potter-working-on-a-clay-vase-picture-id522336883?k=6&m=522336883&s=612x612&w=0&h=5AjW_6EKhHVhQwKDLJYIlFmigf53-yHDu5pGa6qUVBU=']
+U+5775
+8
+qiū
+32.5
+坵.mp3
+
+坶
+['NONE']
+['NINGUNA']
+[]
+U+5776
+8
+mǔ
+32.5
+坶.mp3
+
+坷
+['clod of earth, lump of soil']
+['terrón de tierra, terrón de tierra']
+['https://media.gettyimages.com/photos/dirt-picture-id182174215?k=6&m=182174215&s=612x612&w=0&h=X9yz_xKkKc-k0LTt6oLnFSYFi05fgmfCI_pr3OHjrS0=']
+U+5777
+8
+kě
+32.5
+坷.mp3
+
+坸
+['NONE']
+['NINGUNA']
+[]
+U+5778
+8
+gòu
+32.5
+坸.mp3
+
+坹
+['NONE']
+['NINGUNA']
+[]
+U+5779
+8
+xuè
+32.5
+坹.mp3
+
+坺
+['(Cant.) classifier for soft masses']
+['(Cant.) Clasificador para masas blandas']
+['NONE']
+U+577A
+8
+bá
+32.5
+坺.mp3
+
+坻
+['an islet, a rock in a river', ' an embankment', ' to stop']
+['un islote, una roca en un río', 'un terraplén', 'para detener']
+['https://media.gettyimages.com/photos/fairy-pools-glen-brittle-isle-of-skye-scotland-uk-picture-id1161350279?k=6&m=1161350279&s=612x612&w=0&h=Yn1Z2AqHfadTWdwCym2ONnxM94RX0aJpf1L6Jb7N7Vg=', 'https://media.gettyimages.com/photos/young-boys-running-at-riverbank-picture-id1087167356?k=6&m=1087167356&s=612x612&w=0&h=-mevPtYFP_NGbtaKy610Of4SfqIqiCubY_jIKoIhwfw=', 'https://media.gettyimages.com/photos/stop-sign-with-clipping-path-picture-id172233405?k=6&m=172233405&s=612x612&w=0&h=dn9Q9zH6_kv-0DYtefGPHH_SYnxkNcNYRSyYE_fdA84=']
+U+577B
+8
+chí
+32.5
+坻.mp3
+
+坼
+['split, tear, open']
+['dividir, romper, abrir']
+['https://media.gettyimages.com/photos/roughly-torn-black-paper-picture-id871176418?k=6&m=871176418&s=612x612&w=0&h=oQX_Zq8KDmmrpihqVONzwluMveSygd0VsO2i1GB0hz0=']
+U+577C
+8
+chè
+32.5
+坼.mp3
+
+坽
+['NONE']
+['NINGUNA']
+[]
+U+577D
+8
+líng
+32.5
+坽.mp3
+
+坾
+['NONE']
+['NINGUNA']
+[]
+U+577E
+8
+zhù
+32.5
+坾.mp3
+
+坿
+['mound', ' used in place names']
+['montículo', 'utilizado en nombres de lugares']
+['https://media.gettyimages.com/photos/bigger-bucks-with-path-picture-id155148942?k=6&m=155148942&s=612x612&w=0&h=8YN-IiGlLCsThtk-q0rXLIWFwVRl_EapWBQ_UwRDigY=', 'https://media.gettyimages.com/photos/dublin-cut-in-stone-picture-id157611513?k=6&m=157611513&s=612x612&w=0&h=ZR6lO1FD1XtP0saRs6YeFUTKHcNHRp2nUNWoXgyZPq0=']
+U+577F
+8
+fù
+32.5
+坿.mp3
+
+垀
+['NONE']
+['NINGUNA']
+[]
+U+5780
+8
+hū
+32.5
+垀.mp3
+
+垁
+['NONE']
+['NINGUNA']
+[]
+U+5781
+8
+zhì
+32.5
+垁.mp3
+
+垂
+['let down', ' suspend, hand', ' down']
+['Dejar abajo', 'suspender, mano', 'abajo']
+['https://media.gettyimages.com/photos/real-displeased-senior-woman-portrait-picture-id947252896?k=6&m=947252896&s=612x612&w=0&h=oc3PYHeEG29wxCEnYvyyxvwauRXT2qH4aEGjrmObw5Y=', 'https://media.gettyimages.com/photos/santa-claus-with-christmas-ball-picture-id184851871?k=6&m=184851871&s=612x612&w=0&h=Uv6uEt6ILFOe7gAs-MyE0Oy30Sq2dRXSP4HYMt_5zqc=', 'https://media.gettyimages.com/photos/red-colored-down-arrows-picture-id896761626?k=6&m=896761626&s=612x612&w=0&h=Q7nPAqFoy3AqBfCFqRbr4Vl5L5eeVm9ThVNJ2OYwAVM=']
+U+5782
+8
+chuí
+32.5 33.5
+垂.mp3
+
+垃
+['garbage, refuse, waste']
+['basura, basura, desperdicio']
+['https://media.gettyimages.com/photos/making-compost-from-vegetable-leftovers-picture-id1160205101?k=6&m=1160205101&s=612x612&w=0&h=ZcLf2vVBuv-0wGGrpviLiExbszxTUra8-vPrE-sYMWY=']
+U+5783
+8
+lā
+32.5
+垃.mp3
+
+垄
+['grave, mound', ' ridge in field']
+['tumba, montículo', 'cresta en el campo']
+['https://media.gettyimages.com/photos/shes-got-an-eye-for-quality-control-picture-id690781410?k=6&m=690781410&s=612x612&w=0&h=N-L8ZVHMpWReVH17GtMz_G2R3MQqwuoOJ6PYbPR0HhQ=', 'https://media.gettyimages.com/photos/sunrise-in-the-mountains-picture-id899593100?k=6&m=899593100&s=612x612&w=0&h=pSJAnuCdJfFfs2PQZ4MnBg4c7mb5KBiemzbej1dAHso=']
+U+5784
+8
+lǒng
+32.5
+垄.mp3
+
+垅
+['mound, grave', ' ridge in field']
+['montículo, tumba', 'cresta en el campo']
+['https://media.gettyimages.com/photos/shes-got-an-eye-for-quality-control-picture-id690781410?k=6&m=690781410&s=612x612&w=0&h=N-L8ZVHMpWReVH17GtMz_G2R3MQqwuoOJ6PYbPR0HhQ=', 'https://media.gettyimages.com/photos/sunrise-in-the-mountains-picture-id899593100?k=6&m=899593100&s=612x612&w=0&h=pSJAnuCdJfFfs2PQZ4MnBg4c7mb5KBiemzbej1dAHso=']
+U+5785
+8
+lǒng
+32.5
+垅.mp3
+
+垆
+['black clods of earth', ' shop, hut']
+['terrones negros de tierra', 'tienda, choza']
+['NONE', 'https://media.gettyimages.com/photos/multi-colored-wood-cottages-and-tourist-souvenir-shops-long-bay-beach-picture-id1022148222?k=6&m=1022148222&s=612x612&w=0&h=Rus8NjKtL2cnrTZgYlI90l-b71jR4KqXHQM4lZO2Kvk=']
+U+5786
+8
+lú
+32.5
+垆.mp3
+
+垇
+['NONE']
+['NINGUNA']
+[]
+U+5787
+8
+ào
+32.5
+垇.mp3
+
+垈
+['used in place names', ' Japanese -nuta', ' Korean -dae']
+['utilizado en nombres de lugares', 'Japonés -nuta', 'Coreano -dae']
+['https://media.gettyimages.com/photos/dublin-cut-in-stone-picture-id157611513?k=6&m=157611513&s=612x612&w=0&h=ZR6lO1FD1XtP0saRs6YeFUTKHcNHRp2nUNWoXgyZPq0=', 'https://media.gettyimages.com/photos/mt-fuji-and-tokyo-skyline-picture-id904453184?k=6&m=904453184&s=612x612&w=0&h=CMv1G-MsZJ6nkS2c7f8Hkrv1TXMn1EAGFP1I4dG59iA=', 'https://media.gettyimages.com/photos/bukchon-hanok-village-with-modern-building-in-seoul-south-korea-picture-id838039606?k=6&m=838039606&s=612x612&w=0&h=0aQz2dGOFY7BqI_dxdzxFmC6-U7RkbD4xnsZvO68744=']
+U+5788
+8
+dài
+32.5
+垈.mp3
+
+垉
+['NONE']
+['NINGUNA']
+[]
+U+5789
+8
+páo
+32.5
+垉.mp3
+
+垊
+['NONE']
+['NINGUNA']
+[]
+U+578A
+8
+min
+32.5
+垊.mp3
+
+型
+['pattern, model, type', ' law', ' mold']
+['patrón, modelo, tipo', 'ley', 'molde']
+['https://media.gettyimages.com/photos/abstract-portrait-of-a-young-man-picture-id699113059?k=6&m=699113059&s=612x612&w=0&h=W7mJphTPHVML88F6kjAH5hernrGR_DuSvy8TTQNqH6Y=', 'https://media.gettyimages.com/photos/gavel-picture-id174197278?k=6&m=174197278&s=612x612&w=0&h=Q6EfAZkvopPQa8P-b71PeS_5YW5pkFgfvfqyvTrimlI=', 'https://media.gettyimages.com/photos/home-interior-black-mold-on-basement-wall-picture-id160949025?k=6&m=160949025&s=612x612&w=0&h=OMs1lO2ZPmZ1s4y2CBZ6swLZTbntmlj2PPZIZEKLN7A=']
+U+578B
+9
+xíng
+32.6
+型.mp3
+
+垌
+['a field', ' used in place names']
+['un campo', 'utilizado en nombres de lugares']
+['https://media.gettyimages.com/photos/green-rice-fild-with-evening-sky-picture-id516180836?k=6&m=516180836&s=612x612&w=0&h=9rlvGV4hIH1n76C0Uao5s2hWkmRoOOrcKXzYZjhmHWI=', 'https://media.gettyimages.com/photos/dublin-cut-in-stone-picture-id157611513?k=6&m=157611513&s=612x612&w=0&h=ZR6lO1FD1XtP0saRs6YeFUTKHcNHRp2nUNWoXgyZPq0=']
+U+578C
+9
+dòng
+32.6
+垌.mp3
+
+垍
+['NONE']
+['NINGUNA']
+[]
+U+578D
+9
+jì
+32.6
+垍.mp3
+
+垎
+['NONE']
+['NINGUNA']
+[]
+U+578E
+9
+hè
+32.6
+垎.mp3
+
+垏
+['NONE']
+['NINGUNA']
+[]
+U+578F
+9
+lǜ
+32.6
+垏.mp3
+
+垐
+['NONE']
+['NINGUNA']
+[]
+U+5790
+9
+cí
+32.6
+垐.mp3
+
+垑
+['NONE']
+['NINGUNA']
+[]
+U+5791
+9
+chǐ
+32.6
+垑.mp3
+
+垒
+['rampart, military wall']
+['muralla, muralla militar']
+['https://media.gettyimages.com/photos/the-ramparts-and-fortified-gates-of-province-picture-id673084244?k=6&m=673084244&s=612x612&w=0&h=UyqqAzsdeByLKQTnq8opq_F2cU71KHzO8pfG6hpBvCo=']
+U+5792
+9
+lěi
+32.6
+垒.mp3
+
+垓
+['border, boundary, frontier']
+['frontera, frontera, frontera']
+['https://media.gettyimages.com/photos/overcome-adversity-picture-id160177512?k=6&m=160177512&s=612x612&w=0&h=y045a2a_eHTqWWrR5dA43aKRBuy9poB9ecuvqjQPhpY=']
+U+5793
+9
+gāi
+32.6
+垓.mp3
+
+垔
+['to restrain', ' to dam a stream and change its direction', ' a mound']
+['para frenar', 'para represar un arroyo y cambiar su dirección', 'un montículo']
+['https://media.gettyimages.com/photos/female-athlete-pushing-against-ropes-picture-id569258437?k=6&m=569258437&s=612x612&w=0&h=SNlgXkMU5aNY2Xw7kd8V3RIAom-pdacsEwdWK9k5VyA=', 'NONE', 'https://media.gettyimages.com/photos/bigger-bucks-with-path-picture-id155148942?k=6&m=155148942&s=612x612&w=0&h=8YN-IiGlLCsThtk-q0rXLIWFwVRl_EapWBQ_UwRDigY=']
+U+5794
+9
+yīn
+32.6
+垔.mp3
+
+垕
+['used in place names']
+['utilizado en nombres de lugares']
+['https://media.gettyimages.com/photos/dublin-cut-in-stone-picture-id157611513?k=6&m=157611513&s=612x612&w=0&h=ZR6lO1FD1XtP0saRs6YeFUTKHcNHRp2nUNWoXgyZPq0=']
+U+5795
+9
+hòu
+32.6
+垕.mp3
+
+垖
+['NONE']
+['NINGUNA']
+[]
+U+5796
+9
+duī
+32.6
+垖.mp3
+
+垗
+['sacrifice']
+['sacrificio']
+['https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+5797
+9
+zhào
+32.6
+垗.mp3
+
+垘
+['NONE']
+['NINGUNA']
+[]
+U+5798
+9
+fú
+32.6
+垘.mp3
+
+垙
+['NONE']
+['NINGUNA']
+[]
+U+5799
+9
+guāng
+32.6
+垙.mp3
+
+垚
+['mound, roundish mass']
+['montículo, masa redondeada']
+['NONE']
+U+579A
+9
+yáo
+32.6
+垚.mp3
+
+垛
+['heap, pile', ' pile up, heap up']
+['montón', 'amontonar, amontonar']
+['https://media.gettyimages.com/photos/bigger-bucks-with-path-picture-id155148942?k=6&m=155148942&s=612x612&w=0&h=8YN-IiGlLCsThtk-q0rXLIWFwVRl_EapWBQ_UwRDigY=', 'https://media.gettyimages.com/photos/bigger-bucks-with-path-picture-id155148942?k=6&m=155148942&s=612x612&w=0&h=8YN-IiGlLCsThtk-q0rXLIWFwVRl_EapWBQ_UwRDigY=']
+U+579B
+9
+duǒ
+32.6
+垛.mp3
+
+垜
+['heap', ' buttress', ' battlements']
+['montón', 'contrafuerte', 'almenas']
+['https://media.gettyimages.com/photos/bigger-bucks-with-path-picture-id155148942?k=6&m=155148942&s=612x612&w=0&h=8YN-IiGlLCsThtk-q0rXLIWFwVRl_EapWBQ_UwRDigY=', 'https://media.gettyimages.com/photos/red-rock-background-picture-id186883289?k=6&m=186883289&s=612x612&w=0&h=TkaeFWfHMUtEF2pIA8u8pG5eEhrZOje24OFf2ZD7mwg=', 'https://media.gettyimages.com/photos/the-tower-and-battlements-of-a-traditional-medieval-european-castle-picture-id157192661?k=6&m=157192661&s=612x612&w=0&h=Bwx7hWwEE5sptse70UWhHJSLHWB2WO25Z7GHYIT5wNk=']
+U+579C
+9
+duǒ
+32.6
+垜.mp3
+
+垝
+['dilapidated, ruined']
+['dilapidado, arruinado']
+['https://media.gettyimages.com/photos/old-industrial-building-picture-id161821892?k=6&m=161821892&s=612x612&w=0&h=L5JhLpinKPJdETl3Xqbv7wybAhqBswU1kHnfkMpK2nI=']
+U+579D
+9
+guǐ
+32.6
+垝.mp3
+
+垞
+['small mound', ' place name', ' hillock']
+['pequeño montículo', 'ponga su nombre', 'montículo']
+['https://media.gettyimages.com/photos/new-life-isolated-on-white-background-picture-id184146279?k=6&m=184146279&s=612x612&w=0&h=ZO_qKWdH82z-ixxmy47hmuRRMBkMU9GmGTxNmp-uUDI=', 'https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=', 'https://media.gettyimages.com/photos/grassy-hill-sunny-sky-picture-id183404250?k=6&m=183404250&s=612x612&w=0&h=nNJyjOfa0u8jffPVkvQ4Xglk91tGtYclesk3mvNzDH8=']
+U+579E
+9
+chá
+32.6
+垞.mp3
+
+垟
+['NONE']
+['NINGUNA']
+[]
+U+579F
+9
+yáng
+32.6
+垟.mp3
+
+垠
+['boundary, bank of stream or river']
+['límite, orilla de un arroyo o río']
+['https://media.gettyimages.com/photos/european-central-bank-by-main-river-seen-from-deutschherrnbrucke-picture-id683858539?k=6&m=683858539&s=612x612&w=0&h=A-jGQHBdxq9sYGtjuLk2Idq4RlcyBN6VGmJ1h1sWMz0=']
+U+57A0
+9
+yín
+32.6
+垠.mp3
+
+垡
+['plow soil', ' place name']
+['suelo de arado', 'ponga su nombre']
+['https://media.gettyimages.com/photos/growing-maize-crop-and-tractor-working-on-the-field-picture-id960478834?k=6&m=960478834&s=612x612&w=0&h=WhNxIMiAA6APyAvt6XVS3La32tMQ22Vi8jaIjQWurG0=', 'https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+57A1
+9
+fá
+32.6
+垡.mp3
+
+垢
+['dirt, filth, stains', ' dirty']
+['suciedad, inmundicia, manchas', 'sucio']
+['https://media.gettyimages.com/photos/mixed-race-boy-wiping-messy-hands-on-shirt-picture-id103575996?k=6&m=103575996&s=612x612&w=0&h=80nuTFhuvze2Ri9OdvqeXzsDAtkDLZUfTW7ppWqo5Qk=', 'https://media.gettyimages.com/photos/dark-concrete-picture-id184601291?k=6&m=184601291&s=612x612&w=0&h=YfwPw9jvfCzKxNUS_g1bwNiczgWJlx2_ADp9X1wfd_I=']
+U+57A2
+9
+gòu
+32.6
+垢.mp3
+
+垣
+['low wall']
+['pared baja']
+['https://media.gettyimages.com/photos/old-wall-texture-picture-id182670278?k=6&m=182670278&s=612x612&w=0&h=cbGOnhe7ZqAzYI3aNh0CQItFUOZdep_3-X5roN413bE=']
+U+57A3
+9
+yuán
+32.6
+垣.mp3
+
+垤
+['ant-hill, small mound', ' hill']
+['hormiguero, pequeño montículo', 'colina']
+['https://media.gettyimages.com/photos/anthill-in-the-forest-netherlands-picture-id984281304?k=6&m=984281304&s=612x612&w=0&h=ihNAz_zWXmgGdaDXfDnp8vcV-FFh6ECTFrkJUoThLEs=', 'https://media.gettyimages.com/photos/digital-composition-of-green-meadow-and-blue-sky-picture-id154930429?k=6&m=154930429&s=612x612&w=0&h=4J4s0lYsxolnCqZsRlll3VnZJcFkNw06mcK3ZveBjEU=']
+U+57A4
+9
+dié
+32.6
+垤.mp3
+
+垥
+['NONE']
+['NINGUNA']
+[]
+U+57A5
+9
+xié
+32.6
+垥.mp3
+
+垦
+['cultivate, reclaim, to farm land']
+['cultivar, reclamar, cultivar tierras']
+['https://media.gettyimages.com/photos/farm-in-the-noordoostpolder-near-the-ijsselmeer-amidst-colourful-and-picture-id1056033082?k=6&m=1056033082&s=612x612&w=0&h=dj2QdsaQN3ucgkh8zjcS6vftOufecunYF4vLSXKCsEI=']
+U+57A6
+9
+kěn
+32.6
+垦.mp3
+
+垧
+['variable unit of land measure']
+['unidad variable de medida de la tierra']
+['https://media.gettyimages.com/photos/osteoporosis-treatment-picture-id519874208?k=6&m=519874208&s=612x612&w=0&h=WM64mXRh6gDXyN6b-pjKLF12H4ZlArJ7Z-fBPhDzx4g=']
+U+57A7
+9
+shǎng
+32.6
+垧.mp3
+
+垨
+['NONE']
+['NINGUNA']
+[]
+U+57A8
+9
+shǒu
+32.6
+垨.mp3
+
+垩
+['holy, sacred, sage', ' simplification of ']
+['santo, sagrado, sabio', 'simplificación de']
+['https://media.gettyimages.com/photos/sadhu-indian-holymen-sitting-in-the-temple-picture-id863655882?k=6&m=863655882&s=612x612&w=0&h=2cRgO-s-UtnyfZlxExB8TWmBP96RjED4_zOwABSSs50=', 'https://media.gettyimages.com/photos/apricots-in-water-picture-id97557553?k=6&m=97557553&s=612x612&w=0&h=EC4UEEE9zH_gVsoXgJEl8zic0pKlhE_4gsvACYlcTHw=']
+U+57A9
+9
+è
+32.6
+垩.mp3
+
+垪
+['NONE']
+['NINGUNA']
+[]
+U+57AA
+9
+bìng
+32.6
+垪.mp3
+
+垫
+['advance money, pay for another']
+['adelantar dinero, pagar otro']
+['https://media.gettyimages.com/photos/stock-market-financial-exchange-and-trading-graph-technology-concept-picture-id1158607726?k=6&m=1158607726&s=612x612&w=0&h=6unpRNPPbF0LHZ-5Ak98flZzMiU8gB2oCczFp8kthi0=']
+U+57AB
+9
+diàn
+32.6
+垫.mp3
+
+垬
+['NONE']
+['NINGUNA']
+[]
+U+57AC
+9
+hóng
+32.6
+垬.mp3
+
+垭
+['character used in place names']
+['carácter utilizado en nombres de lugares']
+['NONE']
+U+57AD
+9
+yā
+32.6
+垭.mp3
+
+垮
+['be defeated, fail, collapse']
+['ser derrotado, fallar, colapsar']
+['https://media.gettyimages.com/photos/exhausted-runners-on-track-picture-id520167170?k=6&m=520167170&s=612x612&w=0&h=OXY46J5lVPkhv1Q6tg_0CetZ9XoV4hRPAZGNC5grmik=']
+U+57AE
+9
+kuǎ
+32.6
+垮.mp3
+
+垯
+['NONE']
+['NINGUNA']
+[]
+U+57AF
+9
+da
+32.6
+垯.mp3
+
+垰
+['NONE']
+['NINGUNA']
+[]
+U+57B0
+9
+kǎ
+32.6
+垰.mp3
+
+垱
+['NONE']
+['NINGUNA']
+[]
+U+57B1
+9
+dàng
+32.6
+垱.mp3
+
+垲
+['high and dry place']
+['lugar alto y seco']
+['https://media.gettyimages.com/photos/drone-point-of-view-over-the-red-earth-of-the-australian-outback-picture-id1167924920?k=6&m=1167924920&s=612x612&w=0&h=HxpN1r9d5nbOxUSPNEsXc3tHN_sbZS0i8oqrPsK9-_E=']
+U+57B2
+9
+kǎi
+32.6
+垲.mp3
+
+垳
+['NONE']
+['NINGUNA']
+[]
+U+57B3
+9
+háng
+32.6
+垳.mp3
+
+垴
+['small, head shaped hill, used in place names']
+['pequeña colina en forma de cabeza, utilizada en nombres de lugares']
+['NONE']
+U+57B4
+9
+nǎo
+32.6
+垴.mp3
+
+垵
+['cover with earth', ' a pit', ' a hole']
+['cubrir con tierra', 'a pit', 'un agujero']
+['https://media.gettyimages.com/photos/cropped-hands-covering-planet-earth-against-white-background-picture-id953146946?k=6&m=953146946&s=612x612&w=0&h=1UIdAq_T6PzM79mDCmkSkd4RB_U3au0m_MU7rySd59g=', 'https://media.gettyimages.com/photos/red-formula-race-car-leaving-the-pit-stop-picture-id1126023919?k=6&m=1126023919&s=612x612&w=0&h=hk4SvaTk38d8RKEngMhc4PqDKc6gmhdtDqU-kf1kywY=', 'https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=']
+U+57B5
+9
+ǎn
+32.6
+垵.mp3
+
+垶
+['NONE']
+['NINGUNA']
+[]
+U+57B6
+10
+xīng
+32.7
+垶.mp3
+
+垷
+['NONE']
+['NINGUNA']
+[]
+U+57B7
+10
+xiàn
+32.7
+垷.mp3
+
+垸
+['a dyke, embankment']
+['un dique, terraplén']
+['https://media.gettyimages.com/photos/grassy-dyke-middenhof-zeeland-netherlands-picture-id1134519301?k=6&m=1134519301&s=612x612&w=0&h=on0FZDxsylbWoQUp3zfKQrXAdmlM1X8xoTkuXrbmAM8=']
+U+57B8
+10
+yuàn
+32.7
+垸.mp3
+
+垹
+['NONE']
+['NINGUNA']
+[]
+U+57B9
+9
+bāng
+32.7
+垹.mp3
+
+垺
+['NONE']
+['NINGUNA']
+[]
+U+57BA
+10
+fū
+32.7
+垺.mp3
+
+垻
+['an embankment', ' a slope over which boat pass']
+['un terraplén', 'una pendiente por la que pasan los barcos']
+['https://media.gettyimages.com/photos/young-boys-running-at-riverbank-picture-id1087167356?k=6&m=1087167356&s=612x612&w=0&h=-mevPtYFP_NGbtaKy610Of4SfqIqiCubY_jIKoIhwfw=', 'https://media.gettyimages.com/photos/maya-beach-picture-id901609032?k=6&m=901609032&s=612x612&w=0&h=2mnhyJvlvwYG9OfJqsLQyT7YFvF68BCnWMEhXzcWiLo=']
+U+57BB
+10
+bà
+32.7
+垻.mp3
+
+垼
+['NONE']
+['NINGUNA']
+[]
+U+57BC
+10
+yì
+32.7
+垼.mp3
+
+垽
+['(Cant.) sediment, precipitate']
+['(Cant.) Sedimento, precipitado']
+['NONE']
+U+57BD
+10
+yìn
+32.7
+垽.mp3
+
+垾
+['NONE']
+['NINGUNA']
+[]
+U+57BE
+10
+hàn
+32.7
+垾.mp3
+
+垿
+['NONE']
+['NINGUNA']
+[]
+U+57BF
+10
+xù
+32.7
+垿.mp3
+
+埀
+['let down', ' suspend, hand', ' down']
+['Dejar abajo', 'suspender, mano', 'abajo']
+['https://media.gettyimages.com/photos/real-displeased-senior-woman-portrait-picture-id947252896?k=6&m=947252896&s=612x612&w=0&h=oc3PYHeEG29wxCEnYvyyxvwauRXT2qH4aEGjrmObw5Y=', 'https://media.gettyimages.com/photos/santa-claus-with-christmas-ball-picture-id184851871?k=6&m=184851871&s=612x612&w=0&h=Uv6uEt6ILFOe7gAs-MyE0Oy30Sq2dRXSP4HYMt_5zqc=', 'https://media.gettyimages.com/photos/red-colored-down-arrows-picture-id896761626?k=6&m=896761626&s=612x612&w=0&h=Q7nPAqFoy3AqBfCFqRbr4Vl5L5eeVm9ThVNJ2OYwAVM=']
+U+57C0
+10
+chuí
+32.7
+埀.mp3
+
+埁
+['NONE']
+['NINGUNA']
+[]
+U+57C1
+10
+qín
+32.7
+埁.mp3
+
+埂
+['ditches for irrigation', ' hole']
+['acequias para riego', 'agujero']
+['https://media.gettyimages.com/photos/caucasian-farmer-standing-in-mustard-field-next-to-irrigation-ditch-picture-id463012433?k=6&m=463012433&s=612x612&w=0&h=cbXKFmWmTAA4rZ-3bG9fbQFS_2zLacAR4wNQtBzURO0=', 'https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=']
+U+57C2
+10
+gěng
+32.7
+埂.mp3
+
+埃
+['fine dust, dirt']
+['polvo fino, suciedad']
+['https://media.gettyimages.com/photos/full-frame-shot-of-sea-and-wave-picture-id1205000918?k=6&m=1205000918&s=612x612&w=0&h=Zf_3Gdqer6oJgwxvpySSPG9a-ijJy_T4nkw1REUMjE8=']
+U+57C3
+10
+āi
+32.7
+埃.mp3
+
+埄
+['whirling of dust in the wind']
+['remolino de polvo en el viento']
+['https://media.gettyimages.com/photos/what-a-mess-picture-id602233107?k=6&m=602233107&s=612x612&w=0&h=uSRBBYmQghW9O-B0gXT8B53d8QLbgG9ND-p8KNTk3GQ=']
+U+57C4
+10
+běng
+32.7
+埄.mp3
+
+埅
+['NONE']
+['NINGUNA']
+[]
+U+57C5
+9
+fáng
+32.7
+埅.mp3
+
+埆
+['stony']
+['pedregoso']
+['https://media.gettyimages.com/photos/limestone-picture-id170215830?k=6&m=170215830&s=612x612&w=0&h=Fua6_L10GPrfgKkQcoSaGh_jsQc0Pg7vD_dJ1fQtieo=']
+U+57C6
+10
+què
+32.7
+埆.mp3
+
+埇
+['name of bridge']
+['nombre del puente']
+['https://media.gettyimages.com/photos/blind-date-in-the-city-picture-id628579136?k=6&m=628579136&s=612x612&w=0&h=lfsMTS9y7SyJ8-gk9uYTkjVhGJjXoCTwPle83czMUNY=']
+U+57C7
+10
+yǒng
+32.7
+埇.mp3
+
+埈
+['high, steep, towering', ' stern']
+['alto, empinado, altísimo', 'popa']
+['https://media.gettyimages.com/photos/free-climber-hangs-one-handed-on-sea-cliff-rock-face-picture-id1089385462?k=6&m=1089385462&s=612x612&w=0&h=LXE7LFkDGmXdyE-Vb0KBB0DSETd_LrTKIoNIRjVz6wI=', 'https://media.gettyimages.com/photos/closeup-portrait-of-beautiful-young-woman-looking-in-camera-shot-on-picture-id1019899574?k=6&m=1019899574&s=612x612&w=0&h=YsAERDosr-7doC8Fh7H6ru7qxIypt7pKjWX56E7zdB8=']
+U+57C8
+10
+jùn
+32.7
+埈.mp3
+
+埉
+['NONE']
+['NINGUNA']
+[]
+U+57C9
+10
+jiā
+32.7
+埉.mp3
+
+埊
+['NONE']
+['NINGUNA']
+[]
+U+57CA
+10
+dì
+32.7
+埊.mp3
+
+埋
+['bury, secrete, conceal']
+['enterrar, secretar, ocultar']
+['NONE']
+U+57CB
+10
+mái
+32.7
+埋.mp3
+
+埌
+['waste']
+['residuos']
+['https://media.gettyimages.com/photos/making-compost-from-vegetable-leftovers-picture-id1160205101?k=6&m=1160205101&s=612x612&w=0&h=ZcLf2vVBuv-0wGGrpviLiExbszxTUra8-vPrE-sYMWY=']
+U+57CC
+10
+làng
+32.7
+埌.mp3
+
+埍
+['NONE']
+['NINGUNA']
+[]
+U+57CD
+10
+juǎn
+32.7
+埍.mp3
+
+城
+['castle', ' city, town', ' municipality']
+['castillo', 'ciudad, pueblo', 'municipio']
+['https://media.gettyimages.com/photos/the-genoese-medieval-fortress-in-sudak-crimea-picture-id157694509?k=6&m=157694509&s=612x612&w=0&h=ggejv6IEoArKmb7ZWGVMd1BpF3s4FX1YRTiPSzp_5Ck=', 'https://media.gettyimages.com/photos/aerial-view-of-a-new-residential-neighborhood-picture-id1070117618?k=6&m=1070117618&s=612x612&w=0&h=giSGAkCoe8iCVdRRzfn9HgoRwoxXdCuX-osLGC7b-fE=', 'https://media.gettyimages.com/photos/greenland-ice-sheet-qeqqata-municipality-kangerlussuaq-greenland-picture-id604574577?k=6&m=604574577&s=612x612&w=0&h=rNx7juDI9pjktFzD3-cNl_LWzoJz8-BueckaY8oTHMI=']
+U+57CE
+9
+chéng
+32.6
+城.mp3
+
+埏
+['a boundary, a limit']
+['un límite, un límite']
+['https://media.gettyimages.com/photos/backyard-garden-and-lawn-picture-id155432841?k=6&m=155432841&s=612x612&w=0&h=33n8XpOYx-ppViNVoB6qLh2graTc92wztxFMY6Yj1sU=']
+U+57CF
+9
+shān
+32.7
+埏.mp3
+
+埐
+['NONE']
+['NINGUNA']
+[]
+U+57D0
+10
+jīn
+32.7
+埐.mp3
+
+埑
+['NONE']
+['NINGUNA']
+[]
+U+57D1
+10
+zhé
+32.7
+埑.mp3
+
+埒
+['enclosure, dike, embankment']
+['recinto, dique, terraplén']
+['NONE']
+U+57D2
+10
+liè
+32.7
+埒.mp3
+
+埓
+['enclosure, dike, embankment']
+['recinto, dique, terraplén']
+['NONE']
+U+57D3
+10
+liè
+32.7
+埓.mp3
+
+埔
+['plain, arena', ' port, market']
+['llano, arena', 'puerto, mercado']
+['https://media.gettyimages.com/photos/empty-studio-background-picture-id953783374?k=6&m=953783374&s=612x612&w=0&h=F1KZHwGbtQwIHhTIoAXihAw_Ga4SG7vb6U5LhM4zV14=', 'https://media.gettyimages.com/photos/aerial-view-of-international-port-with-crane-loading-containers-in-picture-id996270738?k=6&m=996270738&s=612x612&w=0&h=-VgEDPpePLo6cG28Kh0SA8e3CeBhiMZqy6rK-0FvaVs=']
+U+57D4
+10
+bù
+32.7
+埔.mp3
+
+埕
+['a large, pear-shaped earthenware jar']
+['una vasija de barro grande con forma de pera']
+['NONE']
+U+57D5
+10
+chéng
+32.7
+埕.mp3
+
+埖
+['NONE']
+['NINGUNA']
+[]
+U+57D6
+10
+huā
+32.7
+埖.mp3
+
+埗
+['(same as ']
+['(igual que']
+['https://media.gettyimages.com/photos/hand-holding-five-aces-fanned-out-picture-id153339622?k=6&m=153339622&s=612x612&w=0&h=N3WPB6cGJAXmbgtIk8npwcFj0LT2wvC8tPXLRr_UWh8=']
+U+57D7
+10
+bù
+32.7
+埗.mp3
+
+埘
+['roost']
+['gallinero']
+['https://media.gettyimages.com/photos/hens-on-a-henhouse-ladder-picture-id155096602?k=6&m=155096602&s=612x612&w=0&h=vMvMiny8w-_Zh1wRCGn99vB1EbvGNn5n4DbgmxFLs28=']
+U+57D8
+10
+shí
+32.7
+埘.mp3
+
+埙
+['instrument']
+['instrumento']
+['https://media.gettyimages.com/photos/surgeon-picking-up-surgical-tool-from-tray-picture-id913784822?k=6&m=913784822&s=612x612&w=0&h=bJfLVLyKqc6To1ri7-vCTS95T_tbjGOthQrex7hMJiY=']
+U+57D9
+10
+xūn
+32.7
+埙.mp3
+
+埚
+['crucible']
+['crisol']
+['https://media.gettyimages.com/photos/-picture-id936081682?k=6&m=936081682&s=612x612&w=0&h=truVZmtZ4OFSFUJfuot-Hx0jxC2GBHlAD9q-n8P-6lQ=']
+U+57DA
+10
+guō
+32.7
+埚.mp3
+
+埛
+['NONE']
+['NINGUNA']
+[]
+U+57DB
+10
+jiōng
+32.7
+埛.mp3
+
+埜
+['open country, field', ' wilderness']
+['campo abierto, campo', 'desierto']
+['https://media.gettyimages.com/photos/country-road-and-canola-picture-id148016545?k=6&m=148016545&s=612x612&w=0&h=wd1URKsXsEhPgv4xFu7BddN9Xy8WIaydomTz9cRGr04=', 'https://media.gettyimages.com/photos/her-favourite-spot-to-trek-to-picture-id944543546?k=6&m=944543546&s=612x612&w=0&h=qkgH7bnaNEtNNuCFnz3KY-LpAsOdvrpvMY9oP8DugQg=']
+U+57DC
+11
+yě
+32.8
+埜.mp3
+
+埝
+['bank, dike', ' protuberance from']
+['Banco, lado', 'protuberancia de']
+['https://media.gettyimages.com/photos/dirt-road-cutting-through-green-meadow-on-bank-of-ems-picture-id1272243637?k=6&m=1272243637&s=612x612&w=0&h=-N8RYcPOKq4u-PV0k_weGW3eN_vmo7UMK5NUoc8KPkA=', 'https://media.gettyimages.com/photos/mysterious-beautiful-blue-space-nebula-picture-id91765979?k=6&m=91765979&s=612x612&w=0&h=_RsAi0XpCk0wV6FYKQD_rJOZtdrqkmZFpM82S-KZKY0=']
+U+57DD
+11
+niàn
+32.8
+埝.mp3
+
+埞
+['(Cant.) place']
+['(Cant.) Lugar']
+['https://media.gettyimages.com/photos/aerial-view-of-korean-village-houses-on-the-border-w-surrounding-farm-picture-id50775197?k=6&m=50775197&s=612x612&w=0&h=J3XaJmtr-FmN2i79rrWP56h0amb-fODcf61SXav-1WA=']
+U+57DE
+11
+dī
+32.8
+埞.mp3
+
+域
+['district, region, boundary', ' land']
+['distrito, región, límite', 'tierra']
+['https://media.gettyimages.com/photos/boundary-stone-border-between-germany-and-the-czech-republic-at-mt-picture-id999140860?k=6&m=999140860&s=612x612&w=0&h=uHqrTtB4hcnb2CWxfnLq8-cNfXeYFRKGQGO7zFVl7-M=', 'https://media.gettyimages.com/photos/background-of-earth-and-dirt-picture-id96707219?k=6&m=96707219&s=612x612&w=0&h=csP3QS9Uw76KN0x1F8G-zCEXytvFIC4StuO4o4U2VcY=']
+U+57DF
+11
+yù
+32.8
+域.mp3
+
+埠
+['port city']
+['ciudad portuaria']
+['https://media.gettyimages.com/photos/bridge-in-hong-kong-and-container-cargo-freight-ship-picture-id1058737714?k=6&m=1058737714&s=612x612&w=0&h=a7ezWRHrLml9IFUmyr4Xh1WSxPW42r8dgCPy2jEfZ1k=']
+U+57E0
+11
+bù
+32.8
+埠.mp3
+
+埡
+['character used in place names']
+['carácter utilizado en nombres de lugares']
+['NONE']
+U+57E1
+11
+yā
+32.8
+埡.mp3
+
+埢
+['NONE']
+['NINGUNA']
+[]
+U+57E2
+11
+quán
+32.8
+埢.mp3
+
+埣
+['NONE']
+['NINGUNA']
+[]
+U+57E3
+11
+suì
+32.8
+埣.mp3
+
+埤
+['add, increase, attach', ' low fence']
+['agregar, aumentar, adjuntar', 'cerca baja']
+['NONE', 'https://media.gettyimages.com/photos/locked-up-dog-picture-id696670054?k=6&m=696670054&s=612x612&w=0&h=amC4RJNLdPWpQTemY3HzY7jYnWbKj9QHdPYDElwGC48=']
+U+57E4
+11
+pí
+32.8
+埤.mp3
+
+埥
+['NONE']
+['NINGUNA']
+[]
+U+57E5
+11
+qīng
+32.8
+埥.mp3
+
+埦
+['a bowl']
+['un tazón']
+['https://media.gettyimages.com/photos/corn-flaked-breakfast-cereal-picture-id182190208?k=6&m=182190208&s=612x612&w=0&h=797v_ephnieCjwIa09fTOoT7AfRA3KBUpte9nEgSIuw=']
+U+57E6
+11
+wǎn
+32.8
+埦.mp3
+
+埧
+['dam']
+['represa']
+['https://media.gettyimages.com/photos/waterfall-picture-id157524977?k=6&m=157524977&s=612x612&w=0&h=l-y75k5I-dv44tTqkWnHp714eN3eeJjpwTpRoHFBrik=']
+U+57E7
+11
+jù
+32.8
+埧.mp3
+
+埨
+['NONE']
+['NINGUNA']
+[]
+U+57E8
+11
+lǔn
+32.8
+埨.mp3
+
+埩
+['NONE']
+['NINGUNA']
+[]
+U+57E9
+9
+zhēng
+32.8
+埩.mp3
+
+埪
+['NONE']
+['NINGUNA']
+[]
+U+57EA
+11
+kōng
+32.9
+埪.mp3
+
+埫
+['NONE']
+['NINGUNA']
+[]
+U+57EB
+11
+chǒng
+32.8
+埫.mp3
+
+埬
+['NONE']
+['NINGUNA']
+[]
+U+57EC
+11
+dōng
+32.8
+埬.mp3
+
+埭
+['a dam, a jock', ' inclined plane on a canal, where boats can be hauled up or down']
+['una presa, un deportista', 'plano inclinado en un canal, donde los barcos se pueden subir o bajar']
+['https://media.gettyimages.com/photos/run-and-find-yourself-picture-id892323024?k=6&m=892323024&s=612x612&w=0&h=3clsDd8uxZClHRTstPFmSjpgRdg8apC_SVBNAbpejig=', 'NONE']
+U+57ED
+11
+dài
+32.8
+埭.mp3
+
+埮
+['NONE']
+['NINGUNA']
+[]
+U+57EE
+11
+tàn
+32.8
+埮.mp3
+
+埯
+['cover with earth', ' a pit', ' a hole']
+['cubrir con tierra', 'a pit', 'un agujero']
+['https://media.gettyimages.com/photos/cropped-hands-covering-planet-earth-against-white-background-picture-id953146946?k=6&m=953146946&s=612x612&w=0&h=1UIdAq_T6PzM79mDCmkSkd4RB_U3au0m_MU7rySd59g=', 'https://media.gettyimages.com/photos/red-formula-race-car-leaving-the-pit-stop-picture-id1126023919?k=6&m=1126023919&s=612x612&w=0&h=hk4SvaTk38d8RKEngMhc4PqDKc6gmhdtDqU-kf1kywY=', 'https://media.gettyimages.com/photos/torn-paper-hole-picture-id184652531?k=6&m=184652531&s=612x612&w=0&h=HRwYGm6mCmuiYMWyZPt5D7NXmzhVOsg5avb2XQb0PWc=']
+U+57EF
+11
+ǎn
+32.8
+埯.mp3
+
+埰
+['fief']
+['feudo']
+['https://media.gettyimages.com/photos/fabric-background-texture-with-fiber-thread-picture-id1032445592?k=6&m=1032445592&s=612x612&w=0&h=Eu3lZH9oeEptg7cBzetpO_-SfcULAusqhqQzaAhr7Vc=']
+U+57F0
+11
+cài
+32.8
+埰.mp3
+
+埱
+['NONE']
+['NINGUNA']
+[]
+U+57F1
+11
+chù
+32.8
+埱.mp3
+
+埲
+['(Cant.) classifier for walls']
+['(Cant.) Clasificador para paredes']
+['NONE']
+U+57F2
+11
+běng
+32.8
+埲.mp3
+
+埳
+['a pit, a hole, a snare, a danger', ' a crisis', ' a mortar']
+['un hoyo, un agujero, una trampa, un peligro', 'a crisis', 'a mortar']
+['NONE', 'https://media.gettyimages.com/photos/generous-people-helping-to-poor-people-picture-id1139776668?k=6&m=1139776668&s=612x612&w=0&h=VNUe36-Oy5kgDWiQL_mrRfjUjLNYPZ9euG19DAoLD2o=', 'https://media.gettyimages.com/photos/tile-handyman-applying-adhesive-on-a-tile-picture-id638506270?k=6&m=638506270&s=612x612&w=0&h=xsmUDUZp-0QnHwyEyXqAj2gUFJiocczRHokAKSnv6k0=']
+U+57F3
+11
+kǎn
+32.8
+埳.mp3
+
+埴
+['soil with large clay content']
+['suelo con gran contenido de arcilla']
+['NONE']
+U+57F4
+11
+zhí
+32.8
+埴.mp3
+
+埵
+['hardened dirt or clay', ' cluster']
+['tierra o arcilla endurecida', 'racimo']
+['https://media.gettyimages.com/photos/white-concrete-texture-with-grunge-in-daylight-vintage-and-loft-picture-id1162914008?k=6&m=1162914008&s=612x612&w=0&h=hu6F-B8hYP3CArq9Nbm3avpt6cCcf7doiRa3QK04g_M=', 'https://media.gettyimages.com/photos/aerial-view-of-a-crossing-in-mexico-city-picture-id1032513938?k=6&m=1032513938&s=612x612&w=0&h=85VZYkMFBanjqHysXmvwahiTweYTZ_hhewrKd84ELYI=']
+U+57F5
+11
+duǒ
+32.8
+埵.mp3
+
+埶
+['art']
+['Arte']
+['https://media.gettyimages.com/photos/the-painter-hands-picture-id1190200652?k=6&m=1190200652&s=612x612&w=0&h=sVOO8t2VHNno7nDlGqDV7XNEioBFKfgwiOQpXHfhRCs=']
+U+57F6
+11
+yì
+32.8
+埶.mp3
+
+執
+['hold in hand', ' keep', ' carry out']
+['sostener en la mano', 'mantener', 'llevar a cabo']
+['https://media.gettyimages.com/photos/close-up-hand-hold-phone-isolated-on-white-picture-id996104388?k=6&m=996104388&s=612x612&w=0&h=TTp1fEtmctPfDj2TLVLj9_vd_C8GvsReTICcFUgfS-g=', 'https://media.gettyimages.com/photos/keep-it-simple-picture-id1188537959?k=6&m=1188537959&s=612x612&w=0&h=vSBnFpn5BB6mtH4C15Z6XXpFdHiembD2baT96D_oXeI=', 'https://media.gettyimages.com/photos/close-up-of-woman-receiving-take-away-food-delivery-picture-id1149029916?k=6&m=1149029916&s=612x612&w=0&h=hrICsLi5tMleABEVZWVYvHRWUfUJA7UW6br0BIk_pcU=']
+U+57F7
+11
+zhí
+32.8
+執.mp3
+
+埸
+['a border', ' a limit', ' a dike', ' a frontier', ' a boundary']
+['una frontera', 'un limite', 'un dique', 'una frontera', 'un límite']
+['https://media.gettyimages.com/photos/empty-gold-ornate-picture-frame-with-white-background-picture-id182391849?k=6&m=182391849&s=612x612&w=0&h=4ebJNTROFE6apaotnotpr9N9cltcSMNIBnCiFsN1ffE=', 'https://media.gettyimages.com/photos/blank-page-of-paper-with-textured-edges-picture-id183034798?k=6&m=183034798&s=612x612&w=0&h=h40lugYAPuWYHu3qjVPl0crfStF0XSza4uXEugeZxU0=', 'https://media.gettyimages.com/photos/on-and-off-shore-wind-turbines-at-ijsselmeer-lake-netherlands-picture-id740529299?k=6&m=740529299&s=612x612&w=0&h=vpd8HohAavWM_tGuYbhw2m27alQ-iw5xqkwb4eGoO6Q=', 'https://media.gettyimages.com/photos/the-united-states-mexico-international-border-wall-between-sunland-picture-id1097451738?k=6&m=1097451738&s=612x612&w=0&h=40k1QkyWFnUziPrBtg7e6wRVsQ52eiG0gPhfbAg9lHY=', 'https://media.gettyimages.com/photos/fallen-tree-blocking-road-picture-id157481087?k=6&m=157481087&s=612x612&w=0&h=dTxg-TNKN4FIBA6QjGe0SqV0kA1xYReQ1pZVGUZVO-8=']
+U+57F8
+11
+yì
+32.8
+埸.mp3
+
+培
+['bank up with dirt', ' cultivate']
+['acumularse con tierra', 'cultivar']
+['https://media.gettyimages.com/photos/inspiration-ideas-light-bulb-business-coin-market-retail-space-gold-picture-id1187372767?k=6&m=1187372767&s=612x612&w=0&h=fhqGHC6bapzSS2CoJddV3pDO8cWAe8X9P_cHonCZN7A=', 'https://media.gettyimages.com/photos/keeping-a-close-watch-on-his-crops-picture-id1083286598?k=6&m=1083286598&s=612x612&w=0&h=z-hXgpnT5xiOLyTCJHL4ObYs7WX2t-LB2F5p4p3JI9M=']
+U+57F9
+11
+péi
+32.8
+培.mp3
+
+基
+['foundation, base']
+['fundación, base']
+['https://media.gettyimages.com/photos/beech-tree-roots-in-the-forest-picture-id645280358?k=6&m=645280358&s=612x612&w=0&h=7C1_yilZI_EOUwvR6lSPGmJ8kXYwFl3PTp35EJaBhkc=']
+U+57FA
+11
+jī
+32.8
+基.mp3
+
+埻
+['NONE']
+['NINGUNA']
+[]
+U+57FB
+11
+zhǔn
+32.8
+埻.mp3
+
+埼
+['headland']
+['promontorio']
+['https://media.gettyimages.com/photos/fanad-head-lighthouse-on-fanad-peninsula-overlooking-the-atlantic-picture-id1149470409?k=6&m=1149470409&s=612x612&w=0&h=ILVJqIGE_2ea2VrhHjR5qHiY0sKVux07do0CoOHZKZc=']
+U+57FC
+11
+qí
+32.8
+埼.mp3
+
+埽
+['broom', ' to sweep, clear away']
+['Escoba', 'barrer, limpiar']
+['https://media.gettyimages.com/photos/broom-picture-id184100673?k=6&m=184100673&s=612x612&w=0&h=ngNVGM-S54j67BG-D9X0q8tpeBa9RV2JvAbf-16ndCI=', 'https://media.gettyimages.com/photos/woman-sweeping-floor-picture-id925284524?k=6&m=925284524&s=612x612&w=0&h=Tni1qaug1gZZRUJLz4YjTkR3tTN_KznzWwPkEz1Vqac=']
+U+57FD
+11
+sào
+32.8
+埽.mp3
+
+埾
+['NONE']
+['NINGUNA']
+[]
+U+57FE
+11
+jù
+32.8
+埾.mp3
+
+埿
+['NONE']
+['NINGUNA']
+[]
+U+57FF
+11
+ní
+32.8
+埿.mp3
+
+堀
+['cave, hole']
+['cueva, agujero']
+['https://media.gettyimages.com/photos/volcanic-cavern-view-from-inside-a-large-caveshaped-well-in-a-humid-picture-id988513934?k=6&m=988513934&s=612x612&w=0&h=Z9nIt05hVcC5Fn1llV91A1cXskeUcox1xTlIX9CTCSQ=']
+U+5800
+11
+kū
+32.8
+堀.mp3
+
+堁
+['NONE']
+['NINGUNA']
+[]
+U+5801
+11
+kè
+32.8
+堁.mp3
+
+堂
+['hall', ' government office']
+['sala', 'oficina gubernamental']
+['https://media.gettyimages.com/photos/empty-modern-japanese-hospital-corridor-picture-id1049338924?k=6&m=1049338924&s=612x612&w=0&h=RTjvUkjGoymBPtSSBvtERVHVN0u1uU09frvKWgcYmCY=', 'https://media.gettyimages.com/photos/business-meeting-picture-id1035834404?k=6&m=1035834404&s=612x612&w=0&h=_vcp0W8nzxsN7WVAeOxJ6bUn1wbOrEPchisceHB7K5E=']
+U+5802
+11
+táng
+32.8
+堂.mp3
+
+堃
+['compliance', ' obedience', ' female']
+['conformidad', 'obediencia', 'hembra']
+['https://media.gettyimages.com/photos/group-of-business-people-holding-a-jigsaw-puzzle-pieces-picture-id840678292?k=6&m=840678292&s=612x612&w=0&h=aFLUWrcIq9c7UkKhJw6ruboa6jnbtOX49X6FYCJbYiY=', 'https://media.gettyimages.com/photos/father-talking-to-little-boy-on-playground-picture-id920732910?k=6&m=920732910&s=612x612&w=0&h=JVNksxnOYA5mNbyE56QrpapL6BrweEoUYGaOO6H-dS8=', 'https://media.gettyimages.com/photos/smiling-businesswoman-at-work-picture-id1092806334?k=6&m=1092806334&s=612x612&w=0&h=QFciT2-ETPhrtXIdaSaBhMCK80qXkZ0gtBTvad_tQYw=']
+U+5803
+11
+kūn
+32.8
+堃.mp3
+
+堄
+['parapet']
+['parapeto']
+['https://media.gettyimages.com/photos/old-distressed-white-brick-wall-picture-id157333714?k=6&m=157333714&s=612x612&w=0&h=Z211VHCeQIgxArU2KITCSMh94dB3JtzOcDntuVh8eDc=']
+U+5804
+11
+nì
+32.8
+堄.mp3
+
+堅
+['hard, strong, firm', ' resolute']
+['duro, fuerte, firme', 'resuelto']
+['https://media.gettyimages.com/photos/hard-workouts-picture-id599467104?k=6&m=599467104&s=612x612&w=0&h=RouxbWNvNYTTg-B_F7NwN8tEmza2mesoqhN1nOxaAwI=', 'https://media.gettyimages.com/photos/prove-it-to-yourself-picture-id693655538?k=6&m=693655538&s=612x612&w=0&h=ILmm-yEyIb9IAav-SvWq-TlqiTTzo2pI4m6gY-dSnU0=']
+U+5805
+11
+jiān
+32.8
+堅.mp3
+
+堆
+['heap, pile, crowd', ' pile up']
+['montón, pila, multitud', 'amontonar']
+['https://media.gettyimages.com/photos/teamwork-of-friends-picture-id904181954?k=6&m=904181954&s=612x612&w=0&h=AaNtgJcR4hIbi-pQ_fBZLbF0YArBHpLmy3DHgoY5vhY=', 'https://media.gettyimages.com/photos/isolated-shot-of-stacked-file-folders-on-white-background-picture-id136722192?k=6&m=136722192&s=612x612&w=0&h=TNo_jfI7cMEOCkZwvmnz__uOKcGJyrJwMSQd4SJcPGs=']
+U+5806
+11
+duī
+32.8
+堆.mp3
+
+堇
+['yellow loam', ' clay', ' season', ' few']
+['marga amarilla', 'arcilla', 'temporada', 'pocos']
+['https://media.gettyimages.com/photos/yellow-vase-made-of-clay-mosaik-in-front-of-a-white-wall-cyclades-picture-id1039038552?k=6&m=1039038552&s=612x612&w=0&h=5cwQiZ819zR4BLBK0ZeFG2gRNeckhi1uJn74opiJ4HY=', 'https://media.gettyimages.com/photos/getting-creative-with-plasticine-modeling-clay-picture-id1183098597?k=6&m=1183098597&s=612x612&w=0&h=EkpNRD-GMmwVUdB7zqOuWBhS4a51lTR20EcClueO5xM=', 'https://media.gettyimages.com/photos/little-truck-with-load-of-miniature-pumpkins-for-fall-and-picture-id1171152567?k=6&m=1171152567&s=612x612&w=0&h=J4uVzLxZThJWus4diqtMXOiMjJ6B82AmydybhFhvtMM=', 'https://media.gettyimages.com/photos/group-therapy-session-picture-id1041156338?k=6&m=1041156338&s=612x612&w=0&h=pugMH9XaHRzOEwTVsdnvbpdJTxnSUiW7nRR5vRxri1U=']
+U+5807
+11
+jǐn
+32.8
+堇.mp3
+
+堈
+['earthen jug, crock, cistern']
+['jarra de barro, vasija, cisterna']
+['NONE']
+U+5808
+11
+gāng
+32.8
+堈.mp3
+
+堉
+['ground, fertile land']
+['tierra, tierra fértil']
+['https://media.gettyimages.com/photos/crops-grow-on-fertile-farm-land-picture-id913504938?k=6&m=913504938&s=612x612&w=0&h=np2A7glHUyJ_R_NGmvk2zn9bXZOR3-Lh88tV12BRS5Y=']
+U+5809
+11
+yù
+32.8
+堉.mp3
+
+堊
+['white earth', ' to daub with white mud']
+['tierra blanca', 'para untar con barro blanco']
+['https://media.gettyimages.com/photos/xinjiang-cotton-picture-id1170908692?k=6&m=1170908692&s=612x612&w=0&h=t-Y7WCwCDnfDwE2Ab1kxMVkRIGnRd3-sYVcZyNtd-mk=', 'NONE']
+U+580A
+11
+è
+32.8
+堊.mp3
+
+堋
+['bury']
+['enterrar']
+['https://media.gettyimages.com/photos/people-burying-man-in-sand-picture-id86482826?k=6&m=86482826&s=612x612&w=0&h=ll5b8v_4osI5b3naYvQocvSQqZUsIDhQM2OM9igrsS4=']
+U+580B
+11
+péng
+32.8
+堋.mp3
+
+堌
+['dam, dike', ' used in place names']
+['Precio, lado', 'utilizado en nombres de lugares']
+['https://media.gettyimages.com/photos/watchful-brent-goose-standig-at-the-top-of-the-dike-picture-id130837024?k=6&m=130837024&s=612x612&w=0&h=4eeR5Fdrp_Xb-b8IfZEiHB4id9QcyFDeIFbF5PGVTDw=', 'https://media.gettyimages.com/photos/dublin-cut-in-stone-picture-id157611513?k=6&m=157611513&s=612x612&w=0&h=ZR6lO1FD1XtP0saRs6YeFUTKHcNHRp2nUNWoXgyZPq0=']
+U+580C
+11
+gù
+32.8
+堌.mp3
+
+堍
+['NONE']
+['NINGUNA']
+[]
+U+580D
+11
+tù
+32.8
+堍.mp3
+
+堎
+['character used for place names']
+['carácter utilizado para nombres de lugares']
+['NONE']
+U+580E
+11
+lèng
+32.8
+堎.mp3
+
+堏
+['NONE']
+['NINGUNA']
+[]
+U+580F
+11
+fang
+32.8
+堏.mp3
+
+堐
+['NONE']
+['NINGUNA']
+[]
+U+5810
+11
+yá
+32.8
+堐.mp3
+
+堑
+['moat, trench, pit, cavity']
+['foso, trinchera, pozo, cavidad']
+['NONE']
+U+5811
+11
+qiàn
+32.8
+堑.mp3
+
+堒
+['NONE']
+['NINGUNA']
+[]
+U+5812
+11
+kūn
+32.8
+堒.mp3
+
+堓
+['NONE']
+['NINGUNA']
+[]
+U+5813
+11
+àn
+32.8
+堓.mp3
+
+堔
+['NONE']
+['NINGUNA']
+[]
+U+5814
+11
+shēn
+32.8
+堔.mp3
+
+堕
+['fall, sink, let fall', ' degenerate']
+['caer, hundirse, dejar caer', 'degenerar']
+['NONE', 'https://media.gettyimages.com/photos/bear-market-picture-id183414497?k=6&m=183414497&s=612x612&w=0&h=AiPuEFfr2hJX4KqsO2Mh7m8S9Of8-ylzBgSs0xjHKIA=']
+U+5815
+11
+duò
+32.8
+堕.mp3
+
+堖
+['small, head shaped hill, used in place names']
+['pequeña colina en forma de cabeza, utilizada en nombres de lugares']
+['NONE']
+U+5816
+12
+nǎo
+32.9
+堖.mp3
+
+堗
+['NONE']
+['NINGUNA']
+[]
+U+5817
+12
+tū
+32.9
+堗.mp3
+
+堘
+['a raised path between field which acts as a dyke']
+['un camino elevado entre campo que actúa como un dique']
+['NONE']
+U+5818
+12
+chéng
+32.9
+堘.mp3
+

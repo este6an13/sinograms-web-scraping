@@ -1,0 +1,2560 @@
+蠙
+['oyster']
+['ostra']
+['https://media.gettyimages.com/photos/couple-enjoying-raw-oysters-picture-id691572613?k=6&m=691572613&s=612x612&w=0&h=prxDejdaE2TeOPUNClhfUGblACC5KPK7oaM5lIn7Fm0=']
+U+8819
+20
+pín
+142.14
+蠙.mp3
+
+蠚
+['NONE']
+['NINGUNA']
+[]
+U+881A
+20
+hē
+142.15
+蠚.mp3
+
+蠛
+['flies, small insects produced in damp places']
+['moscas, pequeños insectos producidos en lugares húmedos']
+['NONE']
+U+881B
+20
+miè
+142.15
+蠛.mp3
+
+蠜
+['grasshopper']
+['saltamontes']
+['https://media.gettyimages.com/photos/grasshopper-picture-id155095890?k=6&m=155095890&s=612x612&w=0&h=gF_hLmEBXa1CuRFsktZTWxqfd3OZ2C0uyUJvhfZe-eY=']
+U+881C
+21
+fán
+142.15
+蠜.mp3
+
+蠝
+['NONE']
+['NINGUNA']
+[]
+U+881D
+21
+lěi
+142.15
+蠝.mp3
+
+蠞
+['NONE']
+['NINGUNA']
+[]
+U+881E
+19
+jié
+142.15
+蠞.mp3
+
+蠟
+['wax', ' candle', ' waxy, glazed']
+['cera', 'vela', 'ceroso, vidriado']
+['https://media.gettyimages.com/photos/theyll-be-smooth-to-the-touch-soon-picture-id1131975216?k=6&m=1131975216&s=612x612&w=0&h=CXTqUb2KFJj663t9k6nCD0jqvTpXmVO4RaABhVNYbNI=', 'https://media.gettyimages.com/photos/single-lit-candle-with-quite-flame-picture-id157637737?k=6&m=157637737&s=612x612&w=0&h=tYLeZyR6Gokk9SmTCMXV1VQHy52tDVryPgDD0RdJ9JE=', 'NONE']
+U+881F
+21
+là
+142.15
+蠟.mp3
+
+蠠
+['NONE']
+['NINGUNA']
+[]
+U+8820
+21
+mǐn
+142.15
+蠠.mp3
+
+蠡
+['wood-boring insect', ' bore into wood']
+['insecto perforador de madera', 'taladrar en madera']
+['https://media.gettyimages.com/photos/metallic-woodboring-beetle-picture-id1283341300?k=6&m=1283341300&s=612x612&w=0&h=YxNp3B0iuEeEuyJNe7wkSjq_XeD68bpIPd7oUsy1EwI=', 'https://media.gettyimages.com/photos/drill-and-bore-holed-wood-in-a-workshop-in-kuala-lumpur-malaysia-picture-id1063508392?k=6&m=1063508392&s=612x612&w=0&h=qRupXfibvUbGgv6JdEwC3qv3fNobj-CG4RgmRaaO6mE=']
+U+8821
+21
+lí
+142.15
+蠡.mp3
+
+蠢
+['wriggle', ' stupid', ' silly', ' fat']
+['meneo', 'estúpido', 'tonto', 'grasa']
+['https://media.gettyimages.com/vectors/cute-dinosaur-set-vector-id472349985?k=6&m=472349985&s=612x612&w=0&h=EzMu0-kF4dlrbIqql8W75u6IufMW1iDLkbT_aANY-oQ=', 'https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=', 'https://media.gettyimages.com/photos/boy-and-dog-in-toy-racing-car-picture-id1162019476?k=6&m=1162019476&s=612x612&w=0&h=3FWAHt58LjBXH_oKNqG7kB45ULUsH1MLmLl5Cpea7ek=', 'https://media.gettyimages.com/photos/how-do-i-get-rid-of-this-picture-id1057839186?k=6&m=1057839186&s=612x612&w=0&h=rDttcIj9m2xcpkoj-FZk61-T1_r0FgPGvR1CByMVTMQ=']
+U+8822
+21
+chǔn
+142.15
+蠢.mp3
+
+蠣
+['oyster']
+['ostra']
+['https://media.gettyimages.com/photos/couple-enjoying-raw-oysters-picture-id691572613?k=6&m=691572613&s=612x612&w=0&h=prxDejdaE2TeOPUNClhfUGblACC5KPK7oaM5lIn7Fm0=']
+U+8823
+20
+lì
+142.15
+蠣.mp3
+
+蠤
+['NONE']
+['NINGUNA']
+[]
+U+8824
+21
+qiū
+142.15
+蠤.mp3
+
+蠥
+['NONE']
+['NINGUNA']
+[]
+U+8825
+22
+niè
+142.16
+蠥.mp3
+
+蠦
+['NONE']
+['NINGUNA']
+[]
+U+8826
+22
+lú
+142.16
+蠦.mp3
+
+蠧
+['moth', ' insects which eat into cloth']
+['polilla', 'insectos que comen tela']
+['https://media.gettyimages.com/photos/moths-on-wool-sweater-picture-id112299687?k=6&m=112299687&s=612x612&w=0&h=N9-EGJLAnm4Cg_Fj9mVGgmuVSIaCS5cXBNDIWHtna18=', 'https://media.gettyimages.com/photos/tabby-kitten-playing-with-a-fly-picture-id1154640762?k=6&m=1154640762&s=612x612&w=0&h=Myc-4qKWuvJcycQqwDX32ua4_8My0znc0LBHCO2AzSo=']
+U+8827
+22
+dù
+142.16
+蠧.mp3
+
+蠨
+['a kind of spider with long legs']
+['una especie de araña con patas largas']
+['NONE']
+U+8828
+22
+xiāo
+142.16
+蠨.mp3
+
+蠩
+['a toad']
+['un sapo']
+['https://media.gettyimages.com/photos/cut-out-studio-shot-of-a-cane-toad-picture-iddv1648012?k=6&m=dv1648012&s=612x612&w=0&h=AvaQdUgQYKW9I3aOPolUpCxo175_YyE0z3d0pT6UIdU=']
+U+8829
+21
+zhū
+142.16
+蠩.mp3
+
+蠪
+['NONE']
+['NINGUNA']
+[]
+U+882A
+22
+lóng
+142.16
+蠪.mp3
+
+蠫
+['NONE']
+['NINGUNA']
+[]
+U+882B
+21
+lí
+142.16
+蠫.mp3
+
+蠬
+['NONE']
+['NINGUNA']
+[]
+U+882C
+22
+lóng
+142.16
+蠬.mp3
+
+蠭
+['bees, hornets, wasps']
+['abejas, avispones, avispas']
+['https://media.gettyimages.com/photos/wasp-nest-macro-picture-id1164595084?k=6&m=1164595084&s=612x612&w=0&h=tc8am_4UUczKJcRhbRYM2CAHumiUvQ1--wDgZgtpZ4M=']
+U+882D
+22
+fēng
+142.17
+蠭.mp3
+
+蠮
+['bee']
+['abeja']
+['https://media.gettyimages.com/photos/swarm-of-honey-bees-picture-id598995404?k=6&m=598995404&s=612x612&w=0&h=GmF9I5B4kupoUquweIwCw9V2AfK9eBVqcpUKNuOgaBE=']
+U+882E
+23
+yē
+142.17
+蠮.mp3
+
+蠯
+['NONE']
+['NINGUNA']
+[]
+U+882F
+23
+pí
+142.17
+蠯.mp3
+
+蠰
+['NONE']
+['NINGUNA']
+[]
+U+8830
+23
+náng
+142.17
+蠰.mp3
+
+蠱
+['poison', ' venom', ' harm', ' bewitch']
+['veneno', 'veneno', 'daño', 'hechizar']
+['https://media.gettyimages.com/photos/bottles-with-toxic-labels-picture-id95011729?k=6&m=95011729&s=612x612&w=0&h=hm1VkmyfIvfe1FGDpXn-tyWpXy5ls7x-13nlp0-_gZI=', 'https://media.gettyimages.com/photos/bottles-with-toxic-labels-picture-id95011729?k=6&m=95011729&s=612x612&w=0&h=hm1VkmyfIvfe1FGDpXn-tyWpXy5ls7x-13nlp0-_gZI=', 'https://media.gettyimages.com/photos/farmer-spraying-pesticide-picture-id1125607687?k=6&m=1125607687&s=612x612&w=0&h=xM344PNQbyqKLSw1XJBuzuwTt1-x4CIT1glXD4gGbFI=', 'https://media.gettyimages.com/photos/is-there-something-there-picture-id507746755?k=6&m=507746755&s=612x612&w=0&h=NkSayyH4vZ4OrqiVUgdiyK_Tl4vXcAN-s96C8uEji-8=']
+U+8831
+23
+gǔ
+142.17
+蠱.mp3
+
+蠲
+['the millipede sometimes confounded with the grow-worm', ' bright, clear']
+['el milpiés a veces confundido con el gusano de crecimiento', 'brillante, claro']
+['NONE', 'https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=']
+U+8832
+23
+juān
+142.17
+蠲.mp3
+
+蠳
+['NONE']
+['NINGUNA']
+[]
+U+8833
+23
+yīng
+142.17
+蠳.mp3
+
+蠴
+['NONE']
+['NINGUNA']
+[]
+U+8834
+22
+shǔ
+142.15
+蠴.mp3
+
+蠵
+['large turtles']
+['tortugas grandes']
+['https://media.gettyimages.com/photos/big-tortoise-picture-id185095684?k=6&m=185095684&s=612x612&w=0&h=R96nhcxoAoY76euwiz0ghB6DiGKkrIJsKCnfFjBXhiE=']
+U+8835
+24
+xī
+142.18
+蠵.mp3
+
+蠶
+['silkworms']
+['gusanos de seda']
+['https://media.gettyimages.com/photos/silkworm-cocoons-in-silk-factory-dalat-vietnam-picture-id160885775?k=6&m=160885775&s=612x612&w=0&h=ImlHx7IcOL0hhBeassFTVs-bipDa_zglYWRn5zCTIrI=']
+U+8836
+24
+cán
+142.18
+蠶.mp3
+
+蠷
+['NONE']
+['NINGUNA']
+[]
+U+8837
+24
+qú
+142.18
+蠷.mp3
+
+蠸
+['NONE']
+['NINGUNA']
+[]
+U+8838
+23
+quán
+142.18
+蠸.mp3
+
+蠹
+['moth', ' insects which eat into clot']
+['polilla', 'insectos que comen en coágulos']
+['https://media.gettyimages.com/photos/moths-on-wool-sweater-picture-id112299687?k=6&m=112299687&s=612x612&w=0&h=N9-EGJLAnm4Cg_Fj9mVGgmuVSIaCS5cXBNDIWHtna18=', 'NONE']
+U+8839
+24
+dù
+142.18
+蠹.mp3
+
+蠺
+['same as ']
+['igual que']
+['https://media.gettyimages.com/vectors/red-and-black-aces-seamless-pattern-vector-id903522566?k=6&m=903522566&s=612x612&w=0&h=PbQ2nH9P03BuYDRKCWxUiOu5a3kNPj1mPRscZkxvVD8=']
+U+883A
+24
+cán
+142.18
+蠺.mp3
+
+蠻
+['barbarians', ' barbarous, savage']
+['bárbaros', 'bárbaro, salvaje']
+['https://media.gettyimages.com/photos/warrior-king-picture-id1199926978?k=6&m=1199926978&s=612x612&w=0&h=1-mnK6KVvZ3qCqH8LIfdEk3EUgrECECgWg3IMlb5_S8=', 'NONE']
+U+883B
+25
+mán
+142.19
+蠻.mp3
+
+蠼
+['NONE']
+['NINGUNA']
+[]
+U+883C
+26
+qú
+142.20
+蠼.mp3
+
+蠽
+['NONE']
+['NINGUNA']
+[]
+U+883D
+27
+jié
+142.21
+蠽.mp3
+
+蠾
+['NONE']
+['NINGUNA']
+[]
+U+883E
+27
+zhú
+142.21
+蠾.mp3
+
+蠿
+['NONE']
+['NINGUNA']
+[]
+U+883F
+27
+zhuō
+142.22
+蠿.mp3
+
+血
+['blood', ' radical number 143']
+['sangre', 'número radical 143']
+['https://media.gettyimages.com/photos/realistic-blood-dripping-on-white-background-picture-id157379103?k=6&m=157379103&s=612x612&w=0&h=quZZRoEwZAVmGzMaQC9d8phSAL3n7RFZPyw6iilOPw8=', 'NONE']
+U+8840
+6
+xuè
+143.0
+血.mp3
+
+衁
+['blood']
+['sangre']
+['https://media.gettyimages.com/photos/realistic-blood-dripping-on-white-background-picture-id157379103?k=6&m=157379103&s=612x612&w=0&h=quZZRoEwZAVmGzMaQC9d8phSAL3n7RFZPyw6iilOPw8=']
+U+8841
+9
+huāng
+143.3
+衁.mp3
+
+衂
+['to be defeated']
+['para ser derrotado']
+['https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+8842
+9
+nǜ
+143.3
+衂.mp3
+
+衃
+['NONE']
+['NINGUNA']
+[]
+U+8843
+10
+pēi
+143.4
+衃.mp3
+
+衄
+['epistaxis, nosebleed', ' to be defeated']
+['epistaxis, hemorragia nasal', 'para ser derrotado']
+['https://media.gettyimages.com/photos/closeup-of-sick-woman-against-white-background-picture-id928968850?k=6&m=928968850&s=612x612&w=0&h=ZP_bs9QL1AhyhK656nnBYKRC7SysTLiwqqutlGOZBYU=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+8844
+10
+nǜ
+143.4
+衄.mp3
+
+衅
+['consecrate sacrificial vessels by smearing blood', ' rift']
+['consagra vasos de sacrificio untando sangre', 'grieta']
+['NONE', 'https://media.gettyimages.com/photos/mount-kilimanjaro-amboseli-kenya-picture-id857309054?k=6&m=857309054&s=612x612&w=0&h=CFTWMnJDdi0HlyHO-jsby0aEcFVtU3fACM3jgAzT_ok=']
+U+8845
+11
+xìn
+143.5
+衅.mp3
+
+衆
+['multitude, crowd', ' masses, public']
+['multitud, multitud', 'masas, publico']
+['https://media.gettyimages.com/photos/people-walking-to-worklarge-group-of-business-peoplecrowds-of-and-picture-id1190755237?k=6&m=1190755237&s=612x612&w=0&h=xdBv9DCPrq8lxJQpEKD9jl4rt_ehxBVcllZWDL4uqZk=', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+8846
+12
+zhòng
+143.6
+衆.mp3
+
+衇
+['blood vessels, veins, arteries']
+['vasos sanguíneos, venas, arterias']
+['https://media.gettyimages.com/illustrations/arteriosclerosis-illustration-illustration-id1148113699?k=6&m=1148113699&s=612x612&w=0&h=NUaBLU5U6O8HQmN8xlfFNf1RS89bgnitedBZcmZG2W8=']
+U+8847
+12
+mài
+143.6
+衇.mp3
+
+衈
+['the blood of a sacrificial fowl which was sprinkled on the doors and vessels']
+['la sangre de un ave de sacrificio que fue rociada sobre las puertas y vasos']
+['NONE']
+U+8848
+12
+èr
+143.6
+衈.mp3
+
+衉
+['to vomit']
+['vomitar']
+['https://media.gettyimages.com/photos/glass-of-dissolving-medicine-with-vomiting-man-in-background-picture-id171631861?k=6&m=171631861&s=612x612&w=0&h=8CybVqfHxRZTqv8t-qiRFNus4QJbKPf3S3M4ZNqSoxw=']
+U+8849
+12
+kā
+143.6
+衉.mp3
+
+衊
+['smear, slander', ' defile']
+['difamación, calumnia', 'desfile']
+['NONE', 'https://media.gettyimages.com/photos/red-rock-background-picture-id186883289?k=6&m=186883289&s=612x612&w=0&h=TkaeFWfHMUtEF2pIA8u8pG5eEhrZOje24OFf2ZD7mwg=']
+U+884A
+20
+miè
+143.15
+衊.mp3
+
+衋
+['NONE']
+['NINGUNA']
+[]
+U+884B
+24
+xì
+143.18
+衋.mp3
+
+行
+['go', ' walk', ' move, travel', ' circulate']
+['Vamos', 'caminar', 'moverse, viajar', 'circular']
+['https://media.gettyimages.com/photos/high-angle-view-of-people-on-street-picture-id973190966?k=6&m=973190966&s=612x612&w=0&h=RXCH2TYW7Dwd06iCes1x1TBSwhC4w8fi4QNwN_LF3eg=', 'https://media.gettyimages.com/photos/close-up-shot-of-runners-shoes-picture-id1148822167?k=6&m=1148822167&s=612x612&w=0&h=8QIF8XmPZrVoIo8TiU31smtwVt2y2r5U3cuEegI6iLY=', 'https://media.gettyimages.com/photos/little-pink-piggy-bank-tied-to-the-top-of-an-old-car-picture-id1148668434?k=6&m=1148668434&s=612x612&w=0&h=NVn9DRxXBbclaT0plNg1pJfLmSThEqqDSDpWSSebm3A=', 'https://media.gettyimages.com/vectors/solar-system-planet-orbiting-vector-id685817134?k=6&m=685817134&s=612x612&w=0&h=RuESDofhsP_WeyoXUeolmgSLAUJjJBOuq_KpxivCuoo=']
+U+884C
+6
+xíng
+144.0
+行.mp3
+
+衍
+['overflow, spill over, spread out']
+['desbordar, desbordar, esparcir']
+['https://media.gettyimages.com/photos/coins-spilling-from-a-sack-clipboard-and-laptop-on-blue-work-desk-picture-id1155271620?k=6&m=1155271620&s=612x612&w=0&h=8jz7Kuv59mm7SEmv4ZrdxOJiy-wEajxpGNv5YB_rTAE=']
+U+884D
+9
+yǎn
+144.3
+衍.mp3
+
+衎
+['to give pleasure', ' pleased, happy']
+['dar placer', 'contento, feliz']
+['https://media.gettyimages.com/photos/happy-girl-shopping-in-the-fashion-store-picture-id863190232?k=6&m=863190232&s=612x612&w=0&h=HeArLbIerdC6rDHG6n2LblojBqnWEBl9h8ukiecMV6c=', 'https://media.gettyimages.com/vectors/feedback-and-testimonials-line-icons-editable-stroke-pixel-perfect-vector-id1158238775?k=6&m=1158238775&s=612x612&w=0&h=ZiQhSrTzwXGwgIPMOyYFpM_mGjgc6VfO32WuDa9MaBo=']
+U+884E
+9
+kàn
+144.3
+衎.mp3
+
+衏
+['NONE']
+['NINGUNA']
+[]
+U+884F
+10
+yuàn
+144.4
+衏.mp3
+
+衐
+['NONE']
+['NINGUNA']
+[]
+U+8850
+10
+qú
+144.5
+衐.mp3
+
+衑
+['NONE']
+['NINGUNA']
+[]
+U+8851
+11
+líng
+144.5
+衑.mp3
+
+衒
+['brag', ' show off, promote oneself']
+['jactarse', 'lucirse, promocionarse']
+['https://media.gettyimages.com/vectors/rainbow-heartshape-vector-id1132871643?k=6&m=1132871643&s=612x612&w=0&h=QeIJ5y-s2r9L_bHmPQTUMVD6KI5tDdaeV_j3Gc6qYus=', 'https://media.gettyimages.com/photos/little-girl-holding-a-blue-sucker-and-showing-off-her-blue-tongue-picture-id492640351?k=6&m=492640351&s=612x612&w=0&h=CQM-X5g3QuOgnJLKtltP2eZAaTRQjG2ekZMo38BRh2E=']
+U+8852
+11
+xuàn
+144.5
+衒.mp3
+
+術
+['art, skill, special feat', ' method, technique']
+['arte, habilidad, hazaña especial', 'método, técnica']
+['https://media.gettyimages.com/photos/artist-standing-with-his-paintings-in-his-studio-picture-id1205836741?k=6&m=1205836741&s=612x612&w=0&h=X5t_PkWJ2FLXlIV5zKuG0_B7v0K4YRvnWY0chXKRyUk=', 'https://media.gettyimages.com/vectors/teamwork-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1124263210?k=6&m=1124263210&s=612x612&w=0&h=PoQHKAtCBlbVHfMxH12TKbRU_C2FonE5pX8cHK48FIU=']
+U+8853
+11
+shù
+144.5
+術.mp3
+
+衔
+['bit', ' hold in mouth, bite', ' gag']
+['poco', 'sostener en la boca, morder', 'mordaza']
+['https://media.gettyimages.com/vectors/pixel-art-old-wizard-vector-id1147746118?k=6&m=1147746118&s=612x612&w=0&h=xxZ72ySmpGbBHnSMFVoSnmT9MZaqUfze0_9IzLp5zMM=', 'https://media.gettyimages.com/photos/mixed-race-man-eating-sandwich-picture-id482136239?k=6&m=482136239&s=612x612&w=0&h=4V3Gw60rsQqBpoAse8G9ITi0SDXI5B_N6JsSOufzvUg=', 'https://media.gettyimages.com/photos/boy-and-dog-in-toy-racing-car-picture-id1162019476?k=6&m=1162019476&s=612x612&w=0&h=3FWAHt58LjBXH_oKNqG7kB45ULUsH1MLmLl5Cpea7ek=']
+U+8854
+11
+xián
+144.5
+衔.mp3
+
+衕
+['alley, lane']
+['callejón, carril']
+['https://media.gettyimages.com/photos/empty-alley-amidst-buildings-in-city-picture-id1016840708?k=6&m=1016840708&s=612x612&w=0&h=2YG5vFnR4z3AZ0VdEYie6DGQybt0JaIm1tQgacNdKVs=']
+U+8855
+12
+tòng
+144.6
+衕.mp3
+
+衖
+['lane', ' alley']
+['carril', 'callejón']
+['https://media.gettyimages.com/photos/pico-de-arieiro-on-madeira-island-picture-id869241738?k=6&m=869241738&s=612x612&w=0&h=oE8QU_U5t0MKqw4g-NTZO2hmy_Ly-DhnTzlG0siAyJ0=', 'https://media.gettyimages.com/photos/dark-empty-alley-auckland-new-zealand-picture-id974029496?k=6&m=974029496&s=612x612&w=0&h=OzUFlIfaKj9ynX99r0_WSUAzlz45yA0WVcZRABCR2PU=']
+U+8856
+12
+xiàng
+144.6
+衖.mp3
+
+街
+['street, road, thoroughfare']
+['calle, camino, vía pública']
+['https://media.gettyimages.com/photos/inner-city-road-picture-id911404606?k=6&m=911404606&s=612x612&w=0&h=Se8IH083YQXwJ0o-m_l_ZUhwRcpbfzpjEbZkod7NkD4=']
+U+8857
+12
+jiē
+144.6
+街.mp3
+
+衘
+['NONE']
+['NINGUNA']
+[]
+U+8858
+13
+xián
+144.6
+衘.mp3
+
+衙
+['public office', ' official residence']
+['oficina pública', 'Residencia oficial']
+['https://media.gettyimages.com/photos/succeeding-is-what-we-do-best-picture-id1140524579?k=6&m=1140524579&s=612x612&w=0&h=WLsjAp4MY6GclCeBZAPs53qekcgwbyHU8Qk0nhwqUxU=', 'https://media.gettyimages.com/photos/ezra-bailey-picture-id534172577?k=6&m=534172577&s=612x612&w=0&h=zu7S6_eNsMJwBPozR28BFiACszia_fy-5LVeZ2varSM=']
+U+8859
+13
+yá
+144.7
+衙.mp3
+
+衚
+['lane, alley, side street']
+['carril, callejón, calle lateral']
+['https://media.gettyimages.com/photos/empty-alley-amidst-buildings-in-city-picture-id1016840708?k=6&m=1016840708&s=612x612&w=0&h=2YG5vFnR4z3AZ0VdEYie6DGQybt0JaIm1tQgacNdKVs=']
+U+885A
+15
+hú
+144.9
+衚.mp3
+
+衛
+['guard, protect, defend']
+['guardar, proteger, defender']
+['https://media.gettyimages.com/vectors/wuhan-coronavirus-outbreak-influenza-as-dangerous-flu-strain-cases-as-vector-id1209291124?k=6&m=1209291124&s=612x612&w=0&h=vlHTyTgW4BFxMkm0Wl7ectxC00VvliJbxYbvDBPZisg=']
+U+885B
+15
+wèi
+144.9
+衛.mp3
+
+衜
+['way, path']
+['camino, camino']
+['https://media.gettyimages.com/vectors/curved-winding-road-with-oak-tree-road-to-success-background-vector-id1139644575?k=6&m=1139644575&s=612x612&w=0&h=rLE5TWtMbmR1I5BnrF53NVDIvxxUx9x3Pa2Q0TTRzjM=']
+U+885C
+15
+dào
+144.9
+衜.mp3
+
+衝
+['rush against, charge ahead']
+['correr contra, cargar adelante']
+['https://media.gettyimages.com/photos/financial-district-of-london-picture-id488471764?k=6&m=488471764&s=612x612&w=0&h=pmil03UAlg-e4XLnD3dggsWZHeKiqmduqXKW82LvSUc=']
+U+885D
+15
+chōng
+144.9
+衝.mp3
+
+衞
+['guard, protect, defend']
+['guardar, proteger, defender']
+['https://media.gettyimages.com/vectors/wuhan-coronavirus-outbreak-influenza-as-dangerous-flu-strain-cases-as-vector-id1209291124?k=6&m=1209291124&s=612x612&w=0&h=vlHTyTgW4BFxMkm0Wl7ectxC00VvliJbxYbvDBPZisg=']
+U+885E
+16
+wèi
+144.10
+衞.mp3
+
+衟
+['NONE']
+['NINGUNA']
+[]
+U+885F
+16
+dào
+144.10
+衟.mp3
+
+衠
+['NONE']
+['NINGUNA']
+[]
+U+8860
+16
+zhūn
+144.10
+衠.mp3
+
+衡
+['measure, weigh, judge, consider']
+['medir, pesar, juzgar, considerar']
+['NONE']
+U+8861
+16
+héng
+144.10
+衡.mp3
+
+衢
+['highway', ' thoroughfare, intersection']
+['autopista', 'vía, intersección']
+['https://media.gettyimages.com/photos/inner-city-road-picture-id911404606?k=6&m=911404606&s=612x612&w=0&h=Se8IH083YQXwJ0o-m_l_ZUhwRcpbfzpjEbZkod7NkD4=', 'https://media.gettyimages.com/vectors/road-trip-and-navigation-icons-acme-series-vector-id1030917706?k=6&m=1030917706&s=612x612&w=0&h=jSSTtu2t0bbjHb_IFOSA3OWYReB5xWnJT52eH7jlKs8=']
+U+8862
+24
+qú
+144.18
+衢.mp3
+
+衣
+['clothes, clothing', ' cover, skin']
+['ropa, ropa', 'cubrir, piel']
+['https://media.gettyimages.com/photos/look-at-this-gorgeous-dress-picture-id854321536?k=6&m=854321536&s=612x612&w=0&h=mhIuj9c1Y4z_OG7Kwd30aZLqhdzFuTLireLNEFbJQjA=', 'https://media.gettyimages.com/photos/white-bronze-silver-leather-and-texture-background-picture-id1173339167?k=6&m=1173339167&s=612x612&w=0&h=TxOnSO2yPbGv0eyHshM9ypiRa7IZk21d5ZpGSy4zrRw=']
+U+8863
+6
+yī
+145.0
+衣.mp3
+
+衤
+['clothes', ' radical number 145']
+['ropa', 'número radical 145']
+['https://media.gettyimages.com/photos/look-at-this-gorgeous-dress-picture-id854321536?k=6&m=854321536&s=612x612&w=0&h=mhIuj9c1Y4z_OG7Kwd30aZLqhdzFuTLireLNEFbJQjA=', 'NONE']
+U+8864
+5
+yī
+145.0
+衤.mp3
+
+补
+['mend, patch, fix, repair, restore']
+['reparar, parchear, arreglar, reparar, restaurar']
+['https://media.gettyimages.com/photos/closeup-of-man-in-an-automobile-upholstery-workshop-restoring-seat-picture-id1027536726?k=6&m=1027536726&s=612x612&w=0&h=M1N6il5m2614dCQuyYw7LO38NqZmNQwwKahb06lquXA=']
+U+8865
+7
+bǔ
+145.2
+补.mp3
+
+衦
+['smooth out the clothes']
+['alisa la ropa']
+['https://media.gettyimages.com/photos/woman-ironing-white-cloth-closeup-picture-idsb10068962bg-001?k=6&m=sb10068962bg-001&s=612x612&w=0&h=y-QhQvoFgSmjg-Mjzeekcp3_5CXkhieV2wKnin5I714=']
+U+8866
+8
+gǎn
+145.3
+衦.mp3
+
+衧
+['NONE']
+['NINGUNA']
+[]
+U+8867
+8
+yú
+145.3
+衧.mp3
+
+表
+['show, express, manifest, display']
+['mostrar, expresar, manifestar, mostrar']
+['https://media.gettyimages.com/photos/germany-american-rodeo-catching-a-horse-picture-id549420503?k=6&m=549420503&s=612x612&w=0&h=sigk_-G_ciZXk9b8fLy4l95FDNsIVU0jERSnkKBbCXg=']
+U+8868
+8
+biǎo
+145.3
+表.mp3
+
+衩
+['the open seam of a garment which allows freedom of movement']
+['la costura abierta de una prenda que permite la libertad de movimiento']
+['NONE']
+U+8869
+8
+chǎ
+145.3
+衩.mp3
+
+衪
+['NONE']
+['NINGUNA']
+[]
+U+886A
+8
+yí
+145.3
+衪.mp3
+
+衫
+['shirt', ' robe', ' gown', ' jacket']
+['camisa', 'vestido', 'vestido', 'chaqueta']
+['https://media.gettyimages.com/vectors/mens-clothing-thin-line-icons-editable-stroke-vector-id1138644486?k=6&m=1138644486&s=612x612&w=0&h=HfEF7oARAQQvrC2LywPJb-1TKoYEhRQpAShhiTGb-I0=', 'https://media.gettyimages.com/photos/spa-supplies-picture-id105932225?k=6&m=105932225&s=612x612&w=0&h=kjEkKT4UrY05WlFej7hd032VZ2ycjNayx47XkpNcUkg=', 'https://media.gettyimages.com/photos/she-achieved-what-she-wanted-to-achieve-picture-id1130436773?k=6&m=1130436773&s=612x612&w=0&h=lXjEGOsae2n344fexkho32Su66fUuxAGqIcog_pXBbQ=', 'https://media.gettyimages.com/photos/man-trying-on-new-denim-jacket-picture-id1042696220?k=6&m=1042696220&s=612x612&w=0&h=gLkrS-oDvI2AYxzQWn6TUpyvpeB061GdBKVse3HbfcE=']
+U+886B
+8
+shān
+145.3
+衫.mp3
+
+衬
+['underwear', ' inner garments']
+['ropa interior', 'prendas interiores']
+['https://media.gettyimages.com/vectors/mens-clothing-thin-line-icons-editable-stroke-vector-id1138644486?k=6&m=1138644486&s=612x612&w=0&h=HfEF7oARAQQvrC2LywPJb-1TKoYEhRQpAShhiTGb-I0=', 'https://media.gettyimages.com/photos/luxury-clothing-store-for-men-picture-id831656828?k=6&m=831656828&s=612x612&w=0&h=NVsZnoxXAdjLJFzt56ZOVzMgSEV7O0jmBKoDqhAKjtQ=']
+U+886C
+8
+chèn
+145.3
+衬.mp3
+
+衭
+['the lapel of a garment']
+['la solapa de una prenda']
+['https://media.gettyimages.com/photos/businessman-with-pen-in-pocket-picture-id97560357?k=6&m=97560357&s=612x612&w=0&h=uJBbLqdFd-a7EJM_qM7QPRLJQt5jN3NP66Uywq4Drrg=']
+U+886D
+9
+fū
+145.4
+衭.mp3
+
+衮
+['ceremonial dress worn by the emperor']
+['vestido ceremonial usado por el emperador']
+['https://media.gettyimages.com/illustrations/reproduction-painting-of-napoleon-bonaparte-on-horseback-illustration-id1192970209?k=6&m=1192970209&s=612x612&w=0&h=N2JNDW3L9Fq6hXluk-cSwbNN92yQXQQSZj9dgVInqZA=']
+U+886E
+10
+gǔn
+145.4
+衮.mp3
+
+衯
+['NONE']
+['NINGUNA']
+[]
+U+886F
+9
+fēn
+145.4
+衯.mp3
+
+衰
+['decline, falter, decrease', ' weaken']
+['decaer, vacilar, disminuir', 'debilitar']
+['NONE', 'https://media.gettyimages.com/photos/hiding-head-in-sand-picture-id143921073?k=6&m=143921073&s=612x612&w=0&h=8ieECLfItmwXNaPqgM7K_DtvkC7niVghhW_xBeNXLL4=']
+U+8870
+10
+shuāi
+145.4
+衰.mp3
+
+衱
+['NONE']
+['NINGUNA']
+[]
+U+8871
+8
+jié
+145.4
+衱.mp3
+
+衲
+['mend, sew, patch', ' line', ' quilt']
+['reparar, coser, parche', 'línea', 'edredón']
+['https://media.gettyimages.com/photos/woman-repairing-jeans-picture-id134573421?k=6&m=134573421&s=612x612&w=0&h=mTpD215O24l02KbC01nH0ArV6DNW5nIlKhZnCgbNAlM=', 'https://media.gettyimages.com/vectors/seamless-minimal-geometric-vector-pattern-design-vector-id1158875658?k=6&m=1158875658&s=612x612&w=0&h=SvhHyBuEnlWGUeNKj9kHj-A-_d0FZ-_V-mkc0xE0Rbs=', 'https://media.gettyimages.com/photos/bedroom-picture-id71925568?k=6&m=71925568&s=612x612&w=0&h=gUxUIL4pGCKiwQLB2CRf3TWRNn7uKhHURNhWaanh9Dg=']
+U+8872
+9
+nà
+145.4
+衲.mp3
+
+衳
+['NONE']
+['NINGUNA']
+[]
+U+8873
+9
+zhōng
+145.4
+衳.mp3
+
+衴
+['NONE']
+['NINGUNA']
+[]
+U+8874
+9
+dǎn
+145.4
+衴.mp3
+
+衵
+['chemise']
+['camisa']
+['https://media.gettyimages.com/photos/high-tone-seated-model-in-white-chemise-picture-id155331675?k=6&m=155331675&s=612x612&w=0&h=5VOQTrzriCk0kYNN38hg5CedSwBYRb1XT-P26C85-9g=']
+U+8875
+9
+yì
+145.4
+衵.mp3
+
+衶
+['NONE']
+['NINGUNA']
+[]
+U+8876
+9
+zhòng
+145.4
+衶.mp3
+
+衷
+["heart, from bottom of one's heart"]
+['corazón, desde el fondo del corazón']
+['NONE']
+U+8877
+10
+zhōng
+145.4
+衷.mp3
+
+衸
+['NONE']
+['NINGUNA']
+[]
+U+8878
+9
+jiè
+145.4
+衸.mp3
+
+衹
+['only, merely, but']
+['solo, simplemente, pero']
+['https://media.gettyimages.com/photos/wrinkles-should-merely-indicate-where-smiles-have-been-picture-id538068557?k=6&m=538068557&s=612x612&w=0&h=idhjBNJi1pwiCQKbWSGGDwOPCsnAoUATymenuvhviyw=']
+U+8879
+9
+zhǐ
+145.4
+衹.mp3
+
+衺
+['slit in garment to aid movement']
+['hendidura en la prenda para facilitar el movimiento']
+['NONE']
+U+887A
+10
+xié
+145.4
+衺.mp3
+
+衻
+['NONE']
+['NINGUNA']
+[]
+U+887B
+9
+rán
+145.4
+衻.mp3
+
+衼
+['NONE']
+['NINGUNA']
+[]
+U+887C
+9
+zhī
+145.4
+衼.mp3
+
+衽
+['lapel', ' hidden lapel of coat']
+['solapa', 'solapa oculta de abrigo']
+['https://media.gettyimages.com/photos/american-actor-and-director-diane-keaton-poses-with-a-big-smile-and-picture-id2891290?k=6&m=2891290&s=612x612&w=0&h=fPOmlnvl1vTUoO0t672N6UudsfXDX64vZ9H_dm9TPFc=', 'https://media.gettyimages.com/photos/businessman-hiding-behind-his-coat-collar-picture-id522894452?k=6&m=522894452&s=612x612&w=0&h=yG78wimIW9Sn_hcnrur7P3k6xfpeLZt88YUm_pUZ_5g=']
+U+887D
+9
+rèn
+145.4
+衽.mp3
+
+衾
+['coverlet, quilt']
+['colcha, edredón']
+['https://media.gettyimages.com/photos/white-bed-linen-picture-id185010136?k=6&m=185010136&s=612x612&w=0&h=KntdHh330ygQL4LzFFUYks3Y5pKH-PmdmvucoHpwCRg=']
+U+887E
+10
+qīn
+145.4
+衾.mp3
+
+衿
+['collar or lapel of garment']
+['cuello o solapa de prenda']
+['https://media.gettyimages.com/photos/cute-young-woman-in-white-tshirt-picture-id1169365178?k=6&m=1169365178&s=612x612&w=0&h=Gzm3VPljwDPLNy1tjOHrgAWn_uvh1xctBAIO6V0v8ek=']
+U+887F
+9
+jīn
+145.4
+衿.mp3
+
+袀
+['NONE']
+['NINGUNA']
+[]
+U+8880
+9
+jūn
+145.4
+袀.mp3
+
+袁
+['robe', ' surname']
+['vestido', 'apellido']
+['https://media.gettyimages.com/photos/spa-supplies-picture-id105932225?k=6&m=105932225&s=612x612&w=0&h=kjEkKT4UrY05WlFej7hd032VZ2ycjNayx47XkpNcUkg=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+8881
+10
+yuán
+145.4
+袁.mp3
+
+袂
+['sleeves']
+['mangas']
+['https://media.gettyimages.com/vectors/vintage-worn-vinyl-record-sleeve-blank-in-worn-white-vector-id503242288?k=6&m=503242288&s=612x612&w=0&h=QcELWg4noOeq5QIENRyn8AyKWUMV52wiBUI9KXNgINc=']
+U+8882
+9
+mèi
+145.4
+袂.mp3
+
+袃
+['NONE']
+['NINGUNA']
+[]
+U+8883
+10
+chài
+145.4
+袃.mp3
+
+袄
+['outer garments', ' coat, jacket']
+['prendas exteriores', 'chaqueta de abrigo']
+['https://media.gettyimages.com/photos/young-woman-with-long-brown-hair-picture-id130833156?k=6&m=130833156&s=612x612&w=0&h=wKhi9q4le8t3y02g7H97d90YvSy5b0A16mU9CHAeAaY=', 'https://media.gettyimages.com/photos/this-completes-the-look-picture-id890289324?k=6&m=890289324&s=612x612&w=0&h=Pklo7ulbaXEzMqN7Y6soaQUoXCvYdsKNMkl8CpRKD1E=']
+U+8884
+9
+ǎo
+145.4
+袄.mp3
+
+袅
+['curling upwards', ' wavering gently']
+['rizado hacia arriba', 'vacilando suavemente']
+['https://media.gettyimages.com/photos/view-on-the-side-of-some-wooden-stairs-with-a-metal-railing-on-a-picture-id1180049183?k=6&m=1180049183&s=612x612&w=0&h=XH9u4dqAGVNwoTILJ6wAb_mSmIYnRjbsMIpuuE-FeaQ=', 'NONE']
+U+8885
+10
+niǎo
+145.4
+袅.mp3
+
+袆
+['ceremonial gowns of a queen']
+['vestidos ceremoniales de una reina']
+['https://media.gettyimages.com/photos/single-black-graduate-cap-on-white-background-with-shadow-detail-picture-id1286584535?k=6&m=1286584535&s=612x612&w=0&h=V3alTGcUa36wVKibvCChjuzfEObMcWtWlEmNCE1Ujnk=']
+U+8886
+9
+huī
+145.4
+袆.mp3
+
+袇
+['NONE']
+['NINGUNA']
+[]
+U+8887
+9
+rán
+145.4
+袇.mp3
+
+袈
+['Buddhist cassock']
+['Sotana budista']
+['https://media.gettyimages.com/photos/yaqing-buddhist-island-of-sichuan-provincechina-picture-id748337743?k=6&m=748337743&s=612x612&w=0&h=rTMV_4BDpYwGjN7rS-kOKuU5-bFZswh-5p0BYW6fFo4=']
+U+8888
+11
+jiā
+145.5
+袈.mp3
+
+袉
+['NONE']
+['NINGUNA']
+[]
+U+8889
+10
+tuó
+145.5
+袉.mp3
+
+袊
+['NONE']
+['NINGUNA']
+[]
+U+888A
+10
+lǐng
+145.5
+袊.mp3
+
+袋
+['pocket, bag, sack, pouch']
+['bolsillo, bolso, saco, bolsa']
+['https://media.gettyimages.com/photos/closeup-of-pocket-watch-and-sack-pouch-against-white-background-picture-id1139633141?k=6&m=1139633141&s=612x612&w=0&h=886wpZYFiWisdSlEBv-k9h-nWwUFsR8upr-oHznrL80=']
+U+888B
+11
+dài
+145.5
+袋.mp3
+
+袌
+['NONE']
+['NINGUNA']
+[]
+U+888C
+11
+bào
+145.5
+袌.mp3
+
+袍
+['long gown, robe, cloak']
+['vestido largo, bata, manto']
+['NONE']
+U+888D
+10
+páo
+145.5
+袍.mp3
+
+袎
+['NONE']
+['NINGUNA']
+[]
+U+888E
+10
+yào
+145.5
+袎.mp3
+
+袏
+['NONE']
+['NINGUNA']
+[]
+U+888F
+10
+zuò
+145.5
+袏.mp3
+
+袐
+['NONE']
+['NINGUNA']
+[]
+U+8890
+10
+bì
+145.5
+袐.mp3
+
+袑
+['NONE']
+['NINGUNA']
+[]
+U+8891
+10
+shào
+145.5
+袑.mp3
+
+袒
+['strip', ' lay bare', ' bared', ' naked']
+['tira', 'poner al descubierto', 'desnudo', 'desnudo']
+['https://media.gettyimages.com/photos/stay-safe-picture-id1214566657?k=6&m=1214566657&s=612x612&w=0&h=48tzB2oR7jJiXM23t46HLrqEybWgcCkQ0o0e3RWO9CU=', 'https://media.gettyimages.com/photos/december-and-the-trees-lay-bare-picture-id1090834322?k=6&m=1090834322&s=612x612&w=0&h=wKy0psjB9Pll2GN4nu9zZsqCUb8CrhbG8VegTE-MsGI=', 'https://media.gettyimages.com/photos/caucasian-woman-grinning-with-bared-teeth-picture-id592009749?k=6&m=592009749&s=612x612&w=0&h=bgGS5NPcCHso7JLGsCOwmqHp27zESR9nWZ7YvW1RVIo=', 'https://media.gettyimages.com/photos/couple-in-love-picture-id491291202?k=6&m=491291202&s=612x612&w=0&h=w9WWnWJwIpSd4ib-yD2YM9FPycpARU5Uk2s8ER21GWI=']
+U+8892
+10
+tǎn
+145.5
+袒.mp3
+
+袓
+['NONE']
+['NINGUNA']
+[]
+U+8893
+10
+jù
+145.5
+袓.mp3
+
+袔
+['NONE']
+['NINGUNA']
+[]
+U+8894
+10
+hè
+145.5
+袔.mp3
+
+袕
+['NONE']
+['NINGUNA']
+[]
+U+8895
+10
+xué
+145.5
+袕.mp3
+
+袖
+['sleeve', ' put something in sleeve']
+['manga', 'poner algo en la manga']
+['https://media.gettyimages.com/vectors/vintage-worn-vinyl-record-sleeve-blank-in-worn-white-vector-id503242288?k=6&m=503242288&s=612x612&w=0&h=QcELWg4noOeq5QIENRyn8AyKWUMV52wiBUI9KXNgINc=', 'https://media.gettyimages.com/photos/father-helping-daughter-put-star-on-christmas-tree-picture-id527996241?k=6&m=527996241&s=612x612&w=0&h=sRr7aN4Z3429SscYoafmD1hM-N4P7JhLQ-ZRPmNG96Y=']
+U+8896
+10
+xiù
+145.5
+袖.mp3
+
+袗
+['unlined garments', ' hem of garment']
+['prendas sin forro', 'dobladillo de la prenda']
+['NONE', 'https://media.gettyimages.com/photos/seamstress-looks-at-dress-hem-picture-id81380554?k=6&m=81380554&s=612x612&w=0&h=f7E5dvndV6CjNsbJYmuN60D5p-7eutw8pZbrAtcTfH0=']
+U+8897
+10
+zhěn
+145.5
+袗.mp3
+
+袘
+['NONE']
+['NINGUNA']
+[]
+U+8898
+10
+yí
+145.5
+袘.mp3
+
+袙
+['NONE']
+['NINGUNA']
+[]
+U+8899
+10
+pà
+145.5
+袙.mp3
+
+袚
+['greave', ' knee-pads', ' buskins']
+['chicharrón', 'rodilleras', 'buskins']
+['https://media.gettyimages.com/photos/knight-in-shining-armour-picture-id106620865?k=6&m=106620865&s=612x612&w=0&h=P0kCBwkKsOyLW6p3aGlC0z2DXVs2V6-v3J7jFqfkpOI=', 'https://media.gettyimages.com/photos/home-improvement-kneeling-workers-legs-with-kneepads-picture-id171277867?k=6&m=171277867&s=612x612&w=0&h=xdFOcK7eINWJfBKHXglhvM1G78qctCDdMdRnzpppKPQ=', 'NONE']
+U+889A
+10
+bō
+145.5
+袚.mp3
+
+袛
+['NONE']
+['NINGUNA']
+[]
+U+889B
+10
+dī
+145.5
+袛.mp3
+
+袜
+['socks, stockings']
+['calcetines, medias']
+['https://media.gettyimages.com/photos/thress-christmas-stockings-with-shadow-on-white-background-picture-id171151124?k=6&m=171151124&s=612x612&w=0&h=DwFjSXN3E14EI6a-O2ZuM8lJwUYevHjVOMeFjfLrAGA=']
+U+889C
+10
+wà
+145.5
+袜.mp3
+
+袝
+['NONE']
+['NINGUNA']
+[]
+U+889D
+10
+fù
+145.5
+袝.mp3
+
+袞
+['ceremonial dress worn by the emperor']
+['vestido ceremonial usado por el emperador']
+['https://media.gettyimages.com/illustrations/reproduction-painting-of-napoleon-bonaparte-on-horseback-illustration-id1192970209?k=6&m=1192970209&s=612x612&w=0&h=N2JNDW3L9Fq6hXluk-cSwbNN92yQXQQSZj9dgVInqZA=']
+U+889E
+11
+gǔn
+145.5
+袞.mp3
+
+袟
+['book cover', ' satchel or bag']
+['tapa del libro', 'cartera o bolso']
+['https://media.gettyimages.com/photos/isolated-shot-of-white-blank-book-on-white-background-picture-id118103146?k=6&m=118103146&s=612x612&w=0&h=wHZSF5_nj2CsghJuekSG10FQAJzN3k6_24U27U97B_o=', 'https://media.gettyimages.com/photos/rucksack-with-clipping-path-picture-id173583945?k=6&m=173583945&s=612x612&w=0&h=qvJ7caVJy4igQWA1wB1XgsRZ9Yp_ZkMYQxQEepbAcg0=']
+U+889F
+10
+zhì
+145.5
+袟.mp3
+
+袠
+['book cover', ' satchel or bag']
+['tapa del libro', 'cartera o bolso']
+['https://media.gettyimages.com/photos/isolated-shot-of-white-blank-book-on-white-background-picture-id118103146?k=6&m=118103146&s=612x612&w=0&h=wHZSF5_nj2CsghJuekSG10FQAJzN3k6_24U27U97B_o=', 'https://media.gettyimages.com/photos/rucksack-with-clipping-path-picture-id173583945?k=6&m=173583945&s=612x612&w=0&h=qvJ7caVJy4igQWA1wB1XgsRZ9Yp_ZkMYQxQEepbAcg0=']
+U+88A0
+11
+zhì
+145.5
+袠.mp3
+
+袡
+['NONE']
+['NINGUNA']
+[]
+U+88A1
+10
+rán
+145.5
+袡.mp3
+
+袢
+['robe']
+['vestido']
+['https://media.gettyimages.com/photos/spa-supplies-picture-id105932225?k=6&m=105932225&s=612x612&w=0&h=kjEkKT4UrY05WlFej7hd032VZ2ycjNayx47XkpNcUkg=']
+U+88A2
+10
+pàn
+145.5
+袢.mp3
+
+袣
+['NONE']
+['NINGUNA']
+[]
+U+88A3
+10
+yì
+145.5
+袣.mp3
+
+袤
+['longitude, lengthwise', ' length']
+['longitud, longitudinalmente', 'longitud']
+['NONE', 'https://media.gettyimages.com/vectors/measuring-tape-icons-multi-series-vector-id1187756193?k=6&m=1187756193&s=612x612&w=0&h=m8D-kakaxU9TZ7bPCab-qpgMjjaIqBgGdcokfQ9hiM0=']
+U+88A4
+11
+mào
+145.5
+袤.mp3
+
+袥
+['NONE']
+['NINGUNA']
+[]
+U+88A5
+10
+tuō
+145.5
+袥.mp3
+
+袦
+['NONE']
+['NINGUNA']
+[]
+U+88A6
+10
+nà
+145.5
+袦.mp3
+
+袧
+['NONE']
+['NINGUNA']
+[]
+U+88A7
+10
+gōu
+145.5
+袧.mp3
+
+袨
+['NONE']
+['NINGUNA']
+[]
+U+88A8
+10
+xuàn
+145.5
+袨.mp3
+
+袩
+['NONE']
+['NINGUNA']
+[]
+U+88A9
+10
+zhé
+145.5
+袩.mp3
+
+袪
+['sleeves', ' cuff']
+['mangas', 'brazalete']
+['https://media.gettyimages.com/vectors/vintage-worn-vinyl-record-sleeve-blank-in-worn-white-vector-id503242288?k=6&m=503242288&s=612x612&w=0&h=QcELWg4noOeq5QIENRyn8AyKWUMV52wiBUI9KXNgINc=', 'https://media.gettyimages.com/photos/handcuffs-picture-id173255105?k=6&m=173255105&s=612x612&w=0&h=dlZ0zy-qCOgIQgyBQj5wHwWiO-6Rhro-Mrb9R9usNko=']
+U+88AA
+10
+qū
+145.5
+袪.mp3
+
+被
+["passive indicator 'by'", ' bedding']
+["indicador pasivo 'por'", 'lecho']
+['NONE', 'https://media.gettyimages.com/photos/white-bed-linen-picture-id185010136?k=6&m=185010136&s=612x612&w=0&h=KntdHh330ygQL4LzFFUYks3Y5pKH-PmdmvucoHpwCRg=']
+U+88AB
+10
+bèi
+145.5
+被.mp3
+
+袬
+['NONE']
+['NINGUNA']
+[]
+U+88AC
+11
+yù
+145.5
+袬.mp3
+
+袭
+['raid, attack', ' inherit']
+['incursión, ataque', 'heredar']
+['https://media.gettyimages.com/photos/man-threatening-with-pocket-knife-picture-id88621421?k=6&m=88621421&s=612x612&w=0&h=A6eMTrE4ls4QOFLnyGSq-ra5TvO3s6Xxzk1Y6UeW4lY=', 'https://media.gettyimages.com/photos/senior-contract-picture-id160641681?k=6&m=160641681&s=612x612&w=0&h=DPl6eUBTL9O9B8Q8MhRULg8S9vr35PBUExSZuDw5S9g=']
+U+88AD
+11
+xí
+145.5
+袭.mp3
+
+袮
+['used as a synonym for ']
+['utilizado como sinónimo de']
+['NONE']
+U+88AE
+10
+mí
+145.5
+袮.mp3
+
+袯
+['raincoat']
+['impermeable']
+['https://media.gettyimages.com/photos/young-man-hiking-in-rain-with-waterproof-jacket-picture-id904659086?k=6&m=904659086&s=612x612&w=0&h=zVisQHjar3gtBZJoisdr8Dasl8_hR6owCr_93t35mCE=']
+U+88AF
+10
+bó
+145.6
+袯.mp3
+
+袰
+['NONE']
+['NINGUNA']
+[]
+U+88B0
+11
+bō
+145.5
+袰.mp3
+
+袱
+['a piece of cloth used wrap bundles']
+['un trozo de tela usado envolver paquetes']
+['NONE']
+U+88B1
+11
+fú
+145.6
+袱.mp3
+
+袲
+['NONE']
+['NINGUNA']
+[]
+U+88B2
+12
+chǐ
+145.6
+袲.mp3
+
+袳
+["spread one's clothes"]
+['extender la ropa']
+['https://media.gettyimages.com/photos/one-mature-woman-wearning-a-homade-cltoh-mask-for-covid19-picture-id1222241014?k=6&m=1222241014&s=612x612&w=0&h=86DuRAc-_0DnuspLv9fmenmDgJqiuhbnmjUzvsH39eo=']
+U+88B3
+11
+chǐ
+145.6
+袳.mp3
+
+袴
+['pants', ' trousers', ' panties']
+['pantalones', 'pantalones', 'bragas']
+['https://media.gettyimages.com/photos/mullet-man-with-eighties-fashion-style-picture-id522241269?k=6&m=522241269&s=612x612&w=0&h=vvTlhoo1pjZF3Zjnq7RqyHDO0cVA43vbaYLN2vc2HvE=', 'https://media.gettyimages.com/photos/mens-clothing-isolated-on-white-background-picture-id895403704?k=6&m=895403704&s=612x612&w=0&h=NmT4fMUTQaHesiykjZ2t1ZWXHQTtJczmKzyIEs_FJPY=', 'https://media.gettyimages.com/photos/woman-getting-ready-to-party-picture-id684639933?k=6&m=684639933&s=612x612&w=0&h=-F0JoV7L5MMA-8YCa3066z5Ywa-qXZXVbmZkes9JE8I=']
+U+88B4
+11
+kù
+145.6
+袴.mp3
+
+袵
+['lapel', ' hidden lapel of coat']
+['solapa', 'solapa oculta de abrigo']
+['https://media.gettyimages.com/photos/american-actor-and-director-diane-keaton-poses-with-a-big-smile-and-picture-id2891290?k=6&m=2891290&s=612x612&w=0&h=fPOmlnvl1vTUoO0t672N6UudsfXDX64vZ9H_dm9TPFc=', 'https://media.gettyimages.com/photos/businessman-hiding-behind-his-coat-collar-picture-id522894452?k=6&m=522894452&s=612x612&w=0&h=yG78wimIW9Sn_hcnrur7P3k6xfpeLZt88YUm_pUZ_5g=']
+U+88B5
+11
+rèn
+145.6
+袵.mp3
+
+袶
+['NONE']
+['NINGUNA']
+[]
+U+88B6
+11
+jiàng
+145.6
+袶.mp3
+
+袷
+['lined garment']
+['prenda forrada']
+['https://media.gettyimages.com/photos/placket-front-of-cotton-shirt-picture-id1063547144?k=6&m=1063547144&s=612x612&w=0&h=JRjRVpG8mpM1tu2-kv6vWZWByu36kHZw0qz_chv885Q=']
+U+88B7
+11
+jiá
+145.6
+袷.mp3
+
+袸
+['NONE']
+['NINGUNA']
+[]
+U+88B8
+11
+jiàn
+145.6
+袸.mp3
+
+袹
+['NONE']
+['NINGUNA']
+[]
+U+88B9
+11
+bó
+145.6
+袹.mp3
+
+袺
+['hold up']
+['Sostener']
+['https://media.gettyimages.com/photos/be-the-person-who-helps-the-next-picture-id1183967695?k=6&m=1183967695&s=612x612&w=0&h=2DLn4HWSDXeihzC82wsIEph-RmXmmnIfBR3i-0Qjju4=']
+U+88BA
+11
+jié
+145.6
+袺.mp3
+
+袻
+['NONE']
+['NINGUNA']
+[]
+U+88BB
+11
+ér
+145.6
+袻.mp3
+
+袼
+['NONE']
+['NINGUNA']
+[]
+U+88BC
+11
+gē
+145.6
+袼.mp3
+
+袽
+['clothes']
+['ropa']
+['https://media.gettyimages.com/photos/look-at-this-gorgeous-dress-picture-id854321536?k=6&m=854321536&s=612x612&w=0&h=mhIuj9c1Y4z_OG7Kwd30aZLqhdzFuTLireLNEFbJQjA=']
+U+88BD
+11
+rú
+145.6
+袽.mp3
+
+袾
+['NONE']
+['NINGUNA']
+[]
+U+88BE
+11
+zhū
+145.6
+袾.mp3
+
+袿
+['gown']
+['vestido']
+['https://media.gettyimages.com/photos/she-achieved-what-she-wanted-to-achieve-picture-id1130436773?k=6&m=1130436773&s=612x612&w=0&h=lXjEGOsae2n344fexkho32Su66fUuxAGqIcog_pXBbQ=']
+U+88BF
+11
+guī
+145.6
+袿.mp3
+
+裀
+['mat, coverlet', ' underwear']
+['estera, colcha', 'ropa interior']
+['https://media.gettyimages.com/photos/wool-felt-pad-table-cloth-picture-id1045540266?k=6&m=1045540266&s=612x612&w=0&h=gU_0EdBw-CGiUUaHvJEJ-p9vPTuVyzoC-cqPCLq-hv0=', 'https://media.gettyimages.com/vectors/mens-clothing-thin-line-icons-editable-stroke-vector-id1138644486?k=6&m=1138644486&s=612x612&w=0&h=HfEF7oARAQQvrC2LywPJb-1TKoYEhRQpAShhiTGb-I0=']
+U+88C0
+11
+yīn
+145.6
+裀.mp3
+
+裁
+['cut out', ' decrease']
+['separar', 'disminución']
+['https://media.gettyimages.com/vectors/highly-detailed-people-silhouettes-vector-id1139860795?k=6&m=1139860795&s=612x612&w=0&h=nkPZgyLi5xjZXpElPwOIXj3Wht1fegxC97vvVzyLaP8=', 'https://media.gettyimages.com/vectors/loan-line-icons-vector-id1144717949?k=6&m=1144717949&s=612x612&w=0&h=-7mqg-_ECWYKsyKybjlglUo6aC8nOt6i-u4Nh38V1lE=']
+U+88C1
+12
+cái
+145.6
+裁.mp3
+
+裂
+['split, crack, break open', ' rend']
+['dividir, romper, romper', 'hace']
+['https://media.gettyimages.com/vectors/cut-the-chain-vector-id1264912759?k=6&m=1264912759&s=612x612&w=0&h=NMi9c2dRqzMYQGHsfLfUdui4Vj4GFkKwfr2hUNtcR_Q=', 'https://media.gettyimages.com/photos/hipster-businessman-wear-a-hat-and-glasses-skateboarding-near-office-picture-id1204976878?k=6&m=1204976878&s=612x612&w=0&h=PeD-LS4hkOeFq0QRxzrG1r2FX9IrIFsLJC33qJtoQl0=']
+U+88C2
+12
+liè
+145.6
+裂.mp3
+
+裃
+['old ceremonial garb', ' samurai garb']
+['antiguo atuendo ceremonial', 'Samurai Corp.']
+['NONE', 'NONE']
+U+88C3
+11
+kǎ
+145.6
+裃.mp3
+
+裄
+['sleeve length']
+['largo de manga']
+['https://media.gettyimages.com/vectors/long-sleeve-tshirts-vector-id493582894?k=6&m=493582894&s=612x612&w=0&h=0cPekBX2kFUzyT3hAgwRm2hOTy85r0qVPG2FWCSJr6Q=']
+U+88C4
+11
+xing
+145.6
+裄.mp3
+
+装
+['dress, clothes, attire', ' fill']
+['vestido, ropa, atuendo', 'llenar']
+['https://media.gettyimages.com/photos/look-at-this-gorgeous-dress-picture-id854321536?k=6&m=854321536&s=612x612&w=0&h=mhIuj9c1Y4z_OG7Kwd30aZLqhdzFuTLireLNEFbJQjA=', 'https://media.gettyimages.com/photos/you-wont-get-far-without-gas-picture-id1125630095?k=6&m=1125630095&s=612x612&w=0&h=SPU9ZFJcU2cjlHZieo51eeRw9c777GN6p-GMrrFJbYE=']
+U+88C5
+12
+zhuāng
+145.6
+装.mp3
+
+裆
+['crotch or seat of pants', ' pants']
+['entrepierna o asiento de los pantalones', 'pantalones']
+['https://media.gettyimages.com/photos/man-resting-on-the-sofa-picture-id910138960?k=6&m=910138960&s=612x612&w=0&h=xLETtZpEm3yD8hSVfM-RcMzCuDZyFYsmua34fnsihTQ=', 'https://media.gettyimages.com/photos/mullet-man-with-eighties-fashion-style-picture-id522241269?k=6&m=522241269&s=612x612&w=0&h=vvTlhoo1pjZF3Zjnq7RqyHDO0cVA43vbaYLN2vc2HvE=']
+U+88C6
+11
+dāng
+145.6
+裆.mp3
+
+裇
+['(Cant.) a shirt (Engl. loanword)']
+['(Can.) Una palabra corta (préstamo en inglés)']
+['NONE']
+U+88C7
+12
+xū
+145.6
+裇.mp3
+
+裈
+['trousers, pants, shorts, drawers']
+['pantalones, pantalones, shorts, cajones']
+['NONE']
+U+88C8
+11
+kūn
+145.6
+裈.mp3
+
+裉
+['seam in a garment']
+['costura en una prenda']
+['https://media.gettyimages.com/photos/leather-blank-jeans-label-picture-id185094404?k=6&m=185094404&s=612x612&w=0&h=P2DLSWEmhJ43Y53ffY7GUviqHaYxpS-nF9YzbiMFzYs=']
+U+88C9
+11
+kèn
+145.6
+裉.mp3
+
+裊
+['curling upwards', ' wavering gently']
+['rizado hacia arriba', 'vacilando suavemente']
+['https://media.gettyimages.com/photos/view-on-the-side-of-some-wooden-stairs-with-a-metal-railing-on-a-picture-id1180049183?k=6&m=1180049183&s=612x612&w=0&h=XH9u4dqAGVNwoTILJ6wAb_mSmIYnRjbsMIpuuE-FeaQ=', 'NONE']
+U+88CA
+13
+niǎo
+145.7
+裊.mp3
+
+裋
+['cotton clothes of a boy servant']
+['ropa de algodón de un sirviente']
+['NONE']
+U+88CB
+12
+shù
+145.7
+裋.mp3
+
+裌
+['lined garment']
+['prenda forrada']
+['https://media.gettyimages.com/photos/placket-front-of-cotton-shirt-picture-id1063547144?k=6&m=1063547144&s=612x612&w=0&h=JRjRVpG8mpM1tu2-kv6vWZWByu36kHZw0qz_chv885Q=']
+U+88CC
+12
+jiá
+145.7
+裌.mp3
+
+裍
+['a border or band on the edge of a dress']
+['un borde o banda en el borde de un vestido']
+['https://media.gettyimages.com/photos/the-edge-picture-id618656272?k=6&m=618656272&s=612x612&w=0&h=zAahPCrjaDJkRHe7Y2KMus3VEm8SWZZgLqW26zuKp4c=']
+U+88CD
+12
+kǔn
+145.7
+裍.mp3
+
+裎
+['to take off the clothes and expose the body. to carry in the girdle']
+['para quitarse la ropa y exponer el cuerpo. para llevar en la faja']
+['NONE']
+U+88CE
+12
+chéng
+145.7
+裎.mp3
+
+裏
+['inside, interior, within']
+['dentro, interior, dentro']
+['https://media.gettyimages.com/photos/sunlight-living-room-picture-id1134293954?k=6&m=1134293954&s=612x612&w=0&h=ldmgckQPxiYiRRT8rMUv2zfdzdLfWOGXcWLD9ziE8tM=']
+U+88CF
+13
+lǐ
+145.7
+裏.mp3
+
+裐
+['NONE']
+['NINGUNA']
+[]
+U+88D0
+12
+juān
+145.7
+裐.mp3
+
+裑
+['NONE']
+['NINGUNA']
+[]
+U+88D1
+12
+shēn
+145.7
+裑.mp3
+
+裒
+['collect, gather, assemble', ' praise']
+['recolectar, reunir, ensamblar', 'alabanza']
+['https://media.gettyimages.com/photos/colleagues-collecting-ideas-on-sticky-notes-at-the-wall-picture-id995497322?k=6&m=995497322&s=612x612&w=0&h=TYRS9Go3CiuyHSgBMv78jjOOS7Rjz1EPthV7W30Z0SM=', 'https://media.gettyimages.com/photos/applauding-on-a-business-seminar-picture-id1066868794?k=6&m=1066868794&s=612x612&w=0&h=JnLc81Wur9V-H64XPC2ZjWJMjlIwM-6Y5GJiFBXirDU=']
+U+88D2
+12
+póu
+145.7
+裒.mp3
+
+裓
+['NONE']
+['NINGUNA']
+[]
+U+88D3
+12
+gé
+145.7
+裓.mp3
+
+裔
+['progeny, descendants, posterity']
+['descendencia, descendencia, posteridad']
+['NONE']
+U+88D4
+13
+yì
+145.7
+裔.mp3
+
+裕
+['abundant, rich, plentiful']
+['abundante, rico, abundante']
+['https://media.gettyimages.com/photos/choosing-food-picture-id648316070?k=6&m=648316070&s=612x612&w=0&h=v1NSeCQO0EwEZDO-cWX44sQCivwe6XfUX9Jxj4kWqxs=']
+U+88D5
+12
+yù
+145.7
+裕.mp3
+
+裖
+['NONE']
+['NINGUNA']
+[]
+U+88D6
+12
+zhěn
+145.7
+裖.mp3
+
+裗
+['NONE']
+['NINGUNA']
+[]
+U+88D7
+12
+liú
+145.7
+裗.mp3
+
+裘
+['fur garments', ' surname']
+['prendas de piel', 'apellido']
+['https://media.gettyimages.com/photos/closeup-secondhand-winter-coats-and-jackets-hanging-in-shop-picture-id120554322?k=6&m=120554322&s=612x612&w=0&h=pu0Itxm1Dr0jX76ImtC0j8Xwyr_yRRRXw6LdThFr40w=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+88D8
+13
+qiú
+145.7
+裘.mp3
+
+裙
+['skirt, apron, petticoat']
+['falda, delantal, enagua']
+['https://media.gettyimages.com/illustrations/norwegian-bride-period-costume-illustration-id173850699?k=6&m=173850699&s=612x612&w=0&h=ySA_af9MycN9o5u3SDGCXq6hv7w17JqJkNdxYIZVP7Y=']
+U+88D9
+12
+qún
+145.7
+裙.mp3
+
+裚
+['NONE']
+['NINGUNA']
+[]
+U+88DA
+13
+jì
+145.7
+裚.mp3
+
+裛
+['to wrap and bind', ' damp', ' a book bag']
+['para envolver y atar', 'húmedo', 'una mochila']
+['https://media.gettyimages.com/vectors/gift-box-icon-vector-id474996046?k=6&m=474996046&s=612x612&w=0&h=pqak4Wo9P08qOsmQ1dsqma4U9Y95af0nxoEf6iDvkfQ=', 'https://media.gettyimages.com/photos/crumpled-paper-picture-id173546785?k=6&m=173546785&s=612x612&w=0&h=7r0J-cCV1qB9oE4rp7vYG3GMAWRIGpDaE7XkJI-tGdI=', 'https://media.gettyimages.com/photos/backpack-isolated-on-a-white-background-picture-id185332097?k=6&m=185332097&s=612x612&w=0&h=Df27IYPnXmgsUpBwDynCs_fBnzLqr7PyE0NvyVPHpes=']
+U+88DB
+13
+yì
+145.7
+裛.mp3
+
+補
+['mend, patch, fix, repair, restore']
+['reparar, parchear, arreglar, reparar, restaurar']
+['https://media.gettyimages.com/photos/closeup-of-man-in-an-automobile-upholstery-workshop-restoring-seat-picture-id1027536726?k=6&m=1027536726&s=612x612&w=0&h=M1N6il5m2614dCQuyYw7LO38NqZmNQwwKahb06lquXA=']
+U+88DC
+12
+bǔ
+145.7
+補.mp3
+
+裝
+['dress, clothes', ' decorate', ' fill']
+['vestir ropa', 'Decorar', 'llenar']
+['https://media.gettyimages.com/photos/look-at-this-gorgeous-dress-picture-id854321536?k=6&m=854321536&s=612x612&w=0&h=mhIuj9c1Y4z_OG7Kwd30aZLqhdzFuTLireLNEFbJQjA=', 'https://media.gettyimages.com/photos/choosing-the-right-color-for-my-wall-picture-id1142207518?k=6&m=1142207518&s=612x612&w=0&h=NL6mpRY61vf-DLimmLrzo6dYp7fnVKYhVGwIxPzxM_o=', 'https://media.gettyimages.com/photos/you-wont-get-far-without-gas-picture-id1125630095?k=6&m=1125630095&s=612x612&w=0&h=SPU9ZFJcU2cjlHZieo51eeRw9c777GN6p-GMrrFJbYE=']
+U+88DD
+13
+zhuāng
+145.7
+裝.mp3
+
+裞
+['NONE']
+['NINGUNA']
+[]
+U+88DE
+12
+shuì
+145.7
+裞.mp3
+
+裟
+['a cassock or robe of a monk']
+['una sotana o túnica de monje']
+['https://media.gettyimages.com/photos/buddhist-monk-at-the-gal-vihara-in-sri-lanka-picture-id523358328?k=6&m=523358328&s=612x612&w=0&h=S46NBywvgxEr-WMBgaraprR6nndS7tZxviBNYz3wgBA=']
+U+88DF
+13
+shā
+145.7
+裟.mp3
+
+裠
+['a short skirt']
+['una falda corta']
+['https://media.gettyimages.com/photos/midsection-of-man-and-woman-walking-on-street-picture-id691097141?k=6&m=691097141&s=612x612&w=0&h=t2FhCDb59vg7CVlr8qLpJhC8RxUdSHJiuAZjehTj7kQ=']
+U+88E0
+13
+qún
+145.7
+裠.mp3
+
+裡
+['inside, interior, within']
+['dentro, interior, dentro']
+['https://media.gettyimages.com/photos/sunlight-living-room-picture-id1134293954?k=6&m=1134293954&s=612x612&w=0&h=ldmgckQPxiYiRRT8rMUv2zfdzdLfWOGXcWLD9ziE8tM=']
+U+88E1
+12
+lǐ
+145.7
+裡.mp3
+
+裢
+['folding purse inserted in belt']
+['monedero plegable insertado en cinturón']
+['NONE']
+U+88E2
+12
+lián
+145.7
+裢.mp3
+
+裣
+["draw one's hands into sleeve"]
+['meter las manos en la manga']
+['NONE']
+U+88E3
+12
+liǎn
+145.7
+裣.mp3
+
+裤
+['trousers, pants']
+['NONE']
+['https://media.gettyimages.com/photos/woman-lying-on-sofa-using-television-remote-control-picture-id200280033-001?k=6&m=200280033-001&s=612x612&w=0&h=lKOHqjVKEPe8655B01pIbv6fS7mXEj0BLvNBSyVv4VE=']
+U+88E4
+12
+kù
+145.7
+裤.mp3
+
+裥
+['folds']
+['pliegues']
+['https://media.gettyimages.com/photos/folded-white-paper-background-picture-id1170794367?k=6&m=1170794367&s=612x612&w=0&h=W_FOLpYbcaBV_tLGWnQ2eUq1NE0Z-W1J-NC7QJ0_QzM=']
+U+88E5
+12
+jiǎn
+145.7
+裥.mp3
+
+裦
+['NONE']
+['NINGUNA']
+[]
+U+88E6
+14
+fóu
+145.9
+裦.mp3
+
+裧
+['NONE']
+['NINGUNA']
+[]
+U+88E7
+13
+chān
+145.8
+裧.mp3
+
+裨
+['aid, benefit, help', ' supplement']
+['ayuda, beneficio, ayuda', 'suplemento']
+['https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=', 'https://media.gettyimages.com/photos/woman-holding-glass-of-water-taking-pill-picture-id135385338?k=6&m=135385338&s=612x612&w=0&h=6IXKCL5L6ZoxGI2FROTe1yfwXNNOPVirRsT1SuhZRzI=']
+U+88E8
+13
+bì
+145.8
+裨.mp3
+
+裩
+['NONE']
+['NINGUNA']
+[]
+U+88E9
+13
+kūn
+145.8
+裩.mp3
+
+裪
+['the sleeve']
+['la manga']
+['https://media.gettyimages.com/vectors/vintage-worn-vinyl-record-sleeve-blank-in-worn-white-vector-id503242288?k=6&m=503242288&s=612x612&w=0&h=QcELWg4noOeq5QIENRyn8AyKWUMV52wiBUI9KXNgINc=']
+U+88EA
+13
+táo
+145.8
+裪.mp3
+
+裫
+['NONE']
+['NINGUNA']
+[]
+U+88EB
+14
+yuàn
+145.8
+裫.mp3
+
+裬
+['NONE']
+['NINGUNA']
+[]
+U+88EC
+13
+líng
+145.8
+裬.mp3
+
+裭
+['NONE']
+['NINGUNA']
+[]
+U+88ED
+13
+chǐ
+145.8
+裭.mp3
+
+裮
+['NONE']
+['NINGUNA']
+[]
+U+88EE
+13
+chāng
+145.8
+裮.mp3
+
+裯
+['coverlet', ' bedspread']
+['sobrecama', 'colcha']
+['https://media.gettyimages.com/photos/good-morning-world-picture-id916443116?k=6&m=916443116&s=612x612&w=0&h=WuXBuGWZCRrbqOltE34husqGiiSdyIRREUee4nUqh2I=', 'https://media.gettyimages.com/photos/good-morning-world-picture-id916443116?k=6&m=916443116&s=612x612&w=0&h=WuXBuGWZCRrbqOltE34husqGiiSdyIRREUee4nUqh2I=']
+U+88EF
+13
+chóu
+145.8
+裯.mp3
+
+裰
+['to mend clothes']
+['para remendar ropa']
+['https://media.gettyimages.com/photos/woman-repairing-jeans-picture-id134573421?k=6&m=134573421&s=612x612&w=0&h=mTpD215O24l02KbC01nH0ArV6DNW5nIlKhZnCgbNAlM=']
+U+88F0
+13
+duō
+145.8
+裰.mp3
+
+裱
+['to mount maps or scrolls to paste']
+['para montar mapas o pergaminos para pegar']
+['NONE']
+U+88F1
+13
+biǎo
+145.8
+裱.mp3
+
+裲
+['waistcoat']
+['chaleco']
+['https://media.gettyimages.com/photos/confident-mid-adult-mechanic-at-auto-repair-shop-picture-id858136174?k=6&m=858136174&s=612x612&w=0&h=Hh4W5mwb3TWc5ds1Qtjht_jjFTemyFygBy855_lD2UY=']
+U+88F2
+13
+liǎng
+145.8
+裲.mp3
+
+裳
+['clothes', ' skirt', ' beautiful']
+['ropa', 'falda', 'hermosa']
+['https://media.gettyimages.com/photos/look-at-this-gorgeous-dress-picture-id854321536?k=6&m=854321536&s=612x612&w=0&h=mhIuj9c1Y4z_OG7Kwd30aZLqhdzFuTLireLNEFbJQjA=', 'https://media.gettyimages.com/photos/young-pretty-fashioned-girl-picture-id1063674520?k=6&m=1063674520&s=612x612&w=0&h=SJPwoAmVES_jNkbjDJVDxsoGt8XIVh1a8cqiY5Rijbc=', 'https://media.gettyimages.com/photos/perfection-in-profile-picture-id1069713934?k=6&m=1069713934&s=612x612&w=0&h=t7M7hM0VP0qzw1hOC4tMuOYRQwoT5CoeWGlgUXg83i0=']
+U+88F3
+14
+shang
+145.8
+裳.mp3
+
+裴
+['surname', ' look of a flowing gown']
+['apellido', 'mirada de un vestido suelto']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/the-beautiful-scenery-view-of-melbourne-city-with-yarra-river-an-in-picture-id873403542?k=6&m=873403542&s=612x612&w=0&h=WZEfCiJwF0KaRteds5VtiIoAvnxbLnYntKHZr_eKLYo=']
+U+88F4
+14
+péi
+145.8
+裴.mp3
+
+裵
+['surname', ' look of a flowing gown']
+['apellido', 'mirada de un vestido suelto']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/the-beautiful-scenery-view-of-melbourne-city-with-yarra-river-an-in-picture-id873403542?k=6&m=873403542&s=612x612&w=0&h=WZEfCiJwF0KaRteds5VtiIoAvnxbLnYntKHZr_eKLYo=']
+U+88F5
+14
+péi
+145.8
+裵.mp3
+
+裶
+['NONE']
+['NINGUNA']
+[]
+U+88F6
+13
+fēi
+145.8
+裶.mp3
+
+裷
+['NONE']
+['NINGUNA']
+[]
+U+88F7
+13
+yuān
+145.8
+裷.mp3
+
+裸
+['bare, nude', ' undress, strip']
+['desnudo, desnudo', 'desnudarse, desnudarse']
+['https://media.gettyimages.com/photos/rear-view-of-bare-chested-man-with-arms-outstretched-picture-id147206881?k=6&m=147206881&s=612x612&w=0&h=IY6Bd7q8cT9rr5fX1g1wtud4Z4kfLklRHP3PqSbyCA4=', 'https://media.gettyimages.com/photos/mid-adult-man-taking-off-jumper-picture-id638697061?k=6&m=638697061&s=612x612&w=0&h=hXqYVMRj-2_vtZhbaImgiEXCzvgCLK3BKDUbQ_mA_7Q=']
+U+88F8
+13
+luǒ
+145.8
+裸.mp3
+
+裹
+['wrap, bind', ' encircle, confine']
+['envolver, atar', 'rodear, confinar']
+['https://media.gettyimages.com/vectors/gift-box-icon-vector-id474996046?k=6&m=474996046&s=612x612&w=0&h=pqak4Wo9P08qOsmQ1dsqma4U9Y95af0nxoEf6iDvkfQ=', 'https://media.gettyimages.com/photos/man-inside-circle-of-cordon-posts-picture-id484355049?k=6&m=484355049&s=612x612&w=0&h=hb06dwHTB5XPS3gX6nRce1P4GkuKU8xB9ci9dUG5R8s=']
+U+88F9
+14
+guǒ
+145.8
+裹.mp3
+
+裺
+['NONE']
+['NINGUNA']
+[]
+U+88FA
+13
+yǎn
+145.8
+裺.mp3
+
+裻
+['NONE']
+['NINGUNA']
+[]
+U+88FB
+14
+dú
+145.8
+裻.mp3
+
+裼
+["to take off one's top", ' divest']
+['quitarse la parte superior', 'despojar']
+['https://media.gettyimages.com/illustrations/two-men-showing-off-for-one-woman-illustration-id165515348?k=6&m=165515348&s=612x612&w=0&h=ngmEKfPPqGrs4OFqUNcc8iLhtV8gtzai0KeANMxZNMg=', 'https://media.gettyimages.com/photos/directly-above-shot-of-colorful-alphabets-making-divest-text-on-table-picture-id1054394946?k=6&m=1054394946&s=612x612&w=0&h=EjQZSf1Jw4ReU1gHPDxFguChrzoy_0zBF_3FMMC7X0g=']
+U+88FC
+13
+tì
+145.8
+裼.mp3
+
+製
+['make, manufacture', ' produce']
+['hacer, fabricar', 'produce']
+['https://media.gettyimages.com/photos/young-carpenter-using-sander-while-working-on-a-piece-of-wood-picture-id1061173208?k=6&m=1061173208&s=612x612&w=0&h=_T3Zo0AEDkqhDbQBXfiNLzTUthaOtnsfGNpKNPQdQg8=', 'https://media.gettyimages.com/photos/multiethnic-workers-talking-in-metal-fabrication-plant-picture-id1128758749?k=6&m=1128758749&s=612x612&w=0&h=QR4r2W25wbPP7F1ita_OS500q8iN6SEfBxluGyJCqL8=']
+U+88FD
+14
+zhì
+145.8
+製.mp3
+
+裾
+['lapel, border of garment', ' skirt']
+['solapa, borde de la prenda', 'falda']
+['https://media.gettyimages.com/photos/close-up-of-well-dressed-man-picture-id929003120?k=6&m=929003120&s=612x612&w=0&h=1rHbM-ePv6oRv6ret9a3uhu_UpfhREY5krbcWJRvGWs=', 'https://media.gettyimages.com/photos/young-pretty-fashioned-girl-picture-id1063674520?k=6&m=1063674520&s=612x612&w=0&h=SJPwoAmVES_jNkbjDJVDxsoGt8XIVh1a8cqiY5Rijbc=']
+U+88FE
+13
+jū
+145.8
+裾.mp3
+
+裿
+['NONE']
+['NINGUNA']
+[]
+U+88FF
+13
+yǐ
+145.8
+裿.mp3
+
+褀
+['NONE']
+['NINGUNA']
+[]
+U+8900
+13
+qí
+145.8
+褀.mp3
+
+褁
+['NONE']
+['NINGUNA']
+[]
+U+8901
+12
+guǒ
+145.8
+褁.mp3
+
+褂
+['jacket, overcoat, coat', ' gown']
+['chaqueta, abrigo, abrigo', 'vestido']
+['https://media.gettyimages.com/photos/womans-coat-isolated-picture-id184330267?k=6&m=184330267&s=612x612&w=0&h=zyrR7FQXQh5YYe8vCjMBAcZLTSlf_F7zXt3UFLKf2Sw=', 'https://media.gettyimages.com/photos/she-achieved-what-she-wanted-to-achieve-picture-id1130436773?k=6&m=1130436773&s=612x612&w=0&h=lXjEGOsae2n344fexkho32Su66fUuxAGqIcog_pXBbQ=']
+U+8902
+13
+guà
+145.8
+褂.mp3
+
+褃
+['a seam in a garment']
+['una costura en una prenda']
+['https://media.gettyimages.com/photos/leather-blank-jeans-label-picture-id185094404?k=6&m=185094404&s=612x612&w=0&h=P2DLSWEmhJ43Y53ffY7GUviqHaYxpS-nF9YzbiMFzYs=']
+U+8903
+13
+kèn
+145.8
+褃.mp3
+
+褄
+['a skirt']
+['una falda']
+['https://media.gettyimages.com/photos/young-pretty-fashioned-girl-picture-id1063674520?k=6&m=1063674520&s=612x612&w=0&h=SJPwoAmVES_jNkbjDJVDxsoGt8XIVh1a8cqiY5Rijbc=']
+U+8904
+13
+qī
+145.8
+褄.mp3
+
+褅
+['NONE']
+['NINGUNA']
+[]
+U+8905
+14
+tì
+145.9
+褅.mp3
+
+褆
+['NONE']
+['NINGUNA']
+[]
+U+8906
+14
+tí
+145.9
+褆.mp3
+
+複
+['repeat, double, overlap']
+['repetir, duplicar, superponer']
+['https://media.gettyimages.com/photos/zoom-in-of-city-lights-view-from-high-picture-id1034446324?k=6&m=1034446324&s=612x612&w=0&h=lwQQVvuHtmiVz0Q7hyBo95_Jsek3Xd9lWP91AWfxwLQ=']
+U+8907
+14
+fù
+145.9
+複.mp3
+
+褈
+['NONE']
+['NINGUNA']
+[]
+U+8908
+14
+chóng
+145.9
+褈.mp3
+
+褉
+['short garments']
+['prendas cortas']
+['https://media.gettyimages.com/photos/happy-woman-text-messaging-through-mobile-phone-picture-id823885430?k=6&m=823885430&s=612x612&w=0&h=otUQuY3gMp_D4R_D_LOcrMLIcqi4zF1hTmhAaWvUer4=']
+U+8909
+14
+xiè
+145.9
+褉.mp3
+
+褊
+['cramped, narrow, crowded', ' mean']
+['estrecho, estrecho, abarrotado', 'media']
+['https://media.gettyimages.com/photos/japanese-businesses-on-a-pedestrian-street-picture-id1129133961?k=6&m=1129133961&s=612x612&w=0&h=Byw3od0BANca6bhOIC7y1w7owWyvtfjN0E07Jron9qs=', 'https://media.gettyimages.com/photos/marking-territory-picture-id977261146?k=6&m=977261146&s=612x612&w=0&h=SBaOlLDmDMLK1qSJVhbKuujoLjbzLYCGUWDbV69XdgE=']
+U+890A
+14
+biǎn
+145.9
+褊.mp3
+
+褋
+['NONE']
+['NINGUNA']
+[]
+U+890B
+14
+dié
+145.9
+褋.mp3
+
+褌
+['trousers, pants, shorts, drawers']
+['pantalones, pantalones, shorts, cajones']
+['NONE']
+U+890C
+14
+kūn
+145.9
+褌.mp3
+
+褍
+['NONE']
+['NINGUNA']
+[]
+U+890D
+14
+duān
+145.9
+褍.mp3
+
+褎
+['sleeve', ' ample flowing robes']
+['manga', 'amplias túnicas que fluyen']
+['https://media.gettyimages.com/vectors/vintage-worn-vinyl-record-sleeve-blank-in-worn-white-vector-id503242288?k=6&m=503242288&s=612x612&w=0&h=QcELWg4noOeq5QIENRyn8AyKWUMV52wiBUI9KXNgINc=', 'https://media.gettyimages.com/photos/flow-of-monks-picture-id140789120?k=6&m=140789120&s=612x612&w=0&h=HwruOhx7nh70UCE5XMv0uWX3x-tGiAcCiqjCeNupC1s=']
+U+890E
+14
+xiù
+145.9
+褎.mp3
+
+褏
+['sleeve', ' ample flowing robes']
+['manga', 'amplias túnicas que fluyen']
+['https://media.gettyimages.com/vectors/vintage-worn-vinyl-record-sleeve-blank-in-worn-white-vector-id503242288?k=6&m=503242288&s=612x612&w=0&h=QcELWg4noOeq5QIENRyn8AyKWUMV52wiBUI9KXNgINc=', 'https://media.gettyimages.com/photos/flow-of-monks-picture-id140789120?k=6&m=140789120&s=612x612&w=0&h=HwruOhx7nh70UCE5XMv0uWX3x-tGiAcCiqjCeNupC1s=']
+U+890F
+14
+xiù
+145.9
+褏.mp3
+
+褐
+['coarse woolen cloth', ' dull, dark']
+['paño de lana grueso', 'aburrido, oscuro']
+['https://media.gettyimages.com/photos/full-frame-shot-of-knitted-woolen-cloth-picture-id606392863?k=6&m=606392863&s=612x612&w=0&h=7Au1xz00NhFFEoAJmdkZz1N0K0OOHpYVIZip6a-U91o=', 'https://media.gettyimages.com/photos/father-and-son-looking-out-of-window-on-rainy-day-picture-id1175879315?k=6&m=1175879315&s=612x612&w=0&h=iH6vI9GTY92jTXoc54CitjMQsvxb9iuQ28py7GeUOwk=']
+U+8910
+14
+hè
+145.9
+褐.mp3
+
+褑
+['NONE']
+['NINGUNA']
+[]
+U+8911
+14
+yuàn
+145.9
+褑.mp3
+
+褒
+['praise, commend, honor, cite']
+['alabar, encomiar, honrar, citar']
+['NONE']
+U+8912
+15
+bāo
+145.9
+褒.mp3
+
+褓
+['swaddling cloth', ' infancy']
+['paño para envolver', 'infancia']
+['https://media.gettyimages.com/photos/blue-flannel-blanket-textile-background-textured-picture-id184955502?k=6&m=184955502&s=612x612&w=0&h=1AcL6M_WSb5QHLJlEkrvKK0jcmiu5edis4lef6lHgqk=', 'https://media.gettyimages.com/photos/smiling-baby-and-his-mom-picture-id1083331306?k=6&m=1083331306&s=612x612&w=0&h=pmosAs5qzpQXNmjohmLVDB5eqj8Ef3wu9ol9fPaw8_8=']
+U+8913
+14
+bǎo
+145.9
+褓.mp3
+
+褔
+['complex', ' double']
+['complejo', 'doble']
+['https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=', 'https://media.gettyimages.com/photos/double-billboard-picture-id171252702?k=6&m=171252702&s=612x612&w=0&h=fP0kqyG2A-zDdCyahkbExPu4BTykF-7ppeyGfRrXdV4=']
+U+8914
+14
+fù
+145.9
+褔.mp3
+
+褕
+['shirt']
+['camisa']
+['https://media.gettyimages.com/vectors/mens-clothing-thin-line-icons-editable-stroke-vector-id1138644486?k=6&m=1138644486&s=612x612&w=0&h=HfEF7oARAQQvrC2LywPJb-1TKoYEhRQpAShhiTGb-I0=']
+U+8915
+14
+yú
+145.9
+褕.mp3
+
+褖
+['NONE']
+['NINGUNA']
+[]
+U+8916
+14
+tuàn
+145.9
+褖.mp3
+
+褗
+['NONE']
+['NINGUNA']
+[]
+U+8917
+14
+yǎn
+145.9
+褗.mp3
+
+褘
+['ceremonial gowns of a queen']
+['vestidos ceremoniales de una reina']
+['https://media.gettyimages.com/photos/single-black-graduate-cap-on-white-background-with-shadow-detail-picture-id1286584535?k=6&m=1286584535&s=612x612&w=0&h=V3alTGcUa36wVKibvCChjuzfEObMcWtWlEmNCE1Ujnk=']
+U+8918
+14
+huī
+145.9
+褘.mp3
+

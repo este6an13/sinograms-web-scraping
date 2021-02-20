@@ -1,0 +1,2560 @@
+昙
+['become cloudy, overcast']
+['se vuelve nublado, nublado']
+['https://media.gettyimages.com/photos/sky-clouds-picture-id1152008324?k=6&m=1152008324&s=612x612&w=0&h=5ZP66hopTNhJBUgj_kqE3LKiEliYLIHemFFiYRJ3yEQ=']
+U+6619
+8
+tán
+72.4
+昙.mp3
+
+昚
+['NONE']
+['NINGUNA']
+[]
+U+661A
+9
+shèn
+72.5
+昚.mp3
+
+昛
+['NONE']
+['NINGUNA']
+[]
+U+661B
+8
+jù
+72.5
+昛.mp3
+
+昜
+['to open out, to expand', ' bright, glorious']
+['abrir, expandir', 'brillante, glorioso']
+['https://media.gettyimages.com/photos/white-ladder-leaning-on-red-wall-with-cut-out-heart-shape-picture-id1193145405?k=6&m=1193145405&s=612x612&w=0&h=GR3IE0r3HAwlryosi0iBxGvotlS8xCGnUvqXjus810s=', 'https://media.gettyimages.com/photos/glorious-golden-sunset-picture-id168324070?k=6&m=168324070&s=612x612&w=0&h=IHBbAS8jJfsAPN0JqWZ35QQDR4ff4lO37CYBj-kFijY=']
+U+661C
+9
+yáng
+72.5
+昜.mp3
+
+昝
+['a dual pronoun, I, you and me, we two']
+['un pronombre dual, yo, tu y yo, los dos']
+['NONE']
+U+661D
+9
+zǎn
+72.5
+昝.mp3
+
+昞
+['bright, luminous', ' glorious']
+['brillante, luminoso', 'glorioso']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=', 'https://media.gettyimages.com/photos/glorious-russian-flag-picture-id172387878?k=6&m=172387878&s=612x612&w=0&h=9Ti973rVV_q1Ppi5ie6bx7sv5D9SC5SpMFPOvTW6NpI=']
+U+661E
+9
+bǐng
+72.5
+昞.mp3
+
+星
+['a star, planet', ' any point of light']
+['una estrella, planeta', 'cualquier punto de luz']
+['https://media.gettyimages.com/photos/big-planets-and-shining-stars-galaxy-in-space-picture-id185215907?k=6&m=185215907&s=612x612&w=0&h=ehqsLV5BITt04gM2JDcdrROcsY9R0SU7WVyz6IlNujc=', 'https://media.gettyimages.com/photos/two-people-looking-out-window-picture-id912089332?k=6&m=912089332&s=612x612&w=0&h=CzbccJypW2e1wI-D4wIorw5cD-vJp9K8YC5WjcdqlxY=']
+U+661F
+9
+xīng
+72.5
+星.mp3
+
+映
+['project', ' reflect light']
+['proyecto', 'reflejar la luz']
+['https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=', 'https://media.gettyimages.com/photos/close-up-portrait-of-woman-while-loo0king-up-in-the-city-picture-id932096974?k=6&m=932096974&s=612x612&w=0&h=5YBTuBm-34Ni2cE7ya1l3FtnlpzxPT2x32kWzqzfZu8=']
+U+6620
+9
+yìng
+72.5
+映.mp3
+
+昡
+['long day', ' extended', ' relaxed']
+['día largo', 'extendido', 'relajado']
+['https://media.gettyimages.com/photos/smiling-woman-on-a-windy-day-picture-id1056003770?k=6&m=1056003770&s=612x612&w=0&h=PRMAYBXNYi3ApS1i1ugPczA2D083dFiUod9sEgzVBFI=', 'https://media.gettyimages.com/photos/young-man-doing-leg-stretches-in-the-gym-picture-id1130300323?k=6&m=1130300323&s=612x612&w=0&h=7C7-KRnAwS8lp75wPbP-rDdH5iy0wA4y2uNn_dgFslg=', 'https://media.gettyimages.com/photos/young-woman-spending-a-relaxing-day-in-her-beautiful-home-picture-id1062517720?k=6&m=1062517720&s=612x612&w=0&h=cOZzkiXa8eBpKCwTlOJsZrfVX_Sj87o_5d1q5sxPMRs=']
+U+6621
+9
+xuàn
+72.5
+昡.mp3
+
+昢
+['NONE']
+['NINGUNA']
+[]
+U+6622
+9
+pò
+72.5
+昢.mp3
+
+昣
+['NONE']
+['NINGUNA']
+[]
+U+6623
+9
+zhěn
+72.5
+昣.mp3
+
+昤
+['sunshine']
+['Brillo Solar']
+['https://media.gettyimages.com/photos/sunny-day-picture-id1135378306?k=6&m=1135378306&s=612x612&w=0&h=vVujNTK3WlHZhHJtCmSUlhhBWs81p76vV3bBKvNH5LU=']
+U+6624
+9
+líng
+72.5
+昤.mp3
+
+春
+['spring', ' wanton']
+['primavera', 'sin sentido']
+['https://media.gettyimages.com/photos/spring-meadow-picture-id1126841725?k=6&m=1126841725&s=612x612&w=0&h=hHbb9srZVqydRFw3adjxVAHJsgxNkm03nlNH0OQIpFE=', 'https://media.gettyimages.com/photos/businesswomen-whistling-on-fingers-picture-id79572080?k=6&m=79572080&s=612x612&w=0&h=NjoRxMv_NjkfKKJXNpkMs37_DgbY5iOSOK8xiO1kXRU=']
+U+6625
+9
+chūn
+72.5
+春.mp3
+
+昦
+['NONE']
+['NINGUNA']
+[]
+U+6626
+9
+hào
+72.5
+昦.mp3
+
+昧
+['obscure, dark', ' darken']
+['oscuro, oscuro', 'oscurecer']
+['https://media.gettyimages.com/photos/young-man-sitting-in-the-dark-covers-his-face-picture-id907469242?k=6&m=907469242&s=612x612&w=0&h=IKo4yzaelIwpCL5S5Gk2XzOAhCymXRWEiQYzeWwVOBQ=', 'https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=']
+U+6627
+9
+mèi
+72.5
+昧.mp3
+
+昨
+['yesterday', ' in former times, past']
+['ayer', 'en tiempos pasados, pasados']
+['https://media.gettyimages.com/photos/february-29-picture-id157399650?k=6&m=157399650&s=612x612&w=0&h=rLgJj2xFA4e7JLYhB7lT2epwsC7F3FFmK_f5uVMD7_w=', 'https://media.gettyimages.com/photos/view-from-the-window-of-an-old-house-in-monemvasia-with-cannon-ball-picture-id874010820?k=6&m=874010820&s=612x612&w=0&h=ArMkGHv5x-mmPRgni8h7cGhcJvzjxJH3yGsq_YsC0II=']
+U+6628
+9
+zuó
+72.5
+昨.mp3
+
+昩
+['NONE']
+['NINGUNA']
+[]
+U+6629
+9
+mò
+72.5
+昩.mp3
+
+昪
+['delighted', ' pleased']
+['Encantado', 'satisfecho']
+['https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/content-is-king-text-typed-on-vintage-typewriter-picture-id958919586?k=6&m=958919586&s=612x612&w=0&h=LgxMRjaU3dLPU6qUBdHDJiKGiilzDWi4JehmWSRHQBQ=']
+U+662A
+9
+biàn
+72.5
+昪.mp3
+
+昫
+['warm']
+['calentar']
+['https://media.gettyimages.com/photos/sun-picture-id923237808?k=6&m=923237808&s=612x612&w=0&h=6RS_rgM8rZ5-x3N4k-dR0xNoKrnNPBPRSdOre7ft09c=']
+U+662B
+9
+xù
+72.5
+昫.mp3
+
+昬
+['dusk, dark confused', ' stupid']
+['anochecer, oscuridad confusa', 'estúpido']
+['https://media.gettyimages.com/photos/businessman-trapped-in-office-picture-id1068535214?k=6&m=1068535214&s=612x612&w=0&h=PUWUTJK_-Bm_5P-VEXHh8bgoyECe70izXXe_RbuAfrQ=', 'https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=']
+U+662C
+9
+hūn
+72.5
+昬.mp3
+
+昭
+['bright, luminous', ' illustrious']
+['brillante, luminoso', 'ilustre']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=', 'https://media.gettyimages.com/photos/panten-de-los-queretanos-ilustres-queretaro-mexico-at-night-picture-id616193558?k=6&m=616193558&s=612x612&w=0&h=PNkZ-Ov2BcCSh0t00TrmgIc31TxeA_QW4m4ZjwIY41U=']
+U+662D
+9
+zhāo
+72.5
+昭.mp3
+
+昮
+['NONE']
+['NINGUNA']
+[]
+U+662E
+9
+zòng
+72.5
+昮.mp3
+
+是
+['indeed, yes, right', ' to be', ' demonstrative pronoun, this, that']
+['de hecho, si, cierto', 'ser - estar', 'pronombre demostrativo, esto, eso']
+['NONE', 'https://media.gettyimages.com/photos/watercolor-paint-on-paper-mixed-to-create-a-watercolor-effect-picture-id1188016482?k=6&m=1188016482&s=612x612&w=0&h=-2kwvfiDnEbHaP8PMuo2LvoOn8DuMXvh5KkrZ--SjVY=', 'NONE']
+U+662F
+9
+shì
+72.5
+是.mp3
+
+昰
+["variant of 'to be'", ' summer', ' name']
+["variante de 'ser'", 'verano', 'nombre']
+['https://media.gettyimages.com/photos/when-i-grow-up-i-want-to-be-picture-id504365895?k=6&m=504365895&s=612x612&w=0&h=poKGt5w9-XQVnisNKHoUAsDzWpjovbPmYA6LIWXUIz8=', 'https://media.gettyimages.com/photos/family-sitting-on-pier-by-the-sea-picture-id1002673938?k=6&m=1002673938&s=612x612&w=0&h=7r58l3YSKvymCtNigkNUpBYLuVkix__mU4vETDCK63M=', 'https://media.gettyimages.com/photos/facial-recognition-technology-picture-id1139859279?k=6&m=1139859279&s=612x612&w=0&h=H-i0yAM3A49I__r44424-jACD667nxiKb7bZR52ByOA=']
+U+6630
+9
+shì
+72.5
+昰.mp3
+
+昱
+['bright light, sunlight', ' dazzling']
+['luz brillante, luz del sol', 'deslumbrante']
+['https://media.gettyimages.com/photos/sunny-day-picture-id1135378306?k=6&m=1135378306&s=612x612&w=0&h=vVujNTK3WlHZhHJtCmSUlhhBWs81p76vV3bBKvNH5LU=', 'https://media.gettyimages.com/photos/red-paint-strokes-picture-id1193540772?k=6&m=1193540772&s=612x612&w=0&h=IFPTKiVqUDlk1qS1MoYzYW2_2BRUtuFRlSi4UrckqkU=']
+U+6631
+9
+yù
+72.5
+昱.mp3
+
+昲
+['NONE']
+['NINGUNA']
+[]
+U+6632
+9
+fèi
+72.5
+昲.mp3
+
+昳
+['the declining sun in the west']
+['el sol poniente en el oeste']
+['https://media.gettyimages.com/photos/rusty-gas-pump-in-a-desert-picture-id142491374?k=6&m=142491374&s=612x612&w=0&h=NuNmEbPacYdAef_1oDPtkGJpbda7r3x-pgViAl5aosE=']
+U+6633
+9
+dié
+72.5
+昳.mp3
+
+昴
+['one of the 28 constellations']
+['una de las 28 constelaciones']
+['https://media.gettyimages.com/photos/full-length-of-man-standing-by-illuminated-lights-against-star-field-picture-id1035553762?k=6&m=1035553762&s=612x612&w=0&h=QhbjTkHQGCBJlNWewKn5BeuqaSmmjxJuDWCvifvI4IA=']
+U+6634
+9
+mǎo
+72.5
+昴.mp3
+
+昵
+['intimate, close', ' approach']
+['íntimo, cercano', 'Acercarse']
+['https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=', 'https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=']
+U+6635
+9
+nì
+72.5
+昵.mp3
+
+昶
+['a long day. bright. extended. clear']
+['un largo día. brillante. extendido. claro']
+['NONE']
+U+6636
+9
+chǎng
+72.5
+昶.mp3
+
+昷
+['to feed a prisoner']
+['alimentar a un prisionero']
+['https://media.gettyimages.com/photos/rooster-eating-feed-picture-id961499844?k=6&m=961499844&s=612x612&w=0&h=8OJatntvRgPxZLoSvDDyBwNQFmigc-D0Av7DJtT6tPc=']
+U+6637
+9
+wēn
+72.5
+昷.mp3
+
+昸
+['NONE']
+['NINGUNA']
+[]
+U+6638
+9
+dōng
+72.5
+昸.mp3
+
+昹
+['NONE']
+['NINGUNA']
+[]
+U+6639
+9
+ǎi
+72.5
+昹.mp3
+
+昺
+['bright, glorious', ' brilliant']
+['brillante, glorioso', 'brillante']
+['https://media.gettyimages.com/photos/glorious-golden-sunset-picture-id168324070?k=6&m=168324070&s=612x612&w=0&h=IHBbAS8jJfsAPN0JqWZ35QQDR4ff4lO37CYBj-kFijY=', 'https://media.gettyimages.com/photos/explaing-her-ideas-in-detail-picture-id516848136?k=6&m=516848136&s=612x612&w=0&h=UH6hjZPNhDeGN18fuVL4uZlWShv9gNIONZ6Sm6573K4=']
+U+663A
+9
+bǐng
+72.5
+昺.mp3
+
+昻
+['rise']
+['subir']
+['https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=']
+U+663B
+9
+áng
+72.5
+昻.mp3
+
+昼
+['daytime, daylight']
+['durante el día, la luz del día']
+['https://media.gettyimages.com/photos/portrait-of-woman-sleeping-in-bed-by-daylight-picture-id1074270532?k=6&m=1074270532&s=612x612&w=0&h=He5Mv7mS97CyFhhIj2x5xGcL1lu2IDKaTju9B3KLr6k=']
+U+663C
+9
+zhòu
+72.5
+昼.mp3
+
+昽
+['vague, dim', ' twilight']
+['ola, sol', 'crepúsculo']
+['https://media.gettyimages.com/photos/soft-focused-image-of-steam-from-norris-geothermal-spring-in-picture-id1175617226?k=6&m=1175617226&s=612x612&w=0&h=usByA8043dte-oxUtS9sWUnHhpWfk4vJfbyRD_Ryygc=', 'https://media.gettyimages.com/photos/amazing-sunrise-pinks-and-blues-at-fort-myers-beach-florida-picture-id1084578644?k=6&m=1084578644&s=612x612&w=0&h=GHe4ilN0TeFhxzc-h8MmnxmKcuyVl46CNDzhUX_3jXY=']
+U+663D
+9
+lóng
+72.5
+昽.mp3
+
+显
+['manifest, display', ' evident, clear']
+['manifestar, mostrar', 'evidente, claro']
+['https://media.gettyimages.com/photos/color-map-entitled-map-no-7-the-territorial-growth-of-the-united-picture-id503233937?k=6&m=503233937&s=612x612&w=0&h=rZWruDZJqG51qMrp942XWxlLeIxLaVky9rPlNumsJ-Y=', 'NONE']
+U+663E
+9
+xiǎn
+72.5
+显.mp3
+
+昿
+['extensive, wide, broad', ' empty']
+['extenso, ancho, amplio', 'vacío']
+['https://media.gettyimages.com/photos/deep-blue-ocean-panorama-picture-id184330929?k=6&m=184330929&s=612x612&w=0&h=kIkkguHYbU7XXV98DlQzthCzhURv9ZaA7ObtoxZ9VwE=', 'https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+663F
+9
+kuàng
+72.5
+昿.mp3
+
+晀
+['NONE']
+['NINGUNA']
+[]
+U+6640
+10
+tiǎo
+72.6
+晀.mp3
+
+晁
+['morning, dawn', ' surname']
+['mañana, amanecer', 'apellido']
+['https://media.gettyimages.com/photos/majestic-sunrise-over-the-mountains-picture-id185067762?k=6&m=185067762&s=612x612&w=0&h=QFGIsuncZGtiLeCQk6aMR14nOUrJNsFmXgpbT7oEU0c=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6641
+10
+cháo
+72.6
+晁.mp3
+
+時
+['time, season', ' era, age, period']
+['tiempo, temporada', 'era, edad, período']
+['https://media.gettyimages.com/photos/four-seasons-of-a-tree-picture-id850986036?k=6&m=850986036&s=612x612&w=0&h=d4MezSrzptt46hphwTBIf88TlJoXi0Jig_35KwWlcx4=', 'https://media.gettyimages.com/photos/woman-in-bed-with-burnout-picture-id537266466?k=6&m=537266466&s=612x612&w=0&h=PM6XS7G13i3OCVJ79hXqVP9niwBrcFC-9V4JUwotsik=']
+U+6642
+10
+shí
+72.6
+時.mp3
+
+晃
+['bright, dazzling', ' to sway, shake']
+['brillante, deslumbrante', 'balancear, sacudir']
+['https://media.gettyimages.com/photos/flash-light-picture-id175601615?k=6&m=175601615&s=612x612&w=0&h=ZCKU1SPMCEE7L7ELFzSw5PSPC_UVdrgOp_R8Y1heygI=', 'NONE']
+U+6643
+10
+huǎng
+72.6
+晃.mp3
+
+晄
+['bright, dazzling', ' to sway, shake']
+['brillante, deslumbrante', 'balancear, sacudir']
+['https://media.gettyimages.com/photos/flash-light-picture-id175601615?k=6&m=175601615&s=612x612&w=0&h=ZCKU1SPMCEE7L7ELFzSw5PSPC_UVdrgOp_R8Y1heygI=', 'NONE']
+U+6644
+10
+huǎng
+72.6
+晄.mp3
+
+晅
+['light of the sun', ' to dry in the sun']
+['luz del sol', 'secar al sol']
+['https://media.gettyimages.com/photos/sun-lens-flare-blue-sky-picture-id1130767007?k=6&m=1130767007&s=612x612&w=0&h=1XZGx6_so89qVeVDAkp9-p2jbpvw3yEix6BRUwxjYaY=', 'https://media.gettyimages.com/photos/dirt-road-in-arid-desert-landscape-with-distant-cliffs-and-sunlight-picture-id1132856728?k=6&m=1132856728&s=612x612&w=0&h=gNIM6mNld5mx9D_m6rxXHGK1ANyWQw9S8IIgigjavQo=']
+U+6645
+10
+xuǎn
+72.6
+晅.mp3
+
+晆
+['NONE']
+['NINGUNA']
+[]
+U+6646
+10
+kuí
+72.6
+晆.mp3
+
+晇
+['NONE']
+['NINGUNA']
+[]
+U+6647
+10
+xū
+72.6
+晇.mp3
+
+晈
+['NONE']
+['NINGUNA']
+[]
+U+6648
+10
+jiǎo
+72.6
+晈.mp3
+
+晉
+['advance, increase', ' promote']
+['avanzar, aumentar', 'promover']
+['https://media.gettyimages.com/photos/businesspeople-walking-on-painted-up-going-graph-on-asphalt-picture-id912018754?k=6&m=912018754&s=612x612&w=0&h=-dTugP-oE9ta66OcEE4cNvCl7SEHYySn5rRhIZXGRXE=', 'https://media.gettyimages.com/photos/taking-on-the-late-shift-with-true-dedication-picture-id1081869356?k=6&m=1081869356&s=612x612&w=0&h=qQwbUsMCpZK-FYk16HqsZFKgksZtXrRCXWjcpwLKUTU=']
+U+6649
+10
+jìn
+72.6
+晉.mp3
+
+晊
+['NONE']
+['NINGUNA']
+[]
+U+664A
+10
+zhì
+72.6
+晊.mp3
+
+晋
+['advance, increase', ' promote']
+['avanzar, aumentar', 'promover']
+['https://media.gettyimages.com/photos/businesspeople-walking-on-painted-up-going-graph-on-asphalt-picture-id912018754?k=6&m=912018754&s=612x612&w=0&h=-dTugP-oE9ta66OcEE4cNvCl7SEHYySn5rRhIZXGRXE=', 'https://media.gettyimages.com/photos/taking-on-the-late-shift-with-true-dedication-picture-id1081869356?k=6&m=1081869356&s=612x612&w=0&h=qQwbUsMCpZK-FYk16HqsZFKgksZtXrRCXWjcpwLKUTU=']
+U+664B
+10
+jìn
+72.6
+晋.mp3
+
+晌
+['noon, midday', ' moment', ' unit land measurement equal to seven mou (']
+['mediodía, mediodía', 'momento', 'unidad de medida de la tierra igual a siete mou (']
+['https://media.gettyimages.com/photos/boardwalk-leading-towards-beach-against-clear-blue-sky-in-formentera-picture-id1178776282?k=6&m=1178776282&s=612x612&w=0&h=XHhWmsoAVAOr79OrE5S2WQJKY67rH8n1YYQzsOVwrQ4=', 'https://media.gettyimages.com/photos/mother-holding-baby-daughters-body-helping-her-to-take-her-first-step-picture-id1075562306?k=6&m=1075562306&s=612x612&w=0&h=gVZ9tnCirUnbjK3T9O3EEqbW48NXY0aqRD1ipKhK6d8=', 'https://media.gettyimages.com/photos/directly-above-shot-of-smart-phone-with-blank-screen-against-white-picture-id1173299471?k=6&m=1173299471&s=612x612&w=0&h=RfVxIUbSE724FCK3C1GvmN5q2t6SZ9NpMFY-7i1ym8M=']
+U+664C
+10
+shǎng
+72.6
+晌.mp3
+
+晍
+['NONE']
+['NINGUNA']
+[]
+U+664D
+10
+tóng
+72.6
+晍.mp3
+
+晎
+['NONE']
+['NINGUNA']
+[]
+U+664E
+10
+hǒng
+72.6
+晎.mp3
+
+晏
+['peaceful, quiet', ' clear', ' late in the day']
+['pacífico, tranquilo', 'claro', 'tarde en el día']
+['https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/clear-blue-sky-background-with-scattered-clouds-picture-id184304316?k=6&m=184304316&s=612x612&w=0&h=Y3daH7tigcvjNSI7dYKWiT2EWGQ14XHkxdHLqkTpaSU=', 'https://media.gettyimages.com/photos/senior-man-having-a-strokeheart-attack-picture-id175118603?k=6&m=175118603&s=612x612&w=0&h=392WHIR0vP43JSZoBkfuQjerQVIDSnDBTDrjFIphoO8=']
+U+664F
+10
+yàn
+72.6
+晏.mp3
+
+晐
+['NONE']
+['NINGUNA']
+[]
+U+6650
+10
+gāi
+72.6
+晐.mp3
+
+晑
+['NONE']
+['NINGUNA']
+[]
+U+6651
+10
+xiǎng
+72.6
+晑.mp3
+
+晒
+['dry in sun, expose to sun']
+['secar al sol, exponer al sol']
+['https://media.gettyimages.com/photos/couple-on-safari-trip-with-tour-guide-taking-pictures-of-rhinos-out-picture-id1096605986?k=6&m=1096605986&s=612x612&w=0&h=4-BBlAMYXk7pG09xc1fyGdXTodXKq7y7g04wt4CAnh8=']
+U+6652
+10
+shài
+72.6
+晒.mp3
+
+晓
+['dawn, daybreak', ' clear, explicit']
+['amanecer, amanecer', 'claro, explícito']
+['https://media.gettyimages.com/photos/sunrise-pastel-colors-abstract-at-jones-beach-in-winter-long-island-picture-id1026803030?k=6&m=1026803030&s=612x612&w=0&h=w08vw-4VPKR1MnkY5gTfVDrpq1oTr4eIsD9qClJ8imA=', 'https://media.gettyimages.com/photos/serious-strategizing-into-the-evening-picture-id517048876?k=6&m=517048876&s=612x612&w=0&h=FFO64ctizV5ggsJ3bhLLuzVvd7FeuRMY5QMmNhdYApQ=']
+U+6653
+10
+xiǎo
+72.6
+晓.mp3
+
+晔
+['bright', ' radiant', ' thriving']
+['brillante', 'radiante', 'próspero']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/success-picture-id912928582?k=6&m=912928582&s=612x612&w=0&h=GCLKEbbQKhh17Z36oHO6mC6q-hHXnrFUVjXOsYzWNyw=']
+U+6654
+10
+yè
+72.6
+晔.mp3
+
+晕
+['halo in sky', ' fog', ' dizzy, faint']
+['halo en el cielo', 'niebla', 'mareado, débil']
+['https://media.gettyimages.com/photos/rainbow-halo-sun-flare-in-the-sky-picture-id804191010?k=6&m=804191010&s=612x612&w=0&h=eH0ecjA2Jh9WbQM8xDQDOgA15BIL5dL728q0q2r-QEE=', 'https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=', 'https://media.gettyimages.com/photos/exhausted-athlete-lying-on-the-grass-picture-id1128013510?k=6&m=1128013510&s=612x612&w=0&h=c8MvWp1Qf4wrVdfn_w8WpzphiO9CkSxrsfxNmM8Mzy8=']
+U+6655
+10
+yūn
+72.6
+晕.mp3
+
+晖
+['sunshine', ' light, bright, radiant']
+['Brillo Solar', 'ligero, brillante, radiante']
+['https://media.gettyimages.com/photos/sunny-day-picture-id1135378306?k=6&m=1135378306&s=612x612&w=0&h=vVujNTK3WlHZhHJtCmSUlhhBWs81p76vV3bBKvNH5LU=', 'https://media.gettyimages.com/photos/light-in-the-dark-picture-id1173661889?k=6&m=1173661889&s=612x612&w=0&h=vJBWxr2DNBc_pf4PmE2uADdmF1sDjQzsd_77EBitWMA=']
+U+6656
+10
+huī
+72.6
+晖.mp3
+
+晗
+['pre-dawn']
+['antes del amanecer']
+['https://media.gettyimages.com/photos/richmond-predawn-picture-id112257634?k=6&m=112257634&s=612x612&w=0&h=z8jYYBW58U0xmpH0QpMaKPdK6ebWugltmBpRebzKFbA=']
+U+6657
+11
+hán
+72.7
+晗.mp3
+
+晘
+['NONE']
+['NINGUNA']
+[]
+U+6658
+11
+hàn
+72.7
+晘.mp3
+
+晙
+['early', ' bright', ' respect']
+['temprano', 'brillante', 'el respeto']
+['https://media.gettyimages.com/photos/man-opening-curtains-in-the-morning-picture-id162927004?k=6&m=162927004&s=612x612&w=0&h=e979V-eiI-ft66sl3XIB2O7mTT1jS4jUioaUfAGmT5s=', 'https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+6659
+11
+jùn
+72.7
+晙.mp3
+
+晚
+['night, evening', ' late']
+['noche, tarde', 'tarde']
+['https://media.gettyimages.com/photos/night-sky-picture-id1027145238?k=6&m=1027145238&s=612x612&w=0&h=DbhFISqqEJUXbR1sDJeWfkHAkCpfHQNkbW0hVUcy-0k=', 'https://media.gettyimages.com/photos/biological-clock-picture-id1089653320?k=6&m=1089653320&s=612x612&w=0&h=qn-1jFwmJXpqNJHPaj1OzU1uCm_Vqyay366GCaBczMw=']
+U+665A
+11
+wǎn
+72.7
+晚.mp3
+
+晛
+['sunlight']
+['luz de sol']
+['https://media.gettyimages.com/photos/sunny-day-picture-id1135378306?k=6&m=1135378306&s=612x612&w=0&h=vVujNTK3WlHZhHJtCmSUlhhBWs81p76vV3bBKvNH5LU=']
+U+665B
+11
+xiàn
+72.7
+晛.mp3
+
+晜
+['insect']
+['insecto']
+['https://media.gettyimages.com/photos/ant-picture-id186823289?k=6&m=186823289&s=612x612&w=0&h=unkFJnKljAF5s9b9-xDCBoa4zKDuuK7b36SV-ewAbcQ=']
+U+665C
+11
+kūn
+72.7
+晜.mp3
+
+晝
+['daytime, daylight']
+['durante el día, la luz del día']
+['https://media.gettyimages.com/photos/portrait-of-woman-sleeping-in-bed-by-daylight-picture-id1074270532?k=6&m=1074270532&s=612x612&w=0&h=He5Mv7mS97CyFhhIj2x5xGcL1lu2IDKaTju9B3KLr6k=']
+U+665D
+11
+zhòu
+72.7
+晝.mp3
+
+晞
+['dry, expose sun', ' dawn']
+['seco, exponer al sol', 'amanecer']
+['https://media.gettyimages.com/photos/couple-on-safari-trip-with-tour-guide-taking-pictures-of-rhinos-out-picture-id1096605986?k=6&m=1096605986&s=612x612&w=0&h=4-BBlAMYXk7pG09xc1fyGdXTodXKq7y7g04wt4CAnh8=', 'https://media.gettyimages.com/photos/sunrise-pastel-colors-abstract-at-jones-beach-in-winter-long-island-picture-id1026803030?k=6&m=1026803030&s=612x612&w=0&h=w08vw-4VPKR1MnkY5gTfVDrpq1oTr4eIsD9qClJ8imA=']
+U+665E
+11
+xī
+72.7
+晞.mp3
+
+晟
+['clear, bright', ' splendor, brightness']
+['claro, brillante', 'esplendor, brillo']
+['https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=', 'https://media.gettyimages.com/photos/sunset-over-valley-hills-picture-id565788051?k=6&m=565788051&s=612x612&w=0&h=8rPnwbEu2soWolWvHkUqorkUFXb6jiLatxwu9koF1ms=']
+U+665F
+10
+chéng
+72.7
+晟.mp3
+
+晠
+['NONE']
+['NINGUNA']
+[]
+U+6660
+10
+shèng
+72.7
+晠.mp3
+
+晡
+['late afternoon']
+['al final de la tarde']
+['https://media.gettyimages.com/photos/senior-man-having-a-strokeheart-attack-picture-id175118603?k=6&m=175118603&s=612x612&w=0&h=392WHIR0vP43JSZoBkfuQjerQVIDSnDBTDrjFIphoO8=']
+U+6661
+11
+bū
+72.7
+晡.mp3
+
+晢
+['light of stars', ' shine']
+['luz de las estrellas', 'brillar']
+['https://media.gettyimages.com/photos/stars-explosion-abstract-illustration-picture-id1146982799?k=6&m=1146982799&s=612x612&w=0&h=xwCexuLVKFqxRP4FRqKvrEKu7q-xpSzFOaGk7l9BZiM=', 'https://media.gettyimages.com/photos/closeup-of-glitter-against-black-background-picture-id1145596391?k=6&m=1145596391&s=612x612&w=0&h=3TogJyine4d_ce2ZqP2GoUV-LOtSdXE7vyaHGhz0ULw=']
+U+6662
+11
+zhé
+72.7
+晢.mp3
+
+晣
+['NONE']
+['NINGUNA']
+[]
+U+6663
+11
+zhé
+72.7
+晣.mp3
+
+晤
+['have interview with', ' meet']
+['tener una entrevista con', 'reunirse']
+['https://media.gettyimages.com/photos/behind-the-scenes-of-a-business-vlog-picture-id970350938?k=6&m=970350938&s=612x612&w=0&h=mRzsy6t2x9sSfM-HKuZzI3YqWtIWb8JXQwLoQMYWm1Y=', 'https://media.gettyimages.com/photos/welcome-to-the-best-company-in-the-business-picture-id1131971658?k=6&m=1131971658&s=612x612&w=0&h=xpMYJwcUBFTBYOB8rC1G-lYw-AeWvvZIpTmSdDM1_pM=']
+U+6664
+11
+wù
+72.7
+晤.mp3
+
+晥
+['Anhui province']
+['Provincia de anhui']
+['https://media.gettyimages.com/photos/huangshan-chinese-mountain-path-landscape-in-china-filtered-to-look-picture-id876023642?k=6&m=876023642&s=612x612&w=0&h=kMCwIZsqzRY6x9M_cU42Y6NTFs04piXUjQIyAc67gMI=']
+U+6665
+11
+wǎn
+72.7
+晥.mp3
+
+晦
+['dark, unclear, obscure', ' night']
+['oscuro, poco claro, oscuro', 'noche']
+['https://media.gettyimages.com/photos/alone-with-my-feelings-picture-id843148324?k=6&m=843148324&s=612x612&w=0&h=p65DOhZ7PoAVPiE8FRmpVqu5DPuBFbF1IWRSuocLVv4=', 'https://media.gettyimages.com/photos/night-sky-picture-id1027145238?k=6&m=1027145238&s=612x612&w=0&h=DbhFISqqEJUXbR1sDJeWfkHAkCpfHQNkbW0hVUcy-0k=']
+U+6666
+11
+huì
+72.7
+晦.mp3
+
+晧
+['daybreak', ' bright and brilliant']
+['Alba', 'brillante y brillante']
+['https://media.gettyimages.com/photos/sunrise-pastel-colors-abstract-at-jones-beach-in-winter-long-island-picture-id1026803030?k=6&m=1026803030&s=612x612&w=0&h=w08vw-4VPKR1MnkY5gTfVDrpq1oTr4eIsD9qClJ8imA=', 'https://media.gettyimages.com/photos/explaing-her-ideas-in-detail-picture-id516848136?k=6&m=516848136&s=612x612&w=0&h=UH6hjZPNhDeGN18fuVL4uZlWShv9gNIONZ6Sm6573K4=']
+U+6667
+11
+hào
+72.7
+晧.mp3
+
+晨
+['early morning, daybreak']
+['temprano en la mañana, amanecer']
+['https://media.gettyimages.com/photos/majestic-sunrise-over-the-mountains-picture-id185067762?k=6&m=185067762&s=612x612&w=0&h=QFGIsuncZGtiLeCQk6aMR14nOUrJNsFmXgpbT7oEU0c=']
+U+6668
+11
+chén
+72.7
+晨.mp3
+
+晩
+['night']
+['noche']
+['https://media.gettyimages.com/photos/night-sky-picture-id1027145238?k=6&m=1027145238&s=612x612&w=0&h=DbhFISqqEJUXbR1sDJeWfkHAkCpfHQNkbW0hVUcy-0k=']
+U+6669
+12
+wǎn
+72.7
+晩.mp3
+
+晪
+['NONE']
+['NINGUNA']
+[]
+U+666A
+12
+tiǎn
+72.8
+晪.mp3
+
+晫
+['bright']
+['brillante']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=']
+U+666B
+12
+zhuó
+72.8
+晫.mp3
+
+晬
+['first birthday of a child']
+['primer cumpleaños de un niño']
+['https://media.gettyimages.com/photos/vintage-first-birthday-celebration-picture-id929047464?k=6&m=929047464&s=612x612&w=0&h=wJoUjlh7mVaG6o13ZWjegHsIQUvufJZgCU_XdhByiOQ=']
+U+666C
+12
+zuì
+72.8
+晬.mp3
+
+晭
+['NONE']
+['NINGUNA']
+[]
+U+666D
+12
+zhǒu
+72.8
+晭.mp3
+
+普
+['universal, general, widespread']
+['universal, general, generalizado']
+['NONE']
+U+666E
+12
+pǔ
+72.8
+普.mp3
+
+景
+['scenery, view', ' conditions']
+['paisaje, vista', 'condiciones']
+['https://media.gettyimages.com/photos/mountain-peak-zugspitze-summer-day-at-lake-eibsee-near-garmisch-picture-id1042404662?k=6&m=1042404662&s=612x612&w=0&h=V-2au3bpk83ci40SkNwtJYZk1MQvQKJuZfmCgHgzk2Q=', 'https://media.gettyimages.com/photos/two-friends-stuck-at-home-wave-to-each-other-during-covid19-pandemic-picture-id1217238800?k=6&m=1217238800&s=612x612&w=0&h=M8vXmDiYlbrQvevEu3mI4LG2m3WYgbvrF_gkx9eHIJQ=']
+U+666F
+12
+jǐng
+72.8
+景.mp3
+
+晰
+['clear, evident', ' clearly']
+['claro, evidente', 'claramente']
+['NONE', 'https://media.gettyimages.com/photos/smoke-picture-id183832289?k=6&m=183832289&s=612x612&w=0&h=k_9dXvAvPNBdyoXI-MyZEpPW3XC4rTtPFuhL43D4D3k=']
+U+6670
+12
+xī
+72.8
+晰.mp3
+
+晱
+['NONE']
+['NINGUNA']
+[]
+U+6671
+12
+shǎn
+72.8
+晱.mp3
+
+晲
+['NONE']
+['NINGUNA']
+[]
+U+6672
+12
+nǐ
+72.8
+晲.mp3
+
+晳
+['fair', ' white', ' clear', ' discriminate']
+['justa', 'blanco', 'claro', 'discriminar']
+['https://media.gettyimages.com/photos/happy-family-having-fun-at-an-amusement-park-picture-id1051006172?k=6&m=1051006172&s=612x612&w=0&h=LGLP2tGqV2XhJ09sHb-R74rlTYHnhqZITGCUpqVULzM=', 'https://media.gettyimages.com/photos/white-wooden-board-background-picture-id182061790?k=6&m=182061790&s=612x612&w=0&h=5J7igc46WnvJCwEMmn_Tefftodw8UrOif2Uak1jkyjc=', 'https://media.gettyimages.com/photos/clear-blue-sky-background-with-scattered-clouds-picture-id184304316?k=6&m=184304316&s=612x612&w=0&h=Y3daH7tigcvjNSI7dYKWiT2EWGQ14XHkxdHLqkTpaSU=', 'https://media.gettyimages.com/photos/composite-of-portraits-with-varying-shades-of-skin-picture-id1249641728?k=6&m=1249641728&s=612x612&w=0&h=v5Vv-fQkw5o26flg4go7oZI4EBxZw7LEGMUVcjfa_KY=']
+U+6673
+12
+xī
+72.8
+晳.mp3
+
+晴
+['clear weather, fine weather']
+['tiempo despejado, buen tiempo']
+['https://media.gettyimages.com/photos/branches-with-hoarfrost-in-front-of-blue-sky-picture-id494376071?k=6&m=494376071&s=612x612&w=0&h=HnDaz7UYPrpDAwcBO9SI7nPNeP6qZiVYfbgvgidSfP4=']
+U+6674
+12
+qíng
+72.8
+晴.mp3
+
+晵
+['NONE']
+['NINGUNA']
+[]
+U+6675
+12
+qǐ
+72.8
+晵.mp3
+
+晶
+['crystal', ' clear, bright', ' radiant']
+['cristal', 'claro, brillante', 'radiante']
+['https://media.gettyimages.com/photos/crystal-mill-in-colorado-picture-id1154313120?k=6&m=1154313120&s=612x612&w=0&h=jB1IaQYvPzf-ktElAYL_kqqVS5ggPEqMJS-WlbUtl8o=', 'https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+6676
+12
+jīng
+72.8
+晶.mp3
+
+晷
+['shadows of sun', ' time', ' sundial']
+['sombras del sol', 'hora', 'reloj de sol']
+['https://media.gettyimages.com/photos/shadow-of-tree-on-wall-picture-id908808814?k=6&m=908808814&s=612x612&w=0&h=HI_Q2W1ao0F7vsCI6ejURQcYt_LdHWCCrtGxBLKwBCk=', 'https://media.gettyimages.com/photos/hourglass-flow-picture-id841445186?k=6&m=841445186&s=612x612&w=0&h=WB_VNXIXJowtg7vW5NokH0YxrgeMTXA2PwPN82V4WxU=', 'https://media.gettyimages.com/photos/view-of-sundial-picture-id536942099?k=6&m=536942099&s=612x612&w=0&h=YmGwtwhk3UCcDBaLTmTsWViGEsvr6hRgvZJfppdQMps=']
+U+6677
+12
+guǐ
+72.8
+晷.mp3
+
+晸
+['appearance of the sun']
+['aparición del sol']
+['https://media.gettyimages.com/photos/dawn-rays-over-the-torcal-mountains-picture-id1045554470?k=6&m=1045554470&s=612x612&w=0&h=x64i5HfSeP7icc6NtpVJ0H6iH2m6MfGXLvPO_SdIiTA=']
+U+6678
+13
+zhěng
+72.8
+晸.mp3
+
+晹
+['the sun going behind and out from behind clouds']
+['el sol va detrás y sale de detrás de las nubes']
+['https://media.gettyimages.com/photos/group-of-students-with-backpacks-walking-to-school-picture-id872670290?k=6&m=872670290&s=612x612&w=0&h=-_FBUU_eKOHJCCfphy5kcMLYbCKazHV2f9E13icibTA=']
+U+6679
+12
+yì
+72.8
+晹.mp3
+
+智
+['wisdom, knowledge, intelligence']
+['sabiduría, conocimiento, inteligencia']
+['https://media.gettyimages.com/photos/paper-craft-brain-picture-id1163729018?k=6&m=1163729018&s=612x612&w=0&h=ZQ6b0a-zqvFNdsO4B9SOE-xpJuZLXsfzaesG9NruIes=']
+U+667A
+12
+zhì
+72.8
+智.mp3
+
+晻
+['NONE']
+['NINGUNA']
+[]
+U+667B
+12
+àn
+72.8
+晻.mp3
+
+晼
+['sunset']
+['puesta de sol']
+['https://media.gettyimages.com/photos/sunset-east-baltic-sea-picture-id859358506?k=6&m=859358506&s=612x612&w=0&h=ihLYRokh2d278809CiilhDiyzpCLy2-LhTPVdh61W3E=']
+U+667C
+12
+wǎn
+72.8
+晼.mp3
+
+晽
+['NONE']
+['NINGUNA']
+[]
+U+667D
+12
+lín
+72.8
+晽.mp3
+
+晾
+['air-dry', ' sun-dry']
+['secar al aire', 'diversos']
+['https://media.gettyimages.com/photos/airdry-picture-id149508805?k=6&m=149508805&s=612x612&w=0&h=os6DpXPWb_NYJMq61dzFpRzdsLCRxYu5j5nsTwq9qLg=', 'https://media.gettyimages.com/photos/hong-kong-sundry-shop-picture-id474162445?k=6&m=474162445&s=612x612&w=0&h=paCFZ8egYLK1n9diFPdBZOHaHXIwYN0rccl5XoYMZ4E=']
+U+667E
+12
+liàng
+72.8
+晾.mp3
+
+晿
+['NONE']
+['NINGUNA']
+[]
+U+667F
+12
+chāng
+72.8
+晿.mp3
+
+暀
+['NONE']
+['NINGUNA']
+[]
+U+6680
+12
+wǎng
+72.8
+暀.mp3
+
+暁
+['dawn, daybreak', ' clear, explicit']
+['amanecer, amanecer', 'claro, explícito']
+['https://media.gettyimages.com/photos/sunrise-pastel-colors-abstract-at-jones-beach-in-winter-long-island-picture-id1026803030?k=6&m=1026803030&s=612x612&w=0&h=w08vw-4VPKR1MnkY5gTfVDrpq1oTr4eIsD9qClJ8imA=', 'https://media.gettyimages.com/photos/serious-strategizing-into-the-evening-picture-id517048876?k=6&m=517048876&s=612x612&w=0&h=FFO64ctizV5ggsJ3bhLLuzVvd7FeuRMY5QMmNhdYApQ=']
+U+6681
+12
+xiǎo
+72.8
+暁.mp3
+
+暂
+['temporary']
+['temporal']
+['https://media.gettyimages.com/photos/businesswoman-in-office-picture-id1035216088?k=6&m=1035216088&s=612x612&w=0&h=thPUlwxo0jLO5R6hhd96EYZtGBLq21dMu5XiqjoTFDI=']
+U+6682
+12
+zàn
+72.8
+暂.mp3
+
+暃
+['NONE']
+['NINGUNA']
+[]
+U+6683
+12
+fēi
+72.8
+暃.mp3
+
+暄
+['warm, comfortable', ' warm, genial']
+['cálido, cómodo', 'cálido, genial']
+['https://media.gettyimages.com/photos/relaxed-woman-at-home-sitting-at-the-window-picture-id1092323384?k=6&m=1092323384&s=612x612&w=0&h=VUbMuJBLvGB5aR_WequeUpwY_ouZm0EzDSDkZXEijIw=', 'https://media.gettyimages.com/photos/clearing-clouds-picture-id1043299046?k=6&m=1043299046&s=612x612&w=0&h=SCcHclOAsLC1urvb5ySWzmu0QYQPCHgC_ZHYGaWakSI=']
+U+6684
+13
+xuān
+72.9
+暄.mp3
+
+暅
+['NONE']
+['NINGUNA']
+[]
+U+6685
+13
+gèng
+72.9
+暅.mp3
+
+暆
+['NONE']
+['NINGUNA']
+[]
+U+6686
+13
+yí
+72.9
+暆.mp3
+
+暇
+['leisure, relaxation, spare time']
+['ocio, relajación, tiempo libre']
+['https://media.gettyimages.com/photos/young-woman-spending-a-relaxing-day-in-her-beautiful-home-picture-id1062517720?k=6&m=1062517720&s=612x612&w=0&h=cOZzkiXa8eBpKCwTlOJsZrfVX_Sj87o_5d1q5sxPMRs=']
+U+6687
+13
+xiá
+72.9
+暇.mp3
+
+暈
+['halo in sky', ' fog', ' dizzy, faint']
+['halo en el cielo', 'niebla', 'mareado, débil']
+['https://media.gettyimages.com/photos/rainbow-halo-sun-flare-in-the-sky-picture-id804191010?k=6&m=804191010&s=612x612&w=0&h=eH0ecjA2Jh9WbQM8xDQDOgA15BIL5dL728q0q2r-QEE=', 'https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=', 'https://media.gettyimages.com/photos/exhausted-athlete-lying-on-the-grass-picture-id1128013510?k=6&m=1128013510&s=612x612&w=0&h=c8MvWp1Qf4wrVdfn_w8WpzphiO9CkSxrsfxNmM8Mzy8=']
+U+6688
+13
+yūn
+72.9
+暈.mp3
+
+暉
+['sunshine', ' light, bright, radiant']
+['Brillo Solar', 'ligero, brillante, radiante']
+['https://media.gettyimages.com/photos/sunny-day-picture-id1135378306?k=6&m=1135378306&s=612x612&w=0&h=vVujNTK3WlHZhHJtCmSUlhhBWs81p76vV3bBKvNH5LU=', 'https://media.gettyimages.com/photos/light-in-the-dark-picture-id1173661889?k=6&m=1173661889&s=612x612&w=0&h=vJBWxr2DNBc_pf4PmE2uADdmF1sDjQzsd_77EBitWMA=']
+U+6689
+13
+huī
+72.9
+暉.mp3
+
+暊
+['NONE']
+['NINGUNA']
+[]
+U+668A
+13
+xǔ
+72.9
+暊.mp3
+
+暋
+['strong, robust, tough']
+['fuerte, robusto, resistente']
+['https://media.gettyimages.com/photos/confident-woman-posing-near-punching-bags-in-gymnasium-picture-id758280897?k=6&m=758280897&s=612x612&w=0&h=Y7JgWQh-Hi_Gl0gPAMSzSBzgo2G0qaugGIBMW8vTo0k=']
+U+668B
+13
+mǐn
+72.9
+暋.mp3
+
+暌
+['in opposition', ' distant from', ' separated']
+['en oposición', 'distante de', 'apartado']
+['https://media.gettyimages.com/photos/ironman-austria-picture-id129615600?k=6&m=129615600&s=612x612&w=0&h=C25PJ89M3YzRKrxzPfzNuRQoKxm9Q_8Dnx4kY9KdThc=', 'https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=', 'https://media.gettyimages.com/photos/ironman-austria-picture-id129615600?k=6&m=129615600&s=612x612&w=0&h=C25PJ89M3YzRKrxzPfzNuRQoKxm9Q_8Dnx4kY9KdThc=']
+U+668C
+13
+kuí
+72.9
+暌.mp3
+
+暍
+['sunstroke']
+['insolación']
+['https://media.gettyimages.com/photos/farm-woman-suffering-from-heat-stroke-picture-id171151426?k=6&m=171151426&s=612x612&w=0&h=qz1YGHbWNKxYq903WKfgkouao4yvT8ngSGif_xQu9KM=']
+U+668D
+13
+yē
+72.9
+暍.mp3
+
+暎
+['sun beginning decline', ' reflect']
+['sol comenzando a declinar', 'reflejar']
+['https://media.gettyimages.com/photos/dooley-sheridan-county-montana-usa-picture-id513070171?k=6&m=513070171&s=612x612&w=0&h=bjL_4hqxxuMh9w6C4LP-WQ1wipHX8AQcNUF-J_9s_yg=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+668E
+12
+yìng
+72.9
+暎.mp3
+
+暏
+['variant of ']
+['variante de']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+668F
+12
+shǔ
+72.9
+暏.mp3
+
+暐
+['the bright shining of the sun']
+['el brillante resplandor del sol']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=']
+U+6690
+13
+wěi
+72.9
+暐.mp3
+
+暑
+['hot']
+['caliente']
+['https://media.gettyimages.com/photos/sun-picture-id923237808?k=6&m=923237808&s=612x612&w=0&h=6RS_rgM8rZ5-x3N4k-dR0xNoKrnNPBPRSdOre7ft09c=']
+U+6691
+12
+shǔ
+72.8
+暑.mp3
+
+暒
+['NONE']
+['NINGUNA']
+[]
+U+6692
+13
+qíng
+72.9
+暒.mp3
+
+暓
+['NONE']
+['NINGUNA']
+[]
+U+6693
+13
+mào
+72.9
+暓.mp3
+
+暔
+['NONE']
+['NINGUNA']
+[]
+U+6694
+13
+nán
+72.9
+暔.mp3
+
+暕
+['NONE']
+['NINGUNA']
+[]
+U+6695
+13
+jiǎn
+72.9
+暕.mp3
+
+暖
+['warm, genial']
+['cálido, genial']
+['https://media.gettyimages.com/photos/clearing-clouds-picture-id1043299046?k=6&m=1043299046&s=612x612&w=0&h=SCcHclOAsLC1urvb5ySWzmu0QYQPCHgC_ZHYGaWakSI=']
+U+6696
+13
+nuǎn
+72.9
+暖.mp3
+
+暗
+['dark', ' obscure', ' in secret, covert']
+['oscuro', 'oscuro', 'en secreto, encubierto']
+['https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=', 'https://media.gettyimages.com/photos/covered-car-picture-id93531541?k=6&m=93531541&s=612x612&w=0&h=Y_ZQ8aDmmnuOwAAcqmWx-AmkZEGMxw89IooGcd0Nvmo=', 'https://media.gettyimages.com/photos/smirking-young-man-talking-on-phone-over-gray-background-picture-id518725980?k=6&m=518725980&s=612x612&w=0&h=J-zL6Zo-k1DXDgLhiytZeFl7VZbUY6CZ0tPgnc74LkE=']
+U+6697
+13
+àn
+72.9
+暗.mp3
+
+暘
+['rising sun', ' sunshine']
+['sol naciente', 'Brillo Solar']
+['https://media.gettyimages.com/photos/majestic-sunrise-over-the-mountains-picture-id185067762?k=6&m=185067762&s=612x612&w=0&h=QFGIsuncZGtiLeCQk6aMR14nOUrJNsFmXgpbT7oEU0c=', 'https://media.gettyimages.com/photos/sunny-day-picture-id1135378306?k=6&m=1135378306&s=612x612&w=0&h=vVujNTK3WlHZhHJtCmSUlhhBWs81p76vV3bBKvNH5LU=']
+U+6698
+13
+yáng
+72.9
+暘.mp3
+
+暙
+['NONE']
+['NINGUNA']
+[]
+U+6699
+13
+chūn
+72.9
+暙.mp3
+
+暚
+['NONE']
+['NINGUNA']
+[]
+U+669A
+14
+yáo
+72.10
+暚.mp3
+
+暛
+['NONE']
+['NINGUNA']
+[]
+U+669B
+13
+suǒ
+72.10
+暛.mp3
+
+暜
+['NONE']
+['NINGUNA']
+[]
+U+669C
+14
+pǔ
+72.10
+暜.mp3
+
+暝
+['dark, obscure']
+['oscuro, oscuro']
+['https://media.gettyimages.com/photos/young-man-sitting-in-the-dark-covers-his-face-picture-id907469242?k=6&m=907469242&s=612x612&w=0&h=IKo4yzaelIwpCL5S5Gk2XzOAhCymXRWEiQYzeWwVOBQ=']
+U+669D
+14
+míng
+72.10
+暝.mp3
+
+暞
+['NONE']
+['NINGUNA']
+[]
+U+669E
+14
+jiǎo
+72.10
+暞.mp3
+
+暟
+['NONE']
+['NINGUNA']
+[]
+U+669F
+14
+kǎi
+72.10
+暟.mp3
+
+暠
+['daybreak', ' bright and brilliant']
+['Alba', 'brillante y brillante']
+['https://media.gettyimages.com/photos/sunrise-pastel-colors-abstract-at-jones-beach-in-winter-long-island-picture-id1026803030?k=6&m=1026803030&s=612x612&w=0&h=w08vw-4VPKR1MnkY5gTfVDrpq1oTr4eIsD9qClJ8imA=', 'https://media.gettyimages.com/photos/explaing-her-ideas-in-detail-picture-id516848136?k=6&m=516848136&s=612x612&w=0&h=UH6hjZPNhDeGN18fuVL4uZlWShv9gNIONZ6Sm6573K4=']
+U+66A0
+14
+gǎo
+72.10
+暠.mp3
+
+暡
+['NONE']
+['NINGUNA']
+[]
+U+66A1
+14
+wěng
+72.10
+暡.mp3
+
+暢
+['smoothly, freely, unrestrained']
+['suavemente, libremente, sin restricciones']
+['NONE']
+U+66A2
+14
+chàng
+72.10
+暢.mp3
+
+暣
+['NONE']
+['NINGUNA']
+[]
+U+66A3
+14
+qì
+72.10
+暣.mp3
+
+暤
+['NONE']
+['NINGUNA']
+[]
+U+66A4
+14
+hào
+72.10
+暤.mp3
+
+暥
+['NONE']
+['NINGUNA']
+[]
+U+66A5
+14
+yàn
+72.10
+暥.mp3
+
+暦
+['calendar, era']
+['calendar, era']
+['https://media.gettyimages.com/photos/deadline-picture-id1080466106?k=6&m=1080466106&s=612x612&w=0&h=J2dUGHX07ES8rOeSiU2zwtg1iSIbTqid91cCEM-gpB0=']
+U+66A6
+14
+lì
+72.10
+暦.mp3
+
+暧
+['obscure, dim, ambiguous, vague']
+['oscuro, tenue, ambiguo, vago']
+['https://media.gettyimages.com/photos/new-york-city-skyline-with-clouds-picture-id1183062232?k=6&m=1183062232&s=612x612&w=0&h=jXx4czhSMWRAf1_HN5Deqk3BpTUg7qIaayBvegkIUv8=']
+U+66A7
+14
+ài
+72.10
+暧.mp3
+
+暨
+['and', ' attain, reach', ' confines']
+['y', 'alcanzar', 'confines']
+['https://media.gettyimages.com/photos/abstract-background-from-old-grey-concrete-texture-with-grunge-and-picture-id1180566838?k=6&m=1180566838&s=612x612&w=0&h=HBgMujkW9Mp76-tA18cRFcqfzm_OSrQf8aGt-elzXqU=', 'https://media.gettyimages.com/photos/nothing-amps-up-a-workout-like-friends-picture-id966297686?k=6&m=966297686&s=612x612&w=0&h=O0YUREBvJU5EddjB7GlTz52BHesdZXnvFIayHK9inOk=', 'https://media.gettyimages.com/photos/man-inside-circle-of-cordon-posts-picture-id484355049?k=6&m=484355049&s=612x612&w=0&h=hb06dwHTB5XPS3gX6nRce1P4GkuKU8xB9ci9dUG5R8s=']
+U+66A8
+14
+jì
+72.10
+暨.mp3
+
+暩
+['NONE']
+['NINGUNA']
+[]
+U+66A9
+15
+jì
+72.11
+暩.mp3
+
+暪
+['NONE']
+['NINGUNA']
+[]
+U+66AA
+15
+mèn
+72.11
+暪.mp3
+
+暫
+['temporary']
+['temporal']
+['https://media.gettyimages.com/photos/businesswoman-in-office-picture-id1035216088?k=6&m=1035216088&s=612x612&w=0&h=thPUlwxo0jLO5R6hhd96EYZtGBLq21dMu5XiqjoTFDI=']
+U+66AB
+15
+zàn
+72.11
+暫.mp3
+
+暬
+['NONE']
+['NINGUNA']
+[]
+U+66AC
+15
+xiè
+72.11
+暬.mp3
+
+暭
+['NONE']
+['NINGUNA']
+[]
+U+66AD
+15
+hào
+72.11
+暭.mp3
+
+暮
+['evening, dusk, sunset', ' ending']
+['tarde, anochecer, puesta de sol', 'finalizando']
+['https://media.gettyimages.com/photos/green-rice-fild-with-evening-sky-picture-id516180836?k=6&m=516180836&s=612x612&w=0&h=9rlvGV4hIH1n76C0Uao5s2hWkmRoOOrcKXzYZjhmHWI=', 'https://media.gettyimages.com/photos/holding-a-white-blank-final-piece-of-the-jigsaw-picture-id166396032?k=6&m=166396032&s=612x612&w=0&h=OhiqYczp6wOydsFkhlPMtrUbpLeXQSehpUGWT9aOp5w=']
+U+66AE
+14
+mù
+72.11
+暮.mp3
+
+暯
+['NONE']
+['NINGUNA']
+[]
+U+66AF
+14
+mò
+72.11
+暯.mp3
+
+暰
+['NONE']
+['NINGUNA']
+[]
+U+66B0
+15
+cōng
+72.11
+暰.mp3
+
+暱
+['intimate, close', ' approach']
+['íntimo, cercano', 'Acercarse']
+['https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=', 'https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=']
+U+66B1
+14
+nì
+72.11
+暱.mp3
+
+暲
+['bright', ' to rise (of sun)']
+['brillante', 'levantarse (de sol)']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=', 'https://media.gettyimages.com/photos/spring-field-picture-id539016480?k=6&m=539016480&s=612x612&w=0&h=i3pXvZkyESFvoczfZgYZqon-UxhlBeTC4KVkSFdTQmg=']
+U+66B2
+15
+zhāng
+72.11
+暲.mp3
+
+暳
+['NONE']
+['NINGUNA']
+[]
+U+66B3
+15
+huì
+72.11
+暳.mp3
+
+暴
+['violent, brutal, tyrannical']
+['violento, brutal, tiránico']
+['NONE']
+U+66B4
+15
+bào
+72.11
+暴.mp3
+
+暵
+['dry by exposing sun']
+['secar exponiendo al sol']
+['NONE']
+U+66B5
+15
+hàn
+72.11
+暵.mp3
+
+暶
+['NONE']
+['NINGUNA']
+[]
+U+66B6
+15
+xuán
+72.11
+暶.mp3
+
+暷
+['NONE']
+['NINGUNA']
+[]
+U+66B7
+15
+chuán
+72.11
+暷.mp3
+
+暸
+['bright, clear']
+['brillante, claro']
+['https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=']
+U+66B8
+16
+liáo
+72.12
+暸.mp3
+
+暹
+['rise', ' advance, go forward']
+['subir', 'avanzar, avanzar']
+['https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=', 'https://media.gettyimages.com/photos/businesspeople-walking-on-painted-up-going-graph-on-asphalt-picture-id912018754?k=6&m=912018754&s=612x612&w=0&h=-dTugP-oE9ta66OcEE4cNvCl7SEHYySn5rRhIZXGRXE=']
+U+66B9
+15
+xiān
+72.12
+暹.mp3
+
+暺
+['NONE']
+['NINGUNA']
+[]
+U+66BA
+16
+tǎn
+72.12
+暺.mp3
+
+暻
+['bright']
+['brillante']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=']
+U+66BB
+16
+jǐng
+72.12
+暻.mp3
+
+暼
+['take fleeting glance at']
+['echar un vistazo fugaz a']
+['NONE']
+U+66BC
+15
+piē
+72.12
+暼.mp3
+
+暽
+['NONE']
+['NINGUNA']
+[]
+U+66BD
+16
+lín
+72.12
+暽.mp3
+
+暾
+['morning sun, sunrise']
+['sol de la mañana, amanecer']
+['https://media.gettyimages.com/photos/green-rice-fild-with-evening-sky-picture-id516180836?k=6&m=516180836&s=612x612&w=0&h=9rlvGV4hIH1n76C0Uao5s2hWkmRoOOrcKXzYZjhmHWI=']
+U+66BE
+16
+tūn
+72.12
+暾.mp3
+
+暿
+['NONE']
+['NINGUNA']
+[]
+U+66BF
+16
+xǐ
+72.12
+暿.mp3
+
+曀
+['stormy', ' cloudy, misty', ' dim', ' (Cant.) sultry']
+['Tormentoso', 'nublado, brumoso', 'No', '(Cant.) Sensual']
+['https://media.gettyimages.com/photos/colorado-supercell-2017-picture-id807655426?k=6&m=807655426&s=612x612&w=0&h=WXCf3ZlFYPx1MgBP53dKrqYf9eQWU6akN-yhxIFTyD0=', 'https://media.gettyimages.com/photos/path-through-a-misty-forest-during-a-foggy-winter-day-picture-id870867476?k=6&m=870867476&s=612x612&w=0&h=67t3hOSjk7UgUSoT8C9YL2G-mZ9fEe8I-l6FKnRqANI=', 'https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=', 'https://media.gettyimages.com/photos/circa-1953-curvaceous-hollywood-film-star-jayne-mansfield-formerly-picture-id3065701?k=6&m=3065701&s=612x612&w=0&h=0XCuwGF7SYGUhyqHfA3oqJO7zh7NPRZEF4t2OaO2iMg=']
+U+66C0
+16
+yì
+72.12
+曀.mp3
+
+曁
+['and', ' attain']
+['y', 'alcanzar']
+['https://media.gettyimages.com/photos/abstract-background-from-old-grey-concrete-texture-with-grunge-and-picture-id1180566838?k=6&m=1180566838&s=612x612&w=0&h=HBgMujkW9Mp76-tA18cRFcqfzm_OSrQf8aGt-elzXqU=', 'https://media.gettyimages.com/photos/success-picture-id912928582?k=6&m=912928582&s=612x612&w=0&h=GCLKEbbQKhh17Z36oHO6mC6q-hHXnrFUVjXOsYzWNyw=']
+U+66C1
+16
+jì
+72.12
+曁.mp3
+
+曂
+['NONE']
+['NINGUNA']
+[]
+U+66C2
+15
+huàng
+72.12
+曂.mp3
+
+曃
+['NONE']
+['NINGUNA']
+[]
+U+66C3
+15
+dài
+72.12
+曃.mp3
+
+曄
+['bright', ' radiant', ' thriving']
+['brillante', 'radiante', 'próspero']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/success-picture-id912928582?k=6&m=912928582&s=612x612&w=0&h=GCLKEbbQKhh17Z36oHO6mC6q-hHXnrFUVjXOsYzWNyw=']
+U+66C4
+14
+yè
+72.12
+曄.mp3
+
+曅
+['bright', ' flourishing']
+['brillante', 'floreciente']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=', 'https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=']
+U+66C5
+14
+yè
+72.12
+曅.mp3
+
+曆
+['calendar, era']
+['calendar, era']
+['https://media.gettyimages.com/photos/deadline-picture-id1080466106?k=6&m=1080466106&s=612x612&w=0&h=J2dUGHX07ES8rOeSiU2zwtg1iSIbTqid91cCEM-gpB0=']
+U+66C6
+16
+lì
+72.12
+曆.mp3
+
+曇
+['become cloudy, overcast']
+['se vuelve nublado, nublado']
+['https://media.gettyimages.com/photos/sky-clouds-picture-id1152008324?k=6&m=1152008324&s=612x612&w=0&h=5ZP66hopTNhJBUgj_kqE3LKiEliYLIHemFFiYRJ3yEQ=']
+U+66C7
+16
+tán
+72.12
+曇.mp3
+
+曈
+['twilight just before sunrise']
+['crepúsculo justo antes del amanecer']
+['https://media.gettyimages.com/photos/sunrise-in-the-mountains-picture-id876130050?k=6&m=876130050&s=612x612&w=0&h=0T07qQDABxRqptdYGLIO57Ke7NmEQj063QEbU1sdM-g=']
+U+66C8
+16
+tóng
+72.12
+曈.mp3
+
+曉
+['dawn, daybreak', ' clear, explicit']
+['amanecer, amanecer', 'claro, explícito']
+['https://media.gettyimages.com/photos/sunrise-pastel-colors-abstract-at-jones-beach-in-winter-long-island-picture-id1026803030?k=6&m=1026803030&s=612x612&w=0&h=w08vw-4VPKR1MnkY5gTfVDrpq1oTr4eIsD9qClJ8imA=', 'https://media.gettyimages.com/photos/serious-strategizing-into-the-evening-picture-id517048876?k=6&m=517048876&s=612x612&w=0&h=FFO64ctizV5ggsJ3bhLLuzVvd7FeuRMY5QMmNhdYApQ=']
+U+66C9
+16
+xiǎo
+72.12
+曉.mp3
+
+曊
+['NONE']
+['NINGUNA']
+[]
+U+66CA
+16
+fèi
+72.12
+曊.mp3
+
+曋
+['NONE']
+['NINGUNA']
+[]
+U+66CB
+16
+shěn
+72.12
+曋.mp3
+
+曌
+['NONE']
+['NINGUNA']
+[]
+U+66CC
+16
+zhào
+72.12
+曌.mp3
+
+曍
+['bright, brilliant']
+['brillante, brillante']
+['https://media.gettyimages.com/photos/explaing-her-ideas-in-detail-picture-id516848136?k=6&m=516848136&s=612x612&w=0&h=UH6hjZPNhDeGN18fuVL4uZlWShv9gNIONZ6Sm6573K4=']
+U+66CD
+16
+hào
+72.12
+曍.mp3
+
+曎
+['NONE']
+['NINGUNA']
+[]
+U+66CE
+17
+yì
+72.13
+曎.mp3
+
+曏
+['once upon time', ' period of time']
+['Erase una vez', 'período de tiempo']
+['https://media.gettyimages.com/photos/once-upon-a-time-series-picture-id182684056?k=6&m=182684056&s=612x612&w=0&h=qCRf5atSqFXGn_bdEiJiuNqwVkmg5sDWT5S63Cc9wjI=', 'https://media.gettyimages.com/photos/hourglass-flow-picture-id841445186?k=6&m=841445186&s=612x612&w=0&h=WB_VNXIXJowtg7vW5NokH0YxrgeMTXA2PwPN82V4WxU=']
+U+66CF
+15
+xiǎng
+72.13
+曏.mp3
+
+曐
+['NONE']
+['NINGUNA']
+[]
+U+66D0
+17
+xīng
+72.13
+曐.mp3
+
+曑
+['NONE']
+['NINGUNA']
+[]
+U+66D1
+17
+shēn
+72.13
+曑.mp3
+
+曒
+['NONE']
+['NINGUNA']
+[]
+U+66D2
+17
+jiǎo
+72.13
+曒.mp3
+
+曓
+['NONE']
+['NINGUNA']
+[]
+U+66D3
+17
+bào
+72.13
+曓.mp3
+
+曔
+['NONE']
+['NINGUNA']
+[]
+U+66D4
+16
+jìng
+72.13
+曔.mp3
+
+曕
+['to dry or cook in the sun']
+['secar o cocinar al sol']
+['https://media.gettyimages.com/photos/dirt-road-in-arid-desert-landscape-with-distant-cliffs-and-sunlight-picture-id1132856728?k=6&m=1132856728&s=612x612&w=0&h=gNIM6mNld5mx9D_m6rxXHGK1ANyWQw9S8IIgigjavQo=']
+U+66D5
+17
+yàn
+72.13
+曕.mp3
+
+曖
+['obscure, dim, ambiguous, vague']
+['oscuro, tenue, ambiguo, vago']
+['https://media.gettyimages.com/photos/new-york-city-skyline-with-clouds-picture-id1183062232?k=6&m=1183062232&s=612x612&w=0&h=jXx4czhSMWRAf1_HN5Deqk3BpTUg7qIaayBvegkIUv8=']
+U+66D6
+17
+ài
+72.13
+曖.mp3
+
+曗
+['NONE']
+['NINGUNA']
+[]
+U+66D7
+17
+yè
+72.13
+曗.mp3
+
+曘
+['NONE']
+['NINGUNA']
+[]
+U+66D8
+18
+rú
+72.14
+曘.mp3
+
+曙
+['bright, light of rising sun']
+['brillante, luz del sol naciente']
+['https://media.gettyimages.com/photos/majestic-sunrise-over-the-mountains-picture-id185067762?k=6&m=185067762&s=612x612&w=0&h=QFGIsuncZGtiLeCQk6aMR14nOUrJNsFmXgpbT7oEU0c=']
+U+66D9
+17
+shǔ
+72.14
+曙.mp3
+
+曚
+['twilight just before sun rises']
+['crepúsculo justo antes de que salga el sol']
+['https://media.gettyimages.com/photos/sunrise-in-the-mountains-picture-id876130050?k=6&m=876130050&s=612x612&w=0&h=0T07qQDABxRqptdYGLIO57Ke7NmEQj063QEbU1sdM-g=']
+U+66DA
+17
+méng
+72.13
+曚.mp3
+
+曛
+['twilight', ' sunset']
+['crepúsculo', 'puesta de sol']
+['https://media.gettyimages.com/photos/amazing-sunrise-pinks-and-blues-at-fort-myers-beach-florida-picture-id1084578644?k=6&m=1084578644&s=612x612&w=0&h=GHe4ilN0TeFhxzc-h8MmnxmKcuyVl46CNDzhUX_3jXY=', 'https://media.gettyimages.com/photos/sunset-east-baltic-sea-picture-id859358506?k=6&m=859358506&s=612x612&w=0&h=ihLYRokh2d278809CiilhDiyzpCLy2-LhTPVdh61W3E=']
+U+66DB
+18
+xūn
+72.14
+曛.mp3
+
+曜
+['glorious, as sun', ' daylight, sunlight', ' one of the seven planets of pre-modern astronomy (the sun, the moon, Mercury, Venus, Mars, Jupiter, and Saturn)']
+['glorioso como el sol', 'luz del día, luz del sol', 'uno de los siete planetas de la astronomía premoderna (el sol, la luna, Mercurio, Venus, Marte, Júpiter y Saturno)']
+['NONE', 'https://media.gettyimages.com/photos/beautiful-sunset-above-the-riversky-during-sunsetcloud-on-sunset-picture-id877497602?k=6&m=877497602&s=612x612&w=0&h=Zf1EK1cBC9DUJZ9aWHkTGx1E_f7xwrcrMuBvHmWeeE4=', 'NONE']
+U+66DC
+18
+yào
+72.14
+曜.mp3
+
+曝
+['sun, air in sun, expose or dry in the sun']
+['sol, aire al sol, exponer o secar al sol']
+['https://media.gettyimages.com/photos/sand-dunes-in-the-desert-at-sunset-picture-id873799728?k=6&m=873799728&s=612x612&w=0&h=e8PBY7IPMV4OkAYsgVNeC8_PcuRtJRZUtzif-cN_jmg=']
+U+66DD
+19
+pù
+72.15
+曝.mp3
+
+曞
+['NONE']
+['NINGUNA']
+[]
+U+66DE
+18
+lì
+72.15
+曞.mp3
+
+曟
+['NONE']
+['NINGUNA']
+[]
+U+66DF
+19
+chén
+72.15
+曟.mp3
+
+曠
+['extensive, wide, broad', ' empty']
+['extenso, ancho, amplio', 'vacío']
+['https://media.gettyimages.com/photos/deep-blue-ocean-panorama-picture-id184330929?k=6&m=184330929&s=612x612&w=0&h=kIkkguHYbU7XXV98DlQzthCzhURv9ZaA7ObtoxZ9VwE=', 'https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+66E0
+18
+kuàng
+72.15
+曠.mp3
+
+曡
+['repeat, duplicate', ' repetitious']
+['repetir, duplicar', 'monótono']
+['https://media.gettyimages.com/photos/mugs-of-black-coffee-in-rows-against-peach-background-picture-id1134295945?k=6&m=1134295945&s=612x612&w=0&h=SWBvUVmz8O5xNNZ6B-dK0EcXMyeAi5sJsz911z733fE=', 'https://media.gettyimages.com/photos/detail-of-repetitious-columns-at-a-church-in-malta-picture-id1158853189?k=6&m=1158853189&s=612x612&w=0&h=ozc8-HFDkUMcuzocbi8bPA5WmI1TskGbIh0StJ1sqT0=']
+U+66E1
+19
+dié
+72.15
+曡.mp3
+
+曢
+['NONE']
+['NINGUNA']
+[]
+U+66E2
+19
+liǎo
+72.15
+曢.mp3
+
+曣
+['fair weather', ' warm']
+['buen tiempo', 'calentar']
+['https://media.gettyimages.com/photos/elements-picture-id157194157?k=6&m=157194157&s=612x612&w=0&h=CZtGf1iOg8vYiRaMEq9ICbfLFKp2ioFkD7Hjbovu1bM=', 'https://media.gettyimages.com/photos/sun-picture-id923237808?k=6&m=923237808&s=612x612&w=0&h=6RS_rgM8rZ5-x3N4k-dR0xNoKrnNPBPRSdOre7ft09c=']
+U+66E3
+20
+yàn
+72.16
+曣.mp3
+
+曤
+['NONE']
+['NINGUNA']
+[]
+U+66E4
+20
+huò
+72.16
+曤.mp3
+
+曥
+['NONE']
+['NINGUNA']
+[]
+U+66E5
+20
+lú
+72.16
+曥.mp3
+
+曦
+['sunlight, sunshine, early dawn']
+['luz del sol, sol, amanecer temprano']
+['https://media.gettyimages.com/photos/majestic-sunrise-over-the-mountains-picture-id185067762?k=6&m=185067762&s=612x612&w=0&h=QFGIsuncZGtiLeCQk6aMR14nOUrJNsFmXgpbT7oEU0c=']
+U+66E6
+20
+xī
+72.16
+曦.mp3
+
+曧
+['NONE']
+['NINGUNA']
+[]
+U+66E7
+20
+róng
+72.16
+曧.mp3
+
+曨
+['vague, dim', ' twilight']
+['ola, sol', 'crepúsculo']
+['https://media.gettyimages.com/photos/soft-focused-image-of-steam-from-norris-geothermal-spring-in-picture-id1175617226?k=6&m=1175617226&s=612x612&w=0&h=usByA8043dte-oxUtS9sWUnHhpWfk4vJfbyRD_Ryygc=', 'https://media.gettyimages.com/photos/amazing-sunrise-pinks-and-blues-at-fort-myers-beach-florida-picture-id1084578644?k=6&m=1084578644&s=612x612&w=0&h=GHe4ilN0TeFhxzc-h8MmnxmKcuyVl46CNDzhUX_3jXY=']
+U+66E8
+20
+lóng
+72.16
+曨.mp3
+
+曩
+['in ancient times, of old, former']
+['en la antigüedad, en la antigüedad']
+['https://media.gettyimages.com/photos/view-from-the-window-of-an-old-house-in-monemvasia-with-cannon-ball-picture-id874010820?k=6&m=874010820&s=612x612&w=0&h=ArMkGHv5x-mmPRgni8h7cGhcJvzjxJH3yGsq_YsC0II=']
+U+66E9
+21
+nǎng
+72.17
+曩.mp3
+
+曪
+['NONE']
+['NINGUNA']
+[]
+U+66EA
+23
+luǒ
+72.19
+曪.mp3
+
+曫
+['NONE']
+['NINGUNA']
+[]
+U+66EB
+23
+luán
+72.19
+曫.mp3
+
+曬
+['dry in sun, expose to sun']
+['secar al sol, exponer al sol']
+['https://media.gettyimages.com/photos/couple-on-safari-trip-with-tour-guide-taking-pictures-of-rhinos-out-picture-id1096605986?k=6&m=1096605986&s=612x612&w=0&h=4-BBlAMYXk7pG09xc1fyGdXTodXKq7y7g04wt4CAnh8=']
+U+66EC
+23
+shài
+72.19
+曬.mp3
+
+曭
+['NONE']
+['NINGUNA']
+[]
+U+66ED
+24
+tǎng
+72.20
+曭.mp3
+
+曮
+['NONE']
+['NINGUNA']
+[]
+U+66EE
+23
+yǎn
+72.20
+曮.mp3
+
+曯
+['NONE']
+['NINGUNA']
+[]
+U+66EF
+25
+zhú
+72.21
+曯.mp3
+
+曰
+['say', ' KangXi radical 73']
+['decir', 'K 昂 ξ radical 73']
+['https://media.gettyimages.com/photos/building-up-on-their-ideas-picture-id944060494?k=6&m=944060494&s=612x612&w=0&h=ypFXtUtEeGkRcnQwCxSVrtb74SgIMdvSUnVYa6sPTkk=', 'NONE']
+U+66F0
+4
+yuē
+73.0
+曰.mp3
+
+曱
+['(Cant.) cockroach']
+['(Cant.) Cucaracha']
+['NONE']
+U+66F1
+5
+yuē
+73.1
+曱.mp3
+
+曲
+['crooked, bent', ' wrong, false']
+['torcido', 'incorrecto, falso']
+['https://media.gettyimages.com/photos/bent-nail-in-wood-picture-id73096571?k=6&m=73096571&s=612x612&w=0&h=D-RBNv89aQ3Taf05ZJDlGVM3jdD64ovfWC_XJkXl-eQ=', 'https://media.gettyimages.com/photos/nerd-teacher-in-classroom-with-basket-of-apples-picture-id165830984?k=6&m=165830984&s=612x612&w=0&h=KAzYKKN-ibVkfoBP69EwIjEySxUVe9xr4X2cNO_7Q94=']
+U+66F2
+6
+qū
+73.2
+曲.mp3
+
+曳
+['trail, tow, drag, pull']
+['rastro, remolcar, arrastrar, tirar']
+['NONE']
+U+66F3
+6
+yè
+73.2
+曳.mp3
+
+更
+['more, still further, much more']
+['más, aún más, mucho más']
+['https://media.gettyimages.com/photos/view-along-the-body-of-the-rigid-airship-hindenburg-docked-at-the-picture-id143977890?k=6&m=143977890&s=612x612&w=0&h=QQ75GG1K395iNW2UTpbnxDGsW5mv9QtSAZyxkg4aOLs=']
+U+66F4
+7
+gèng
+73.3
+更.mp3
+
+曵
+['trail, tow, drag, pull']
+['rastro, remolcar, arrastrar, tirar']
+['NONE']
+U+66F5
+7
+yè
+73.3
+曵.mp3
+
+曶
+['NONE']
+['NINGUNA']
+[]
+U+66F6
+8
+hū
+73.4
+曶.mp3
+
+曷
+['why? what? where?']
+['¿por qué? ¿Qué? ¿dónde?']
+['NONE']
+U+66F7
+9
+hé
+73.5
+曷.mp3
+
+書
+['book, letter, document', ' writings']
+['libro, carta, documento', 'escrituras']
+['https://media.gettyimages.com/photos/laptop-computer-with-books-pen-and-yellow-legal-pad-picture-id92259124?k=6&m=92259124&s=612x612&w=0&h=Z9XvYG9tZt9zQRsgAtC2hJi38XZH_yx8lZFmCYV3CAk=', 'https://media.gettyimages.com/photos/young-woman-taking-a-break-from-technology-picture-id1173619383?k=6&m=1173619383&s=612x612&w=0&h=MKOKHKZFrPtxx-4KbVrg4hcEbDjfYbfPhmC8YuXWc64=']
+U+66F8
+10
+shū
+73.6
+書.mp3
+
+曹
+['ministry officials', ' surname']
+['funcionarios del ministerio', 'apellido']
+['https://media.gettyimages.com/photos/ministry-of-foreign-affairs-of-russia-picture-id1016865470?k=6&m=1016865470&s=612x612&w=0&h=TWD7jFLAMb-0JsfyooZ5b2eqCHckxWZsgn3-hGHWdE4=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+66F9
+11
+cáo
+73.7
+曹.mp3
+
+曺
+['NONE']
+['NINGUNA']
+[]
+U+66FA
+10
+cáo
+73.6
+曺.mp3
+
+曻
+['NONE']
+['NINGUNA']
+[]
+U+66FB
+10
+shēng
+73.7
+曻.mp3
+
+曼
+['long, extended, vast', ' beautiful']
+['largo, extendido, vasto', 'hermosa']
+['https://media.gettyimages.com/photos/highway-to-the-sunset-picture-id157524162?k=6&m=157524162&s=612x612&w=0&h=4QVCcB8s1svyMufVtX675KTrk2J14QcInUDKGF1VN6w=', 'https://media.gettyimages.com/photos/perfection-in-profile-picture-id1069713934?k=6&m=1069713934&s=612x612&w=0&h=t7M7hM0VP0qzw1hOC4tMuOYRQwoT5CoeWGlgUXg83i0=']
+U+66FC
+11
+màn
+73.7
+曼.mp3
+
+曽
+['already', ' sign of past']
+['ya', 'signo del pasado']
+['https://media.gettyimages.com/photos/my-hair-feels-healthier-and-stronger-already-picture-id1181653478?k=6&m=1181653478&s=612x612&w=0&h=AIMlWYr2ASMlMc75CnP1G7G17aBDuuD-us4hjCP89lM=', 'https://media.gettyimages.com/photos/traces-of-old-commercial-mural-in-manhattan-new-york-city-picture-id1075122006?k=6&m=1075122006&s=612x612&w=0&h=v6qmAr5WoPc7kSS7buR1PgthKi9LyEMnZB8cHtuwiQU=']
+U+66FD
+11
+cēng
+72.7
+曽.mp3
+
+曾
+['already', ' sign of past']
+['ya', 'signo del pasado']
+['https://media.gettyimages.com/photos/my-hair-feels-healthier-and-stronger-already-picture-id1181653478?k=6&m=1181653478&s=612x612&w=0&h=AIMlWYr2ASMlMc75CnP1G7G17aBDuuD-us4hjCP89lM=', 'https://media.gettyimages.com/photos/traces-of-old-commercial-mural-in-manhattan-new-york-city-picture-id1075122006?k=6&m=1075122006&s=612x612&w=0&h=v6qmAr5WoPc7kSS7buR1PgthKi9LyEMnZB8cHtuwiQU=']
+U+66FE
+12
+céng
+73.8
+曾.mp3
+
+替
+['change, replace, substitute for']
+['cambiar, reemplazar, sustituir']
+['https://media.gettyimages.com/photos/detail-image-of-mechanic-hands-with-tool-changing-tyre-of-car-with-picture-id1023338782?k=6&m=1023338782&s=612x612&w=0&h=fdjJezxhDEIugPHarnSV7VUDqkXLndhkhyksOP64iCA=']
+U+66FF
+12
+tì
+73.8
+替.mp3
+
+最
+['most, extremely, exceedingly']
+['la mayoría, extremadamente, extremadamente']
+['NONE']
+U+6700
+12
+zuì
+13.10
+最.mp3
+
+朁
+['if, supposing, nevertheless']
+['si, suponiendo, sin embargo']
+['NONE']
+U+6701
+12
+cǎn
+73.8
+朁.mp3
+
+朂
+['NONE']
+['NINGUNA']
+[]
+U+6702
+12
+xù
+73.8
+朂.mp3
+
+會
+['to assemble, meet together', ' a meeting', ' an organization']
+['para montar, reunirnos', 'una reunión', 'una organización']
+['https://media.gettyimages.com/photos/happy-couple-shaking-hands-with-real-estate-agent-in-the-office-picture-id1093900326?k=6&m=1093900326&s=612x612&w=0&h=inL2djEfIUnK0IDvmi-xI9nuKHpirZ5PUee-I1Io4cI=', 'https://media.gettyimages.com/photos/rear-view-of-business-people-attending-a-seminar-in-board-room-picture-id1002018094?k=6&m=1002018094&s=612x612&w=0&h=jOD3epEJ2xfeZGsOZxegqaMMOEwpWrOaUafEnAlbvyQ=', 'https://media.gettyimages.com/photos/defining-the-issue-at-hand-picture-id869651658?k=6&m=869651658&s=612x612&w=0&h=jIfGQw6TKj1lWA3-ymM8qS331dQaSuFPubljTzukZaA=']
+U+6703
+13
+huì
+73.9
+會.mp3
+
+朄
+['NONE']
+['NINGUNA']
+[]
+U+6704
+14
+yǐn
+73.10
+朄.mp3
+
+朅
+['brave']
+['valiente']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=']
+U+6705
+14
+qiè
+73.10
+朅.mp3
+
+朆
+['NONE']
+['NINGUNA']
+[]
+U+6706
+16
+fēn
+73.12
+朆.mp3
+
+朇
+['NONE']
+['NINGUNA']
+[]
+U+6707
+21
+pí
+73.17
+朇.mp3
+
+月
+['moon', ' month', ' KangXi radical 74']
+['Luna', 'mes', 'K 昂 ξ radical 74']
+['https://media.gettyimages.com/photos/earths-full-moon-v3-picture-id157638771?k=6&m=157638771&s=612x612&w=0&h=CJGcxn18wCwGhcPFfaDhFGUnnet8Vmz-UBz6ctSVKE8=', 'https://media.gettyimages.com/photos/the-months-and-days-of-the-year-on-calendar-paper-picture-id157335060?k=6&m=157335060&s=612x612&w=0&h=W_M8LfmEPmTs0pc8ZUZC2wfJ51WgvzTsJN2dQ86S98s=', 'NONE']
+U+6708
+4
+yuè
+74.0
+月.mp3
+
+有
+['have, own, possess', ' exist']
+['tener, poseer, poseer', 'existe']
+['https://media.gettyimages.com/photos/female-hand-passes-the-other-hand-the-phone-hands-with-a-phone-on-a-picture-id1207097231?k=6&m=1207097231&s=612x612&w=0&h=--LCBeJ6uMKdaqplormfbZlMJcTMog7N7xS_Vl-6OeU=', 'https://media.gettyimages.com/photos/do-more-than-just-exist-picture-id519622888?k=6&m=519622888&s=612x612&w=0&h=_2EiID4MNLggUPQavxldFAPvrDcFzPhtt0xFUCD_Xno=']
+U+6709
+6
+yǒu
+74.2
+有.mp3
+
+朊
+['NONE']
+['NINGUNA']
+[]
+U+670A
+8
+ruǎn
+74.4
+朊.mp3
+
+朋
+['friend, pal, acquaintance']
+['amigo, amigo, conocido']
+['https://media.gettyimages.com/photos/two-young-women-friends-sharing-happy-time-together-picture-id1057923694?k=6&m=1057923694&s=612x612&w=0&h=-xzoJqEIxm05jH3IIX6oJuO_0UcJE-baUpq3XKoZF6E=']
+U+670B
+8
+péng
+74.4
+朋.mp3
+
+朌
+['distribute, large head']
+['distribuir, cabeza grande']
+['https://media.gettyimages.com/photos/smiling-mature-couple-picture-id528954342?k=6&m=528954342&s=612x612&w=0&h=oSJBdfP_N9Tns6qI7lfswr_zgojU7_SuzVGn71AMqEg=']
+U+670C
+8
+fén
+74.4
+朌.mp3
+
+服
+['clothes', ' wear, dress']
+['ropa', 'vestir, vestir']
+['https://media.gettyimages.com/photos/look-at-this-gorgeous-dress-picture-id854321536?k=6&m=854321536&s=612x612&w=0&h=mhIuj9c1Y4z_OG7Kwd30aZLqhdzFuTLireLNEFbJQjA=', 'https://media.gettyimages.com/photos/woman-dress-picture-id184354439?k=6&m=184354439&s=612x612&w=0&h=rdiWp45q67CIet2siI2YVIxZqL2Dgh61LoPMIXhl_fY=']
+U+670D
+8
+fú
+74.4
+服.mp3
+
+朎
+['NONE']
+['NINGUNA']
+[]
+U+670E
+9
+líng
+74.5
+朎.mp3
+
+朏
+['light of crescent moon']
+['luz de la luna creciente']
+['https://media.gettyimages.com/photos/farmhouse-sunset-picture-id200128310-001?k=6&m=200128310-001&s=612x612&w=0&h=m10wlRmp0Fkjb46WzHBPNgbtz9zjDTzk3L2u-80fSuU=']
+U+670F
+9
+fěi
+74.5
+朏.mp3
+
+朐
+['warm']
+['calentar']
+['https://media.gettyimages.com/photos/sun-picture-id923237808?k=6&m=923237808&s=612x612&w=0&h=6RS_rgM8rZ5-x3N4k-dR0xNoKrnNPBPRSdOre7ft09c=']
+U+6710
+9
+qú
+74.5
+朐.mp3
+
+朑
+['NONE']
+['NINGUNA']
+[]
+U+6711
+9
+tì
+130.5
+朑.mp3
+
+朒
+['NONE']
+['NINGUNA']
+[]
+U+6712
+10
+nǜ
+74.6
+朒.mp3
+
+朓
+['sacrifice']
+['sacrificio']
+['https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+6713
+10
+tiǎo
+74.6
+朓.mp3
+
+朔
+['first day of lunar month', ' the north']
+['primer día del mes lunar', 'el norte']
+['NONE', 'https://media.gettyimages.com/photos/map-of-america-picture-id537600225?k=6&m=537600225&s=612x612&w=0&h=wxm2sW63DW7dHqXqaT5KyAadvA3pl80KUcjRCsdoRc8=']
+U+6714
+10
+shuò
+74.6
+朔.mp3
+
+朕
+["pronoun 'I'"]
+["pronombre 'yo'"]
+['NONE']
+U+6715
+10
+zhèn
+74.6
+朕.mp3
+
+朖
+['clear, bright', ' distinct']
+['claro, brillante', 'distinto']
+['https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=', 'https://media.gettyimages.com/photos/standing-out-from-the-crowd-picture-id1090812568?k=6&m=1090812568&s=612x612&w=0&h=0-sitnRQ0sANSvFyjs1-n5oGfVRJ-dNjVl4RA3fCFyc=']
+U+6716
+11
+lǎng
+74.7
+朖.mp3
+
+朗
+['clear, bright', ' distinct']
+['claro, brillante', 'distinto']
+['https://media.gettyimages.com/photos/colorful-waterdrops-macrophotography-picture-id912356292?k=6&m=912356292&s=612x612&w=0&h=yQPsamifzeuNp8n9VlcK3Fp9w9pooFVn5nRv5qDrawU=', 'https://media.gettyimages.com/photos/standing-out-from-the-crowd-picture-id1090812568?k=6&m=1090812568&s=612x612&w=0&h=0-sitnRQ0sANSvFyjs1-n5oGfVRJ-dNjVl4RA3fCFyc=']
+U+6717
+10
+lǎng
+74.7
+朗.mp3
+
+朘
+['wane, reduce, contract', ' exploit']
+['menguar, reducir, contraer', 'explotar']
+['https://media.gettyimages.com/photos/man-ready-to-write-something-in-a-white-paper-picture-id1277516615?k=6&m=1277516615&s=612x612&w=0&h=k80lrKKuF2cPhsnKeBkbck0HclgGOiFBXtOTnf0Xydg=', 'https://media.gettyimages.com/photos/if-you-dont-control-your-business-someone-else-will-picture-id840512502?k=6&m=840512502&s=612x612&w=0&h=VHYSpB7K-FCLOdSuvjwE1NoAblzYOnw4IjEkh6Y45fw=']
+U+6718
+11
+zuī
+74.7
+朘.mp3
+

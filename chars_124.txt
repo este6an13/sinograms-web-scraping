@@ -1,0 +1,2560 @@
+砙
+['NONE']
+['NINGUNA']
+[]
+U+7819
+9
+wǎ
+112.4
+砙.mp3
+
+砚
+['inkstone']
+['inkstone']
+['https://media.gettyimages.com/photos/image-of-a-japanese-room-and-table-picture-id122630142?k=6&m=122630142&s=612x612&w=0&h=CZzSes9gMnSI2lL5GqPczsBReIHcPCxbWIn6EXZKNKA=']
+U+781A
+9
+yàn
+112.4
+砚.mp3
+
+砛
+['NONE']
+['NINGUNA']
+[]
+U+781B
+9
+jīn
+112.4
+砛.mp3
+
+砜
+['an organic compound']
+['un compuesto orgánico']
+['https://media.gettyimages.com/photos/hardboiled-egg-halves-picture-id1190419548?k=6&m=1190419548&s=612x612&w=0&h=3sTZBdAltzZHHID4UX542n8tPM0zjHIgNIPDysXBaU0=']
+U+781C
+9
+fēng
+112.4
+砜.mp3
+
+砝
+['balance weights']
+['equilibrar pesos']
+['https://media.gettyimages.com/vectors/weights-and-scales-line-icons-eps-10-vector-id673825502?k=6&m=673825502&s=612x612&w=0&h=Sg0Y-7cbDEa4dRCU6nBApkeLcsW_OP7RGYg2Mu9R_cc=']
+U+781D
+10
+fá
+112.5
+砝.mp3
+
+砞
+['to smash rock']
+['aplastar rocas']
+['https://media.gettyimages.com/photos/wall-picture-id174677310?k=6&m=174677310&s=612x612&w=0&h=1iMBCfmwPR_7OapEY7_1mD1prsGIv7bZaC6X0V0UNyE=']
+U+781E
+10
+mò
+112.5
+砞.mp3
+
+砟
+['stone tablet', ' monument']
+['tabla de piedra', 'Monumento']
+['https://media.gettyimages.com/photos/closeup-of-plaque-on-temple-church-london-picture-id185242076?k=6&m=185242076&s=612x612&w=0&h=POMj9WIPAvWkdE2RzwcNcsQrKN3d7igPAlbXVfv3mGs=', 'https://media.gettyimages.com/photos/blurred-motion-of-fountain-against-monument-to-the-revolution-picture-id659078563?k=6&m=659078563&s=612x612&w=0&h=dWqWw-wJElhoc11fMDhwjdq5mLbwnjfE1izZjDLpEfo=']
+U+781F
+10
+zhǎ
+112.5
+砟.mp3
+
+砠
+['rocky, hilly, uneven']
+['rocoso, montañoso, desigual']
+['https://media.gettyimages.com/photos/rocky-chasm-with-ferns-and-moss-picture-id1139880471?k=6&m=1139880471&s=612x612&w=0&h=fWmTbNpiJmyYzTRh3alPXF-WoM2yNXso7_DTSAV8vFA=']
+U+7820
+10
+jū
+112.5
+砠.mp3
+
+砡
+['NONE']
+['NINGUNA']
+[]
+U+7821
+10
+yù
+112.5
+砡.mp3
+
+砢
+['pile of stones']
+['pila de piedras']
+['https://media.gettyimages.com/photos/balanced-stones-on-a-pebble-beach-during-sunset-picture-id157373207?k=6&m=157373207&s=612x612&w=0&h=M_icDhy6CvBZqF0PqAlvwebRrCNOLmYaYiJTGImPsgY=']
+U+7822
+10
+kē
+112.5
+砢.mp3
+
+砣
+['a stone roller', ' a heavy stone, a weight, a plummet']
+['un rodillo de piedra', 'una piedra pesada, un peso, una caída']
+['https://media.gettyimages.com/photos/closeup-of-beautiful-woman-with-jade-roller-at-spa-picture-id1180588063?k=6&m=1180588063&s=612x612&w=0&h=99NN-VF4rigS776BPAwpThGg4aURdgpUI-acP0E8fqM=', 'https://media.gettyimages.com/vectors/vector-superhero-lifting-a-heavy-rock-silhouette-vector-id534480043?k=6&m=534480043&s=612x612&w=0&h=N08Dge0aH9E8pEFUSekNWECl9SoIaLuSnZut1TLI8uw=']
+U+7823
+10
+tuó
+112.5
+砣.mp3
+
+砤
+['NONE']
+['NINGUNA']
+[]
+U+7824
+10
+tuó
+112.5
+砤.mp3
+
+砥
+['a whetstone', ' to polish']
+['una piedra de afilar', 'pulir']
+['https://media.gettyimages.com/photos/adult-man-hands-sharpening-rusty-axe-with-whetstone-picture-id470634960?k=6&m=470634960&s=612x612&w=0&h=-cgIeqc4-KjI5sorcXA1iY-5jRgcga6O9iYr5cIdNOE=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=']
+U+7825
+10
+dǐ
+112.5
+砥.mp3
+
+砦
+['stockade, fort, military outpost', ' brothel']
+['empalizada, fuerte, puesto de avanzada militar', 'burdel']
+['NONE', 'https://media.gettyimages.com/photos/love-for-rent-picture-id173580024?k=6&m=173580024&s=612x612&w=0&h=OEzArAJsOPoUxQBK_NV19o6DO1Zx8Mshq7WPyVVU19I=']
+U+7826
+11
+zhài
+112.5
+砦.mp3
+
+砧
+['anvil', ' flat stone', ' exe']
+['yunque', 'piedra plana', 'exe']
+['https://media.gettyimages.com/photos/heavy-metal-picture-id157287254?k=6&m=157287254&s=612x612&w=0&h=msvJUYXjcYdoauGIdBfgXpzSFLbRvLsVMVqyDmbCcPQ=', 'https://media.gettyimages.com/photos/modern-kitchen-picture-id963814012?k=6&m=963814012&s=612x612&w=0&h=-zLfdXFgZN85b0S79xTdcJMvQfwl-2k-r9tzGkJYj2w=', 'https://media.gettyimages.com/photos/the-river-exe-and-exeter-quayside-in-devon-picture-id183338786?k=6&m=183338786&s=612x612&w=0&h=lO45OdFu_ySSiAyY543uHYdc_hetp1QK3I7vgR_2Nos=']
+U+7827
+10
+zhēn
+112.5
+砧.mp3
+
+砨
+['NONE']
+['NINGUNA']
+[]
+U+7828
+10
+è
+112.5
+砨.mp3
+
+砩
+['NONE']
+['NINGUNA']
+[]
+U+7829
+10
+fú
+112.5
+砩.mp3
+
+砪
+['NONE']
+['NINGUNA']
+[]
+U+782A
+10
+mǔ
+112.5
+砪.mp3
+
+砫
+['NONE']
+['NINGUNA']
+[]
+U+782B
+10
+zhù
+112.5
+砫.mp3
+
+砬
+['big stone']
+['Piedra grande']
+['https://media.gettyimages.com/photos/limestone-picture-id170215830?k=6&m=170215830&s=612x612&w=0&h=Fua6_L10GPrfgKkQcoSaGh_jsQc0Pg7vD_dJ1fQtieo=']
+U+782C
+10
+lá
+112.5
+砬.mp3
+
+砭
+['stone probe', ' pierce', ' counsel']
+['sonda de piedra', 'atravesar', 'consejo']
+['https://media.gettyimages.com/photos/analyzing-with-magnifier-picture-id171152170?k=6&m=171152170&s=612x612&w=0&h=nCTt65Ldry5dxbpAf1zpRTDjGELXmbZsjP3SbYbfZlA=', 'https://media.gettyimages.com/photos/fill-the-world-with-happiness-picture-id1170301221?k=6&m=1170301221&s=612x612&w=0&h=amUliJpMCvzZZP_nbFx3BBfTa8epa7CDcPCyCOY8E14=', 'https://media.gettyimages.com/photos/business-meeting-picture-id1035834404?k=6&m=1035834404&s=612x612&w=0&h=_vcp0W8nzxsN7WVAeOxJ6bUn1wbOrEPchisceHB7K5E=']
+U+782D
+9
+biān
+112.5
+砭.mp3
+
+砮
+['arrow-tip']
+['punta de flecha']
+['NONE']
+U+782E
+10
+nǔ
+112.5
+砮.mp3
+
+砯
+['to make a loud sound']
+['para hacer un sonido fuerte']
+['https://media.gettyimages.com/photos/young-rock-band-writing-music-together-picture-id1187920459?k=6&m=1187920459&s=612x612&w=0&h=gZAsN-vyga-LfMN2Q9YfLh9VwYVRbyeQxtudG_JDpDY=']
+U+782F
+10
+pīng
+112.5
+砯.mp3
+
+砰
+['sound of crashing stones, bang!']
+['sonido de piedras que se estrellan, ¡bang!']
+['NONE']
+U+7830
+10
+pēng
+112.5
+砰.mp3
+
+砱
+['NONE']
+['NINGUNA']
+[]
+U+7831
+10
+líng
+112.5
+砱.mp3
+
+砲
+['gun, cannon']
+['pistola, cañón']
+['https://media.gettyimages.com/illustrations/antique-illustration-of-scientific-discoveries-war-weapons-and-illustration-id1128255087?k=6&m=1128255087&s=612x612&w=0&h=ez-MjLxXL6Boc_bHol4JcFRSm5YQT_8YsxxBV9a9FGo=']
+U+7832
+10
+pào
+112.5
+砲.mp3
+
+砳
+['rocky']
+['rocoso']
+['https://media.gettyimages.com/photos/stormy-rocky-background-picture-id115004236?k=6&m=115004236&s=612x612&w=0&h=XgL1YoyZZVyWBj1Pm6OPy2xjr7cqfS1BCbRIYolcxV8=']
+U+7833
+10
+lè
+112.5
+砳.mp3
+
+破
+['break, ruin, destroy', ' rout']
+['romper, arruinar, destruir', 'derrota']
+['https://media.gettyimages.com/photos/ruins-of-a-recently-burned-building-picture-id157589418?k=6&m=157589418&s=612x612&w=0&h=SqU-xKvLcTuGgnW5L8ulKcCwmi_3lNmznTxynWgymXg=', 'https://media.gettyimages.com/photos/disappointed-football-fan-picture-id104187002?k=6&m=104187002&s=612x612&w=0&h=nIthwtfqwLWf61QVPNndtHfDpoDQNdfMpERmM6Zg_r8=']
+U+7834
+10
+pò
+112.5
+破.mp3
+
+砵
+['(Cant.) port (Eng. loan-word), ']
+['(Cant.) Puerto (palabra préstamo en inglés),']
+['NONE']
+U+7835
+10
+bō
+112.5
+砵.mp3
+
+砶
+['NONE']
+['NINGUNA']
+[]
+U+7836
+10
+pò
+112.5
+砶.mp3
+
+砷
+['arsenic']
+['arsénico']
+['https://media.gettyimages.com/photos/arsenic-sulfide-mineral-picture-id184957763?k=6&m=184957763&s=612x612&w=0&h=4aWeKovd4nOya0JPvig42uhdhPP_8jL5ub-reR3OUxk=']
+U+7837
+10
+shēn
+112.5
+砷.mp3
+
+砸
+['smash, crush, break', ' pound, mash']
+['aplastar, aplastar, romper', 'libra, puré']
+['https://media.gettyimages.com/vectors/glass-shattered-hole-vector-id901912234?k=6&m=901912234&s=612x612&w=0&h=MWgDuz4Q6nBJr64YB6Bf7FmMUeeVqIqKwOk-qfr27F8=', 'https://media.gettyimages.com/vectors/destroy-the-pound-sterling-vector-id1150772739?k=6&m=1150772739&s=612x612&w=0&h=YhDpn4Wd3hLVbrMLGb8_IVIi6gUpyG4_-xKzovny6YQ=']
+U+7838
+10
+zá
+112.5
+砸.mp3
+
+砹
+['astatine']
+['astato']
+['https://media.gettyimages.com/illustrations/chemical-elements-atom-illustration-illustration-id1161023897?k=6&m=1161023897&s=612x612&w=0&h=KJVruD_RArCkQ5fM4jDctKNdWQ66uGu1lMkqk_w3NSQ=']
+U+7839
+10
+ài
+112.5
+砹.mp3
+
+砺
+['whetstone', ' sharpen']
+['piedra de afilar', 'afilar']
+['https://media.gettyimages.com/photos/adult-man-hands-sharpening-rusty-axe-with-whetstone-picture-id470634960?k=6&m=470634960&s=612x612&w=0&h=-cgIeqc4-KjI5sorcXA1iY-5jRgcga6O9iYr5cIdNOE=', 'https://media.gettyimages.com/photos/closeup-of-a-chef-sharpening-a-large-kitchen-knife-blade-with-a-steel-picture-id945578694?k=6&m=945578694&s=612x612&w=0&h=p9u6OwhlgVFWcUWWvTSShJAbM4uE58S0Wx3zweMC6gY=']
+U+783A
+10
+lì
+112.5
+砺.mp3
+
+砻
+['grind, sharpen', ' mill']
+['moler, afilar', 'desde']
+['https://media.gettyimages.com/photos/craftsman-cutting-metal-and-using-angle-grinder-in-workshop-picture-id925273746?k=6&m=925273746&s=612x612&w=0&h=d31vjqGeMDEm2vkHIyy2u44YXQzDsPgdoiex7-qIu7E=', 'https://media.gettyimages.com/photos/wind-turbines-against-blue-sky-picture-id1053567676?k=6&m=1053567676&s=612x612&w=0&h=qDHGV97fyHmWonuIf9ldLmCdAvLcpAWLxkD6ElxjOPQ=']
+U+783B
+10
+lóng
+112.5
+砻.mp3
+
+砼
+['concrete']
+['hormigón']
+['https://media.gettyimages.com/photos/empty-studio-background-concrete-texture-picture-id986438998?k=6&m=986438998&s=612x612&w=0&h=IVaapNGRHGcnhIbphOogT_t133ZjQGMqX35zVYZPArw=']
+U+783C
+10
+tóng
+112.5
+砼.mp3
+
+砽
+['NONE']
+['NINGUNA']
+[]
+U+783D
+10
+yòng
+112.5
+砽.mp3
+
+砾
+['gravel, pebbles']
+['grava, guijarros']
+['https://media.gettyimages.com/photos/gravel-pebbles-and-sand-closeup-seamless-background-picture-id947296334?k=6&m=947296334&s=612x612&w=0&h=KYqYHpIkiDrK-Ym87ND6qnq7Xw9nHkb3aRJDdskkXhs=']
+U+783E
+10
+lì
+112.5
+砾.mp3
+
+砿
+['mine', ' mineral, ore']
+['mía', 'mineral, mineral']
+['https://media.gettyimages.com/photos/grassland-hills-and-cloud-picture-id579021062?k=6&m=579021062&s=612x612&w=0&h=eiPNupocg2hrh2OV5ES6gG59f2TEt1XWI5_cyULHPdM=', 'https://media.gettyimages.com/photos/small-pieces-of-strong-metal-ore-picture-id157526585?k=6&m=157526585&s=612x612&w=0&h=fgsH5AgmmVUAyvirdYUI1nRCIM7bL9SW6sjZ5lOR_dM=']
+U+783F
+10
+kuàng
+112.5
+砿.mp3
+
+础
+['foundation stone, plinth']
+['piedra fundamental, zócalo']
+['https://media.gettyimages.com/photos/bases-of-marble-row-columns-picture-id171579928?k=6&m=171579928&s=612x612&w=0&h=1ioHsRDEb4KMa4aa3lGrvn_JVd_OlQVK0oyVgHySPzs=']
+U+7840
+10
+chǔ
+112.5
+础.mp3
+
+硁
+['the sound of stones knocking together']
+['el sonido de piedras chocando juntas']
+['NONE']
+U+7841
+10
+kēng
+112.5
+硁.mp3
+
+硂
+['NONE']
+['NINGUNA']
+[]
+U+7842
+11
+quán
+112.6
+硂.mp3
+
+硃
+['a red mole', ' cinnabar']
+['un lunar rojo', 'cinabrio']
+['https://media.gettyimages.com/photos/portrait-of-young-latina-woman-looking-off-to-the-side-not-smiling-picture-id1134312679?k=6&m=1134312679&s=612x612&w=0&h=LOKJevOy7X29jdWLPMfrnLY_KU1NAnPpB0m2ZN6zlBI=', 'https://media.gettyimages.com/photos/cinnabar-moth-on-blade-of-grass-picture-id668768137?k=6&m=668768137&s=612x612&w=0&h=Wyzs8M9H1DMPCrXm-opP7GHOtDYsHOBR-02ZY1WFvyg=']
+U+7843
+11
+zhū
+112.6
+硃.mp3
+
+硄
+['NONE']
+['NINGUNA']
+[]
+U+7844
+11
+kuāng
+112.6
+硄.mp3
+
+硅
+['silicon']
+['silicio']
+['https://media.gettyimages.com/photos/breast-implant-picture-id157589963?k=6&m=157589963&s=612x612&w=0&h=fMJfB6lsXZ1otsQ3AZr0GRQGo0AeCq47Ti0C1dA2tuU=']
+U+7845
+11
+guī
+112.6
+硅.mp3
+
+硆
+['NONE']
+['NINGUNA']
+[]
+U+7846
+11
+è
+112.6
+硆.mp3
+
+硇
+['a kind of mineral']
+['una especie de mineral']
+['https://media.gettyimages.com/vectors/natural-product-label-set-vector-id1141674880?k=6&m=1141674880&s=612x612&w=0&h=2_ZJqcP8NOzl7XMo4FDV6yKvRF-zXnr0Zd_SLgIuK3U=']
+U+7847
+11
+náo
+112.6
+硇.mp3
+
+硈
+['NONE']
+['NINGUNA']
+[]
+U+7848
+11
+qià
+112.6
+硈.mp3
+
+硉
+['bones of a thin horse']
+['huesos de un caballo delgado']
+['https://media.gettyimages.com/vectors/pets-line-vector-icons-vector-id940975226?k=6&m=940975226&s=612x612&w=0&h=XE3U4nJrqkqovki9DD5tiawgJjIDmM8G5k6G60ZPoXI=']
+U+7849
+11
+lù
+112.6
+硉.mp3
+
+硊
+['NONE']
+['NINGUNA']
+[]
+U+784A
+11
+wěi
+112.6
+硊.mp3
+
+硋
+['NONE']
+['NINGUNA']
+[]
+U+784B
+11
+ài
+112.6
+硋.mp3
+
+硌
+['NONE']
+['NINGUNA']
+[]
+U+784C
+11
+gè
+112.6
+硌.mp3
+
+硍
+['strike']
+['Huelga']
+['https://media.gettyimages.com/photos/unity-of-action-picture-id115946248?k=6&m=115946248&s=612x612&w=0&h=KjWsLzQdiJ8qPEpiwQ-ShmgoyKuz1jv6EN21zMB4bsY=']
+U+784D
+11
+xiàn
+112.6
+硍.mp3
+
+硎
+['whetstone']
+['piedra de afilar']
+['https://media.gettyimages.com/photos/adult-man-hands-sharpening-rusty-axe-with-whetstone-picture-id470634960?k=6&m=470634960&s=612x612&w=0&h=-cgIeqc4-KjI5sorcXA1iY-5jRgcga6O9iYr5cIdNOE=']
+U+784E
+11
+xíng
+112.6
+硎.mp3
+
+硏
+['grind']
+['moler']
+['https://media.gettyimages.com/photos/heavy-industry-worker-cutting-steel-with-an-angle-grinder-picture-id1037604530?k=6&m=1037604530&s=612x612&w=0&h=COGeY6nJiQ9kUw832fsV2DLH41LxCqYSx45V5dasB_o=']
+U+784F
+11
+yán
+112.6
+硏.mp3
+
+硐
+['variant of ']
+['variante de']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+7850
+11
+dòng
+112.6
+硐.mp3
+
+硑
+['NONE']
+['NINGUNA']
+[]
+U+7851
+11
+pēng
+112.6
+硑.mp3
+
+硒
+['selenium']
+['selenio']
+['https://media.gettyimages.com/photos/winter-woods-landscape-night-scene-and-selenium-tone-picture-id106544566?k=6&m=106544566&s=612x612&w=0&h=J8ffQxqSZ-OjWFHSBi2ylXzNtr34pUbXMViNw_MZolc=']
+U+7852
+11
+xī
+112.6
+硒.mp3
+
+硓
+['NONE']
+['NINGUNA']
+[]
+U+7853
+11
+lǎo
+112.6
+硓.mp3
+
+硔
+['NONE']
+['NINGUNA']
+[]
+U+7854
+11
+hóng
+112.6
+硔.mp3
+
+硕
+['great, eminent', ' large, big']
+['genial, eminente', 'bastante grande']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=', 'https://media.gettyimages.com/photos/large-open-space-office-picture-id512979254?k=6&m=512979254&s=612x612&w=0&h=v9VqYJ03HBE3HZgqOBoSoNe9_7tizU8s8ufz2A8tKn8=']
+U+7855
+11
+shuò
+112.6
+硕.mp3
+
+硖
+['(archaic) town in Hebei province']
+['(arcaica) ciudad en la provincia de Hebei']
+['https://media.gettyimages.com/photos/nuanquan-ancient-town-of-weixian-countyhebei-provincechina-picture-id700737687?k=6&m=700737687&s=612x612&w=0&h=TrXVgKBs4VXZqzx0ZZFs8RrOqhnS_kVvA6i3-9PHlJ4=']
+U+7856
+11
+xiá
+112.6
+硖.mp3
+
+硗
+['barren land', ' sandy soil']
+['barra de tierra', 'suelo arenoso']
+['https://media.gettyimages.com/photos/group-of-cranberry-workers-as-seen-from-directly-above-massachusetts-picture-id1210372277?k=6&m=1210372277&s=612x612&w=0&h=1AvCYWNbhPnP9UBxHJMLJUHV0wqNWPXkdPc6kE2pQ4Q=', 'https://media.gettyimages.com/photos/young-woman-planting-seeds-in-garden-low-section-picture-id683745981?k=6&m=683745981&s=612x612&w=0&h=NKshkuBEp93gS9HeJIBCB1dP0yJIZ0OjMxSWhUTJV5Q=']
+U+7857
+11
+qiāo
+112.6
+硗.mp3
+
+硘
+['NONE']
+['NINGUNA']
+[]
+U+7858
+11
+qing
+112.6
+硘.mp3
+
+硙
+['stone mill', ' grind', ' break apart']
+['molino de piedra', 'moler', 'romper']
+['https://media.gettyimages.com/photos/traditional-grinder-picture-id159171732?k=6&m=159171732&s=612x612&w=0&h=9Fj1mpIfau3WV2Fb6u0QZgIF90uz42ieovHZCZNW5H0=', 'https://media.gettyimages.com/photos/heavy-industry-worker-cutting-steel-with-an-angle-grinder-picture-id1037604530?k=6&m=1037604530&s=612x612&w=0&h=COGeY6nJiQ9kUw832fsV2DLH41LxCqYSx45V5dasB_o=', 'https://media.gettyimages.com/photos/statue-breaks-picture-id486169068?k=6&m=486169068&s=612x612&w=0&h=YymqNbuw09A5jfpqhn3sL49nCisPq7ZJxLHIZcFEDrI=']
+U+7859
+11
+wéi
+112.6
+硙.mp3
+
+硚
+['NONE']
+['NINGUNA']
+[]
+U+785A
+11
+qiáo
+112.6
+硚.mp3
+
+硛
+['NONE']
+['NINGUNA']
+[]
+U+785B
+11
+yì
+112.6
+硛.mp3
+
+硜
+['the sound of stones knocking together']
+['el sonido de piedras chocando juntas']
+['NONE']
+U+785C
+12
+kēng
+112.7
+硜.mp3
+
+硝
+['saltpeter, niter', ' to tan']
+['salitre, niter', 'para broncearse']
+['NONE', 'https://media.gettyimages.com/photos/watercolor-paint-on-paper-mixed-to-create-a-watercolor-effect-picture-id1188016482?k=6&m=1188016482&s=612x612&w=0&h=-2kwvfiDnEbHaP8PMuo2LvoOn8DuMXvh5KkrZ--SjVY=']
+U+785D
+12
+xiāo
+112.7
+硝.mp3
+
+硞
+['NONE']
+['NINGUNA']
+[]
+U+785E
+12
+què
+112.7
+硞.mp3
+
+硟
+['(Cant.) to slip', ' to work and polish gems']
+['(Cant.) Resbalar', 'trabajar y pulir gemas']
+['https://media.gettyimages.com/photos/model-is-photographed-in-a-sexy-fashion-editorial-for-dress-to-kill-picture-id616075194?s=612x612', 'https://media.gettyimages.com/photos/repairing-diamond-ring-picture-id154894277?k=6&m=154894277&s=612x612&w=0&h=sUmGDaFgj5LTB1L6SfytbBz4Ehkk8QMFBF9CIiACPcE=']
+U+785F
+11
+chàn
+112.7
+硟.mp3
+
+硠
+['NONE']
+['NINGUNA']
+[]
+U+7860
+12
+láng
+112.7
+硠.mp3
+
+硡
+['NONE']
+['NINGUNA']
+[]
+U+7861
+12
+hōng
+112.7
+硡.mp3
+
+硢
+['NONE']
+['NINGUNA']
+[]
+U+7862
+12
+yú
+112.7
+硢.mp3
+
+硣
+['NONE']
+['NINGUNA']
+[]
+U+7863
+12
+xiāo
+112.7
+硣.mp3
+
+硤
+['(archaic) town in Hebei province']
+['(arcaica) ciudad en la provincia de Hebei']
+['https://media.gettyimages.com/photos/nuanquan-ancient-town-of-weixian-countyhebei-provincechina-picture-id700737687?k=6&m=700737687&s=612x612&w=0&h=TrXVgKBs4VXZqzx0ZZFs8RrOqhnS_kVvA6i3-9PHlJ4=']
+U+7864
+12
+xiá
+112.7
+硤.mp3
+
+硥
+['NONE']
+['NINGUNA']
+[]
+U+7865
+12
+mǎng
+112.7
+硥.mp3
+
+硦
+['NONE']
+['NINGUNA']
+[]
+U+7866
+12
+luò
+112.7
+硦.mp3
+
+硧
+['a grindstone', ' (same as ']
+['una piedra de afilar', '(igual que']
+['https://media.gettyimages.com/photos/the-daily-grind-picture-id172170400?k=6&m=172170400&s=612x612&w=0&h=UVQ47az0XK0XcirzMnZNRMkhpY5VqB6obI07huNz7qY=', 'https://media.gettyimages.com/vectors/red-and-black-aces-seamless-pattern-vector-id903522566?k=6&m=903522566&s=612x612&w=0&h=PbQ2nH9P03BuYDRKCWxUiOu5a3kNPj1mPRscZkxvVD8=']
+U+7867
+12
+yǒng
+112.7
+硧.mp3
+
+硨
+['giant clam, Tridacna gigas']
+['almeja gigante, Tridacna gigas']
+['https://media.gettyimages.com/photos/giant-clam-grows-on-a-reef-in-raja-ampat-picture-id599949407?k=6&m=599949407&s=612x612&w=0&h=YKLZZfDq2P0SsBQe0K94GkaFBqkJySppSCXGWoRptaI=']
+U+7868
+12
+chē
+112.7
+硨.mp3
+
+硩
+['NONE']
+['NINGUNA']
+[]
+U+7869
+12
+chè
+112.7
+硩.mp3
+
+硪
+['NONE']
+['NINGUNA']
+[]
+U+786A
+12
+wò
+112.7
+硪.mp3
+
+硫
+['sulfur']
+['azufre']
+['https://media.gettyimages.com/photos/rock-mineral-macro-photo-with-white-background-picture-id870387082?k=6&m=870387082&s=612x612&w=0&h=3HMIVxDGC7DBSt4nZW8yD1wttpxziCCct1OngHiyyUY=']
+U+786B
+12
+liú
+112.7
+硫.mp3
+
+硬
+['hard, firm, strong', ' obstinate']
+['duro, firme, fuerte', 'obstinado']
+['https://media.gettyimages.com/photos/hard-workouts-picture-id599467104?k=6&m=599467104&s=612x612&w=0&h=RouxbWNvNYTTg-B_F7NwN8tEmza2mesoqhN1nOxaAwI=', 'https://media.gettyimages.com/photos/man-pulling-stubborn-donkey-picture-id97639598?k=6&m=97639598&s=612x612&w=0&h=SOf61p5UWh9vp1IZxYZubIgcXxYrWVhBPqFeAFwvdXU=']
+U+786C
+12
+yìng
+112.7
+硬.mp3
+
+硭
+['a crude saltpetre']
+['un salitre crudo']
+['NONE']
+U+786D
+11
+máng
+112.7
+硭.mp3
+
+确
+['sure, certain', ' real, true']
+['seguro, seguro', 'verdad real']
+['https://media.gettyimages.com/photos/rear-view-of-professional-young-businesswoman-standing-against-in-picture-id1011168744?k=6&m=1011168744&s=612x612&w=0&h=kvco-OdaoVwubJWVJgZQ8CnMtl0ohJwk8CwbxnF6paM=', 'https://media.gettyimages.com/photos/portrait-of-business-woman-picture-id912617618?k=6&m=912617618&s=612x612&w=0&h=rGmaZKKYVEjr1gprYb7j9ybpJKc1CHGs0_X62NCfTOc=']
+U+786E
+12
+què
+112.7
+确.mp3
+
+硯
+['inkstone']
+['inkstone']
+['https://media.gettyimages.com/photos/image-of-a-japanese-room-and-table-picture-id122630142?k=6&m=122630142&s=612x612&w=0&h=CZzSes9gMnSI2lL5GqPczsBReIHcPCxbWIn6EXZKNKA=']
+U+786F
+12
+yàn
+112.7
+硯.mp3
+
+硰
+['NONE']
+['NINGUNA']
+[]
+U+7870
+12
+shā
+112.7
+硰.mp3
+
+硱
+['NONE']
+['NINGUNA']
+[]
+U+7871
+12
+kǔn
+112.7
+硱.mp3
+
+硲
+['NONE']
+['NINGUNA']
+[]
+U+7872
+12
+yù
+112.7
+硲.mp3
+
+硳
+['NONE']
+['NINGUNA']
+[]
+U+7873
+12
+chì
+112.7
+硳.mp3
+
+硴
+['NONE']
+['NINGUNA']
+[]
+U+7874
+12
+huā
+112.7
+硴.mp3
+
+硵
+['NONE']
+['NINGUNA']
+[]
+U+7875
+12
+lǔ
+112.7
+硵.mp3
+
+硶
+['NONE']
+['NINGUNA']
+[]
+U+7876
+12
+chěn
+112.7
+硶.mp3
+
+硷
+['alkaline, alkali, lye, salt']
+['alcalino, álcali, lejía, sal']
+['NONE']
+U+7877
+12
+jiǎn
+112.7
+硷.mp3
+
+硸
+['thick-lipped', ' a grindstone']
+['labios gruesos', 'una piedra de afilar']
+['NONE', 'https://media.gettyimages.com/photos/the-daily-grind-picture-id172170400?k=6&m=172170400&s=612x612&w=0&h=UVQ47az0XK0XcirzMnZNRMkhpY5VqB6obI07huNz7qY=']
+U+7878
+13
+nüè
+112.8
+硸.mp3
+
+硹
+['NONE']
+['NINGUNA']
+[]
+U+7879
+13
+sōng
+112.8
+硹.mp3
+
+硺
+['NONE']
+['NINGUNA']
+[]
+U+787A
+13
+zhuó
+112.8
+硺.mp3
+
+硻
+['NONE']
+['NINGUNA']
+[]
+U+787B
+13
+kēng
+112.8
+硻.mp3
+
+硼
+['borax, boron']
+['bórax, boro']
+['https://media.gettyimages.com/photos/jagged-crystal-of-white-boron-picture-id154930344?k=6&m=154930344&s=612x612&w=0&h=eaQ8CRqVlFLam-l_8NNRUY6zWNv4Wp9la4Gk0aVdajc=']
+U+787C
+13
+péng
+112.8
+硼.mp3
+
+硽
+['NONE']
+['NINGUNA']
+[]
+U+787D
+13
+yān
+112.8
+硽.mp3
+
+硾
+['weight']
+['peso']
+['https://media.gettyimages.com/vectors/weights-and-scales-line-icons-eps-10-vector-id673825502?k=6&m=673825502&s=612x612&w=0&h=Sg0Y-7cbDEa4dRCU6nBApkeLcsW_OP7RGYg2Mu9R_cc=']
+U+787E
+13
+zhuì
+112.9
+硾.mp3
+
+硿
+['NONE']
+['NINGUNA']
+[]
+U+787F
+13
+kōng
+112.8
+硿.mp3
+
+碀
+['NONE']
+['NINGUNA']
+[]
+U+7880
+11
+chéng
+112.8
+碀.mp3
+
+碁
+['chess', ' any game similar to chess']
+['ajedrez', 'cualquier juego similar al ajedrez']
+['https://media.gettyimages.com/vectors/vector-checker-chess-abstract-seamless-background-vector-id985915172?k=6&m=985915172&s=612x612&w=0&h=AaRFqRra8mu0gqiNSCrsduiEBS4nPCD-Tt0pOcxh10w=', 'https://media.gettyimages.com/photos/caucasian-grandfather-and-grandson-playing-chess-picture-id152400943?k=6&m=152400943&s=612x612&w=0&h=ZjS6VRQ1EVZB2jjy79oLRsfPPvfLgh6Q1RVNWrxpiyU=']
+U+7881
+13
+qí
+112.8
+碁.mp3
+
+碂
+['NONE']
+['NINGUNA']
+[]
+U+7882
+13
+zòng
+112.8
+碂.mp3
+
+碃
+['NONE']
+['NINGUNA']
+[]
+U+7883
+13
+qìng
+112.8
+碃.mp3
+
+碄
+['NONE']
+['NINGUNA']
+[]
+U+7884
+13
+lín
+112.8
+碄.mp3
+
+碅
+['NONE']
+['NINGUNA']
+[]
+U+7885
+13
+jūn
+112.8
+碅.mp3
+
+碆
+['arrow-tip']
+['punta de flecha']
+['NONE']
+U+7886
+13
+bō
+112.8
+碆.mp3
+
+碇
+['anchor']
+['ancla']
+['https://media.gettyimages.com/photos/newsreader-in-television-studio-picture-id940035118?k=6&m=940035118&s=612x612&w=0&h=PmZi9bJrHKOoMjTPQhx3_wZRqDrqadaQDasgGxBLPdA=']
+U+7887
+13
+dìng
+112.8
+碇.mp3
+
+碈
+['NONE']
+['NINGUNA']
+[]
+U+7888
+13
+mín
+112.8
+碈.mp3
+
+碉
+['room made of stone', ' watchtower']
+['habitación hecha de piedra', 'watchtower']
+['https://media.gettyimages.com/photos/empty-space-picture-id1010819140?k=6&m=1010819140&s=612x612&w=0&h=wxSWGQ29zXxdUL_BljV2CbLYIHWhzgyJsTd4yVum3mE=', 'https://media.gettyimages.com/vectors/pine-forest-and-watchtower-panorama-vector-id1186169615?k=6&m=1186169615&s=612x612&w=0&h=OmozvhR9SPf5afVJZPeAbASb8q_PYh0p56PCPVFMZNo=']
+U+7889
+13
+diāo
+112.8
+碉.mp3
+
+碊
+['NONE']
+['NINGUNA']
+[]
+U+788A
+13
+jiān
+112.8
+碊.mp3
+
+碋
+['NONE']
+['NINGUNA']
+[]
+U+788B
+13
+hè
+112.8
+碋.mp3
+
+碌
+['rough, uneven, rocky', ' mediocre']
+['áspero, desigual, rocoso', 'mediocre']
+['https://media.gettyimages.com/photos/rocky-cliff-background-picture-id987012014?k=6&m=987012014&s=612x612&w=0&h=QL_gh0s2YvnZlhZViuPf7pDQryi2yIP4288c8sAkMZA=', 'https://media.gettyimages.com/photos/we-dont-do-mediocre-picture-id608621424?k=6&m=608621424&s=612x612&w=0&h=PM-Pue1MgZ7kuV1a49ekKxMKgoXlBPElhMDKcfswsrQ=']
+U+788C
+13
+lù
+112.8
+碌.mp3
+
+碍
+['obstruct, hinder, block, deter']
+['obstruir, obstaculizar, bloquear, disuadir']
+['NONE']
+U+788D
+13
+ài
+112.8
+碍.mp3
+
+碎
+['break, smash', ' broken, busted']
+['romper, aplastar', 'roto, roto']
+['https://media.gettyimages.com/photos/contractor-man-doing-home-improvement-and-demolition-picture-id1089045626?k=6&m=1089045626&s=612x612&w=0&h=fdSgS5P_VqMQ1gKpCjH_-y1h03xC0DOqC9XJeviYQeI=', 'https://media.gettyimages.com/photos/busted-picture-id125680412?k=6&m=125680412&s=612x612&w=0&h=JfR_fNJQmvAJh7fkNIXxHqQYwfGgYNJpW_D1BF8U1b8=']
+U+788E
+13
+suì
+112.8
+碎.mp3
+
+碏
+['coloured']
+['de colores']
+['https://media.gettyimages.com/vectors/abstract-colorful-background-vector-id1137245316?k=6&m=1137245316&s=612x612&w=0&h=LFzTE265K1RzIYe_SnigDQPudZv_wT9CUpdkofLTLrc=']
+U+788F
+13
+què
+112.8
+碏.mp3
+
+碐
+['NONE']
+['NINGUNA']
+[]
+U+7890
+13
+léng
+112.8
+碐.mp3
+
+碑
+['stone tablet', ' gravestone']
+['tabla de piedra', 'lápida sepulcral']
+['https://media.gettyimages.com/photos/closeup-of-plaque-on-temple-church-london-picture-id185242076?k=6&m=185242076&s=612x612&w=0&h=POMj9WIPAvWkdE2RzwcNcsQrKN3d7igPAlbXVfv3mGs=', 'https://media.gettyimages.com/photos/tombstones-on-grassy-field-in-cemetery-against-sky-picture-id566403169?k=6&m=566403169&s=612x612&w=0&h=RQ_0iEDIjhrYs1Up2NuMd358iUoyciIR1gZSYAbWDDk=']
+U+7891
+13
+bēi
+112.8
+碑.mp3
+
+碒
+['NONE']
+['NINGUNA']
+[]
+U+7892
+13
+yín
+112.8
+碒.mp3
+
+碓
+['pestle']
+['majadero']
+['https://media.gettyimages.com/photos/female-scientist-making-medicine-in-laboratory-picture-id669896084?k=6&m=669896084&s=612x612&w=0&h=kSti5baxJ4BbZbTX4Ucdgw_WemybPhskTbLLNFOh_0E=']
+U+7893
+13
+duì
+112.8
+碓.mp3
+
+碔
+['1/2 pr stone']
+['Piedra a 1/2']
+['NONE']
+U+7894
+13
+wǔ
+112.8
+碔.mp3
+
+碕
+['a cape, spit, promontory']
+['una capa, escupir, promontorio']
+['https://media.gettyimages.com/photos/church-of-saint-they-de-la-pointe-du-van-pointe-du-van-departement-picture-id1210606727?k=6&m=1210606727&s=612x612&w=0&h=k0k5pM_HP91_i3O6P09j_cEZHL7ywQM1mUoeyoTJCDg=']
+U+7895
+13
+qí
+112.8
+碕.mp3
+
+碖
+['NONE']
+['NINGUNA']
+[]
+U+7896
+13
+lǔn
+112.8
+碖.mp3
+
+碗
+['bowl, small dish']
+['cuenco, plato pequeño']
+['https://media.gettyimages.com/photos/the-boys-are-bonding-picture-id854461566?k=6&m=854461566&s=612x612&w=0&h=P-RsidQVhq7A4y4hfHom_fFzbKGJUqEVN8uFxMC9Y2A=']
+U+7897
+13
+wǎn
+112.8
+碗.mp3
+
+碘
+['iodine']
+['yodo']
+['https://media.gettyimages.com/photos/closeup-of-salt-in-bottle-and-table-against-white-background-picture-id914228166?k=6&m=914228166&s=612x612&w=0&h=LvC1mgflwME43HR_dORql0BzvWZZiYrYmJWzrnElOqU=']
+U+7898
+13
+diǎn
+112.8
+碘.mp3
+
+碙
+['NONE']
+['NINGUNA']
+[]
+U+7899
+13
+náo
+112.8
+碙.mp3
+
+碚
+['suburb']
+['suburbio']
+['https://media.gettyimages.com/photos/row-of-houses-in-a-suburban-american-neighborhood-picture-id71550660?k=6&m=71550660&s=612x612&w=0&h=7tH3HSxfFz8VLvo-YBNsekT2eIMcQ879tMK1pDQ2QFw=']
+U+789A
+13
+bèi
+112.8
+碚.mp3
+
+碛
+['sand and gravel']
+['arena y grava']
+['https://media.gettyimages.com/photos/soil-background-picture-id173309695?k=6&m=173309695&s=612x612&w=0&h=W0kmN9TgzG_vWS0LCztNYctrDWvmhLLYcrU8KG0_UN0=']
+U+789B
+13
+qì
+112.8
+碛.mp3
+
+碜
+['gritty']
+['arenoso']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=']
+U+789C
+13
+chěn
+112.8
+碜.mp3
+
+碝
+['NONE']
+['NINGUNA']
+[]
+U+789D
+14
+ruǎn
+112.9
+碝.mp3
+
+碞
+['room made of stone', ' watchtower']
+['habitación hecha de piedra', 'watchtower']
+['https://media.gettyimages.com/photos/empty-space-picture-id1010819140?k=6&m=1010819140&s=612x612&w=0&h=wxSWGQ29zXxdUL_BljV2CbLYIHWhzgyJsTd4yVum3mE=', 'https://media.gettyimages.com/vectors/pine-forest-and-watchtower-panorama-vector-id1186169615?k=6&m=1186169615&s=612x612&w=0&h=OmozvhR9SPf5afVJZPeAbASb8q_PYh0p56PCPVFMZNo=']
+U+789E
+14
+yán
+112.9
+碞.mp3
+
+碟
+['small dish, plate']
+['plato pequeño, plato']
+['https://media.gettyimages.com/photos/small-cherry-tomato-with-big-blue-plate-picture-id1179568383?k=6&m=1179568383&s=612x612&w=0&h=NYUxf81RSfWr5GsGasgiSYlp-3DzqMXbS40wI6e1gio=']
+U+789F
+14
+dié
+112.9
+碟.mp3
+
+碠
+['NONE']
+['NINGUNA']
+[]
+U+78A0
+14
+dìng
+112.9
+碠.mp3
+
+碡
+['stone roller used to level fields']
+['rodillo de piedra utilizado para nivelar campos']
+['NONE']
+U+78A1
+14
+dú
+112.9
+碡.mp3
+
+碢
+['NONE']
+['NINGUNA']
+[]
+U+78A2
+13
+tuó
+112.9
+碢.mp3
+
+碣
+['stone tablet']
+['tabla de piedra']
+['https://media.gettyimages.com/photos/closeup-of-plaque-on-temple-church-london-picture-id185242076?k=6&m=185242076&s=612x612&w=0&h=POMj9WIPAvWkdE2RzwcNcsQrKN3d7igPAlbXVfv3mGs=']
+U+78A3
+14
+jié
+112.9
+碣.mp3
+
+碤
+['NONE']
+['NINGUNA']
+[]
+U+78A4
+13
+yīng
+112.9
+碤.mp3
+
+碥
+['NONE']
+['NINGUNA']
+[]
+U+78A5
+14
+biǎn
+112.9
+碥.mp3
+
+碦
+['NONE']
+['NINGUNA']
+[]
+U+78A6
+14
+kè
+112.9
+碦.mp3
+
+碧
+['jade', ' green, blue']
+['jade', 'verde azul']
+['https://media.gettyimages.com/photos/face-care-kit-massage-for-a-woman-picture-id1208045954?k=6&m=1208045954&s=612x612&w=0&h=NkYAqBgpUA8bCiv80IAneRzp812wk3yqmUPCric24BQ=', 'https://media.gettyimages.com/vectors/defocused-abstract-blue-and-green-background-vector-id1044292966?k=6&m=1044292966&s=612x612&w=0&h=nfnok6cdT7qpz5Fjwukdz8GVSyFuT6JcY0lTMQLgh-Y=']
+U+78A7
+14
+bì
+112.9
+碧.mp3
+
+碨
+['NONE']
+['NINGUNA']
+[]
+U+78A8
+14
+wèi
+112.9
+碨.mp3
+
+碩
+['great, eminent', ' large, big']
+['genial, eminente', 'bastante grande']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=', 'https://media.gettyimages.com/photos/large-open-space-office-picture-id512979254?k=6&m=512979254&s=612x612&w=0&h=v9VqYJ03HBE3HZgqOBoSoNe9_7tizU8s8ufz2A8tKn8=']
+U+78A9
+14
+shuò
+112.9
+碩.mp3
+
+碪
+['stone slab used for washing clothes', ' an anvil']
+['losa de piedra utilizada para lavar la ropa', 'un yunque']
+['NONE', 'https://media.gettyimages.com/photos/heavy-metal-picture-id157287254?k=6&m=157287254&s=612x612&w=0&h=msvJUYXjcYdoauGIdBfgXpzSFLbRvLsVMVqyDmbCcPQ=']
+U+78AA
+14
+zhēn
+112.9
+碪.mp3
+
+碫
+['NONE']
+['NINGUNA']
+[]
+U+78AB
+14
+duàn
+112.9
+碫.mp3
+
+碬
+['whetstone']
+['piedra de afilar']
+['https://media.gettyimages.com/photos/adult-man-hands-sharpening-rusty-axe-with-whetstone-picture-id470634960?k=6&m=470634960&s=612x612&w=0&h=-cgIeqc4-KjI5sorcXA1iY-5jRgcga6O9iYr5cIdNOE=']
+U+78AC
+14
+xiá
+112.9
+碬.mp3
+
+碭
+['brilliantly colored stone with veined patterns in it']
+['piedra de colores brillantes con patrones veteados en ella']
+['NONE']
+U+78AD
+14
+dàng
+112.9
+碭.mp3
+
+碮
+['NONE']
+['NINGUNA']
+[]
+U+78AE
+14
+tí
+112.9
+碮.mp3
+
+碯
+['agate, cornelian']
+['ágata, cornalina']
+['NONE']
+U+78AF
+14
+nǎo
+112.9
+碯.mp3
+
+碰
+['collide, bump into']
+['chocar, chocar contra']
+['https://media.gettyimages.com/photos/car-accident-picture-id969500140?k=6&m=969500140&s=612x612&w=0&h=JKpJYx6ic-s_RUONS3SWoCwx7LXA2t1sIi8aFySMKJc=']
+U+78B0
+13
+pèng
+112.8
+碰.mp3
+
+碱
+['alkaline, alkali, lye, salt']
+['alcalino, álcali, lejía, sal']
+['NONE']
+U+78B1
+14
+jiǎn
+112.9
+碱.mp3
+
+碲
+['tellurium']
+['telurio']
+['https://media.gettyimages.com/photos/colorado-telluride-night-elevated-view-picture-id200530248-001?k=6&m=200530248-001&s=612x612&w=0&h=LSCNBm-iHbO57uSzsJkbHnQ_AM_WeIe_IlUCT64QDjE=']
+U+78B2
+14
+dì
+112.9
+碲.mp3
+
+碳
+['carbon']
+['carbón']
+['https://media.gettyimages.com/photos/coal-mineral-black-as-a-cube-stone-background-picture-id957509792?k=6&m=957509792&s=612x612&w=0&h=-sVdRvXFUs3yb6OxSn_tU0ntpA5k9RZGD1UlPofbZ9c=']
+U+78B3
+14
+tàn
+112.9
+碳.mp3
+
+碴
+['chipped edge of a container']
+['borde astillado de un recipiente']
+['https://media.gettyimages.com/photos/apples-in-old-kitchen-picture-id1197593624?k=6&m=1197593624&s=612x612&w=0&h=FkKQRZVI3mG07Sw9Y6kq_wfKN-07ZJNrW1onSrc54Lo=']
+U+78B4
+14
+chá
+112.9
+碴.mp3
+
+碵
+['NONE']
+['NINGUNA']
+[]
+U+78B5
+14
+tián
+112.9
+碵.mp3
+
+碶
+['a flood-gate, a water-gate']
+['una puerta de inundación, una puerta de agua']
+['NONE']
+U+78B6
+14
+qì
+112.9
+碶.mp3
+
+碷
+['NONE']
+['NINGUNA']
+[]
+U+78B7
+14
+dùn
+112.9
+碷.mp3
+
+碸
+['an organic compound']
+['un compuesto orgánico']
+['https://media.gettyimages.com/photos/hardboiled-egg-halves-picture-id1190419548?k=6&m=1190419548&s=612x612&w=0&h=3sTZBdAltzZHHID4UX542n8tPM0zjHIgNIPDysXBaU0=']
+U+78B8
+14
+fēng
+112.9
+碸.mp3
+
+碹
+['NONE']
+['NINGUNA']
+[]
+U+78B9
+14
+xuàn
+112.9
+碹.mp3
+
+確
+['sure, certain', ' real, true']
+['seguro, seguro', 'verdad real']
+['https://media.gettyimages.com/photos/rear-view-of-professional-young-businesswoman-standing-against-in-picture-id1011168744?k=6&m=1011168744&s=612x612&w=0&h=kvco-OdaoVwubJWVJgZQ8CnMtl0ohJwk8CwbxnF6paM=', 'https://media.gettyimages.com/photos/portrait-of-business-woman-picture-id912617618?k=6&m=912617618&s=612x612&w=0&h=rGmaZKKYVEjr1gprYb7j9ybpJKc1CHGs0_X62NCfTOc=']
+U+78BA
+15
+què
+112.10
+確.mp3
+
+碻
+['solid']
+['sólido']
+['https://media.gettyimages.com/vectors/core-values-icons-big-series-vector-id1130255156?k=6&m=1130255156&s=612x612&w=0&h=9ATs3bor3JREiPfDQ_9LbgZCnEmbx4ew7oenvg44MY8=']
+U+78BB
+15
+què
+112.10
+碻.mp3
+
+碼
+['number, numerals', ' yard', ' symbol']
+['número, numerales', 'yarda', 'símbolo']
+['https://media.gettyimages.com/vectors/numbers-design-red-numbers-on-carbon-fiber-background-vector-id529083495?k=6&m=529083495&s=612x612&w=0&h=TIiSGKsU_9mHT1tCk9CIbWMzkaOylYejTZB2XIfolxc=', 'https://media.gettyimages.com/photos/lawn-and-trees-in-the-park-picture-id1164727662?k=6&m=1164727662&s=612x612&w=0&h=BJ040ZsR4fCW5GgPcBeCzf-Js1KlAF_eVJAuJoT5Sfw=', 'https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=']
+U+78BC
+15
+mǎ
+112.10
+碼.mp3
+
+碽
+['NONE']
+['NINGUNA']
+[]
+U+78BD
+15
+gōng
+112.10
+碽.mp3
+
+碾
+['roller, crush', ' roll']
+['rodillo, aplastar', 'rodar']
+['https://media.gettyimages.com/vectors/grunge-design-elements-paint-roller-and-brush-strokes-vector-id1027074316?k=6&m=1027074316&s=612x612&w=0&h=tBjAW125xw43e9r-BIhZ0mCa3AoxlZhwp5MeOq6YfYs=', 'https://media.gettyimages.com/photos/bread-on-wood-picture-id157313175?k=6&m=157313175&s=612x612&w=0&h=keWsQk-D7sJyiI3t1QE1innZvqT4NIN9ayr-vk_5m-E=']
+U+78BE
+15
+niǎn
+112.10
+碾.mp3
+
+碿
+['NONE']
+['NINGUNA']
+[]
+U+78BF
+15
+sù
+112.10
+碿.mp3
+
+磀
+['NONE']
+['NINGUNA']
+[]
+U+78C0
+14
+é
+112.10
+磀.mp3
+
+磁
+['magnetic', ' magnetism', ' porcelain']
+['magnético', 'magnetismo', 'porcelana']
+['https://media.gettyimages.com/photos/family-photos-on-refrigerator-picture-id103631248?k=6&m=103631248&s=612x612&w=0&h=vnFtJNC6Wllp2qJ9UQsx1UvaX6F6OiegkrnwN2f5JFY=', 'https://media.gettyimages.com/photos/pulsed-electromagnetic-frequencies-tuned-to-the-earth-picture-id157642745?k=6&m=157642745&s=612x612&w=0&h=H7WaLZySaVwXNIdi5IM3W6W6gC5ohYWTIpAoSJeLEk4=', 'https://media.gettyimages.com/vectors/watercolor-hand-painted-navy-blue-tile-vector-tile-pattern-lisbon-vector-id1144533591?k=6&m=1144533591&s=612x612&w=0&h=ACZl3UK4xQVsSOcpc7Rc1YeCdtRob-Cpn01hUMuU8J4=']
+U+78C1
+14
+cí
+112.9
+磁.mp3
+
+磂
+['NONE']
+['NINGUNA']
+[]
+U+78C2
+15
+liú
+112.10
+磂.mp3
+
+磃
+['NONE']
+['NINGUNA']
+[]
+U+78C3
+15
+sī
+112.10
+磃.mp3
+
+磄
+['NONE']
+['NINGUNA']
+[]
+U+78C4
+15
+táng
+112.10
+磄.mp3
+
+磅
+['pound', ' weigh']
+['libra', 'pesar']
+['https://media.gettyimages.com/photos/pound-coins-and-bank-notes-picture-id909209056?k=6&m=909209056&s=612x612&w=0&h=6bMyh7-aS9SUAsjhrCGxNuUI_K0p1yRS81bIWTKEViI=', 'https://media.gettyimages.com/vectors/-vector-id980819792?k=6&m=980819792&s=612x612&w=0&h=MbtPuDuNjncL0QRF13j2B8KyoTFpBfagp87wPPHmZVo=']
+U+78C5
+15
+bàng
+112.10
+磅.mp3
+
+磆
+['NONE']
+['NINGUNA']
+[]
+U+78C6
+14
+huá
+112.10
+磆.mp3
+
+磇
+['arsenic']
+['arsénico']
+['https://media.gettyimages.com/photos/arsenic-sulfide-mineral-picture-id184957763?k=6&m=184957763&s=612x612&w=0&h=4aWeKovd4nOya0JPvig42uhdhPP_8jL5ub-reR3OUxk=']
+U+78C7
+15
+pī
+112.10
+磇.mp3
+
+磈
+['NONE']
+['NINGUNA']
+[]
+U+78C8
+14
+wěi
+112.10
+磈.mp3
+
+磉
+['the stone base or plinth of a pillar']
+['la base de piedra o zócalo de un pilar']
+['https://media.gettyimages.com/photos/old-white-pillar-isolated-on-white-picture-id91608475?k=6&m=91608475&s=612x612&w=0&h=vtzflSrvXx_bx3mUxyPs-ti36fxdJbSK9YrhmySVROE=']
+U+78C9
+15
+sǎng
+112.10
+磉.mp3
+
+磊
+['pile of rocks or stones', ' great']
+['pila de rocas o piedras', 'estupendo']
+['https://media.gettyimages.com/photos/balanced-stones-on-a-pebble-beach-during-sunset-picture-id157373207?k=6&m=157373207&s=612x612&w=0&h=M_icDhy6CvBZqF0PqAlvwebRrCNOLmYaYiJTGImPsgY=', 'https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=']
+U+78CA
+15
+lěi
+112.10
+磊.mp3
+
+磋
+['polish, buff', ' scrutinize']
+['pulir, pulir', 'escudriñar']
+['https://media.gettyimages.com/vectors/fitness-and-workout-line-icons-editable-stroke-pixel-perfect-for-and-vector-id1138147384?k=6&m=1138147384&s=612x612&w=0&h=MyUtgcVqbYgDQ8-CoUq9y9PuP9MV6_4dGYE_KmBqn8Y=', 'https://media.gettyimages.com/vectors/assessment-icons-line-series-vector-id1062446456?k=6&m=1062446456&s=612x612&w=0&h=LnYN9M8u7hYnOY026NWlhs1wHu7dK1jeQo-Q6JFF8Bc=']
+U+78CB
+14
+cuō
+112.10
+磋.mp3
+
+磌
+['NONE']
+['NINGUNA']
+[]
+U+78CC
+15
+tián
+112.10
+磌.mp3
+
+磍
+['NONE']
+['NINGUNA']
+[]
+U+78CD
+15
+xiá
+112.10
+磍.mp3
+
+磎
+['mountain stream, creek']
+['arroyo de montaña, arroyo']
+['https://media.gettyimages.com/photos/stream-in-forest-in-long-exposure-abrams-creek-great-smoky-mountains-picture-id978636244?k=6&m=978636244&s=612x612&w=0&h=38THj5t3BWNItDnOAsA0UF37YfBWm1XnjQ7bGRj4o90=']
+U+78CE
+15
+xī
+112.10
+磎.mp3
+
+磏
+['NONE']
+['NINGUNA']
+[]
+U+78CF
+15
+lián
+112.10
+磏.mp3
+
+磐
+['large rock, boulder', ' firm']
+['gran roca, canto rodado', 'firma']
+['https://media.gettyimages.com/photos/limestone-picture-id170215830?k=6&m=170215830&s=612x612&w=0&h=Fua6_L10GPrfgKkQcoSaGh_jsQc0Pg7vD_dJ1fQtieo=', 'https://media.gettyimages.com/photos/business-people-working-in-modern-office-space-picture-id973718370?k=6&m=973718370&s=612x612&w=0&h=cSkCLNXnlyTEzQXd7WtbW4N-tQB7iHAcMDHZdGXWPTA=']
+U+78D0
+15
+pán
+112.10
+磐.mp3
+
+磑
+['stone mill', ' grind', ' break apart']
+['molino de piedra', 'moler', 'romper']
+['https://media.gettyimages.com/photos/traditional-grinder-picture-id159171732?k=6&m=159171732&s=612x612&w=0&h=9Fj1mpIfau3WV2Fb6u0QZgIF90uz42ieovHZCZNW5H0=', 'https://media.gettyimages.com/photos/heavy-industry-worker-cutting-steel-with-an-angle-grinder-picture-id1037604530?k=6&m=1037604530&s=612x612&w=0&h=COGeY6nJiQ9kUw832fsV2DLH41LxCqYSx45V5dasB_o=', 'https://media.gettyimages.com/photos/statue-breaks-picture-id486169068?k=6&m=486169068&s=612x612&w=0&h=YymqNbuw09A5jfpqhn3sL49nCisPq7ZJxLHIZcFEDrI=']
+U+78D1
+15
+wéi
+112.10
+磑.mp3
+
+磒
+['to fall from or into']
+['caer desde o hacia']
+['https://media.gettyimages.com/vectors/autumn-leaves-seamless-pattern-vector-id1024082018?k=6&m=1024082018&s=612x612&w=0&h=QbHLaDrrI4kWyf4NYaOUb4djD7eaShkclv5f6kV2SG0=']
+U+78D2
+15
+yǔn
+112.10
+磒.mp3
+
+磓
+['to throw (a stone)']
+['arrojar (una piedra)']
+['https://media.gettyimages.com/photos/germany-bavaria-man-standing-at-riverside-throwing-stone-picture-id900220412?k=6&m=900220412&s=612x612&w=0&h=h4QsKypuUk-6offv03Mqyt_G8qJEnISfjj8POb4aXik=']
+U+78D3
+14
+duī
+112.10
+磓.mp3
+
+磔
+['to dismember, tear apart', ' downward stroke slanting right']
+['desmembrar, desgarrar', 'trazo hacia abajo inclinado a la derecha']
+['NONE', 'NONE']
+U+78D4
+15
+zhé
+112.10
+磔.mp3
+
+磕
+['hit', ' collide, knock into', ' sound']
+['golpear', 'chocar, golpear', 'sonido']
+['https://media.gettyimages.com/vectors/business-people-editable-stroke-icons-vector-id950770842?k=6&m=950770842&s=612x612&w=0&h=nRjkPMiGXp5xs8sEBJtqP32pP5eedB7XAXy5XVpCPHo=', 'https://media.gettyimages.com/photos/lets-team-up-picture-id1066901314?k=6&m=1066901314&s=612x612&w=0&h=FO_QukkcnmhOUVkc46vwMY92JrQelKSvm6OivU5iGhg=', 'https://media.gettyimages.com/vectors/music-line-icons-vector-id1036141234?k=6&m=1036141234&s=612x612&w=0&h=MuUAEqb1ijrhqo8MGt7LqHYiX8CuOhh6hD4oCRuTekQ=']
+U+78D5
+15
+kē
+112.10
+磕.mp3
+
+磖
+['NONE']
+['NINGUNA']
+[]
+U+78D6
+16
+lá
+112.10
+磖.mp3
+
+磗
+['NONE']
+['NINGUNA']
+[]
+U+78D7
+15
+zhuān
+112.10
+磗.mp3
+
+磘
+['NONE']
+['NINGUNA']
+[]
+U+78D8
+15
+yáo
+112.10
+磘.mp3
+
+磙
+['roller']
+['rodillo']
+['https://media.gettyimages.com/vectors/roll-screen6-vector-id507433111?k=6&m=507433111&s=612x612&w=0&h=mmkR3HCAYhd7tzNIZjJ7OJLi58ntju5B_trYfwNTscc=']
+U+78D9
+15
+gǔn
+112.10
+磙.mp3
+
+磚
+['tile, brick']
+['teja, ladrillo']
+['https://media.gettyimages.com/vectors/set-of-seamless-patterns-vector-id1148046907?k=6&m=1148046907&s=612x612&w=0&h=E8rLpewsXInoq6lay-YeqFXKIsNU-cA_GiCWXnI9AEY=']
+U+78DA
+16
+zhuān
+112.11
+磚.mp3
+
+磛
+['cliff']
+['acantilado']
+['https://media.gettyimages.com/photos/closeup-of-cliff-by-sea-against-sky-during-winter-picture-id733495043?k=6&m=733495043&s=612x612&w=0&h=tiNrydEJGv8sKT1a8_k7Zhd3qsFhM6tfV8vFdInmRrY=']
+U+78DB
+16
+chán
+112.11
+磛.mp3
+
+磜
+['NONE']
+['NINGUNA']
+[]
+U+78DC
+16
+qì
+112.10
+磜.mp3
+
+磝
+['NONE']
+['NINGUNA']
+[]
+U+78DD
+15
+áo
+112.11
+磝.mp3
+
+磞
+['NONE']
+['NINGUNA']
+[]
+U+78DE
+16
+pēng
+112.11
+磞.mp3
+
+磟
+['mediocre', ' busy', ' occupied', ' roller']
+['mediocre', 'ocupado', 'ocupado', 'rodillo']
+['https://media.gettyimages.com/photos/we-dont-do-mediocre-picture-id608621424?k=6&m=608621424&s=612x612&w=0&h=PM-Pue1MgZ7kuV1a49ekKxMKgoXlBPElhMDKcfswsrQ=', 'https://media.gettyimages.com/photos/aerial-view-of-a-crossing-in-mexico-city-picture-id1032513938?k=6&m=1032513938&s=612x612&w=0&h=85VZYkMFBanjqHysXmvwahiTweYTZ_hhewrKd84ELYI=', 'https://media.gettyimages.com/photos/business-meeting-at-busy-corporate-office-picture-id955946134?k=6&m=955946134&s=612x612&w=0&h=k0Na9VtVNaojlTi1x3TeNwYSSnknBavzVWXUx87bf-8=', 'https://media.gettyimages.com/vectors/roll-screen6-vector-id507433111?k=6&m=507433111&s=612x612&w=0&h=mmkR3HCAYhd7tzNIZjJ7OJLi58ntju5B_trYfwNTscc=']
+U+78DF
+16
+liù
+112.11
+磟.mp3
+
+磠
+['sal ammoniac', ' sand', ' pebble']
+['sal amoniaca', 'arena', 'Guijarro']
+['NONE', 'https://media.gettyimages.com/photos/waves-of-sand-picture-id157308943?k=6&m=157308943&s=612x612&w=0&h=PT-3BHpLxI-t8Vpqlz2pEAIQJ03RxVTOePMZ01KlEZw=', 'https://media.gettyimages.com/photos/isolated-pebbles-stone-picture-id155600156?k=6&m=155600156&s=612x612&w=0&h=hL28lc8zy7fd1j0isTU0_plytQMp5vhUmfG2WW_Y7L0=']
+U+78E0
+16
+lǔ
+112.11
+磠.mp3
+
+磡
+['cliff, ledge, bank', ' step']
+['acantilado, repisa, banco', 'paso']
+['https://media.gettyimages.com/vectors/businessman-get-coins-vector-id533561786?k=6&m=533561786&s=612x612&w=0&h=aqlajlawYvTiaIvSiwJO0Vrh3r2pXHafmA6_OVQlQKc=', 'https://media.gettyimages.com/photos/render-stairs-background-picture-id1124417270?k=6&m=1124417270&s=612x612&w=0&h=dx3TO8qV7EzdvIEA9QfxCwArKnXbGfKRr0L-7-86f6k=']
+U+78E1
+16
+kàn
+112.11
+磡.mp3
+
+磢
+['(Cant.) to grind', ' a roller']
+['(Cant.) Moler', 'un rodillo']
+['https://media.gettyimages.com/photos/funny-slinger-toronto-star-columnist-joey-slinger-a-man-who-cant-a-picture-id502494641?k=6&m=502494641&s=612x612&w=0&h=xSxcLNCdCJ7awjLyQOD3J6j-fWjtx6HC2C5jBcgi-6A=', 'https://media.gettyimages.com/vectors/roll-screen6-vector-id507433111?k=6&m=507433111&s=612x612&w=0&h=mmkR3HCAYhd7tzNIZjJ7OJLi58ntju5B_trYfwNTscc=']
+U+78E2
+16
+chuǎng
+112.11
+磢.mp3
+
+磣
+['gritty']
+['arenoso']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=']
+U+78E3
+16
+chěn
+112.11
+磣.mp3
+
+磤
+['NONE']
+['NINGUNA']
+[]
+U+78E4
+15
+yǐn
+112.10
+磤.mp3
+
+磥
+['a heap of stones', ' boulders']
+['un montón de piedras', 'cantos rodados']
+['https://media.gettyimages.com/photos/limestone-chippings-picture-id175547140?k=6&m=175547140&s=612x612&w=0&h=SDkhmKbWxryqZWLEmVlcAyX2Ln4knUNb8msNVhZCMnE=', 'https://media.gettyimages.com/photos/african-penguin-picture-id520733302?k=6&m=520733302&s=612x612&w=0&h=sv2ruUxPXxzoxIQsvr--yl2RUUxrwnN1o41HLT0eSAo=']
+U+78E5
+16
+lěi
+112.11
+磥.mp3
+
+磦
+['NONE']
+['NINGUNA']
+[]
+U+78E6
+16
+biāo
+112.11
+磦.mp3
+
+磧
+['sand and gravel', ' rocks exposed at low tide', ' to crush']
+['arena y grava', 'rocas expuestas durante la marea baja', 'aplastar']
+['https://media.gettyimages.com/photos/soil-background-picture-id173309695?k=6&m=173309695&s=612x612&w=0&h=W0kmN9TgzG_vWS0LCztNYctrDWvmhLLYcrU8KG0_UN0=', 'https://media.gettyimages.com/photos/surfgrass-exposed-at-low-tide-picture-id975038518?k=6&m=975038518&s=612x612&w=0&h=A29mDhY3Corf9WtJaPf7ZQtdhqjwNkqenSTQpgbgj0w=', 'https://media.gettyimages.com/photos/mashed-face-picture-id184857941?k=6&m=184857941&s=612x612&w=0&h=DUAdrYpLowFiG7s8OFNmMlnqD7r8Tj7Hqk2dFFcdYBQ=']
+U+78E7
+16
+qì
+112.11
+磧.mp3
+
+磨
+['grind', ' polish', ' rub', ' wear out', ' a millstone']
+['moler', 'polaco', 'frotar', 'desgastar', 'una piedra de molino']
+['https://media.gettyimages.com/photos/heavy-industry-worker-cutting-steel-with-an-angle-grinder-picture-id1037604530?k=6&m=1037604530&s=612x612&w=0&h=COGeY6nJiQ9kUw832fsV2DLH41LxCqYSx45V5dasB_o=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=', 'https://media.gettyimages.com/photos/sanatize-picture-id157279312?k=6&m=157279312&s=612x612&w=0&h=NwlBEGtNJ7-zRDSFib_1SH3JI9H82uNBXU678hHbP2E=', 'https://media.gettyimages.com/photos/man-walking-out-from-vibrant-red-speech-bubble-picture-id1250588922?k=6&m=1250588922&s=612x612&w=0&h=FNV-Sm6mm50e3LeDduFr4RttZlkM0Mbx5M8tzTyv8yE=', 'https://media.gettyimages.com/photos/old-flour-mill-picture-id157530810?k=6&m=157530810&s=612x612&w=0&h=Z-pfjxnjHVeE4OIQqN6QknLAfTCACKSBNvkoBxSIlt4=']
+U+78E8
+16
+mó
+112.11
+磨.mp3
+
+磩
+['NONE']
+['NINGUNA']
+[]
+U+78E9
+16
+qì
+112.11
+磩.mp3
+
+磪
+['a high mountain', ' precipitous']
+['una alta montaña', 'precipitado']
+['https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/photos/car-on-a-san-francisco-hill-picture-id87304325?k=6&m=87304325&s=612x612&w=0&h=bY8LlXfOmi1tLrkaqEjR1AnCSx9xUHuF85NTzdjjtyI=']
+U+78EA
+16
+cuī
+112.11
+磪.mp3
+
+磫
+['NONE']
+['NINGUNA']
+[]
+U+78EB
+16
+zōng
+112.11
+磫.mp3
+
+磬
+['musical instrument', ' musical stone']
+['instrumento musical', 'piedra musical']
+['https://media.gettyimages.com/vectors/musical-instruments-jazz-vector-id982510772?k=6&m=982510772&s=612x612&w=0&h=Pulxg1x7ZSzrwAKrFAfEM_pOt3gQ12RIwkiz-Xgb0pA=', 'https://media.gettyimages.com/photos/pebble-on-beach-picture-id175590369?k=6&m=175590369&s=612x612&w=0&h=oHDKHOVOo2qArKlVEmM_7Q1vYmVBgKRJv8atQX_I2Dk=']
+U+78EC
+16
+qìng
+112.11
+磬.mp3
+
+磭
+['NONE']
+['NINGUNA']
+[]
+U+78ED
+16
+chuò
+112.11
+磭.mp3
+
+磮
+['NONE']
+['NINGUNA']
+[]
+U+78EE
+16
+lún
+112.11
+磮.mp3
+
+磯
+['jetty', ' submerged rock', ' eddy']
+['embarcadero', 'roca sumergida', 'eddy']
+['https://media.gettyimages.com/photos/family-sitting-on-pier-by-the-sea-picture-id1002673938?k=6&m=1002673938&s=612x612&w=0&h=7r58l3YSKvymCtNigkNUpBYLuVkix__mU4vETDCK63M=', 'https://media.gettyimages.com/photos/underwater-landscape-at-koh-bon-similan-islands-picture-id556339177?k=6&m=556339177&s=612x612&w=0&h=oez5SO9cIr80uQR070SCth1pH-q7QxuLjvWHftXdU2o=', 'https://media.gettyimages.com/photos/beautiful-clear-teal-water-vortex-picture-id157641313?k=6&m=157641313&s=612x612&w=0&h=U7UN3pojuvWGcB3eFu7eEH16vMbbwaRMCyiGFxSsQbI=']
+U+78EF
+17
+jī
+112.12
+磯.mp3
+
+磰
+['NONE']
+['NINGUNA']
+[]
+U+78F0
+17
+shàn
+112.12
+磰.mp3
+
+磱
+['NONE']
+['NINGUNA']
+[]
+U+78F1
+17
+láo
+112.12
+磱.mp3
+
+磲
+['white button of 6th rank']
+['botón blanco de sexto rango']
+['NONE']
+U+78F2
+16
+qú
+112.12
+磲.mp3
+
+磳
+['NONE']
+['NINGUNA']
+[]
+U+78F3
+17
+zēng
+112.12
+磳.mp3
+
+磴
+['steps on ledge, cliff, or hill']
+['pasos en la cornisa, acantilado o colina']
+['https://media.gettyimages.com/photos/the-great-wall-picture-id1068997180?k=6&m=1068997180&s=612x612&w=0&h=X-f0_jKBxnCKqHfqdg-uHJUNsoVEzfeq9sYm5A7yADc=']
+U+78F4
+17
+dèng
+112.12
+磴.mp3
+
+磵
+['brook, mountain stream']
+['arroyo, arroyo de montaña']
+['https://media.gettyimages.com/photos/glacier-stream-in-thaiwaszozila-passjammu-and-kashmir-ladakh-region-picture-id1128044725?k=6&m=1128044725&s=612x612&w=0&h=BeeN9rOzKCRtqe64g-6cq3Rqaezn6IPkeaEJ3oTHa4I=']
+U+78F5
+17
+jiàn
+112.12
+磵.mp3
+
+磶
+['NONE']
+['NINGUNA']
+[]
+U+78F6
+17
+xì
+112.12
+磶.mp3
+
+磷
+['phosphorus', ' water rushing between']
+['fósforo', 'agua corriendo entre']
+['https://media.gettyimages.com/photos/liming-lawn-picture-id1134581136?k=6&m=1134581136&s=612x612&w=0&h=lrtxgMc16Zy9Pez2nbp4Oocm0RPpznSqO7djZ3WUGks=', 'https://media.gettyimages.com/photos/high-angle-view-of-man-surfing-in-sea-picture-id999984172?k=6&m=999984172&s=612x612&w=0&h=cyNTBzs9V4wyub9lz1kPb_KT1RwicIW8XPG19QQ0QMA=']
+U+78F7
+17
+lín
+112.12
+磷.mp3
+
+磸
+['NONE']
+['NINGUNA']
+[]
+U+78F8
+17
+dìng
+112.12
+磸.mp3
+
+磹
+['NONE']
+['NINGUNA']
+[]
+U+78F9
+17
+tán
+112.12
+磹.mp3
+
+磺
+['sulphur', ' brimstone']
+['azufre', 'azufre']
+['https://media.gettyimages.com/photos/rock-mineral-macro-photo-with-white-background-picture-id870387082?k=6&m=870387082&s=612x612&w=0&h=3HMIVxDGC7DBSt4nZW8yD1wttpxziCCct1OngHiyyUY=', 'https://media.gettyimages.com/photos/rock-mineral-macro-photo-with-white-background-picture-id870387082?k=6&m=870387082&s=612x612&w=0&h=3HMIVxDGC7DBSt4nZW8yD1wttpxziCCct1OngHiyyUY=']
+U+78FA
+16
+huáng
+112.12
+磺.mp3
+
+磻
+['a tributary of the Wei river in Shanxi']
+['un afluente del río Wei en Shanxi']
+['NONE']
+U+78FB
+17
+pán
+112.12
+磻.mp3
+
+磼
+['NONE']
+['NINGUNA']
+[]
+U+78FC
+17
+zá
+112.12
+磼.mp3
+
+磽
+['barren land', ' sandy soil']
+['barra de tierra', 'suelo arenoso']
+['https://media.gettyimages.com/photos/group-of-cranberry-workers-as-seen-from-directly-above-massachusetts-picture-id1210372277?k=6&m=1210372277&s=612x612&w=0&h=1AvCYWNbhPnP9UBxHJMLJUHV0wqNWPXkdPc6kE2pQ4Q=', 'https://media.gettyimages.com/photos/young-woman-planting-seeds-in-garden-low-section-picture-id683745981?k=6&m=683745981&s=612x612&w=0&h=NKshkuBEp93gS9HeJIBCB1dP0yJIZ0OjMxSWhUTJV5Q=']
+U+78FD
+17
+qiāo
+112.12
+磽.mp3
+
+磾
+['NONE']
+['NINGUNA']
+[]
+U+78FE
+17
+dī
+112.12
+磾.mp3
+
+磿
+['NONE']
+['NINGUNA']
+[]
+U+78FF
+17
+lì
+112.12
+磿.mp3
+
+礀
+['NONE']
+['NINGUNA']
+[]
+U+7900
+17
+jiàn
+112.12
+礀.mp3
+
+礁
+['reef', ' jetty', ' submerged rocks']
+['arrecife', 'embarcadero', 'rocas sumergidas']
+['https://media.gettyimages.com/photos/clown-fishamphiprion-bicinctus-picture-id521652072?k=6&m=521652072&s=612x612&w=0&h=zZZ7_7YrBHeeMcsl6t2-iK0_TDkbKGvDbACTDxCJJy4=', 'https://media.gettyimages.com/photos/family-sitting-on-pier-by-the-sea-picture-id1002673938?k=6&m=1002673938&s=612x612&w=0&h=7r58l3YSKvymCtNigkNUpBYLuVkix__mU4vETDCK63M=', 'https://media.gettyimages.com/photos/underwater-landscape-at-koh-bon-similan-islands-picture-id556339177?k=6&m=556339177&s=612x612&w=0&h=oez5SO9cIr80uQR070SCth1pH-q7QxuLjvWHftXdU2o=']
+U+7901
+17
+jiāo
+112.12
+礁.mp3
+
+礂
+['NONE']
+['NINGUNA']
+[]
+U+7902
+17
+xī
+112.12
+礂.mp3
+
+礃
+['NONE']
+['NINGUNA']
+[]
+U+7903
+17
+zhǎng
+112.12
+礃.mp3
+
+礄
+['place in Sichuan province']
+['lugar en la provincia de Sichuan']
+['https://media.gettyimages.com/photos/beautiful-landscape-snow-mountain-at-sichuan-province-picture-id1159529064?k=6&m=1159529064&s=612x612&w=0&h=I4eWhmy8zfWbzZy4jnmhXv1r5eLZurPU3qWvS-pujts=']
+U+7904
+17
+qiáo
+112.12
+礄.mp3
+
+礅
+['NONE']
+['NINGUNA']
+[]
+U+7905
+17
+dūn
+112.12
+礅.mp3
+
+礆
+['alkaline, alkali, lye, salt']
+['alcalino, álcali, lejía, sal']
+['NONE']
+U+7906
+18
+jiǎn
+112.13
+礆.mp3
+
+礇
+['NONE']
+['NINGUNA']
+[]
+U+7907
+17
+yù
+112.13
+礇.mp3
+
+礈
+['NONE']
+['NINGUNA']
+[]
+U+7908
+17
+zhuì
+112.13
+礈.mp3
+
+礉
+['NONE']
+['NINGUNA']
+[]
+U+7909
+18
+hé
+112.13
+礉.mp3
+
+礊
+['NONE']
+['NINGUNA']
+[]
+U+790A
+18
+kè
+112.13
+礊.mp3
+
+礋
+['NONE']
+['NINGUNA']
+[]
+U+790B
+18
+zé
+112.13
+礋.mp3
+
+礌
+['NONE']
+['NINGUNA']
+[]
+U+790C
+18
+léi
+112.13
+礌.mp3
+
+礍
+['NONE']
+['NINGUNA']
+[]
+U+790D
+17
+jié
+112.13
+礍.mp3
+
+礎
+['foundation stone, plinth']
+['piedra fundamental, zócalo']
+['https://media.gettyimages.com/photos/bases-of-marble-row-columns-picture-id171579928?k=6&m=171579928&s=612x612&w=0&h=1ioHsRDEb4KMa4aa3lGrvn_JVd_OlQVK0oyVgHySPzs=']
+U+790E
+18
+chǔ
+112.13
+礎.mp3
+
+礏
+['NONE']
+['NINGUNA']
+[]
+U+790F
+18
+yè
+112.13
+礏.mp3
+
+礐
+['NONE']
+['NINGUNA']
+[]
+U+7910
+18
+què
+112.13
+礐.mp3
+
+礑
+['NONE']
+['NINGUNA']
+[]
+U+7911
+18
+dàng
+112.13
+礑.mp3
+
+礒
+['NONE']
+['NINGUNA']
+[]
+U+7912
+18
+yǐ
+112.13
+礒.mp3
+
+礓
+['NONE']
+['NINGUNA']
+[]
+U+7913
+18
+jiāng
+112.13
+礓.mp3
+
+礔
+['NONE']
+['NINGUNA']
+[]
+U+7914
+18
+pī
+112.13
+礔.mp3
+
+礕
+['NONE']
+['NINGUNA']
+[]
+U+7915
+18
+pī
+112.13
+礕.mp3
+
+礖
+['NONE']
+['NINGUNA']
+[]
+U+7916
+18
+yù
+112.13
+礖.mp3
+
+礗
+['NONE']
+['NINGUNA']
+[]
+U+7917
+19
+pīn
+112.14
+礗.mp3
+
+礘
+['NONE']
+['NINGUNA']
+[]
+U+7918
+19
+è
+112.14
+礘.mp3
+

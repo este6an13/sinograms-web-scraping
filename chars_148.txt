@@ -1,0 +1,2560 @@
+這
+['this, the, here']
+['esto, el, aquí']
+['https://media.gettyimages.com/photos/light-in-the-dark-picture-id1173661889?k=6&m=1173661889&s=612x612&w=0&h=vJBWxr2DNBc_pf4PmE2uADdmF1sDjQzsd_77EBitWMA=']
+U+9019
+10
+zhè
+162.7
+這.mp3
+
+通
+['pass through, common, communicate']
+['pasar, común, comunicar']
+['https://media.gettyimages.com/photos/payment-online-picture-id635837740?k=6&m=635837740&s=612x612&w=0&h=FuzyFb_XgPFdF3EaTYIk3fl07_Jz9B5-razoMrkhX78=']
+U+901A
+10
+tōng
+162.7
+通.mp3
+
+逛
+['ramble, stroll, roam, wander']
+['divagar, pasear, vagar, vagar']
+['https://media.gettyimages.com/photos/businessman-on-business-trip-in-spain-picture-id1135709143?k=6&m=1135709143&s=612x612&w=0&h=7txwW1frZkZGdc4O0M9VYeonMYIm3nvmfpjkYWgrFtc=']
+U+901B
+10
+guàng
+162.7
+逛.mp3
+
+逜
+['NONE']
+['NINGUNA']
+[]
+U+901C
+10
+wù
+162.7
+逜.mp3
+
+逝
+['pass away', ' die']
+['fallecer', 'los']
+['https://media.gettyimages.com/photos/close-up-of-exchanging-relay-baton-on-a-race-picture-id491468940?k=6&m=491468940&s=612x612&w=0&h=4YPrHAtX1Yp8Ht7Re5-R97Ax5op8VA6sFZNSwQhMew4=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=']
+U+901D
+10
+shì
+162.7
+逝.mp3
+
+逞
+['indulge oneself', ' brag, show off']
+['darse gusto', 'presumir']
+['https://media.gettyimages.com/photos/woman-enjoying-her-breakfast-picture-id1127513920?k=6&m=1127513920&s=612x612&w=0&h=xH6N2GXocVP5BmWU2nEmHkt2_TCZIjH0-mlEfH0pRiE=', 'https://media.gettyimages.com/photos/rooster-picture-id1145183908?k=6&m=1145183908&s=612x612&w=0&h=_40S14DXrux09T4Ta7BXGIdMdFeXC3YKsBZNWEkO2dU=']
+U+901E
+10
+chěng
+162.7
+逞.mp3
+
+速
+['quick, prompt, speedy']
+['rápido, rápido, rápido']
+['https://media.gettyimages.com/photos/sprinter-seen-from-above-with-shadow-and-copy-space-picture-id1139036092?k=6&m=1139036092&s=612x612&w=0&h=Kmx_6JRCvjiSrBhEbeEZm2v3vxVBoy2Qn3HIgznMJKM=']
+U+901F
+10
+sù
+162.7
+速.mp3
+
+造
+['construct, build, make, begin', ' prepare']
+['construir, construir, hacer, comenzar', 'preparar']
+['https://media.gettyimages.com/photos/boat-building-craftsmen-picture-id548417555?k=6&m=548417555&s=612x612&w=0&h=P86r0dk2MVQuxdywbVU78iHBEdG7K1yAHOxYrJ_QhNM=', 'https://media.gettyimages.com/photos/woman-doing-finances-at-home-picture-id1172587378?k=6&m=1172587378&s=612x612&w=0&h=YHXfw7WeEBGGI9bPL7M7DxQ5XASl4FVRiJXfLZAJU_k=']
+U+9020
+10
+zào
+162.7
+造.mp3
+
+逡
+['retreat, withdraw, fall back']
+['retirarse, retirarse, retroceder']
+['NONE']
+U+9021
+10
+qūn
+162.7
+逡.mp3
+
+逢
+['come upon, happen meet', ' flatter']
+['ven, pasa, conoce', 'halagar']
+['https://media.gettyimages.com/photos/top-view-photography-of-family-dinner-celebrate-on-christmas-picture-id1192431090?k=6&m=1192431090&s=612x612&w=0&h=B9dpEPORtqyq4PloPVgQ1ehnfa1O6KEYZM-YXoBeQ-I=', 'https://media.gettyimages.com/vectors/car-service-icon-set-vector-id1085060940?k=6&m=1085060940&s=612x612&w=0&h=3CVfLmcSjm5UVfeX1IcVvnzzaLD5Yamz4AZ6_xEzlRc=']
+U+9022
+10
+féng
+162.7
+逢.mp3
+
+連
+['join, connect', ' continuous', ' even']
+['unirse, conectarse', 'continuo', 'incluso']
+['https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=', 'https://media.gettyimages.com/photos/balancing-balls-newtons-cradle-picture-id183417229?k=6&m=183417229&s=612x612&w=0&h=cKRf608yG2Rh8kP8g_6YhQtnYMIUOmI0rAit8CX4Aiw=', 'https://media.gettyimages.com/photos/double-billboard-picture-id171252702?k=6&m=171252702&s=612x612&w=0&h=fP0kqyG2A-zDdCyahkbExPu4BTykF-7ppeyGfRrXdV4=']
+U+9023
+10
+lián
+162.7
+連.mp3
+
+逤
+['NONE']
+['NINGUNA']
+[]
+U+9024
+10
+suò
+162.7
+逤.mp3
+
+逥
+['return, turn around', ' a time']
+['volver, dar la vuelta', 'un momento']
+['https://media.gettyimages.com/vectors/businessman-pushes-back-arrow-symbol-vector-id1134188439?k=6&m=1134188439&s=612x612&w=0&h=FvfKqH1NoA2m7SH_pvUzY6B1OXv4AUyf-thMfk_8S6s=', 'https://media.gettyimages.com/vectors/time-and-clock-line-icons-editable-stroke-pixel-perfect-for-mobile-vector-id1080298810?k=6&m=1080298810&s=612x612&w=0&h=Hhz_q6wOma_bCjG0LyyPZKoX7PjEhNW1Si-DXgHFSoc=']
+U+9025
+10
+huí
+162.7
+逥.mp3
+
+逦
+['meandering, winding']
+['serpenteante, sinuoso']
+['https://media.gettyimages.com/vectors/arrow-icons-for-mobile-and-web-vector-id1080795506?k=6&m=1080795506&s=612x612&w=0&h=uTNwwaLLNbKJRmZv98_EZmmMb-ZhiZJGOufEXyR7yw8=']
+U+9026
+10
+lǐ
+162.7
+逦.mp3
+
+逧
+['NONE']
+['NINGUNA']
+[]
+U+9027
+10
+gǔ
+162.7
+逧.mp3
+
+逨
+['NONE']
+['NINGUNA']
+[]
+U+9028
+11
+lái
+162.8
+逨.mp3
+
+逩
+['to run quickly']
+['para correr rápido']
+['https://media.gettyimages.com/photos/athlete-running-picture-id636887598?k=6&m=636887598&s=612x612&w=0&h=40MkJYaC-wX6SmNEHgidDYbWZPFLEP03ALfeRSp4OSc=']
+U+9029
+11
+bèn
+162.8
+逩.mp3
+
+逪
+['NONE']
+['NINGUNA']
+[]
+U+902A
+11
+cuò
+162.8
+逪.mp3
+
+逫
+['NONE']
+['NINGUNA']
+[]
+U+902B
+11
+jué
+162.8
+逫.mp3
+
+逬
+['to scatter', ' to expel', ' to crack, to split', ' to jump']
+['a la dispersión', 'para expulsar', 'la grieta, la división', 'saltar']
+['https://media.gettyimages.com/vectors/colorful-watercolor-splashes-vector-id1085391426?k=6&m=1085391426&s=612x612&w=0&h=tCLSR-cJuE2aU4o6UEmChckX0Gj_DpCx0wDgIeRHBa8=', 'https://media.gettyimages.com/vectors/no-sign-icon-red-crossed-circle-vector-design-vector-id1204457395?k=6&m=1204457395&s=612x612&w=0&h=KQhZsyXJ56XpsTQz7tivTZP9bPeyZU6nTKDdIht7AEw=', 'https://media.gettyimages.com/photos/economic-headlines-surrounding-each-other-picture-id186805776?k=6&m=186805776&s=612x612&w=0&h=bYplAPL7UzkOCvHQ5HI56GjNPEDRrqCucMk9eCae7qU=', 'https://media.gettyimages.com/photos/jump-with-inflatable-ring-picture-id1003246154?k=6&m=1003246154&s=612x612&w=0&h=rJ6cn0OhWjncIVQFkh6dN7V3QwgXOZXgIm_ZYCzbmG0=']
+U+902C
+11
+bèng
+162.8
+逬.mp3
+
+逭
+['to escape from', ' to flee, to avoid']
+['escapar de', 'huir, evitar']
+['https://media.gettyimages.com/photos/bathroom-faucet-picture-id182691828?k=6&m=182691828&s=612x612&w=0&h=XGIfWu-LE1yOD_41L0qk3iTQ9TNm-EcuEzdCUt_zZ2A=', 'https://media.gettyimages.com/photos/children-in-couch-fort-picture-id1216181170?k=6&m=1216181170&s=612x612&w=0&h=d8myDdVMY_Ok8MAYTF1kgiVAd0AoxFltU_3mAWCuMv8=']
+U+902D
+11
+huàn
+162.8
+逭.mp3
+
+逮
+['seize, catch', ' reach, arrive']
+['agarrar, atrapar', 'llegar, llegar']
+['https://media.gettyimages.com/photos/fantastic-catch-with-clipping-path-picture-id157374162?k=6&m=157374162&s=612x612&w=0&h=tpmi75AdkTWsLsyoKodL-xbGo4EUt6pPrwdADKCqVHs=', 'https://media.gettyimages.com/photos/closeup-of-mature-couple-opening-door-to-holiday-rental-apartment-picture-id825888028?k=6&m=825888028&s=612x612&w=0&h=1w31JgDEPkhXAhJbPzq2SPR3awGzekMkzr86G665hdU=']
+U+902E
+11
+dǎi
+162.8
+逮.mp3
+
+逯
+['leave without reason', ' surname']
+['irse sin razón', 'apellido']
+['https://media.gettyimages.com/photos/off-we-go-for-a-trip-picture-id901419976?k=6&m=901419976&s=612x612&w=0&h=8aYFjeY-Qq13SeHu8Uboqc03RamelVimGHcaBq8iaDI=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+902F
+11
+lù
+162.8
+逯.mp3
+
+逰
+['wander, roam, travel']
+['vagar, vagar, viajar']
+['https://media.gettyimages.com/photos/businessman-on-business-trip-in-spain-picture-id1135709143?k=6&m=1135709143&s=612x612&w=0&h=7txwW1frZkZGdc4O0M9VYeonMYIm3nvmfpjkYWgrFtc=']
+U+9030
+11
+yóu
+162.8
+逰.mp3
+
+週
+['week', ' turn, cycle', ' anniversary']
+['semana', 'girar, ciclo', 'aniversario']
+['https://media.gettyimages.com/vectors/calendar-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1158830788?k=6&m=1158830788&s=612x612&w=0&h=htJHes2jszyP4JB8GfD4Habw7tI-6ge6MPUyOp3EZc0=', 'https://media.gettyimages.com/vectors/vector-arrows-circular-design-elements-vector-id1137025452?k=6&m=1137025452&s=612x612&w=0&h=zaNebdTC9AzBwD4ZBadyD7Bd41tjND2A1an7pO4Opx8=', 'https://media.gettyimages.com/vectors/feast-party-set-of-line-vector-icons-vector-id1066150252?k=6&m=1066150252&s=612x612&w=0&h=Fu097D5Td-C4b_M4FNRHxKC4VS6YHOoGd3_rKOf-v3Q=']
+U+9031
+11
+zhōu
+162.8
+週.mp3
+
+進
+['advance, make progress, enter']
+['avanzar, avanzar, entrar']
+['https://media.gettyimages.com/vectors/the-way-forward-vector-id520617418?k=6&m=520617418&s=612x612&w=0&h=b-fpTAWImtRtXq2LHs6aDfSipjT9AvrZfRwzkb34I50=']
+U+9032
+11
+jìn
+162.8
+進.mp3
+
+逳
+['(Cant.) to move, touch, hit']
+['(Cant.) Mover, tocar, golpear']
+['NONE']
+U+9033
+11
+yù
+162.8
+逳.mp3
+
+逴
+['argue, quarrel, squabble', ' far']
+['discutir, pelear, pelear', 'lejos']
+['https://media.gettyimages.com/photos/you-never-listen-picture-id1162106983?k=6&m=1162106983&s=612x612&w=0&h=x_QM_3wjjG3M2tpPOy-tTfIiEV68CsP596qKZ9_i0Bo=', 'https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=']
+U+9034
+11
+chuō
+162.8
+逴.mp3
+
+逵
+['thoroughfare, crossroads']
+['vía, cruce de caminos']
+['https://media.gettyimages.com/vectors/road-trip-and-navigation-icons-acme-series-vector-id1030917706?k=6&m=1030917706&s=612x612&w=0&h=jSSTtu2t0bbjHb_IFOSA3OWYReB5xWnJT52eH7jlKs8=']
+U+9035
+11
+kuí
+162.8
+逵.mp3
+
+逶
+['winding, curving', ' swagger']
+['sinuoso, curvo', 'pavonearse']
+['https://media.gettyimages.com/vectors/arrow-icons-for-mobile-and-web-vector-id1080795506?k=6&m=1080795506&s=612x612&w=0&h=uTNwwaLLNbKJRmZv98_EZmmMb-ZhiZJGOufEXyR7yw8=', 'https://media.gettyimages.com/photos/am-a-strong-woman-picture-id614012698?k=6&m=614012698&s=612x612&w=0&h=xkVq4YsfXEfueSpYst5_pJjnZGOWXUrYIMzntFUIIoo=']
+U+9036
+11
+wēi
+162.8
+逶.mp3
+
+逷
+['distant, far away']
+['distante, muy lejos']
+['https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=']
+U+9037
+11
+tì
+162.8
+逷.mp3
+
+逸
+['flee, escape, break loose']
+['huir, escapar, desatarse']
+['NONE']
+U+9038
+11
+yì
+162.8
+逸.mp3
+
+逹
+['arrive at, reach', ' intelligent']
+['llegar a', 'inteligente']
+['https://media.gettyimages.com/photos/closeup-of-mature-couple-opening-door-to-holiday-rental-apartment-picture-id825888028?k=6&m=825888028&s=612x612&w=0&h=1w31JgDEPkhXAhJbPzq2SPR3awGzekMkzr86G665hdU=', 'https://media.gettyimages.com/photos/smart-meter-in-the-kitchen-picture-id1002456858?k=6&m=1002456858&s=612x612&w=0&h=RtvHYhJI5pgSUxIYqxM51NdZyO__aQGY-S1eR3IVy60=']
+U+9039
+11
+dá
+162.8
+逹.mp3
+
+逺
+['distant, remote, far', ' profound']
+['distante, remoto, lejano', 'profundo']
+['https://media.gettyimages.com/vectors/thin-line-vector-icon-set-pixel-perfect-editable-stroke-the-set-at-vector-id1217163115?k=6&m=1217163115&s=612x612&w=0&h=xKZlJa4_34T878RP-7vpTCXvkwXrqfCTTvPtEIcrq2s=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+903A
+11
+yuǎn
+162.8
+逺.mp3
+
+逻
+['patrol', ' inspect', ' watch', ' patrol']
+['patrulla', 'inspeccionar', 'reloj', 'patrulla']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=', 'https://media.gettyimages.com/vectors/tick-icon-vector-symbol-vector-id971623860?k=6&m=971623860&s=612x612&w=0&h=WIkXzhiOjBk6YqWGIbzo-_ttLKbDnK0y2GsYGfGEVAA=', 'https://media.gettyimages.com/vectors/time-icons-vector-id1176451173?k=6&m=1176451173&s=612x612&w=0&h=oCCbu6Zel4C64Q_N7CDG5z7PSn0KEg0QMU8jBq1WCqc=', 'https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=']
+U+903B
+11
+luó
+162.8
+逻.mp3
+
+逼
+['compel, pressure, force', ' bother']
+['obligar, presión, fuerza', 'molestia']
+['https://media.gettyimages.com/vectors/metal-handcuffs-vector-id95414987?k=6&m=95414987&s=612x612&w=0&h=wOsVhcgQh8HQmDPiE2kDVbjfTdMqFQQkXE-zu_Sdktc=', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+903C
+12
+bī
+162.9
+逼.mp3
+
+逽
+['NONE']
+['NINGUNA']
+[]
+U+903D
+11
+nuò
+162.9
+逽.mp3
+
+逾
+['go over, pass over, exceed']
+['pasar, pasar, exceder']
+['NONE']
+U+903E
+12
+yú
+162.9
+逾.mp3
+
+逿
+['a time', ' a row', ' to fall, miss']
+['un momento', 'una fila', 'caer, señorita']
+['https://media.gettyimages.com/vectors/time-and-clock-line-icons-editable-stroke-pixel-perfect-for-mobile-vector-id1080298810?k=6&m=1080298810&s=612x612&w=0&h=Hhz_q6wOma_bCjG0LyyPZKoX7PjEhNW1Si-DXgHFSoc=', 'https://media.gettyimages.com/photos/four-male-athletes-sculling-on-lake-in-sunshine-picture-id861260718?k=6&m=861260718&s=612x612&w=0&h=w97GH4tr9k-sjViwiY7ookVwCgV6R0I1HkJK7LmHhAg=', 'https://media.gettyimages.com/photos/man-breaks-ceiling-drywall-while-doing-diy-picture-id535046641?k=6&m=535046641&s=612x612&w=0&h=cJfSNGTcZ9wmDWpnfcADE2qd7321Q01pXD7P2tehRFU=']
+U+903F
+12
+dàng
+162.9
+逿.mp3
+
+遀
+['NONE']
+['NINGUNA']
+[]
+U+9040
+12
+suí
+162.9
+遀.mp3
+
+遁
+['hide, conceal oneself', ' escape']
+['esconderse, esconderse', 'escape']
+['https://media.gettyimages.com/photos/woman-in-blue-picture-id953044532?k=6&m=953044532&s=612x612&w=0&h=jbUpoOKeOLFUkD42WYwpxc13jkKTHb-0KP8SBTEvrLc=', 'https://media.gettyimages.com/photos/bathroom-faucet-picture-id182691828?k=6&m=182691828&s=612x612&w=0&h=XGIfWu-LE1yOD_41L0qk3iTQ9TNm-EcuEzdCUt_zZ2A=']
+U+9041
+12
+dùn
+162.9
+遁.mp3
+
+遂
+['comply with, follow along', ' thereupon']
+['cumplir, seguir', 'luego']
+['https://media.gettyimages.com/vectors/leadership-vector-id535677723?k=6&m=535677723&s=612x612&w=0&h=qO5yrqMSQfn9dV9uxMFW8ZLeQ5gMpRtGcCOSpbqVPnk=', 'NONE']
+U+9042
+12
+suì
+162.9
+遂.mp3
+
+遃
+['NONE']
+['NINGUNA']
+[]
+U+9043
+12
+yǎn
+162.9
+遃.mp3
+
+遄
+['to hurry', ' to go to and fro']
+['darse prisa', 'ir de un lado a otro']
+['https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=', 'https://media.gettyimages.com/photos/when-your-fro-is-good-to-go-picture-id1132515061?k=6&m=1132515061&s=612x612&w=0&h=wDy_AJ2B1B_hE5LKbwrVLV1APekue1WWwqXgm57LpS8=']
+U+9044
+12
+chuán
+162.9
+遄.mp3
+
+遅
+['late, tardy', ' slow', ' delay']
+['tarde, tarde', 'lento', 'retrasar']
+['https://media.gettyimages.com/photos/biological-clock-picture-id1089653320?k=6&m=1089653320&s=612x612&w=0&h=qn-1jFwmJXpqNJHPaj1OzU1uCm_Vqyay366GCaBczMw=', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/flight-delays-delayed-departures-arrivals-screen-picture-id93466101?k=6&m=93466101&s=612x612&w=0&h=bhVb13Y7Vgi8TYgu93SuXX_6HyHCIL7S0tbHzjDQjFA=']
+U+9045
+12
+chí
+162.9
+遅.mp3
+
+遆
+['NONE']
+['NINGUNA']
+[]
+U+9046
+12
+tí
+162.9
+遆.mp3
+
+遇
+['meet, come across, encounter']
+['encontrarse, encontrarse, encontrarse']
+['https://media.gettyimages.com/photos/restaurant-waitress-serving-food-to-guests-picture-id155428391?k=6&m=155428391&s=612x612&w=0&h=9KjQz4iVQ6nJP3U7vlF21SRLbT3uhCbA3vg5eiHSNbU=']
+U+9047
+12
+yù
+162.9
+遇.mp3
+
+遈
+['NONE']
+['NINGUNA']
+[]
+U+9048
+12
+shí
+162.9
+遈.mp3
+
+遉
+['spy, reconnoiter', ' detective']
+['espía, reconocimiento', 'detective']
+['NONE', 'https://media.gettyimages.com/photos/kid-detective-wears-trench-coat-and-searches-for-clues-picture-id501743936?k=6&m=501743936&s=612x612&w=0&h=7QJw_ocdsESa6c19yL8gwcZBzstsCBuWSzoM5RsMD94=']
+U+9049
+12
+zhēn
+162.9
+遉.mp3
+
+遊
+['wander, roam, travel']
+['vagar, vagar, viajar']
+['https://media.gettyimages.com/photos/businessman-on-business-trip-in-spain-picture-id1135709143?k=6&m=1135709143&s=612x612&w=0&h=7txwW1frZkZGdc4O0M9VYeonMYIm3nvmfpjkYWgrFtc=']
+U+904A
+12
+yóu
+162.9
+遊.mp3
+
+運
+['luck, fortune', ' ship, transport']
+['suerte, fortuna', 'barco, transporte']
+['https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=', 'https://media.gettyimages.com/photos/aerial-view-of-freight-ship-with-cargo-containers-picture-id489947758?k=6&m=489947758&s=612x612&w=0&h=5NtMngLajsf1qf4YY3NAuMLrbTGTxdyevK53fjfte4w=']
+U+904B
+12
+yùn
+162.9
+運.mp3
+
+遌
+['NONE']
+['NINGUNA']
+[]
+U+904C
+12
+è
+162.9
+遌.mp3
+
+遍
+['everywhere, all over, throughout']
+['en todas partes, en todas partes, en todas partes']
+['https://media.gettyimages.com/photos/the-benefits-of-yoga-downward-facing-dogs-all-muscles-of-the-upper-picture-id1270978599?k=6&m=1270978599&s=612x612&w=0&h=91BVl_ko735217P8mJ1FjMiG2YwZ3WPnnqA5roVK744=']
+U+904D
+12
+biàn
+162.9
+遍.mp3
+
+過
+['pass, pass through, go across']
+['pasar, pasar, cruzar']
+['https://media.gettyimages.com/photos/contactless-payment-picture-id537499433?k=6&m=537499433&s=612x612&w=0&h=lhXTrkonpU97FKOc9eCI6M5k5T2-FK_QOGpk6etpM-M=']
+U+904E
+11
+guò
+162.9
+過.mp3
+
+遏
+['stop, suppress, curb, check', ' a bar']
+['detener, suprimir, frenar, controlar', 'a bar']
+['NONE', 'https://media.gettyimages.com/photos/shot-of-a-nightclub-with-no-one-inside-picture-id1053941232?k=6&m=1053941232&s=612x612&w=0&h=fp0qwC9911o-POVkNVh3G8oCmJmxvqLMA3oedB9ULgE=']
+U+904F
+12
+è
+162.9
+遏.mp3
+
+遐
+['afar, distant', ' old, advanced in']
+['lejos', 'viejo, avanzado en']
+['https://media.gettyimages.com/photos/dancing-into-the-sunset-picture-id1153903902?k=6&m=1153903902&s=612x612&w=0&h=Mz90-pcoXARG51Zj1j8K6IlIPkCuankYV1w3yL6CxQk=', 'https://media.gettyimages.com/photos/classic-analog-typewriter-vs-modern-digital-hitech-laptop-computer-picture-id1174140578?k=6&m=1174140578&s=612x612&w=0&h=Bar_uZcr_AQa6hV8qtiIhMLH6NSB6GEmX7kffNl2wpc=']
+U+9050
+12
+xiá
+162.9
+遐.mp3
+
+遑
+['leisure, leisurely', ' hurry about']
+['ocio, pausado', 'apúrate']
+['https://media.gettyimages.com/photos/person-wearing-patterned-socks-with-feet-up-on-leather-sofa-picture-id1145040971?k=6&m=1145040971&s=612x612&w=0&h=w0PzJldQsn_b_Nf9Wzipo1akKXWc0tcYzzHZODdYzvU=', 'https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+9051
+12
+huáng
+162.9
+遑.mp3
+
+遒
+['strong, unyielding, forceful']
+['fuerte, inflexible, contundente']
+['https://media.gettyimages.com/photos/am-a-strong-woman-picture-id614012698?k=6&m=614012698&s=612x612&w=0&h=xkVq4YsfXEfueSpYst5_pJjnZGOWXUrYIMzntFUIIoo=']
+U+9052
+12
+qiú
+162.9
+遒.mp3
+
+道
+['path, road, street', ' method, way']
+['camino, camino, calle', 'método, camino']
+['https://media.gettyimages.com/vectors/curved-winding-road-with-oak-tree-road-to-success-background-vector-id1139644575?k=6&m=1139644575&s=612x612&w=0&h=rLE5TWtMbmR1I5BnrF53NVDIvxxUx9x3Pa2Q0TTRzjM=', 'https://media.gettyimages.com/vectors/route-planning-directions-and-locations-vector-id476092290?k=6&m=476092290&s=612x612&w=0&h=xYzbbbhzTY1isjX_vc6h_UxP0Mk45WLxE_KZO-GwYXA=']
+U+9053
+12
+dào
+162.9
+道.mp3
+
+達
+['arrive at, reach', ' intelligent']
+['llegar a', 'inteligente']
+['https://media.gettyimages.com/photos/closeup-of-mature-couple-opening-door-to-holiday-rental-apartment-picture-id825888028?k=6&m=825888028&s=612x612&w=0&h=1w31JgDEPkhXAhJbPzq2SPR3awGzekMkzr86G665hdU=', 'https://media.gettyimages.com/photos/smart-meter-in-the-kitchen-picture-id1002456858?k=6&m=1002456858&s=612x612&w=0&h=RtvHYhJI5pgSUxIYqxM51NdZyO__aQGY-S1eR3IVy60=']
+U+9054
+12
+dá
+162.9
+達.mp3
+
+違
+['disobey, violate, defy', ' be apart from']
+['desobedecer, violar, desafiar', 'estar aparte de']
+['https://media.gettyimages.com/photos/breaking-the-rules-picture-id157434459?k=6&m=157434459&s=612x612&w=0&h=nJffpwlthgwjKIsqzas3-Mv1zzvRTwwqv8cqSFpXCOY=', 'https://media.gettyimages.com/photos/opportunity-doesnt-hang-around-neither-should-you-picture-id1040964930?k=6&m=1040964930&s=612x612&w=0&h=mHPcqAiEnHnTgIGBxcKM76XvT1dOJU67ByeyODLIR7M=']
+U+9055
+12
+wéi
+162.9
+違.mp3
+
+遖
+['NONE']
+['NINGUNA']
+[]
+U+9056
+12
+nán
+162.9
+遖.mp3
+
+遗
+['lose', ' articles lost', ' omit']
+['perder', 'artículos perdidos', 'omitir']
+['https://media.gettyimages.com/photos/dollar-sign-blowing-away-picture-id1142952057?k=6&m=1142952057&s=612x612&w=0&h=sRSkIHfc35UQ3Rz6QEChBL3W0KW07OgVlkRzCbzXwgw=', 'https://media.gettyimages.com/photos/safeguard-your-valuables-picture-id172661755?k=6&m=172661755&s=612x612&w=0&h=ALyCWTbZV9a9EpGTiyeyzAf2B8-yzedJJOF8Buo6sVU=', 'https://media.gettyimages.com/illustrations/family-at-a-dining-table-celebrating-passover-festival-illustration-id170883351?k=6&m=170883351&s=612x612&w=0&h=AL4ViozZAZRDh170YTQ7WMgft6hh34nUeG6TpryTcVY=']
+U+9057
+12
+yí
+162.9
+遗.mp3
+
+遘
+['to meet', ' to come across']
+['reunirse', 'encontrarse con']
+['https://media.gettyimages.com/photos/welcome-to-the-best-company-in-the-business-picture-id1131971658?k=6&m=1131971658&s=612x612&w=0&h=xpMYJwcUBFTBYOB8rC1G-lYw-AeWvvZIpTmSdDM1_pM=', 'https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=']
+U+9058
+13
+gòu
+162.10
+遘.mp3
+
+遙
+['far away, distant, remote']
+['lejos, distante, remoto']
+['https://media.gettyimages.com/vectors/thin-line-vector-icon-set-pixel-perfect-editable-stroke-the-set-at-vector-id1217163115?k=6&m=1217163115&s=612x612&w=0&h=xKZlJa4_34T878RP-7vpTCXvkwXrqfCTTvPtEIcrq2s=']
+U+9059
+13
+yáo
+162.10
+遙.mp3
+
+遚
+['NONE']
+['NINGUNA']
+[]
+U+905A
+12
+chòu
+162.10
+遚.mp3
+
+遛
+['take walk, stroll']
+['caminar, pasear']
+['https://media.gettyimages.com/photos/high-angle-view-of-people-on-street-picture-id973190966?k=6&m=973190966&s=612x612&w=0&h=RXCH2TYW7Dwd06iCes1x1TBSwhC4w8fi4QNwN_LF3eg=']
+U+905B
+13
+liú
+162.10
+遛.mp3
+
+遜
+['humble, modest', ' yield']
+['humilde, modesto', 'rendimiento']
+['https://media.gettyimages.com/photos/brazilian-children-at-home-rio-de-janeiro-state-picture-id1018966394?k=6&m=1018966394&s=612x612&w=0&h=Co7gK_1Qme29oCI9R1vV3tN8xa4Cww7OxvAxkWMdiEY=', 'https://media.gettyimages.com/photos/road-sign-give-way-isolated-on-white-picture-id155144020?k=6&m=155144020&s=612x612&w=0&h=VsiSIz8QudEP5pUep-7iTjNqrzWF0TzxYn-DC8OvU2I=']
+U+905C
+13
+xùn
+162.10
+遜.mp3
+
+遝
+['mixed, abundant, assorted']
+['mixto, abundante, surtido']
+['https://media.gettyimages.com/photos/scattering-of-printed-portraits-picture-id546206501?k=6&m=546206501&s=612x612&w=0&h=j-RC3fc492UoAW5iqOYoXOzP9loonhwUOTZi9M9m6Q8=']
+U+905D
+13
+tà
+162.10
+遝.mp3
+
+遞
+['hand over, deliver', ' substitute']
+['entregar, entregar', 'sustituir']
+['https://media.gettyimages.com/photos/close-up-of-woman-receiving-take-away-food-delivery-picture-id1149029916?k=6&m=1149029916&s=612x612&w=0&h=hrICsLi5tMleABEVZWVYvHRWUfUJA7UW6br0BIk_pcU=', 'https://media.gettyimages.com/photos/kids-practicing-soccer-at-camp-picture-id841397554?k=6&m=841397554&s=612x612&w=0&h=lmqlaV7lVrBrx1I1-N-w1WlJbkaAlOIJu_7VTkUNE7k=']
+U+905E
+13
+dì
+162.10
+遞.mp3
+
+遟
+['late, tardy', ' slow', ' delay']
+['tarde, tarde', 'lento', 'retrasar']
+['https://media.gettyimages.com/photos/biological-clock-picture-id1089653320?k=6&m=1089653320&s=612x612&w=0&h=qn-1jFwmJXpqNJHPaj1OzU1uCm_Vqyay366GCaBczMw=', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/flight-delays-delayed-departures-arrivals-screen-picture-id93466101?k=6&m=93466101&s=612x612&w=0&h=bhVb13Y7Vgi8TYgu93SuXX_6HyHCIL7S0tbHzjDQjFA=']
+U+905F
+13
+chí
+162.10
+遟.mp3
+
+遠
+['distant, remote, far', ' profound']
+['distante, remoto, lejano', 'profundo']
+['https://media.gettyimages.com/vectors/thin-line-vector-icon-set-pixel-perfect-editable-stroke-the-set-at-vector-id1217163115?k=6&m=1217163115&s=612x612&w=0&h=xKZlJa4_34T878RP-7vpTCXvkwXrqfCTTvPtEIcrq2s=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+9060
+13
+yuǎn
+162.10
+遠.mp3
+
+遡
+['go upstream', ' trace source', ' formerly']
+['ir río arriba', 'fuente de rastreo', 'antes']
+['https://media.gettyimages.com/photos/man-bikes-upstream-in-mountain-meadow-picture-id962898846?k=6&m=962898846&s=612x612&w=0&h=J8Cyb6WxwQqXlc6iZAkmU4CnG16M7cCFH92I0lRxCS0=', 'https://media.gettyimages.com/photos/patient-taking-a-echocardiogram-picture-id94501567?k=6&m=94501567&s=612x612&w=0&h=4LXLYZKZQZnCZYHejtivmGYFei1MKSj6MrVxjS-9PVs=', 'https://media.gettyimages.com/vectors/arrows-icons-conc-series-vector-id532354030?k=6&m=532354030&s=612x612&w=0&h=0eSpbEVFs05qg4m1CQYEF0cZzwjxebK9ILrGIvLHAO4=']
+U+9061
+13
+sù
+162.10
+遡.mp3
+
+遢
+['careless, negligent, slipshod']
+['descuidado, negligente, descuidado']
+['https://media.gettyimages.com/photos/stuck-at-the-office-picture-id493375210?k=6&m=493375210&s=612x612&w=0&h=u7v96moPuqBR3VHHgMxnNeKEZ1BGz15GHgpjjkyavHE=']
+U+9062
+13
+tà
+162.10
+遢.mp3
+
+遣
+['send, dispatch', ' send off, exile']
+['enviar, enviar', 'enviar, exilio']
+['https://media.gettyimages.com/vectors/email-and-messaging-line-icons-editable-stroke-pixel-perfect-for-and-vector-id1187007033?k=6&m=1187007033&s=612x612&w=0&h=wseXwqYAjUGoudzuOkAPgqmdJ035hZAT5OVMpthjisg=', 'NONE']
+U+9063
+13
+qiǎn
+162.10
+遣.mp3
+
+遤
+['NONE']
+['NINGUNA']
+[]
+U+9064
+13
+mǎ
+162.10
+遤.mp3
+
+遥
+['far away, distant, remote']
+['lejos, distante, remoto']
+['https://media.gettyimages.com/vectors/thin-line-vector-icon-set-pixel-perfect-editable-stroke-the-set-at-vector-id1217163115?k=6&m=1217163115&s=612x612&w=0&h=xKZlJa4_34T878RP-7vpTCXvkwXrqfCTTvPtEIcrq2s=']
+U+9065
+13
+yáo
+162.10
+遥.mp3
+
+遦
+['NONE']
+['NINGUNA']
+[]
+U+9066
+14
+guàn
+162.11
+遦.mp3
+
+遧
+['NONE']
+['NINGUNA']
+[]
+U+9067
+14
+zhāng
+162.11
+遧.mp3
+
+遨
+['ramble, roam', ' travel for pleasure']
+['divagar, deambular', 'viajar por placer']
+['https://media.gettyimages.com/photos/weve-made-it-all-this-way-i-am-proud-picture-id904172104?k=6&m=904172104&s=612x612&w=0&h=nqsWvOdPG7oyT1J9v4bd0OtL1yWhNj4u7JsSOUcMBd4=', 'https://media.gettyimages.com/photos/woman-chasing-man-while-riding-bicycle-picture-id509403985?k=6&m=509403985&s=612x612&w=0&h=HXqlas81oPbJWz4Tvh3ZWzUWsGmRWyloMMwdhK1kJsY=']
+U+9068
+13
+áo
+162.11
+遨.mp3
+
+適
+['match, comfortable', ' just']
+['partido, cómodo', 'sólo']
+['https://media.gettyimages.com/photos/couple-watching-football-match-on-tv-picture-id919436682?k=6&m=919436682&s=612x612&w=0&h=5z0ycn0182MMOWQF_1Zd1JB2UYMeWUGK_a-dKHvcz4Y=', 'https://media.gettyimages.com/photos/gavel-picture-id174197278?k=6&m=174197278&s=612x612&w=0&h=Q6EfAZkvopPQa8P-b71PeS_5YW5pkFgfvfqyvTrimlI=']
+U+9069
+14
+shì
+162.11
+適.mp3
+
+遪
+['NONE']
+['NINGUNA']
+[]
+U+906A
+14
+cà
+162.11
+遪.mp3
+
+遫
+['speed']
+['velocidad']
+['https://media.gettyimages.com/vectors/fast-time-icons-multi-series-vector-id1060491424?k=6&m=1060491424&s=612x612&w=0&h=Vj5v7yQgfgpuIcs7vRfSuDQqsJv5ER5sEvnFgeaiZK8=']
+U+906B
+14
+chì
+162.11
+遫.mp3
+
+遬
+['NONE']
+['NINGUNA']
+[]
+U+906C
+14
+sù
+162.11
+遬.mp3
+
+遭
+['come across, meet with, encounter']
+['encontrar, encontrar, encontrar']
+['https://media.gettyimages.com/photos/restaurant-waitress-serving-food-to-guests-picture-id155428391?k=6&m=155428391&s=612x612&w=0&h=9KjQz4iVQ6nJP3U7vlF21SRLbT3uhCbA3vg5eiHSNbU=']
+U+906D
+14
+zāo
+162.11
+遭.mp3
+
+遮
+['cover, shield, protect']
+['cubrir, proteger, proteger']
+['https://media.gettyimages.com/photos/business-man-holding-a-red-umbrella-picture-id182509479?k=6&m=182509479&s=612x612&w=0&h=h7piFG1rGIoINeaed6SVHVB6oHVoDcJn6v3B1M5FqZs=']
+U+906E
+14
+zhē
+162.11
+遮.mp3
+
+遯
+['deceive, hide, conceal', ' flee']
+['engañar, esconder, ocultar', 'huir']
+['https://media.gettyimages.com/photos/woman-hiding-behind-cubicle-in-office-picture-id103060206?k=6&m=103060206&s=612x612&w=0&h=mm6WgYBRnMqYRtWAJQ3QgJO6kgpFZQ8PhuCur-dNKjE=', 'https://media.gettyimages.com/photos/balck-and-white-image-of-mans-silhouette-running-picture-id185086433?k=6&m=185086433&s=612x612&w=0&h=A_fJXj_dIMYvHG4YqCofNbE21TG8WV9NDVr5U78tnms=']
+U+906F
+14
+dùn
+162.11
+遯.mp3
+
+遰
+['grunting sound of pigs', ' clash']
+['gruñidos de cerdos', 'choque']
+['NONE', 'https://media.gettyimages.com/vectors/dialogue-vector-id537364722?k=6&m=537364722&s=612x612&w=0&h=WSDizlyO_n7zLqOxSdK8wptufUkIu4mwbHR8Jk0nnN4=']
+U+9070
+14
+dì
+162.11
+遰.mp3
+
+遱
+['NONE']
+['NINGUNA']
+[]
+U+9071
+14
+lóu
+162.11
+遱.mp3
+
+遲
+['late, tardy', ' slow', ' delay']
+['tarde, tarde', 'lento', 'retrasar']
+['https://media.gettyimages.com/photos/biological-clock-picture-id1089653320?k=6&m=1089653320&s=612x612&w=0&h=qn-1jFwmJXpqNJHPaj1OzU1uCm_Vqyay366GCaBczMw=', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/flight-delays-delayed-departures-arrivals-screen-picture-id93466101?k=6&m=93466101&s=612x612&w=0&h=bhVb13Y7Vgi8TYgu93SuXX_6HyHCIL7S0tbHzjDQjFA=']
+U+9072
+15
+chí
+162.12
+遲.mp3
+
+遳
+['NONE']
+['NINGUNA']
+[]
+U+9073
+13
+cuō
+162.11
+遳.mp3
+
+遴
+['select, choose', ' surname']
+['seleccionar, elegir', 'apellido']
+['https://media.gettyimages.com/photos/unrecognizable-woman-marvels-at-grocery-bread-selection-picture-id1041147560?k=6&m=1041147560&s=612x612&w=0&h=eXanrJD97jr5neEICYjhjryM0vRdY4aPauZE3AntISc=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9074
+15
+lín
+162.12
+遴.mp3
+
+遵
+['obey, comply with, follow', ' honor']
+['obedecer, cumplir, seguir', 'honor']
+['https://media.gettyimages.com/vectors/leadership-vector-id535677723?k=6&m=535677723&s=612x612&w=0&h=qO5yrqMSQfn9dV9uxMFW8ZLeQ5gMpRtGcCOSpbqVPnk=', 'https://media.gettyimages.com/vectors/rainbow-heartshape-vector-id1132871643?k=6&m=1132871643&s=612x612&w=0&h=QeIJ5y-s2r9L_bHmPQTUMVD6KI5tDdaeV_j3Gc6qYus=']
+U+9075
+15
+zūn
+162.12
+遵.mp3
+
+遶
+['entwine', ' wind around', ' surround']
+['entrelazar', 'viento alrededor', 'rodear']
+['https://media.gettyimages.com/photos/rope-picture-id174903472?k=6&m=174903472&s=612x612&w=0&h=BBfLQanhgQq_6A7cIelkmVjn9GKpEHFJQiYFrD30cXo=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/human-crowd-surrounding-three-people-on-white-background-picture-id1181760380?k=6&m=1181760380&s=612x612&w=0&h=JHPuWXN7ABxU8jG-niKdEoTgQSEOQ8yBduLY2Ao712I=']
+U+9076
+15
+rào
+162.12
+遶.mp3
+
+遷
+['move, shift, change', ' transfer']
+['moverse, cambiar, cambiar', 'transferir']
+['https://media.gettyimages.com/photos/people-passing-cardboard-boxes-picture-id127825099?k=6&m=127825099&s=612x612&w=0&h=YTgByRdNeaNdCQLrgmGPwe-CvV7MXAV4uM2eY_rt91o=', 'https://media.gettyimages.com/photos/sending-money-picture-id1149123484?k=6&m=1149123484&s=612x612&w=0&h=wpX_ZB_BQTM4qHZzEKr1QB7DKTm65X5RqMKIkWooU_8=']
+U+9077
+15
+qiān
+162.12 162.11
+遷.mp3
+
+選
+['choose, select', ' elect', ' election']
+['elegir, seleccionar', 'electo', 'elección']
+['https://media.gettyimages.com/photos/unrecognizable-woman-marvels-at-grocery-bread-selection-picture-id1041147560?k=6&m=1041147560&s=612x612&w=0&h=eXanrJD97jr5neEICYjhjryM0vRdY4aPauZE3AntISc=', 'https://media.gettyimages.com/photos/low-angle-view-of-people-lined-up-to-vote-picture-id1203196311?k=6&m=1203196311&s=612x612&w=0&h=6wSoEgd2SbqRFWDoLQS24iXkzmV7K9to-__I0L5VVTo=', 'https://media.gettyimages.com/photos/low-angle-view-of-people-lined-up-to-vote-picture-id1203196311?k=6&m=1203196311&s=612x612&w=0&h=6wSoEgd2SbqRFWDoLQS24iXkzmV7K9to-__I0L5VVTo=']
+U+9078
+15
+xuǎn
+162.12
+選.mp3
+
+遹
+['comply with, obey', ' shun, avoid']
+['cumplir, obedecer', 'evitar']
+['https://media.gettyimages.com/vectors/compliance-line-icon-set-vector-id1087301088?k=6&m=1087301088&s=612x612&w=0&h=-ONRgSYqz6EOBhdHwPe-4qPJX_jMRZ5NZzc13TPKXEI=', 'NONE']
+U+9079
+15
+yù
+162.12
+遹.mp3
+
+遺
+['lose', ' articles lost', ' omit']
+['perder', 'artículos perdidos', 'omitir']
+['https://media.gettyimages.com/photos/dollar-sign-blowing-away-picture-id1142952057?k=6&m=1142952057&s=612x612&w=0&h=sRSkIHfc35UQ3Rz6QEChBL3W0KW07OgVlkRzCbzXwgw=', 'https://media.gettyimages.com/photos/safeguard-your-valuables-picture-id172661755?k=6&m=172661755&s=612x612&w=0&h=ALyCWTbZV9a9EpGTiyeyzAf2B8-yzedJJOF8Buo6sVU=', 'https://media.gettyimages.com/illustrations/family-at-a-dining-table-celebrating-passover-festival-illustration-id170883351?k=6&m=170883351&s=612x612&w=0&h=AL4ViozZAZRDh170YTQ7WMgft6hh34nUeG6TpryTcVY=']
+U+907A
+15
+yí
+162.12
+遺.mp3
+
+遻
+['meet']
+['reunirse']
+['https://media.gettyimages.com/photos/welcome-to-the-best-company-in-the-business-picture-id1131971658?k=6&m=1131971658&s=612x612&w=0&h=xpMYJwcUBFTBYOB8rC1G-lYw-AeWvvZIpTmSdDM1_pM=']
+U+907B
+15
+è
+162.12
+遻.mp3
+
+遼
+['distant, far']
+['distante, lejos']
+['https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=']
+U+907C
+15
+liáo
+162.12
+遼.mp3
+
+遽
+['suddenly, unexpectedly', ' at once']
+['de repente, inesperadamente', 'En seguida']
+['NONE', 'https://media.gettyimages.com/vectors/new-version-of-slim-smartphone-similar-to-iphone-with-blank-white-and-vector-id1183627971?k=6&m=1183627971&s=612x612&w=0&h=o6Pdppj9uoCCRRDUy3uH5Hs_1F85WODOxLf0ff7D9ig=']
+U+907D
+16
+jù
+162.13
+遽.mp3
+
+遾
+['NONE']
+['NINGUNA']
+[]
+U+907E
+16
+shì
+162.13
+遾.mp3
+
+避
+['avoid', ' turn aside', ' escape', ' hide']
+['evitar', 'desviar', 'escape', 'esconder']
+['https://media.gettyimages.com/photos/businesswoman-with-protective-gloves-and-face-mask-at-office-picture-id1227207229?k=6&m=1227207229&s=612x612&w=0&h=VnQwRWMObGzJQ67QZU8OqahE_y6OEOjciUrdvXL3h4A=', 'https://media.gettyimages.com/photos/homosexual-couple-hugging-while-looking-aside-and-smiling-with-and-picture-id1257060226?k=6&m=1257060226&s=612x612&w=0&h=NamsZPEi0srH7xQsA8QHAOl_R58zPbaH9EldYvRSt4s=', 'https://media.gettyimages.com/photos/bathroom-faucet-picture-id182691828?k=6&m=182691828&s=612x612&w=0&h=XGIfWu-LE1yOD_41L0qk3iTQ9TNm-EcuEzdCUt_zZ2A=', 'https://media.gettyimages.com/photos/woman-hiding-behind-cubicle-in-office-picture-id103060206?k=6&m=103060206&s=612x612&w=0&h=mm6WgYBRnMqYRtWAJQ3QgJO6kgpFZQ8PhuCur-dNKjE=']
+U+907F
+16
+bì
+162.13
+避.mp3
+
+邀
+['invite, welcome', ' meet, intercept']
+['invitar, bienvenido', 'encontrarse, interceptar']
+['https://media.gettyimages.com/photos/greeting-guests-at-housewarming-party-picture-id1078076590?k=6&m=1078076590&s=612x612&w=0&h=iQa7HFkpZqNlAa7r7f2nYWSu0EnvULZQdxOZM2_5eyo=', 'https://media.gettyimages.com/photos/businesswoman-at-apex-of-crowd-picture-id151811191?k=6&m=151811191&s=612x612&w=0&h=T5EDW3iHjKnDlb7FOs6rDG9jMnlo1fkwOc9Gcxglbh8=']
+U+9080
+16
+yāo
+162.13
+邀.mp3
+
+邁
+['take a big stride', ' pass by']
+['dar un gran paso', 'pasar por']
+['https://media.gettyimages.com/photos/walking-galpagos-tortoise-picture-id678542006?k=6&m=678542006&s=612x612&w=0&h=zIuJa-zAOXruxzk2bAhu7EgA4_PHoNRFoAJRnCXWl-A=', 'https://media.gettyimages.com/photos/close-up-of-exchanging-relay-baton-on-a-race-picture-id491468940?k=6&m=491468940&s=612x612&w=0&h=4YPrHAtX1Yp8Ht7Re5-R97Ax5op8VA6sFZNSwQhMew4=']
+U+9081
+15
+mài
+162.13
+邁.mp3
+
+邂
+['unexpected meeting', ' encounter by']
+['encuentro inesperado', 'encuentro por']
+['https://media.gettyimages.com/photos/young-man-with-daisies-in-his-hair-watching-something-picture-id1223873461?k=6&m=1223873461&s=612x612&w=0&h=f2_TayWDprzXUIa5USs1M2DXoJ88wS_w2qmuoM1kbOw=', 'https://media.gettyimages.com/vectors/business-meetings-and-seminars-icons-vector-id1085356050?k=6&m=1085356050&s=612x612&w=0&h=OuH9UjwQA1BrmDtEncpGPtVSaoQyshgtjfQnFntpALc=']
+U+9082
+16
+xiè
+162.13
+邂.mp3
+
+邃
+['profound, detailed', ' deep']
+['profundo, detallado', 'profundo']
+['https://media.gettyimages.com/photos/screen-choice-picture-id875039148?k=6&m=875039148&s=612x612&w=0&h=JBZHkKW4tIYKfywqdfaOMgCh6k_tUs0stxrw8-hKA6o=', 'https://media.gettyimages.com/photos/bubble-in-blue-ocean-picture-id674153270?k=6&m=674153270&s=612x612&w=0&h=tLmU7aI6FtUQCGhIeA3KcySlOecpqGFvtIK7PqBetUM=']
+U+9083
+17
+suì
+162.13
+邃.mp3
+
+還
+['still, yet, also, besides']
+['todavía, todavía, también, además']
+['NONE']
+U+9084
+16
+hái
+162.13
+還.mp3
+
+邅
+['hesitant, faltering']
+['vacilante, vacilante']
+['NONE']
+U+9085
+16
+zhān
+162.13
+邅.mp3
+
+邆
+['NONE']
+['NINGUNA']
+[]
+U+9086
+15
+téng
+162.12
+邆.mp3
+
+邇
+['be near, be close', ' recently']
+['estar cerca, estar cerca', 'recientemente']
+['https://media.gettyimages.com/vectors/male-and-female-figures-holding-hands-vector-id1140397994?k=6&m=1140397994&s=612x612&w=0&h=IG0F3UVI_5doqKgZqYU9pN-itXwHBlQxGycEnTSB1aA=', 'https://media.gettyimages.com/photos/young-couple-buying-a-car-picture-id988321834?k=6&m=988321834&s=612x612&w=0&h=u-F5olaM8fioHmYRvGB5SRVLnnVX7CnXXVHKlrXQgfY=']
+U+9087
+17
+ěr
+162.14
+邇.mp3
+
+邈
+['far, distant, remote', ' slight']
+['lejos, distante, remoto', 'leve']
+['https://media.gettyimages.com/vectors/thin-line-vector-icon-set-pixel-perfect-editable-stroke-the-set-at-vector-id1217163115?k=6&m=1217163115&s=612x612&w=0&h=xKZlJa4_34T878RP-7vpTCXvkwXrqfCTTvPtEIcrq2s=', 'https://media.gettyimages.com/photos/aged-paper-with-slight-yellowing-picture-id117719217?k=6&m=117719217&s=612x612&w=0&h=UKHgKhw-RCB6FiLnz4lr8yvn0C8IpP9b7DjFuuQPm58=']
+U+9088
+17
+miǎo
+162.14
+邈.mp3
+
+邉
+['edge, margin, side, border']
+['borde, margen, lado, borde']
+['NONE']
+U+9089
+17
+biān
+162.13
+邉.mp3
+
+邊
+['edge, margin, side, border']
+['borde, margen, lado, borde']
+['NONE']
+U+908A
+18
+biān
+162.15
+邊.mp3
+
+邋
+['rags']
+['harapos']
+['https://media.gettyimages.com/photos/napkin-picture-id175438100?k=6&m=175438100&s=612x612&w=0&h=mKfLeifLZVIU9dFk-aFlwcJcsUPc2DTAjk-dIWxnscw=']
+U+908B
+18
+lā
+162.15
+邋.mp3
+
+邌
+['to walk slowly', ' to parade']
+['caminar despacio', 'desfilar']
+['https://media.gettyimages.com/photos/crossing-the-road-with-everyone-picture-id1153691307?k=6&m=1153691307&s=612x612&w=0&h=67ECffwHbqrErpzR3nsSfXgBMyaPyO9FE1pzFMT8CQk=', 'https://media.gettyimages.com/photos/st-patricks-day-parade-picture-id471776644?k=6&m=471776644&s=612x612&w=0&h=hezS9fVIJM4VZGN8nl8odSoHkCodBV85VwvDNox4Icw=']
+U+908C
+18
+lí
+162.15
+邌.mp3
+
+邍
+['NONE']
+['NINGUNA']
+[]
+U+908D
+19
+yuán
+162.16
+邍.mp3
+
+邎
+['NONE']
+['NINGUNA']
+[]
+U+908E
+21
+yáo
+162.17
+邎.mp3
+
+邏
+['patrol', ' inspect', ' watch']
+['patrulla', 'inspeccionar', 'reloj']
+['https://media.gettyimages.com/photos/close-up-watching-picture-id1128252197?k=6&m=1128252197&s=612x612&w=0&h=KCLkUhb2ptUl1CL1Qk59mZe3s6ByAIuj1wQOGEUITFY=', 'https://media.gettyimages.com/vectors/tick-icon-vector-symbol-vector-id971623860?k=6&m=971623860&s=612x612&w=0&h=WIkXzhiOjBk6YqWGIbzo-_ttLKbDnK0y2GsYGfGEVAA=', 'https://media.gettyimages.com/vectors/time-icons-vector-id1176451173?k=6&m=1176451173&s=612x612&w=0&h=oCCbu6Zel4C64Q_N7CDG5z7PSn0KEg0QMU8jBq1WCqc=']
+U+908F
+22
+luó
+162.19
+邏.mp3
+
+邐
+['meandering, winding']
+['serpenteante, sinuoso']
+['https://media.gettyimages.com/vectors/arrow-icons-for-mobile-and-web-vector-id1080795506?k=6&m=1080795506&s=612x612&w=0&h=uTNwwaLLNbKJRmZv98_EZmmMb-ZhiZJGOufEXyR7yw8=']
+U+9090
+22
+lǐ
+162.19
+邐.mp3
+
+邑
+['area, district, city, state']
+['área, distrito, ciudad, estado']
+['https://media.gettyimages.com/photos/aerial-view-a-view-of-small-town-in-the-morning-picture-id873078770?k=6&m=873078770&s=612x612&w=0&h=5Tu0m7YnB--Bq_tYiiggA2NW8cp_2XQVvhjivRUo8Z8=']
+U+9091
+7
+yì
+163.0
+邑.mp3
+
+邒
+['NONE']
+['NINGUNA']
+[]
+U+9092
+4
+tíng
+163.2
+邒.mp3
+
+邓
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9093
+4
+dèng
+163.2
+邓.mp3
+
+邔
+['NONE']
+['NINGUNA']
+[]
+U+9094
+5
+qǐ
+163.3
+邔.mp3
+
+邕
+['former or literary name for Nanning (in Guangxi)']
+['nombre anterior o literario de Nanning (en Guangxi)']
+['NONE']
+U+9095
+10
+yōng
+163.3
+邕.mp3
+
+邖
+['NONE']
+['NINGUNA']
+[]
+U+9096
+5
+shān
+163.3
+邖.mp3
+
+邗
+['an ancient place in the state of Wu']
+['un lugar antiguo en el estado de Wu']
+['NONE']
+U+9097
+5
+hán
+163.3
+邗.mp3
+
+邘
+['state in Henan province']
+['estado en la provincia de Henan']
+['https://media.gettyimages.com/vectors/province-of-china-vector-id165631366?k=6&m=165631366&s=612x612&w=0&h=FLmNlZXLV_c21bVAFjCf5Z0j0pqrKWsiKXbCQSZl9y0=']
+U+9098
+5
+yú
+163.3
+邘.mp3
+
+邙
+['mountain in Henan province']
+['montaña en la provincia de Henan']
+['https://media.gettyimages.com/photos/the-scenery-of-guoliang-village-of-taihang-mountainhenan-picture-id685032993?k=6&m=685032993&s=612x612&w=0&h=-iDm8Du5ExqiYLA62pwo36h9DDombO9UZTAJew46Vpk=']
+U+9099
+5
+máng
+163.3
+邙.mp3
+
+邚
+['NONE']
+['NINGUNA']
+[]
+U+909A
+5
+rú
+163.3
+邚.mp3
+
+邛
+['in distress', ' a mound']
+['en peligro', 'un montículo']
+['https://media.gettyimages.com/photos/trying-to-drag-herself-out-of-the-doom-and-gloom-picture-id1129124169?k=6&m=1129124169&s=612x612&w=0&h=PNJAZzVm0DRH1-e4pUOBBPaPTSTwS-f5Tn_lDBk5sa0=', 'https://media.gettyimages.com/photos/bigger-bucks-with-path-picture-id155148942?k=6&m=155148942&s=612x612&w=0&h=8YN-IiGlLCsThtk-q0rXLIWFwVRl_EapWBQ_UwRDigY=']
+U+909B
+5
+qióng
+163.3
+邛.mp3
+
+邜
+['NONE']
+['NINGUNA']
+[]
+U+909C
+5
+xī
+163.3
+邜.mp3
+
+邝
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+909D
+5
+kuàng
+163.3
+邝.mp3
+
+邞
+['NONE']
+['NINGUNA']
+[]
+U+909E
+6
+fū
+163.4
+邞.mp3
+
+邟
+['NONE']
+['NINGUNA']
+[]
+U+909F
+6
+kàng
+163.4
+邟.mp3
+
+邠
+['county in Shaanxi province']
+['condado en la provincia de Shaanxi']
+['https://media.gettyimages.com/photos/barbecue-picture-id1279633390?k=6&m=1279633390&s=612x612&w=0&h=W5RB3m4jSi_IaCRNehhZKJ3iDZY_uiyXsh3DWoFM-DI=']
+U+90A0
+6
+bīn
+163.4
+邠.mp3
+
+邡
+['name of a district in Sichuan']
+['nombre de un distrito en Sichuan']
+['NONE']
+U+90A1
+6
+fāng
+163.4
+邡.mp3
+
+邢
+['surname', " state in today's Hebei"]
+['apellido', 'estado en Hebei de hoy']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE']
+U+90A2
+6
+xíng
+163.4
+邢.mp3
+
+那
+['that, that one, those']
+['ese, ese, esos']
+['https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=']
+U+90A3
+6
+nà
+163.4
+那.mp3
+
+邤
+['NONE']
+['NINGUNA']
+[]
+U+90A4
+6
+xīn
+163.4
+邤.mp3
+
+邥
+['NONE']
+['NINGUNA']
+[]
+U+90A5
+6
+shěn
+163.4
+邥.mp3
+
+邦
+['nation, country, state']
+['nación, país, estado']
+['NONE']
+U+90A6
+6
+bāng
+163.4
+邦.mp3
+
+邧
+['town in Shanxi province']
+['ciudad en la provincia de shanxi']
+['https://media.gettyimages.com/vectors/hong-qiao-bridge-vector-id647040580?k=6&m=647040580&s=612x612&w=0&h=IiLK-OlzK3WsYEJIxmqaL-FKQ3m4_jGfgMTGnNMTL1c=']
+U+90A7
+6
+yuán
+163.4
+邧.mp3
+
+邨
+['village, hamlet', ' rustic']
+['pueblo, aldea', 'rústico']
+['https://media.gettyimages.com/photos/kronborg-castle-picture-id168590461?k=6&m=168590461&s=612x612&w=0&h=rXy6XhG2UtG7XfyXnOx2ysabFhCDaGV6_QWX69dBQNM=', 'https://media.gettyimages.com/photos/actual-rustic-kitchen-with-utensils-for-cooking-table-at-the-with-picture-id937599146?k=6&m=937599146&s=612x612&w=0&h=6XSeAJB3QoM1TTtpjtNNO52F-mI3bJALdRO3pBHpTzE=']
+U+90A8
+6
+cūn
+163.4
+邨.mp3
+
+邩
+['NONE']
+['NINGUNA']
+[]
+U+90A9
+6
+huǒ
+163.4
+邩.mp3
+
+邪
+['wrong, evil, depraved, vicious, perverse, heterodox']
+['incorrecto, malvado, depravado, vicioso, perverso, heterodoxo']
+['NONE']
+U+90AA
+6
+xié
+163.4
+邪.mp3
+
+邫
+['NONE']
+['NINGUNA']
+[]
+U+90AB
+11
+bāng
+163.4
+邫.mp3
+
+邬
+['various place names', ' surname']
+['varios nombres de lugares', 'apellido']
+['https://media.gettyimages.com/photos/london-street-signs-picture-id143436773?k=6&m=143436773&s=612x612&w=0&h=KmpcfDQr4AvZ80l65Wv2vGOhXswnj6ogNDfhZRPraAY=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90AC
+6
+wū
+163.4
+邬.mp3
+
+邭
+['NONE']
+['NINGUNA']
+[]
+U+90AD
+7
+jù
+163.5
+邭.mp3
+
+邮
+['postal, mail', ' post office']
+['apartado Postal', 'oficina postal']
+['https://media.gettyimages.com/vectors/postcard-vector-id990728066?k=6&m=990728066&s=612x612&w=0&h=vHH5gw2XmG7FfUTyg-dIVYBu1GfrV9jGZm6Zi6c1ckI=', 'https://media.gettyimages.com/vectors/postal-stamps-vector-id185366314?k=6&m=185366314&s=612x612&w=0&h=9H6UNLEqS0fRy60XSypZEv3Nzw_yVdsTqcGborjVlAw=']
+U+90AE
+7
+yóu
+163.5
+邮.mp3
+
+邯
+['city in Hebei province', ' various']
+['ciudad en la provincia de Hebei', 'varios']
+['https://media.gettyimages.com/photos/china-hebei-province-zhengzhou-highway-interchange-at-sunset-picture-id691042495?k=6&m=691042495&s=612x612&w=0&h=SA9LkjKH-3EZDXD4SX1VpPEpbbeQiNcGTo2RP7yRGAc=', 'https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+90AF
+7
+hán
+163.5
+邯.mp3
+
+邰
+['surname', ' state in modern Shanxi']
+['apellido', 'estado en Shanxi moderno']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE']
+U+90B0
+7
+tái
+163.5
+邰.mp3
+
+邱
+['surname', ' hill', ' mound', ' grave']
+['apellido', 'colina', 'montículo', 'grave']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/vectors/colorful-abstract-background-vector-id1145611414?k=6&m=1145611414&s=612x612&w=0&h=51zX42NH2_uszv-ORht0_KQt8_oYynSH_aBBUgXXNAY=', 'https://media.gettyimages.com/photos/bigger-bucks-with-path-picture-id155148942?k=6&m=155148942&s=612x612&w=0&h=8YN-IiGlLCsThtk-q0rXLIWFwVRl_EapWBQ_UwRDigY=', 'https://media.gettyimages.com/photos/closeup-portrait-of-beautiful-young-woman-looking-in-camera-shot-on-picture-id1019899574?k=6&m=1019899574&s=612x612&w=0&h=YsAERDosr-7doC8Fh7H6ru7qxIypt7pKjWX56E7zdB8=']
+U+90B1
+7
+qiū
+163.5
+邱.mp3
+
+邲
+['good-looking', ' name of a place']
+['guapo', 'nombre de un lugar']
+['https://media.gettyimages.com/photos/playful-young-family-at-home-picture-id540611592?k=6&m=540611592&s=612x612&w=0&h=sWa1Xfne0114WaIHMPfMZnrgsdcH4cIcnfaN9fks3Go=', 'https://media.gettyimages.com/vectors/check-mark-icon-set-vector-design-vector-id1090437826?k=6&m=1090437826&s=612x612&w=0&h=6lW5TOUCkEcAj7bw6V3ouHR2NhZj7i3IJ5z9_pg9QKY=']
+U+90B2
+7
+bì
+163.5
+邲.mp3
+
+邳
+['a department in the State of Lu', ' in what is now Shantung or N. China']
+['un departamento en el estado de Lu', 'en lo que ahora es Shantung o el norte de China']
+['NONE', 'https://media.gettyimages.com/photos/cross-sea-bridge-pavement-picture-id1217153910?k=6&m=1217153910&s=612x612&w=0&h=zNjNgBa6z6jIk7rdEIOKlNFQmsvP5zeYUa64GiBISWI=']
+U+90B3
+7
+pī
+163.5
+邳.mp3
+
+邴
+['name of a city in the ancient state of Song, in what is now Shandong', ' pleased']
+['nombre de una ciudad en el antiguo estado de Song, en lo que ahora es Shandong', 'satisfecho']
+['NONE', 'https://media.gettyimages.com/vectors/digital-marketing-icons-line-series-vector-id1056786280?k=6&m=1056786280&s=612x612&w=0&h=0pyKiogC024vPSoKD3btMtcLNiRYRpKU1SwSeOwWEVM=']
+U+90B4
+7
+bǐng
+163.5
+邴.mp3
+
+邵
+['surname', ' various place names']
+['apellido', 'varios nombres de lugares']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/london-street-signs-picture-id143436773?k=6&m=143436773&s=612x612&w=0&h=KmpcfDQr4AvZ80l65Wv2vGOhXswnj6ogNDfhZRPraAY=']
+U+90B5
+7
+shào
+163.5
+邵.mp3
+
+邶
+["place in today's Henan province"]
+['lugar en la actual provincia de Henan']
+['https://media.gettyimages.com/photos/night-view-of-luoyang-city-henan-province-china-picture-id700736203?k=6&m=700736203&s=612x612&w=0&h=V3YHaBE_a9o9MBQ3x2fRmb1AT5b_r-IF1jnOkOBSx7I=']
+U+90B6
+7
+bèi
+163.5
+邶.mp3
+
+邷
+['NONE']
+['NINGUNA']
+[]
+U+90B7
+6
+wǎ
+163.5
+邷.mp3
+
+邸
+['official residence, residence of']
+['residencia oficial, residencia de']
+['https://media.gettyimages.com/photos/ezra-bailey-picture-id534172577?k=6&m=534172577&s=612x612&w=0&h=zu7S6_eNsMJwBPozR28BFiACszia_fy-5LVeZ2varSM=']
+U+90B8
+7
+dǐ
+163.5
+邸.mp3
+
+邹
+['name of an ancient state', ' surname']
+['nombre de un estado antiguo', 'apellido']
+['https://media.gettyimages.com/photos/turkish-national-flag-with-white-star-and-moon-in-sky-picture-id1153837732?k=6&m=1153837732&s=612x612&w=0&h=pPFMhJEP8j7bx6ZCEgCVSxZwmsUHOGiZu7iAce-e0Uk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90B9
+7
+zōu
+163.5
+邹.mp3
+
+邺
+["place in today's Henan province"]
+['lugar en la actual provincia de Henan']
+['https://media.gettyimages.com/photos/night-view-of-luoyang-city-henan-province-china-picture-id700736203?k=6&m=700736203&s=612x612&w=0&h=V3YHaBE_a9o9MBQ3x2fRmb1AT5b_r-IF1jnOkOBSx7I=']
+U+90BA
+7
+yè
+163.5
+邺.mp3
+
+邻
+['neighbor', ' neighborhood']
+['vecino', 'barrio']
+['https://media.gettyimages.com/photos/greeting-guests-at-housewarming-party-picture-id1078076590?k=6&m=1078076590&s=612x612&w=0&h=iQa7HFkpZqNlAa7r7f2nYWSu0EnvULZQdxOZM2_5eyo=', 'https://media.gettyimages.com/photos/residential-development-aerial-picture-id1066713660?k=6&m=1066713660&s=612x612&w=0&h=2UkRsRkHPg2YTf3P8fW6P6H1j6yqz_xXZdLWxjBJSCo=']
+U+90BB
+7
+lín
+163.5
+邻.mp3
+
+邼
+['NONE']
+['NINGUNA']
+[]
+U+90BC
+8
+kuāng
+163.6
+邼.mp3
+
+邽
+['name of a county in Han dynasty']
+['nombre de un condado de la dinastía Han']
+['NONE']
+U+90BD
+8
+guī
+163.6
+邽.mp3
+
+邾
+['a feudal state which existed B.C.700-469', ' now in Shandong']
+['un estado feudal que existió a.C.700-469', 'ahora en Shandong']
+['NONE', 'https://media.gettyimages.com/photos/cross-sea-bridge-pavement-picture-id1217153910?k=6&m=1217153910&s=612x612&w=0&h=zNjNgBa6z6jIk7rdEIOKlNFQmsvP5zeYUa64GiBISWI=']
+U+90BE
+8
+zhū
+163.6
+邾.mp3
+
+邿
+['a state in Shandong province']
+['un estado en la provincia de Shandong']
+['https://media.gettyimages.com/vectors/province-of-china-vector-id165631366?k=6&m=165631366&s=612x612&w=0&h=FLmNlZXLV_c21bVAFjCf5Z0j0pqrKWsiKXbCQSZl9y0=']
+U+90BF
+8
+shī
+163.6
+邿.mp3
+
+郀
+['NONE']
+['NINGUNA']
+[]
+U+90C0
+8
+kū
+163.6
+郀.mp3
+
+郁
+['sweet smelling, rich in aroma', ' (Cant.) to move, hit']
+['olor dulce, rico en aroma', '(Cant.) Para moverse, golpear']
+['https://media.gettyimages.com/photos/seven-different-perfume-bottles-picture-id904676768?k=6&m=904676768&s=612x612&w=0&h=uRkxaItZxO1mc0dMmcCbFkd4PNi1d5SwitzOFqLfX1w=', 'NONE']
+U+90C1
+8
+yù
+163.6
+郁.mp3
+
+郂
+['NONE']
+['NINGUNA']
+[]
+U+90C2
+8
+gāi
+163.6
+郂.mp3
+
+郃
+['county in Shanxi province']
+['condado en la provincia de Shanxi']
+['https://media.gettyimages.com/vectors/hong-qiao-bridge-vector-id647040580?k=6&m=647040580&s=612x612&w=0&h=IiLK-OlzK3WsYEJIxmqaL-FKQ3m4_jGfgMTGnNMTL1c=']
+U+90C3
+8
+hé
+163.6
+郃.mp3
+
+郄
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90C4
+8
+qiè
+163.6
+郄.mp3
+
+郅
+['to go up to. flourishing a superlative']
+['ir hasta. floreciendo un superlativo']
+['NONE']
+U+90C5
+8
+zhì
+163.6
+郅.mp3
+
+郆
+['NONE']
+['NINGUNA']
+[]
+U+90C6
+8
+jí
+163.6
+郆.mp3
+
+郇
+['an ancient feudal State in Shaanxi']
+['un antiguo estado feudal en Shaanxi']
+['NONE']
+U+90C7
+8
+huán
+163.6
+郇.mp3
+
+郈
+['place in Shandong province']
+['lugar en la provincia de Shandong']
+['https://media.gettyimages.com/photos/blank-billboard-at-railroad-station-picture-id1195879448?k=6&m=1195879448&s=612x612&w=0&h=7xA1EBvvYhU7CspdwiX6MkEoIiqDqRQxXCaGbxke92g=']
+U+90C8
+8
+hòu
+163.6
+郈.mp3
+
+郉
+['surname', ' place name']
+['apellido', 'ponga su nombre']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+90C9
+8
+xíng
+163.6
+郉.mp3
+
+郊
+['suburbs', ' waste land, open spaces']
+['afueras', 'terreno baldío, espacios abiertos']
+['https://media.gettyimages.com/photos/row-of-houses-in-a-suburban-american-neighborhood-picture-id71550660?k=6&m=71550660&s=612x612&w=0&h=7tH3HSxfFz8VLvo-YBNsekT2eIMcQ879tMK1pDQ2QFw=', 'https://media.gettyimages.com/photos/live-in-a-waste-land-picture-id977545812?k=6&m=977545812&s=612x612&w=0&h=HtzCR1QhmFhTEYnCQd1FlbyRBMPk0uvDIWTybRHnhLo=']
+U+90CA
+8
+jiāo
+163.6
+郊.mp3
+
+郋
+['NONE']
+['NINGUNA']
+[]
+U+90CB
+8
+xí
+163.6
+郋.mp3
+
+郌
+['name of an ancient county in modern Gansu/Shaanxi area.']
+['nombre de un antiguo condado en el área moderna de Gansu / Shaanxi.']
+['NONE']
+U+90CC
+13
+guī
+163.6
+郌.mp3
+
+郍
+['NONE']
+['NINGUNA']
+[]
+U+90CD
+8
+nuó
+163.6
+郍.mp3
+
+郎
+['gentleman, young man', ' husband']
+['caballero, joven', 'marido']
+['https://media.gettyimages.com/photos/smiling-businessman-with-mobile-phone-looking-away-picture-id996020614?k=6&m=996020614&s=612x612&w=0&h=Mr8rL0erLtLu2IYUV5bCvRPtjcBuQQKDXxtOXEzDuhs=', 'https://media.gettyimages.com/photos/hugs-all-the-way-picture-id1137571976?k=6&m=1137571976&s=612x612&w=0&h=VMHw3hiU_WogJSsUZ8W89LPXBrMEz-uZAwHZdJtL8F8=']
+U+90CE
+8
+láng
+163.6
+郎.mp3
+
+郏
+['county in Henan province', ' surname']
+['condado en la provincia de Henan', 'apellido']
+['https://media.gettyimages.com/photos/zhengzhoucity-withzhengzhou-greenland-plazaskyscraper-henan-province-picture-id962663634?k=6&m=962663634&s=612x612&w=0&h=nNqT-6HbrdG8i2d0SGLqDqEU9SNnf5NYGdZOGjWW6Bw=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90CF
+8
+jiá
+163.6
+郏.mp3
+
+郐
+["state in today's Henan province"]
+['estado en la actual provincia de Henan']
+['NONE']
+U+90D0
+8
+kuài
+163.6
+郐.mp3
+
+郑
+["state in today's Henan", ' surname']
+['estado en Henan de hoy', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90D1
+8
+zhèng
+163.6
+郑.mp3
+
+郒
+['NONE']
+['NINGUNA']
+[]
+U+90D2
+13
+láng
+163.7
+郒.mp3
+
+郓
+['surname', " an ancient town's name"]
+['apellido', 'el nombre de una ciudad antigua']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/hondarribia-town-in-basque-country-picture-id910384510?k=6&m=910384510&s=612x612&w=0&h=Py9e8y29Wfr8_sRsRZBMwmWF2sJ7-2Ixl5-LPe0hxyc=']
+U+90D3
+8
+yùn
+163.6
+郓.mp3
+
+郔
+['place name in Shandong province']
+['nombre del lugar en la provincia de Shandong']
+['NONE']
+U+90D4
+8
+yán
+163.7
+郔.mp3
+
+郕
+['state in Shandong province']
+['estado en la provincia de Shandong']
+['https://media.gettyimages.com/vectors/province-of-china-vector-id165631366?k=6&m=165631366&s=612x612&w=0&h=FLmNlZXLV_c21bVAFjCf5Z0j0pqrKWsiKXbCQSZl9y0=']
+U+90D5
+8
+chéng
+163.7
+郕.mp3
+
+郖
+['NONE']
+['NINGUNA']
+[]
+U+90D6
+9
+dòu
+163.7
+郖.mp3
+
+郗
+['city under the Chou Dyn. a surname']
+['ciudad bajo el Chou Dyn. un apellido']
+['NONE']
+U+90D7
+9
+xī
+163.7
+郗.mp3
+
+郘
+['NONE']
+['NINGUNA']
+[]
+U+90D8
+8
+lǚ
+163.7
+郘.mp3
+
+郙
+['to be exiled', ' delay payment for']
+['ser exiliado', 'retrasar el pago de']
+['https://media.gettyimages.com/illustrations/israelites-going-into-captivity-illustration-id495701176?k=6&m=495701176&s=612x612&w=0&h=JitR2MZC2HpWhqx28UhSi8iWdW23142i7zig7-ukDP4=', 'https://media.gettyimages.com/photos/happy-people-buying-food-at-an-amusement-park-picture-id1051006028?k=6&m=1051006028&s=612x612&w=0&h=5WApUIfYAAToQ-CgBJsIYgE_GkHuLR2Ih5CtACRMOi4=']
+U+90D9
+9
+fǔ
+163.7
+郙.mp3
+
+郚
+['towns in Shandong province']
+['pueblos de la provincia de Shandong']
+['https://media.gettyimages.com/photos/billboard-banner-signal-mock-up-display-in-subway-train-station-picture-id1144357944?k=6&m=1144357944&s=612x612&w=0&h=MLMNFvDfDyZnl6b0wbMECIfs7uo7IBTJxOaXwpDYFr8=']
+U+90DA
+9
+wú
+163.7
+郚.mp3
+
+郛
+['outer walls of city', ' suburbs']
+['murallas exteriores de la ciudad', 'afueras']
+['https://media.gettyimages.com/photos/the-moskva-river-flows-past-the-fortified-outer-walls-of-the-kremlin-picture-id974279344?k=6&m=974279344&s=612x612&w=0&h=zGFHAjaqPdR257w7uUdxmjXmH6ilcQMSCkmPM8KjHAA=', 'https://media.gettyimages.com/photos/row-of-houses-in-a-suburban-american-neighborhood-picture-id71550660?k=6&m=71550660&s=612x612&w=0&h=7tH3HSxfFz8VLvo-YBNsekT2eIMcQ879tMK1pDQ2QFw=']
+U+90DB
+9
+fú
+163.7
+郛.mp3
+
+郜
+['name of fief in Shantong bestowed on the eldest son of Wen Wang']
+['nombre de feudo en Shantong otorgado al hijo mayor de Wen Wang']
+['NONE']
+U+90DC
+9
+gào
+163.7
+郜.mp3
+
+郝
+['surname', ' place in modern Shanxi']
+['apellido', 'lugar en Shanxi moderno']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/empty-car-park-picture-id857442184?k=6&m=857442184&s=612x612&w=0&h=157LhwTCBXUCP5fxnJThZtlwNgmwtl2N_PISqB2kFy8=']
+U+90DD
+9
+hǎo
+163.7
+郝.mp3
+
+郞
+['gentleman']
+['Caballero']
+['https://media.gettyimages.com/photos/portrait-of-businessman-with-arms-crossed-picture-id996020588?k=6&m=996020588&s=612x612&w=0&h=YNvslhbyapMAoWSdh3ZBI8yFyQQJxqC9yK0O5YRq00Q=']
+U+90DE
+9
+láng
+163.7
+郞.mp3
+
+郟
+['county in Henan province', ' surname']
+['condado en la provincia de Henan', 'apellido']
+['https://media.gettyimages.com/photos/zhengdong-new-area-district-of-zhengzhou-henan-province-china-picture-id532617641?k=6&m=532617641&s=612x612&w=0&h=skaCubYXZNOI2LCqAsGiPTU0qC55uoeC4J9FzJn2go0=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90DF
+9
+jiá
+163.7
+郟.mp3
+
+郠
+['place in Shandong province']
+['lugar en la provincia de Shandong']
+['https://media.gettyimages.com/photos/blank-billboard-at-railroad-station-picture-id1195879448?k=6&m=1195879448&s=612x612&w=0&h=7xA1EBvvYhU7CspdwiX6MkEoIiqDqRQxXCaGbxke92g=']
+U+90E0
+9
+gěng
+163.7
+郠.mp3
+
+郡
+['administrative division']
+['división administrativa']
+['https://media.gettyimages.com/vectors/high-detailed-polish-administrative-map-with-with-voivodships-and-vector-id921642808?k=6&m=921642808&s=612x612&w=0&h=4gKdUTao6Rnhz77h1qTBi2oFiQrQ0zp6ynnY2sTEI2o=']
+U+90E1
+9
+jùn
+163.7
+郡.mp3
+
+郢
+["state in today's Hubei province"]
+['estado en la actual provincia de Hubei']
+['NONE']
+U+90E2
+9
+yǐng
+163.7
+郢.mp3
+
+郣
+['NONE']
+['NINGUNA']
+[]
+U+90E3
+9
+bó
+163.7
+郣.mp3
+
+郤
+['crack, opening', ' surname']
+['crack, apertura', 'apellido']
+['https://media.gettyimages.com/vectors/poverty-empty-piggy-bank-vector-id1176491525?k=6&m=1176491525&s=612x612&w=0&h=LrgVoFP7s_hNx9Dcu-_GRKa5qK51RzTANWjxKQvNwko=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90E4
+9
+xì
+163.7
+郤.mp3
+
+郥
+['NONE']
+['NINGUNA']
+[]
+U+90E5
+9
+bèi
+163.7
+郥.mp3
+
+郦
+["place in today's Henan province"]
+['lugar en la actual provincia de Henan']
+['https://media.gettyimages.com/photos/night-view-of-luoyang-city-henan-province-china-picture-id700736203?k=6&m=700736203&s=612x612&w=0&h=V3YHaBE_a9o9MBQ3x2fRmb1AT5b_r-IF1jnOkOBSx7I=']
+U+90E6
+9
+lì
+163.7
+郦.mp3
+
+郧
+['county in Hubei province']
+['condado en la provincia de Hubei']
+['https://media.gettyimages.com/photos/urban-architecture-along-the-yangtze-river-in-hankou-district-wuhan-picture-id1195700637?k=6&m=1195700637&s=612x612&w=0&h=9V3L61GzMuIC0rtWkONmOIWihTzocZeQbXnNnWi7gW4=']
+U+90E7
+9
+yún
+163.7
+郧.mp3
+
+部
+['part, division, section']
+['parte, división, sección']
+['https://media.gettyimages.com/photos/timelapse-pizza-eating-picture-id154926061?k=6&m=154926061&s=612x612&w=0&h=pyppGwhumEWos24IH8OW6A8vXj4fYIvAa_pCIPiPUhQ=']
+U+90E8
+10
+bù
+163.8
+部.mp3
+
+郩
+['NONE']
+['NINGUNA']
+[]
+U+90E9
+10
+xiáo
+163.8
+郩.mp3
+
+郪
+['name of a stream in Sichuan province']
+['nombre de un arroyo en la provincia de Sichuan']
+['NONE']
+U+90EA
+10
+qī
+163.8
+郪.mp3
+
+郫
+['NONE']
+['NINGUNA']
+[]
+U+90EB
+10
+pí
+163.8
+郫.mp3
+
+郬
+['NONE']
+['NINGUNA']
+[]
+U+90EC
+10
+qīng
+163.8
+郬.mp3
+
+郭
+['outer part (of a city)', ' surname']
+['parte exterior (de una ciudad)', 'apellido']
+['https://media.gettyimages.com/photos/dusit-maha-prasat-throne-hallthailand-picture-id637541472?k=6&m=637541472&s=612x612&w=0&h=MgNB4bSL94UOJMtqjyK-GZGBG_txpVO89qiLUDc9NgI=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90ED
+10
+guō
+163.8
+郭.mp3
+
+郮
+['NONE']
+['NINGUNA']
+[]
+U+90EE
+10
+zhōu
+163.8
+郮.mp3
+
+郯
+['name of a small ancient principality which was situated in what is now part of Shantung and Kiangsu']
+['nombre de un pequeño principado antiguo que estaba situado en lo que ahora es parte de Shantung y Kiangsu']
+['NONE']
+U+90EF
+10
+tán
+163.8
+郯.mp3
+
+郰
+['birthplace of Confucius, a place in Shandong']
+['lugar de nacimiento de Confucio, un lugar en Shandong']
+['NONE']
+U+90F0
+10
+zōu
+163.8
+郰.mp3
+
+郱
+['NONE']
+['NINGUNA']
+[]
+U+90F1
+8
+píng
+163.8
+郱.mp3
+
+郲
+['NONE']
+['NINGUNA']
+[]
+U+90F2
+10
+lái
+163.8
+郲.mp3
+
+郳
+['state in Shandong province']
+['estado en la provincia de Shandong']
+['https://media.gettyimages.com/vectors/province-of-china-vector-id165631366?k=6&m=165631366&s=612x612&w=0&h=FLmNlZXLV_c21bVAFjCf5Z0j0pqrKWsiKXbCQSZl9y0=']
+U+90F3
+10
+ní
+163.8
+郳.mp3
+
+郴
+['county in Hunan province', ' surname']
+['condado en la provincia de Hunan', 'apellido']
+['https://media.gettyimages.com/vectors/hong-qiao-bridge-vector-id647040580?k=6&m=647040580&s=612x612&w=0&h=IiLK-OlzK3WsYEJIxmqaL-FKQ3m4_jGfgMTGnNMTL1c=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+90F4
+10
+chēn
+163.8
+郴.mp3
+
+郵
+['postal, mail', ' post office']
+['apartado Postal', 'oficina postal']
+['https://media.gettyimages.com/vectors/postcard-vector-id990728066?k=6&m=990728066&s=612x612&w=0&h=vHH5gw2XmG7FfUTyg-dIVYBu1GfrV9jGZm6Zi6c1ckI=', 'https://media.gettyimages.com/vectors/postal-stamps-vector-id185366314?k=6&m=185366314&s=612x612&w=0&h=9H6UNLEqS0fRy60XSypZEv3Nzw_yVdsTqcGborjVlAw=']
+U+90F5
+10
+yóu
+163.8
+郵.mp3
+
+郶
+['NONE']
+['NINGUNA']
+[]
+U+90F6
+15
+bù
+163.8
+郶.mp3
+
+郷
+['country', ' rural', ' village']
+['país', 'rural', 'pueblo']
+['https://media.gettyimages.com/photos/country-and-western-music-scene-wchairhatguitarbarnwood-background-picture-id155145658?k=6&m=155145658&s=612x612&w=0&h=0nwXphEb6EWHVDqXI2ClXzvX3XwoRk2pv1x06EqmYHI=', 'https://media.gettyimages.com/photos/splashed-with-fresh-air-picture-id1127069296?k=6&m=1127069296&s=612x612&w=0&h=vxCubfR8jaaLfdvpxHlUrVpu2clyzckYZhpqDsODj8g=', 'https://media.gettyimages.com/vectors/landscape-of-small-town-with-church-and-rolling-hills-vector-id164545378?k=6&m=164545378&s=612x612&w=0&h=Q7O67aD7hkmyIxLPFdUJOb4YimdVtvtpqAPLo7rSqg4=']
+U+90F7
+10
+xiāng
+163.8
+郷.mp3
+
+郸
+['county in Hebei province']
+['condado en la provincia de Hebei']
+['https://media.gettyimages.com/photos/china-hebei-province-zhengzhou-zhengzhou-city-at-sunset-picture-id691042335?k=6&m=691042335&s=612x612&w=0&h=UKzthk80rE-jdTHfoz5rqkYgoxksn_RrenhRZ6XHb0U=']
+U+90F8
+10
+dān
+163.8
+郸.mp3
+
+郹
+['NONE']
+['NINGUNA']
+[]
+U+90F9
+11
+jú
+163.9
+郹.mp3
+
+郺
+['NONE']
+['NINGUNA']
+[]
+U+90FA
+16
+yōng
+163.9
+郺.mp3
+
+郻
+['NONE']
+['NINGUNA']
+[]
+U+90FB
+11
+qiāo
+163.9
+郻.mp3
+
+郼
+['NONE']
+['NINGUNA']
+[]
+U+90FC
+11
+yī
+163.9
+郼.mp3
+
+都
+['metropolis, capital', ' all, the whole', ' elegant, refined']
+['metrópolis, capital', 'todo, el todo', 'elegante, refinado']
+['https://media.gettyimages.com/photos/low-angle-view-of-the-skyscrapers-in-nyc-picture-id926689776?k=6&m=926689776&s=612x612&w=0&h=1jHkV5VpZ1NGvVJiGLuuSpJ0FULHXc2uPZk5MKEyttM=', 'https://media.gettyimages.com/photos/young-man-standing-picture-id912617492?k=6&m=912617492&s=612x612&w=0&h=nfCLE8nJDhl6IslGWMO77qhlQb3aGDYOJ4OiAD0GoF0=', 'https://media.gettyimages.com/vectors/dark-abstract-vector-background-vector-id1049230242?k=6&m=1049230242&s=612x612&w=0&h=rbcWAQB2g-iI_leVt1Rki_eVi3gbvvVlFTWPe8krUoo=']
+U+90FD
+10
+dōu dū
+163.9
+都.mp3
+
+郾
+['county in Henan province']
+['condado en la provincia de Henan']
+['https://media.gettyimages.com/photos/autumn-in-lushi-county-of-henan-provincechina-picture-id601814931?k=6&m=601814931&s=612x612&w=0&h=GKjbNaYIVCpkGzwOBazclVv-HVytV-MOF04SxIstGSM=']
+U+90FE
+11
+yǎn
+163.9
+郾.mp3
+
+郿
+['county in Shaanxi province']
+['condado en la provincia de Shaanxi']
+['https://media.gettyimages.com/photos/barbecue-picture-id1279633390?k=6&m=1279633390&s=612x612&w=0&h=W5RB3m4jSi_IaCRNehhZKJ3iDZY_uiyXsh3DWoFM-DI=']
+U+90FF
+11
+méi
+163.9
+郿.mp3
+
+鄀
+['state in Henan province']
+['estado en la provincia de Henan']
+['https://media.gettyimages.com/vectors/province-of-china-vector-id165631366?k=6&m=165631366&s=612x612&w=0&h=FLmNlZXLV_c21bVAFjCf5Z0j0pqrKWsiKXbCQSZl9y0=']
+U+9100
+10
+ruò
+163.9
+鄀.mp3
+
+鄁
+['NONE']
+['NINGUNA']
+[]
+U+9101
+11
+bèi
+163.9
+鄁.mp3
+
+鄂
+['Hubei province', ' startled']
+['Provincia de Hubei', 'sorprendido']
+['https://media.gettyimages.com/vectors/novel-coronavirus-covid19-icon-vector-id1203260558?k=6&m=1203260558&s=612x612&w=0&h=zoqSLEE0YxO4TZtJ10Ug3fz7swnCLlPW5QRK_RDPSqE=', 'https://media.gettyimages.com/photos/closeup-portrait-of-surprised-woman-with-hands-covering-mouth-picture-id1000371568?k=6&m=1000371568&s=612x612&w=0&h=iJOVFsi1znmTV0ah5E1XrjdaHMF6E78VLrr8M4_jTJY=']
+U+9102
+11
+è
+163.9
+鄂.mp3
+
+鄃
+['NONE']
+['NINGUNA']
+[]
+U+9103
+11
+shū
+163.9
+鄃.mp3
+
+鄄
+['NONE']
+['NINGUNA']
+[]
+U+9104
+11
+juàn
+163.9
+鄄.mp3
+
+鄅
+['NONE']
+['NINGUNA']
+[]
+U+9105
+11
+yǔ
+163.9
+鄅.mp3
+
+鄆
+['surname', " an ancient town's name"]
+['apellido', 'el nombre de una ciudad antigua']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/hondarribia-town-in-basque-country-picture-id910384510?k=6&m=910384510&s=612x612&w=0&h=Py9e8y29Wfr8_sRsRZBMwmWF2sJ7-2Ixl5-LPe0hxyc=']
+U+9106
+11
+yùn
+163.9
+鄆.mp3
+
+鄇
+['a name of a town in Henan province']
+['un nombre de una ciudad en la provincia de Henan']
+['NONE']
+U+9107
+11
+hóu
+163.9
+鄇.mp3
+
+鄈
+['slippers, sandals', ' dance shoes']
+['zapatillas, sandalias', 'zapatos de baile']
+['https://media.gettyimages.com/photos/black-leather-mens-sandals-shoes-isolated-on-white-background-picture-id1035443100?k=6&m=1035443100&s=612x612&w=0&h=BuagsrlY8gWjAZ0MSykyLGZk58zmiCYqj4bn8sPV3Qs=', 'https://media.gettyimages.com/photos/well-loved-ballet-pointe-shoes-picture-id184105348?k=6&m=184105348&s=612x612&w=0&h=QyLuZU5jG5m9li7vc-tyYHuKKeLV5GA9obkoAeMuJAI=']
+U+9108
+11
+kuí
+163.9
+鄈.mp3
+
+鄉
+['country', ' rural', ' village']
+['país', 'rural', 'pueblo']
+['https://media.gettyimages.com/photos/country-and-western-music-scene-wchairhatguitarbarnwood-background-picture-id155145658?k=6&m=155145658&s=612x612&w=0&h=0nwXphEb6EWHVDqXI2ClXzvX3XwoRk2pv1x06EqmYHI=', 'https://media.gettyimages.com/photos/splashed-with-fresh-air-picture-id1127069296?k=6&m=1127069296&s=612x612&w=0&h=vxCubfR8jaaLfdvpxHlUrVpu2clyzckYZhpqDsODj8g=', 'https://media.gettyimages.com/vectors/landscape-of-small-town-with-church-and-rolling-hills-vector-id164545378?k=6&m=164545378&s=612x612&w=0&h=Q7O67aD7hkmyIxLPFdUJOb4YimdVtvtpqAPLo7rSqg4=']
+U+9109
+11
+xiāng
+163.9
+鄉.mp3
+
+鄊
+['NONE']
+['NINGUNA']
+[]
+U+910A
+11
+xiāng
+163.9
+鄊.mp3
+
+鄋
+['county']
+['condado']
+['https://media.gettyimages.com/photos/school-building-or-business-building-with-american-flag-picture-id121179299?k=6&m=121179299&s=612x612&w=0&h=m86frz-uqJcKlvz0gIUHrcfFkraqza4g0ocQEYoCfbY=']
+U+910B
+11
+sōu
+163.10
+鄋.mp3
+
+鄌
+['NONE']
+['NINGUNA']
+[]
+U+910C
+12
+táng
+163.10
+鄌.mp3
+
+鄍
+['a town in Shandong province']
+['una ciudad en la provincia de Shandong']
+['https://media.gettyimages.com/photos/billboard-banner-signal-mock-up-display-in-subway-train-station-picture-id1144357944?k=6&m=1144357944&s=612x612&w=0&h=MLMNFvDfDyZnl6b0wbMECIfs7uo7IBTJxOaXwpDYFr8=']
+U+910D
+12
+míng
+163.10
+鄍.mp3
+
+鄎
+['a place in Henan province']
+['un lugar en la provincia de Henan']
+['https://media.gettyimages.com/vectors/map-of-china-vector-id1148968944?k=6&m=1148968944&s=612x612&w=0&h=bm2RXqT-C3ufg6ioIPjpjL2WmMD-UUhvNBMFnx89o7w=']
+U+910E
+12
+xī
+163.10
+鄎.mp3
+
+鄏
+['place in Henan province']
+['lugar en la provincia de Henan']
+['https://media.gettyimages.com/vectors/map-of-china-vector-id1148968944?k=6&m=1148968944&s=612x612&w=0&h=bm2RXqT-C3ufg6ioIPjpjL2WmMD-UUhvNBMFnx89o7w=']
+U+910F
+12
+rǔ
+163.10
+鄏.mp3
+
+鄐
+['town in Henan province']
+['ciudad en la provincia de Henan']
+['https://media.gettyimages.com/photos/winter-time-at-zhengzhou-city-henan-province-china-picture-id581693753?k=6&m=581693753&s=612x612&w=0&h=CCyNeyrqVJdbtZ-jiGtD_JdYgyCwrpL40SW3oIEE-xY=']
+U+9110
+12
+chù
+163.10
+鄐.mp3
+
+鄑
+['kick', ' place in Shandong province']
+['patada', 'lugar en la provincia de Shandong']
+['https://media.gettyimages.com/photos/boy-preparing-to-kick-the-ball-picture-id1016299262?k=6&m=1016299262&s=612x612&w=0&h=AYiGqCgcCfAalVIKfzIPBqd-D7KV3kje7X5wsyg6rkc=', 'https://media.gettyimages.com/photos/blank-billboard-at-railroad-station-picture-id1195879448?k=6&m=1195879448&s=612x612&w=0&h=7xA1EBvvYhU7CspdwiX6MkEoIiqDqRQxXCaGbxke92g=']
+U+9111
+12
+zī
+163.10
+鄑.mp3
+
+鄒
+['name of an ancient state', ' surname']
+['nombre de un estado antiguo', 'apellido']
+['https://media.gettyimages.com/photos/turkish-national-flag-with-white-star-and-moon-in-sky-picture-id1153837732?k=6&m=1153837732&s=612x612&w=0&h=pPFMhJEP8j7bx6ZCEgCVSxZwmsUHOGiZu7iAce-e0Uk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9112
+12
+zōu
+163.10
+鄒.mp3
+
+鄓
+['NONE']
+['NINGUNA']
+[]
+U+9113
+12
+yè
+163.10
+鄓.mp3
+
+鄔
+['various place names', ' surname', " transliteration of Sanskrit 'u'"]
+['varios nombres de lugares', 'apellido', "transliteración del sánscrito 'u'"]
+['https://media.gettyimages.com/photos/london-street-signs-picture-id143436773?k=6&m=143436773&s=612x612&w=0&h=KmpcfDQr4AvZ80l65Wv2vGOhXswnj6ogNDfhZRPraAY=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE']
+U+9114
+12
+wū
+163.10
+鄔.mp3
+
+鄕
+['country', ' rural', ' village']
+['país', 'rural', 'pueblo']
+['https://media.gettyimages.com/photos/country-and-western-music-scene-wchairhatguitarbarnwood-background-picture-id155145658?k=6&m=155145658&s=612x612&w=0&h=0nwXphEb6EWHVDqXI2ClXzvX3XwoRk2pv1x06EqmYHI=', 'https://media.gettyimages.com/photos/splashed-with-fresh-air-picture-id1127069296?k=6&m=1127069296&s=612x612&w=0&h=vxCubfR8jaaLfdvpxHlUrVpu2clyzckYZhpqDsODj8g=', 'https://media.gettyimages.com/vectors/landscape-of-small-town-with-church-and-rolling-hills-vector-id164545378?k=6&m=164545378&s=612x612&w=0&h=Q7O67aD7hkmyIxLPFdUJOb4YimdVtvtpqAPLo7rSqg4=']
+U+9115
+12
+xiāng
+163.10
+鄕.mp3
+
+鄖
+['county in Hubei province']
+['condado en la provincia de Hubei']
+['https://media.gettyimages.com/photos/urban-architecture-along-the-yangtze-river-in-hankou-district-wuhan-picture-id1195700637?k=6&m=1195700637&s=612x612&w=0&h=9V3L61GzMuIC0rtWkONmOIWihTzocZeQbXnNnWi7gW4=']
+U+9116
+12
+yún
+163.10
+鄖.mp3
+
+鄗
+['county in Hebei province']
+['condado en la provincia de Hebei']
+['https://media.gettyimages.com/photos/great-wall-of-china-unesco-world-heritage-site-dating-from-ming-picture-id678396767?k=6&m=678396767&s=612x612&w=0&h=mQEQoBdCMURHalPesVqI9Lu9E7N_SDBuSPhU0G4vUCc=']
+U+9117
+12
+hào
+163.10
+鄗.mp3
+
+鄘
+['state in Henan province']
+['estado en la provincia de Henan']
+['https://media.gettyimages.com/vectors/province-of-china-vector-id165631366?k=6&m=165631366&s=612x612&w=0&h=FLmNlZXLV_c21bVAFjCf5Z0j0pqrKWsiKXbCQSZl9y0=']
+U+9118
+13
+yōng
+163.11
+鄘.mp3
+

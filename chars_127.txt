@@ -1,0 +1,2560 @@
+笙
+['small gourd-shaped musical instrument']
+['pequeño instrumento musical en forma de calabaza']
+['NONE']
+U+7B19
+11
+shēng
+118.5
+笙.mp3
+
+笚
+['NONE']
+['NINGUNA']
+[]
+U+7B1A
+11
+dā
+118.5
+笚.mp3
+
+笛
+['bamboo flute', ' whistle']
+['flauta de bambú', 'silbar']
+['https://media.gettyimages.com/photos/japanese-men-playing-the-shamisen-and-the-shakuhac-picture-id609153159?k=6&m=609153159&s=612x612&w=0&h=qevD6so6KqEW2Km1Vs1CNAj2SKsSppvjG_J4apI93S4=', 'https://media.gettyimages.com/vectors/whistleblower-vector-id1155236265?k=6&m=1155236265&s=612x612&w=0&h=PjMxMNOepNYAR2PTVkNQh3BiCUFxlFMtq9Vrb10xgHg=']
+U+7B1B
+11
+dí
+118.5
+笛.mp3
+
+笜
+['NONE']
+['NINGUNA']
+[]
+U+7B1C
+11
+zhú
+118.5
+笜.mp3
+
+笝
+['NONE']
+['NINGUNA']
+[]
+U+7B1D
+11
+nà
+118.5
+笝.mp3
+
+笞
+['bamboo rod used for beatings']
+['varilla de bambú utilizada para palizas']
+['NONE']
+U+7B1E
+11
+chī
+118.5
+笞.mp3
+
+笟
+['NONE']
+['NINGUNA']
+[]
+U+7B1F
+11
+gū
+118.5
+笟.mp3
+
+笠
+['bamboo hat', ' bamboo covering']
+['sombrero de bambú', 'revestimiento de bambú']
+['https://media.gettyimages.com/photos/vietnamese-woman-at-market-with-vegetables-from-above-picture-id829252490?k=6&m=829252490&s=612x612&w=0&h=OW87o9bK0w66W6B-veleNLgyD3CoRnW8gx_W08yzGmk=', 'https://media.gettyimages.com/photos/cutting-board-isolated-isolated-on-white-background-picture-id170235375?k=6&m=170235375&s=612x612&w=0&h=ea3CZU8IgDgEKCI436ihwCx2sXcNGopNGFCZO7PDM8Q=']
+U+7B20
+11
+lì
+118.5
+笠.mp3
+
+笡
+['NONE']
+['NINGUNA']
+[]
+U+7B21
+11
+qiè
+118.5
+笡.mp3
+
+笢
+['NONE']
+['NINGUNA']
+[]
+U+7B22
+11
+mǐn
+118.5
+笢.mp3
+
+笣
+['NONE']
+['NINGUNA']
+[]
+U+7B23
+11
+bāo
+118.5
+笣.mp3
+
+笤
+['a broom, a besom']
+['una escoba, una escoba']
+['https://media.gettyimages.com/photos/broom-picture-id184100673?k=6&m=184100673&s=612x612&w=0&h=ngNVGM-S54j67BG-D9X0q8tpeBa9RV2JvAbf-16ndCI=']
+U+7B24
+11
+tiáo
+118.5
+笤.mp3
+
+笥
+['a hamper, wicker basket']
+['una cesta, cesta de mimbre']
+['https://media.gettyimages.com/photos/vintage-wicker-basket-isolated-on-white-background-picture-id957294020?k=6&m=957294020&s=612x612&w=0&h=c_2JNlucm1yPdbS7xCep-X1b17ZUrf0rISGgM_myVlU=']
+U+7B25
+11
+sì
+118.5
+笥.mp3
+
+符
+['i.d. tag, tally, symbol, charm']
+['carné de identidad. etiqueta, cuenta, símbolo, encanto']
+['NONE']
+U+7B26
+11
+fú
+118.5
+符.mp3
+
+笧
+['to entwine around', ' check (a current) with a weir']
+['para entrelazar', 'comprobar (una corriente) con un vertedero']
+['https://media.gettyimages.com/photos/rope-picture-id174903472?k=6&m=174903472&s=612x612&w=0&h=BBfLQanhgQq_6A7cIelkmVjn9GKpEHFJQiYFrD30cXo=', 'NONE']
+U+7B27
+11
+cè
+118.5
+笧.mp3
+
+笨
+['foolish, stupid, dull', ' awkward']
+['tonto, estúpido, aburrido', 'torpe']
+['https://media.gettyimages.com/photos/duh-picture-id483316905?k=6&m=483316905&s=612x612&w=0&h=tNqueA9xucbm3tvN6wkQ9T24iS8E4cR_helY2YE74Ys=', 'https://media.gettyimages.com/photos/sad-high-school-student-feeling-lonely-in-a-hallway-picture-id1151538952?k=6&m=1151538952&s=612x612&w=0&h=nZVnyRnt25pYAJ3FSPQL-zdQlsdXkfMVjlATKVwidMw=']
+U+7B28
+11
+bèn
+118.5
+笨.mp3
+
+笩
+['NONE']
+['NINGUNA']
+[]
+U+7B29
+11
+fá
+118.5
+笩.mp3
+
+笪
+['a coarse mat of rushes or bamboo']
+['una alfombra tosca de juncos o bambú']
+['https://media.gettyimages.com/photos/bamboo-cane-placemat-texture-picture-id934839132?k=6&m=934839132&s=612x612&w=0&h=W9CQN0FjxhRal1a7s1UddN0qaRjxnNkRr7rpzHmDFb8=']
+U+7B2A
+11
+dá
+118.5
+笪.mp3
+
+笫
+['bed boards, sleeping mat']
+['tablas de cama, colchoneta para dormir']
+['NONE']
+U+7B2B
+10
+zǐ
+118.5
+笫.mp3
+
+第
+['sequence, number', ' grade, degree']
+['secuencia de números', 'grado, grado']
+['https://media.gettyimages.com/vectors/diagonal-five-item-infographic-vector-id1014282520?k=6&m=1014282520&s=612x612&w=0&h=dvfdR--tK7jucBVDkOAEjYbUGp7G_U_n0PqDzYso_zw=', 'https://media.gettyimages.com/vectors/education-line-icon-set-vector-id1034571654?k=6&m=1034571654&s=612x612&w=0&h=nbQlrkY00KJi5mfuGjpMuCVRlKTmeT3sgNhPoYJuLgs=']
+U+7B2C
+11
+dì
+118.5
+第.mp3
+
+笭
+['bamboo screen']
+['pantalla de bambú']
+['https://media.gettyimages.com/photos/jpanese-slide-door-vintage-traditional-style-picture-id1127447355?k=6&m=1127447355&s=612x612&w=0&h=ZpNvsf44i0hbTz5ftiZGJb5JGGMETPdro7AzOVJXEgw=']
+U+7B2D
+11
+líng
+118.5
+笭.mp3
+
+笮
+['boards which support tiles on roof']
+['tableros que soportan tejas en el techo']
+['https://media.gettyimages.com/photos/traditional-covered-wood-bridge-in-mountain-switzerland-picture-id956106468?k=6&m=956106468&s=612x612&w=0&h=4OoQetSS-v5v6J41RqetgSRb-euceKNrMyXXROLAsoM=']
+U+7B2E
+11
+zé
+118.5
+笮.mp3
+
+笯
+['a bird-cage']
+['una jaula de pájaros']
+['https://media.gettyimages.com/photos/closeup-of-birdcage-against-white-background-picture-id1200274646?k=6&m=1200274646&s=612x612&w=0&h=VUJ00GgtYCxpzte-IsdbnqgTuUIqclsmxdotcwIFGmI=']
+U+7B2F
+11
+nú
+118.5
+笯.mp3
+
+笰
+['curtain']
+['cortina']
+['https://media.gettyimages.com/photos/big-event-red-curtains-with-spotlight-picture-id155352732?k=6&m=155352732&s=612x612&w=0&h=6tg-urC3NCzV7hmG2YRlQ7sUrggxxT5q-Uk3cDRx520=']
+U+7B30
+11
+fú
+118.5
+笰.mp3
+
+笱
+['a basket trap for fish, placed in the opening of a weir']
+['una cesta trampa para peces, colocada en la abertura de un vertedero']
+['NONE']
+U+7B31
+11
+gǒu
+118.5
+笱.mp3
+
+笲
+['basket']
+['cesta']
+['https://media.gettyimages.com/photos/basketball-picture-id170096587?k=6&m=170096587&s=612x612&w=0&h=tb6oxh4xvN4WlMqgfGfdX7izt_-VopOPN2WJ_7QQbVs=']
+U+7B32
+11
+fán
+118.5
+笲.mp3
+
+笳
+['a reed leaf whistle']
+['un silbido de hoja de caña']
+['NONE']
+U+7B33
+11
+jiā
+118.5
+笳.mp3
+
+笴
+['an arrow shaft']
+['un eje de flecha']
+['https://media.gettyimages.com/vectors/sunburst-elements-vector-id466067740?k=6&m=466067740&s=612x612&w=0&h=RmPeth27sz4hPWx2d-QmNKv5GIwx1Nq7NFxgOhr1-to=']
+U+7B34
+11
+gǎn
+118.5
+笴.mp3
+
+笵
+['a bamboo form', ' a model']
+['una forma de bambú', 'un modelo']
+['https://media.gettyimages.com/photos/toothbrush-on-ceramic-stand-picture-id1236476698?k=6&m=1236476698&s=612x612&w=0&h=SkzDYrAd2mJOz1lfg7l6zIHPMdiwhVKIIVqb11Ehs48=', 'https://media.gettyimages.com/photos/beautiful-woman-soft-makeup-and-perfect-skin-picture-id1133213198?k=6&m=1133213198&s=612x612&w=0&h=MQGFE8-cfFi3YpfGwPA6KZoCdSPjsRgfwAgIGCmfZ3w=']
+U+7B35
+11
+fàn
+118.5
+笵.mp3
+
+笶
+['NONE']
+['NINGUNA']
+[]
+U+7B36
+11
+shǐ
+118.5
+笶.mp3
+
+笷
+['NONE']
+['NINGUNA']
+[]
+U+7B37
+11
+mǎo
+118.5
+笷.mp3
+
+笸
+['flat basket for grain']
+['cesta plana para cereales']
+['https://media.gettyimages.com/vectors/agriculture-and-farming-flat-design-icons-set-vector-id1153415885?k=6&m=1153415885&s=612x612&w=0&h=ZNQvo9xpEmMUIsX8btvip5o_0urAtW6txT2T-Ao_8lc=']
+U+7B38
+11
+pǒ
+118.5
+笸.mp3
+
+笹
+['small bamboo']
+['bambú pequeño']
+['https://media.gettyimages.com/photos/red-panda-picture-id173547791?k=6&m=173547791&s=612x612&w=0&h=4FAXZhau2WJfaQDRRj8w1yOmplXhEXjaYwRAGvwQqRI=']
+U+7B39
+11
+ti
+118.5
+笹.mp3
+
+笺
+['note, memo', ' stationery', ' comments']
+['nota, memo', 'papelería', 'comentarios']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/photos/office-supply-background-picture-id165835492?k=6&m=165835492&s=612x612&w=0&h=i6ir28gtldpc17UCLHs78GKPHy2GKlSIiEzDmjccXTY=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+7B3A
+11
+jiān
+118.5
+笺.mp3
+
+笻
+['NONE']
+['NINGUNA']
+[]
+U+7B3B
+11
+qióng
+118.5
+笻.mp3
+
+笼
+['cage', ' cage-like basket']
+['jaula', 'canasta en forma de jaula']
+['https://media.gettyimages.com/photos/escape-picture-id180729544?k=6&m=180729544&s=612x612&w=0&h=9s_3yNbKNX74OzgUmpHGgs84Nxo0LBq9FPykTeSh2M8=', 'NONE']
+U+7B3C
+11
+lóng
+118.5
+笼.mp3
+
+笽
+['NONE']
+['NINGUNA']
+[]
+U+7B3D
+11
+mǐn
+118.5
+笽.mp3
+
+笾
+['bamboo container for food']
+['recipiente de bambú para comida']
+['https://media.gettyimages.com/photos/shanghai-style-meat-dumplings-picture-id640354996?k=6&m=640354996&s=612x612&w=0&h=nZl3b0YziXgULOjUB9NTjIyzcv6f0ikzONgDbi-YshQ=']
+U+7B3E
+11
+biān
+118.5
+笾.mp3
+
+笿
+['NONE']
+['NINGUNA']
+[]
+U+7B3F
+12
+luò
+118.6
+笿.mp3
+
+筀
+['NONE']
+['NINGUNA']
+[]
+U+7B40
+12
+guì
+118.6
+筀.mp3
+
+筁
+['a bamboo frame on which silkworms spin their cocoons']
+['un marco de bambú en el que los gusanos de seda hacen girar sus capullos']
+['NONE']
+U+7B41
+12
+qū
+118.6
+筁.mp3
+
+筂
+['NONE']
+['NINGUNA']
+[]
+U+7B42
+12
+chí
+118.6
+筂.mp3
+
+筃
+['NONE']
+['NINGUNA']
+[]
+U+7B43
+12
+yīn
+118.6
+筃.mp3
+
+筄
+['NONE']
+['NINGUNA']
+[]
+U+7B44
+12
+yào
+118.6
+筄.mp3
+
+筅
+['bamboo brush', ' halberd']
+['cepillo de bambú', 'alabarda']
+['https://media.gettyimages.com/photos/at-home-young-woman-brushing-her-teeth-picture-id1153677888?k=6&m=1153677888&s=612x612&w=0&h=MLO3ldMqBa0PhtbZVnfTDjhD3rlwFqAUW4DJd1bM2_I=', 'https://media.gettyimages.com/vectors/medieval-weaponry-vector-id520499850?k=6&m=520499850&s=612x612&w=0&h=ORPxKSGhPxgUUGXG5LfPlaUf6gUiFkNobNSGrYTc8bY=']
+U+7B45
+12
+xiǎn
+118.6
+筅.mp3
+
+筆
+['writing brush', ' write', ' stroke']
+['pincel de escribir', 'escribir', 'carrera']
+['https://media.gettyimages.com/vectors/vector-arrows-grunge-brush-strokes-vector-id1141187334?k=6&m=1141187334&s=612x612&w=0&h=UDaUU34xEavupHFqHcmQHPZzHsypmiQSP6UXW8A-YbI=', 'https://media.gettyimages.com/photos/jot-it-down-and-just-do-it-picture-id1131971654?k=6&m=1131971654&s=612x612&w=0&h=cUq9I0IklNFFtF10m8AI2TEHaUQxg8PLh70LkKYZQ6c=', 'https://media.gettyimages.com/vectors/set-of-strokes-vector-id918445132?k=6&m=918445132&s=612x612&w=0&h=0BsPDtGELHlRNqCQ7wIzS6-5y3XbjdhMQLWH61S0Bk0=']
+U+7B46
+12
+bǐ
+118.6
+筆.mp3
+
+筇
+['bamboo name', ' bamboo staff']
+['nombre de bambú', 'bastón de bambú']
+['https://media.gettyimages.com/photos/scenic-view-of-lake-against-sky-picture-id1183130008?k=6&m=1183130008&s=612x612&w=0&h=xSl3dOaG1LPXPVLgPWPUVnCtVsKThblkfP83t8MXQTQ=', 'https://media.gettyimages.com/photos/young-woman-in-swing-chair-using-laptop-picture-id1186899728?k=6&m=1186899728&s=612x612&w=0&h=iMyu1evU_4HBAUuuDfyrkEsdQoXbC_M0SIPEOkeOSIs=']
+U+7B47
+11
+qióng
+118.6
+筇.mp3
+
+筈
+['arrow end']
+['extremo de la flecha']
+['https://media.gettyimages.com/vectors/new-years-eve-vector-id1053269094?k=6&m=1053269094&s=612x612&w=0&h=Ln9N-9HehzyyWsmfoNXyoisNAeVYKtNB75ys4DYY5CI=']
+U+7B48
+12
+kuò
+118.6
+筈.mp3
+
+等
+['rank, grade', ' wait', ' equal', " 'etc.'"]
+['rango, grado', 'Espere', 'igual', "'etc.'"]
+['https://media.gettyimages.com/photos/an-up-close-picture-of-report-card-grades-picture-id172413295?k=6&m=172413295&s=612x612&w=0&h=RPxdO9WGUkj2TX8PcalAvew0nv_DisTsaP1NlaykW8E=', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/colorful-handprints-picture-id174661842?k=6&m=174661842&s=612x612&w=0&h=aEYWptqxq1fIlU3x1FHPePfSAXrj85NUuOwV86EpufY=', 'https://media.gettyimages.com/vectors/refer-a-friend-concept-vector-illustration-flat-modern-design-for-web-vector-id1200959790?k=6&m=1200959790&s=612x612&w=0&h=6PmdSnVaULtLgmma4yimiCexItAK3GosLrWk5h6esDQ=']
+U+7B49
+12
+děng
+118.6
+等.mp3
+
+筊
+['bamboo rope', ' bamboo object used']
+['cuerda de bambú', 'objeto de bambú utilizado']
+['https://media.gettyimages.com/photos/straw-mat-background-picture-id471411789?k=6&m=471411789&s=612x612&w=0&h=Q3lKxin2HZUZlri4e-KEePnvxlOnEufPCwFStZe0ri4=', 'https://media.gettyimages.com/photos/chopping-board-picture-id1142333542?k=6&m=1142333542&s=612x612&w=0&h=TwWaikSplLSh5bK2TlU_tR86u95i1bZpShM1b28S7vc=']
+U+7B4A
+12
+xiáo
+118.6
+筊.mp3
+
+筋
+['muscles', ' tendons']
+['músculos', 'tendones']
+['https://media.gettyimages.com/vectors/fitness-icon-set-vector-id913386504?k=6&m=913386504&s=612x612&w=0&h=jbavgnOh9gOkeIoz_dEgeTotPzOQkoRqPy6NMmdk7to=', 'https://media.gettyimages.com/photos/pain-in-achilles-tendon-picture-id184840231?k=6&m=184840231&s=612x612&w=0&h=rSdRrbWxfoSnWjesP816LoeItHo5S31AfygE7E2vxSg=']
+U+7B4B
+12
+jīn
+118.6
+筋.mp3
+
+筌
+['bamboo fish trap']
+['trampa de bambú para peces']
+['https://media.gettyimages.com/photos/traditional-fish-trap-production-in-north-vietnam-picture-id909461404?k=6&m=909461404&s=612x612&w=0&h=y1BLIhEjUxXoDdj94VncCp07E5vA0EEDIj4jD85M9bA=']
+U+7B4C
+12
+quán
+118.6
+筌.mp3
+
+筍
+['bamboo shoot', ' joint', ' tendon']
+['brote de bambú', 'articulación', 'tendón']
+['https://media.gettyimages.com/photos/bamboo-plants-in-garden-picture-id636034636?k=6&m=636034636&s=612x612&w=0&h=BNDIUarjsJ7fvEMYmSdqpDkMliTwxe3j0w8Q0q2B8wM=', 'https://media.gettyimages.com/photos/taking-on-the-trail-one-knee-at-a-time-picture-id512749661?k=6&m=512749661&s=612x612&w=0&h=7CjdpKmFdcbVXBjSBpq4KgerthKHDEnSNcrhLinqqzQ=', 'https://media.gettyimages.com/photos/pain-in-achilles-tendon-picture-id184840231?k=6&m=184840231&s=612x612&w=0&h=rSdRrbWxfoSnWjesP816LoeItHo5S31AfygE7E2vxSg=']
+U+7B4D
+12
+sǔn
+118.6
+筍.mp3
+
+筎
+['NONE']
+['NINGUNA']
+[]
+U+7B4E
+12
+rú
+118.6
+筎.mp3
+
+筏
+['raft']
+['balsa']
+['https://media.gettyimages.com/photos/colorful-air-mattresses-in-a-row-picture-id157439801?k=6&m=157439801&s=612x612&w=0&h=E8KP0EwR0gJYBZQnERxD64w2QsCwlLqiVGdL0KCbnEA=']
+U+7B4F
+12
+fá
+118.6
+筏.mp3
+
+筐
+['bamboo basket or chest']
+['canasta o cofre de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7B50
+12
+kuāng
+118.6
+筐.mp3
+
+筑
+['ancient lute', ' build']
+['laúd antiguo', 'construir']
+['https://media.gettyimages.com/illustrations/group-of-minstrels-performing-16th-century-illustration-id1142047068?k=6&m=1142047068&s=612x612&w=0&h=oEWdoRpVnAHKSwS-WuHMOHE18JbogBseB9RQj-Bw_IQ=', 'https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=']
+U+7B51
+12
+zhù
+118.6
+筑.mp3
+
+筒
+['thick piece of bamboo', ' pipe']
+['pedazo grueso de bambú', 'tubo']
+['https://media.gettyimages.com/photos/handrail-and-trees-picture-id73536723?k=6&m=73536723&s=612x612&w=0&h=BBUcRRu_jSY6Y9BkbhkHNtmirJDcjtdsSqtwpMFbUAc=', 'https://media.gettyimages.com/photos/ventory-check-picture-id865302500?k=6&m=865302500&s=612x612&w=0&h=akPfh_zLmXwt0e5fdOuHXDpoo05s-0a_61rJTKLLnVA=']
+U+7B52
+12
+tǒng
+118.6
+筒.mp3
+
+筓
+['a hairpin on which the hair is bound at the back of the head. 15 of age']
+['una horquilla en la que se ata el cabello en la parte posterior de la cabeza. 15 de edad']
+['NONE']
+U+7B53
+12
+jī
+118.6
+筓.mp3
+
+答
+['answer, reply', ' return', ' assent to']
+['responder, responder', 'regreso', 'asentir a']
+['https://media.gettyimages.com/vectors/message-bubbble-icon-vector-id515889266?k=6&m=515889266&s=612x612&w=0&h=g1_wGx37B2P2jxISEPq7MJ8QzzbZdEsOZjlslJj7k7c=', 'https://media.gettyimages.com/photos/daddys-home-picture-id700721656?k=6&m=700721656&s=612x612&w=0&h=VrAp5HUnb25fRBwEzUnQew4WsApeGWkXquRaqkrAjz4=', 'https://media.gettyimages.com/photos/lets-merge-our-talents-as-we-get-to-the-top-picture-id1008207382?k=6&m=1008207382&s=612x612&w=0&h=hWCJqGWeATT9HOH5m2T0Rlldfh-CNm-rxBbYNNCYQos=']
+U+7B54
+12
+dá
+118.6
+答.mp3
+
+筕
+['NONE']
+['NINGUNA']
+[]
+U+7B55
+12
+háng
+118.6
+筕.mp3
+
+策
+['scheme, plan', ' to whip', ' urge']
+['esquema, plan', 'azotar', 'urge']
+['https://media.gettyimages.com/vectors/business-solution-icons-smart-series-vector-id936300578?k=6&m=936300578&s=612x612&w=0&h=stgAkdwdjyUtppb4ZeTZis3narD6RKUvceWUA6oKbNg=', 'https://media.gettyimages.com/photos/leather-whip-picture-id117169429?k=6&m=117169429&s=612x612&w=0&h=f9oxuyPNXV4nDTImzuMZkSFnDvOTb9iDvT99CBLPME8=', 'https://media.gettyimages.com/photos/les-murray-arrives-during-the-2016-western-sydney-wanderers-awards-at-picture-id527654862?k=6&m=527654862&s=612x612&w=0&h=My8nrg0j-k0xTXujEjeAjDY0vUmj2JEPjSujgUr3vVw=']
+U+7B56
+12
+cè
+118.6
+策.mp3
+
+筗
+['NONE']
+['NINGUNA']
+[]
+U+7B57
+12
+zhòng
+118.6
+筗.mp3
+
+筘
+['NONE']
+['NINGUNA']
+[]
+U+7B58
+12
+kòu
+118.6
+筘.mp3
+
+筙
+['NONE']
+['NINGUNA']
+[]
+U+7B59
+12
+lái
+118.6
+筙.mp3
+
+筚
+['wicker, bamboo']
+['mimbre, bambú']
+['https://media.gettyimages.com/photos/straw-mat-background-picture-id471411789?k=6&m=471411789&s=612x612&w=0&h=Q3lKxin2HZUZlri4e-KEePnvxlOnEufPCwFStZe0ri4=']
+U+7B5A
+12
+bì
+118.6
+筚.mp3
+
+筛
+['sieve, filter, screen', ' sift']
+['tamiz, filtro, pantalla', 'tamizar']
+['https://media.gettyimages.com/photos/detail-of-a-screening-machine-in-silvery-grey-selective-focus-picture-id1254973863?k=6&m=1254973863&s=612x612&w=0&h=4OKWs8BP-8uMverZaiD7wflhejs187PKBaH87EzMI3k=', 'https://media.gettyimages.com/photos/baking-cookie-set-up-picture-id1148033567?k=6&m=1148033567&s=612x612&w=0&h=S0tKStN_ntCOGASFmQOHwuVTjw_WZ-jrbr0RAKQ4t_4=']
+U+7B5B
+12
+shāi
+118.6
+筛.mp3
+
+筜
+['tall bamboo']
+['bambú alto']
+['https://media.gettyimages.com/photos/japanese-bamboo-forest-picture-id542068224?k=6&m=542068224&s=612x612&w=0&h=Kppg00T-mdcrCZoJNSsLG6Whhf3ZGpZCrD4awI0A-Us=']
+U+7B5C
+12
+dāng
+118.6
+筜.mp3
+
+筝
+['stringed musical instrument', ' kite']
+['instrumento musical de cuerda', 'cometa']
+['https://media.gettyimages.com/photos/stringed-instruments-picture-id959934748?k=6&m=959934748&s=612x612&w=0&h=FH-Y9JYpmu53kfO_9ppWDbR8XoLbnvVEPNumry8md9I=', 'https://media.gettyimages.com/photos/rainbow-delta-kite-isolated-on-white-with-clipping-path-picture-id173240166?k=6&m=173240166&s=612x612&w=0&h=c7LGklmhtVMhbZx6r13p31q7PXJ7nEVcwkSsU8SD1j8=']
+U+7B5D
+12
+zhēng
+118.6
+筝.mp3
+
+筞
+['NONE']
+['NINGUNA']
+[]
+U+7B5E
+13
+cè
+118.7
+筞.mp3
+
+筟
+['NONE']
+['NINGUNA']
+[]
+U+7B5F
+13
+fū
+118.7
+筟.mp3
+
+筠
+['bamboo skin', ' bamboo']
+['piel de bambú', 'bambú']
+['https://media.gettyimages.com/photos/flat-lay-of-spa-cosmetic-with-bamboo-salt-for-bath-cream-and-towel-on-picture-id1151624106?k=6&m=1151624106&s=612x612&w=0&h=dCXOAkUKiZ4wBAFuCX63SXygulxvz70TVNxdYlgc3E0=', 'https://media.gettyimages.com/photos/high-resolution-lightcolored-bamboo-background-picture-id175427437?k=6&m=175427437&s=612x612&w=0&h=yI-6ELH0QGql4y13EQEVj78XlB18aB9e3qmgEsUV4Oo=']
+U+7B60
+13
+yún
+118.7
+筠.mp3
+
+筡
+['NONE']
+['NINGUNA']
+[]
+U+7B61
+13
+tú
+118.7
+筡.mp3
+
+筢
+['rake']
+['rastrillo']
+['https://media.gettyimages.com/photos/few-gardening-tools-on-a-white-background-picture-id184395057?k=6&m=184395057&s=612x612&w=0&h=QJSZyVVpyLT7_YN1nJ_XsaxsXM4VxHHQm5hr5viHZIc=']
+U+7B62
+13
+pá
+118.7
+筢.mp3
+
+筣
+['NONE']
+['NINGUNA']
+[]
+U+7B63
+13
+lí
+118.7
+筣.mp3
+
+筤
+['young bamboo']
+['bambú joven']
+['https://media.gettyimages.com/photos/portrait-of-smiling-couple-sitting-on-sofa-at-home-with-view-to-picture-id932631438?k=6&m=932631438&s=612x612&w=0&h=lPrRsqIyBOHMl5SZcwIgex5YizP70EaWnTqVNl067WY=']
+U+7B64
+13
+láng
+118.7
+筤.mp3
+
+筥
+['round-shaped bamboo basket for holding rice']
+['canasta de bambú de forma redonda para contener arroz']
+['NONE']
+U+7B65
+12
+jǔ
+118.7
+筥.mp3
+
+筦
+['a key', ' to be in charge', ' a pipe']
+['una llave', 'estar a cargo', 'un tubo']
+['https://media.gettyimages.com/photos/car-salesman-handing-keys-to-customer-picture-id136591822?k=6&m=136591822&s=612x612&w=0&h=4k2cytYAMaldXz2yLyxCcZOAE9M9Hq54byEI-jkr9R8=', 'https://media.gettyimages.com/photos/revolution-fist-raised-picture-id1006071592?k=6&m=1006071592&s=612x612&w=0&h=GGuVxtCAaILgJFEHMf9jIkWJgj7fGAgk0yUCAL6KSFk=', 'https://media.gettyimages.com/photos/ventory-check-picture-id865302500?k=6&m=865302500&s=612x612&w=0&h=akPfh_zLmXwt0e5fdOuHXDpoo05s-0a_61rJTKLLnVA=']
+U+7B66
+13
+guǎn
+118.7
+筦.mp3
+
+筧
+['bamboo water pipe']
+['tubería de agua de bambú']
+['https://media.gettyimages.com/photos/different-types-of-zero-waste-sponges-toothbrush-and-water-pipe-flat-picture-id1194617746?k=6&m=1194617746&s=612x612&w=0&h=6H7bydHodFPhLzd174C3gx21pf4ppiHEsHpioaZEyhc=']
+U+7B67
+13
+jiǎn
+118.7
+筧.mp3
+
+筨
+['NONE']
+['NINGUNA']
+[]
+U+7B68
+13
+hán
+118.7
+筨.mp3
+
+筩
+['bamboo pipe', ' fish hook']
+['tubo de bambú', 'anzuelo']
+['https://media.gettyimages.com/photos/water-flowing-at-an-onsen-picture-id186581960?k=6&m=186581960&s=612x612&w=0&h=Rdv9lG8D_mDL8JRLNi_i2DXPAUOuVJ7WNo4Ch-I25fc=', 'https://media.gettyimages.com/vectors/fishing-hook-vector-id867696364?k=6&m=867696364&s=612x612&w=0&h=Hp-BVkmJVdBPQEcDgQiYQFNTpBwaj9p_7YgCYCD-Vf0=']
+U+7B69
+13
+tóng
+118.7
+筩.mp3
+
+筪
+['NONE']
+['NINGUNA']
+[]
+U+7B6A
+13
+xiá
+118.7
+筪.mp3
+
+筫
+['NONE']
+['NINGUNA']
+[]
+U+7B6B
+13
+zhì
+118.7
+筫.mp3
+
+筬
+['reed of a loom']
+['caña de un telar']
+['https://media.gettyimages.com/photos/handweaving-picture-id184096709?k=6&m=184096709&s=612x612&w=0&h=Mb3iTVmk8bXIhENN76whSOjh1UNYUS2MajjU_qOLKlM=']
+U+7B6C
+12
+chéng
+118.7
+筬.mp3
+
+筭
+['an ancient device for working with numbers', ' count, calculate, figure']
+['un dispositivo antiguo para trabajar con números', 'contar, calcular, figura']
+['https://media.gettyimages.com/photos/keys-of-an-old-typewriter-picture-id157587883?k=6&m=157587883&s=612x612&w=0&h=HVbzW_Axj7di5SMAl8Yd1cDvsdNDCjjEmblc4RmW5j0=', 'https://media.gettyimages.com/vectors/numbers-pattern-vector-id1130715037?k=6&m=1130715037&s=612x612&w=0&h=0NKLIS6HnEdbWv1FnD4KcpC_vUgAuWkw1vnRL9VUF0A=']
+U+7B6D
+13
+suàn
+118.7
+筭.mp3
+
+筮
+['divination with stalks of plants', ' divining rod']
+['adivinación con tallos de plantas', 'varilla de adivinación']
+['https://media.gettyimages.com/photos/glade-of-flowers-of-chamomiles-flowering-chamomile-picture-id1124388927?k=6&m=1124388927&s=612x612&w=0&h=VvtXEbRwhvPjc_oVPbh3_WaMUJBdMxznbaLJsFSHcS0=', 'https://media.gettyimages.com/photos/girl-holding-y-shaped-stick-in-landscape-picture-idBD6725-001?k=6&m=BD6725-001&s=612x612&w=0&h=8YhMmk2wiMk01rDJ8l75YWAMFe3VcpQZgabyyOfB_SM=']
+U+7B6E
+13
+shì
+118.7
+筮.mp3
+
+筯
+['chopsticks, tongs']
+['palillos, tenazas']
+['https://media.gettyimages.com/vectors/icon-set-kitchen-utensils-vector-id165737748?k=6&m=165737748&s=612x612&w=0&h=mx4ZZxBF2ijx3SuCS2pln1HLpLwxYY0k51l5P9V45zk=']
+U+7B6F
+13
+zhù
+118.7
+筯.mp3
+
+筰
+['cable']
+['cable']
+['https://media.gettyimages.com/photos/young-industry-employees-checking-production-line-in-wire-warehouse-picture-id1042415034?k=6&m=1042415034&s=612x612&w=0&h=6Djp0hDHvxabFWOK3xZbroSP1NYbZFpEZTptafQqlG0=']
+U+7B70
+13
+zuó
+118.7
+筰.mp3
+
+筱
+['dwarf bamboo', " diminutive in person's name"]
+['bambú enano', 'diminutivo en nombre de la persona']
+['https://media.gettyimages.com/illustrations/botany-plants-antique-engraving-illustration-bambusa-nana-illustration-id962861368?k=6&m=962861368&s=612x612&w=0&h=SXnPVY4uP703kLCZdMEntmBfJJhYC7hAkKqVpNllNoE=', 'https://media.gettyimages.com/photos/cropped-image-of-person-holding-american-flag-picture-id1049811794?k=6&m=1049811794&s=612x612&w=0&h=QX2GC4ykx4x1MDYbzs1fdwVK7UJ3iaqmJfYSIrHEIqE=']
+U+7B71
+13
+xiǎo
+118.7
+筱.mp3
+
+筲
+['basket, bucket']
+['cesta, cubo']
+['https://media.gettyimages.com/vectors/basketball-icons-vector-id1094796880?k=6&m=1094796880&s=612x612&w=0&h=lMKY7fN43A0k0YhTy2FMXjLAZmOYnPSYsqIDu3qEs7Y=']
+U+7B72
+13
+shāo
+118.7
+筲.mp3
+
+筳
+['feast']
+['banquete']
+['https://media.gettyimages.com/photos/heres-to-tonight-picture-id868935172?k=6&m=868935172&s=612x612&w=0&h=MjBYXm7f229lyNXsWqcSnmlouGWrfsNDYhQCiPJ0V6g=']
+U+7B73
+12
+tíng
+118.7
+筳.mp3
+
+筴
+['type of grass used in divination', ' to divine', ' pincers']
+['tipo de hierba utilizada en la adivinación', 'adivinar', 'tenazas']
+['NONE', 'https://media.gettyimages.com/photos/january-1983-american-actor-and-drag-queen-divine-performs-at-the-red-picture-id3201712?k=6&m=3201712&s=612x612&w=0&h=DvlGmCZQ7jS23EWqIqiIqRWBR-zkwuHnqw_blywK3gk=', 'https://media.gettyimages.com/photos/robotic-arm-picture-id157613838?k=6&m=157613838&s=612x612&w=0&h=pIBvIJjFxkZ7hhfqUjXTkiVQmEIWssDBlRFK9T8f4fo=']
+U+7B74
+13
+cè
+118.7
+筴.mp3
+
+筵
+['feast']
+['banquete']
+['https://media.gettyimages.com/photos/heres-to-tonight-picture-id868935172?k=6&m=868935172&s=612x612&w=0&h=MjBYXm7f229lyNXsWqcSnmlouGWrfsNDYhQCiPJ0V6g=']
+U+7B75
+12
+yán
+118.7
+筵.mp3
+
+筶
+['NONE']
+['NINGUNA']
+[]
+U+7B76
+13
+gào
+118.7
+筶.mp3
+
+筷
+['chopsticks']
+['palillos']
+['https://media.gettyimages.com/photos/closeup-of-chopsticks-against-white-background-picture-id914277238?k=6&m=914277238&s=612x612&w=0&h=EWO1RHUVyUV_QDiBUit3n57j9PMrGTgEDU_yKvi70Zo=']
+U+7B77
+13
+kuài
+118.7
+筷.mp3
+
+筸
+['name of a place in Honan']
+['nombre de un lugar en Honan']
+['NONE']
+U+7B78
+13
+gān
+118.7
+筸.mp3
+
+筹
+['chip, tally, token', ' raise money']
+['chip, cuenta, token', 'recaudar dinero']
+['NONE', 'https://media.gettyimages.com/vectors/return-on-investment-icons-line-series-vector-id1056787734?k=6&m=1056787734&s=612x612&w=0&h=NWFg3x67Z4AbQiK7PH62-xNTwxmH0Gh96fDos98RcgM=']
+U+7B79
+13
+chóu
+118.7
+筹.mp3
+
+筺
+['bamboo basket or chest']
+['canasta o cofre de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7B7A
+13
+kuāng
+118.7
+筺.mp3
+
+筻
+['place name in Hunan province']
+['nombre del lugar en la provincia de Hunan']
+['NONE']
+U+7B7B
+13
+gàng
+118.7
+筻.mp3
+
+筼
+['tall bamboo']
+['bambú alto']
+['https://media.gettyimages.com/photos/japanese-bamboo-forest-picture-id542068224?k=6&m=542068224&s=612x612&w=0&h=Kppg00T-mdcrCZoJNSsLG6Whhf3ZGpZCrD4awI0A-Us=']
+U+7B7C
+13
+yún
+118.7
+筼.mp3
+
+筽
+['NONE']
+['NINGUNA']
+[]
+U+7B7D
+13
+o
+118.7
+筽.mp3
+
+签
+['sign, endorse', ' slip of paper']
+['firmar, endosar', 'trozo de papel']
+['https://media.gettyimages.com/photos/running-over-the-terms-and-conditions-in-her-contract-picture-id888776672?k=6&m=888776672&s=612x612&w=0&h=zVjBCBmM_en4VfYN3jJU7wI9WZhlUhKeGl-1_uaiExo=', 'https://media.gettyimages.com/photos/after-the-party-picture-id1186454611?k=6&m=1186454611&s=612x612&w=0&h=9G6gWxl_oyv7EryFI0wD3A9_a0-s9GC7GNj1QIWfEJE=']
+U+7B7E
+13
+qiān
+118.7
+签.mp3
+
+筿
+['NONE']
+['NINGUNA']
+[]
+U+7B7F
+13
+xiǎo
+118.7
+筿.mp3
+
+简
+['simple, terse, succinct, a letter']
+['simple, conciso, sucinto, una carta']
+['NONE']
+U+7B80
+13
+jiǎn
+118.7
+简.mp3
+
+箁
+['NONE']
+['NINGUNA']
+[]
+U+7B81
+14
+póu
+118.8
+箁.mp3
+
+箂
+['NONE']
+['NINGUNA']
+[]
+U+7B82
+14
+lái
+118.8
+箂.mp3
+
+箃
+['NONE']
+['NINGUNA']
+[]
+U+7B83
+14
+zōu
+118.8
+箃.mp3
+
+箄
+['NONE']
+['NINGUNA']
+[]
+U+7B84
+14
+bǐ
+118.8
+箄.mp3
+
+箅
+['NONE']
+['NINGUNA']
+[]
+U+7B85
+14
+bì
+118.8
+箅.mp3
+
+箆
+['fine-toothed comb', ' comb hair']
+['peine de dientes finos', 'peinar el cabello']
+['https://media.gettyimages.com/vectors/black-finetoothed-hair-comb-vector-id465897830?k=6&m=465897830&s=612x612&w=0&h=DcFe-N1H2QHSaa9fLGHslOMARtpzYtD8dKXVzwyOM5k=', 'https://media.gettyimages.com/photos/young-woman-with-beautiful-long-hair-combing-her-locks-picture-id164173339?k=6&m=164173339&s=612x612&w=0&h=i41E2utWtFfdfx-NluEzk8HXIeKDgRNFvv8gaXiYCss=']
+U+7B86
+14
+bì
+118.8
+箆.mp3
+
+箇
+['numerary adjunct, piece', ' single']
+['adjunto numerario, pieza', 'soltero']
+['NONE', 'https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=']
+U+7B87
+14
+gè
+118.8
+箇.mp3
+
+箈
+['NONE']
+['NINGUNA']
+[]
+U+7B88
+14
+tái
+118.8
+箈.mp3
+
+箉
+['NONE']
+['NINGUNA']
+[]
+U+7B89
+14
+guǎi
+118.8
+箉.mp3
+
+箊
+['NONE']
+['NINGUNA']
+[]
+U+7B8A
+14
+yū
+118.8
+箊.mp3
+
+箋
+['note, memo', ' stationery', ' comments']
+['nota, memo', 'papelería', 'comentarios']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/photos/office-supply-background-picture-id165835492?k=6&m=165835492&s=612x612&w=0&h=i6ir28gtldpc17UCLHs78GKPHy2GKlSIiEzDmjccXTY=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+7B8B
+14
+jiān
+118.8
+箋.mp3
+
+箌
+['NONE']
+['NINGUNA']
+[]
+U+7B8C
+14
+dào
+118.8
+箌.mp3
+
+箍
+['hoop', ' bind, surround']
+['esperanza', 'enlazar, rodear']
+['https://media.gettyimages.com/vectors/basketball-line-symbols-vector-id908334372?k=6&m=908334372&s=612x612&w=0&h=Ls3c4AgowvEX6-nb-DljapRqCgTzbDfF3jVY9D2KcTw=', 'https://media.gettyimages.com/photos/couple-sitting-in-new-home-with-man-wearing-vr-glasses-picture-id916900782?k=6&m=916900782&s=612x612&w=0&h=Alp8H1mhMEbhIpw5hDCF4wN3bEEiRIqVOcjLo_DxcxE=']
+U+7B8D
+14
+gū
+118.8
+箍.mp3
+
+箎
+['ancient woodwind instrument']
+['antiguo instrumento de viento de madera']
+['https://media.gettyimages.com/illustrations/group-of-minstrels-performing-16th-century-illustration-id1142047068?k=6&m=1142047068&s=612x612&w=0&h=oEWdoRpVnAHKSwS-WuHMOHE18JbogBseB9RQj-Bw_IQ=']
+U+7B8E
+14
+chí
+118.8
+箎.mp3
+
+箏
+['stringed musical instrument', ' kite']
+['instrumento musical de cuerda', 'cometa']
+['https://media.gettyimages.com/photos/stringed-instruments-picture-id959934748?k=6&m=959934748&s=612x612&w=0&h=FH-Y9JYpmu53kfO_9ppWDbR8XoLbnvVEPNumry8md9I=', 'https://media.gettyimages.com/photos/rainbow-delta-kite-isolated-on-white-with-clipping-path-picture-id173240166?k=6&m=173240166&s=612x612&w=0&h=c7LGklmhtVMhbZx6r13p31q7PXJ7nEVcwkSsU8SD1j8=']
+U+7B8F
+14
+zhēng
+118.8
+箏.mp3
+
+箐
+['to draw a bamboo bow or crossbow']
+['dibujar un arco de bambú o una ballesta']
+['NONE']
+U+7B90
+14
+qìng
+118.8
+箐.mp3
+
+箑
+['fan']
+['ventilador']
+['https://media.gettyimages.com/photos/passionate-fans-cheer-and-raise-hands-at-a-sporting-event-picture-id937037584?k=6&m=937037584&s=612x612&w=0&h=hiGsfGeV0LGk7ax1kBtP7V88g0rb3oyrv0zDbZbxYMQ=']
+U+7B91
+14
+shà
+118.8
+箑.mp3
+
+箒
+['broom']
+['Escoba']
+['https://media.gettyimages.com/photos/broom-picture-id184100673?k=6&m=184100673&s=612x612&w=0&h=ngNVGM-S54j67BG-D9X0q8tpeBa9RV2JvAbf-16ndCI=']
+U+7B92
+14
+zhǒu
+118.8
+箒.mp3
+
+箓
+['book']
+['libro']
+['https://media.gettyimages.com/vectors/books-icons-acme-series-vector-id894453312?k=6&m=894453312&s=612x612&w=0&h=CRzgQjnpgYG1pZCmyZM21-JNLTcvkwfyvEWFZoAeCrE=']
+U+7B93
+14
+lù
+118.8
+箓.mp3
+
+箔
+['reed screen', ' frame for growing silkworms']
+['pantalla de caña', 'marco para el cultivo de gusanos de seda']
+['https://media.gettyimages.com/photos/touch-screen-phone-picture-id175525063?k=6&m=175525063&s=612x612&w=0&h=d435xtq8BMnNdPYGMw5KzN51chQlDjAvUxvzTH8oGrI=', 'https://media.gettyimages.com/photos/full-frame-shot-of-silkworms-picture-id1250730188?k=6&m=1250730188&s=612x612&w=0&h=xXbnhRRLCEyqkD_8WVlCDw78_Wut3CRRMTR6PYLc2wo=']
+U+7B94
+14
+bó
+118.8
+箔.mp3
+
+箕
+['sieve', ' dust pan, garbage bag']
+['tamiz', 'recogedor, bolsa de basura']
+['https://media.gettyimages.com/photos/closeup-of-sieve-over-white-background-picture-id915514770?k=6&m=915514770&s=612x612&w=0&h=LJ6vRgQVGGReQMsHCqjyp7cDBRJtHxTCclUMiFNAYsk=', 'NONE']
+U+7B95
+14
+jī
+118.8
+箕.mp3
+
+箖
+['a large basket']
+['una canasta grande']
+['https://media.gettyimages.com/photos/basketball-friends-relaxing-picture-id1058535792?k=6&m=1058535792&s=612x612&w=0&h=t4sjEsR0-bY7vxBhgEQduNxnu68jDpV4FTRKwNpR74E=']
+U+7B96
+14
+lín
+118.8
+箖.mp3
+
+算
+['count, calculate, figure', ' plan']
+['contar, calcular, figura', 'plan']
+['https://media.gettyimages.com/vectors/numbers-pattern-vector-id1130715037?k=6&m=1130715037&s=612x612&w=0&h=0NKLIS6HnEdbWv1FnD4KcpC_vUgAuWkw1vnRL9VUF0A=', 'https://media.gettyimages.com/photos/woman-sketching-a-business-plan-at-a-creative-office-picture-id912338074?k=6&m=912338074&s=612x612&w=0&h=E2GNL8z4bMxG60XgGDJLqQenoW9IQpVHZ2oKtwiMhQg=']
+U+7B97
+14
+suàn
+118.8
+算.mp3
+
+箘
+['fine bamboo']
+['bambú fino']
+['https://media.gettyimages.com/photos/closeup-detail-of-bamboo-mat-background-picture-id124816386?k=6&m=124816386&s=612x612&w=0&h=i4PqXaSLgv9-AHURTb5aws3vWTvi68hQI8VpFLNq1e8=']
+U+7B98
+14
+jùn
+118.8
+箘.mp3
+
+箙
+['quiver']
+['carcaj']
+['https://media.gettyimages.com/photos/arrows-and-their-fate-picture-id134301433?k=6&m=134301433&s=612x612&w=0&h=g7VfZK9OSqLAYDsvlTH6uKmJe9-w82ZC3ld6UN_3CJw=']
+U+7B99
+14
+fú
+118.8
+箙.mp3
+
+箚
+['brief note', ' official communique']
+['nota breve', 'comunicado oficial']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'NONE']
+U+7B9A
+14
+zhá
+118.8
+箚.mp3
+
+箛
+['bugle']
+['bugle']
+['https://media.gettyimages.com/photos/world-war-ii-soldier-playing-taps-picture-id143922798?k=6&m=143922798&s=612x612&w=0&h=ovtX5e6dxU5pLG3AGQZpnZIfxr_JrX8Mmt1kBoSWn6Y=']
+U+7B9B
+14
+gū
+118.8
+箛.mp3
+
+箜
+['ancient string music instrument']
+['antiguo instrumento musical de cuerda']
+['https://media.gettyimages.com/photos/asian-woman-playing-the-guqin-picture-id1175823404?k=6&m=1175823404&s=612x612&w=0&h=JaORT207V94jHKRH1MXecGmxW1VpaO-UUZQyYRLNnV8=']
+U+7B9C
+14
+kōng
+118.8
+箜.mp3
+
+箝
+['tweezers, pliers, tongs, pincers']
+['pinzas, alicates, tenazas, tenazas']
+['https://media.gettyimages.com/photos/medicine-and-surgery-theme-doctors-hand-in-a-blue-glove-holding-a-of-picture-id1162815583?k=6&m=1162815583&s=612x612&w=0&h=TFr3lu3SYK5n6H9RdNWubJ-xLj5mFBVI0qJtRN3YRvw=']
+U+7B9D
+14
+qián
+118.8
+箝.mp3
+
+箞
+['NONE']
+['NINGUNA']
+[]
+U+7B9E
+14
+qiān
+118.8
+箞.mp3
+
+箟
+['NONE']
+['NINGUNA']
+[]
+U+7B9F
+14
+jùn
+118.8
+箟.mp3
+
+箠
+['horse whip', ' flog']
+['látigo de caballo', 'voló']
+['https://media.gettyimages.com/photos/traditional-english-horseback-riding-equipment-picture-id182929784?k=6&m=182929784&s=612x612&w=0&h=MecT8zAhRmRuvsxzm4b3VegsV8yVDvGJhr52SS2wNL8=', 'https://media.gettyimages.com/photos/green-flog-jumping-picture-id451821011?k=6&m=451821011&s=612x612&w=0&h=kcqrpikBf0UIiTAcTKpkBsOF1bx0TvBizqWHcrA_ALc=']
+U+7BA0
+14
+chuí
+118.8
+箠.mp3
+
+管
+['pipe, tube, duct', ' woodwind music']
+['tubo, tubo, conducto', 'música de viento de madera']
+['https://media.gettyimages.com/photos/air-conditioning-ducts-picture-id149396215?k=6&m=149396215&s=612x612&w=0&h=41CljN0MKExafqI5H8WJKEBnIeEqUILri4HqWH9PCeY=', 'https://media.gettyimages.com/vectors/music-icon-set-thick-line-series-vector-id1034805860?k=6&m=1034805860&s=612x612&w=0&h=2ykLsVcblSrCYoC4-qo2_jZRwLTv3SgfRAZWOqFjOzE=']
+U+7BA1
+14
+guǎn
+118.8
+管.mp3
+
+箢
+['NONE']
+['NINGUNA']
+[]
+U+7BA2
+14
+yuān
+118.8
+箢.mp3
+
+箣
+['NONE']
+['NINGUNA']
+[]
+U+7BA3
+14
+cè
+118.8
+箣.mp3
+
+箤
+['NONE']
+['NINGUNA']
+[]
+U+7BA4
+14
+zú
+118.8
+箤.mp3
+
+箥
+['NONE']
+['NINGUNA']
+[]
+U+7BA5
+14
+bǒ
+118.8
+箥.mp3
+
+箦
+['bed mat', ' mat']
+['estera de cama', 'comida']
+['https://media.gettyimages.com/photos/asian-man-uses-digital-tablet-to-lean-plank-position-picture-id1165505236?k=6&m=1165505236&s=612x612&w=0&h=DsLiI4wkCtXxZPCJG0xwwLGwbkPFmnJnjGJoRpMUfTM=', 'https://media.gettyimages.com/photos/woman-rolling-up-yoga-mat-picture-id909423910?k=6&m=909423910&s=612x612&w=0&h=PCeT74wOtI_zdaGCwpJxln5fLyxrcWXcDSzIY0VAciM=']
+U+7BA6
+14
+zé
+118.8
+箦.mp3
+
+箧
+['rattan box, suitcase, or case']
+['caja, maleta o estuche de ratán']
+['NONE']
+U+7BA7
+14
+qiè
+118.8
+箧.mp3
+
+箨
+['bamboo sheath, bamboo shoots']
+['vaina de bambú, brotes de bambú']
+['https://media.gettyimages.com/photos/phyllostachys-decora-detail-of-the-sheath-picture-id522105656?k=6&m=522105656&s=612x612&w=0&h=E-8Et6PixiV8bzg1hVzJ3-3W5rmZFUioEq9dFq5JQ5g=']
+U+7BA8
+14
+tuò
+118.8
+箨.mp3
+
+箩
+['bamboo basket']
+['canasta de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7BA9
+14
+luó
+118.8
+箩.mp3
+
+箪
+['small bamboo basket for holding']
+['pequeña canasta de bambú para sostener']
+['https://media.gettyimages.com/photos/mobile-photography-of-steamed-dumplings-picture-id509177646?k=6&m=509177646&s=612x612&w=0&h=qgaZv4NFKNuitgHl26GL_br77_l1QE6Py65FsPuO4WU=']
+U+7BAA
+14
+dān
+118.8
+箪.mp3
+
+箫
+['bamboo flute']
+['flauta de bambú']
+['https://media.gettyimages.com/photos/japanese-men-playing-the-shamisen-and-the-shakuhac-picture-id609153159?k=6&m=609153159&s=612x612&w=0&h=qevD6so6KqEW2Km1Vs1CNAj2SKsSppvjG_J4apI93S4=']
+U+7BAB
+14
+xiāo
+118.8
+箫.mp3
+
+箬
+['the cuticle of the bamboo a broad-leaved bamboo']
+['la cutícula del bambú un bambú de hoja ancha']
+['NONE']
+U+7BAC
+14
+ruò
+118.9
+箬.mp3
+
+箭
+['arrow', ' type of bamboo']
+['flecha', 'tipo de bambú']
+['https://media.gettyimages.com/vectors/arrow-set-isolated-vector-id1143487094?k=6&m=1143487094&s=612x612&w=0&h=AMAIWgDA0lSKEEGopc88xBYS0TsXIQoKaBfpSbITaFg=', 'https://media.gettyimages.com/photos/kanji-meaning-matcha-on-a-dark-background-with-teapot-bamboo-whisk-picture-id1166608893?k=6&m=1166608893&s=612x612&w=0&h=7WQFyJ7eOrL7xrwdlTmXT_Ifm9km6kibn12bOGYs680=']
+U+7BAD
+15
+jiàn
+118.9
+箭.mp3
+
+箮
+['NONE']
+['NINGUNA']
+[]
+U+7BAE
+15
+xuān
+118.9
+箮.mp3
+
+箯
+['bamboo palanquin']
+['palanquín de bambú']
+['NONE']
+U+7BAF
+15
+biān
+118.9
+箯.mp3
+
+箰
+['NONE']
+['NINGUNA']
+[]
+U+7BB0
+15
+sǔn
+118.9
+箰.mp3
+
+箱
+['case, box, chest, trunk']
+['caso, caja, cofre, maletero']
+['https://media.gettyimages.com/photos/holding-an-old-suitcase-picture-id91393907?k=6&m=91393907&s=612x612&w=0&h=rz16J81J1UAZ0SJOqmJJlEMWkNKHS5Le09lypmWNqq8=']
+U+7BB1
+15
+xiāng
+118.9
+箱.mp3
+
+箲
+['NONE']
+['NINGUNA']
+[]
+U+7BB2
+15
+xiǎn
+118.9
+箲.mp3
+
+箳
+['bamboo mat used to protect carriage passengers from dust (vulgar form)']
+['estera de bambú utilizada para proteger a los pasajeros del carruaje del polvo (forma vulgar)']
+['NONE']
+U+7BB3
+15
+píng
+118.9
+箳.mp3
+
+箴
+['needle, probe', ' warn, admonish']
+['aguja, sonda', 'advertir, amonestar']
+['https://media.gettyimages.com/vectors/coronavirus-hygienic-shield-vector-id1205536425?k=6&m=1205536425&s=612x612&w=0&h=MJcEu-3VCtCsEM0z2ds2lPiNRXUmkiSIb30T1UvVMOw=', 'https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=']
+U+7BB4
+15
+zhēn
+118.9
+箴.mp3
+
+箵
+['NONE']
+['NINGUNA']
+[]
+U+7BB5
+15
+xīng
+118.9
+箵.mp3
+
+箶
+['NONE']
+['NINGUNA']
+[]
+U+7BB6
+15
+hú
+118.9
+箶.mp3
+
+箷
+['NONE']
+['NINGUNA']
+[]
+U+7BB7
+15
+yí
+118.9
+箷.mp3
+
+箸
+['chopsticks']
+['palillos']
+['https://media.gettyimages.com/photos/closeup-of-chopsticks-against-white-background-picture-id914277238?k=6&m=914277238&s=612x612&w=0&h=EWO1RHUVyUV_QDiBUit3n57j9PMrGTgEDU_yKvi70Zo=']
+U+7BB8
+14
+zhù
+118.9
+箸.mp3
+
+箹
+['NONE']
+['NINGUNA']
+[]
+U+7BB9
+15
+yuē
+118.9
+箹.mp3
+
+箺
+['NONE']
+['NINGUNA']
+[]
+U+7BBA
+15
+chūn
+118.9
+箺.mp3
+
+箻
+['NONE']
+['NINGUNA']
+[]
+U+7BBB
+15
+lǜ
+118.9
+箻.mp3
+
+箼
+['NONE']
+['NINGUNA']
+[]
+U+7BBC
+15
+wū
+118.9
+箼.mp3
+
+箽
+['NONE']
+['NINGUNA']
+[]
+U+7BBD
+15
+dǒng
+118.9
+箽.mp3
+
+箾
+['musical instrument like pan-pipes, bamboo flute']
+['Instrumento musical como tubos de pan, flauta de bambú.']
+['NONE']
+U+7BBE
+15
+shuò
+118.9
+箾.mp3
+
+箿
+['NONE']
+['NINGUNA']
+[]
+U+7BBF
+15
+jí
+118.9
+箿.mp3
+
+節
+['knot, node, joint', ' section']
+['nudo, nudo, articulación', 'sección']
+['NONE', 'https://media.gettyimages.com/vectors/infographic-elements-vector-id1183950406?k=6&m=1183950406&s=612x612&w=0&h=ukjNxDIJTt6beLcqlC3tmo-OPppCiovrmhiwI5v2RVs=']
+U+7BC0
+13
+jié
+118.7
+節.mp3
+
+篁
+['bamboo grove', ' bamboo']
+['bosque de bambú', 'bambú']
+['https://media.gettyimages.com/photos/arashiyama-bamboo-forest-in-kyoto-japan-picture-id540757494?k=6&m=540757494&s=612x612&w=0&h=ZYX3wId5cyDz-7kvRbS3VXha8f20pDcqKD6hFLrc2p8=', 'https://media.gettyimages.com/photos/high-resolution-lightcolored-bamboo-background-picture-id175427437?k=6&m=175427437&s=612x612&w=0&h=yI-6ELH0QGql4y13EQEVj78XlB18aB9e3qmgEsUV4Oo=']
+U+7BC1
+15
+huáng
+118.9
+篁.mp3
+
+篂
+['NONE']
+['NINGUNA']
+[]
+U+7BC2
+15
+xīng
+118.9
+篂.mp3
+
+篃
+['NONE']
+['NINGUNA']
+[]
+U+7BC3
+15
+mèi
+118.9
+篃.mp3
+
+範
+['pattern, model, rule, law']
+['patrón, modelo, regla, ley']
+['NONE']
+U+7BC4
+15
+fàn
+118.9
+範.mp3
+
+篅
+['NONE']
+['NINGUNA']
+[]
+U+7BC5
+15
+chuán
+118.9
+篅.mp3
+
+篆
+['seal script', ' seal, official stamp']
+['sello de escritura', 'sello, sello oficial']
+['https://media.gettyimages.com/vectors/trendy-gray-badge-premium-quality-guaranteed-vector-id1144489566?k=6&m=1144489566&s=612x612&w=0&h=_gQAOQP8GFBQCs5xgtgjCA7EZ3dG75IOPj389LyX42M=', 'https://media.gettyimages.com/vectors/vector-icon-of-approved-vector-id499606000?k=6&m=499606000&s=612x612&w=0&h=UL5bF757ZP3PnMLaJBps2fUFLUqaoXj2JHlk_UDMHNw=']
+U+7BC6
+15
+zhuàn
+118.9
+篆.mp3
+
+篇
+['chapter, section, essay, article']
+['capítulo, sección, ensayo, artículo']
+['NONE']
+U+7BC7
+15
+piān
+118.9
+篇.mp3
+
+篈
+['NONE']
+['NINGUNA']
+[]
+U+7BC8
+15
+fēng
+118.9
+篈.mp3
+
+築
+['build, erect', ' building']
+['construir, erigir', 'edificio']
+['https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=', 'https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=']
+U+7BC9
+16
+zhú
+118.10
+築.mp3
+
+篊
+['NONE']
+['NINGUNA']
+[]
+U+7BCA
+15
+huáng
+118.9
+篊.mp3
+
+篋
+['ratton box, suitcase, or case']
+['caja, maleta o estuche de ratán']
+['NONE']
+U+7BCB
+15
+qiè
+118.9
+篋.mp3
+
+篌
+['ancient music instrument', ' harp']
+['instrumento de musica antigua', 'arpa']
+['https://media.gettyimages.com/illustrations/group-of-minstrels-performing-16th-century-illustration-id1142047068?k=6&m=1142047068&s=612x612&w=0&h=oEWdoRpVnAHKSwS-WuHMOHE18JbogBseB9RQj-Bw_IQ=', 'https://media.gettyimages.com/photos/professional-female-harpist-during-performance-picture-id1149271091?k=6&m=1149271091&s=612x612&w=0&h=2MdkfLaultR5Ldbsm3F_oJrHE00xidz9WcFnWsKtdyk=']
+U+7BCC
+15
+hóu
+118.9
+篌.mp3
+
+篍
+['NONE']
+['NINGUNA']
+[]
+U+7BCD
+15
+qiū
+118.9
+篍.mp3
+
+篎
+['NONE']
+['NINGUNA']
+[]
+U+7BCE
+15
+miǎo
+118.9
+篎.mp3
+
+篏
+['inlay, set in', ' fall into', ' rugged']
+['incrustación, engastado en', 'caer en', 'escabroso']
+['https://media.gettyimages.com/photos/morrocan-styled-tea-set-picture-id1216565491?k=6&m=1216565491&s=612x612&w=0&h=mlOY1P-0AYRbea-P66VZB37U8ZzgJm1PY7VlE_py3mE=', 'https://media.gettyimages.com/vectors/autumn-leaves-seamless-pattern-vector-id1024082018?k=6&m=1024082018&s=612x612&w=0&h=QbHLaDrrI4kWyf4NYaOUb4djD7eaShkclv5f6kV2SG0=', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+7BCF
+15
+qiàn
+118.9
+篏.mp3
+
+篐
+['NONE']
+['NINGUNA']
+[]
+U+7BD0
+15
+gū
+118.9
+篐.mp3
+
+篑
+['a bamboo basket for carrying earth']
+['una canasta de bambú para llevar tierra']
+['https://media.gettyimages.com/photos/pao-tribe-farmer-in-bamboo-forrest-picture-id484029957?k=6&m=484029957&s=612x612&w=0&h=ngzp9e6JHIM2F-rRBvl7ki-XXTdFXkGZJYanMvLhxjI=']
+U+7BD1
+15
+kuì
+118.9
+篑.mp3
+
+篒
+['NONE']
+['NINGUNA']
+[]
+U+7BD2
+15
+shi
+118.9
+篒.mp3
+
+篓
+['bamboo basket']
+['canasta de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7BD3
+15
+lǒu
+118.9
+篓.mp3
+
+篔
+['tall bamboo']
+['bambú alto']
+['https://media.gettyimages.com/photos/japanese-bamboo-forest-picture-id542068224?k=6&m=542068224&s=612x612&w=0&h=Kppg00T-mdcrCZoJNSsLG6Whhf3ZGpZCrD4awI0A-Us=']
+U+7BD4
+16
+yún
+118.10
+篔.mp3
+
+篕
+['NONE']
+['NINGUNA']
+[]
+U+7BD5
+16
+hé
+118.10
+篕.mp3
+
+篖
+['NONE']
+['NINGUNA']
+[]
+U+7BD6
+16
+táng
+118.10
+篖.mp3
+
+篗
+['NONE']
+['NINGUNA']
+[]
+U+7BD7
+16
+yuè
+118.10
+篗.mp3
+
+篘
+['a utensil used to filter wine', ' a filter']
+['un utensilio utilizado para filtrar el vino', 'un filtro']
+['https://media.gettyimages.com/photos/wineglass-wine-bottle-vintage-corkscrew-and-cork-stopper-picture-id1169969720?k=6&m=1169969720&s=612x612&w=0&h=Kpo9mYiwT_2m6DMd6SCzd8r341jEHrAzleSLhu5UuMc=', 'https://media.gettyimages.com/vectors/sales-report-outline-icon-set-vector-id1153533995?k=6&m=1153533995&s=612x612&w=0&h=KxTzEDQZN3KhN35oON1erEP2dpcVlNHGY5LbkFCaxk4=']
+U+7BD8
+16
+chōu
+118.10
+篘.mp3
+
+篙
+['pole used punt boat']
+['barco de batea usado poste']
+['https://media.gettyimages.com/illustrations/young-nineteenth-century-man-falling-backwards-off-a-punt-into-a-illustration-id937045716?k=6&m=937045716&s=612x612&w=0&h=ze44Nu77J-Y80PhYYEx6gpLqm_lf9PN0pCi-fggrhic=']
+U+7BD9
+16
+gāo
+118.10
+篙.mp3
+
+篚
+['round or oval covered-baskets with short legs']
+['cestas cubiertas redondas u ovaladas con patas cortas']
+['NONE']
+U+7BDA
+16
+fěi
+118.10
+篚.mp3
+
+篛
+['cuticle of bamboo plant']
+['cutícula de la planta de bambú']
+['NONE']
+U+7BDB
+16
+ruò
+118.10
+篛.mp3
+
+篜
+['NONE']
+['NINGUNA']
+[]
+U+7BDC
+16
+zhēng
+118.10
+篜.mp3
+
+篝
+['bamboo basket', ' bamboo frame']
+['canasta de bambú', 'marco de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=', 'https://media.gettyimages.com/vectors/frames-of-chinese-style-vector-id507847858?k=6&m=507847858&s=612x612&w=0&h=ouvJDVc7VsPJh1gp_2F_M0QsmNmA7Clmh6aDrJRpCZk=']
+U+7BDD
+16
+gōu
+118.10
+篝.mp3
+
+篞
+['NONE']
+['NINGUNA']
+[]
+U+7BDE
+16
+niè
+118.10
+篞.mp3
+
+篟
+['NONE']
+['NINGUNA']
+[]
+U+7BDF
+16
+qiàn
+118.10
+篟.mp3
+
+篠
+['dwarf bamboo', " diminutive in person's name"]
+['bambú enano', 'diminutivo en nombre de la persona']
+['https://media.gettyimages.com/illustrations/botany-plants-antique-engraving-illustration-bambusa-nana-illustration-id962861368?k=6&m=962861368&s=612x612&w=0&h=SXnPVY4uP703kLCZdMEntmBfJJhYC7hAkKqVpNllNoE=', 'https://media.gettyimages.com/photos/cropped-image-of-person-holding-american-flag-picture-id1049811794?k=6&m=1049811794&s=612x612&w=0&h=QX2GC4ykx4x1MDYbzs1fdwVK7UJ3iaqmJfYSIrHEIqE=']
+U+7BE0
+16
+xiǎo
+118.10
+篠.mp3
+
+篡
+['usurp']
+['usurpar']
+['https://media.gettyimages.com/photos/usurp-picture-id977545596?k=6&m=977545596&s=612x612&w=0&h=oj_UXU6yt26WbdZQWNylVlq1eCDUI_F11FkmbbpdwKY=']
+U+7BE1
+16
+cuàn
+118.10
+篡.mp3
+
+篢
+['the name of bamboo hat']
+['el nombre del sombrero de bambú']
+['https://media.gettyimages.com/illustrations/stereotypical-chinese-woman-standing-on-the-chinese-flag-in-the-shape-illustration-id81981374?k=6&m=81981374&s=612x612&w=0&h=QoGG5uoRpWrNgGsDQVPdX2FWs-wE84m02RXnQrAI1fA=']
+U+7BE2
+16
+lǒng
+118.10
+篢.mp3
+
+篣
+['NONE']
+['NINGUNA']
+[]
+U+7BE3
+16
+péng
+118.10
+篣.mp3
+
+篤
+['deep, true, sincere, genuine']
+['profundo, verdadero, sincero, genuino']
+['https://media.gettyimages.com/photos/utah-senior-cowboy-picture-id992303262?k=6&m=992303262&s=612x612&w=0&h=4LPoCQJj-PNriqSxllFFwZSZJcglOaESpFro-zUMqLo=']
+U+7BE4
+16
+dǔ
+118.10
+篤.mp3
+
+篥
+['bugle, ']
+['bugle,']
+['https://media.gettyimages.com/photos/world-war-ii-soldier-playing-taps-picture-id143922798?k=6&m=143922798&s=612x612&w=0&h=ovtX5e6dxU5pLG3AGQZpnZIfxr_JrX8Mmt1kBoSWn6Y=']
+U+7BE5
+16
+lì
+118.10
+篥.mp3
+
+篦
+['fine-toothed comb', ' comb hair']
+['peine de dientes finos', 'peinar el cabello']
+['https://media.gettyimages.com/vectors/black-finetoothed-hair-comb-vector-id465897830?k=6&m=465897830&s=612x612&w=0&h=DcFe-N1H2QHSaa9fLGHslOMARtpzYtD8dKXVzwyOM5k=', 'https://media.gettyimages.com/photos/young-woman-with-beautiful-long-hair-combing-her-locks-picture-id164173339?k=6&m=164173339&s=612x612&w=0&h=i41E2utWtFfdfx-NluEzk8HXIeKDgRNFvv8gaXiYCss=']
+U+7BE6
+16
+bì
+118.10
+篦.mp3
+
+篧
+['NONE']
+['NINGUNA']
+[]
+U+7BE7
+16
+zhuó
+118.10
+篧.mp3
+
+篨
+['coarse bamboo mat', ' ugly']
+['estera de bambú gruesa', 'feo']
+['https://media.gettyimages.com/photos/straw-mat-background-picture-id471411789?k=6&m=471411789&s=612x612&w=0&h=Q3lKxin2HZUZlri4e-KEePnvxlOnEufPCwFStZe0ri4=', 'https://media.gettyimages.com/photos/christmas-sweater-people-picture-id496921070?k=6&m=496921070&s=612x612&w=0&h=t8zTXuxc5uCis1sW63E4CbNeWFI6awbrhrIgputo03s=']
+U+7BE8
+15
+chú
+118.10
+篨.mp3
+
+篩
+['sieve, filter, screen', ' sift']
+['tamiz, filtro, pantalla', 'tamizar']
+['https://media.gettyimages.com/photos/detail-of-a-screening-machine-in-silvery-grey-selective-focus-picture-id1254973863?k=6&m=1254973863&s=612x612&w=0&h=4OKWs8BP-8uMverZaiD7wflhejs187PKBaH87EzMI3k=', 'https://media.gettyimages.com/photos/baking-cookie-set-up-picture-id1148033567?k=6&m=1148033567&s=612x612&w=0&h=S0tKStN_ntCOGASFmQOHwuVTjw_WZ-jrbr0RAKQ4t_4=']
+U+7BE9
+16
+shāi
+118.10
+篩.mp3
+
+篪
+['a bamboo flute with seven holes']
+['una flauta de bambú con siete agujeros']
+['NONE']
+U+7BEA
+16
+chí
+118.10
+篪.mp3
+
+篫
+['NONE']
+['NINGUNA']
+[]
+U+7BEB
+16
+zhù
+118.10
+篫.mp3
+
+篬
+['NONE']
+['NINGUNA']
+[]
+U+7BEC
+16
+qiāng
+118.10
+篬.mp3
+
+篭
+['cage', ' cage-like basket']
+['jaula', 'canasta en forma de jaula']
+['https://media.gettyimages.com/photos/escape-picture-id180729544?k=6&m=180729544&s=612x612&w=0&h=9s_3yNbKNX74OzgUmpHGgs84Nxo0LBq9FPykTeSh2M8=', 'NONE']
+U+7BED
+16
+lóng
+118.10
+篭.mp3
+
+篮
+['basket']
+['cesta']
+['https://media.gettyimages.com/photos/basketball-picture-id170096587?k=6&m=170096587&s=612x612&w=0&h=tb6oxh4xvN4WlMqgfGfdX7izt_-VopOPN2WJ_7QQbVs=']
+U+7BEE
+16
+lán
+118.10
+篮.mp3
+
+篯
+['NONE']
+['NINGUNA']
+[]
+U+7BEF
+16
+jiān
+118.10
+篯.mp3
+
+篰
+['a bamboo basket']
+['una canasta de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7BF0
+16
+bù
+118.11
+篰.mp3
+
+篱
+['bamboo or wooden fence', ' hedge']
+['valla de bambú o madera', 'cobertura']
+['https://media.gettyimages.com/photos/bamboo-floor-texture-background-picture-id471416165?k=6&m=471416165&s=612x612&w=0&h=8NUzpGYKlmG0xI9qzQNN5T1XUreRVcVWhFgZJjVDY9I=', 'https://media.gettyimages.com/photos/hedge-picture-id157382909?k=6&m=157382909&s=612x612&w=0&h=RpEWJ0c2si9ZRglo-rTomeIUmihwRUa7q0dE2Adrti4=']
+U+7BF1
+16
+lí
+118.11
+篱.mp3
+
+篲
+['broomstick']
+['palo de escoba']
+['https://media.gettyimages.com/photos/broom-picture-id184100673?k=6&m=184100673&s=612x612&w=0&h=ngNVGM-S54j67BG-D9X0q8tpeBa9RV2JvAbf-16ndCI=']
+U+7BF2
+17
+huì
+118.11
+篲.mp3
+
+篳
+['wicker, bamboo']
+['mimbre, bambú']
+['https://media.gettyimages.com/photos/straw-mat-background-picture-id471411789?k=6&m=471411789&s=612x612&w=0&h=Q3lKxin2HZUZlri4e-KEePnvxlOnEufPCwFStZe0ri4=']
+U+7BF3
+16
+bì
+118.11
+篳.mp3
+
+篴
+['bamboo flute', ' whistle']
+['flauta de bambú', 'silbar']
+['https://media.gettyimages.com/photos/japanese-men-playing-the-shamisen-and-the-shakuhac-picture-id609153159?k=6&m=609153159&s=612x612&w=0&h=qevD6so6KqEW2Km1Vs1CNAj2SKsSppvjG_J4apI93S4=', 'https://media.gettyimages.com/vectors/whistleblower-vector-id1155236265?k=6&m=1155236265&s=612x612&w=0&h=PjMxMNOepNYAR2PTVkNQh3BiCUFxlFMtq9Vrb10xgHg=']
+U+7BF4
+16
+dí
+118.11
+篴.mp3
+
+篵
+['NONE']
+['NINGUNA']
+[]
+U+7BF5
+17
+cōng
+118.11
+篵.mp3
+
+篶
+['NONE']
+['NINGUNA']
+[]
+U+7BF6
+17
+yān
+118.11
+篶.mp3
+
+篷
+['awning, covering', ' sail', ' boat']
+['toldo, cubierta', 'vela', 'bote']
+['https://media.gettyimages.com/photos/red-and-white-canopy-picture-id184956655?k=6&m=184956655&s=612x612&w=0&h=r6LzxQS_AVSQzAxqQbaSRuYpfmR0U8gs9xhFNa5j-rM=', 'https://media.gettyimages.com/photos/sailing-with-sailboat-picture-id480615130?k=6&m=480615130&s=612x612&w=0&h=U9Fa9CgxD7_LzUo5L3rVqTyYoIvlARhMO3TjxpQ05Dg=', 'https://media.gettyimages.com/photos/from-the-front-picture-id1021092784?k=6&m=1021092784&s=612x612&w=0&h=i88D4JVsXOsLV8Auuj-cphDZIMdwusHkSKvYiB4ScWU=']
+U+7BF7
+16
+péng
+118.11
+篷.mp3
+
+篸
+['a basket, hod, scuttle', ' a hairclasp']
+['una canasta, tirar, escurrir', 'un broche de pelo']
+['NONE', 'https://media.gettyimages.com/photos/closeup-of-multi-colored-pins-against-white-background-picture-id1180967281?k=6&m=1180967281&s=612x612&w=0&h=MmZuR9u0R0cti6Bxsr7QhBZ1eJQNNt-xd8zFzFpnHjU=']
+U+7BF8
+17
+cǎn
+118.11
+篸.mp3
+
+篹
+['to collect', ' edit', ' a bamboo basket']
+['coleccionar', 'editar', 'una canasta de bambú']
+['https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=', 'https://media.gettyimages.com/vectors/graphic-design-pixel-perfect-icons-vector-id815767976?k=6&m=815767976&s=612x612&w=0&h=jiXtuVImTqJlv5fr8nhL1UR2HRhYRPlc3v7J2ts7xhA=', 'https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7BF9
+16
+zhuàn
+118.11
+篹.mp3
+
+篺
+['a raft']
+['una balsa']
+['https://media.gettyimages.com/photos/colorful-air-mattresses-in-a-row-picture-id157439801?k=6&m=157439801&s=612x612&w=0&h=E8KP0EwR0gJYBZQnERxD64w2QsCwlLqiVGdL0KCbnEA=']
+U+7BFA
+17
+pí
+118.11
+篺.mp3
+
+篻
+['NONE']
+['NINGUNA']
+[]
+U+7BFB
+17
+piǎo
+118.11
+篻.mp3
+
+篼
+['mountain sedan chair', ' (Cant.) a simple container without a cover']
+['silla sedán de montaña', '(Can.) Un recipiente simple sin tapa']
+['https://media.gettyimages.com/illustrations/hiker-looking-for-a-sedan-chair-at-the-mountain-station-illustration-id1271263212?k=6&m=1271263212&s=612x612&w=0&h=OU0ljdy5LU8qMK7mspXYe82Am9fLaJ8wJWTVejQ5JAs=', 'NONE']
+U+7BFC
+17
+dōu
+118.11
+篼.mp3
+
+篽
+['NONE']
+['NINGUNA']
+[]
+U+7BFD
+18
+yù
+118.11
+篽.mp3
+
+篾
+['bamboo splints or slats']
+['tablillas o tablillas de bambú']
+['https://media.gettyimages.com/photos/closeup-of-faded-wooden-blinds-picture-id950891250?k=6&m=950891250&s=612x612&w=0&h=pnRW1L3aYJJe4KqzuzqCQl0CqDwuMgfFj2l_LmAvYPo=']
+U+7BFE
+17
+miè
+118.11
+篾.mp3
+
+篿
+['NONE']
+['NINGUNA']
+[]
+U+7BFF
+17
+tuán
+118.11
+篿.mp3
+
+簀
+['bed mat', ' mat']
+['estera de cama', 'comida']
+['https://media.gettyimages.com/photos/asian-man-uses-digital-tablet-to-lean-plank-position-picture-id1165505236?k=6&m=1165505236&s=612x612&w=0&h=DsLiI4wkCtXxZPCJG0xwwLGwbkPFmnJnjGJoRpMUfTM=', 'https://media.gettyimages.com/photos/woman-rolling-up-yoga-mat-picture-id909423910?k=6&m=909423910&s=612x612&w=0&h=PCeT74wOtI_zdaGCwpJxln5fLyxrcWXcDSzIY0VAciM=']
+U+7C00
+17
+zé
+118.11
+簀.mp3
+
+簁
+['sieve', ' to sift, to strain']
+['tamiz', 'tamizar, colar']
+['https://media.gettyimages.com/photos/closeup-of-sieve-over-white-background-picture-id915514770?k=6&m=915514770&s=612x612&w=0&h=LJ6vRgQVGGReQMsHCqjyp7cDBRJtHxTCclUMiFNAYsk=', 'https://media.gettyimages.com/photos/urban-community-garden-composting-picture-id1088114552?k=6&m=1088114552&s=612x612&w=0&h=1ibVxN5mFGdilYYAOZjv-gCTP2ZTpVGjVGY-TVTY4x8=']
+U+7C01
+17
+shāi
+118.11
+簁.mp3
+
+簂
+['NONE']
+['NINGUNA']
+[]
+U+7C02
+17
+guì
+118.11
+簂.mp3
+
+簃
+['side room']
+['cuarto de al lado']
+['https://media.gettyimages.com/photos/white-bed-linen-picture-id185010136?k=6&m=185010136&s=612x612&w=0&h=KntdHh330ygQL4LzFFUYks3Y5pKH-PmdmvucoHpwCRg=']
+U+7C03
+17
+yí
+118.11
+簃.mp3
+
+簄
+['NONE']
+['NINGUNA']
+[]
+U+7C04
+17
+hù
+118.11
+簄.mp3
+
+簅
+['NONE']
+['NINGUNA']
+[]
+U+7C05
+17
+chǎn
+118.11
+簅.mp3
+
+簆
+['reed']
+['Junco']
+['https://media.gettyimages.com/vectors/wetlands-black-silhouette-icons-with-multiple-marsh-elements-and-vector-id95745106?k=6&m=95745106&s=612x612&w=0&h=kM7bxAMSuoBagLx8L4dr4GUSpBPRXI707yKIrifQMIk=']
+U+7C06
+17
+kòu
+118.11
+簆.mp3
+
+簇
+['swarm, crowd together, cluster']
+['enjambre, apiñarse, agruparse']
+['NONE']
+U+7C07
+17
+cù
+118.11
+簇.mp3
+
+簈
+['bamboo mat used to protect carriage passengers from dust']
+['estera de bambú utilizada para proteger a los pasajeros del carruaje del polvo']
+['NONE']
+U+7C08
+17
+píng
+118.11
+簈.mp3
+
+簉
+['deputy, subordinate', ' concubine']
+['diputado, subordinado', 'concubina']
+['NONE', 'https://media.gettyimages.com/illustrations/japanese-concubine-and-servant-illustration-id121176641?k=6&m=121176641&s=612x612&w=0&h=yDk6qIIZTUTB2DR_fEF1gQ5YYhSWBP_RUnptpJeqZvc=']
+U+7C09
+16
+zào
+118.11
+簉.mp3
+
+簊
+['NONE']
+['NINGUNA']
+[]
+U+7C0A
+17
+jī
+118.11
+簊.mp3
+
+簋
+['a square basket of bamboo for holding grain used at sacrifices, feast']
+['una canasta cuadrada de bambú para contener el grano utilizado en los sacrificios, fiesta']
+['NONE']
+U+7C0B
+17
+guǐ
+118.11
+簋.mp3
+
+簌
+['(of flower petals) falling']
+['(de pétalos de flores) cayendo']
+['https://media.gettyimages.com/photos/petal-of-red-rose-where-it-dances-freely-picture-id141799946?k=6&m=141799946&s=612x612&w=0&h=O9Go0Y7Trsp-sqmCqTbYn40xVa1ADhKFoethIjTt8w0=']
+U+7C0C
+17
+sù
+118.11
+簌.mp3
+
+簍
+['bamboo basket']
+['canasta de bambú']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=']
+U+7C0D
+17
+lǒu
+118.11
+簍.mp3
+
+簎
+['NONE']
+['NINGUNA']
+[]
+U+7C0E
+17
+cè
+118.11
+簎.mp3
+
+簏
+['a box, a basket']
+['una caja, una canasta']
+['https://media.gettyimages.com/photos/fruits-and-veggies-in-wood-box-with-white-backdrop-picture-id160356158?k=6&m=160356158&s=612x612&w=0&h=ZMgLs6tpl5-JnxkSgHB7LpQbvFzdhmsiC5PiUTGSIcw=']
+U+7C0F
+17
+lù
+118.11
+簏.mp3
+
+簐
+['NONE']
+['NINGUNA']
+[]
+U+7C10
+17
+niǎn
+118.11
+簐.mp3
+
+簑
+['a coat raincoat']
+['un abrigo impermeable']
+['https://media.gettyimages.com/photos/iceland-woman-standing-at-the-sea-picture-id995517262?k=6&m=995517262&s=612x612&w=0&h=_rlyqhxuDTyKW2omw1OM713Zdl4CQ7miBPlrX2r6AeU=']
+U+7C11
+16
+suō
+118.10
+簑.mp3
+
+簒
+['usurp']
+['usurpar']
+['https://media.gettyimages.com/photos/usurp-picture-id977545596?k=6&m=977545596&s=612x612&w=0&h=oj_UXU6yt26WbdZQWNylVlq1eCDUI_F11FkmbbpdwKY=']
+U+7C12
+17
+cuàn
+118.11
+簒.mp3
+
+簓
+['a bamboo whisk', ' the broken end of a bamboo stalk']
+['un batidor de bambú', 'el extremo roto de un tallo de bambú']
+['https://media.gettyimages.com/photos/organic-green-matcha-tea-picture-id958308554?k=6&m=958308554&s=612x612&w=0&h=hcaAvt3K_T4lr61CdUqNK-ZtOjEvxKdwA0ZcpTx1x4E=', 'NONE']
+U+7C13
+17
+diāo
+118.11
+簓.mp3
+
+簔
+['a coat raincoat']
+['un abrigo impermeable']
+['https://media.gettyimages.com/photos/iceland-woman-standing-at-the-sea-picture-id995517262?k=6&m=995517262&s=612x612&w=0&h=_rlyqhxuDTyKW2omw1OM713Zdl4CQ7miBPlrX2r6AeU=']
+U+7C14
+17
+suō
+118.11
+簔.mp3
+
+簕
+['(Cant.) thorn']
+['(Cant.) Espina']
+['https://media.gettyimages.com/photos/agriculture-as-a-lily-among-the-thorns-cant-22-white-anemone-growing-picture-id1139641752?k=6&m=1139641752&s=612x612&w=0&h=x_iys9JDm7TR3AkKkD3OBup62QljZE7w02rqP66Q-14=']
+U+7C15
+17
+lè
+118.10
+簕.mp3
+
+簖
+['bamboo trap for catching fish']
+['trampa de bambú para pescar']
+['https://media.gettyimages.com/photos/old-vietnamese-male-craftsman-standing-with-bicycle-which-making-the-picture-id859515308?k=6&m=859515308&s=612x612&w=0&h=puZwKiQgKbxD_edq3sQdIeM43ZqK74btWmOrpbAc_1g=']
+U+7C16
+17
+duàn
+118.11
+簖.mp3
+
+簗
+['a weir, fish trap, fish pond']
+['una presa, trampa para peces, estanque de peces']
+['NONE']
+U+7C17
+17
+liang
+118.11
+簗.mp3
+
+簘
+['musical instrument like pan-pipes, bamboo flute']
+['Instrumento musical como tubos de pan, flauta de bambú.']
+['NONE']
+U+7C18
+17
+xiāo
+118.12
+簘.mp3
+

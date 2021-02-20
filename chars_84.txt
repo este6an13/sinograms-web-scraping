@@ -1,0 +1,2560 @@
+候
+['wait', ' expect', ' visit', ' greet']
+['Espere', 'esperar', 'visitar', 'saludar']
+['https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/ladder-though-hole-in-ceiling-picture-id1186948007?k=6&m=1186948007&s=612x612&w=0&h=MWh6h4HhLTlrU5i0fblCuNlJiyvHbpjkUifsB8uwoFQ=', 'https://media.gettyimages.com/photos/greeting-guests-at-housewarming-party-picture-id1078076590?k=6&m=1078076590&s=612x612&w=0&h=iQa7HFkpZqNlAa7r7f2nYWSu0EnvULZQdxOZM2_5eyo=', 'https://media.gettyimages.com/photos/welcome-to-the-best-company-in-the-business-picture-id1131971658?k=6&m=1131971658&s=612x612&w=0&h=xpMYJwcUBFTBYOB8rC1G-lYw-AeWvvZIpTmSdDM1_pM=']
+U+5019
+10
+hòu
+9.8
+候.mp3
+
+倚
+['rely on, depend on', ' lean heavily']
+['confiar en, depender de', 'apoyarse pesadamente']
+['https://media.gettyimages.com/photos/round-life-preserver-floating-in-water-picture-id74596863?k=6&m=74596863&s=612x612&w=0&h=tT8WCRagx7evq4p9Qlla3ratCl8uDeBHxGfjFPL0cms=', 'https://media.gettyimages.com/photos/man-leaningexhaustedon-gate-sweating-heavilyeyes-closed-picture-id322483-004?k=6&m=322483-004&s=612x612&w=0&h=AFguQoxIAqekVa6YdiduCTRZVBNPAmiLKAkWxjotB6U=']
+U+501A
+10
+yǐ
+9.8
+倚.mp3
+
+倛
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+501B
+10
+qī
+9.8
+倛.mp3
+
+倜
+['raise high', ' unrestrained']
+['elevar alto', 'desenfrenado']
+['https://media.gettyimages.com/photos/mother-measuring-sons-height-picture-id952712526?k=6&m=952712526&s=612x612&w=0&h=vK-nDsneL9qEoPzD8NC2fhjlmV7RKB09nnW2_fCuRMw=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+501C
+10
+tì
+9.8
+倜.mp3
+
+倝
+['sunrise', ' dawn']
+['amanecer', 'amanecer']
+['https://media.gettyimages.com/photos/majestic-sunrise-over-the-mountains-picture-id185067762?k=6&m=185067762&s=612x612&w=0&h=QFGIsuncZGtiLeCQk6aMR14nOUrJNsFmXgpbT7oEU0c=', 'https://media.gettyimages.com/photos/sunrise-pastel-colors-abstract-at-jones-beach-in-winter-long-island-picture-id1026803030?k=6&m=1026803030&s=612x612&w=0&h=w08vw-4VPKR1MnkY5gTfVDrpq1oTr4eIsD9qClJ8imA=']
+U+501D
+10
+gàn
+9.8
+倝.mp3
+
+倞
+['far']
+['lejos']
+['https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=']
+U+501E
+10
+jìng
+9.8
+倞.mp3
+
+借
+['borrow', ' lend', ' make pretext of']
+['pedir prestado', 'prestar', 'hacer pretexto de']
+['https://media.gettyimages.com/vectors/lending-and-borrowing-thin-line-icons-editable-stroke-vector-id1172811327?k=6&m=1172811327&s=612x612&w=0&h=rl8ynuAg78Qpcn7FKot6RRMxwxZxDs1kDO9ZcBOaBQY=', 'https://media.gettyimages.com/photos/happy-couple-shaking-hands-with-real-estate-agent-in-the-office-picture-id1093900326?k=6&m=1093900326&s=612x612&w=0&h=inL2djEfIUnK0IDvmi-xI9nuKHpirZ5PUee-I1Io4cI=', 'NONE']
+U+501F
+10
+jiè
+9.8
+借.mp3
+
+倠
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5020
+10
+suī
+9.8
+倠.mp3
+
+倡
+['guide, leader', ' lead, introduce']
+['guía, líder', 'dirigir, presentar']
+['https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1175911679?k=6&m=1175911679&s=612x612&w=0&h=Mp6B6i2X8rOGhdHqKyzOVQdPbn68vw1TxuH3Fe3Mb4Q=', 'https://media.gettyimages.com/photos/car-battery-terminal-with-corrosion-on-lead-post-picture-id637294360?k=6&m=637294360&s=612x612&w=0&h=-0WHzNodW3w4zAKx69iYyO5mjmpifAaJmSVjhXeXRUw=']
+U+5021
+10
+chàng
+9.8
+倡.mp3
+
+倢
+['beautiful, handsome', ' woman']
+['Hermoso guapo', 'mujer']
+['https://media.gettyimages.com/photos/showing-off-his-pearly-whites-picture-id483627817?k=6&m=483627817&s=612x612&w=0&h=CwUNihSRD1bJiPh02FfivhUefrO16XTdgsPuYzA2j3o=', 'https://media.gettyimages.com/photos/portrait-of-businesswoman-with-long-blond-hair-picture-id985138672?k=6&m=985138672&s=612x612&w=0&h=btXtkSbeeJnJGG3Z1ss8kab29t_E-88cgPJguvL7cNA=']
+U+5022
+10
+jié
+9.8
+倢.mp3
+
+倣
+['imitate']
+['imitar']
+['https://media.gettyimages.com/vectors/like-and-share-social-media-engagement-message-vector-id1153705551?k=6&m=1153705551&s=612x612&w=0&h=kzUsu3vu8hPuNQoigBZfImKadWCqCmX7yPriVXmEfeY=']
+U+5023
+10
+fǎng
+9.8
+倣.mp3
+
+値
+['price, cost, worth']
+['precio, costo, valor']
+['NONE']
+U+5024
+10
+zhí
+9.8
+値.mp3
+
+倥
+['boorish, ignorant', ' urgent, pressing']
+['grosero, ignorante', 'urgente']
+['NONE', 'https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+5025
+10
+kōng
+9.8
+倥.mp3
+
+倦
+['be tired of, weary']
+['estar cansado, cansado']
+['https://media.gettyimages.com/photos/entrepreneur-yawning-in-office-picture-id502938603?k=6&m=502938603&s=612x612&w=0&h=Ek2WcqGkHt9YNiVyGAYYwlICRZAkolj_JJiQ2ZPDddA=']
+U+5026
+10
+juàn
+9.8
+倦.mp3
+
+倧
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5027
+10
+zōng
+9.8
+倧.mp3
+
+倨
+['arrogant, haughty, rude']
+['arrogante, altivo, grosero']
+['https://media.gettyimages.com/photos/boy-with-attitude-picture-id97556521?k=6&m=97556521&s=612x612&w=0&h=J4ATYb-sgeaOpzDZufhsNVfbO-UCylsOWYvpqmKCelI=']
+U+5028
+10
+jù
+9.8
+倨.mp3
+
+倩
+['beautiful, lovely', ' son-in-law']
+['hermosa encantadora', 'yerno']
+['https://media.gettyimages.com/photos/perfection-in-profile-picture-id1069713934?k=6&m=1069713934&s=612x612&w=0&h=t7M7hM0VP0qzw1hOC4tMuOYRQwoT5CoeWGlgUXg83i0=', 'https://media.gettyimages.com/photos/couples-eating-at-restaurant-picture-id80647983?k=6&m=80647983&s=612x612&w=0&h=7rwwKS-2hkBjtazQv40r2t4NpDb3DADs1xw6EU1lwYs=']
+U+5029
+10
+qiàn
+9.8
+倩.mp3
+
+倪
+['feeble, tiny, young and weak']
+['débil, diminuto, joven y débil']
+['NONE']
+U+502A
+10
+ní
+9.8
+倪.mp3
+
+倫
+['normal human relationships']
+['relaciones humanas normales']
+['https://media.gettyimages.com/photos/mobile-phone-addiction-couple-is-texting-and-browsing-in-the-bed-picture-id911139424?k=6&m=911139424&s=612x612&w=0&h=_ogPUh1ShExNf3VP8bipXmsRSkG39qIFp60t3s0b2Qc=']
+U+502B
+10
+lún
+9.8
+倫.mp3
+
+倬
+['noticeable, large', ' clear, distinct']
+['notable, grande', 'claro, distinto']
+['https://media.gettyimages.com/photos/small-ball-out-balance-picture-id182825867?k=6&m=182825867&s=612x612&w=0&h=2eXXS2ZeQmUPisR__7vn87MCUco7Pq6d8BjvRqCtfPo=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+502C
+10
+zhuō
+9.8
+倬.mp3
+
+倭
+['dwarf', ' dwarfish, short']
+['enano', 'enano, corto']
+['https://media.gettyimages.com/photos/portrait-of-dwarf-man-standing-against-white-background-picture-id1132259159?k=6&m=1132259159&s=612x612&w=0&h=fj0B0hBT209p2MTITLgPtnv_sK8PMItynljDgks-56M=', 'https://media.gettyimages.com/photos/dwarfish-man-sitting-at-cafe-picture-id1195458921?k=6&m=1195458921&s=612x612&w=0&h=jHQWjhu1TCHk8r1FHu-PdAbPEpEuIAoZ2c4-mu6RNGQ=']
+U+502D
+10
+wō
+9.8
+倭.mp3
+
+倮
+['bare, naked, uncovered']
+['desnudo, desnudo, descubierto']
+['NONE']
+U+502E
+10
+luǒ
+9.8
+倮.mp3
+
+倯
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+502F
+10
+sōng
+9.8
+倯.mp3
+
+倰
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5030
+10
+lèng
+9.8
+倰.mp3
+
+倱
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5031
+10
+hùn
+9.8
+倱.mp3
+
+倲
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5032
+10
+dōng
+9.8
+倲.mp3
+
+倳
+['to stick in, to stab', ' to erect']
+['aferrarse, apuñalar', 'erigir']
+['https://media.gettyimages.com/photos/knife-stuck-in-paper-blood-picture-id78766263?k=6&m=78766263&s=612x612&w=0&h=ZgJ4etvU__4uesRmqgqEZeyUgCRm60OluI0yzECNb3E=', 'https://media.gettyimages.com/photos/investors-and-contractors-on-construction-site-picture-id1042342584?k=6&m=1042342584&s=612x612&w=0&h=CbJqp3ZqZURT70wGN8fc-QPsO2rZuKW8ZDDa-f6HxfM=']
+U+5033
+10
+zì
+9.8
+倳.mp3
+
+倴
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5034
+10
+bèn
+9.8
+倴.mp3
+
+倵
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5035
+10
+wǔ
+9.8
+倵.mp3
+
+倶
+['all']
+['todas']
+['https://media.gettyimages.com/vectors/veterans-day-thank-you-poster-honoring-all-who-served-vector-vector-id1185548259?k=6&m=1185548259&s=612x612&w=0&h=_68jTxtINK-kl-vJbxOOHYaukNwvPLBVqG8ILMurMwU=']
+U+5036
+10
+jù
+9.8
+倶.mp3
+
+倷
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5037
+10
+nǎi
+9.8
+倷.mp3
+
+倸
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5038
+10
+cǎi
+9.8
+倸.mp3
+
+倹
+['temperate, frugal, economical']
+['templado, frugal, económico']
+['NONE']
+U+5039
+10
+jiǎn
+9.8
+倹.mp3
+
+债
+['debt, loan, liabilities']
+['deuda, préstamo, pasivo']
+['https://media.gettyimages.com/photos/caution-tape-and-keys-picture-id97555731?k=6&m=97555731&s=612x612&w=0&h=KnnSdrrGnHqqMYGu-DkSF0N2Hb-02-9v2DGEyQWCa6k=']
+U+503A
+10
+zhài
+9.8
+债.mp3
+
+倻
+['phonetic used in Korean place names']
+['fonética utilizada en nombres de lugares coreanos']
+['NONE']
+U+503B
+10
+yē
+9.9
+倻.mp3
+
+值
+['price']
+['precio']
+['https://media.gettyimages.com/vectors/special-offer-sale-tag-discount-offer-price-label-and-flat-design-vector-id1095415944?k=6&m=1095415944&s=612x612&w=0&h=R1WAdH8x_daTBc0A0xlj-0p9ua_diQwZzCQaPfcIVWk=']
+U+503C
+10
+zhí
+9.8
+值.mp3
+
+倽
+['what', ' which', ' who', ' why']
+['qué', 'cuales', 'OMS', 'por qué']
+['https://media.gettyimages.com/photos/what-would-the-mornings-be-without-social-media-picture-id1185838701?k=6&m=1185838701&s=612x612&w=0&h=RZmmizNTQn7AJDuVw8Lai4h-_xdomA3_6GDR5GNTIYY=', 'https://media.gettyimages.com/photos/piece-of-plastic-floating-in-the-open-ocean-which-has-been-colonized-picture-id1180754744?k=6&m=1180754744&s=612x612&w=0&h=NyaqCSCI0EerPrWqsxuZ_aBdxnHubGUSc16_MPyo-TE=', 'https://media.gettyimages.com/vectors/veterans-day-thank-you-poster-honoring-all-who-served-vector-vector-id1185548259?k=6&m=1185548259&s=612x612&w=0&h=_68jTxtINK-kl-vJbxOOHYaukNwvPLBVqG8ILMurMwU=', 'https://media.gettyimages.com/photos/why-does-it-hurt-so-bad-picture-id1150013526?k=6&m=1150013526&s=612x612&w=0&h=ZcM8PQv-o1R7XKRH-54ZASnVSrZ4Nqvusrc45kEE3VU=']
+U+503D
+10
+shà
+9.8
+倽.mp3
+
+倾
+['upset, pour out, overflow']
+['molesto, derramar, desbordar']
+['https://media.gettyimages.com/photos/flooded-road-hail-storm-picture-id157646190?k=6&m=157646190&s=612x612&w=0&h=auW8NQ7Ew3X4FWm4SCh-fNS29te0vwzTJ3pXzWV_RIQ=']
+U+503E
+10
+qīng
+9.8
+倾.mp3
+
+倿
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+503F
+10
+nìng
+9.8
+倿.mp3
+
+偀
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5040
+10
+yīng
+9.9
+偀.mp3
+
+偁
+['state']
+['estado']
+['https://media.gettyimages.com/vectors/france-map-illustration-vector-id878311332?k=6&m=878311332&s=612x612&w=0&h=qPy28IUgruQCbKmm48KimMrSQWNxtVF70TUBVJSIj7E=']
+U+5041
+11
+chēng
+9.9
+偁.mp3
+
+偂
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5042
+11
+qián
+9.9
+偂.mp3
+
+偃
+['cease, lay off, lay down']
+['cesar, despedir, acostar']
+['NONE']
+U+5043
+11
+yǎn
+9.9
+偃.mp3
+
+偄
+['weak']
+['débiles']
+['https://media.gettyimages.com/photos/hiding-head-in-sand-picture-id143921073?k=6&m=143921073&s=612x612&w=0&h=8ieECLfItmwXNaPqgM7K_DtvkC7niVghhW_xBeNXLL4=']
+U+5044
+11
+ruǎn
+9.9
+偄.mp3
+
+偅
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5045
+11
+zhòng
+9.9
+偅.mp3
+
+偆
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5046
+11
+chǔn
+9.9
+偆.mp3
+
+假
+['falsehood, deception', ' vacation']
+['falsedad, engaño', 'vacaciones']
+['https://media.gettyimages.com/photos/fingers-crossed-picture-id184909146?k=6&m=184909146&s=612x612&w=0&h=xLWHyGxHfF6PWS7izb8Xi-6C9I7xFNFIrc9d-_xXGzo=', 'https://media.gettyimages.com/photos/child-with-mother-in-swimming-pool-holiday-resort-picture-id1136247293?k=6&m=1136247293&s=612x612&w=0&h=XE3MwevM6YUpilHj_CtJhGUc6sZEvHRRIv4n7B-gfUw=']
+U+5047
+11
+jiǎ
+9.9
+假.mp3
+
+偈
+['brave', ' martial', ' hasty', ' scudding']
+['valiente', 'marcial', 'apresurado', 'scudding']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=', 'https://media.gettyimages.com/photos/empty-modern-gym-with-punching-bags-and-other-training-equipment-picture-id999525244?k=6&m=999525244&s=612x612&w=0&h=BzU2BYNYNQpBSPsCWbNDSK5-qLvCR4_mywuBamI8-_Q=', 'https://media.gettyimages.com/photos/racecar-driver-preparing-for-a-race-picture-id80615673?k=6&m=80615673&s=612x612&w=0&h=wk9XwTz-Y5kK-j_udI_MVZNm1C9RRzHvHO0jwJr9q2A=', 'https://media.gettyimages.com/photos/fresh-air-blue-skies-over-green-wheat-field-picture-id92083183?k=6&m=92083183&s=612x612&w=0&h=Y4852aNW2ijm1--hmHzKT0qX0_dpDAahhsApYlun_5A=']
+U+5048
+11
+jì
+9.9
+偈.mp3
+
+偉
+['great, robust', ' extraordinary']
+['genial, robusto', 'extraordinario']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=', 'https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=']
+U+5049
+11
+wěi
+9.9
+偉.mp3
+
+偊
+['to walk alone', ' self-reliant']
+['caminar solo', 'autosuficiente']
+['https://media.gettyimages.com/photos/into-the-wild-picture-id1097301636?k=6&m=1097301636&s=612x612&w=0&h=7dtyWgu0okObhEp6b2pz4Ydt_vPR9AaDqO7mLlfALl8=', 'https://media.gettyimages.com/vectors/selfreliant-vector-id465435038?k=6&m=465435038&s=612x612&w=0&h=Z_c9bNkEXZl5PKoByN-Ba1CUMKTzKiHu3t-iqbzCsXA=']
+U+504A
+11
+yǔ
+9.9
+偊.mp3
+
+偋
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+504B
+11
+bìng
+9.9
+偋.mp3
+
+偌
+['thus, so, like, such']
+['así, así, como, tal']
+['NONE']
+U+504C
+10
+ruò
+9.9
+偌.mp3
+
+偍
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+504D
+11
+tí
+9.9
+偍.mp3
+
+偎
+['cling to, cuddle, embrace, fondle']
+['aferrarse a, abrazar, abrazar, acariciar']
+['NONE']
+U+504E
+11
+wēi
+9.9
+偎.mp3
+
+偏
+['inclined one side', ' slanting']
+['inclinado un lado', 'inclinación']
+['https://media.gettyimages.com/photos/inclined-plane-physics-picture-id1157577870?k=6&m=1157577870&s=612x612&w=0&h=r9Fc2Z85rA1ExlwF8Hq_KNalU2URalJKHLKJOgLu2C0=', 'https://media.gettyimages.com/vectors/angled-abstract-gradient-background-vector-id1073750850?k=6&m=1073750850&s=612x612&w=0&h=6_gy0Q7mOiNFCMT7KzQubd_RdHyIGAAp8FeD6fXAbWc=']
+U+504F
+11
+piān
+9.9
+偏.mp3
+
+偐
+['false, counterfeit, spurious']
+['falso, falsificado, espurio']
+['NONE']
+U+5050
+11
+yàn
+9.9
+偐.mp3
+
+偑
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5051
+11
+fēng
+9.9
+偑.mp3
+
+偒
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5052
+11
+tǎng
+9.9
+偒.mp3
+
+偓
+['to fuss']
+['alboroto']
+['https://media.gettyimages.com/photos/disrupting-wire-rope-isolated-picture-id157429838?k=6&m=157429838&s=612x612&w=0&h=lZKR5Z238MK1u0ZplvWCIQ35P7IoRnjnNmhmoE86yMI=']
+U+5053
+11
+wò
+9.9
+偓.mp3
+
+偔
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5054
+11
+è
+9.9
+偔.mp3
+
+偕
+['together', ' be in order']
+['juntos', 'estar en orden']
+['https://media.gettyimages.com/vectors/merge-arrows-infographic-vector-id1096774350?k=6&m=1096774350&s=612x612&w=0&h=SEvrlj6owHhIW0Mde_4AKfDi6p01-tWg34xVLvBmJgY=', 'https://media.gettyimages.com/photos/like-everything-to-be-in-its-place-picture-id1187135281?k=6&m=1187135281&s=612x612&w=0&h=AwsiVKTLS3le5u5T2RS9mr0UrEbwza_7p1RXotltxOU=']
+U+5055
+11
+xié
+9.9
+偕.mp3
+
+偖
+['rip up, tear down', ' raise', ' haul']
+['rasgar, derribar', 'aumento', 'recorrido']
+['NONE', 'https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=', 'https://media.gettyimages.com/photos/long-haul-semi-truck-on-a-rural-western-usa-interstate-highway-picture-id1156528620?k=6&m=1156528620&s=612x612&w=0&h=eYx9HanOU8OihHYHezQTcPxjbe3hB6-MfgQ4RjYHWaY=']
+U+5056
+10
+chě
+9.9
+偖.mp3
+
+偗
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5057
+11
+shěng
+9.9
+偗.mp3
+
+偘
+['ancient family name']
+['apellido antiguo']
+['NONE']
+U+5058
+11
+kǎn
+9.9
+偘.mp3
+
+偙
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5059
+11
+dì
+9.9
+偙.mp3
+
+做
+['work, make', ' act']
+['trabajar, hacer', 'Actuar']
+['https://media.gettyimages.com/photos/young-carpenter-using-sander-while-working-on-a-piece-of-wood-picture-id1061173208?k=6&m=1061173208&s=612x612&w=0&h=_T3Zo0AEDkqhDbQBXfiNLzTUthaOtnsfGNpKNPQdQg8=', 'https://media.gettyimages.com/vectors/performance-line-icons-editable-stroke-pixel-perfect-for-mobile-and-vector-id1179804744?k=6&m=1179804744&s=612x612&w=0&h=jFOtv6gif2zAYQFhbCj88Mm4ZgF_zTld4Ys13onWY5I=']
+U+505A
+11
+zuò
+9.9
+做.mp3
+
+偛
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+505B
+11
+chā
+9.9
+偛.mp3
+
+停
+['stop, suspend, delay', ' suitable']
+['detener, suspender, retrasar', 'adecuado']
+['https://media.gettyimages.com/photos/bus-stop-picture-id808369198?k=6&m=808369198&s=612x612&w=0&h=oX7WH3KIKMYHnM2D-jSnn3ZoH77SPN4-s1ZVwUznmmk=', 'https://media.gettyimages.com/photos/review-rating-concept-picture-id1044743952?k=6&m=1044743952&s=612x612&w=0&h=CADtMJPrlhKgFk4mZvRq2HuILAS1MzexDknV8riPrUg=']
+U+505C
+11
+tíng
+9.9
+停.mp3
+
+偝
+['not facing', ' desert']
+['no enfrentando', 'Desierto']
+['NONE', 'https://media.gettyimages.com/photos/desert-in-the-united-arab-emirates-at-sunset-picture-id1133009965?k=6&m=1133009965&s=612x612&w=0&h=fpV3Inm3P5F1ckG-2VlX5DpVWEpXsILLrhk4NMPitLY=']
+U+505D
+11
+bèi
+9.9
+偝.mp3
+
+偞
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+505E
+11
+xiè
+9.9
+偞.mp3
+
+偟
+['agitated', ' alarmed']
+['agitado', 'alarmado']
+['https://media.gettyimages.com/photos/frustrated-woman-received-a-problematic-email-over-computer-picture-id1051720084?k=6&m=1051720084&s=612x612&w=0&h=KCz_oyAcXZ5LDz4ZspJvQiR0vId-rpYCofB7_6U3Lws=', 'https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+505F
+11
+huáng
+9.9
+偟.mp3
+
+偠
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5060
+11
+yǎo
+9.9
+偠.mp3
+
+偡
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5061
+11
+zhàn
+9.9
+偡.mp3
+
+偢
+['to stare at']
+['mirar fijamente']
+['https://media.gettyimages.com/photos/close-up-of-mans-eye-looking-surprised-picture-id88798849?k=6&m=88798849&s=612x612&w=0&h=Du2Et1Fe9hRl96z2dMZgYvF-yN_-qxlKuT4YXiuTanA=']
+U+5062
+11
+chǒu
+9.9
+偢.mp3
+
+偣
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5063
+11
+yān
+9.9
+偣.mp3
+
+偤
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5064
+11
+yóu
+9.9
+偤.mp3
+
+健
+['strong, robust, healthy', ' strength']
+['fuerte, robusto, sano', 'fuerza']
+['https://media.gettyimages.com/photos/funny-portrait-of-a-young-black-curvy-woman-during-a-training-session-picture-id1010069056?k=6&m=1010069056&s=612x612&w=0&h=X9TaGTbHQYmSo9lrhFbP-hnzEIBQmmAdnX6-Y2K7dPM=', 'https://media.gettyimages.com/photos/am-a-strong-woman-picture-id614012698?k=6&m=614012698&s=612x612&w=0&h=xkVq4YsfXEfueSpYst5_pJjnZGOWXUrYIMzntFUIIoo=']
+U+5065
+10
+jiàn
+9.9
+健.mp3
+
+偦
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5066
+11
+xǔ
+9.9
+偦.mp3
+
+偧
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5067
+11
+zhā
+9.9
+偧.mp3
+
+偨
+['uneven']
+['desigual']
+['https://media.gettyimages.com/vectors/challenge-vector-id1068265778?k=6&m=1068265778&s=612x612&w=0&h=mfJHrUzWpZq0BuEiIV435V40UblWB1wxbUPy4vUfe7k=']
+U+5068
+12
+cī
+9.9
+偨.mp3
+
+偩
+['follow']
+['seguir']
+['https://media.gettyimages.com/vectors/social-media-icon-set-vector-id1096479522?k=6&m=1096479522&s=612x612&w=0&h=glH2wmPq91c01O_kXImZ8FRmQd1v3-_BWxQ5bNWS_tA=']
+U+5069
+11
+fù
+9.9
+偩.mp3
+
+偪
+['compel, pressure, force', ' bother']
+['obligar, presión, fuerza', 'molestia']
+['https://media.gettyimages.com/vectors/metal-handcuffs-vector-id95414987?k=6&m=95414987&s=612x612&w=0&h=wOsVhcgQh8HQmDPiE2kDVbjfTdMqFQQkXE-zu_Sdktc=', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+506A
+11
+bī
+9.9
+偪.mp3
+
+偫
+['wait for', ' lay in']
+['esperar', 'acumular']
+['https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/flat-lay-on-blue-workspace-with-cell-phone-gadget-blue-textured-desk-picture-id1203684534?k=6&m=1203684534&s=612x612&w=0&h=vT_oqIU6dUYkujuNMKLMPCkGbOtD5dqpUHYHOAU-Hq0=']
+U+506B
+11
+zhì
+9.9
+偫.mp3
+
+偬
+['urgent']
+['urgente']
+['https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+506C
+11
+zǒng
+9.9
+偬.mp3
+
+偭
+['transgress']
+['transgredir']
+['https://media.gettyimages.com/photos/breaking-the-rules-picture-id157434459?k=6&m=157434459&s=612x612&w=0&h=nJffpwlthgwjKIsqzas3-Mv1zzvRTwwqv8cqSFpXCOY=']
+U+506D
+11
+miǎn
+9.9
+偭.mp3
+
+偮
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+506E
+11
+jí
+9.9
+偮.mp3
+
+偯
+['sob']
+['debajo']
+['https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=']
+U+506F
+11
+yǐ
+9.9
+偯.mp3
+
+偰
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5070
+11
+xiè
+9.9
+偰.mp3
+
+偱
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5071
+11
+xún
+9.9
+偱.mp3
+
+偲
+['talented', ' urgent']
+['talentoso', 'urgente']
+['https://media.gettyimages.com/vectors/teamwork-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1124263210?k=6&m=1124263210&s=612x612&w=0&h=PoQHKAtCBlbVHfMxH12TKbRU_C2FonE5pX8cHK48FIU=', 'https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+5072
+11
+cāi
+9.9
+偲.mp3
+
+偳
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5073
+11
+duān
+9.9
+偳.mp3
+
+側
+['side', ' incline, slant, lean']
+['lado', 'inclinado, inclinado, magro']
+['https://media.gettyimages.com/photos/car-in-studio-isolated-on-white-picture-id185257478?k=6&m=185257478&s=612x612&w=0&h=AbsP5QfKfmk4sfZZTyH4VjEg3SdwhXgiZeQLiNBjz9A=', 'https://media.gettyimages.com/photos/woman-skiing-picture-id80122032?k=6&m=80122032&s=612x612&w=0&h=EW2bxouRchKGKEdKvEEaAQiAl0rGmGW_1fEnpBMVJ_E=']
+U+5074
+11
+cè
+9.9
+側.mp3
+
+偵
+['spy, reconnoiter', ' detective']
+['espía, reconocimiento', 'detective']
+['NONE', 'https://media.gettyimages.com/photos/kid-detective-wears-trench-coat-and-searches-for-clues-picture-id501743936?k=6&m=501743936&s=612x612&w=0&h=7QJw_ocdsESa6c19yL8gwcZBzstsCBuWSzoM5RsMD94=']
+U+5075
+11
+zhēn
+9.9
+偵.mp3
+
+偶
+['accidentally, coincidently', ' an idol']
+['accidentalmente, coincidentemente', 'un ídolo']
+['https://media.gettyimages.com/photos/car-accident-picture-id969500140?k=6&m=969500140&s=612x612&w=0&h=JKpJYx6ic-s_RUONS3SWoCwx7LXA2t1sIi8aFySMKJc=', 'https://media.gettyimages.com/photos/multiple-mao-picture-id1155336605?k=6&m=1155336605&s=612x612&w=0&h=-ht-aglEW7gCUc2XhDfYmQjv2O58FCvUFe_BQULqZnw=']
+U+5076
+11
+ǒu
+9.9
+偶.mp3
+
+偷
+['to steal, burglar, thief']
+['robar, ladrón, ladrón']
+['https://media.gettyimages.com/photos/robber-using-a-sledgehammer-picture-id475097370?k=6&m=475097370&s=612x612&w=0&h=OvT9KcaN2ZJX08rwjP4FBAr91GLLsVfBPEiLnwzpHlA=']
+U+5077
+11
+tōu
+9.9
+偷.mp3
+
+偸
+['to steal']
+['robar']
+['https://media.gettyimages.com/photos/car-thief-using-a-screwdriver-to-brake-into-a-car-picture-id521342503?k=6&m=521342503&s=612x612&w=0&h=mtg6bEqI-2mytwdYq0KwNsE8ks9Np3Iuo94Ip8O3SXI=']
+U+5078
+11
+tōu
+9.9
+偸.mp3
+
+偹
+['prepare, ready, perfect']
+['prepárate, listo, perfecto']
+['https://media.gettyimages.com/photos/just-a-dash-of-secret-ingredient-picture-id504367131?k=6&m=504367131&s=612x612&w=0&h=f8_2Q4ZvXNyROujLILan2WtJ3zVdt6JRxbf6eaaA_Y0=']
+U+5079
+11
+bèi
+9.9
+偹.mp3
+
+偺
+['(same as ']
+['(igual que']
+['https://media.gettyimages.com/vectors/red-and-black-aces-seamless-pattern-vector-id903522566?k=6&m=903522566&s=612x612&w=0&h=PbQ2nH9P03BuYDRKCWxUiOu5a3kNPj1mPRscZkxvVD8=']
+U+507A
+11
+zá
+9.9
+偺.mp3
+
+偻
+['humpback', ' surname']
+['jorobado', 'apellido']
+['https://media.gettyimages.com/photos/humpback-whale-portrait-picture-id1082038432?k=6&m=1082038432&s=612x612&w=0&h=ksptbn6n6-28tW-Mn3lqkVUynQCCKlaVz43ke9QysJ8=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+507B
+11
+lóu
+9.9
+偻.mp3
+
+偼
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+507C
+11
+jié
+9.9
+偼.mp3
+
+偽
+['false, counterfeit, bogus']
+['falso, falsificado, falso']
+['https://media.gettyimages.com/illustrations/man-showing-his-fake-identity-card-to-security-illustration-id494328515?k=6&m=494328515&s=612x612&w=0&h=U1YEzqt8pEyfWZU9I9hmJUIrjK81xLiGTgr3TDPvnu0=']
+U+507D
+11
+wěi
+9.9
+偽.mp3
+
+偾
+['ruin, cause fail', ' overthrown']
+['ruina, porque falla', 'derrocado']
+['NONE', 'https://media.gettyimages.com/photos/domino-stepping-out-of-line-thus-preventing-the-other-dominos-from-picture-id134470305?k=6&m=134470305&s=612x612&w=0&h=HPAaIEtn-mWtMC-C74VLquS1QHnU2LwqZb-0Efb5MKI=']
+U+507E
+11
+fèn
+9.9
+偾.mp3
+
+偿
+['repay, recompense', ' restitution']
+['pagar, recompensar', 'restitución']
+['NONE', 'https://media.gettyimages.com/photos/grafiti-removers-picture-id157196258?k=6&m=157196258&s=612x612&w=0&h=oGo6-ClZqOoHkZ9Fk-Z0K-3EqE1XnP-bQzACSB7P8jE=']
+U+507F
+11
+cháng
+9.9
+偿.mp3
+
+傀
+['great, gigantic', ' puppet']
+['grande, gigantesco', 'marioneta']
+['https://media.gettyimages.com/photos/aerial-view-of-surfer-surfing-waves-picture-id949272866?k=6&m=949272866&s=612x612&w=0&h=gPHcXR3VeTWH8OMdTOVtTK6XmXH5no4lLU68m_qfUT8=', 'https://media.gettyimages.com/photos/handmade-red-sock-puppet-picture-id182148004?k=6&m=182148004&s=612x612&w=0&h=ljx3YobFx0RFk4u1OjKg1uVsA2-IBTM3faTGzBgWSy4=']
+U+5080
+11
+guī
+9.10
+傀.mp3
+
+傁
+['old man']
+['anciano']
+['https://media.gettyimages.com/photos/happy-senior-man-sitting-at-home-picture-id912073272?k=6&m=912073272&s=612x612&w=0&h=Kyx9cdOEScPfH_vARGcvwSvfZTKzZ8ZaZIdmtDNNxlE=']
+U+5081
+11
+sǒu
+9.10
+傁.mp3
+
+傂
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5082
+12
+zhì
+9.10
+傂.mp3
+
+傃
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5083
+12
+sù
+9.10
+傃.mp3
+
+傄
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5084
+12
+xiā
+9.10
+傄.mp3
+
+傅
+['tutor, teacher', ' assist', ' surname']
+['tutor, profesor', 'ayudar', 'apellido']
+['https://media.gettyimages.com/photos/teaching-students-during-isolation-period-picture-id1215481862?k=6&m=1215481862&s=612x612&w=0&h=TxPNO4JQ0eX8Iq03tVZqhWY5ySsu_79x5Z7FAvOMN-o=', 'https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+5085
+12
+fù
+9.10
+傅.mp3
+
+傆
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5086
+12
+yuàn
+9.10
+傆.mp3
+
+傇
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5087
+11
+rǒng
+9.10
+傇.mp3
+
+傈
+['tribe']
+['tribu']
+['https://media.gettyimages.com/photos/learning-in-the-sun-picture-id1225016964?k=6&m=1225016964&s=612x612&w=0&h=oPR2Igm9SS2mXl5G-w7TVc1ZNKwStF-VKcu93_0Xspk=']
+U+5088
+12
+lì
+9.10
+傈.mp3
+
+傉
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5089
+12
+nù
+9.10
+傉.mp3
+
+傊
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+508A
+12
+yùn
+9.10
+傊.mp3
+
+傋
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+508B
+12
+jiǎng
+9.10
+傋.mp3
+
+傌
+['to curse, to revile, to abuse', ' to scold']
+['Maldecir, injuriar, abusar', 'regañar']
+['https://media.gettyimages.com/vectors/-vector-id187840327?k=6&m=187840327&s=612x612&w=0&h=rACLJHW3bpP88spPNm6ojGhcAmoJ7NMMuneDAkGrUxg=', 'https://media.gettyimages.com/photos/mother-scolding-little-girl-on-carpet-in-the-living-room-picture-id958683854?k=6&m=958683854&s=612x612&w=0&h=MYwiLL8rbPwOrF_6V72iJ7hH4X-kmc-k4RmoCSH1aKY=']
+U+508C
+12
+mà
+9.10
+傌.mp3
+
+傍
+['by side of, beside, near, close']
+['al lado de, al lado, cerca, cerca']
+['https://media.gettyimages.com/photos/male-couple-running-next-to-son-on-bicycle-in-park-picture-id548564485?k=6&m=548564485&s=612x612&w=0&h=59yE7g0WmAjfjTxeK-h4mCt07dgPxzbooo48lD5L8EU=']
+U+508D
+12
+bàng
+9.10
+傍.mp3
+
+傎
+['topple']
+['derrocar']
+['https://media.gettyimages.com/photos/tech-trio-laptop-smartphone-tablet-picture-id185104149?k=6&m=185104149&s=612x612&w=0&h=in36H90QiTWm6KkyjX6NjmJUIXkzVBL7qzFr5JqdPZc=']
+U+508E
+12
+diān
+9.10
+傎.mp3
+
+傏
+['to ward off', ' to parry', ' to keep out, as wind, rain, or cold']
+['para protegerse', 'para parar', 'para mantenerse alejado, ya que el viento, la lluvia o el frío']
+['https://media.gettyimages.com/vectors/private-property-keep-out-signs-vector-id481567724?k=6&m=481567724&s=612x612&w=0&h=DNit1prOPL7LQKDEwLePLPIcQNl5FkZt_cpiaRY07kI=', 'https://media.gettyimages.com/photos/parry-penstemon-penstemon-parryi-desert-wildflower-grassy-or-bushy-picture-id128116559?k=6&m=128116559&s=612x612&w=0&h=nfRDyhX1kcxVTLx0J7AibqUJWw75UQeUpwMw7NG0S40=', 'NONE']
+U+508F
+12
+táng
+9.10
+傏.mp3
+
+傐
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5090
+12
+hào
+9.10
+傐.mp3
+
+傑
+['hero', ' outstanding, remarkable']
+['héroe', 'sobresaliente, notable']
+['https://media.gettyimages.com/vectors/vector-superhero-silhouette-with-sunburst-effect-background-vector-id1162040662?k=6&m=1162040662&s=612x612&w=0&h=stfa6A3n_qxpQV5UMzOBOQKebtP0GLyY4VdH6xOeM8I=', 'https://media.gettyimages.com/photos/skydiving-group-at-the-sunset-picture-id959761890?k=6&m=959761890&s=612x612&w=0&h=Dmvh8Hy_NW7N_iZsyHoNwZskUi5TCj6gWSOgZjlR4sA=']
+U+5091
+12
+jié
+9.10
+傑.mp3
+
+傒
+['personal name', ' servant']
+['nombre personal', 'servidor']
+['https://media.gettyimages.com/vectors/assessment-icons-line-series-vector-id1062446456?k=6&m=1062446456&s=612x612&w=0&h=LnYN9M8u7hYnOY026NWlhs1wHu7dK1jeQo-Q6JFF8Bc=', 'https://media.gettyimages.com/photos/housekeeper-washing-the-dishes-wearing-protective-mask-picture-id1214909317?k=6&m=1214909317&s=612x612&w=0&h=U8p_KlLegig2o7GnSh9_dYwFajHOLAeYckqMwg60igc=']
+U+5092
+12
+xī
+9.10
+傒.mp3
+
+傓
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5093
+12
+shàn
+9.10
+傓.mp3
+
+傔
+['servant']
+['servidor']
+['https://media.gettyimages.com/photos/housekeeper-washing-the-dishes-wearing-protective-mask-picture-id1214909317?k=6&m=1214909317&s=612x612&w=0&h=U8p_KlLegig2o7GnSh9_dYwFajHOLAeYckqMwg60igc=']
+U+5094
+12
+qiàn
+9.10
+傔.mp3
+
+傕
+['used in old names']
+['usado en nombres antiguos']
+['https://media.gettyimages.com/photos/weathered-aged-and-cracked-gray-stone-wall-with-names-scratched-on-it-picture-id641906410?k=6&m=641906410&s=612x612&w=0&h=IjCAfFpzCSPdPoNjoUjHzs4uodfyU-ZR7_x3qEwvbsU=']
+U+5095
+12
+jué
+9.10
+傕.mp3
+
+傖
+['vulgar person, country man']
+['persona vulgar, hombre de campo']
+['NONE']
+U+5096
+12
+cāng
+9.10
+傖.mp3
+
+傗
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5097
+12
+chù
+9.10
+傗.mp3
+
+傘
+['umbrella, parasol, parachute']
+['paraguas, sombrilla, paracaídas']
+['https://media.gettyimages.com/vectors/financial-crisis-vector-id598143864?k=6&m=598143864&s=612x612&w=0&h=sFQ9M-o0sBAl4sBFzdRYqyqtTXbCV68MdjbMO1trcVw=']
+U+5098
+12
+sǎn
+9.10
+傘.mp3
+
+備
+['prepare, ready, perfect']
+['prepárate, listo, perfecto']
+['https://media.gettyimages.com/photos/just-a-dash-of-secret-ingredient-picture-id504367131?k=6&m=504367131&s=612x612&w=0&h=f8_2Q4ZvXNyROujLILan2WtJ3zVdt6JRxbf6eaaA_Y0=']
+U+5099
+12
+bèi
+9.10
+備.mp3
+
+傚
+['imitate, mimic']
+['imitar, imitar']
+['https://media.gettyimages.com/vectors/like-and-share-social-media-engagement-message-vector-id1153705551?k=6&m=1153705551&s=612x612&w=0&h=kzUsu3vu8hPuNQoigBZfImKadWCqCmX7yPriVXmEfeY=']
+U+509A
+12
+xiào
+9.10
+傚.mp3
+
+傛
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+509B
+12
+yǒng
+9.10
+傛.mp3
+
+傜
+['a minority tribe']
+['una tribu minoritaria']
+['https://media.gettyimages.com/photos/learning-in-the-sun-picture-id1225016964?k=6&m=1225016964&s=612x612&w=0&h=oPR2Igm9SS2mXl5G-w7TVc1ZNKwStF-VKcu93_0Xspk=']
+U+509C
+12
+yáo
+9.10
+傜.mp3
+
+傝
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+509D
+12
+tàn
+9.10
+傝.mp3
+
+傞
+['unsteady']
+['inestable']
+['https://media.gettyimages.com/photos/baby-girl-unsteady-on-bed-picture-id476845911?k=6&m=476845911&s=612x612&w=0&h=AmI-REdrqEmUj0wFqsIEk-VlMqrulSb_VNS3z5HSaGQ=']
+U+509E
+11
+suō
+9.10
+傞.mp3
+
+傟
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+509F
+12
+yǎng
+9.10
+傟.mp3
+
+傠
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50A0
+12
+fá
+9.10
+傠.mp3
+
+傡
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50A1
+12
+bìng
+9.10
+傡.mp3
+
+傢
+['stubborn, obstinate, intransigent']
+['terco, obstinado, intransigente']
+['NONE']
+U+50A2
+12
+jiā
+9.10
+傢.mp3
+
+傣
+['the Dai minority living in South China']
+['la minoría Dai que vive en el sur de China']
+['NONE']
+U+50A3
+12
+dǎi
+9.10
+傣.mp3
+
+傤
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50A4
+12
+zài
+9.13
+傤.mp3
+
+傥
+['if, supposing, in case']
+['si, suponiendo, en caso']
+['https://media.gettyimages.com/illustrations/businessman-reading-a-newspaper-in-a-park-illustration-id170882890?k=6&m=170882890&s=612x612&w=0&h=6PJCoogodPMLsSUPKfOygThvTkyDINKFp0tO4lPJYOk=']
+U+50A5
+12
+tǎng
+9.10
+傥.mp3
+
+傦
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50A6
+11
+gǔ
+9.10
+傦.mp3
+
+傧
+['entertain guests']
+['entretener a los invitados']
+['https://media.gettyimages.com/photos/having-friends-over-for-a-barbecue-picture-id1045346796?k=6&m=1045346796&s=612x612&w=0&h=c-WtjxjVQI1bKQ7KWo5juvtq8-o97uQSllfc_4mUI00=']
+U+50A7
+12
+bīn
+9.10
+傧.mp3
+
+储
+['save money, store, reserve', ' heir']
+['ahorrar dinero, almacenar, reservar', 'heredero']
+['https://media.gettyimages.com/photos/woman-shopping-online-using-laptop-computer-and-credit-card-picture-id1244831365?k=6&m=1244831365&s=612x612&w=0&h=9iKNt6HEffWLV-5qveJH-eTpLGe6BB3C1fczIdnqo9M=', 'https://media.gettyimages.com/photos/pres-george-bush-dressed-in-hunting-gear-w-friendoil-heir-william-picture-id50580913?k=6&m=50580913&s=612x612&w=0&h=WF8PI8pOzDe0jdSht5Y9-_8gnkZEZ3H6I6NTA66i5dg=']
+U+50A8
+12
+chǔ
+9.10
+储.mp3
+
+傩
+['rich']
+['Rico']
+['https://media.gettyimages.com/photos/professional-chef-at-work-picture-id935489342?k=6&m=935489342&s=612x612&w=0&h=avoBxqMcKr016rIXrQu683bQ9LiivbYhMUS8nTxbCos=']
+U+50A9
+12
+nuó
+9.10
+傩.mp3
+
+傪
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50AA
+13
+cān
+9.11
+傪.mp3
+
+傫
+['tired, exhausted', ' surname']
+['Cansado exhausto', 'apellido']
+['https://media.gettyimages.com/photos/unhappy-girl-in-a-bedroom-picture-id521815364?k=6&m=521815364&s=612x612&w=0&h=wumqpBP6QkYLdfNB5zHSQ9KoOKAmIZq6cDa1sSYZWWI=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+50AB
+13
+lěi
+9.11
+傫.mp3
+
+催
+['press, urge']
+['prensa, urgencia']
+['NONE']
+U+50AC
+13
+cuī
+9.11
+催.mp3
+
+傭
+['hire, employ, charter', ' servant']
+['contratar, emplear, fletar', 'servidor']
+['NONE', 'https://media.gettyimages.com/photos/housekeeper-washing-the-dishes-wearing-protective-mask-picture-id1214909317?k=6&m=1214909317&s=612x612&w=0&h=U8p_KlLegig2o7GnSh9_dYwFajHOLAeYckqMwg60igc=']
+U+50AD
+13
+yōng
+9.11
+傭.mp3
+
+傮
+['finish, to go around']
+['terminar, dar la vuelta']
+['https://media.gettyimages.com/photos/overhead-view-of-dirty-dishes-on-table-picture-id169265167?k=6&m=169265167&s=612x612&w=0&h=JX_hTVusfJgcLKuf3GhZcUSLIu2CohjgdhvhRbbxTaI=']
+U+50AE
+13
+zāo
+9.11
+傮.mp3
+
+傯
+['urgent']
+['urgente']
+['https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+50AF
+13
+zǒng
+9.11
+傯.mp3
+
+傰
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50B0
+13
+bēng
+9.11
+傰.mp3
+
+傱
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50B1
+13
+sǒng
+9.11
+傱.mp3
+
+傲
+['proud, haughty, overbearing']
+['orgulloso, altivo, autoritario']
+['https://media.gettyimages.com/photos/criminal-in-suit-wearing-gold-rings-picture-id92706619?k=6&m=92706619&s=612x612&w=0&h=MZ9N8XzMfq3ELsB0QReO0BvC6ijZ8YKQu5cJgXBj1Wo=']
+U+50B2
+12
+ào
+9.11
+傲.mp3
+
+傳
+['summon', ' propagate, transmit']
+['convocar', 'propagar, transmitir']
+['https://media.gettyimages.com/photos/fire-dragon-made-from-candle-flame-on-a-black-background-magical-picture-id979212414?k=6&m=979212414&s=612x612&w=0&h=Ec5sbQI8PhYnXLzGvOrdqTL4GG9N5E-AlCIrmf4ok9s=', 'https://media.gettyimages.com/photos/aerial-view-of-city-network-of-beijing-skyline-picture-id891501876?k=6&m=891501876&s=612x612&w=0&h=OuAzEwezccP4oC3TWsiPgJ-dHyaLj4K8yQkCXf4IoAw=']
+U+50B3
+13
+chuán
+9.11
+傳.mp3
+
+傴
+['humpback', ' stoop']
+['jorobado', 'agacharse']
+['https://media.gettyimages.com/photos/humpback-whale-portrait-picture-id1082038432?k=6&m=1082038432&s=612x612&w=0&h=ksptbn6n6-28tW-Mn3lqkVUynQCCKlaVz43ke9QysJ8=', 'https://media.gettyimages.com/photos/front-door-picture-id166270889?k=6&m=166270889&s=612x612&w=0&h=VQjichxRPdtidf1SKl5MXRWTJlXoCn44QbAeD9ol54A=']
+U+50B4
+13
+yǔ
+9.11
+傴.mp3
+
+債
+['debt, loan, liabilities']
+['deuda, préstamo, pasivo']
+['https://media.gettyimages.com/photos/caution-tape-and-keys-picture-id97555731?k=6&m=97555731&s=612x612&w=0&h=KnnSdrrGnHqqMYGu-DkSF0N2Hb-02-9v2DGEyQWCa6k=']
+U+50B5
+13
+zhài
+9.11
+債.mp3
+
+傶
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50B6
+13
+zú
+9.11
+傶.mp3
+
+傷
+['wound, injury', ' fall ill from']
+['herida, herida', 'enfermarse de']
+['https://media.gettyimages.com/photos/child-with-a-plaster-on-her-knee-picture-id800341504?k=6&m=800341504&s=612x612&w=0&h=OkjlZNlRtEd2_4AccX2GhljZ11te9wJu_beLTKkGZcA=', 'https://media.gettyimages.com/vectors/injury-and-pain-icons-vector-id1143619141?k=6&m=1143619141&s=612x612&w=0&h=GK0yBgxdGvzwlfHW5D0YSUMJKd2yFQzW6oSipO3L4Jc=']
+U+50B7
+13
+shāng
+9.11
+傷.mp3
+
+傸
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50B8
+13
+chuǎng
+9.11
+傸.mp3
+
+傹
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50B9
+13
+jìng
+9.11
+傹.mp3
+
+傺
+['to hinder', ' to detain']
+['obstaculizar', 'para detener']
+['https://media.gettyimages.com/photos/hinder-during-z100s-zootopia-2007-show-at-nassau-coliseum-in-new-york-picture-id114999472?k=6&m=114999472&s=612x612&w=0&h=pwjUa9tIrpR0VfiLKSxdDM_L1H6ZiOJ8YBcvAg0PDsQ=', 'https://media.gettyimages.com/photos/arrested-picture-id183298467?k=6&m=183298467&s=612x612&w=0&h=5UV1tXz358ybjijcIjVEkxmXmz_hesVPzlfjUy_Zpeg=']
+U+50BA
+13
+chì
+9.11
+傺.mp3
+
+傻
+['foolish, silly, stupid', ' an imbecile']
+['tonto, tonto, estúpido', 'un imbécil']
+['https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=', 'https://media.gettyimages.com/illustrations/slightly-imbecilic-yokel-illustration-id181077864?k=6&m=181077864&s=612x612&w=0&h=-Jblg9zHcSo_0yttZWCatUKIu9uwoFlaXJY9AmJncrU=']
+U+50BB
+13
+shǎ
+9.11
+傻.mp3
+
+傼
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+50BC
+13
+hàn
+9.11
+傼.mp3
+
+傽
+['terror-stricken']
+['aterrorizado']
+['https://media.gettyimages.com/illustrations/illustration-of-a-man-in-bed-scared-by-ghosts-surrounding-him-illustration-id85183213?k=6&m=85183213&s=612x612&w=0&h=jGCXYEDiP8ZWLAniVaRRygfw7yzWzm5_aHuP42zCKaM=']
+U+50BD
+13
+zhāng
+9.11
+傽.mp3
+
+傾
+['upset, pour out, overflow']
+['molesto, derramar, desbordar']
+['https://media.gettyimages.com/photos/flooded-road-hail-storm-picture-id157646190?k=6&m=157646190&s=612x612&w=0&h=auW8NQ7Ew3X4FWm4SCh-fNS29te0vwzTJ3pXzWV_RIQ=']
+U+50BE
+13
+qīng
+9.11
+傾.mp3
+
+傿
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50BF
+13
+yàn
+9.11
+傿.mp3
+
+僀
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50C0
+13
+dì
+9.11
+僀.mp3
+
+僁
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50C1
+13
+xiè
+9.11
+僁.mp3
+
+僂
+['humpback', ' surname']
+['jorobado', 'apellido']
+['https://media.gettyimages.com/photos/humpback-whale-portrait-picture-id1082038432?k=6&m=1082038432&s=612x612&w=0&h=ksptbn6n6-28tW-Mn3lqkVUynQCCKlaVz43ke9QysJ8=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+50C2
+13
+lóu
+9.11
+僂.mp3
+
+僃
+['prepared']
+['preparado']
+['https://media.gettyimages.com/photos/woman-doing-finances-at-home-picture-id1172587378?k=6&m=1172587378&s=612x612&w=0&h=YHXfw7WeEBGGI9bPL7M7DxQ5XASl4FVRiJXfLZAJU_k=']
+U+50C3
+12
+bèi
+9.11
+僃.mp3
+
+僄
+['light', ' airy']
+['ligero', 'aireado']
+['https://media.gettyimages.com/vectors/blue-light-beam-on-black-background-vector-id1071711902?k=6&m=1071711902&s=612x612&w=0&h=LLFsqIJjkDQJ8cxgZmOvj1U5c6EvNWHNKgFx-hiHLNM=', 'https://media.gettyimages.com/photos/modern-living-room-with-dining-room-picture-id1089808216?k=6&m=1089808216&s=612x612&w=0&h=amG32g9liBOP_vIedxXM_8CpqxlXYd3puPlhEmiQmz0=']
+U+50C4
+13
+piào
+9.11
+僄.mp3
+
+僅
+['only, merely, solely, just']
+['solo, solo, solo, solo']
+['NONE']
+U+50C5
+13
+jǐn
+9.11
+僅.mp3
+
+僆
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50C6
+12
+liàn
+9.11
+僆.mp3
+
+僇
+['humiliate', ' treat with contempt']
+['humillar', 'tratar con desprecio']
+['https://media.gettyimages.com/photos/businessman-wearing-dunce-cap-picture-id77740402?k=6&m=77740402&s=612x612&w=0&h=k3b7BANnYVVhmYDTbC9hsGAR06qJLK1c1b9Lzn8Mxs0=', 'https://media.gettyimages.com/photos/oh-my-god-what-is-that-picture-id516065928?k=6&m=516065928&s=612x612&w=0&h=YzakV-1T5zAUiPdWBcTefnd5M994ISSe5ydBpR3bv8U=']
+U+50C7
+13
+lù
+9.11
+僇.mp3
+
+僈
+['negligent, remiss']
+['negligente, negligente']
+['https://media.gettyimages.com/illustrations/-illustration-id165817561?k=6&m=165817561&s=612x612&w=0&h=2Mqsdv_05ESzTbUQ09jmyIStEB2Imd5I4ybF7fDBEAw=']
+U+50C8
+13
+mán
+9.11
+僈.mp3
+
+僉
+['all, together, unanimous']
+['todos, juntos, unánime']
+['https://media.gettyimages.com/photos/chief-un-weapons-inspector-hans-blix-director-general-of-the-atomic-picture-id1648579?k=6&m=1648579&s=612x612&w=0&h=OgDwrrifzCVEyIqerEZO4TvBd_8ZkwqZoFlOK8Ghvgo=']
+U+50C9
+13
+qiān
+9.11
+僉.mp3
+
+僊
+['Taoist super-being, transcendent, immortal']
+['Super-ser taoísta, trascendente, inmortal']
+['NONE']
+U+50CA
+14
+xiān
+9.11
+僊.mp3
+
+僋
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50CB
+13
+tàn
+9.11
+僋.mp3
+
+僌
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50CC
+13
+yíng
+9.11
+僌.mp3
+
+働
+['labor', ' work']
+['labor', 'trabajo']
+['https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=', 'https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=']
+U+50CD
+13
+dòng
+9.11
+働.mp3
+
+僎
+['collect']
+['recoger']
+['https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=']
+U+50CE
+14
+zhuàn
+9.12
+僎.mp3
+
+像
+['a picture, image, figure', ' to resemble']
+['una imagen, imagen, figura', 'parecerse']
+['https://media.gettyimages.com/vectors/sun-vector-id1088732954?k=6&m=1088732954&s=612x612&w=0&h=r5vlPVcVGq-8OVPIN2p62MqxBOUNX5O1Th64LSYiTVQ=', 'https://media.gettyimages.com/photos/food-on-a-green-background-arranged-to-resemble-dna-picture-id984787494?k=6&m=984787494&s=612x612&w=0&h=a9vUGUAgGRS9Fa6KIsLuSlku96R88Pyn-GuaVktMN7k=']
+U+50CF
+13
+xiàng
+9.12
+像.mp3
+
+僐
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50D0
+14
+shàn
+9.12
+僐.mp3
+
+僑
+['sojourn, lodge']
+['estancia, albergue']
+['https://media.gettyimages.com/photos/log-cabin-in-the-forest-picture-id93463536?k=6&m=93463536&s=612x612&w=0&h=R2OVaZV54A16BSobV2Jn29lzi9qabacbisrYBvFq9dY=']
+U+50D1
+14
+qiáo
+9.12
+僑.mp3
+
+僒
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50D2
+14
+jiǒng
+9.12
+僒.mp3
+
+僓
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50D3
+14
+tuǐ
+9.12
+僓.mp3
+
+僔
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50D4
+14
+zǔn
+9.12
+僔.mp3
+
+僕
+['slave, servant, I']
+['esclavo, sirviente, yo']
+['https://media.gettyimages.com/photos/male-robots-bow-to-human-female-wearing-exotic-clothes-with-droid-in-picture-id1051487604?k=6&m=1051487604&s=612x612&w=0&h=xRiFArpbzUaJgz9pXfO5yJrF-PMaK32SFqOj6hKbk8E=']
+U+50D5
+14
+pú
+9.12
+僕.mp3
+
+僖
+['joy, gladness, delight', ' surname']
+['alegría, alegría, deleite', 'apellido']
+['https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+50D6
+14
+xī
+9.12
+僖.mp3
+
+僗
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50D7
+14
+láo
+9.12
+僗.mp3
+
+僘
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50D8
+14
+chǎng
+9.12
+僘.mp3
+
+僙
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50D9
+13
+guāng
+9.12
+僙.mp3
+
+僚
+['companion, colleague', ' officials', ' bureaucracy', ' a pretty face']
+['compañero, colega', 'funcionarios', 'burocracia', 'una cara bonita']
+['https://media.gettyimages.com/photos/enjoying-their-breaks-together-picture-id1182850625?k=6&m=1182850625&s=612x612&w=0&h=XZ8NnogdNyUj92Ya-dAR68t5WhBbOgK77_86BQl_-z0=', 'https://media.gettyimages.com/photos/rear-view-of-politician-picture-id85213614?k=6&m=85213614&s=612x612&w=0&h=YIT6_Y4NpqgtL4oGYhUBJVBHAwAHDBiGlgj0-3FWRKE=', 'https://media.gettyimages.com/photos/stuck-at-the-office-picture-id493375210?k=6&m=493375210&s=612x612&w=0&h=u7v96moPuqBR3VHHgMxnNeKEZ1BGz15GHgpjjkyavHE=', 'https://media.gettyimages.com/photos/serene-beauty-picture-id1083617440?k=6&m=1083617440&s=612x612&w=0&h=wLq7N87zwUamnN1g1BebCxYdt3BVU8bhEyCSymDFyFI=']
+U+50DA
+14
+liáo
+9.12
+僚.mp3
+
+僛
+['tipsy reel']
+['carrete borracho']
+['https://media.gettyimages.com/photos/silhouette-of-adults-dancing-at-a-social-party-picture-id945231314?k=6&m=945231314&s=612x612&w=0&h=f6LXXt8ud1rnSJXlDmH6JY4nN4qkK-Wqi2UOqnPV8Ww=']
+U+50DB
+14
+qī
+9.12
+僛.mp3
+
+僜
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50DC
+14
+chēng
+9.12
+僜.mp3
+
+僝
+['to revile', ' to abuse']
+['injuriar', 'abusar']
+['https://media.gettyimages.com/photos/woman-screaming-in-megaphone-on-blackboard-picture-id517151368?k=6&m=517151368&s=612x612&w=0&h=HrRZAVnKhv7Y7tAU9UANvcYO9AyA8oiQHXfjuDF63fQ=', 'https://media.gettyimages.com/photos/senior-man-in-wheelchair-picture-id158385972?k=6&m=158385972&s=612x612&w=0&h=zmIM6GjbzYDwbSCq0CaF5mGoOMQbS2zz9GcJ6YI4MuA=']
+U+50DD
+14
+chán
+9.12
+僝.mp3
+
+僞
+['false, counterfeit, bogus']
+['falso, falsificado, falso']
+['https://media.gettyimages.com/illustrations/man-showing-his-fake-identity-card-to-security-illustration-id494328515?k=6&m=494328515&s=612x612&w=0&h=U1YEzqt8pEyfWZU9I9hmJUIrjK81xLiGTgr3TDPvnu0=']
+U+50DE
+14
+wěi
+9.12
+僞.mp3
+
+僟
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50DF
+14
+jī
+9.12
+僟.mp3
+
+僠
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50E0
+14
+bō
+9.12
+僠.mp3
+
+僡
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50E1
+14
+huì
+9.12
+僡.mp3
+
+僢
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50E2
+14
+chuǎn
+9.12
+僢.mp3
+
+僣
+['assume, usurp']
+['asumir, usurpar']
+['NONE']
+U+50E3
+14
+tiě
+9.12
+僣.mp3
+
+僤
+['sincere']
+['sincero']
+['https://media.gettyimages.com/vectors/business-ethics-icons-line-series-vector-id1060882676?k=6&m=1060882676&s=612x612&w=0&h=vMcCM4jeB-Kh8VMGfIGt71V4XNV0zP2c0rLaSFoqSfM=']
+U+50E4
+14
+dàn
+9.12
+僤.mp3
+
+僥
+['be lucky', ' by chance, by luck']
+['suerte', 'por casualidad, por suerte']
+['https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=', 'https://media.gettyimages.com/photos/prize-wheel-picture-id175482570?k=6&m=175482570&s=612x612&w=0&h=SDjgus5JTkRoWrXgZ9cySK6OTW0ePYDDbWi-bPkFMEU=']
+U+50E5
+14
+jiǎo
+9.12
+僥.mp3
+
+僦
+['to heir', ' to rent']
+['heredero', 'rentar']
+['https://media.gettyimages.com/photos/engraved-portrait-of-anne-boleyn-second-wife-of-king-henry-viii-of-picture-id50698161?k=6&m=50698161&s=612x612&w=0&h=9MyLqyzmmbtOztjdJCW1mAdxDhd6fj4M8-i0hY9rw58=', 'https://media.gettyimages.com/photos/couple-investing-in-buyng-new-property-picture-id1143902283?k=6&m=1143902283&s=612x612&w=0&h=cBlKgCA5ZWlbs50mU08cj1xmHa1P8GAOo6_xmb-IyoM=']
+U+50E6
+14
+jiù
+9.12
+僦.mp3
+
+僧
+['Buddhist priest, monk', ' san of Sanskrit sangha']
+['Sacerdote budista, monje', 'san de la sangha sánscrita']
+['https://media.gettyimages.com/vectors/buddhist-monk-cartoon-characters-vector-set-vector-id1035867018?k=6&m=1035867018&s=612x612&w=0&h=JyZGnPQbJX5ZPU5TYYZtb1lW9vh7PN1zh0yJJzeGEDc=', 'NONE']
+U+50E7
+14
+sēng
+9.12
+僧.mp3
+
+僨
+['ruin, cause fail', ' overthrown']
+['ruina, porque falla', 'derrocado']
+['NONE', 'https://media.gettyimages.com/photos/domino-stepping-out-of-line-thus-preventing-the-other-dominos-from-picture-id134470305?k=6&m=134470305&s=612x612&w=0&h=HPAaIEtn-mWtMC-C74VLquS1QHnU2LwqZb-0Efb5MKI=']
+U+50E8
+14
+fèn
+9.12
+僨.mp3
+
+僩
+['courageous', ' martial', ' dignified']
+['valiente', 'marcial', 'digno']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=', 'https://media.gettyimages.com/photos/empty-modern-gym-with-punching-bags-and-other-training-equipment-picture-id999525244?k=6&m=999525244&s=612x612&w=0&h=BzU2BYNYNQpBSPsCWbNDSK5-qLvCR4_mywuBamI8-_Q=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+50E9
+14
+xiàn
+9.12
+僩.mp3
+
+僪
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50EA
+14
+jú
+9.12
+僪.mp3
+
+僫
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50EB
+14
+è
+9.12
+僫.mp3
+
+僬
+['clever', ' alert in mind pigmies']
+['inteligente', 'alerta en la mente pigmeos']
+['https://media.gettyimages.com/photos/smart-meter-in-the-kitchen-picture-id1002456858?k=6&m=1002456858&s=612x612&w=0&h=RtvHYhJI5pgSUxIYqxM51NdZyO__aQGY-S1eR3IVy60=', 'NONE']
+U+50EC
+14
+jiāo
+9.12
+僬.mp3
+
+僭
+['assume, usurp']
+['asumir, usurpar']
+['NONE']
+U+50ED
+14
+jiàn
+9.12
+僭.mp3
+
+僮
+['page, boy servant']
+['paje, sirviente']
+['https://media.gettyimages.com/illustrations/french-noblewoman-page-boy-history-fashion-period-costumes-16th-illustration-id1254231148?k=6&m=1254231148&s=612x612&w=0&h=hVTx-s5NYgCINhuc-B0CplqIyGpGNv0MdnVB0-vFo0E=']
+U+50EE
+14
+tóng
+9.12
+僮.mp3
+
+僯
+['ashamed']
+['avergonzado']
+['https://media.gettyimages.com/photos/sad-high-school-student-feeling-lonely-in-a-hallway-picture-id1151538952?k=6&m=1151538952&s=612x612&w=0&h=nZVnyRnt25pYAJ3FSPQL-zdQlsdXkfMVjlATKVwidMw=']
+U+50EF
+14
+lìn
+9.12
+僯.mp3
+
+僰
+['ancient aboriginal tribe']
+['antigua tribu aborigen']
+['https://media.gettyimages.com/photos/indigenous-brazilian-young-man-portrait-from-guarani-ethnicity-picture-id1017416208?k=6&m=1017416208&s=612x612&w=0&h=cWApJeJ0drXvyM0G62PJg9RnywSFvxhnkbAJWdzx6mI=']
+U+50F0
+14
+bó
+9.12
+僰.mp3
+
+僱
+['employ, hire']
+['emplear, contratar']
+['https://media.gettyimages.com/photos/black-keyboard-with-a-green-job-key-picture-id183288414?k=6&m=183288414&s=612x612&w=0&h=MKcDQC5i_AnhvHXbx0p23n8iYcBqYOHfoRs9uFRQ5w8=']
+U+50F1
+14
+gù
+9.12
+僱.mp3
+
+僲
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50F2
+14
+xiān
+9.13
+僲.mp3
+
+僳
+['minority name']
+['nombre minoritario']
+['https://media.gettyimages.com/photos/learning-in-the-sun-picture-id1225016964?k=6&m=1225016964&s=612x612&w=0&h=oPR2Igm9SS2mXl5G-w7TVc1ZNKwStF-VKcu93_0Xspk=']
+U+50F3
+14
+sù
+9.12
+僳.mp3
+
+僴
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50F4
+14
+xiàn
+9.12
+僴.mp3
+
+僵
+['stiff and motionless, stock still']
+['rígido e inmóvil, stock todavía']
+['https://media.gettyimages.com/photos/miami-seaport-crane-and-container-cargo-ship-picture-id172336601?k=6&m=172336601&s=612x612&w=0&h=ik_fLtjvLP2fOiShIRz8zD01VaH_PqnyYUXsgg1-LnQ=']
+U+50F5
+15
+jiāng
+9.13
+僵.mp3
+
+僶
+['forcefully']
+['con fuerza']
+['https://media.gettyimages.com/photos/man-clutching-his-chest-from-acute-painheart-attack-symptomhealthcare-picture-id954305766?k=6&m=954305766&s=612x612&w=0&h=1MGqvmTCn5lQhmSlyBuTmYziwvEQs3TocAyfPukb8AQ=']
+U+50F6
+15
+mǐn
+9.13
+僶.mp3
+
+僷
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50F7
+14
+yè
+9.13
+僷.mp3
+
+僸
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50F8
+15
+jìn
+9.13
+僸.mp3
+
+價
+['price, value']
+['valor del precio']
+['https://media.gettyimages.com/photos/business-accounting-concept-business-man-using-calculator-with-and-picture-id1178916772?k=6&m=1178916772&s=612x612&w=0&h=cCvn9Xz1SlNoyz9AA8p2V6q4d1VT72vEcLO_DkapO4U=']
+U+50F9
+15
+jià
+9.13
+價.mp3
+
+僺
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50FA
+15
+qiào
+9.13
+僺.mp3
+
+僻
+['out-of-the-way, remote', ' unorthodox']
+['fuera del camino, remoto', 'heterodoxo']
+['NONE', 'https://media.gettyimages.com/photos/quite-unorthodox-mailbox-closeup-picture-id871370460?k=6&m=871370460&s=612x612&w=0&h=u_xYHFI-x_MC5ToHqZH5xsl6gB0_YnJR6FhV4qMTgFg=']
+U+50FB
+15
+pì
+9.13
+僻.mp3
+
+僼
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50FC
+15
+fēng
+9.13
+僼.mp3
+
+僽
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+50FD
+15
+zhòu
+9.13
+僽.mp3
+
+僾
+['like']
+['me gusta']
+['https://media.gettyimages.com/photos/thumbs-up-picture-id171312357?k=6&m=171312357&s=612x612&w=0&h=ITaChlIBDwWgXVf1CdYYhWBCfYkYlEvCO6v8gWjJRHA=']
+U+50FE
+15
+ài
+9.13
+僾.mp3
+
+僿
+['small, minute', ' lacking sincerity']
+['pequeño, minuto', 'falto de sinceridad']
+['https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'NONE']
+U+50FF
+15
+sài
+9.13
+僿.mp3
+
+儀
+['ceremony, rites gifts', ' admire']
+['ceremonia, regalos de ritos', 'admirar']
+['https://media.gettyimages.com/photos/gift-wrapped-in-japanese-wrapping-cloth-furoshiki-picture-id545985713?k=6&m=545985713&s=612x612&w=0&h=uipCN41fvjMOodLK-2dqUwgkDowDzsGaKc2mi3QnMeA=', 'https://media.gettyimages.com/photos/thats-what-you-call-a-good-meeting-picture-id857378016?k=6&m=857378016&s=612x612&w=0&h=EddVMJO9Tm7bUxWwlFfbyFPITBLaCZLdgsdSl2v6Gqw=']
+U+5100
+15
+yí
+9.13
+儀.mp3
+
+儁
+['outstanding, fine', ' superior', ' talented, capable', ' handsome']
+['sobresaliente, bien', 'superior', 'talentoso, capaz', 'hermoso']
+['https://media.gettyimages.com/photos/double-niche-with-old-bottles-in-a-wine-cellar-picture-id841902818?k=6&m=841902818&s=612x612&w=0&h=Gl7TauRK7firWIxW_QjvwhX8esTTFcY9ZGsc2Jsqyss=', 'https://media.gettyimages.com/vectors/awards-outline-icon-set-vector-id932703832?k=6&m=932703832&s=612x612&w=0&h=9XjtZ-JlOO3uA0N3s_zNpgY0mI01luWb-jLo7rs_JkA=', 'https://media.gettyimages.com/vectors/teamwork-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1124263210?k=6&m=1124263210&s=612x612&w=0&h=PoQHKAtCBlbVHfMxH12TKbRU_C2FonE5pX8cHK48FIU=', 'https://media.gettyimages.com/photos/smiling-businessman-with-brown-bag-walking-in-city-picture-id691910455?k=6&m=691910455&s=612x612&w=0&h=y7VbWAuA5TZjBtDt3s63yisIngc4sd4SCqOqsU7khSA=']
+U+5101
+14
+jùn
+9.13
+儁.mp3
+
+儂
+['I', ' you', ' family name']
+['yo', 'tú', 'apellido']
+['https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=', 'https://media.gettyimages.com/vectors/rainbow-thank-you-vector-id1217621684?k=6&m=1217621684&s=612x612&w=0&h=n_Gz20l0WHsjwtEWS9g3dDpI3J09S1tSXfdsBM0iM7M=', 'https://media.gettyimages.com/photos/cut-up-25-picture-id507179467?k=6&m=507179467&s=612x612&w=0&h=1BzfEeQuHPN6agnF9HHeVEFEzO327j8DFL0bQzkRCm4=']
+U+5102
+15
+nóng
+9.13
+儂.mp3
+
+儃
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5103
+15
+chán
+9.13
+儃.mp3
+
+億
+['hundred million', ' many']
+['cien millones', 'muchos']
+['https://media.gettyimages.com/photos/young-woman-throwing-money-around-picture-id130875335?k=6&m=130875335&s=612x612&w=0&h=dfVLCRgA7CdkAVXKff-5qLSloh_tRwGrBCEpTJMKLr4=', 'https://media.gettyimages.com/photos/zodiac-signs-inside-of-horoscope-circle-astrology-in-the-sky-with-picture-id1193343235?k=6&m=1193343235&s=612x612&w=0&h=dGpYB2ik4dnZ4NJEFrzjLrwb7B0gBzkGDxtNfZvKG1g=']
+U+5104
+15
+yì
+9.13
+億.mp3
+
+儅
+['stop']
+['detener']
+['https://media.gettyimages.com/vectors/stop-sign-icon-with-shadow-vector-vector-id875885046?k=6&m=875885046&s=612x612&w=0&h=YKcz_yfcraXc7ofrPCgfmVhXWOyWX2fLjSCwPEK_IcY=']
+U+5105
+15
+dàng
+9.13
+儅.mp3
+
+儆
+['warn', ' warning']
+['advertir', 'advertencia']
+['https://media.gettyimages.com/vectors/titre-icon-vector-id1064145390?k=6&m=1064145390&s=612x612&w=0&h=jr8FJDKUmxpCo8bZOE5I85qcubqzeAJemkt-SbwLXkE=', 'https://media.gettyimages.com/vectors/titre-icon-vector-id1064145390?k=6&m=1064145390&s=612x612&w=0&h=jr8FJDKUmxpCo8bZOE5I85qcubqzeAJemkt-SbwLXkE=']
+U+5106
+14
+jǐng
+9.13
+儆.mp3
+
+儇
+['clever, nimble']
+['inteligente, ágil']
+['https://media.gettyimages.com/photos/businessman-riding-scooter-along-office-building-picture-id1125234178?k=6&m=1125234178&s=612x612&w=0&h=Z5QnZvv7hUiytKCMTgRITkBa5ZGWn8z5WS5tekFDTao=']
+U+5107
+15
+xuān
+9.13
+儇.mp3
+
+儈
+['go-between, broker, proxy']
+['intermediario, corredor, proxy']
+['NONE']
+U+5108
+15
+kuài
+9.13
+儈.mp3
+
+儉
+['temperate, frugal, economical']
+['templado, frugal, económico']
+['NONE']
+U+5109
+15
+jiǎn
+9.13
+儉.mp3
+
+儊
+['rough and rugged']
+['áspero y rugoso']
+['https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+510A
+15
+chù
+9.13
+儊.mp3
+
+儋
+['a small jar', ' to bear a burden', ' a load of two']
+['un frasco pequeño', 'soportar una carga', 'una carga de dos']
+['https://media.gettyimages.com/photos/two-empty-capsule-bottles-picture-id157283073?k=6&m=157283073&s=612x612&w=0&h=sz56ofSeTaHgjbCY0pMFNDHXuynr31BCZJS80L5WFaY=', 'https://media.gettyimages.com/photos/polar-bear-picture-id89976618?k=6&m=89976618&s=612x612&w=0&h=MdNMKUVSetHqDfwHbn-7xjRo9JG0qho0g3t4TCj-VkM=', 'https://media.gettyimages.com/photos/wireless-entertainment-for-a-lazy-day-at-home-picture-id1158338459?k=6&m=1158338459&s=612x612&w=0&h=U_tnIb7iMgPLOUj1CwB5gnWkmmFBPPJyEny_ErT7O5Y=']
+U+510B
+15
+dān
+9.13
+儋.mp3
+
+儌
+['lucky, fortunate']
+['afortunado, afortunado']
+['https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=']
+U+510C
+15
+jiǎo
+9.13
+儌.mp3
+
+儍
+['foolish, silly, an imbecile']
+['tonto, tonto, imbécil']
+['https://media.gettyimages.com/illustrations/slightly-imbecilic-yokel-illustration-id181077864?k=6&m=181077864&s=612x612&w=0&h=-Jblg9zHcSo_0yttZWCatUKIu9uwoFlaXJY9AmJncrU=']
+U+510D
+15
+shǎ
+9.13
+儍.mp3
+
+儎
+['carry, contain, load']
+['llevar, contener, cargar']
+['NONE']
+U+510E
+15
+zài
+9.13
+儎.mp3
+
+儏
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+510F
+15
+càn
+9.13
+儏.mp3
+
+儐
+['entertain guests']
+['entretener a los invitados']
+['https://media.gettyimages.com/photos/having-friends-over-for-a-barbecue-picture-id1045346796?k=6&m=1045346796&s=612x612&w=0&h=c-WtjxjVQI1bKQ7KWo5juvtq8-o97uQSllfc_4mUI00=']
+U+5110
+16
+bīn
+9.14
+儐.mp3
+
+儑
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5111
+16
+án
+9.14
+儑.mp3
+
+儒
+['Confucian scholar']
+['Erudito confuciano']
+['https://media.gettyimages.com/photos/woman-wearing-confucian-scholar-dress-picture-id178677297?k=6&m=178677297&s=612x612&w=0&h=4SR8VlRJQfEIoMewV_fWKZ8A8K1_xUruTOKGSFMMyqg=']
+U+5112
+16
+rú
+9.14
+儒.mp3
+
+儓
+['servant']
+['servidor']
+['https://media.gettyimages.com/photos/housekeeper-washing-the-dishes-wearing-protective-mask-picture-id1214909317?k=6&m=1214909317&s=612x612&w=0&h=U8p_KlLegig2o7GnSh9_dYwFajHOLAeYckqMwg60igc=']
+U+5113
+16
+tái
+9.14
+儓.mp3
+
+儔
+['companion, mate, colleague']
+['compañero, compañero, colega']
+['https://media.gettyimages.com/photos/business-people-discussing-outdoors-picture-id1268304294?k=6&m=1268304294&s=612x612&w=0&h=KwXB2-APW683tjSn3gsD9tVku1bsgaFE-7_6AOa7G2s=']
+U+5114
+16
+chóu
+9.14
+儔.mp3
+
+儕
+['a company, companion', ' together']
+['una empresa, compañera', 'juntos']
+['https://media.gettyimages.com/photos/happy-businessmen-greeting-each-other-in-the-office-picture-id1063731314?k=6&m=1063731314&s=612x612&w=0&h=tu6Z4eyCS9Vqcj3JVoMXldMDf1axgzI7WNrWw_2Ef-E=', 'https://media.gettyimages.com/vectors/merge-arrows-infographic-vector-id1096774350?k=6&m=1096774350&s=612x612&w=0&h=SEvrlj6owHhIW0Mde_4AKfDi6p01-tWg34xVLvBmJgY=']
+U+5115
+16
+chái
+9.14
+儕.mp3
+
+儖
+['NONE']
+['NINGUNA']
+['https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=']
+U+5116
+16
+lán
+9.14
+儖.mp3
+
+儗
+['compare with, draw analogy with']
+['comparar con, dibujar analogía con']
+['https://media.gettyimages.com/photos/overlapping-multicolored-circles-picture-id812721488?k=6&m=812721488&s=612x612&w=0&h=ingAHZRM95n0lm_4BdAWlM3pB272MTBqR71vcXPxVpc=']
+U+5117
+16
+nǐ
+9.14
+儗.mp3
+
+儘
+['utmost']
+['mayor']
+['https://media.gettyimages.com/photos/never-do-anything-without-utmost-confidence-picture-id1003398490?k=6&m=1003398490&s=612x612&w=0&h=iS9qRbN4LEBEY_S13uI69PGN5PXFZTVy8IbpmyAHY2I=']
+U+5118
+16
+jǐn
+9.14
+儘.mp3
+

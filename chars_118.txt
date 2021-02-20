@@ -1,0 +1,2560 @@
+爙
+['NONE']
+['NINGUNA']
+[]
+U+7219
+21
+rǎng
+86.17
+爙.mp3
+
+爚
+['bright', ' fiery']
+['brillante', 'ardiente']
+['https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=']
+U+721A
+21
+yuè
+86.17
+爚.mp3
+
+爛
+['rotten, spoiled, decayed']
+['podrido, estropeado, podrido']
+['https://media.gettyimages.com/photos/old-wall-texture-picture-id182670278?k=6&m=182670278&s=612x612&w=0&h=cbGOnhe7ZqAzYI3aNh0CQItFUOZdep_3-X5roN413bE=']
+U+721B
+21
+làn
+86.17
+爛.mp3
+
+爜
+['NONE']
+['NINGUNA']
+[]
+U+721C
+22
+cóng
+86.18
+爜.mp3
+
+爝
+['torch', ' to light']
+['antorcha', 'a la luz']
+['https://media.gettyimages.com/vectors/torch-vector-id667812604?k=6&m=667812604&s=612x612&w=0&h=Tdrj44QKiUgxU4bwQi0e7fdPunx8jE4tuIiBZDdKAwQ=', 'https://media.gettyimages.com/vectors/blue-light-beam-on-black-background-vector-id1071711902?k=6&m=1071711902&s=612x612&w=0&h=LLFsqIJjkDQJ8cxgZmOvj1U5c6EvNWHNKgFx-hiHLNM=']
+U+721D
+21
+jué
+86.18
+爝.mp3
+
+爞
+['NONE']
+['NINGUNA']
+[]
+U+721E
+22
+chóng
+86.18
+爞.mp3
+
+爟
+['fire']
+['fuego']
+['https://media.gettyimages.com/photos/fire-flame-on-white-picture-id157379217?k=6&m=157379217&s=612x612&w=0&h=YUsvS13f2GJ4WSUQiU1bI2MpjyAXzI9WdqxC81oaoxI=']
+U+721F
+21
+guàn
+86.18
+爟.mp3
+
+爠
+['NONE']
+['NINGUNA']
+[]
+U+7220
+22
+ju
+86.18
+爠.mp3
+
+爡
+['NONE']
+['NINGUNA']
+[]
+U+7221
+22
+chè
+86.19
+爡.mp3
+
+爢
+['NONE']
+['NINGUNA']
+[]
+U+7222
+23
+mí
+86.19
+爢.mp3
+
+爣
+['NONE']
+['NINGUNA']
+[]
+U+7223
+24
+tǎng
+86.20
+爣.mp3
+
+爤
+['NONE']
+['NINGUNA']
+[]
+U+7224
+24
+làn
+86.21
+爤.mp3
+
+爥
+['simmer, cook over slow fire']
+['hervir a fuego lento, cocinar a fuego lento']
+['NONE']
+U+7225
+25
+zhú
+86.21
+爥.mp3
+
+爦
+['NONE']
+['NINGUNA']
+[]
+U+7226
+25
+lǎn
+86.21
+爦.mp3
+
+爧
+['NONE']
+['NINGUNA']
+[]
+U+7227
+28
+líng
+86.24
+爧.mp3
+
+爨
+['oven, cooking stove', ' cook']
+['horno, cocina', 'cocinar']
+['https://media.gettyimages.com/photos/father-and-son-cooking-dinner-at-home-picture-id1203794009?k=6&m=1203794009&s=612x612&w=0&h=rdjfo1MzXprRMojA4Hl1GxKVEbzqgAtf3FwCu9-RkaM=', 'https://media.gettyimages.com/photos/male-chef-garnishing-food-in-kitchen-picture-id877309726?k=6&m=877309726&s=612x612&w=0&h=3jDvk8FQY1LsozaFJhiZpBfwYdlq4DInpq014qgbP7o=']
+U+7228
+30
+cuàn
+86.25
+爨.mp3
+
+爩
+['(Cant.) to smoke, fumigate', ' to bleach with burning sulfur']
+['(Cant.) Fumar, fumigar', 'blanquear con azufre ardiente']
+['NONE', 'NONE']
+U+7229
+33
+yù
+86.29
+爩.mp3
+
+爪
+['claw, nail, talon', ' animal feet']
+['garra, clavo, garra', 'pies de animales']
+['NONE', 'https://media.gettyimages.com/vectors/animal-paw-print-icon-set-vector-id907633494?k=6&m=907633494&s=612x612&w=0&h=0nwLS1cylFvv6WgmhpCj2ycjWA_XSGG73QxdO_0NJ5M=']
+U+722A
+4
+zhǎo
+87.0
+爪.mp3
+
+爫
+['radical 87']
+['radical 87']
+['https://media.gettyimages.com/photos/grandfather-and-grandson-looking-at-a-smart-phone-in-a-cafe-picture-id876914498?k=6&m=876914498&s=612x612&w=0&h=fSEgjG0tmQxL4MbwxsUGDKgzPLNs1RRZ1jlVBQ-ZsLc=']
+U+722B
+4
+zhǎo
+87.0
+爫.mp3
+
+爬
+['crawl, creep', ' climb', ' scramble']
+['gatear, arrastrarse', 'escalada', 'lucha']
+['https://media.gettyimages.com/photos/beetle-insect-picture-id653781976?k=6&m=653781976&s=612x612&w=0&h=oAS9eQHvzgOdJUmX-IovnOkGjWmSjZ46lnFM9F3eeJA=', 'https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/photos/extreme-rappelling-picture-id471200040?k=6&m=471200040&s=612x612&w=0&h=XQJg6cLN_OECY026jqncxx6dskcJr6JEZVu3Pvi-CuU=']
+U+722C
+8
+pá
+87.4
+爬.mp3
+
+爭
+['to dispute, fight, contend, strive']
+['disputar, luchar, contender, luchar']
+['https://media.gettyimages.com/photos/closeup-of-red-boxing-gloves-with-business-persons-picture-id182422309?k=6&m=182422309&s=612x612&w=0&h=UiUDXrKgMA6kJb1dPdNn3eY1_UIBlHzGp-KRsG56zqQ=']
+U+722D
+8
+zhēng
+87.4
+爭.mp3
+
+爮
+['NONE']
+['NINGUNA']
+[]
+U+722E
+9
+páo
+87.5
+爮.mp3
+
+爯
+['NONE']
+['NINGUNA']
+[]
+U+722F
+9
+chēng
+87.5
+爯.mp3
+
+爰
+['lead on to', ' therefore, then']
+['conducir a', 'por lo tanto, entonces']
+['https://media.gettyimages.com/vectors/pencil-icon-flat-vector-id1078269892?k=6&m=1078269892&s=612x612&w=0&h=RlDJAWB16W4sOEn08_quV3nk98IATIY1E-kR87Q_muI=', 'https://media.gettyimages.com/photos/man-with-a-headache-does-not-look-healthy-and-therefore-is-treated-at-picture-id1212333983?k=6&m=1212333983&s=612x612&w=0&h=gzcP-gtocXLGK5ty9zqAqP9VZJojZDJhgRiOzEb1sH4=']
+U+7230
+9
+yuán
+87.5
+爰.mp3
+
+爱
+['love, be fond of, like']
+['amar, tener cariño, como']
+['https://media.gettyimages.com/photos/hugs-all-the-way-picture-id1137571976?k=6&m=1137571976&s=612x612&w=0&h=VMHw3hiU_WogJSsUZ8W89LPXBrMEz-uZAwHZdJtL8F8=']
+U+7231
+10
+ài
+87.6
+爱.mp3
+
+爲
+['do, handle, govern, act', ' be']
+['hacer, manejar, gobernar, actuar', 'ser']
+['https://media.gettyimages.com/vectors/revolver-gun-vote-vector-id473307012?k=6&m=473307012&s=612x612&w=0&h=M74lLFezNtzmq-DvVHvZGWRBAdPwAFJxolw8jmyi_nA=', 'https://media.gettyimages.com/photos/blank-billboard-on-the-highway-during-the-twilight-with-city-with-picture-id1195818240?k=6&m=1195818240&s=612x612&w=0&h=BtKwo4aVfC0xAGANrcaXCqtawXTUW7MLeEaU0lp2dgE=']
+U+7232
+12
+wèi
+87.8
+爲.mp3
+
+爳
+['NONE']
+['NINGUNA']
+[]
+U+7233
+14
+han
+87.10
+爳.mp3
+
+爴
+['NONE']
+['NINGUNA']
+[]
+U+7234
+15
+jué
+87.11
+爴.mp3
+
+爵
+['feudal title or rank']
+['título o rango feudal']
+['https://media.gettyimages.com/photos/uncle-sam-i-want-you-picture-id171159426?k=6&m=171159426&s=612x612&w=0&h=FXn5GSSAnxZ0eTplJy42-q8gis3z3FdzTX03M4pUQtQ=']
+U+7235
+17
+jué
+87.14
+爵.mp3
+
+父
+['father', ' KangXi radical 88']
+['padre', 'K Ang ξ radical 88']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'NONE']
+U+7236
+4
+fù
+88.0
+父.mp3
+
+爷
+['father, grandfather']
+['padre, abuelo']
+['https://media.gettyimages.com/photos/son-and-father-embracing-picture-id1141683547?k=6&m=1141683547&s=612x612&w=0&h=9JkcrLHp-Ko0y6yzEN0rokwT1eBkSqI9KPaECS10-3A=']
+U+7237
+6
+yé
+88.2
+爷.mp3
+
+爸
+['father, papa']
+['padre, papa']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=']
+U+7238
+8
+bà
+88.4
+爸.mp3
+
+爹
+['father, daddy']
+['padre, papi']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=']
+U+7239
+10
+diē
+88.6
+爹.mp3
+
+爺
+['father, grandfather']
+['padre, abuelo']
+['https://media.gettyimages.com/photos/son-and-father-embracing-picture-id1141683547?k=6&m=1141683547&s=612x612&w=0&h=9JkcrLHp-Ko0y6yzEN0rokwT1eBkSqI9KPaECS10-3A=']
+U+723A
+12
+yé
+88.9
+爺.mp3
+
+爻
+['diagrams for divination']
+['diagramas para la adivinación']
+['https://media.gettyimages.com/photos/calculator-and-charts-picture-id160616076?k=6&m=160616076&s=612x612&w=0&h=EcxNVve_Aqa4RWBsvbIxUrgw-0M_sYZaJqpUXUOhXA8=']
+U+723B
+4
+yáo
+89.0
+爻.mp3
+
+爼
+['a small table or tiered stand filled with meat offerings']
+['una mesa pequeña o un soporte con gradas lleno de ofrendas de carne']
+['NONE']
+U+723C
+9
+zǔ
+89.5
+爼.mp3
+
+爽
+['happy, cheerful', ' refreshing']
+['feliz, alegre', 'refrescante']
+['https://media.gettyimages.com/photos/above-view-of-playful-parents-tickling-their-daughters-at-home-picture-id1159543952?k=6&m=1159543952&s=612x612&w=0&h=EdDKiaqzUXgcTOoWw28Cv5BDvFTDy_bUzRjKvotSx_s=', 'https://media.gettyimages.com/vectors/arrow-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1080795930?k=6&m=1080795930&s=612x612&w=0&h=8RCjZH-kEyVhD4BuOyXuJ0k87LzK17WEAGe1OFVKKd0=']
+U+723D
+11
+shuǎng
+89.7
+爽.mp3
+
+爾
+['you', ' that, those', ' final particle']
+['tú', 'que aquellos', 'partícula final']
+['https://media.gettyimages.com/vectors/rainbow-thank-you-vector-id1217621684?k=6&m=1217621684&s=612x612&w=0&h=n_Gz20l0WHsjwtEWS9g3dDpI3J09S1tSXfdsBM0iM7M=', 'https://media.gettyimages.com/photos/group-of-drops-on-line-suspended-in-the-air-falling-down-on-a-water-picture-id1162171540?k=6&m=1162171540&s=612x612&w=0&h=NzjidD47PBKJAgmHOEmxngWtLfFHVWQ8U6Z1rIF76OE=', 'https://media.gettyimages.com/photos/abstract-big-bang-conceptual-image-picture-id898633500?k=6&m=898633500&s=612x612&w=0&h=djC1FepwNWSPf7l3CRc88zs8kP3zQwSJCjcVQEAvap4=']
+U+723E
+14
+ěr
+89.10
+爾.mp3
+
+爿
+['half of tree trunk', ' KangXi radical 90']
+['la mitad del tronco del árbol', 'K Ang ξ radical 90']
+['https://media.gettyimages.com/photos/cherry-tomatoes-on-a-white-wooden-background-picture-id911422838?k=6&m=911422838&s=612x612&w=0&h=G_WlGZMkAINth-_HMAxHIQa9bJj4k-718_ljE5NaobE=', 'NONE']
+U+723F
+4
+pán
+90.0
+爿.mp3
+
+牀
+['bed, couch', ' bench', ' chassis']
+['cama, sofá', 'banco', 'chasis']
+['https://media.gettyimages.com/vectors/-vector-id1014775264?k=6&m=1014775264&s=612x612&w=0&h=MxWuF53ttj85R7mh0EjZClXRJ7KHnpWvYQVNVsajQ1Q=', 'https://media.gettyimages.com/photos/3d-wrought-iron-decoration-set-isolated-on-white-picture-id171158570?k=6&m=171158570&s=612x612&w=0&h=2dMabu8C2Hyo7l8n8hUjkmiqC8ZXdCuaVM7igfJYOL4=', 'https://media.gettyimages.com/photos/car-and-chassis-xray-blueprint-picture-id182154020?k=6&m=182154020&s=612x612&w=0&h=RNtSGsbe0_eait80AN33nMNDU5HKqaU2u0DhMO7BTxQ=']
+U+7240
+8
+chuáng
+90.4
+牀.mp3
+
+牁
+['mooring stake', ' painter, mooring']
+['estaca de amarre', 'pintor, amarre']
+['https://media.gettyimages.com/photos/post-of-wood-with-a-tied-rope-and-knots-to-the-shore-of-a-lake-with-picture-id867342304?k=6&m=867342304&s=612x612&w=0&h=BHQ_q6B4CQKsTxjBzccRgfD3PPPIHJ_6uevhpFkEccE=', 'https://media.gettyimages.com/photos/autumn-in-london-picture-id117961361?k=6&m=117961361&s=612x612&w=0&h=b4Q8hLy2DVZTKOxY7HDsRXY1FPjwNE-ZlJoamKCbva8=']
+U+7241
+9
+kē
+90.5
+牁.mp3
+
+牂
+['female sheep, ewe']
+['oveja, oveja']
+['https://media.gettyimages.com/photos/germany-schleswigholstein-north-frisia-sheep-and-lambs-picture-id970175886?k=6&m=970175886&s=612x612&w=0&h=PSqGy0xt8sCTh2ceRXa3iSxjaQ9CdHdkM-JZ0gcHIlk=']
+U+7242
+10
+zāng
+90.6
+牂.mp3
+
+牃
+['NONE']
+['NINGUNA']
+[]
+U+7243
+13
+dié
+90.9
+牃.mp3
+
+牄
+['to walk rapidly']
+['caminar rapido']
+['https://media.gettyimages.com/photos/alaskan-coastal-brown-bear-close-moving-rapidly-toward-fish-in-river-picture-id1180424604?k=6&m=1180424604&s=612x612&w=0&h=uC8Q6yiulVZe3nuAvxR6FZBh61NFydwL1qBvmeoU9B4=']
+U+7244
+14
+qiāng
+90.10
+牄.mp3
+
+牅
+['NONE']
+['NINGUNA']
+[]
+U+7245
+15
+yōng
+90.11
+牅.mp3
+
+牆
+['wall']
+['pared']
+['https://media.gettyimages.com/photos/old-wall-texture-picture-id182670278?k=6&m=182670278&s=612x612&w=0&h=cbGOnhe7ZqAzYI3aNh0CQItFUOZdep_3-X5roN413bE=']
+U+7246
+17
+qiáng
+90.13
+牆.mp3
+
+片
+['slice, splinter, strip', ' rad. 91']
+['rebanada, astilla, tira', 'trabajo. 91']
+['NONE', 'NONE']
+U+7247
+4
+piàn
+91.0
+片.mp3
+
+版
+['printing blocks', ' edition']
+['bloques de impresión', 'edición']
+['https://media.gettyimages.com/photos/typography-picture-id180292288?k=6&m=180292288&s=612x612&w=0&h=yYx3bU3b54ouFyoGHC7h7KRi8f8V6-x8_U4u5Slhub0=', 'https://media.gettyimages.com/vectors/world-map-miller-edition-vector-id1076620758?k=6&m=1076620758&s=612x612&w=0&h=rGK30pkkR22YT4zkQ9MDbHkKOSzDmeeYmFD289j1bLM=']
+U+7248
+8
+bǎn
+91.4
+版.mp3
+
+牉
+['NONE']
+['NINGUNA']
+[]
+U+7249
+9
+pàn
+91.5
+牉.mp3
+
+牊
+['NONE']
+['NINGUNA']
+[]
+U+724A
+9
+cháo
+91.5
+牊.mp3
+
+牋
+['memorandum, official note']
+['memorando, nota oficial']
+['NONE']
+U+724B
+12
+jiān
+91.8
+牋.mp3
+
+牌
+['signboard, placard']
+['letrero, cartel']
+['https://media.gettyimages.com/photos/blank-placard-picture-id157305767?k=6&m=157305767&s=612x612&w=0&h=dPaqy_nktZYZl1TcKpMGUi6XVbkL_XAOrBEgI8Denuo=']
+U+724C
+12
+pái
+91.8
+牌.mp3
+
+牍
+['writing tablet', ' documents, books']
+['tableta de escritura', 'documentos, libros']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1179804740?k=6&m=1179804740&s=612x612&w=0&h=hEa7NKoYOkRb8DlJvS2YDfPyHhfO74_NRMcnPSQ9UmM=']
+U+724D
+12
+dú
+91.8
+牍.mp3
+
+牎
+['NONE']
+['NINGUNA']
+[]
+U+724E
+13
+chuāng
+91.9
+牎.mp3
+
+牏
+['privy hole']
+['agujero privado']
+['https://media.gettyimages.com/photos/closeup-of-heart-shape-on-wooden-door-picture-id1096944208?k=6&m=1096944208&s=612x612&w=0&h=oNARSFh78medI3fNBke-c0GyW6eGXI5II_DYi4KyIg4=']
+U+724F
+13
+yú
+91.9
+牏.mp3
+
+牐
+['sluice', ' flood gate, canal lock']
+['compuerta', 'compuerta contra inundaciones, esclusa de canal']
+['https://media.gettyimages.com/photos/dumbs-perspective-picture-id922401414?k=6&m=922401414&s=612x612&w=0&h=e40NH8lLOY4T68VKJKVMex8DK2YNE8DRHFmUDsrSTzE=', 'https://media.gettyimages.com/illustrations/floodgate-in-the-holtenau-canal-lock-kiel-canal-germany-1895-illustration-id1207310211?k=6&m=1207310211&s=612x612&w=0&h=SUHD1DCZGvgnCFcDBRDCN8uoiSwfOco4zMqsRxjuoIo=']
+U+7250
+13
+zhá
+91.9
+牐.mp3
+
+牑
+['NONE']
+['NINGUNA']
+[]
+U+7251
+13
+biān
+91.9
+牑.mp3
+
+牒
+['documents, records', ' dispatch']
+['documentos, registros', 'envío']
+['https://media.gettyimages.com/photos/combing-through-the-fine-print-picture-id889031464?k=6&m=889031464&s=612x612&w=0&h=dxqNpsfVu_od-WdRSTfewXki74RYkm6WrUNJdjpOKf4=', 'https://media.gettyimages.com/photos/managing-the-days-inquiries-picture-id938430346?k=6&m=938430346&s=612x612&w=0&h=xK85LQqa1jIpRGaDGWneGCL1ihpnFqSbJ1o85QE-kj8=']
+U+7252
+13
+dié
+91.9
+牒.mp3
+
+牓
+['tablet', ' public notice', ' register']
+['tableta', 'Noticia pública', 'Registrarse']
+['https://media.gettyimages.com/vectors/realistic-vector-illustration-of-white-and-black-digital-tablet-vector-id1146194863?k=6&m=1146194863&s=612x612&w=0&h=xUDQ-VEj-YCAAnm54KWChoMvqT1D7DRejJ0U9ATxjXk=', 'https://media.gettyimages.com/vectors/titre-icon-vector-id1064145390?k=6&m=1064145390&s=612x612&w=0&h=jr8FJDKUmxpCo8bZOE5I85qcubqzeAJemkt-SbwLXkE=', 'https://media.gettyimages.com/vectors/subscription-vector-line-icon-simple-thin-line-icon-premium-quality-vector-id1144300557?k=6&m=1144300557&s=612x612&w=0&h=gZjAkxZaHJ3f5Iu25BBm87SSVQC5zLw1TQIqCTaCDHk=']
+U+7253
+14
+bǎng
+91.10
+牓.mp3
+
+牔
+['gable']
+['aguilón']
+['https://media.gettyimages.com/photos/portrait-of-screen-actor-clark-gable-mgm-star-filed-6151946-picture-id517433066?k=6&m=517433066&s=612x612&w=0&h=CyR5RLsqmWX5HVG6T84FFr7EI-u0VXk79fHrSMCkcl8=']
+U+7254
+14
+bó
+91.10
+牔.mp3
+
+牕
+['window']
+['ventana']
+['https://media.gettyimages.com/photos/loft-kitchen-picture-id896352308?k=6&m=896352308&s=612x612&w=0&h=pDlFSBvZaQk24i3jUpW2kzA5OmemsUpAHlyWEtbvWYQ=']
+U+7255
+15
+chuāng
+91.11
+牕.mp3
+
+牖
+['window', ' lead enlightenment']
+['ventana', 'iluminación de plomo']
+['https://media.gettyimages.com/photos/loft-kitchen-picture-id896352308?k=6&m=896352308&s=612x612&w=0&h=pDlFSBvZaQk24i3jUpW2kzA5OmemsUpAHlyWEtbvWYQ=', 'https://media.gettyimages.com/photos/little-girl-turning-on-a-light-picture-id1256311361?k=6&m=1256311361&s=612x612&w=0&h=wWnGxTCYP3tWRKHyxpTAM1ZKPweaZRMdXe1HeYTzDjI=']
+U+7256
+15
+yǒu
+91.11
+牖.mp3
+
+牗
+['NONE']
+['NINGUNA']
+[]
+U+7257
+15
+yǒu
+91.11
+牗.mp3
+
+牘
+['writing tablet', ' documents, books']
+['tableta de escritura', 'documentos, libros']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1179804740?k=6&m=1179804740&s=612x612&w=0&h=hEa7NKoYOkRb8DlJvS2YDfPyHhfO74_NRMcnPSQ9UmM=']
+U+7258
+19
+dú
+91.15
+牘.mp3
+
+牙
+['tooth, molars, teeth', ' serrated']
+['diente, molares, dientes', 'serrado']
+['https://media.gettyimages.com/photos/child-having-a-dental-examination-picture-id519123946?k=6&m=519123946&s=612x612&w=0&h=aWz3YfRVd5HlEFEf85ItnaiStrzrvCNinTVg7DivnZ8=', 'https://media.gettyimages.com/photos/carpenter-cutting-wood-plank-picture-id962660104?k=6&m=962660104&s=612x612&w=0&h=U5f8wjVQfGU5W6T2gCV9LIv61tEXzaPj81au5p1enR0=']
+U+7259
+4
+yá
+92.0
+牙.mp3
+
+牚
+['NONE']
+['NINGUNA']
+[]
+U+725A
+12
+chēng
+92.8
+牚.mp3
+
+牛
+['cow, ox, bull', ' KangXi radical93']
+['vaca, buey, toro', 'K Ang ξ radical93']
+['https://media.gettyimages.com/photos/horny-horns-picture-id92255127?k=6&m=92255127&s=612x612&w=0&h=cb2cr7qmwZbAqaqHe_mxBPo8tG4dNIykgHMFINYtJqg=', 'NONE']
+U+725B
+4
+niú
+93.0
+牛.mp3
+
+牜
+['an ox, a cow Radical 93']
+['un buey, una vaca Radical 93']
+['NONE']
+U+725C
+4
+niú
+93.0
+牜.mp3
+
+牝
+['female of species', ' deep gorge']
+['hembra de especie', 'garganta profunda']
+['https://media.gettyimages.com/photos/orangutans-picture-id899748046?k=6&m=899748046&s=612x612&w=0&h=gGZ7axeTd0Fgejg5u-RfnD2fYJpY4VroXaLiCvg0XiI=', 'https://media.gettyimages.com/photos/marble-canyon-and-colorado-river-in-arizona-usa-picture-id682710408?k=6&m=682710408&s=612x612&w=0&h=r3Omx2caE_FNm0OEXHwkX5WxwTtPk-y30l3gwukUu6g=']
+U+725D
+6
+pìn
+93.2
+牝.mp3
+
+牞
+['NONE']
+['NINGUNA']
+[]
+U+725E
+6
+jiū
+93.2
+牞.mp3
+
+牟
+['make', ' seek, get', ' barley', ' low']
+['hacer', 'buscar, conseguir', 'cebada', 'bajo']
+['https://media.gettyimages.com/photos/morning-duties-picture-id1020703480?k=6&m=1020703480&s=612x612&w=0&h=-mG6kTh6_9WvSV224PmZm2b-GUt_eifBa9JmMRX-KdY=', 'https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=', 'https://media.gettyimages.com/photos/pile-of-barley-picture-id103994698?k=6&m=103994698&s=612x612&w=0&h=UMF02N1tNeyb-zsmMZyqfWtu6rPkKr29UdDpszWB78I=', 'https://media.gettyimages.com/vectors/battery-icons-line-vector-icons-vector-id1089811060?k=6&m=1089811060&s=612x612&w=0&h=hriGX8wMYlYF_FlzNDI5ZucMFVgtgOX89I7q1Of7C4A=']
+U+725F
+6
+móu
+93.2
+牟.mp3
+
+牠
+['it', ' polled cattle']
+['eso', 'ganado sin cuernos']
+['https://media.gettyimages.com/photos/technology-abstract-picture-id1148091793?k=6&m=1148091793&s=612x612&w=0&h=m2vuawlHNUvykE4qVanxHaldO6ge2SxFx5EiGSe9nE0=', 'https://media.gettyimages.com/vectors/animal-shapes-vector-id93128522?k=6&m=93128522&s=612x612&w=0&h=ersl94QoOvcOa__kZ7d71Dt1EzOQOcmZFYlTbzai5uE=']
+U+7260
+7
+tā
+93.3
+牠.mp3
+
+牡
+['male of animals', ' bolt of door']
+['macho de animales', 'cerrojo de la puerta']
+['https://media.gettyimages.com/photos/man-and-dog-in-the-park-picture-id934108632?k=6&m=934108632&s=612x612&w=0&h=6mR128QMHPKPYeh6czndtQa36XH_iHxbBR1JFaYM0BA=', 'https://media.gettyimages.com/photos/security-measure-picture-id186815455?k=6&m=186815455&s=612x612&w=0&h=jWKmYkc9m0uLKxOvomsUcI43h70md8yra4N3MtmD1Bk=']
+U+7261
+7
+mǔ
+93.3
+牡.mp3
+
+牢
+['prison', ' stable, pen', ' secure']
+['prisión', 'estable, bolígrafo', 'seguro']
+['https://media.gettyimages.com/photos/empty-prison-cell-picture-id73979720?k=6&m=73979720&s=612x612&w=0&h=AYwkdpRMy7JJLNQtC3kf9RimH7q_c390XVbAgcl7Yps=', 'https://media.gettyimages.com/photos/four-little-pigs-picture-id484521569?k=6&m=484521569&s=612x612&w=0&h=yIc5aPh2wvizPdRqurAyZ8vEGXami9u4A2Sj6Kpm5v0=', 'https://media.gettyimages.com/vectors/security-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1173888768?k=6&m=1173888768&s=612x612&w=0&h=HJmz6Tko9Yl3v2fXTHq6G5r_mhTjUCSlSmx_GtT9AeA=']
+U+7262
+7
+láo
+93.3 40.4
+牢.mp3
+
+牣
+['fill, stuff', ' full']
+['llenar, cosas', 'lleno']
+['https://media.gettyimages.com/photos/couple-carrying-box-picture-id484355041?k=6&m=484355041&s=612x612&w=0&h=mlx7jVM_1SjnuzwhtYZxLe8VSjwoVPf9VFJ4-Me-JDw=', 'https://media.gettyimages.com/photos/groceries-shopping-picture-id1069220964?k=6&m=1069220964&s=612x612&w=0&h=7KgkJ6wh0E_n9v2j7JWTtThUiL_ZVLF6P8UV_X2L-MI=']
+U+7263
+7
+rèn
+93.3
+牣.mp3
+
+牤
+['a bull']
+['Un toro']
+['https://media.gettyimages.com/photos/young-bull-in-las-ventas-madrid-picture-id133962253?k=6&m=133962253&s=612x612&w=0&h=GV7qm1nWTQAlUCeiYIU4CLTeVdQwGwETT6-1Io5dFts=']
+U+7264
+7
+māng
+93.3
+牤.mp3
+
+牥
+['NONE']
+['NINGUNA']
+[]
+U+7265
+8
+fāng
+93.4
+牥.mp3
+
+牦
+['tail', ' hair', ' yak']
+['cola', 'cabello', 'yak']
+['https://media.gettyimages.com/photos/lobster-tails-seasoned-for-the-grill-picture-id480380114?k=6&m=480380114&s=612x612&w=0&h=jITt88GDlymio0EqIG7RhRKUdKQJyj52EbmutCC0eM0=', 'https://media.gettyimages.com/photos/making-hairstory-everyday-with-gorgeous-hair-picture-id1055099140?k=6&m=1055099140&s=612x612&w=0&h=tL7HDNMenlt2W1bBBslxLClW2q-aOcfYuPBrLzBtrAw=', 'https://media.gettyimages.com/photos/yak-grazing-in-high-altitude-pasturetashkurganchina-picture-id688117028?k=6&m=688117028&s=612x612&w=0&h=tZWr6aJuebcv5ovO9wHkw5jS63Vfv_C2gSC5IjBtSz4=']
+U+7266
+8
+máo
+93.4
+牦.mp3
+
+牧
+['tend cattle, shepherd']
+['cuidar ganado, pastor']
+['https://media.gettyimages.com/photos/adult-farmer-in-barn-with-buffalos-on-dairy-farm-picture-id1168698834?k=6&m=1168698834&s=612x612&w=0&h=_1i1Bkfiypfey6nQb4ZW1nJQB7pm6mfO-A7qapKNQqo=']
+U+7267
+8
+mù
+93.4
+牧.mp3
+
+牨
+['NONE']
+['NINGUNA']
+[]
+U+7268
+8
+gāng
+93.4
+牨.mp3
+
+物
+['thing, substance, creature']
+['cosa, sustancia, criatura']
+['https://media.gettyimages.com/photos/closeup-of-a-killed-bleed-pig-hanging-at-the-slaughterhouse-picture-id1033211572?k=6&m=1033211572&s=612x612&w=0&h=FXj3CJzetSZt_T51byGrw6g_z5ugg04OCc4RtLOsf8g=']
+U+7269
+8
+wù
+93.4
+物.mp3
+
+牪
+['NONE']
+['NINGUNA']
+[]
+U+726A
+8
+yàn
+93.4
+牪.mp3
+
+牫
+['NONE']
+['NINGUNA']
+[]
+U+726B
+8
+gē
+93.4
+牫.mp3
+
+牬
+['NONE']
+['NINGUNA']
+[]
+U+726C
+8
+bèi
+93.4
+牬.mp3
+
+牭
+['NONE']
+['NINGUNA']
+[]
+U+726D
+9
+sì
+93.5
+牭.mp3
+
+牮
+['a prop, beam']
+['un puntal, viga']
+['https://media.gettyimages.com/photos/beams-of-sunlight-filter-among-the-prop-roots-of-a-mangrove-forest-picture-id599948643?k=6&m=599948643&s=612x612&w=0&h=E7IfferEEmiPPJdaPDlEF8MNMKs3UeRxc71RRUENHfA=']
+U+726E
+9
+jiàn
+93.5
+牮.mp3
+
+牯
+['cow', ' bull', ' ox']
+['vaca', 'bull', 'buey']
+['https://media.gettyimages.com/photos/closeup-of-cows-in-summer-picture-id906635620?k=6&m=906635620&s=612x612&w=0&h=-QsYz7nuIMawuoJn-HrAYhp6_0nERxRBnT00WlsJWfc=', 'https://media.gettyimages.com/photos/young-bull-in-las-ventas-madrid-picture-id133962253?k=6&m=133962253&s=612x612&w=0&h=GV7qm1nWTQAlUCeiYIU4CLTeVdQwGwETT6-1Io5dFts=', 'https://media.gettyimages.com/photos/bison-isolated-picture-id106554882?k=6&m=106554882&s=612x612&w=0&h=q3hp-uNbzkWshP0IrfPI820XXbwcvFLhwOB2bLqq2zM=']
+U+726F
+9
+gǔ
+93.5
+牯.mp3
+
+牰
+['NONE']
+['NINGUNA']
+[]
+U+7270
+9
+yòu
+93.5
+牰.mp3
+
+牱
+['NONE']
+['NINGUNA']
+[]
+U+7271
+9
+gē
+93.5
+牱.mp3
+
+牲
+['sacrificial animal', ' animal']
+['animal de sacrificio', 'animal']
+['https://media.gettyimages.com/illustrations/altar-of-burnt-offering-wood-engraving-published-1886-illustration-id805136316?k=6&m=805136316&s=612x612&w=0&h=8txQJclqm3kern1dvd5mi_ebrXZG8_TlMZaRAJLkTSE=', 'https://media.gettyimages.com/photos/big-family-picture-id1163498728?k=6&m=1163498728&s=612x612&w=0&h=LElCLVAT60Wlpbda2L3queN1oq_vQRyGDdBFWCfNlz8=']
+U+7272
+9
+shēng
+93.5
+牲.mp3
+
+牳
+['NONE']
+['NINGUNA']
+[]
+U+7273
+9
+mǔ
+93.5
+牳.mp3
+
+牴
+['gore, butt', ' resist']
+['sangre, trasero', 'resistir']
+['NONE', 'https://media.gettyimages.com/photos/young-friends-enjoying-the-freedom-on-a-car-trip-over-a-country-picture-id687064886?k=6&m=687064886&s=612x612&w=0&h=KwQmIa2CnTXTmkey7Pln4KzHYqDDV39naElEOFAbUqI=']
+U+7274
+9
+dǐ
+93.5
+牴.mp3
+
+牵
+['drag, pull, lead by hand']
+['arrastrar, tirar, conducir con la mano']
+['NONE']
+U+7275
+9
+qiān
+93.5
+牵.mp3
+
+牶
+['a nose-ring for an animal']
+['un anillo en la nariz para un animal']
+['https://media.gettyimages.com/photos/bull-emerging-from-darkness-ring-through-nose-closeup-picture-id200154500-001?k=6&m=200154500-001&s=612x612&w=0&h=fJPvtc5LZFHob68-7pL2zRwDxSOGp4_J6L2w_uYDpRE=']
+U+7276
+10
+quàn
+93.6
+牶.mp3
+
+牷
+['cow or ox of one color, perfect']
+['vaca u buey de un color, perfecto']
+['https://media.gettyimages.com/photos/tree-and-cows-in-a-green-meadow-in-front-of-blue-sky-eifel-north-picture-id130885104?k=6&m=130885104&s=612x612&w=0&h=6uFCvYMTkYjgMpi_TLtjIJTaL5IU6U3KV-MNauuCnOI=']
+U+7277
+10
+quán
+93.6
+牷.mp3
+
+牸
+['the female of certain animals', ' to bring forth young of animals']
+['la hembra de ciertos animales', 'dar a luz crías de animales']
+['https://media.gettyimages.com/photos/roundabout-redhead-picture-id929944802?k=6&m=929944802&s=612x612&w=0&h=E2ZtxgE51wPAarphL0AmLvuPl-7CEXxuTg8ZnZQSPLQ=', 'https://media.gettyimages.com/photos/gannet-presenting-nesting-material-to-mate-picture-id512526735?k=6&m=512526735&s=612x612&w=0&h=0riWRwTbjX-Uby_QV5YAfKn33ANSyTAfHoBK0L-5_v0=']
+U+7278
+10
+zì
+93.6
+牸.mp3
+
+特
+['special, unique, distinguished']
+['especial, único, distinguido']
+['https://media.gettyimages.com/photos/woman-stand-up-paddle-boarding-on-a-pristine-mountain-lake-picture-id971053374?k=6&m=971053374&s=612x612&w=0&h=Y-1VROlCaTbTu4ZUW5UeEyFkHQsDxYMscEiy1bGFNSo=']
+U+7279
+10
+tè
+93.6
+特.mp3
+
+牺
+['sacrifice, give up', ' sacrificial']
+['sacrificio, rendirse', 'sacrificatorio']
+['https://media.gettyimages.com/photos/upset-army-soldier-leaves-his-home-for-overseas-assignment-picture-id941439766?k=6&m=941439766&s=612x612&w=0&h=gVGxJJLILTeL4dYGOaylAMSkEqpxcfkbDI3zExXysSQ=', 'https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+727A
+10
+xī
+93.6
+牺.mp3
+
+牻
+['NONE']
+['NINGUNA']
+[]
+U+727B
+11
+máng
+93.7
+牻.mp3
+
+牼
+["ox shank, person's name"]
+['pierna de buey, nombre de la persona']
+['NONE']
+U+727C
+11
+kēng
+93.7
+牼.mp3
+
+牽
+['drag, pull, lead by hand']
+['arrastrar, tirar, conducir con la mano']
+['NONE']
+U+727D
+11
+qiān
+93.7
+牽.mp3
+
+牾
+['to oppose', ' to gore']
+['oponerse', 'sangrar']
+['https://media.gettyimages.com/vectors/dialogue-vector-id537364722?k=6&m=537364722&s=612x612&w=0&h=WSDizlyO_n7zLqOxSdK8wptufUkIu4mwbHR8Jk0nnN4=', 'https://media.gettyimages.com/photos/former-vice-president-al-gore-attends-a-press-conference-for-an-to-picture-id827633522?k=6&m=827633522&s=612x612&w=0&h=-d4YS7XntaAtA29h--vxXA6QJUS9-zMkJEQAZv_W860=']
+U+727E
+11
+wǔ
+93.7
+牾.mp3
+
+牿
+['shed, pen']
+['cobertizo, pluma']
+['https://media.gettyimages.com/photos/breakfast-is-served-picture-id639309882?k=6&m=639309882&s=612x612&w=0&h=RoKERZKUFttHvaQ2e8S9gXnRtxxG2kzZ93fMngFlX-A=']
+U+727F
+11
+gù
+93.7
+牿.mp3
+
+犀
+['rhinoceros', ' sharp, well-tempered']
+['rinoceronte', 'agudo, bien temperado']
+['https://media.gettyimages.com/photos/rhinoceros-picture-id143918323?k=6&m=143918323&s=612x612&w=0&h=Taiab-taMlewYE_z1czCYrmkA5o-BCLKObjSHvdXBR4=', 'NONE']
+U+7280
+12
+xī
+93.8
+犀.mp3
+
+犁
+['plow']
+['arado']
+['https://media.gettyimages.com/photos/plowing-the-road-picture-id172685391?k=6&m=172685391&s=612x612&w=0&h=EN1J0TaFp4I-N1EdLlJTiDPsMDIPqAdGm8xpb6ieDoM=']
+U+7281
+11
+lí
+93.7
+犁.mp3
+
+犂
+['plow']
+['arado']
+['https://media.gettyimages.com/photos/plowing-the-road-picture-id172685391?k=6&m=172685391&s=612x612&w=0&h=EN1J0TaFp4I-N1EdLlJTiDPsMDIPqAdGm8xpb6ieDoM=']
+U+7282
+12
+lí
+93.8
+犂.mp3
+
+犃
+['NONE']
+['NINGUNA']
+[]
+U+7283
+12
+pǒu
+93.8
+犃.mp3
+
+犄
+['animal horns']
+['cuernos de animales']
+['https://media.gettyimages.com/photos/young-bull-in-las-ventas-madrid-picture-id133962253?k=6&m=133962253&s=612x612&w=0&h=GV7qm1nWTQAlUCeiYIU4CLTeVdQwGwETT6-1Io5dFts=']
+U+7284
+12
+jī
+93.8
+犄.mp3
+
+犅
+['NONE']
+['NINGUNA']
+[]
+U+7285
+12
+gāng
+93.8
+犅.mp3
+
+犆
+['special']
+['especial']
+['https://media.gettyimages.com/vectors/black-friday-icons-line-series-vector-id1061303100?k=6&m=1061303100&s=612x612&w=0&h=ClIhHClYyH-8ijC4BdnUXqTVY1FkDupcvBXnTk66OnE=']
+U+7286
+12
+zhí
+93.8
+犆.mp3
+
+犇
+['run fast, flee', ' rush about', ' run']
+['corre rápido, huye', 'apresurarse', 'correr']
+['https://media.gettyimages.com/photos/young-man-free-running-outdoors-running-up-side-of-wall-picture-id886907564?k=6&m=886907564&s=612x612&w=0&h=bUo0o-jou4uFMYkX0T7-rNpyOh8sQK56RgAPYSkS3BI=', 'https://media.gettyimages.com/vectors/fast-time-icons-multi-series-vector-id1060491424?k=6&m=1060491424&s=612x612&w=0&h=Vj5v7yQgfgpuIcs7vRfSuDQqsJv5ER5sEvnFgeaiZK8=', 'https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=']
+U+7287
+12
+bēn
+93.8
+犇.mp3
+
+犈
+['NONE']
+['NINGUNA']
+[]
+U+7288
+12
+quán
+93.8
+犈.mp3
+
+犉
+['an ox with yellow hair and black lips']
+['un buey de pelo amarillo y labios negros']
+['NONE']
+U+7289
+12
+chún
+93.8
+犉.mp3
+
+犊
+['calf', ' victim of sacrifice']
+['becerro', 'víctima de sacrificio']
+['https://media.gettyimages.com/photos/hereford-calf-on-white-background-looking-at-camera-picture-id155004548?k=6&m=155004548&s=612x612&w=0&h=YtbU5TgzLvRpqUxnQPDOT-WglqNlUUvlOhF_7r42UfQ=', 'https://media.gettyimages.com/photos/dramatic-lighting-illustration-for-photo-war-or-politic-situation-2-picture-id1193128579?k=6&m=1193128579&s=612x612&w=0&h=i1uGpYVWQB2UCDn69w1NnBJe547lzOSHC34u-5Fe6Cs=']
+U+728A
+12
+dú
+93.8
+犊.mp3
+
+犋
+['NONE']
+['NINGUNA']
+[]
+U+728B
+12
+jù
+93.8
+犋.mp3
+
+犌
+['NONE']
+['NINGUNA']
+[]
+U+728C
+13
+jiā
+93.9
+犌.mp3
+
+犍
+['a bullock', ' a fabulous monster']
+['un buey', 'un monstruo fabuloso']
+['https://media.gettyimages.com/photos/young-bull-in-las-ventas-madrid-picture-id133962253?k=6&m=133962253&s=612x612&w=0&h=GV7qm1nWTQAlUCeiYIU4CLTeVdQwGwETT6-1Io5dFts=', 'https://media.gettyimages.com/vectors/golden-dragon-silhouette-vector-id1001811208?k=6&m=1001811208&s=612x612&w=0&h=zUTGhH6pZgWDJGNNZbyz4baA26z3oLyyqDM9BUdxgkw=']
+U+728D
+12
+jiān
+93.9
+犍.mp3
+
+犎
+['the zebu, or humped-ox']
+['el cebú o buey jorobado']
+['https://media.gettyimages.com/photos/herd-of-young-brahman-cattle-in-a-field-picture-id185280881?k=6&m=185280881&s=612x612&w=0&h=c6xMgR_vVt5Gl7a5Dhhuhzu6J3uNzg9KfhAMzs_0UMo=']
+U+728E
+13
+fēng
+93.9
+犎.mp3
+
+犏
+['yak-ox']
+['yak-buey']
+['NONE']
+U+728F
+13
+piān
+93.9
+犏.mp3
+
+犐
+['NONE']
+['NINGUNA']
+[]
+U+7290
+13
+kē
+93.9
+犐.mp3
+
+犑
+['NONE']
+['NINGUNA']
+[]
+U+7291
+13
+jú
+93.9
+犑.mp3
+
+犒
+['entertain victorious soldiers']
+['entretener a los soldados victoriosos']
+['https://media.gettyimages.com/photos/leadership-conceptual-picture-id1091661340?k=6&m=1091661340&s=612x612&w=0&h=E-jBMhq88t_8p5rsZEDxUf3yiJezX2-Cpu5qZwjUNvs=']
+U+7292
+14
+kào
+93.10
+犒.mp3
+
+犓
+['NONE']
+['NINGUNA']
+[]
+U+7293
+14
+chú
+93.10
+犓.mp3
+
+犔
+['NONE']
+['NINGUNA']
+[]
+U+7294
+14
+xì
+93.10
+犔.mp3
+
+犕
+['NONE']
+['NINGUNA']
+[]
+U+7295
+14
+bèi
+93.10
+犕.mp3
+
+犖
+['brindled ox', ' brindled in color']
+['buey atigrado', 'brindled en color']
+['NONE', 'https://media.gettyimages.com/photos/laundry-day-picture-id170617802?k=6&m=170617802&s=612x612&w=0&h=2vX1toZi1YGrv7lY6_QeDXHlbcgQWdMaFjZNS8Hq-EE=']
+U+7296
+14
+luò
+93.10
+犖.mp3
+
+犗
+['NONE']
+['NINGUNA']
+[]
+U+7297
+14
+jiè
+93.10
+犗.mp3
+
+犘
+['NONE']
+['NINGUNA']
+[]
+U+7298
+15
+má
+93.11
+犘.mp3
+
+犙
+['NONE']
+['NINGUNA']
+[]
+U+7299
+15
+sān
+93.11
+犙.mp3
+
+犚
+['NONE']
+['NINGUNA']
+[]
+U+729A
+15
+wèi
+93.11
+犚.mp3
+
+犛
+['a black ox, a yak']
+['un buey negro, un yak']
+['https://media.gettyimages.com/vectors/buffalo-zebra-tortoise-owl-vulture-newt-snail-unicorn-and-fish-vector-id165740384?k=6&m=165740384&s=612x612&w=0&h=FAWgMe_NZU0yGsxqlGvoK0TlXDtvyXuvO6JNjJkXQyA=']
+U+729B
+15
+máo
+93.11
+犛.mp3
+
+犜
+['NONE']
+['NINGUNA']
+[]
+U+729C
+16
+dūn
+93.12
+犜.mp3
+
+犝
+['NONE']
+['NINGUNA']
+[]
+U+729D
+16
+tóng
+93.12
+犝.mp3
+
+犞
+['NONE']
+['NINGUNA']
+[]
+U+729E
+16
+qiáo
+93.12
+犞.mp3
+
+犟
+['stubborn']
+['obstinado']
+['https://media.gettyimages.com/photos/man-pulling-stubborn-donkey-picture-id97639598?k=6&m=97639598&s=612x612&w=0&h=SOf61p5UWh9vp1IZxYZubIgcXxYrWVhBPqFeAFwvdXU=']
+U+729F
+16
+jiàng
+93.12
+犟.mp3
+
+犠
+['sacrifice, give up', ' sacrificial']
+['sacrificio, rendirse', 'sacrificatorio']
+['https://media.gettyimages.com/photos/upset-army-soldier-leaves-his-home-for-overseas-assignment-picture-id941439766?k=6&m=941439766&s=612x612&w=0&h=gVGxJJLILTeL4dYGOaylAMSkEqpxcfkbDI3zExXysSQ=', 'https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+72A0
+17
+xī
+93.13
+犠.mp3
+
+犡
+['NONE']
+['NINGUNA']
+[]
+U+72A1
+18
+lì
+93.15
+犡.mp3
+
+犢
+['calf', ' victim of sacrifice']
+['becerro', 'víctima de sacrificio']
+['https://media.gettyimages.com/photos/hereford-calf-on-white-background-looking-at-camera-picture-id155004548?k=6&m=155004548&s=612x612&w=0&h=YtbU5TgzLvRpqUxnQPDOT-WglqNlUUvlOhF_7r42UfQ=', 'https://media.gettyimages.com/photos/dramatic-lighting-illustration-for-photo-war-or-politic-situation-2-picture-id1193128579?k=6&m=1193128579&s=612x612&w=0&h=i1uGpYVWQB2UCDn69w1NnBJe547lzOSHC34u-5Fe6Cs=']
+U+72A2
+19
+dú
+93.15
+犢.mp3
+
+犣
+['NONE']
+['NINGUNA']
+[]
+U+72A3
+19
+liè
+93.15
+犣.mp3
+
+犤
+['NONE']
+['NINGUNA']
+[]
+U+72A4
+19
+pái
+93.15
+犤.mp3
+
+犥
+['NONE']
+['NINGUNA']
+[]
+U+72A5
+19
+piāo
+93.15
+犥.mp3
+
+犦
+['NONE']
+['NINGUNA']
+[]
+U+72A6
+19
+bó
+93.15
+犦.mp3
+
+犧
+['sacrifice, give up', ' sacrificial']
+['sacrificio, rendirse', 'sacrificatorio']
+['https://media.gettyimages.com/photos/upset-army-soldier-leaves-his-home-for-overseas-assignment-picture-id941439766?k=6&m=941439766&s=612x612&w=0&h=gVGxJJLILTeL4dYGOaylAMSkEqpxcfkbDI3zExXysSQ=', 'https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+72A7
+20
+xī
+93.16
+犧.mp3
+
+犨
+['panting of cow', ' grunting of ox']
+['pintura de vaca', 'gruñido de buey']
+['https://media.gettyimages.com/photos/utah-cow-dogs-western-outdoors-and-rodeo-stampede-roundup-riding-picture-id982732388?k=6&m=982732388&s=612x612&w=0&h=8gZn9kToPxKvlAIf1ryPJyLHaJ2P_6sESdB8zJsOkho=', 'NONE']
+U+72A8
+20
+chōu
+93.16
+犨.mp3
+
+犩
+['NONE']
+['NINGUNA']
+[]
+U+72A9
+21
+wéi
+93.18
+犩.mp3
+
+犪
+['NONE']
+['NINGUNA']
+[]
+U+72AA
+25
+kuí
+93.20
+犪.mp3
+
+犫
+['protrude']
+['sobresalir']
+['https://media.gettyimages.com/photos/healthcare-medical-technology-doctor-picture-id701254450?k=6&m=701254450&s=612x612&w=0&h=C_eRWgawVU1WycXM-XOD2lzbchIkF2ixqKbVN33q5w8=']
+U+72AB
+27
+chōu
+93.23
+犫.mp3
+
+犬
+['dog', ' radical number 94']
+['perro', 'número radical 94']
+['https://media.gettyimages.com/photos/young-woman-with-dog-picture-id1060529042?k=6&m=1060529042&s=612x612&w=0&h=ofC5lNecobvOgQS_QtbWgY3gub_58t2EbcCJyRB9o9s=', 'https://media.gettyimages.com/vectors/number-95-print-overlay-design-vector-id841379936?k=6&m=841379936&s=612x612&w=0&h=YvdJMWFxOro7mUeE0EuEoRiGL0zcckE8SVdaZZW3gAw=']
+U+72AC
+4
+quǎn
+94.0
+犬.mp3
+
+犭
+['dog', ' radical number 94']
+['perro', 'número radical 94']
+['https://media.gettyimages.com/photos/young-woman-with-dog-picture-id1060529042?k=6&m=1060529042&s=612x612&w=0&h=ofC5lNecobvOgQS_QtbWgY3gub_58t2EbcCJyRB9o9s=', 'https://media.gettyimages.com/vectors/number-95-print-overlay-design-vector-id841379936?k=6&m=841379936&s=612x612&w=0&h=YvdJMWFxOro7mUeE0EuEoRiGL0zcckE8SVdaZZW3gAw=']
+U+72AD
+3
+quǎn
+94.0
+犭.mp3
+
+犮
+['to pull up']
+['para levantar']
+['https://media.gettyimages.com/photos/wont-go-down-without-a-fight-picture-id185109545?k=6&m=185109545&s=612x612&w=0&h=H9RAXYtRBRao5_dcDRFqK6ku6WMhlrTIl9OiVQgUxc4=']
+U+72AE
+5
+bá
+94.1
+犮.mp3
+
+犯
+['commit crime, violate', ' criminal']
+['cometer crimen, violar', 'delincuente']
+['NONE', 'https://media.gettyimages.com/photos/handcuffed-man-standing-in-courtroom-picture-id104821085?k=6&m=104821085&s=612x612&w=0&h=N1YHfrRqZbtY49fJhelCITVuBK3leq6tD3zmyGz7sBY=']
+U+72AF
+5
+fàn
+94.2
+犯.mp3
+
+犰
+['armadillo']
+['armadillo']
+['https://media.gettyimages.com/photos/armadillo-picture-id812181196?k=6&m=812181196&s=612x612&w=0&h=24tOh-PPUsoi8CHawZ1j9ibxa3th36gk0R2DABsSgAQ=']
+U+72B0
+5
+qiú
+94.2
+犰.mp3
+
+犱
+['NONE']
+['NINGUNA']
+[]
+U+72B1
+6
+jǐ
+94.3
+犱.mp3
+
+犲
+['wolf', ' cruel, wicked, mean']
+['lobo', 'cruel, malvado, malo']
+['https://media.gettyimages.com/vectors/lone-wolf-howling-at-the-moon-vector-id474157988?k=6&m=474157988&s=612x612&w=0&h=WSb_bQBNQLa2qyFyf6DyHp_9O2pcedFYLY3VoSQjl24=', 'https://media.gettyimages.com/illustrations/mean-vampire-with-a-evil-smile-illustration-id110873054?k=6&m=110873054&s=612x612&w=0&h=tNUlsD6zmbSmQhw_7PPFXRqH4AfQo2bWS4W13SzWe08=']
+U+72B2
+6
+chái
+94.3
+犲.mp3
+
+犳
+['NONE']
+['NINGUNA']
+[]
+U+72B3
+6
+zhuó
+94.3
+犳.mp3
+
+犴
+['a wild dog, a not very large lock-up']
+['un perro salvaje, un calabozo no muy grande']
+['NONE']
+U+72B4
+6
+àn
+94.3
+犴.mp3
+
+犵
+['resolute', ' a non-Han ethnic group in Guangxi, Hunan, and Guizhou']
+['resuelto', 'Grupo étnico anon-Han Departamento de UA ng, Hunan y Semana GUI']
+['https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=', 'NONE']
+U+72B5
+6
+gē
+94.3
+犵.mp3
+
+状
+['form', ' appearance', ' shape', ' official']
+['formar', 'apariencia', 'forma', 'oficial']
+['https://media.gettyimages.com/photos/combing-through-the-fine-print-picture-id889031464?k=6&m=889031464&s=612x612&w=0&h=dxqNpsfVu_od-WdRSTfewXki74RYkm6WrUNJdjpOKf4=', 'https://media.gettyimages.com/photos/woman-coming-out-of-rectangular-opening-in-coloured-wall-picture-id816104398?k=6&m=816104398&s=612x612&w=0&h=1HFOTiHo8k7y6tURUkRhAp0ULqsS3Ek0pcGdcBPuZHk=', 'https://media.gettyimages.com/vectors/set-of-modern-abstract-liquid-shapes-and-banners-fluid-design-waves-vector-id1144882042?k=6&m=1144882042&s=612x612&w=0&h=a-3nDyiO-o4zn8BjJY3xYOQ-AqogLGk_LUMjLkb86sE=', 'https://media.gettyimages.com/photos/revolution-fist-raised-picture-id1006071592?k=6&m=1006071592&s=612x612&w=0&h=GGuVxtCAaILgJFEHMf9jIkWJgj7fGAgk0yUCAL6KSFk=']
+U+72B6
+7
+zhuàng
+94.3
+状.mp3
+
+犷
+['fierce, rude, uncivilized']
+['feroz, grosero, incivilizado']
+['NONE']
+U+72B7
+6
+guǎng
+94.3
+犷.mp3
+
+犸
+['mammoth']
+['mamut']
+['https://media.gettyimages.com/photos/large-open-space-office-picture-id512979254?k=6&m=512979254&s=612x612&w=0&h=v9VqYJ03HBE3HZgqOBoSoNe9_7tizU8s8ufz2A8tKn8=']
+U+72B8
+6
+mà
+94.3
+犸.mp3
+
+犹
+['like, similar to, just like, as']
+['como, similar a, como, como']
+['https://media.gettyimages.com/photos/cutter-is-often-used-as-a-flower-ornament-rather-than-a-flower-just-picture-id1125817675?k=6&m=1125817675&s=612x612&w=0&h=Z6Av7WhgrZbqHi4x9Ytm88Q0DeHYVBhft-84dkvL5Xg=']
+U+72B9
+7
+yóu
+94.4
+犹.mp3
+
+犺
+['animal']
+['animal']
+['https://media.gettyimages.com/photos/big-family-picture-id1163498728?k=6&m=1163498728&s=612x612&w=0&h=LElCLVAT60Wlpbda2L3queN1oq_vQRyGDdBFWCfNlz8=']
+U+72BA
+7
+kàng
+94.4
+犺.mp3
+
+犻
+['NONE']
+['NINGUNA']
+[]
+U+72BB
+7
+bó
+94.4
+犻.mp3
+
+犼
+["a fierce Mongolian wolf dragon's head on roofs"]
+['una feroz cabeza de dragón lobo mongol en los techos']
+['NONE']
+U+72BC
+7
+hǒu
+94.4
+犼.mp3
+
+犽
+['NONE']
+['NINGUNA']
+[]
+U+72BD
+7
+yà
+94.4
+犽.mp3
+
+犾
+['NONE']
+['NINGUNA']
+[]
+U+72BE
+7
+yín
+94.4
+犾.mp3
+
+犿
+['NONE']
+['NINGUNA']
+[]
+U+72BF
+7
+huān
+94.4
+犿.mp3
+
+狀
+['form', ' appearance', ' shape', ' official']
+['formar', 'apariencia', 'forma', 'oficial']
+['https://media.gettyimages.com/photos/combing-through-the-fine-print-picture-id889031464?k=6&m=889031464&s=612x612&w=0&h=dxqNpsfVu_od-WdRSTfewXki74RYkm6WrUNJdjpOKf4=', 'https://media.gettyimages.com/photos/woman-coming-out-of-rectangular-opening-in-coloured-wall-picture-id816104398?k=6&m=816104398&s=612x612&w=0&h=1HFOTiHo8k7y6tURUkRhAp0ULqsS3Ek0pcGdcBPuZHk=', 'https://media.gettyimages.com/vectors/set-of-modern-abstract-liquid-shapes-and-banners-fluid-design-waves-vector-id1144882042?k=6&m=1144882042&s=612x612&w=0&h=a-3nDyiO-o4zn8BjJY3xYOQ-AqogLGk_LUMjLkb86sE=', 'https://media.gettyimages.com/photos/revolution-fist-raised-picture-id1006071592?k=6&m=1006071592&s=612x612&w=0&h=GGuVxtCAaILgJFEHMf9jIkWJgj7fGAgk0yUCAL6KSFk=']
+U+72C0
+8
+zhuàng
+94.4
+狀.mp3
+
+狁
+['a tribe of Scythian nomads']
+['una tribu de nómadas escitas']
+['NONE']
+U+72C1
+7
+yǔn
+94.4
+狁.mp3
+
+狂
+['insane, mad', ' violent', ' wild']
+['loco, loco', 'violento', 'salvaje']
+['https://media.gettyimages.com/photos/shes-reached-the-end-of-her-rope-picture-id487960859?k=6&m=487960859&s=612x612&w=0&h=-hB-SDo-_EZd9RVH-Ce0hoFScYFLZtvcCqg0sU84dEU=', 'https://media.gettyimages.com/photos/domestic-violence-abuse-picture-id154902161?k=6&m=154902161&s=612x612&w=0&h=hFsF_-drKf6e1f8QUUNCjNZhLnKMz2YcoSOEE2krqb8=', 'https://media.gettyimages.com/photos/tiger-picture-id871648490?k=6&m=871648490&s=612x612&w=0&h=NVv_bYH-4691OGewSI1kMMEudMiIW_hr5_hOVvP1sAA=']
+U+72C2
+7
+kuáng
+94.4
+狂.mp3
+
+狃
+['to covet', ' to be accustomed']
+['desear', 'estar acostumbrado']
+['https://media.gettyimages.com/photos/actress-sarah-jessica-parker-unveils-her-new-fragrance-covet-august-7-picture-id76011937?k=6&m=76011937&s=612x612&w=0&h=7_6GNTgsysMis-uxsyjm2--4b-YnfiFBA8WRHQT-lIk=', 'https://media.gettyimages.com/photos/get-accustomed-to-spending-time-with-yourself-picture-id1164351599?k=6&m=1164351599&s=612x612&w=0&h=uwRTiX9amhwAafblcBasMxmCTMKvC9TMxYOKnypRnB4=']
+U+72C3
+7
+niǔ
+94.4
+狃.mp3
+
+狄
+['tribe from northern china', ' surname']
+['tribu del norte de china', 'apellido']
+['https://media.gettyimages.com/photos/paddling-on-the-lake-superior-picture-id1149484783?k=6&m=1149484783&s=612x612&w=0&h=eEcWcuNPEmPMwW29FGqJWAFVcoykOnSlA-G0lr5z7tU=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+72C4
+7
+dí
+94.4
+狄.mp3
+
+狅
+['NONE']
+['NINGUNA']
+[]
+U+72C5
+7
+kuáng
+94.4
+狅.mp3
+
+狆
+['pekinese dog, lap dog, pug', ' pup']
+['perro pequinés, perro faldero, pug', 'cachorro']
+['https://media.gettyimages.com/photos/three-pekingese-dogs-and-single-pug-lying-down-in-row-picture-idsb10066753g-001?k=6&m=sb10066753g-001&s=612x612&w=0&h=E4oD2YzJjiJmBdYmd-zpyppBOitHwIBAikudezfJ9CE=', 'https://media.gettyimages.com/photos/happy-dog-picture-id182176638?k=6&m=182176638&s=612x612&w=0&h=xBCtXvF2SR5hzjGENTBDL90vVpq4LItc4UvrbiWqGTw=']
+U+72C6
+7
+zhòng
+94.4
+狆.mp3
+
+狇
+['NONE']
+['NINGUNA']
+[]
+U+72C7
+7
+mù
+94.4
+狇.mp3
+
+狈
+['a legendary animal with short forelegs which rode a wolf']
+['un animal legendario con patas delanteras cortas que montaba un lobo']
+['NONE']
+U+72C8
+7
+bèi
+94.4
+狈.mp3
+
+狉
+['fox-cub']
+['cachorro de zorro']
+['https://media.gettyimages.com/photos/foxcub-picture-id90407057?k=6&m=90407057&s=612x612&w=0&h=6PAOFYCBe7iVZKOkelL2-r3lXZywbUwD5S7aM76rD6c=']
+U+72C9
+8
+pī
+94.5
+狉.mp3
+
+狊
+['NONE']
+['NINGUNA']
+[]
+U+72CA
+9
+jú
+94.5
+狊.mp3
+
+狋
+['NONE']
+['NINGUNA']
+[]
+U+72CB
+8
+yí
+94.5
+狋.mp3
+
+狌
+['NONE']
+['NINGUNA']
+[]
+U+72CC
+8
+shēng
+94.5
+狌.mp3
+
+狍
+['species of deer found in north China']
+['especie de ciervo encontrada en el norte de China']
+['NONE']
+U+72CD
+8
+páo
+94.5
+狍.mp3
+
+狎
+['be familiar with', ' disrespect']
+['estar familiarizado con', 'falta de respeto']
+['https://media.gettyimages.com/photos/above-view-of-playful-parents-tickling-their-daughters-at-home-picture-id1159543952?k=6&m=1159543952&s=612x612&w=0&h=EdDKiaqzUXgcTOoWw28Cv5BDvFTDy_bUzRjKvotSx_s=', 'https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+72CE
+8
+xiá
+94.5
+狎.mp3
+
+狏
+['NONE']
+['NINGUNA']
+[]
+U+72CF
+8
+tuó
+94.5
+狏.mp3
+
+狐
+['species of fox']
+['especie de zorro']
+['https://media.gettyimages.com/photos/october-1937-man-examining-large-pile-of-white-fox-pelts-in-the-fur-picture-id50878118?k=6&m=50878118&s=612x612&w=0&h=kVaoP-TwrD9M640_rs_i97yEdeYtDnLtCnPRovyovtA=']
+U+72D0
+8
+hú
+94.5
+狐.mp3
+
+狑
+['NONE']
+['NINGUNA']
+[]
+U+72D1
+8
+líng
+94.5
+狑.mp3
+
+狒
+['baboon']
+['babuino']
+['https://media.gettyimages.com/photos/screaming-guinea-baboon-picture-id1185103737?k=6&m=1185103737&s=612x612&w=0&h=yx8vbxO2YQfkVYq_YSrW2DDzH-Ij7QaxnvTKDBnWGfM=']
+U+72D2
+8
+fèi
+94.5
+狒.mp3
+
+狓
+['NONE']
+['NINGUNA']
+[]
+U+72D3
+8
+pí
+94.5
+狓.mp3
+
+狔
+['NONE']
+['NINGUNA']
+[]
+U+72D4
+8
+nǐ
+94.5
+狔.mp3
+
+狕
+['NONE']
+['NINGUNA']
+[]
+U+72D5
+8
+yǎo
+94.5
+狕.mp3
+
+狖
+['a gibbon with a long tail and prominent nose']
+['un gibón con una cola larga y nariz prominente']
+['NONE']
+U+72D6
+8
+yòu
+94.5
+狖.mp3
+
+狗
+['dog, canis familiaris']
+['perro, el perro es un miembro de la familia']
+['https://media.gettyimages.com/photos/dogs-in-the-forest-picture-id171155760?k=6&m=171155760&s=612x612&w=0&h=tmSg_OZYfRafnbDM_3XJeeYXELxWMZGunRVKp0NCyQQ=']
+U+72D7
+8
+gǒu
+94.5
+狗.mp3
+
+狘
+['jump']
+['saltar']
+['https://media.gettyimages.com/photos/jump-with-inflatable-ring-picture-id1003246154?k=6&m=1003246154&s=612x612&w=0&h=rJ6cn0OhWjncIVQFkh6dN7V3QwgXOZXgIm_ZYCzbmG0=']
+U+72D8
+8
+xuè
+94.5
+狘.mp3
+
+狙
+['an ape, monkey', ' to spy, watch for', ' to lie']
+['un mono, mono', 'espiar, estar atento', 'mentir']
+['https://media.gettyimages.com/photos/young-monkeys-cleaning-eachother-picture-id1134242509?k=6&m=1134242509&s=612x612&w=0&h=HyJMVtQF6ljm0kpcHFj7Kz74D23xK8yxINz8a7vsCYs=', 'https://media.gettyimages.com/vectors/internet-marketing-icon-acme-series-vector-id954094108?k=6&m=954094108&s=612x612&w=0&h=I5B16-fkHW8ONBUslig-DpFJTVCy2bNzYa1eQyVnhiw=', 'https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+72D9
+8
+jū
+94.5
+狙.mp3
+
+狚
+['NONE']
+['NINGUNA']
+[]
+U+72DA
+8
+dàn
+94.5
+狚.mp3
+
+狛
+['lion-dog shrine guardians']
+['guardianes del santuario del perro león']
+['NONE']
+U+72DB
+8
+bó
+94.5
+狛.mp3
+
+狜
+['NONE']
+['NINGUNA']
+[]
+U+72DC
+8
+kǔ
+94.5
+狜.mp3
+
+狝
+['hunt', ' autumn hunting', ' to capture with a fine net']
+['cazar', 'caza de otoño', 'para capturar con una fina red']
+['https://media.gettyimages.com/photos/red-deer-picture-id1029768528?k=6&m=1029768528&s=612x612&w=0&h=Nid8_byp4rHHCdjqeTsP8wIWG3qL2PR5sOnNbzsCEBQ=', 'https://media.gettyimages.com/photos/red-deer-picture-id1029768528?k=6&m=1029768528&s=612x612&w=0&h=Nid8_byp4rHHCdjqeTsP8wIWG3qL2PR5sOnNbzsCEBQ=', 'NONE']
+U+72DD
+8
+xiǎn
+94.5
+狝.mp3
+
+狞
+['ferocious appearance', ' hideous']
+['apariencia feroz', 'horrible']
+['https://media.gettyimages.com/photos/hand-on-white-background-picture-id109438942?k=6&m=109438942&s=612x612&w=0&h=H4naHBn9yLwTZeBIKcxC6RFcIbHczjWBzQWAuaADjks=', 'https://media.gettyimages.com/photos/christmas-sweater-people-picture-id496921070?k=6&m=496921070&s=612x612&w=0&h=t8zTXuxc5uCis1sW63E4CbNeWFI6awbrhrIgputo03s=']
+U+72DE
+8
+níng
+94.5
+狞.mp3
+
+狟
+['NONE']
+['NINGUNA']
+[]
+U+72DF
+9
+huán
+94.6
+狟.mp3
+
+狠
+['vicious, cruel', ' severely, extreme']
+['vicioso, cruel', 'severamente, extremo']
+['https://media.gettyimages.com/photos/man-threatening-with-pocket-knife-picture-id88621421?k=6&m=88621421&s=612x612&w=0&h=A6eMTrE4ls4QOFLnyGSq-ra5TvO3s6Xxzk1Y6UeW4lY=', 'https://media.gettyimages.com/photos/group-of-male-climbers-climbing-a-severely-overhanging-wall-on-the-picture-id106795918?k=6&m=106795918&s=612x612&w=0&h=2r5hhAa4Fuw3mQtJvZyRLXvGEBpJ1veEjAc9qcS88LQ=']
+U+72E0
+9
+hěn
+94.6
+狠.mp3
+
+狡
+['cunning, deceitful, treacherous']
+['astuto, engañoso, traicionero']
+['https://media.gettyimages.com/photos/be-careful-what-you-share-online-picture-id666960050?k=6&m=666960050&s=612x612&w=0&h=nWVAJti2ua9yy6lKye9Xq7f00R93348-r6Tw203Hp3c=']
+U+72E1
+9
+jiǎo
+94.6
+狡.mp3
+
+狢
+['animal name']
+['nombre del animal']
+['https://media.gettyimages.com/photos/metamorphosis-picture-id987370138?k=6&m=987370138&s=612x612&w=0&h=Z_H3xO4ivDUAPC6lZOTQpIbHOIWarOBpUu9H3TZY-Sw=']
+U+72E2
+9
+hé
+94.6
+狢.mp3
+
+狣
+['NONE']
+['NINGUNA']
+[]
+U+72E3
+9
+zhào
+94.6
+狣.mp3
+
+狤
+['NONE']
+['NINGUNA']
+[]
+U+72E4
+9
+jí
+94.6
+狤.mp3
+
+狥
+['follow']
+['seguir']
+['https://media.gettyimages.com/vectors/social-media-icon-set-vector-id1096479522?k=6&m=1096479522&s=612x612&w=0&h=glH2wmPq91c01O_kXImZ8FRmQd1v3-_BWxQ5bNWS_tA=']
+U+72E5
+9
+xùn
+94.6
+狥.mp3
+
+狦
+['NONE']
+['NINGUNA']
+[]
+U+72E6
+9
+shān
+94.6
+狦.mp3
+
+狧
+['NONE']
+['NINGUNA']
+[]
+U+72E7
+9
+tà
+94.6
+狧.mp3
+
+狨
+['NONE']
+['NINGUNA']
+[]
+U+72E8
+9
+róng
+94.6
+狨.mp3
+
+狩
+['winter hunting', ' imperial tour']
+['caza de invierno', 'gira imperial']
+['https://media.gettyimages.com/photos/doe-standing-at-edge-of-woods-picture-id181893230?k=6&m=181893230&s=612x612&w=0&h=Ch4eugFHCrXOpmE7_HCIVoGYPsgo0NI5_NyHf3VMGkA=', 'https://media.gettyimages.com/photos/hot-air-balloon-over-plain-of-bagan-in-misty-morning-mandalay-myanmar-picture-id654557138?k=6&m=654557138&s=612x612&w=0&h=6s1XjTzSC83y7HWoR_ihHP1M2U33k4ucGL5eV7tfjqk=']
+U+72E9
+9
+shòu
+94.6
+狩.mp3
+
+狪
+['NONE']
+['NINGUNA']
+[]
+U+72EA
+9
+tóng
+94.6
+狪.mp3
+
+狫
+['NONE']
+['NINGUNA']
+[]
+U+72EB
+9
+lǎo
+94.6
+狫.mp3
+
+独
+['alone, single, solitary, only']
+['solo, soltero, solitario, solo']
+['https://media.gettyimages.com/photos/woman-drinking-tea-at-home-picture-id1096591210?k=6&m=1096591210&s=612x612&w=0&h=dj5dfSo9YKf0nyMQnCDTIpNox9n4KwKtbp2CGDVp7bU=']
+U+72EC
+9
+dú
+94.6
+独.mp3
+
+狭
+['narrow, limited', ' narrow-minded']
+['estrecho, limitado', 'de mente estrecha']
+['https://media.gettyimages.com/photos/red-walls-passage-in-forbidden-city-beijing-picture-id941781868?k=6&m=941781868&s=612x612&w=0&h=bfq7M_H-XQcA8NEv1XG4jC8rFbns8pL2MJmjslQHFKY=', 'https://media.gettyimages.com/photos/-picture-id126389942?k=6&m=126389942&s=612x612&w=0&h=Yn5iL8ujEcyKfcVd_H1W0ttVDdKJTrBFeO17vl8ZOD0=']
+U+72ED
+9
+xiá
+94.6
+狭.mp3
+
+狮
+['lion']
+['león']
+['https://media.gettyimages.com/photos/lion-in-high-grass-picture-id494856046?k=6&m=494856046&s=612x612&w=0&h=Eb3uv75Vld5c_n22v8i5XktUPl60czynY4EVx7XMuV4=']
+U+72EE
+9
+shī
+94.6
+狮.mp3
+
+狯
+['sly, cunning, crafty']
+['astuto, astuto, astuto']
+['https://media.gettyimages.com/photos/businessmen-talking-in-secrecy-picture-id1054524238?k=6&m=1054524238&s=612x612&w=0&h=BA5i1NrydFR95YmpZY5eZECDDMmPh-mBBk62xSoQJi4=']
+U+72EF
+9
+kuài
+94.6
+狯.mp3
+
+狰
+['fierce-looking, ferocious']
+['feroz, feroz']
+['NONE']
+U+72F0
+9
+zhēng
+94.6
+狰.mp3
+
+狱
+['prison, jail', ' case', ' lawsuit']
+['prisión cárcel', 'caso', 'demanda judicial']
+['https://media.gettyimages.com/photos/empty-prison-cell-picture-id73979720?k=6&m=73979720&s=612x612&w=0&h=AYwkdpRMy7JJLNQtC3kf9RimH7q_c390XVbAgcl7Yps=', 'https://media.gettyimages.com/vectors/business-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1093715170?k=6&m=1093715170&s=612x612&w=0&h=GMtswe0V7SodwCA32d3jF71X4n7x5YXXYAmOQGSaxho=', 'https://media.gettyimages.com/photos/lawsuit-form-an-a-desk-picture-id184986931?k=6&m=184986931&s=612x612&w=0&h=CaRmvzA-0uGGJLBMQ_nXH3ANQYk7-ZJk8jVqTLqoC7U=']
+U+72F1
+9
+yù
+94.6
+狱.mp3
+
+狲
+['monkey']
+['mono']
+['https://media.gettyimages.com/photos/young-monkeys-cleaning-eachother-picture-id1134242509?k=6&m=1134242509&s=612x612&w=0&h=HyJMVtQF6ljm0kpcHFj7Kz74D23xK8yxINz8a7vsCYs=']
+U+72F2
+9
+sūn
+94.6
+狲.mp3
+
+狳
+['NONE']
+['NINGUNA']
+[]
+U+72F3
+10
+yú
+94.7
+狳.mp3
+
+狴
+['a kind of tapir', ' a fierce beast depicted on the door of prisons']
+['una especie de tapir', 'una fiera bestia representada en la puerta de las cárceles']
+['https://media.gettyimages.com/photos/melbourne-zoo-victoria-australia-picture-id73924088?k=6&m=73924088&s=612x612&w=0&h=zVKRHe7USgZnVAfvlbkGfXnY_nHNGvnvO2RUtVvvrJc=', 'NONE']
+U+72F4
+10
+bì
+94.7
+狴.mp3
+
+狵
+['blend', ' variegated', ' striped']
+['mezcla', 'jaspeado', 'a rayas']
+['https://media.gettyimages.com/photos/double-exposure-image-of-young-woman-standing-against-white-picture-id1029864812?k=6&m=1029864812&s=612x612&w=0&h=7acmXxFZPo86vndxAno0QvWTaxeB8PoiwGRD8lrVVbs=', 'https://media.gettyimages.com/vectors/abstract-colorful-background-vector-id1137245316?k=6&m=1137245316&s=612x612&w=0&h=LFzTE265K1RzIYe_SnigDQPudZv_wT9CUpdkofLTLrc=', 'https://media.gettyimages.com/vectors/abstract-gradient-background-of-black-and-white-parallel-vertical-vector-id985915244?k=6&m=985915244&s=612x612&w=0&h=2LgHz9I9RcbxOwxFs3bJMBtCZvUfbKg9Q4_suJjx-NY=']
+U+72F5
+10
+máng
+94.7
+狵.mp3
+
+狶
+['NONE']
+['NINGUNA']
+[]
+U+72F6
+10
+xī
+94.7
+狶.mp3
+
+狷
+['rash, impetuous, impulsive']
+['impetuoso, impulsivo, impetuoso']
+['https://media.gettyimages.com/photos/young-man-standing-on-rail-picture-idpha288000019?k=6&m=pha288000019&s=612x612&w=0&h=ZRtwzrVOtBxjmalh55eBSLm5ZLBt9scP8oE6wjas8lQ=']
+U+72F7
+10
+juàn
+94.7
+狷.mp3
+
+狸
+['fox']
+['fox']
+['https://media.gettyimages.com/photos/fox-in-the-meadow-picture-id485364370?k=6&m=485364370&s=612x612&w=0&h=SbzVbKHXRGplv81HIn_zvtwCwrFz_2PKHp2S_PwjuW8=']
+U+72F8
+10
+lí
+94.7
+狸.mp3
+
+狹
+['narrow, limited', ' narrow-minded', ' to pinch']
+['estrecho, limitado', 'de mente estrecha', 'pellizcar']
+['https://media.gettyimages.com/photos/red-walls-passage-in-forbidden-city-beijing-picture-id941781868?k=6&m=941781868&s=612x612&w=0&h=bfq7M_H-XQcA8NEv1XG4jC8rFbns8pL2MJmjslQHFKY=', 'https://media.gettyimages.com/photos/-picture-id126389942?k=6&m=126389942&s=612x612&w=0&h=Yn5iL8ujEcyKfcVd_H1W0ttVDdKJTrBFeO17vl8ZOD0=', 'https://media.gettyimages.com/photos/hand-with-the-index-finger-and-thumb-pinching-picture-id172350226?k=6&m=172350226&s=612x612&w=0&h=_aQ9qVlStafqFB_rMKgCVZvu029B5cM_okSV18XNRdM=']
+U+72F9
+10
+xiá
+94.7
+狹.mp3
+
+狺
+['the snarling of dogs']
+['el gruñido de los perros']
+['https://media.gettyimages.com/photos/brown-chihuahua-snarling-with-teeth-showing-picture-id85587813?k=6&m=85587813&s=612x612&w=0&h=LInS6S24-Key2YrSweJ2LTfPLlEdAIr4oYkMJEAGt9g=']
+U+72FA
+10
+yín
+94.7
+狺.mp3
+
+狻
+['a fabulous beast']
+['una bestia fabulosa']
+['https://media.gettyimages.com/photos/yorkshire-terrier-relaxing-at-the-dog-grooming-spa-picture-id653767968?k=6&m=653767968&s=612x612&w=0&h=_AxV5nkb4Hke17dF3G93zWPFD228lo1Ks8fguVpexms=']
+U+72FB
+10
+suān
+94.7
+狻.mp3
+
+狼
+['wolf']
+['lobo']
+['https://media.gettyimages.com/vectors/lone-wolf-howling-at-the-moon-vector-id474157988?k=6&m=474157988&s=612x612&w=0&h=WSb_bQBNQLa2qyFyf6DyHp_9O2pcedFYLY3VoSQjl24=']
+U+72FC
+10
+láng
+94.7
+狼.mp3
+
+狽
+['a legendary animal with short forelegs which rode a wolf']
+['un animal legendario con patas delanteras cortas que montaba un lobo']
+['NONE']
+U+72FD
+10
+bèi
+94.7
+狽.mp3
+
+狾
+['NONE']
+['NINGUNA']
+[]
+U+72FE
+10
+zhì
+94.7
+狾.mp3
+
+狿
+['NONE']
+['NINGUNA']
+[]
+U+72FF
+9
+yán
+94.7
+狿.mp3
+
+猀
+['NONE']
+['NINGUNA']
+[]
+U+7300
+10
+shā
+94.7
+猀.mp3
+
+猁
+['a kind of monkey']
+['una especie de mono']
+['https://media.gettyimages.com/photos/hi-nature-picture-id168620864?k=6&m=168620864&s=612x612&w=0&h=WphJbTt_BBtTLjHEz6eOSnw1v7MP60EgVhJnmR51vEE=']
+U+7301
+10
+lì
+94.7
+猁.mp3
+
+猂
+['NONE']
+['NINGUNA']
+[]
+U+7302
+10
+hàn
+94.7
+猂.mp3
+
+猃
+['dog']
+['perro']
+['https://media.gettyimages.com/photos/young-woman-with-dog-picture-id1060529042?k=6&m=1060529042&s=612x612&w=0&h=ofC5lNecobvOgQS_QtbWgY3gub_58t2EbcCJyRB9o9s=']
+U+7303
+10
+xiǎn
+94.7
+猃.mp3
+
+猄
+['NONE']
+['NINGUNA']
+[]
+U+7304
+11
+jīng
+94.8
+猄.mp3
+
+猅
+['NONE']
+['NINGUNA']
+[]
+U+7305
+11
+pái
+94.8
+猅.mp3
+
+猆
+['NONE']
+['NINGUNA']
+[]
+U+7306
+12
+fēi
+94.8
+猆.mp3
+
+猇
+['the scream or roar of a tiger', ' to intimidate', ' to scare']
+['el grito o rugido de un tigre', 'intimidar', 'asustar']
+['https://media.gettyimages.com/photos/black-white-tiger-picture-id954560222?k=6&m=954560222&s=612x612&w=0&h=SMzlLQeIxj5v6zoJPmTxV7zdk17d7LBNmzJAjYVrfI8=', 'https://media.gettyimages.com/photos/man-with-gun-pointed-at-viewer-picture-id169726532?k=6&m=169726532&s=612x612&w=0&h=0R0Mo2Wo41801Jz3yb33Y-19h9OKCJW4r7Oh34_9t9Q=', 'https://media.gettyimages.com/photos/unhappy-woman-looking-through-the-window-picture-id806822594?k=6&m=806822594&s=612x612&w=0&h=oPuvMXapRB4k1IUpfb0_bRYROnB3aWxPFISF1tGHj7E=']
+U+7307
+11
+xiāo
+94.8
+猇.mp3
+
+猈
+['NONE']
+['NINGUNA']
+[]
+U+7308
+11
+bài
+94.8
+猈.mp3
+
+猉
+['NONE']
+['NINGUNA']
+[]
+U+7309
+11
+qí
+94.8
+猉.mp3
+
+猊
+['lion', ' wild beast', ' wild horse']
+['león', 'bestia salvaje', 'caballo salvaje']
+['https://media.gettyimages.com/photos/lion-in-high-grass-picture-id494856046?k=6&m=494856046&s=612x612&w=0&h=Eb3uv75Vld5c_n22v8i5XktUPl60czynY4EVx7XMuV4=', 'https://media.gettyimages.com/photos/chameleon-on-tree-picture-id953893978?k=6&m=953893978&s=612x612&w=0&h=io1fZ6ogZ0NCIZnyM9mdGJ6QbheO-aAHkUbS1sEZP90=', 'https://media.gettyimages.com/photos/galloping-wild-horses-in-the-wilderness-picture-id1140165301?k=6&m=1140165301&s=612x612&w=0&h=Aop-x50q48EQnuDkPp_P0O7g82TG4iWG7YkBgwWd1uA=']
+U+730A
+11
+ní
+94.8
+猊.mp3
+
+猋
+['wind', ' storm', ' gale', ' dog moving', ' (Cant.) running quickly']
+['viento', 'tormenta', 'vendaval', 'perro moviéndose', '(Cant.) Corriendo rápido']
+['https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/colorado-supercell-2017-picture-id807655426?k=6&m=807655426&s=612x612&w=0&h=WXCf3ZlFYPx1MgBP53dKrqYf9eQWU6akN-yhxIFTyD0=', 'https://media.gettyimages.com/photos/windy-day-picture-id94376552?k=6&m=94376552&s=612x612&w=0&h=dSCoTHtACnJFxfNq62I-GZ2-ve2sTQURRAm7FL7zyN0=', 'https://media.gettyimages.com/photos/happy-family-picture-id539234375?k=6&m=539234375&s=612x612&w=0&h=xjLm3u2Xp3gDOcvzvtQdz5voaQHmb4lZARULmGXasac=', 'https://media.gettyimages.com/photos/you-cant-escape-your-own-shadow-picture-id1205260377?k=6&m=1205260377&s=612x612&w=0&h=496Lt56CeWCF3JEBH-608DOaLJ88gOB1fdtTnQdClNU=']
+U+730B
+12
+biāo
+94.8
+猋.mp3
+
+猌
+['NONE']
+['NINGUNA']
+[]
+U+730C
+12
+yìn
+94.8
+猌.mp3
+
+猍
+['NONE']
+['NINGUNA']
+[]
+U+730D
+11
+lái
+94.8
+猍.mp3
+
+猎
+['hunt', ' field sports']
+['cazar', 'deportes de campo']
+['https://media.gettyimages.com/photos/red-deer-picture-id1029768528?k=6&m=1029768528&s=612x612&w=0&h=Nid8_byp4rHHCdjqeTsP8wIWG3qL2PR5sOnNbzsCEBQ=', 'https://media.gettyimages.com/photos/soccer-field-picture-id186856750?k=6&m=186856750&s=612x612&w=0&h=kNmgdM-xUnkJKiuDQQHEmDcGDWTYjueO3N9S-s_e2XQ=']
+U+730E
+11
+liè
+94.8
+猎.mp3
+
+猏
+['NONE']
+['NINGUNA']
+[]
+U+730F
+11
+jiān
+94.8
+猏.mp3
+
+猐
+['NONE']
+['NINGUNA']
+[]
+U+7310
+10
+qiāng
+94.8
+猐.mp3
+
+猑
+['NONE']
+['NINGUNA']
+[]
+U+7311
+11
+kūn
+94.8
+猑.mp3
+
+猒
+['NONE']
+['NINGUNA']
+[]
+U+7312
+12
+yàn
+94.8
+猒.mp3
+
+猓
+['monkey']
+['mono']
+['https://media.gettyimages.com/photos/young-monkeys-cleaning-eachother-picture-id1134242509?k=6&m=1134242509&s=612x612&w=0&h=HyJMVtQF6ljm0kpcHFj7Kz74D23xK8yxINz8a7vsCYs=']
+U+7313
+11
+guǒ
+94.8
+猓.mp3
+
+猔
+['name of an ancient tribe']
+['nombre de una tribu antigua']
+['NONE']
+U+7314
+11
+zòng
+94.8
+猔.mp3
+
+猕
+['macacus monkey']
+['mono mono']
+['https://media.gettyimages.com/illustrations/macaque-illustration-id526136520?k=6&m=526136520&s=612x612&w=0&h=23OfvKln-BIkGMUwmBA1he__uCEh93ukCYlHH3rKL74=']
+U+7315
+11
+mí
+94.8
+猕.mp3
+
+猖
+['mad, wild, reckless, unruly']
+['loco, salvaje, imprudente, rebelde']
+['NONE']
+U+7316
+11
+chāng
+94.8
+猖.mp3
+
+猗
+['exclamation of admiration']
+['exclamación de admiración']
+['https://media.gettyimages.com/vectors/congrats-script-vector-id1077870994?k=6&m=1077870994&s=612x612&w=0&h=5t95KuryXitR_U3khN5Vb52C_QMCO7L-P7tQEbq0V_E=']
+U+7317
+11
+yī
+94.8
+猗.mp3
+
+猘
+['fierce dog', ' furious, frenzied']
+['perro feroz', 'furioso, frenético']
+['https://media.gettyimages.com/photos/barking-dogs-picture-id108220159?k=6&m=108220159&s=612x612&w=0&h=CysZbS1qCywn1OuLOl5eLQAgkPPXzeIVquQLDIOXlBs=', 'https://media.gettyimages.com/photos/ve-had-enough-picture-id642091692?k=6&m=642091692&s=612x612&w=0&h=FhvYyEWfOt9WxZJ0ixNY3cMes1PU7pmzPg-S_5538F0=']
+U+7318
+11
+zhì
+94.8
+猘.mp3
+

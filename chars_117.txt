@@ -1,0 +1,2560 @@
+焙
+['dry over slow fire', ' bake', ' roast']
+['secar a fuego lento', 'hornear', 'asado']
+['NONE', 'https://media.gettyimages.com/photos/adding-raspberries-to-tasteful-blackberry-pie-picture-id942452228?k=6&m=942452228&s=612x612&w=0&h=89gXfpDLkm2oAsMxabo6lbzd7vXqAR4Iz9ORJD87XHc=', 'https://media.gettyimages.com/photos/preparing-food-at-picnic-picture-id932487536?k=6&m=932487536&s=612x612&w=0&h=ZPgYB9OQ0k5DcS0iR9KCmLuqKEeugG6L7ZmLYdY9Ieo=']
+U+7119
+12
+bèi
+86.8
+焙.mp3
+
+焚
+['burn']
+['quemar']
+['https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=']
+U+711A
+12
+fén
+86.8
+焚.mp3
+
+焛
+['NONE']
+['NINGUNA']
+[]
+U+711B
+12
+lìn
+86.8
+焛.mp3
+
+焜
+['fire, flames', ' bright, shining']
+['fuego, llamas', 'brillante, brillante']
+['https://media.gettyimages.com/vectors/fire-icons-vector-id165923036?k=6&m=165923036&s=612x612&w=0&h=6z4pvfEo3xSKrZ6zPtxS0eQDpc4tjlREN_faezjTaHc=', 'https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=']
+U+711C
+12
+kūn
+86.8
+焜.mp3
+
+焝
+['NONE']
+['NINGUNA']
+[]
+U+711D
+12
+hùn
+86.8
+焝.mp3
+
+焞
+['dim']
+['No']
+['https://media.gettyimages.com/photos/rising-steam-on-black-background-picture-id597317797?k=6&m=597317797&s=612x612&w=0&h=jq1y4RvjGgzleAMoA64SNzP6XEii-BS8RZyZdyS07bo=']
+U+711E
+12
+tūn
+86.8
+焞.mp3
+
+焟
+['NONE']
+['NINGUNA']
+[]
+U+711F
+12
+xī
+86.8
+焟.mp3
+
+焠
+['temper', ' burn']
+['templar', 'quemar']
+['https://media.gettyimages.com/photos/frustrated-woman-received-a-problematic-email-over-computer-picture-id1051720084?k=6&m=1051720084&s=612x612&w=0&h=KCz_oyAcXZ5LDz4ZspJvQiR0vId-rpYCofB7_6U3Lws=', 'https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=']
+U+7120
+12
+cuì
+86.8
+焠.mp3
+
+無
+['negative, no, not', ' lack, have no']
+['negativo, no, no', 'falta, no tengo']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=', 'https://media.gettyimages.com/photos/empty-studio-background-picture-id1024810748?k=6&m=1024810748&s=612x612&w=0&h=tMznJ2s5l8O4U5tmmCIE3Frt1HNnllEG6KuoNWwTBik=']
+U+7121
+12
+wú
+86.8
+無.mp3
+
+焢
+['NONE']
+['NINGUNA']
+[]
+U+7122
+12
+hōng
+86.8
+焢.mp3
+
+焣
+['NONE']
+['NINGUNA']
+[]
+U+7123
+12
+chǎo
+86.8
+焣.mp3
+
+焤
+['NONE']
+['NINGUNA']
+[]
+U+7124
+12
+fǔ
+86.8
+焤.mp3
+
+焥
+['NONE']
+['NINGUNA']
+[]
+U+7125
+12
+wò
+86.8
+焥.mp3
+
+焦
+['burned, scorched', ' anxious, vexed']
+['quemado, chamuscado', 'ansioso, molesto']
+['https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+7126
+12
+jiāo
+86.8
+焦.mp3
+
+焧
+['NONE']
+['NINGUNA']
+[]
+U+7127
+12
+cōng
+86.8
+焧.mp3
+
+焨
+['NONE']
+['NINGUNA']
+[]
+U+7128
+12
+fèng
+86.8
+焨.mp3
+
+焩
+['NONE']
+['NINGUNA']
+[]
+U+7129
+12
+píng
+86.8
+焩.mp3
+
+焪
+['NONE']
+['NINGUNA']
+[]
+U+712A
+12
+qióng
+86.8
+焪.mp3
+
+焫
+['(Cant.) hot', ' to scald, burn']
+['(Cant.) Caliente', 'escaldar, quemar']
+['https://media.gettyimages.com/photos/edeline-simplice-aged-40-had-her-home-in-kampanyol-near-beintet-by-picture-id587483124?k=6&m=587483124&s=612x612&w=0&h=w6KwYmrLLRh1fP_0o4MM_KeZOwY5IdbNO77bcAPTKQg=', 'https://media.gettyimages.com/photos/medical-second-degree-burn-picture-id168493254?k=6&m=168493254&s=612x612&w=0&h=7Ph52zgu6ngR2OGT6yfSpHNrKffNZ7NbNmaoDa1-gq8=']
+U+712B
+11
+ruò
+86.8
+焫.mp3
+
+焬
+['NONE']
+['NINGUNA']
+[]
+U+712C
+12
+xī
+86.8
+焬.mp3
+
+焭
+['orphan', ' alone, desolate']
+['huérfano', 'solo, desolado']
+['https://media.gettyimages.com/photos/crying-toddler-sitting-on-the-floor-covering-his-face-picture-id1148090966?k=6&m=1148090966&s=612x612&w=0&h=AfkspbnXo-pEWdNzr7Ao8nCydEtQnhgaTFM2-IcV2Ig=', 'https://media.gettyimages.com/photos/into-the-wild-picture-id1097301636?k=6&m=1097301636&s=612x612&w=0&h=7dtyWgu0okObhEp6b2pz4Ydt_vPR9AaDqO7mLlfALl8=']
+U+712D
+12
+qióng
+86.8
+焭.mp3
+
+焮
+['heat, radiate heat', ' broil', ' cauterize']
+['calor, irradiar calor', 'asar', 'cauterizar']
+['https://media.gettyimages.com/vectors/abstract-background-vector-id522116113?k=6&m=522116113&s=612x612&w=0&h=MEboetvAkFPFvHSxSSbr9nNkAXV1CgCs_MrWs6qTbxg=', 'https://media.gettyimages.com/photos/sirloin-steaks-with-fresh-thyme-picture-id972852490?k=6&m=972852490&s=612x612&w=0&h=4XGgeXqPzKpCM1jHM8Gf6u-WDy_MgDU40Au_O1Yt3t0=', 'https://media.gettyimages.com/photos/lentigo-maligna-melanoma-surgery-removal-series-picture-id155152534?k=6&m=155152534&s=612x612&w=0&h=OnS2clumQC24j_xFpK7urTcgwlxrOghXbhgdk6p3nZs=']
+U+712E
+12
+xìn
+86.8
+焮.mp3
+
+焯
+['boil vegetables for a very short time', ' scald']
+['hervir las verduras por un tiempo muy corto', 'escaldadura']
+['NONE', 'https://media.gettyimages.com/photos/propane-stove-burner-picture-id157284659?k=6&m=157284659&s=612x612&w=0&h=aPSJRKzwxsXiMg5M_G6fo7isD8dYEknDbHcwh9XxTWI=']
+U+712F
+12
+chāo
+86.8
+焯.mp3
+
+焰
+['flame, blaze', ' glowing, blazing']
+['llama, resplandor', 'resplandeciente, ardiente']
+['https://media.gettyimages.com/vectors/fire-flame-flat-icon-pixel-perfect-for-mobile-and-web-vector-id1149624419?k=6&m=1149624419&s=612x612&w=0&h=tLm1doBtAxdED7qdoy1TvRb5aS5JqN4XSsfp-ljR8DY=', 'https://media.gettyimages.com/photos/blue-hot-sun-picture-id157505921?k=6&m=157505921&s=612x612&w=0&h=2abt55JOFPGoqafPqOla9qKhoIo9cgwNkB8tjzuUJD8=']
+U+7130
+12
+yàn
+86.8
+焰.mp3
+
+焱
+['flames']
+['llamas']
+['https://media.gettyimages.com/vectors/fire-icons-vector-id165923036?k=6&m=165923036&s=612x612&w=0&h=6z4pvfEo3xSKrZ6zPtxS0eQDpc4tjlREN_faezjTaHc=']
+U+7131
+12
+yàn
+86.8
+焱.mp3
+
+焲
+['NONE']
+['NINGUNA']
+[]
+U+7132
+12
+yì
+86.8
+焲.mp3
+
+焳
+['NONE']
+['NINGUNA']
+[]
+U+7133
+12
+jué
+86.8
+焳.mp3
+
+焴
+['bright', ' flame']
+['brillante', 'fuego']
+['https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=', 'https://media.gettyimages.com/vectors/fire-icons-vector-id165923036?k=6&m=165923036&s=612x612&w=0&h=6z4pvfEo3xSKrZ6zPtxS0eQDpc4tjlREN_faezjTaHc=']
+U+7134
+12
+yù
+86.8
+焴.mp3
+
+焵
+['to temper steel']
+['templar acero']
+['https://media.gettyimages.com/photos/red-metal-toy-robot-isolated-picture-id157694775?k=6&m=157694775&s=612x612&w=0&h=62LP4UQhUTjN76ElM3KxvyMfIgiCLMou5YbDnhU8ypA=']
+U+7135
+12
+gàng
+86.8
+焵.mp3
+
+然
+['yes, certainly', ' pledge, promise']
+['si, ciertamente', 'promesa, promesa']
+['NONE', 'https://media.gettyimages.com/vectors/making-an-oath-icon-vector-id696658014?k=6&m=696658014&s=612x612&w=0&h=7Hb87uAMR8nRt04cfYY3iZKdcX0shlUYsheETsFMHvE=']
+U+7136
+12
+rán
+86.8
+然.mp3
+
+焷
+['NONE']
+['NINGUNA']
+[]
+U+7137
+12
+pí
+86.8
+焷.mp3
+
+焸
+['NONE']
+['NINGUNA']
+[]
+U+7138
+12
+xiòng
+86.8
+焸.mp3
+
+焹
+['NONE']
+['NINGUNA']
+[]
+U+7139
+12
+gàng
+86.8
+焹.mp3
+
+焺
+['NONE']
+['NINGUNA']
+[]
+U+713A
+12
+shēng
+86.8
+焺.mp3
+
+焻
+['breath']
+['respiración']
+['https://media.gettyimages.com/photos/young-woman-spending-a-relaxing-day-in-her-beautiful-home-picture-id1062517720?k=6&m=1062517720&s=612x612&w=0&h=cOZzkiXa8eBpKCwTlOJsZrfVX_Sj87o_5d1q5sxPMRs=']
+U+713B
+12
+chàng
+86.8
+焻.mp3
+
+焼
+['burn', ' bake', ' heat', ' roast']
+['quemar', 'hornear', 'calor', 'asado']
+['https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=', 'https://media.gettyimages.com/photos/adding-raspberries-to-tasteful-blackberry-pie-picture-id942452228?k=6&m=942452228&s=612x612&w=0&h=89gXfpDLkm2oAsMxabo6lbzd7vXqAR4Iz9ORJD87XHc=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/photos/preparing-food-at-picnic-picture-id932487536?k=6&m=932487536&s=612x612&w=0&h=ZPgYB9OQ0k5DcS0iR9KCmLuqKEeugG6L7ZmLYdY9Ieo=']
+U+713C
+12
+shāo
+86.8
+焼.mp3
+
+焽
+['NONE']
+['NINGUNA']
+[]
+U+713D
+12
+xiǒng
+86.8
+焽.mp3
+
+焾
+['(Cant.) soft']
+['(Cant.) Suave']
+['https://media.gettyimages.com/photos/pitcher-nick-masset-of-the-colorado-rockies-cant-handle-a-soft-ground-picture-id493194551?k=6&m=493194551&s=612x612&w=0&h=lRdhg-a_Y9iPoxKE0bTBG1g8OH-QeZu-9dXJsuY3qm4=']
+U+713E
+12
+niǎn
+86.8
+焾.mp3
+
+焿
+['name of a place in northeastern Taiwan', ' a kind of thick soup']
+['nombre de un lugar en el noreste de Taiwán', 'una especie de sopa espesa']
+['NONE', 'https://media.gettyimages.com/photos/eating-at-the-hospital-picture-id866494686?k=6&m=866494686&s=612x612&w=0&h=a_gKpr8iVUz-PBvePRFC21PQbvbTGoypexY99NCar4g=']
+U+713F
+12
+gēng
+86.8
+焿.mp3
+
+煀
+['(Cant.) to smoke', ' to fumigate']
+['(Cant.) Fumar', 'fumigar']
+['https://media.gettyimages.com/photos/year-old-bulboli-smokes-october-18-2014-in-tangail-bangladesh-there-picture-id457583314?k=6&m=457583314&s=612x612&w=0&h=5O4PeWoH3CQO1F_dntS7ZP1iWZl7IHXsQ_AgwQi3eKg=', 'https://media.gettyimages.com/photos/cropduster-plain-over-field-picture-id81897324?k=6&m=81897324&s=612x612&w=0&h=1YVv4GMAZKkPf67_UEGRTv5wG5UcQPTgTXe_BLt3Lmc=']
+U+7140
+12
+wei
+86.8
+煀.mp3
+
+煁
+['hearth', ' (Cant.) soft, tender']
+['hogar', '(Cant.) Suave, tierno']
+['https://media.gettyimages.com/photos/fireplace-with-fire-burning-picture-id75406522?k=6&m=75406522&s=612x612&w=0&h=elpD0mXm5wv6mMMbaxaUauvUo92ddXT3C2_6VtPY94I=', 'https://media.gettyimages.com/photos/cant-wait-to-fill-this-house-with-love-picture-id522219601?k=6&m=522219601&s=612x612&w=0&h=b15aD_tZemxe79kwNGiFLV8vmkY75WdCD6sGO_xnxw4=']
+U+7141
+13
+chén
+86.9
+煁.mp3
+
+煂
+['NONE']
+['NINGUNA']
+[]
+U+7142
+13
+hè
+86.9
+煂.mp3
+
+煃
+['remove, get rid of', ' scatter']
+['eliminar, deshacerse de', 'dispersión']
+['https://media.gettyimages.com/photos/getting-rid-of-unwanted-hair-can-be-painful-picture-id888052576?k=6&m=888052576&s=612x612&w=0&h=Am09Sje_8F_CAT0IrpGp1Q3HYlQXeKxb-N1K4XKJjC8=', 'https://media.gettyimages.com/vectors/colorful-watercolor-splashes-vector-id1085391426?k=6&m=1085391426&s=612x612&w=0&h=tCLSR-cJuE2aU4o6UEmChckX0Gj_DpCx0wDgIeRHBa8=']
+U+7143
+13
+kuǐ
+86.9
+煃.mp3
+
+煄
+['NONE']
+['NINGUNA']
+[]
+U+7144
+13
+zhǒng
+86.9
+煄.mp3
+
+煅
+['forge metal', " perfect one's skill"]
+['forjar metal', 'perfeccionar la habilidad de uno']
+['https://media.gettyimages.com/photos/hot-forging-picture-id653084160?k=6&m=653084160&s=612x612&w=0&h=2yBBt98tTnb3HFk7MMgxxYR0ZwVyB2JRJ4VZmEtaNCw=', 'https://media.gettyimages.com/photos/couple-helping-one-another-picture-id80248075?k=6&m=80248075&s=612x612&w=0&h=-PA38DmltqgprBbK5mKUGnjlJclfzD2JRSR55yr2J-M=']
+U+7145
+13
+duàn
+86.9
+煅.mp3
+
+煆
+['raging fire', ' to forge, work']
+['fuego furioso', 'forjar, trabajar']
+['https://media.gettyimages.com/photos/mature-adult-businessman-smashing-laptop-on-fire-with-hammer-picture-id486507440?k=6&m=486507440&s=612x612&w=0&h=6M28Gn-Fg-iMSGpon7BSUb7ZZfU333FacIdD7am3SUE=', 'https://media.gettyimages.com/photos/worker-repair-cold-forging-machine-picture-id874603796?k=6&m=874603796&s=612x612&w=0&h=FA956PTsXeuHmOSPeWBmmTgUT-h0wNP0WFzgWAIWN78=']
+U+7146
+13
+xiā
+86.9
+煆.mp3
+
+煇
+['weld, solder']
+['soldar, soldar']
+['https://media.gettyimages.com/photos/industrial-worker-welding-steel-picture-id1012745854?k=6&m=1012745854&s=612x612&w=0&h=pK72Gydj80a9yJ_gBwg2xv4SSHHrXzM0wtjT4aBxr4I=']
+U+7147
+13
+huī
+86.9
+煇.mp3
+
+煈
+['NONE']
+['NINGUNA']
+[]
+U+7148
+13
+fèng
+86.9
+煈.mp3
+
+煉
+['smelt, refine', ' distill, condense']
+['fundir, refinar', 'destilar, condensar']
+['NONE', 'https://media.gettyimages.com/photos/male-worker-operating-machinery-in-brewery-picture-id892115380?k=6&m=892115380&s=612x612&w=0&h=eLfR7zA68RYt4dYy2btzvknKqrFTVwWb0Qf4bKR7c1U=']
+U+7149
+13
+liàn
+86.9
+煉.mp3
+
+煊
+['warm']
+['calentar']
+['https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=']
+U+714A
+13
+xuān
+86.9
+煊.mp3
+
+煋
+['NONE']
+['NINGUNA']
+[]
+U+714B
+13
+xīng
+86.9
+煋.mp3
+
+煌
+['bright, shining, luminous']
+['brillante, brillante, luminoso']
+['https://media.gettyimages.com/photos/powerful-light-picture-id1175775792?k=6&m=1175775792&s=612x612&w=0&h=4dZBR2jY8DnhB-D-2HfkOh9QrRXlZuZbIngyqLFqb8U=']
+U+714C
+13
+huáng
+86.9
+煌.mp3
+
+煍
+['to color by smoke']
+['colorear con humo']
+['https://media.gettyimages.com/photos/color-ink-in-water-picture-id916056684?k=6&m=916056684&s=612x612&w=0&h=2Dn8DaPEMRlh2O3GBtJ_jkUrI5h7qfIrq2m37fAGD-g=']
+U+714D
+13
+jiǎo
+86.9
+煍.mp3
+
+煎
+['fry in fat or oil', ' boil in water']
+['freír en grasa o aceite', 'hervir en agua']
+['https://media.gettyimages.com/photos/deep-fat-frying-picture-id115975887?k=6&m=115975887&s=612x612&w=0&h=5nZXQ9LWRInfEBBqWJPUdjPlUIos7ZWRUevPfXlOBHs=', 'https://media.gettyimages.com/photos/water-boiling-on-a-gas-stove-stainless-pot-picture-id155146092?k=6&m=155146092&s=612x612&w=0&h=2Rv-w9nxjo4450lsXOeY9RqyazhvI015AwWGlUv6_ls=']
+U+714E
+13
+jiān
+86.9
+煎.mp3
+
+煏
+['dry by fire', ' iron']
+['secar al fuego', 'hierro']
+['https://media.gettyimages.com/photos/burnt-landscape-with-charred-trees-ash-and-setting-sun-forest-fire-picture-id1198548983?k=6&m=1198548983&s=612x612&w=0&h=j9skwbM8ul_6eEKVEH9fD5mHzjUNhCy3_RzEfbK7Vj8=', 'https://media.gettyimages.com/photos/golf-bag-and-clubs-xxxlarge-picture-id157579705?k=6&m=157579705&s=612x612&w=0&h=EiVASe2mtUuzPeUeBBKqAJNBXvNmyxieyx4hoYfrABc=']
+U+714F
+13
+bì
+86.9
+煏.mp3
+
+煐
+['NONE']
+['NINGUNA']
+[]
+U+7150
+12
+yīng
+86.9
+煐.mp3
+
+煑
+['cook']
+['cocinar']
+['https://media.gettyimages.com/photos/male-chef-garnishing-food-in-kitchen-picture-id877309726?k=6&m=877309726&s=612x612&w=0&h=3jDvk8FQY1LsozaFJhiZpBfwYdlq4DInpq014qgbP7o=']
+U+7151
+12
+zhǔ
+86.9
+煑.mp3
+
+煒
+['brilliant red', ' glowing']
+['rojo brillante', 'brillante']
+['https://media.gettyimages.com/photos/he-knows-how-to-exploit-weaknesses-in-every-cyber-system-picture-id892701338?k=6&m=892701338&s=612x612&w=0&h=b2zQeKwHCZ75Wnkb-CP0Gm2BLCCQX50toxiK3wNl4Jk=', 'https://media.gettyimages.com/vectors/blue-light-beam-on-black-background-vector-id1071711902?k=6&m=1071711902&s=612x612&w=0&h=LLFsqIJjkDQJ8cxgZmOvj1U5c6EvNWHNKgFx-hiHLNM=']
+U+7152
+13
+wěi
+86.9
+煒.mp3
+
+煓
+['NONE']
+['NINGUNA']
+[]
+U+7153
+13
+tuān
+86.9
+煓.mp3
+
+煔
+['NONE']
+['NINGUNA']
+[]
+U+7154
+13
+shǎn
+86.9
+煔.mp3
+
+煕
+['bright, splendid, glorious']
+['brillante, espléndido, glorioso']
+['https://media.gettyimages.com/photos/car-driving-on-a-bendy-road-in-glorious-sunlight-picture-id655931324?k=6&m=655931324&s=612x612&w=0&h=hRLObone1WdjIQRRXtKvu8AeNtp2acdYDiajyy0YO0E=']
+U+7155
+14
+xī
+86.9
+煕.mp3
+
+煖
+['warm, genial']
+['cálido, genial']
+['https://media.gettyimages.com/photos/clearing-clouds-picture-id1043299046?k=6&m=1043299046&s=612x612&w=0&h=SCcHclOAsLC1urvb5ySWzmu0QYQPCHgC_ZHYGaWakSI=']
+U+7156
+13
+nuǎn
+86.9
+煖.mp3
+
+煗
+['NONE']
+['NINGUNA']
+[]
+U+7157
+13
+nuǎn
+86.9
+煗.mp3
+
+煘
+['NONE']
+['NINGUNA']
+[]
+U+7158
+13
+chán
+86.9
+煘.mp3
+
+煙
+['smoke, soot', ' opium', ' tobacco, cigarettes']
+['humo, hollín', 'opio', 'tabaco, cigarrillos']
+['https://media.gettyimages.com/photos/bomb-smoke-backgroundsmoke-caused-by-explosions-picture-id1044572566?k=6&m=1044572566&s=612x612&w=0&h=NAcgwQ7QRtfF8dM8UgthaJyy8fBKbHF_3_DoeHWmCgk=', 'https://media.gettyimages.com/illustrations/view-of-the-british-bombardment-of-the-treaty-port-of-canton-during-illustration-id942547672?k=6&m=942547672&s=612x612&w=0&h=0YIwjONfWJSVrr0qlAaiJBLseofBH3lQPZOeskqk5O8=', 'https://media.gettyimages.com/vectors/cigarette-smoking-icon-flat-graphic-design-vector-id489348034?k=6&m=489348034&s=612x612&w=0&h=ByRem5O0D_WgfLnVfQ3jJuKQHLe1GdgYwaLeeMrVtoY=']
+U+7159
+13
+yān
+86.9
+煙.mp3
+
+煚
+['fire']
+['fuego']
+['https://media.gettyimages.com/photos/fire-flame-on-white-picture-id157379217?k=6&m=157379217&s=612x612&w=0&h=YUsvS13f2GJ4WSUQiU1bI2MpjyAXzI9WdqxC81oaoxI=']
+U+715A
+12
+jiǒng
+86.9
+煚.mp3
+
+煛
+['NONE']
+['NINGUNA']
+[]
+U+715B
+14
+jiǒng
+86.9
+煛.mp3
+
+煜
+['bright, shining, brilliant']
+['brillante, brillante, brillante']
+['https://media.gettyimages.com/photos/glowing-light-bulb-standing-out-from-the-crowd-picture-id1157326018?k=6&m=1157326018&s=612x612&w=0&h=_Sze4meKFAbRhzO325NjOcI27PttLyMQEdVH3T71Eyg=']
+U+715C
+13
+yù
+86.9
+煜.mp3
+
+煝
+['twisted paper for lighting cigarettes']
+['papel retorcido para encender cigarrillos']
+['NONE']
+U+715D
+13
+mèi
+86.9
+煝.mp3
+
+煞
+['malignant deity', ' baleful, noxious', ' strike dead']
+['deidad maligna', 'funesto, nocivo', 'golpear muerto']
+['https://media.gettyimages.com/photos/an-asian-woman-in-her-60s-embraces-her-mid30s-daughter-who-is-cancer-picture-id962659624?k=6&m=962659624&s=612x612&w=0&h=xbuhqfNjMzuBNnpHvYH6bEER1Xe0q5zkJRKseaav848=', 'NONE', 'https://media.gettyimages.com/photos/pattaya-thailand-january-show-snakes-by-playing-with-a-snake-during-picture-id1142085960?k=6&m=1142085960&s=612x612&w=0&h=OlME3y-8JTOKi71uxEN4TNxR5DhkcLm16L1ApxoP0Hs=']
+U+715E
+13
+shā
+86.9
+煞.mp3
+
+煟
+['bright room']
+['cuarto brillante']
+['https://media.gettyimages.com/photos/yellow-living-room-with-sofa-picture-id1133601992?k=6&m=1133601992&s=612x612&w=0&h=5cZE-QWeXKVk-ayYQe-MPk7xHdU8b0Z_fi3P8qd0Ric=']
+U+715F
+13
+wèi
+86.9
+煟.mp3
+
+煠
+['to fry in fat or oil. to scald']
+['freír en grasa o aceite. escaldar']
+['NONE']
+U+7160
+13
+zhá
+86.9
+煠.mp3
+
+煡
+['NONE']
+['NINGUNA']
+[]
+U+7161
+12
+jìn
+86.9
+煡.mp3
+
+煢
+['alone', ' no friends or relatives']
+['solo', 'sin amigos ni familiares']
+['https://media.gettyimages.com/photos/woman-drinking-tea-at-home-picture-id1096591210?k=6&m=1096591210&s=612x612&w=0&h=dj5dfSo9YKf0nyMQnCDTIpNox9n4KwKtbp2CGDVp7bU=', 'NONE']
+U+7162
+13
+qióng
+86.9
+煢.mp3
+
+煣
+['NONE']
+['NINGUNA']
+[]
+U+7163
+13
+róu
+86.9
+煣.mp3
+
+煤
+['coal, coke, charcoal, carbon']
+['carbón, coque, carbón vegetal, carbón']
+['https://media.gettyimages.com/vectors/grilling-items-flat-set-vector-id834982662?k=6&m=834982662&s=612x612&w=0&h=tYrJoiTvNubrdPogDDSOzA0qWPL4HHo3VZBlal5fASY=']
+U+7164
+13
+méi
+86.9
+煤.mp3
+
+煥
+['shining, brilliant, lustrous']
+['brillante, brillante, lustroso']
+['https://media.gettyimages.com/vectors/abstract-blue-low-poly-background-vector-id496035857?k=6&m=496035857&s=612x612&w=0&h=gaBKkB0fj1U8HfgstaROV13EjJ9pHnqi9YEoQTcb0-8=']
+U+7165
+13
+huàn
+86.9
+煥.mp3
+
+煦
+['kind, gentle, gracious, genial']
+['amable, gentil, amable, genial']
+['NONE']
+U+7166
+13
+xù
+86.9
+煦.mp3
+
+照
+['shine, illumine, reflect']
+['brillar, iluminar, reflejar']
+['NONE']
+U+7167
+13
+zhào
+86.9
+照.mp3
+
+煨
+['to stew, simmer']
+['cocer a fuego lento']
+['https://media.gettyimages.com/photos/goulash-picture-id183874165?k=6&m=183874165&s=612x612&w=0&h=FnSmQsNxkN3b91jAmi9fAk3G6ZTmKfQGFK5ORwZwGjQ=']
+U+7168
+13
+wēi
+86.9
+煨.mp3
+
+煩
+['bother, vex, trouble', ' troublesome']
+['molestar, vejar, problema', 'molesto']
+['https://media.gettyimages.com/photos/business-is-putting-him-in-a-bad-mood-picture-id874811562?k=6&m=874811562&s=612x612&w=0&h=5I4ucH27QNTd07eB3DTBWuQ59ap_00NolJmC_sUibao=', 'https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+7169
+13
+fán
+86.9
+煩.mp3
+
+煪
+['NONE']
+['NINGUNA']
+[]
+U+716A
+13
+qiú
+86.9
+煪.mp3
+
+煫
+['NONE']
+['NINGUNA']
+[]
+U+716B
+13
+suì
+86.9
+煫.mp3
+
+煬
+['roast', ' scorch', ' melt', ' flame']
+['asado', 'scorch', 'derretir', 'fuego']
+['https://media.gettyimages.com/photos/preparing-food-at-picnic-picture-id932487536?k=6&m=932487536&s=612x612&w=0&h=ZPgYB9OQ0k5DcS0iR9KCmLuqKEeugG6L7ZmLYdY9Ieo=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/vectors/paint-dripping-vector-set-vector-id1047668526?k=6&m=1047668526&s=612x612&w=0&h=DujTI_ZtbXG8IuLkf9CrV57W8j3EdsASznsT0vrW8i8=', 'https://media.gettyimages.com/vectors/fire-icons-vector-id165923036?k=6&m=165923036&s=612x612&w=0&h=6z4pvfEo3xSKrZ6zPtxS0eQDpc4tjlREN_faezjTaHc=']
+U+716C
+13
+yáng
+86.9
+煬.mp3
+
+煭
+['NONE']
+['NINGUNA']
+[]
+U+716D
+13
+liè
+86.9
+煭.mp3
+
+煮
+['cook']
+['cocinar']
+['https://media.gettyimages.com/photos/male-chef-garnishing-food-in-kitchen-picture-id877309726?k=6&m=877309726&s=612x612&w=0&h=3jDvk8FQY1LsozaFJhiZpBfwYdlq4DInpq014qgbP7o=']
+U+716E
+12
+zhǔ
+86.8
+煮.mp3
+
+煯
+['NONE']
+['NINGUNA']
+[]
+U+716F
+13
+jiē
+86.9
+煯.mp3
+
+煰
+['NONE']
+['NINGUNA']
+[]
+U+7170
+13
+zào
+86.9
+煰.mp3
+
+煱
+['(Cant.) ']
+['(Hipocresía.)']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+7171
+12
+guā
+86.9
+煱.mp3
+
+煲
+['to heat', ' to boil a saucepan']
+['calentar', 'hervir una cacerola']
+['https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/photos/young-beautiful-woman-cooking-lunch-in-the-kitchen-picture-id935951790?k=6&m=935951790&s=612x612&w=0&h=rpf37csv49HjpWslh-db8xix5TnWsDz_QTZz8ZuyZ_s=']
+U+7172
+13
+bāo
+86.9
+煲.mp3
+
+煳
+['be burned, to char (in cooking)']
+['ser quemado, carbonizar (al cocinar)']
+['https://media.gettyimages.com/photos/my-dinner-burnt-picture-id827914900?k=6&m=827914900&s=612x612&w=0&h=p6l03-6FKFhGjVjTllrL_N1CbJejsu69AViL1LVjNag=']
+U+7173
+13
+hú
+86.9
+煳.mp3
+
+煴
+['sultriness, stuffiness']
+['bochorno, congestión']
+['NONE']
+U+7174
+13
+yūn
+86.9
+煴.mp3
+
+煵
+['NONE']
+['NINGUNA']
+[]
+U+7175
+13
+nǎn
+86.9
+煵.mp3
+
+煶
+['NONE']
+['NINGUNA']
+[]
+U+7176
+13
+shì
+86.9
+煶.mp3
+
+煷
+['NONE']
+['NINGUNA']
+[]
+U+7177
+13
+liang
+86.9
+煷.mp3
+
+煸
+['to stir-fry before broiling or stewing']
+['para sofreír antes de asar o guisar']
+['https://media.gettyimages.com/photos/beef-picture-id695042917?k=6&m=695042917&s=612x612&w=0&h=IY3tGXMLXzEwQ53xNWp90G_COrsi_-p6TYhGhE0J3wE=']
+U+7178
+13
+biān
+86.9
+煸.mp3
+
+煹
+['NONE']
+['NINGUNA']
+[]
+U+7179
+14
+gòu
+86.10
+煹.mp3
+
+煺
+['NONE']
+['NINGUNA']
+[]
+U+717A
+13
+tuì
+86.9
+煺.mp3
+
+煻
+['to warm', ' to toast']
+['para calentar', 'para tostar']
+['https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/photos/celebration-picture-id160836693?k=6&m=160836693&s=612x612&w=0&h=XzrBuh4zP0GIYupvUAjmYDJE262MihpXefW8F96PsVg=']
+U+717B
+14
+táng
+86.10
+煻.mp3
+
+煼
+['NONE']
+['NINGUNA']
+[]
+U+717C
+14
+chǎo
+86.10
+煼.mp3
+
+煽
+['stir up, incite, agitate, provoke']
+['agitar, incitar, agitar, provocar']
+['https://media.gettyimages.com/vectors/success-and-awards-line-icons-editable-stroke-pixel-perfect-for-and-vector-id1132758622?k=6&m=1132758622&s=612x612&w=0&h=hP0e2MFMgxAHBbrWipCgevjnNFD0OtXTuvdQJvGlgJo=']
+U+717D
+14
+shān
+86.10
+煽.mp3
+
+煾
+['NONE']
+['NINGUNA']
+[]
+U+717E
+14
+ēn
+86.10
+煾.mp3
+
+煿
+['NONE']
+['NINGUNA']
+[]
+U+717F
+14
+bó
+86.10
+煿.mp3
+
+熀
+['the blaze of fire', ' dazzling']
+['el resplandor del fuego', 'deslumbrante']
+['https://media.gettyimages.com/photos/house-on-fire-that-the-firemen-are-trying-to-extinguish-picture-id157523541?k=6&m=157523541&s=612x612&w=0&h=kCzkrNchUrcgOrIJUbJuZp3oTYayE4a2LXeRUJp2uKo=', 'https://media.gettyimages.com/photos/red-paint-strokes-picture-id1193540772?k=6&m=1193540772&s=612x612&w=0&h=IFPTKiVqUDlk1qS1MoYzYW2_2BRUtuFRlSi4UrckqkU=']
+U+7180
+14
+huǎng
+86.10
+熀.mp3
+
+熁
+['NONE']
+['NINGUNA']
+[]
+U+7181
+14
+xié
+86.10
+熁.mp3
+
+熂
+['NONE']
+['NINGUNA']
+[]
+U+7182
+14
+xì
+86.10
+熂.mp3
+
+熃
+['NONE']
+['NINGUNA']
+[]
+U+7183
+14
+wù
+86.10
+熃.mp3
+
+熄
+['put out, extinguish, quash']
+['apagar, apagar, anular']
+['NONE']
+U+7184
+14
+xī
+86.10
+熄.mp3
+
+熅
+['smooth out, iron out']
+['suavizar, planchar']
+['https://media.gettyimages.com/photos/woman-ironing-white-cloth-closeup-picture-idsb10068962bg-001?k=6&m=sb10068962bg-001&s=612x612&w=0&h=y-QhQvoFgSmjg-Mjzeekcp3_5CXkhieV2wKnin5I714=']
+U+7185
+14
+yùn
+86.10
+熅.mp3
+
+熆
+['NONE']
+['NINGUNA']
+[]
+U+7186
+14
+hé
+86.10
+熆.mp3
+
+熇
+['bake']
+['hornear']
+['https://media.gettyimages.com/photos/adding-raspberries-to-tasteful-blackberry-pie-picture-id942452228?k=6&m=942452228&s=612x612&w=0&h=89gXfpDLkm2oAsMxabo6lbzd7vXqAR4Iz9ORJD87XHc=']
+U+7187
+14
+hè
+86.10
+熇.mp3
+
+熈
+['bright, splendid, glorious']
+['brillante, espléndido, glorioso']
+['https://media.gettyimages.com/photos/car-driving-on-a-bendy-road-in-glorious-sunlight-picture-id655931324?k=6&m=655931324&s=612x612&w=0&h=hRLObone1WdjIQRRXtKvu8AeNtp2acdYDiajyy0YO0E=']
+U+7188
+14
+xī
+86.10
+熈.mp3
+
+熉
+['yellow color']
+['color amarillo']
+['https://media.gettyimages.com/photos/yellow-living-room-with-sofa-picture-id1133601992?k=6&m=1133601992&s=612x612&w=0&h=5cZE-QWeXKVk-ayYQe-MPk7xHdU8b0Z_fi3P8qd0Ric=']
+U+7189
+14
+yún
+86.10
+熉.mp3
+
+熊
+['a bear', ' brilliant', ' bright', ' surname']
+['un oso', 'brillante', 'brillante', 'apellido']
+['https://media.gettyimages.com/photos/bear-isolated-picture-id171136250?k=6&m=171136250&s=612x612&w=0&h=eWydjuR2b0oes0IxRJ2xehF9ojGMLbGeWwlWtxS3K7E=', 'https://media.gettyimages.com/vectors/teamwork-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1124263210?k=6&m=1124263210&s=612x612&w=0&h=PoQHKAtCBlbVHfMxH12TKbRU_C2FonE5pX8cHK48FIU=', 'https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+718A
+14
+xióng
+86.10
+熊.mp3
+
+熋
+['NONE']
+['NINGUNA']
+[]
+U+718B
+14
+nái
+86.10
+熋.mp3
+
+熌
+['NONE']
+['NINGUNA']
+[]
+U+718C
+14
+shǎn
+86.10
+熌.mp3
+
+熍
+['NONE']
+['NINGUNA']
+[]
+U+718D
+13
+qióng
+86.10
+熍.mp3
+
+熎
+['NONE']
+['NINGUNA']
+[]
+U+718E
+14
+yào
+86.10
+熎.mp3
+
+熏
+['smoke, fog, vapor', ' smoke, cure']
+['humo, niebla, vapor', 'fumar, curar']
+['https://media.gettyimages.com/photos/smoke-caused-by-explosions-picture-id1187503245?k=6&m=1187503245&s=612x612&w=0&h=E0xkQixnp0-1Mb3CCeQ4L1FZbGRejUh_YXhHQPeS1hM=', 'https://media.gettyimages.com/vectors/drug-abuse-and-recovery-icons-vector-id1169632018?k=6&m=1169632018&s=612x612&w=0&h=dyS0ZY91Dy7yQ9SDbODRW_MJ5vYblJqDEpjgGAJYbeg=']
+U+718F
+14
+xūn
+86.10
+熏.mp3
+
+熐
+['NONE']
+['NINGUNA']
+[]
+U+7190
+14
+mì
+86.10
+熐.mp3
+
+熑
+['NONE']
+['NINGUNA']
+[]
+U+7191
+14
+lián
+86.10
+熑.mp3
+
+熒
+['shine, shimmer', ' shining, dazzling']
+['brillar, brillar', 'brillante, deslumbrante']
+['https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=', 'https://media.gettyimages.com/photos/street-lights-of-urban-city-street-at-night-picture-id1130386418?k=6&m=1130386418&s=612x612&w=0&h=N48uJP3LgvL92zHJ50dAltkWaPjNsbCRKzz8Cj871jI=']
+U+7192
+14
+yíng
+86.10
+熒.mp3
+
+熓
+['to bank a fire', ' to smother, put out']
+['encender un fuego', 'sofocar, apagar']
+['https://media.gettyimages.com/vectors/real-estate-icons-vector-id464935350?k=6&m=464935350&s=612x612&w=0&h=QUCL1cfSjPFtK5dKmA022S1B93S8xEOpJ2Q6quO1dsg=', 'https://media.gettyimages.com/photos/portrait-of-boy-picture-id151865278?k=6&m=151865278&s=612x612&w=0&h=qNms9dOzhbHB8W3xn9OzYpyeGdn_SjQP5gI8mZbmDHg=']
+U+7193
+14
+wǔ
+86.10
+熓.mp3
+
+熔
+['melt, smelt, fuse', ' mold']
+['derretir, fundir, fusionar', 'molde']
+['NONE', 'https://media.gettyimages.com/photos/home-interior-black-mold-on-basement-wall-picture-id160949025?k=6&m=160949025&s=612x612&w=0&h=OMs1lO2ZPmZ1s4y2CBZ6swLZTbntmlj2PPZIZEKLN7A=']
+U+7194
+14
+róng
+86.10
+熔.mp3
+
+熕
+['NONE']
+['NINGUNA']
+[]
+U+7195
+14
+gōng
+86.10
+熕.mp3
+
+熖
+['same as ']
+['igual que']
+['https://media.gettyimages.com/vectors/red-and-black-aces-seamless-pattern-vector-id903522566?k=6&m=903522566&s=612x612&w=0&h=PbQ2nH9P03BuYDRKCWxUiOu5a3kNPj1mPRscZkxvVD8=']
+U+7196
+14
+yàn
+86.10
+熖.mp3
+
+熗
+['stir-fry or boil in water or oil then cook with a sauce']
+['sofreír o hervir en agua o aceite y luego cocinar con una salsa']
+['https://media.gettyimages.com/photos/cooking-italian-pasta-with-cream-sauce-and-basil-at-home-a-girl-or-picture-id1256489818?k=6&m=1256489818&s=612x612&w=0&h=KjmPpMEpcef0i1MdnW6RH0ZatK7xJRJ8rlXcrOCQCyM=']
+U+7197
+14
+qiàng
+86.10
+熗.mp3
+
+熘
+['to steam']
+['al vapor']
+['https://media.gettyimages.com/photos/explosion-by-an-impact-of-a-cloud-of-particles-of-powder-of-color-on-picture-id1044318740?k=6&m=1044318740&s=612x612&w=0&h=O4fbncd-oMaE0KeoJT1CnkEREDkJKXgL8kuzGbwfUyc=']
+U+7198
+14
+liū
+86.10
+熘.mp3
+
+熙
+['bright, splendid, glorious']
+['brillante, espléndido, glorioso']
+['https://media.gettyimages.com/photos/car-driving-on-a-bendy-road-in-glorious-sunlight-picture-id655931324?k=6&m=655931324&s=612x612&w=0&h=hRLObone1WdjIQRRXtKvu8AeNtp2acdYDiajyy0YO0E=']
+U+7199
+14
+xī
+86.10
+熙.mp3
+
+熚
+['NONE']
+['NINGUNA']
+[]
+U+719A
+14
+bì
+86.11
+熚.mp3
+
+熛
+['blaze']
+['resplandor']
+['https://media.gettyimages.com/photos/house-on-fire-that-the-firemen-are-trying-to-extinguish-picture-id157523541?k=6&m=157523541&s=612x612&w=0&h=kCzkrNchUrcgOrIJUbJuZp3oTYayE4a2LXeRUJp2uKo=']
+U+719B
+15
+biāo
+86.11
+熛.mp3
+
+熜
+['NONE']
+['NINGUNA']
+[]
+U+719C
+15
+cōng
+86.11
+熜.mp3
+
+熝
+['(Cant.) to scald with steam']
+['(Cant.) Escaldar con vapor']
+['NONE']
+U+719D
+15
+lù
+86.11
+熝.mp3
+
+熞
+['NONE']
+['NINGUNA']
+[]
+U+719E
+15
+jiān
+86.11
+熞.mp3
+
+熟
+['well-cooked', ' ripe', ' familiar with']
+['bien cocinado', 'maduro', 'familiar con']
+['https://media.gettyimages.com/photos/wellcooked-chicken-schnitzel-served-with-gravy-and-potato-chips-picture-id697155944?k=6&m=697155944&s=612x612&w=0&h=KujzjPMqvKhioGXGJJqBY71CrszBiM4uw6GHAM4Bawk=', 'https://media.gettyimages.com/photos/closeup-of-two-fresh-blackberry-with-leaves-picture-id173612468?k=6&m=173612468&s=612x612&w=0&h=ny2x4JTxLzpzxM549Dg-zocY6K1DSPlvECqIqOaMXXg=', 'https://media.gettyimages.com/photos/above-view-of-playful-parents-tickling-their-daughters-at-home-picture-id1159543952?k=6&m=1159543952&s=612x612&w=0&h=EdDKiaqzUXgcTOoWw28Cv5BDvFTDy_bUzRjKvotSx_s=']
+U+719F
+15
+shú
+86.11
+熟.mp3
+
+熠
+['bright and sparkling']
+['brillante y reluciente']
+['https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=']
+U+71A0
+15
+yì
+86.11
+熠.mp3
+
+熡
+['NONE']
+['NINGUNA']
+[]
+U+71A1
+15
+lóu
+86.11
+熡.mp3
+
+熢
+['NONE']
+['NINGUNA']
+[]
+U+71A2
+14
+péng
+86.11
+熢.mp3
+
+熣
+['NONE']
+['NINGUNA']
+[]
+U+71A3
+15
+suī
+86.11
+熣.mp3
+
+熤
+['NONE']
+['NINGUNA']
+[]
+U+71A4
+15
+yì
+86.11
+熤.mp3
+
+熥
+['heat up by steaming']
+['calentar al vapor']
+['https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=']
+U+71A5
+14
+tēng
+86.11
+熥.mp3
+
+熦
+['NONE']
+['NINGUNA']
+[]
+U+71A6
+15
+jué
+86.10
+熦.mp3
+
+熧
+['NONE']
+['NINGUNA']
+[]
+U+71A7
+15
+zōng
+86.11
+熧.mp3
+
+熨
+['iron, press']
+['plancha, prensa']
+['https://media.gettyimages.com/photos/the-last-step-of-laundry-picture-id912932364?k=6&m=912932364&s=612x612&w=0&h=XqIbHcjOcBfg8iqKdpXP_erfQXOuEq_-d3SZLyjHDpM=']
+U+71A8
+15
+yùn
+86.11
+熨.mp3
+
+熩
+['NONE']
+['NINGUNA']
+[]
+U+71A9
+15
+hù
+86.11
+熩.mp3
+
+熪
+['NONE']
+['NINGUNA']
+[]
+U+71AA
+15
+yí
+86.11
+熪.mp3
+
+熫
+['NONE']
+['NINGUNA']
+[]
+U+71AB
+15
+zhì
+86.11
+熫.mp3
+
+熬
+['cook down, to boil', ' endure']
+['cocinar, hervir', 'soportar']
+['https://media.gettyimages.com/photos/vegetable-broth-in-a-half-of-saucepan-picture-id931347586?k=6&m=931347586&s=612x612&w=0&h=k5wcmOAaOovof3Gi5H0joBBCXJJ1LAB2oDvu_qvdbAA=', 'https://media.gettyimages.com/photos/climbing-to-the-top-picture-id478806622?k=6&m=478806622&s=612x612&w=0&h=kr3IWg-aSlYzlzVg9W4jfZwrvyCbdKY-79W_7TrKGTQ=']
+U+71AC
+14
+áo
+86.11
+熬.mp3
+
+熭
+['NONE']
+['NINGUNA']
+[]
+U+71AD
+15
+wèi
+86.11
+熭.mp3
+
+熮
+['NONE']
+['NINGUNA']
+[]
+U+71AE
+15
+liǔ
+86.11
+熮.mp3
+
+熯
+['by fire']
+['por fuego']
+['https://media.gettyimages.com/photos/fire-flame-on-white-picture-id157379217?k=6&m=157379217&s=612x612&w=0&h=YUsvS13f2GJ4WSUQiU1bI2MpjyAXzI9WdqxC81oaoxI=']
+U+71AF
+15
+hàn
+86.11
+熯.mp3
+
+熰
+['great drought', ' heat']
+['gran sequía', 'calor']
+['https://media.gettyimages.com/photos/african-american-farmer-checking-dirt-in-field-picture-id142022550?k=6&m=142022550&s=612x612&w=0&h=iYQQekKq8wdkyCX9vhqvmQc5aaXYaYt-PXlbFBujfFc=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=']
+U+71B0
+15
+ōu
+86.11
+熰.mp3
+
+熱
+['hot', ' heat', ' fever', ' restless', ' zeal']
+['caliente', 'calor', 'fiebre', 'inquieto', 'celo']
+['https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/photos/cutting-edge-tech-to-help-curb-the-spread-picture-id1216086806?k=6&m=1216086806&s=612x612&w=0&h=EGFTZSkwwA2jpma79U7w3oAnW0bTznIimQU5e1YOpss=', 'https://media.gettyimages.com/photos/man-sitting-on-bed-unable-to-sleep-picture-id103058113?k=6&m=103058113&s=612x612&w=0&h=SUiAKqjG2y2b6UkqSHBmSUtUKtq1ua6FpeRPwjkl7Ts=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+71B1
+15
+rè
+86.11
+熱.mp3
+
+熲
+['bright']
+['brillante']
+['https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=']
+U+71B2
+15
+jiǒng
+86.11
+熲.mp3
+
+熳
+['NONE']
+['NINGUNA']
+[]
+U+71B3
+15
+màn
+86.11
+熳.mp3
+
+熴
+['NONE']
+['NINGUNA']
+[]
+U+71B4
+15
+kūn
+86.11
+熴.mp3
+
+熵
+['entropy']
+['entropía']
+['https://media.gettyimages.com/photos/help-picture-id982935120?k=6&m=982935120&s=612x612&w=0&h=vFCDIEFEoRMbN9w3s1LhlPlLTTAdV9QGc_rtWL63Xjk=']
+U+71B5
+15
+shāng
+86.11
+熵.mp3
+
+熶
+['NONE']
+['NINGUNA']
+[]
+U+71B6
+16
+cuàn
+86.12
+熶.mp3
+
+熷
+['NONE']
+['NINGUNA']
+[]
+U+71B7
+16
+zēng
+86.12
+熷.mp3
+
+熸
+['put out']
+['apagar']
+['https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+71B8
+16
+jiān
+86.12
+熸.mp3
+
+熹
+['dim light, glimmer', ' warm, bright']
+['luz tenue, brillo', 'cálido, brillante']
+['https://media.gettyimages.com/photos/low-lighting-black-slate-texture-picture-id905183584?k=6&m=905183584&s=612x612&w=0&h=ZBet4NraAq0JXP3YR3kkKADsg4_mD78_ERNnr72R_8s=', 'https://media.gettyimages.com/photos/blurred-gold-sparkles-background-with-darker-top-corners-picture-id184944843?k=6&m=184944843&s=612x612&w=0&h=-hkbX-htKQT2gcFWl2mM1_Ag2lmw5RgFvly8qCMAKtA=']
+U+71B9
+16
+xī
+86.12
+熹.mp3
+
+熺
+['dim light, glimmer', ' warm']
+['luz tenue, brillo', 'calentar']
+['https://media.gettyimages.com/photos/low-lighting-black-slate-texture-picture-id905183584?k=6&m=905183584&s=612x612&w=0&h=ZBet4NraAq0JXP3YR3kkKADsg4_mD78_ERNnr72R_8s=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=']
+U+71BA
+16
+xī
+86.12
+熺.mp3
+
+熻
+['to heat', ' to roast', ' to burn']
+['calentar', 'para asar', 'para quemar']
+['https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/photos/preparing-food-at-picnic-picture-id932487536?k=6&m=932487536&s=612x612&w=0&h=ZPgYB9OQ0k5DcS0iR9KCmLuqKEeugG6L7ZmLYdY9Ieo=', 'https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=']
+U+71BB
+16
+xī
+86.12
+熻.mp3
+
+熼
+['NONE']
+['NINGUNA']
+[]
+U+71BC
+15
+yì
+86.12
+熼.mp3
+
+熽
+['NONE']
+['NINGUNA']
+[]
+U+71BD
+17
+xiào
+86.12
+熽.mp3
+
+熾
+['burning-hot, intense', ' to burn, blaze', ' splendid, illustrious']
+['ardiente, intenso', 'arder, arder', 'espléndido, ilustre']
+['https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=', 'https://media.gettyimages.com/photos/night-fire-picture-id172202319?k=6&m=172202319&s=612x612&w=0&h=dYQUJYBq4zK2qkp_v7B6MjPacvL0y34KJFYkEuF-Wq0=', 'https://media.gettyimages.com/photos/my-grandma-picture-id173578638?k=6&m=173578638&s=612x612&w=0&h=n8ioHWlvg-By6VaRlwLwYwuWehyAe2H1gghr6Mc_RXw=']
+U+71BE
+16
+chì
+86.12
+熾.mp3
+
+熿
+['NONE']
+['NINGUNA']
+[]
+U+71BF
+15
+huáng
+86.12
+熿.mp3
+
+燀
+['to make a fire', ' blaze']
+['hacer un fuego', 'resplandor']
+['https://media.gettyimages.com/photos/cropped-image-of-craftspeople-molding-glass-at-workshop-picture-id592359851?k=6&m=592359851&s=612x612&w=0&h=_3TgyKqEKdy2DY4Jbd-2XgbKLt-fLUEBHqysOqkL--I=', 'https://media.gettyimages.com/photos/house-on-fire-that-the-firemen-are-trying-to-extinguish-picture-id157523541?k=6&m=157523541&s=612x612&w=0&h=kCzkrNchUrcgOrIJUbJuZp3oTYayE4a2LXeRUJp2uKo=']
+U+71C0
+16
+chǎn
+86.12
+燀.mp3
+
+燁
+['bright, glorious, splendid, flame']
+['brillante, glorioso, espléndido, llama']
+['NONE']
+U+71C1
+14
+yè
+86.12
+燁.mp3
+
+燂
+['smoke, fumes', ' tobacco, opium', ' (Cant.) to singe']
+['humo, humos', 'tabaco, opio', '(Cant.) Chamuscar']
+['https://media.gettyimages.com/photos/smoke-picture-id183832289?k=6&m=183832289&s=612x612&w=0&h=k_9dXvAvPNBdyoXI-MyZEpPW3XC4rTtPFuhL43D4D3k=', 'https://media.gettyimages.com/vectors/drugs-thin-line-icon-set-vector-id1131862134?k=6&m=1131862134&s=612x612&w=0&h=0BUmWyeoPRGGF4o65pGFy7tvtlihnlb8aM7JGjCNGRk=', 'https://media.gettyimages.com/photos/pam-bob-ayers-sadly-reflecting-on-the-death-of-their-murder-victim-picture-id50472643?k=6&m=50472643&s=612x612&w=0&h=7XeoW7kTUfqe4qQnnLY0HWz2WDOTRhyjzGSdvllv7-I=']
+U+71C2
+16
+tán
+86.12
+燂.mp3
+
+燃
+['burn', ' light fire, ignite']
+['quemar', 'encender fuego, encender']
+['https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=', 'https://media.gettyimages.com/photos/striking-match-picture-id174657266?k=6&m=174657266&s=612x612&w=0&h=tVSahDA3tUckoQpFCJSTTXGUGoplDPOnCGA-BXuumqo=']
+U+71C3
+16
+rán
+86.12
+燃.mp3
+
+燄
+['flame', ' blazing, brilliant']
+['fuego', 'ardiente, brillante']
+['https://media.gettyimages.com/vectors/fire-icons-vector-id165923036?k=6&m=165923036&s=612x612&w=0&h=6z4pvfEo3xSKrZ6zPtxS0eQDpc4tjlREN_faezjTaHc=', 'https://media.gettyimages.com/photos/closeup-of-chefs-hands-holding-a-saute-pan-to-cook-food-flambeing-picture-id945578702?k=6&m=945578702&s=612x612&w=0&h=V0mEjngY83KXSIhlASPKj9KolDXwi4bGekXBzKgvIyw=']
+U+71C4
+16
+yàn
+86.12
+燄.mp3
+
+燅
+['NONE']
+['NINGUNA']
+[]
+U+71C5
+16
+xún
+86.12
+燅.mp3
+
+燆
+['NONE']
+['NINGUNA']
+[]
+U+71C6
+16
+qiāo
+86.12
+燆.mp3
+
+燇
+['NONE']
+['NINGUNA']
+[]
+U+71C7
+16
+jùn
+86.12
+燇.mp3
+
+燈
+['lantern, lamp']
+['linterna, lámpara']
+['https://media.gettyimages.com/photos/vintage-street-lamp-picture-id182850067?k=6&m=182850067&s=612x612&w=0&h=MrBGlEpJzz7grouuzunMP15-qVj1-h9VCZuG50fDTIc=']
+U+71C8
+16
+dēng
+86.12
+燈.mp3
+
+燉
+['heat with fire', ' stew']
+['calor con fuego', 'estofado']
+['https://media.gettyimages.com/photos/explosion-by-an-impact-of-a-cloud-of-particles-of-powder-and-smoke-of-picture-id1050222676?k=6&m=1050222676&s=612x612&w=0&h=cNFO_EUDy1FbApQayTFhm2FOUn1qev_Q2ZaqhvFAM5w=', 'https://media.gettyimages.com/photos/beef-bourguignon-picture-id1068118348?k=6&m=1068118348&s=612x612&w=0&h=h-QCSgeCw5XKJMM_ogMYQmdTAVlxJq6p07ssodsRmos=']
+U+71C9
+16
+dùn
+86.12
+燉.mp3
+
+燊
+['luxuriant']
+['exuberante']
+['https://media.gettyimages.com/photos/jungle-leaves-background-picture-id974079490?k=6&m=974079490&s=612x612&w=0&h=b19ayS1DK3yx3YvolSrp5cTNXofGJCBPlca-yFSLDj8=']
+U+71CA
+16
+shēn
+86.12
+燊.mp3
+
+燋
+['scorch, burn, scald', ' torch']
+['quemar, quemar, escaldar', 'antorcha']
+['https://media.gettyimages.com/photos/medical-second-degree-burn-picture-id168493254?k=6&m=168493254&s=612x612&w=0&h=7Ph52zgu6ngR2OGT6yfSpHNrKffNZ7NbNmaoDa1-gq8=', 'https://media.gettyimages.com/vectors/torch-vector-id667812604?k=6&m=667812604&s=612x612&w=0&h=Tdrj44QKiUgxU4bwQi0e7fdPunx8jE4tuIiBZDdKAwQ=']
+U+71CB
+16
+jiāo
+86.12
+燋.mp3
+
+燌
+['NONE']
+['NINGUNA']
+[]
+U+71CC
+16
+fén
+86.12
+燌.mp3
+
+燍
+['NONE']
+['NINGUNA']
+[]
+U+71CD
+16
+sī
+86.12
+燍.mp3
+
+燎
+['to burn, set afire', ' to illuminate', ' a signal lamp']
+['para quemar, prender fuego', 'iluminar', 'una lámpara de señal']
+['NONE', 'https://media.gettyimages.com/vectors/blue-light-beam-on-black-background-vector-id1071711902?k=6&m=1071711902&s=612x612&w=0&h=LLFsqIJjkDQJ8cxgZmOvj1U5c6EvNWHNKgFx-hiHLNM=', 'https://media.gettyimages.com/photos/empty-pit-garage-picture-id955894770?k=6&m=955894770&s=612x612&w=0&h=cwRfwdRXBflzlusuWv-v6m4tFnwJ7wZ5saJDLQl16x4=']
+U+71CE
+16
+liáo
+86.12
+燎.mp3
+
+燏
+['blaze']
+['resplandor']
+['https://media.gettyimages.com/photos/house-on-fire-that-the-firemen-are-trying-to-extinguish-picture-id157523541?k=6&m=157523541&s=612x612&w=0&h=kCzkrNchUrcgOrIJUbJuZp3oTYayE4a2LXeRUJp2uKo=']
+U+71CF
+16
+yù
+86.12
+燏.mp3
+
+燐
+['phosphorus']
+['fósforo']
+['https://media.gettyimages.com/photos/liming-lawn-picture-id1134581136?k=6&m=1134581136&s=612x612&w=0&h=lrtxgMc16Zy9Pez2nbp4Oocm0RPpznSqO7djZ3WUGks=']
+U+71D0
+16
+lín
+86.12
+燐.mp3
+
+燑
+['NONE']
+['NINGUNA']
+[]
+U+71D1
+16
+tóng
+86.12
+燑.mp3
+
+燒
+['burn', ' bake', ' heat', ' roast']
+['quemar', 'hornear', 'calor', 'asado']
+['https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=', 'https://media.gettyimages.com/photos/adding-raspberries-to-tasteful-blackberry-pie-picture-id942452228?k=6&m=942452228&s=612x612&w=0&h=89gXfpDLkm2oAsMxabo6lbzd7vXqAR4Iz9ORJD87XHc=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/photos/preparing-food-at-picnic-picture-id932487536?k=6&m=932487536&s=612x612&w=0&h=ZPgYB9OQ0k5DcS0iR9KCmLuqKEeugG6L7ZmLYdY9Ieo=']
+U+71D2
+16
+shāo
+86.12
+燒.mp3
+
+燓
+['NONE']
+['NINGUNA']
+[]
+U+71D3
+16
+fén
+86.12
+燓.mp3
+
+燔
+['to roast', ' to burn']
+['para asar', 'para quemar']
+['https://media.gettyimages.com/photos/preparing-food-at-picnic-picture-id932487536?k=6&m=932487536&s=612x612&w=0&h=ZPgYB9OQ0k5DcS0iR9KCmLuqKEeugG6L7ZmLYdY9Ieo=', 'https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=']
+U+71D4
+16
+fán
+86.12
+燔.mp3
+
+燕
+['swallow (bird)', ' comfort, enjoy']
+['tragar pajaro)', 'comodidad, disfruta']
+['https://media.gettyimages.com/photos/swallow-picture-id175426390?k=6&m=175426390&s=612x612&w=0&h=fMp2gG4fDVXM5TJGAIRGqbXZn7awrE9IhBcSY-0oml4=', 'https://media.gettyimages.com/photos/her-messages-always-make-him-smile-picture-id640313068?k=6&m=640313068&s=612x612&w=0&h=oZM_Ucn_SrUG2T-Zg4W-SiWUPPgf-HvG_vVJvvAp87Y=']
+U+71D5
+16
+yàn
+86.12
+燕.mp3
+
+燖
+['reheat food']
+['recalentar la comida']
+['https://media.gettyimages.com/photos/found-bread-thats-gluten-free-picture-id1095504764?k=6&m=1095504764&s=612x612&w=0&h=ws9yaqi2WoxwTZP30hlfWiCmSU43a9iX0kKqeF8Eypk=']
+U+71D6
+16
+xún
+86.12
+燖.mp3
+
+燗
+['warming sake, to heat sake']
+['calentar sake, calentar sake']
+['NONE']
+U+71D7
+16
+làn
+86.12
+燗.mp3
+
+燘
+['(Cant.) to suck or chew without using the teeth']
+['(Cant.) Chupar o masticar sin usar los dientes']
+['NONE']
+U+71D8
+16
+měi
+86.12
+燘.mp3
+
+燙
+['scald, heat', ' wash', ' iron clothes']
+['escaldado, calor', 'lavar', 'ropas de hierro']
+['https://media.gettyimages.com/photos/propane-stove-burner-picture-id157284659?k=6&m=157284659&s=612x612&w=0&h=aPSJRKzwxsXiMg5M_G6fo7isD8dYEknDbHcwh9XxTWI=', 'https://media.gettyimages.com/photos/gotta-make-sure-germs-have-a-zero-chance-picture-id1182622704?k=6&m=1182622704&s=612x612&w=0&h=fIlhFtSrpJblkUiV89YjzhFvulYbbKjnBtfqHBNuRBc=', 'https://media.gettyimages.com/photos/woman-ironing-white-cloth-closeup-picture-idsb10068962bg-001?k=6&m=sb10068962bg-001&s=612x612&w=0&h=y-QhQvoFgSmjg-Mjzeekcp3_5CXkhieV2wKnin5I714=']
+U+71D9
+16
+tàng
+86.12
+燙.mp3
+
+燚
+['NONE']
+['NINGUNA']
+[]
+U+71DA
+16
+yì
+86.12
+燚.mp3
+
+燛
+['NONE']
+['NINGUNA']
+[]
+U+71DB
+16
+jiǒng
+86.12
+燛.mp3
+
+燜
+['simmer, cook over slow fire']
+['hervir a fuego lento, cocinar a fuego lento']
+['NONE']
+U+71DC
+16
+mèn
+86.12
+燜.mp3
+
+燝
+['NONE']
+['NINGUNA']
+[]
+U+71DD
+16
+jing
+86.12
+燝.mp3
+
+燞
+['NONE']
+['NINGUNA']
+[]
+U+71DE
+16
+jiǎo
+86.12
+燞.mp3
+
+營
+['encampment, barracks', ' manage']
+['campamento, cuartel', 'gestionar']
+['https://media.gettyimages.com/vectors/secure-facility-vector-id165682592?k=6&m=165682592&s=612x612&w=0&h=Z-qq18eyBFb1ssqdp2Xoh58JilJi2t0YMVTJaLHU4cU=', 'https://media.gettyimages.com/photos/senior-woman-with-cancer-flexing-picture-id1149157781?k=6&m=1149157781&s=612x612&w=0&h=DdvtI_yxirJghxfM7syo90WjlfEhS1i7Co_-ldAKsXE=']
+U+71DF
+16
+yíng
+86.13
+營.mp3
+
+燠
+['warm', ' warmth']
+['calentar', 'calor']
+['https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=', 'https://media.gettyimages.com/vectors/air-conditioning-icons-line-series-vector-id1066939166?k=6&m=1066939166&s=612x612&w=0&h=w2Fe8aQkVX-u0ugU2Q2OEa8UISsRe0be0kHP-aGGdLo=']
+U+71E0
+16
+yù
+86.13
+燠.mp3
+
+燡
+['bright']
+['brillante']
+['https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=']
+U+71E1
+17
+yì
+86.13
+燡.mp3
+
+燢
+['NONE']
+['NINGUNA']
+[]
+U+71E2
+17
+xué
+86.13
+燢.mp3
+
+燣
+['disappointed']
+['decepcionado']
+['https://media.gettyimages.com/photos/real-displeased-senior-woman-portrait-picture-id947252896?k=6&m=947252896&s=612x612&w=0&h=oc3PYHeEG29wxCEnYvyyxvwauRXT2qH4aEGjrmObw5Y=']
+U+71E3
+17
+lán
+86.13
+燣.mp3
+
+燤
+['NONE']
+['NINGUNA']
+[]
+U+71E4
+16
+tài
+86.13
+燤.mp3
+
+燥
+['dry, parched, arid', ' quick-tempered']
+['seco, reseco, árido', 'irascible']
+['https://media.gettyimages.com/photos/scenic-view-of-barren-landscape-against-sky-picture-id767997893?k=6&m=767997893&s=612x612&w=0&h=CRkGjet2nZacgCYvfdvc7KFOC_IaD8jI_saXOpqaJkw=', 'https://media.gettyimages.com/photos/223057e007-picture-id87404339?k=6&m=87404339&s=612x612&w=0&h=iswMLCbYviD3pAEor8zzxnczApXFpDzCl_fBHgjHilA=']
+U+71E5
+17
+zào
+86.13
+燥.mp3
+
+燦
+['vivid, illuminating', ' bright']
+['vívido, esclarecedor', 'brillante']
+['https://media.gettyimages.com/photos/defocused-image-of-illuminated-lights-picture-id913967818?k=6&m=913967818&s=612x612&w=0&h=9HMyRZ_Wh5DGaxuGlLS5pLRgzpCa2g2NmwAbG0L_Jjw=', 'https://media.gettyimages.com/vectors/blue-light-star-on-black-background-vector-id1071711840?k=6&m=1071711840&s=612x612&w=0&h=6ftQo_3SPByc50jN0ElkzqmP72hha1mzv9MJTVAHlzQ=']
+U+71E6
+17
+càn
+86.13
+燦.mp3
+
+燧
+['flintstone', ' beacon, signal fire', ' torch']
+['Picapiedra', 'baliza, señal de fuego', 'antorcha']
+['https://media.gettyimages.com/illustrations/flint-tool-sharp-by-breaking-illustration-id1005381232?k=6&m=1005381232&s=612x612&w=0&h=j3LppTtOtzs8p2gWBfmWaDsITcLsc4NxBlRt_GvmgJc=', 'https://media.gettyimages.com/photos/red-and-blue-emergency-lights-picture-id183347367?k=6&m=183347367&s=612x612&w=0&h=cLnXbJv_awqIzIAIFNdNka0DIwWuOi957TkTV81P1Uw=', 'https://media.gettyimages.com/vectors/torch-vector-id667812604?k=6&m=667812604&s=612x612&w=0&h=Tdrj44QKiUgxU4bwQi0e7fdPunx8jE4tuIiBZDdKAwQ=']
+U+71E7
+16
+suì
+86.13
+燧.mp3
+
+燨
+['NONE']
+['NINGUNA']
+[]
+U+71E8
+17
+xī
+86.13
+燨.mp3
+
+燩
+['NONE']
+['NINGUNA']
+[]
+U+71E9
+17
+què
+86.13
+燩.mp3
+
+燪
+['NONE']
+['NINGUNA']
+[]
+U+71EA
+16
+zǒng
+86.13
+燪.mp3
+
+燫
+['NONE']
+['NINGUNA']
+[]
+U+71EB
+17
+lián
+86.13
+燫.mp3
+
+燬
+['burn down', ' blaze, fire']
+['quemar', 'resplandor, fuego']
+['https://media.gettyimages.com/photos/up-in-flames-picture-id102738895?k=6&m=102738895&s=612x612&w=0&h=VBpT5CuOVkdwZeuDr6iOUTYeoARmRXVR0A_Px0ZtPFU=', 'https://media.gettyimages.com/photos/house-on-fire-that-the-firemen-are-trying-to-extinguish-picture-id157523541?k=6&m=157523541&s=612x612&w=0&h=kCzkrNchUrcgOrIJUbJuZp3oTYayE4a2LXeRUJp2uKo=']
+U+71EC
+17
+huǐ
+86.13
+燬.mp3
+
+燭
+['candle, taper', ' to shine, illuminate']
+['vela, cono', 'brillar, iluminar']
+['https://media.gettyimages.com/vectors/icon-set-beauty-vector-id165598658?k=6&m=165598658&s=612x612&w=0&h=YkrbDJn1zNNwxHYEre2uORviPGB4rb3PhJvHMdzKS3k=', 'https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=']
+U+71ED
+17
+zhú
+86.13
+燭.mp3
+
+燮
+['harmonize, blend', ' adjust']
+['armonizar, mezclar', 'ajustar']
+['https://media.gettyimages.com/photos/star-hug-picture-id162984080?k=6&m=162984080&s=612x612&w=0&h=m5QideiH2aBP43vCy3U7mS8Z4NgvR3bLrnaVsL_tL7o=', 'https://media.gettyimages.com/vectors/compliance-line-icon-set-vector-id1087301088?k=6&m=1087301088&s=612x612&w=0&h=-ONRgSYqz6EOBhdHwPe-4qPJX_jMRZ5NZzc13TPKXEI=']
+U+71EE
+17
+xiè
+86.13
+燮.mp3
+
+燯
+['NONE']
+['NINGUNA']
+[]
+U+71EF
+17
+líng
+86.13
+燯.mp3
+
+燰
+['NONE']
+['NINGUNA']
+[]
+U+71F0
+17
+wēi
+86.13
+燰.mp3
+
+燱
+['NONE']
+['NINGUNA']
+[]
+U+71F1
+17
+yì
+86.13
+燱.mp3
+
+燲
+['NONE']
+['NINGUNA']
+[]
+U+71F2
+17
+xié
+86.13
+燲.mp3
+
+燳
+['NONE']
+['NINGUNA']
+[]
+U+71F3
+17
+zhào
+86.13
+燳.mp3
+
+燴
+['ragout, cook, braise']
+['estofado, cocinar, brasas']
+['NONE']
+U+71F4
+17
+huì
+86.13
+燴.mp3
+
+燵
+['a foot-warmer']
+['un calentador de pies']
+['NONE']
+U+71F5
+16
+dá
+86.13
+燵.mp3
+
+燶
+['(Cant.) to scorch, burn']
+['(Cant.) Quemar, quemar']
+['https://media.gettyimages.com/photos/cropped-hands-of-friends-holding-illuminated-sparklers-on-street-at-picture-id1144094791?k=6&m=1144094791&s=612x612&w=0&h=GfyfoY6-qv0I8Hi_vDOrIWy2fi6B9MuONE3t9c0m3UI=']
+U+71F6
+17
+nóng
+86.13
+燶.mp3
+
+燷
+['disappointed']
+['decepcionado']
+['https://media.gettyimages.com/photos/real-displeased-senior-woman-portrait-picture-id947252896?k=6&m=947252896&s=612x612&w=0&h=oc3PYHeEG29wxCEnYvyyxvwauRXT2qH4aEGjrmObw5Y=']
+U+71F7
+17
+lán
+86.13
+燷.mp3
+
+燸
+['NONE']
+['NINGUNA']
+[]
+U+71F8
+18
+rú
+86.14
+燸.mp3
+
+燹
+['fire', ' wild fires']
+['fuego', 'incendios forestales']
+['https://media.gettyimages.com/photos/fire-flame-on-white-picture-id157379217?k=6&m=157379217&s=612x612&w=0&h=YUsvS13f2GJ4WSUQiU1bI2MpjyAXzI9WdqxC81oaoxI=', 'https://media.gettyimages.com/vectors/travel-adventure-and-camping-icons-smart-series-vector-id605742348?k=6&m=605742348&s=612x612&w=0&h=T0v0-k3X7ONXuvymR6whTCSS2647tQGGq0AiR3IGMMI=']
+U+71F9
+18
+xiǎn
+86.14
+燹.mp3
+
+燺
+['the dry at the fire to roast']
+['el seco al fuego para asar']
+['https://media.gettyimages.com/photos/smoked-baby-back-ribs-picture-id157185118?k=6&m=157185118&s=612x612&w=0&h=h7txPHmhIQFRo2XFT32MtL_TGOUyicw78v9jaLI5P3s=']
+U+71FA
+18
+hè
+86.14
+燺.mp3
+
+燻
+['smoke, fog, vapor', ' smoke, cure']
+['humo, niebla, vapor', 'fumar, curar']
+['https://media.gettyimages.com/photos/smoke-caused-by-explosions-picture-id1187503245?k=6&m=1187503245&s=612x612&w=0&h=E0xkQixnp0-1Mb3CCeQ4L1FZbGRejUh_YXhHQPeS1hM=', 'https://media.gettyimages.com/vectors/drug-abuse-and-recovery-icons-vector-id1169632018?k=6&m=1169632018&s=612x612&w=0&h=dyS0ZY91Dy7yQ9SDbODRW_MJ5vYblJqDEpjgGAJYbeg=']
+U+71FB
+18
+xūn
+86.14
+燻.mp3
+
+燼
+['cinders, ashes, embers', ' remnants']
+['cenizas, cenizas, brasas', 'restos']
+['https://media.gettyimages.com/photos/glowing-coal-picture-id84057357?k=6&m=84057357&s=612x612&w=0&h=w48KZrhbfuNRPiOnvcuY_1dxpZ1xEu5t4GVWh_bvZNA=', 'https://media.gettyimages.com/photos/the-remnants-of-the-wildest-city-in-the-wild-west-picture-id1000435400?k=6&m=1000435400&s=612x612&w=0&h=jhp_YhR95Gi7OKH_NC4L1oewdMRgmBqfOY9lUQKRaO0=']
+U+71FC
+18
+jìn
+86.14
+燼.mp3
+
+燽
+['NONE']
+['NINGUNA']
+[]
+U+71FD
+18
+chóu
+86.14
+燽.mp3
+
+燾
+['shine, illuminate', ' cover, envelope']
+['brillar, iluminar', 'cubierta, sobre']
+['https://media.gettyimages.com/vectors/golden-dust-glitter-background-vector-id1058467758?k=6&m=1058467758&s=612x612&w=0&h=zk0jpgZFKadK_s2LIDcBPVDw5dOl1-SMS9QS1w83kCk=', 'https://media.gettyimages.com/photos/glamorous-middle-eastern-woman-covering-face-with-pink-purse-picture-id905551934?k=6&m=905551934&s=612x612&w=0&h=9SrsfUPt85vp6LnU9RCPFJh3-ByWwt_vrFJAvwumY-0=']
+U+71FE
+18
+dào
+86.14
+燾.mp3
+
+燿
+['shine, dazzle', ' brilliant, radiant']
+['brillar, deslumbrar', 'brillante, radiante']
+['https://media.gettyimages.com/photos/diamond-background-picture-id108190087?k=6&m=108190087&s=612x612&w=0&h=VZEGdIW87iNZ9saSYfZO8uIhO6SzTtz7WJr-FFYESuc=', 'https://media.gettyimages.com/photos/son-blowing-confetti-over-proud-father-holding-hammer-at-home-picture-id951533054?k=6&m=951533054&s=612x612&w=0&h=uMn_4PVKrpqtjHBraBFXaJ483PjLalqEzMouiOJk0VY=']
+U+71FF
+18
+yào
+86.14
+燿.mp3
+
+爀
+['NONE']
+['NINGUNA']
+[]
+U+7200
+18
+hè
+86.14
+爀.mp3
+
+爁
+['NONE']
+['NINGUNA']
+[]
+U+7201
+18
+làn
+86.14
+爁.mp3
+
+爂
+['NONE']
+['NINGUNA']
+[]
+U+7202
+19
+biāo
+86.14
+爂.mp3
+
+爃
+['NONE']
+['NINGUNA']
+[]
+U+7203
+18
+róng
+86.14
+爃.mp3
+
+爄
+['NONE']
+['NINGUNA']
+[]
+U+7204
+18
+lì
+86.15
+爄.mp3
+
+爅
+['NONE']
+['NINGUNA']
+[]
+U+7205
+19
+mò
+86.15
+爅.mp3
+
+爆
+['crackle, pop, burst, explode']
+['crepitar, estallar, estallar, estallar']
+['https://media.gettyimages.com/photos/firework-snap-crackle-pop-picture-id975776558?k=6&m=975776558&s=612x612&w=0&h=AVAgGh4W_NFXgmWb6th9kaN0csBykDMsKqKuDM6VvCg=']
+U+7206
+19
+bào
+86.15
+爆.mp3
+
+爇
+['burn']
+['quemar']
+['https://media.gettyimages.com/photos/burnt-holes-in-a-piece-of-paper-picture-id471102149?k=6&m=471102149&s=612x612&w=0&h=krxgqBNENBw2YXWu_FMhXUhcuOyl72D_EV9KXdK5lSc=']
+U+7207
+18
+ruò
+86.15
+爇.mp3
+
+爈
+['NONE']
+['NINGUNA']
+[]
+U+7208
+19
+lǜ
+86.15
+爈.mp3
+
+爉
+['NONE']
+['NINGUNA']
+[]
+U+7209
+19
+là
+86.15
+爉.mp3
+
+爊
+['to stew, cook']
+['guisar, cocinar']
+['https://media.gettyimages.com/photos/meat-stew-in-cooking-pot-on-dark-rustic-kitchen-table-background-picture-id1131392515?k=6&m=1131392515&s=612x612&w=0&h=baEzVqOxMfkaAcWJES92UVrkGyzfZ0MO6ikQSkMHtEE=']
+U+720A
+19
+āo
+86.15
+爊.mp3
+
+爋
+['NONE']
+['NINGUNA']
+[]
+U+720B
+20
+xūn
+86.16
+爋.mp3
+
+爌
+['NONE']
+['NINGUNA']
+[]
+U+720C
+18
+kuàng
+86.15
+爌.mp3
+
+爍
+['shine, glitter, sparkle']
+['brillo, brillo, brillo']
+['https://media.gettyimages.com/vectors/bokeh-light-grey-background-vector-id997691350?k=6&m=997691350&s=612x612&w=0&h=0e_1m8poDNgWwxL8cuetwQw7Vs8eZ9S3Ydmv3AfENNI=']
+U+720D
+19
+shuò
+86.15
+爍.mp3
+
+爎
+['NONE']
+['NINGUNA']
+[]
+U+720E
+19
+liáo
+86.15
+爎.mp3
+
+爏
+['NONE']
+['NINGUNA']
+[]
+U+720F
+20
+lì
+86.16
+爏.mp3
+
+爐
+['fireplace, stove, oven, furnace']
+['chimenea, estufa, horno, horno']
+['https://media.gettyimages.com/photos/fire-in-a-pizza-oven-picture-id1050683010?k=6&m=1050683010&s=612x612&w=0&h=CaA6qtFjRru7PppnglVMC0mPQKctMcyOjtViYkTnwp4=']
+U+7210
+20
+lú
+86.16
+爐.mp3
+
+爑
+['NONE']
+['NINGUNA']
+[]
+U+7211
+19
+jué
+86.16
+爑.mp3
+
+爒
+['NONE']
+['NINGUNA']
+[]
+U+7212
+20
+liǎo
+86.16
+爒.mp3
+
+爓
+['flame', ' brilliant, blazing']
+['fuego', 'brillante, ardiente']
+['https://media.gettyimages.com/vectors/fire-icons-vector-id165923036?k=6&m=165923036&s=612x612&w=0&h=6z4pvfEo3xSKrZ6zPtxS0eQDpc4tjlREN_faezjTaHc=', 'https://media.gettyimages.com/photos/closeup-of-chefs-hands-holding-a-saute-pan-to-cook-food-flambeing-picture-id945578702?k=6&m=945578702&s=612x612&w=0&h=V0mEjngY83KXSIhlASPKj9KolDXwi4bGekXBzKgvIyw=']
+U+7213
+20
+yàn
+86.16
+爓.mp3
+
+爔
+['NONE']
+['NINGUNA']
+[]
+U+7214
+20
+xī
+86.16
+爔.mp3
+
+爕
+['NONE']
+['NINGUNA']
+[]
+U+7215
+19
+xiè
+86.15
+爕.mp3
+
+爖
+['fire']
+['fuego']
+['https://media.gettyimages.com/photos/fire-flame-on-white-picture-id157379217?k=6&m=157379217&s=612x612&w=0&h=YUsvS13f2GJ4WSUQiU1bI2MpjyAXzI9WdqxC81oaoxI=']
+U+7216
+20
+lóng
+86.16
+爖.mp3
+
+爗
+['NONE']
+['NONE']
+[]
+U+7217
+18
+yè
+86.16
+爗.mp3
+
+爘
+['NONE']
+['NINGUNA']
+[]
+U+7218
+20
+cān
+86.16
+爘.mp3
+

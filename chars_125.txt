@@ -1,0 +1,2560 @@
+礙
+['obstruct, hinder, block, deter']
+['obstruir, obstaculizar, bloquear, disuadir']
+['NONE']
+U+7919
+19
+ài
+112.14
+礙.mp3
+
+礚
+['NONE']
+['NINGUNA']
+[]
+U+791A
+18
+kē
+112.14
+礚.mp3
+
+礛
+['NONE']
+['NINGUNA']
+[]
+U+791B
+19
+jiān
+112.14
+礛.mp3
+
+礜
+['NONE']
+['NINGUNA']
+[]
+U+791C
+18
+yù
+112.14
+礜.mp3
+
+礝
+['NONE']
+['NINGUNA']
+[]
+U+791D
+19
+ruǎn
+112.14
+礝.mp3
+
+礞
+['NONE']
+['NINGUNA']
+[]
+U+791E
+18
+méng
+112.14
+礞.mp3
+
+礟
+['ancient ballista for throwing heavy stones', ' a cannon, a gun']
+['balista antigua para lanzar piedras pesadas', 'un cañón, una pistola']
+['NONE', 'https://media.gettyimages.com/illustrations/antique-illustration-of-scientific-discoveries-war-weapons-and-illustration-id1128255087?k=6&m=1128255087&s=612x612&w=0&h=ez-MjLxXL6Boc_bHol4JcFRSm5YQT_8YsxxBV9a9FGo=']
+U+791F
+19
+pào
+112.14
+礟.mp3
+
+礠
+['NONE']
+['NINGUNA']
+[]
+U+7920
+18
+cí
+112.14
+礠.mp3
+
+礡
+['fill, extend']
+['llenar, extender']
+['https://media.gettyimages.com/photos/dairy-factory-in-africa-picture-id1156873334?k=6&m=1156873334&s=612x612&w=0&h=JubJ08HPTezHqgNb-Q9Z40ldG7SARFmP0ZrqdRhznb0=']
+U+7921
+18
+bó
+112.14
+礡.mp3
+
+礢
+['NONE']
+['NINGUNA']
+[]
+U+7922
+19
+yǎng
+112.15
+礢.mp3
+
+礣
+['NONE']
+['NINGUNA']
+[]
+U+7923
+19
+mà
+112.15
+礣.mp3
+
+礤
+['NONE']
+['NINGUNA']
+[]
+U+7924
+19
+cǎ
+112.15
+礤.mp3
+
+礥
+['NONE']
+['NINGUNA']
+[]
+U+7925
+20
+xián
+112.15
+礥.mp3
+
+礦
+['mine', ' mineral, ore']
+['mía', 'mineral, mineral']
+['https://media.gettyimages.com/photos/grassland-hills-and-cloud-picture-id579021062?k=6&m=579021062&s=612x612&w=0&h=eiPNupocg2hrh2OV5ES6gG59f2TEt1XWI5_cyULHPdM=', 'https://media.gettyimages.com/photos/small-pieces-of-strong-metal-ore-picture-id157526585?k=6&m=157526585&s=612x612&w=0&h=fgsH5AgmmVUAyvirdYUI1nRCIM7bL9SW6sjZ5lOR_dM=']
+U+7926
+19
+kuàng
+112.15
+礦.mp3
+
+礧
+['roll']
+['rodar']
+['https://media.gettyimages.com/photos/bread-on-wood-picture-id157313175?k=6&m=157313175&s=612x612&w=0&h=keWsQk-D7sJyiI3t1QE1innZvqT4NIN9ayr-vk_5m-E=']
+U+7927
+20
+léi
+112.15
+礧.mp3
+
+礨
+['NONE']
+['NINGUNA']
+[]
+U+7928
+20
+lěi
+112.15
+礨.mp3
+
+礩
+['NONE']
+['NINGUNA']
+[]
+U+7929
+20
+zhì
+112.15
+礩.mp3
+
+礪
+['whetstone', ' sharpen']
+['piedra de afilar', 'afilar']
+['https://media.gettyimages.com/photos/adult-man-hands-sharpening-rusty-axe-with-whetstone-picture-id470634960?k=6&m=470634960&s=612x612&w=0&h=-cgIeqc4-KjI5sorcXA1iY-5jRgcga6O9iYr5cIdNOE=', 'https://media.gettyimages.com/photos/closeup-of-a-chef-sharpening-a-large-kitchen-knife-blade-with-a-steel-picture-id945578694?k=6&m=945578694&s=612x612&w=0&h=p9u6OwhlgVFWcUWWvTSShJAbM4uE58S0Wx3zweMC6gY=']
+U+792A
+19
+lì
+112.15
+礪.mp3
+
+礫
+['gravel, pebbles, potsherds']
+['grava, guijarros, tiestos']
+['NONE']
+U+792B
+20
+lì
+112.15
+礫.mp3
+
+礬
+['alum']
+['alumbre']
+['https://media.gettyimages.com/photos/graduation-day-picture-id1066324992?k=6&m=1066324992&s=612x612&w=0&h=PUdDocvWkqMoIonaWHahqNP6wL0or9IjAZuZimthJTA=']
+U+792C
+20
+fán
+112.15
+礬.mp3
+
+礭
+['NONE']
+['NINGUNA']
+[]
+U+792D
+21
+què
+112.16
+礭.mp3
+
+礮
+['ancient ballista for throwing heavy stones a cannon, a gun']
+['balista antigua para lanzar piedras pesadas un cañón, una pistola']
+['NONE']
+U+792E
+21
+pào
+112.16
+礮.mp3
+
+礯
+['NONE']
+['NINGUNA']
+[]
+U+792F
+21
+yīng
+112.16
+礯.mp3
+
+礰
+['NONE']
+['NINGUNA']
+[]
+U+7930
+21
+lì
+112.16
+礰.mp3
+
+礱
+['grind, sharpen', ' mill']
+['moler, afilar', 'desde']
+['https://media.gettyimages.com/photos/craftsman-cutting-metal-and-using-angle-grinder-in-workshop-picture-id925273746?k=6&m=925273746&s=612x612&w=0&h=d31vjqGeMDEm2vkHIyy2u44YXQzDsPgdoiex7-qIu7E=', 'https://media.gettyimages.com/photos/wind-turbines-against-blue-sky-picture-id1053567676?k=6&m=1053567676&s=612x612&w=0&h=qDHGV97fyHmWonuIf9ldLmCdAvLcpAWLxkD6ElxjOPQ=']
+U+7931
+21
+lóng
+112.16
+礱.mp3
+
+礲
+['NONE']
+['NINGUNA']
+[]
+U+7932
+21
+lóng
+112.16
+礲.mp3
+
+礳
+['name of place in shan xi province']
+['nombre del lugar en la provincia de shan xi']
+['NONE']
+U+7933
+21
+mò
+112.16
+礳.mp3
+
+礴
+['fill, extend']
+['llenar, extender']
+['https://media.gettyimages.com/photos/dairy-factory-in-africa-picture-id1156873334?k=6&m=1156873334&s=612x612&w=0&h=JubJ08HPTezHqgNb-Q9Z40ldG7SARFmP0ZrqdRhznb0=']
+U+7934
+21
+bó
+112.16
+礴.mp3
+
+礵
+['arsenic']
+['arsénico']
+['https://media.gettyimages.com/photos/arsenic-sulfide-mineral-picture-id184957763?k=6&m=184957763&s=612x612&w=0&h=4aWeKovd4nOya0JPvig42uhdhPP_8jL5ub-reR3OUxk=']
+U+7935
+22
+shuāng
+112.17
+礵.mp3
+
+礶
+['a jug, a pitcher, a jar, a pot']
+['una jarra, una jarra, una jarra, una olla']
+['https://media.gettyimages.com/photos/white-ceramic-pitcher-isolated-on-white-background-picture-id1049728814?k=6&m=1049728814&s=612x612&w=0&h=_UeB2Hq2nCkJ053Vs7NLTErHfRixoWrTXqOHl2IR-t4=']
+U+7936
+22
+guàn
+112.18
+礶.mp3
+
+礷
+['NONE']
+['NINGUNA']
+[]
+U+7937
+22
+lán
+112.18
+礷.mp3
+
+礸
+['NONE']
+['NINGUNA']
+[]
+U+7938
+24
+cǎ
+112.19
+礸.mp3
+
+礹
+['NONE']
+['NINGUNA']
+[]
+U+7939
+24
+yán
+112.20
+礹.mp3
+
+示
+['show, manifest', ' demonstrate']
+['mostrar, manifestar', 'demostrar']
+['https://media.gettyimages.com/photos/manifest-panel-at-paley-live-in-new-york-city-pictured-jr-ramirez-picture-id1097931692?k=6&m=1097931692&s=612x612&w=0&h=c9VfUiX1-EWObXvvd2SZf9RT2Ug1lCVS-1D4iboroys=', 'https://media.gettyimages.com/photos/speaker-addressing-group-of-females-picture-id1094465614?k=6&m=1094465614&s=612x612&w=0&h=q4tXChpqAkaq3k58SdoGjZM24pPXxh3VHd4njdj2v-A=']
+U+793A
+5
+shì
+113.0
+示.mp3
+
+礻
+['cult', ' radical number 113']
+['culto', 'número radical 113']
+['https://media.gettyimages.com/photos/group-of-people-silhouette-arms-raised-in-praise-blue-light-picture-id157189357?k=6&m=157189357&s=612x612&w=0&h=OWgcLRtaVEv1SOGgmgU5zhnkWYSaLaxMmoacNmylsLQ=', 'NONE']
+U+793B
+4
+shì
+113.0
+礻.mp3
+
+礼
+['social custom', ' manners', ' courtesy']
+['costumbre social', 'modales', 'cortesía']
+['https://media.gettyimages.com/photos/the-love-of-best-friends-picture-id972902038?k=6&m=972902038&s=612x612&w=0&h=Q5EbQ5RhL2ZXM3lnQobRgjEK0g8YM9T4hmbof0sBbf8=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=', 'https://media.gettyimages.com/photos/businessmen-greeting-picture-id72420856?k=6&m=72420856&s=612x612&w=0&h=i-zZ8lIyFq8olmBUBfGNzW37am7g4PXz7WgNO-j3t3Y=']
+U+793C
+5
+lǐ
+113.1
+礼.mp3
+
+礽
+['blessings, happiness']
+['bendiciones, felicidad']
+['https://media.gettyimages.com/photos/turning-prayer-into-a-meaningful-practice-for-her-picture-id859641802?k=6&m=859641802&s=612x612&w=0&h=xELD1-j8-I0TZIS1GnaTZ8HQ6Z3R9iuqu0kOUEg7e7Y=']
+U+793D
+6
+réng
+113.2
+礽.mp3
+
+社
+['god of the soil and altars to him', ' group of families', ' company, society']
+['dios de la tierra y altares para él', 'grupo de familias', 'empresa, sociedad']
+['https://media.gettyimages.com/photos/stone-cross-islas-cies-spain-picture-id596114900?k=6&m=596114900&s=612x612&w=0&h=Xm0Rqeds2iUmOQ675CcPfqTBHVFPglqnTGvqhgtt9DE=', 'https://media.gettyimages.com/photos/man-taking-group-photo-of-family-at-bbq-picture-id1014773704?k=6&m=1014773704&s=612x612&w=0&h=966NRhhqoCR1yR9UPEN-4iqV7St2ujsxKC0KV4lkcqU=', 'https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=']
+U+793E
+7
+shè
+113.3
+社.mp3
+
+礿
+['sacrifice']
+['sacrificio']
+['https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+793F
+7
+yuè
+113.3
+礿.mp3
+
+祀
+['to sacrifice, worship']
+['sacrificar, adorar']
+['https://media.gettyimages.com/vectors/christianity-line-icons-vector-id917559556?k=6&m=917559556&s=612x612&w=0&h=HjeqoaANnPEb2Nvdar_NUP9Qtgj-0z38-AKcgn-Pp40=']
+U+7940
+7
+sì
+113.3
+祀.mp3
+
+祁
+['pray', ' numerous, ample, abundant']
+['orar', 'numeroso, amplio, abundante']
+['https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=', 'https://media.gettyimages.com/photos/scattering-of-printed-portraits-picture-id546206501?k=6&m=546206501&s=612x612&w=0&h=j-RC3fc492UoAW5iqOYoXOzP9loonhwUOTZi9M9m6Q8=']
+U+7941
+6
+qí
+113.3
+祁.mp3
+
+祂
+['he (honorific form, generally used for the Abrahamic God)']
+['él (forma honorífica, generalmente usada para el Dios abrahámico)']
+['NONE']
+U+7942
+7
+tā
+113.3
+祂.mp3
+
+祃
+['a sacrifice at the beginning of a military campaign']
+['un sacrificio al comienzo de una campaña militar']
+['NONE']
+U+7943
+7
+mà
+113.3
+祃.mp3
+
+祄
+['NONE']
+['NINGUNA']
+[]
+U+7944
+8
+xiè
+113.4
+祄.mp3
+
+祅
+['calamities, disasters', ' Ormazda']
+['calamidades, desastres', 'Ormazda']
+['https://media.gettyimages.com/photos/victims-relief-camp-in-choglamsar-due-to-flashflood-leh-ladakh-jammu-picture-id520765046?k=6&m=520765046&s=612x612&w=0&h=ux-doRkplnSbDNup3Bh7WduqMAV3GJIz2ME7-yFxjn8=', 'NONE']
+U+7945
+8
+yāo
+113.4
+祅.mp3
+
+祆
+['Ormazda, god of the Zoroastrians', ' extended to god of the Manicheans']
+['Ormazda, dios de los zoroastrianos', 'extendido al dios de los maniqueos']
+['NONE', 'NONE']
+U+7946
+8
+xiān
+113.4
+祆.mp3
+
+祇
+['the spirit of the earth', ' (used for ']
+['el espíritu de la tierra', '(usado para']
+['https://media.gettyimages.com/photos/spirit-mars-exploration-rover-on-the-flank-of-husband-hill-picture-id84519086?k=6&m=84519086&s=612x612&w=0&h=_bh87adBI69lY5u2zVnNziG1AdLsQUz2qUJmYO0Ttas=', 'https://media.gettyimages.com/vectors/light-colored-beige-vintage-paper-vector-id959104114?k=6&m=959104114&s=612x612&w=0&h=LUUascdSEP4mUVCVEFVUXdS8TZKnevjNQKgp3RgaN2w=']
+U+7947
+8
+qí
+113.4
+祇.mp3
+
+祈
+['pray', ' entreat, beseech']
+['orar', 'suplicar, suplicar']
+['https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=', 'https://media.gettyimages.com/vectors/vector-japanese-kanji-character-pray-vector-id165028999?k=6&m=165028999&s=612x612&w=0&h=JQheVtxuiPnpnRlCJ_8oWMT5Mf_lmlmAtwWljgrM7xw=']
+U+7948
+8
+qí
+113.4
+祈.mp3
+
+祉
+['happiness, blessings, good luck']
+['felicidad, bendiciones, buena suerte']
+['https://media.gettyimages.com/vectors/china-traditional-auspicious-symbols3-vector-id866429078?k=6&m=866429078&s=612x612&w=0&h=-UGx3Ra43TQzYasVWwrdiSDSuVaZCksE-Dd_zRJPMMY=']
+U+7949
+8
+zhǐ
+113.4
+祉.mp3
+
+祊
+['river in Shandong', ' space inside']
+['río en Shandong', 'espacio interior']
+['https://media.gettyimages.com/photos/long-exposure-in-qingdao-picture-id165103822?k=6&m=165103822&s=612x612&w=0&h=W21TNllpv-6orkerccQTVtO-6hNLQKhT7vOzznKfG3w=', 'https://media.gettyimages.com/photos/empty-frame-on-living-rooms-wall-with-library-picture-id990270706?k=6&m=990270706&s=612x612&w=0&h=b4PN94aDtXQ0XPFweD0ku4lrRINOI9ZA2FLtFqfDEUM=']
+U+794A
+8
+bēng
+113.4
+祊.mp3
+
+祋
+['NONE']
+['NINGUNA']
+[]
+U+794B
+8
+duì
+113.4
+祋.mp3
+
+祌
+['NONE']
+['NINGUNA']
+[]
+U+794C
+8
+zhòng
+113.4
+祌.mp3
+
+祍
+['NONE']
+['NINGUNA']
+[]
+U+794D
+9
+rèn
+113.4
+祍.mp3
+
+祎
+['excellent']
+['excelente']
+['https://media.gettyimages.com/photos/perfectionist-garden-gardening-perfection-grass-scissors-humor-picture-id155446464?k=6&m=155446464&s=612x612&w=0&h=V458QuDxRigfimRbYWrIKb7eBQDDa3YU4EpfMaLJ8oY=']
+U+794E
+8
+yī
+113.4
+祎.mp3
+
+祏
+['shrine']
+['santuario']
+['https://media.gettyimages.com/photos/torii-gate-picture-id157396562?k=6&m=157396562&s=612x612&w=0&h=Z6hTHjDjHI8lQImDJAHsnkvj7u9TDtlGf2MCJJ7a3UM=']
+U+794F
+9
+shí
+113.5
+祏.mp3
+
+祐
+['divine intervention, protection']
+['intervención divina, protección']
+['NONE']
+U+7950
+9
+yòu
+113.5
+祐.mp3
+
+祑
+['NONE']
+['NINGUNA']
+[]
+U+7951
+9
+zhì
+113.5
+祑.mp3
+
+祒
+['NONE']
+['NINGUNA']
+[]
+U+7952
+9
+tiáo
+113.5
+祒.mp3
+
+祓
+['exorcise, remove evil', ' clean']
+['exorcizar, eliminar el mal', 'limpiar']
+['NONE', 'https://media.gettyimages.com/photos/take-that-germs-picture-id1067328530?k=6&m=1067328530&s=612x612&w=0&h=BKZJ2Zbf5ehrPihjWAvbReRZKMdNR7KTxgIwnhdJwgk=']
+U+7953
+9
+fú
+113.5
+祓.mp3
+
+祔
+["worship one's ancestors", ' entomb']
+['adorar a los antepasados', 'enterrar']
+['NONE', 'https://media.gettyimages.com/photos/israel-beit-shearim-interior-of-a-catacomb-picture-id1022784642?k=6&m=1022784642&s=612x612&w=0&h=7bz6TXNnnJk4vbDIcNv8VcGUzwPVTLtQvJ_m8KH5vpc=']
+U+7954
+9
+fù
+113.5
+祔.mp3
+
+祕
+['mysterious, secret, abstruse']
+['misterioso, secreto, abstruso']
+['https://media.gettyimages.com/illustrations/abandoned-old-train-at-twilight-illustration-id709126385?k=6&m=709126385&s=612x612&w=0&h=l64jB52m774k-TME1eJIRa1Kk7lHa5oE4w3AzkeAap0=']
+U+7955
+9
+mì
+113.5
+祕.mp3
+
+祖
+['ancestor, forefather', ' grandfather']
+['antepasado, antepasado', 'abuelo']
+['NONE', 'https://media.gettyimages.com/photos/great-grandfather-filled-with-joy-embracing-his-great-grandson-picture-id1019949298?k=6&m=1019949298&s=612x612&w=0&h=Y36ctVhyrQpPYKGbjJRuToQT1HhY7wRKZmuJpaQjif0=']
+U+7956
+9
+zǔ
+113.5
+祖.mp3
+
+祗
+['respect, look up to, revere']
+['respetar, mirar hacia arriba, reverenciar']
+['https://media.gettyimages.com/photos/contented-senior-professional-businessman-listening-to-young-picture-id1047699296?k=6&m=1047699296&s=612x612&w=0&h=OUQvrGvS9mNhvrIjjmG69iPbHe5Q7OITN9elOyQ9Fto=']
+U+7957
+9
+zhī
+113.5
+祗.mp3
+
+祘
+['to calculate']
+['calcular']
+['https://media.gettyimages.com/photos/young-business-girl-looks-through-telescope-picture-id864707740?k=6&m=864707740&s=612x612&w=0&h=HYRZrAe_pUN6k4MUlrlk7_LHaXraalaGhYQYWFOlgA0=']
+U+7958
+10
+suàn
+113.5
+祘.mp3
+
+祙
+['demon']
+['demonio']
+['https://media.gettyimages.com/photos/grim-reaper-picture-id827848238?k=6&m=827848238&s=612x612&w=0&h=QGRLcBdz978HwEfdUpUCViMQ4Rv1P4-O79-hqrkWfmM=']
+U+7959
+9
+mèi
+113.5
+祙.mp3
+
+祚
+['throne', ' bless', ' blessing, happiness']
+['trono', 'bendecir', 'bendición, felicidad']
+['https://media.gettyimages.com/photos/ornate-chair-picture-id530388194?k=6&m=530388194&s=612x612&w=0&h=ajil3Bnoauwcsnwzym6BvsiCbKpl7HUBd7be18oxQtQ=', 'https://media.gettyimages.com/photos/priest-picture-id908036094?k=6&m=908036094&s=612x612&w=0&h=BGZk3aI8Zw3pbiNy6DH0awOpQgQiO51jpl6btlrKnoM=', 'https://media.gettyimages.com/photos/businessman-smiling-with-arms-outstretched-picture-id502659354?k=6&m=502659354&s=612x612&w=0&h=lat2739pcZK_BDJIhTMbHlojfhmQ_tVMHPtjr-DD3fI=']
+U+795A
+9
+zuò
+113.5
+祚.mp3
+
+祛
+['expel, disperse, exorcise']
+['expulsar, dispersar, exorcizar']
+['https://media.gettyimages.com/vectors/banned-rubber-stamp-ink-imprint-icon-vector-id476438414?k=6&m=476438414&s=612x612&w=0&h=pvZH9NglD_l49soQWPMesj-IIW5BqTPu6BzxmjgaUKU=']
+U+795B
+9
+qū
+113.5
+祛.mp3
+
+祜
+['blessing, happiness, prosperity']
+['bendición, felicidad, prosperidad']
+['https://media.gettyimages.com/vectors/money-rain-vector-id851794822?k=6&m=851794822&s=612x612&w=0&h=ND_U5d3x8maTsC-xJ8LNk1KXPInBDd-qmO0DMrFGwIg=']
+U+795C
+9
+hù
+113.5
+祜.mp3
+
+祝
+['pray for happiness or blessings']
+['reza por felicidad o bendiciones']
+['https://media.gettyimages.com/photos/turning-prayer-into-a-meaningful-practice-for-her-picture-id859641802?k=6&m=859641802&s=612x612&w=0&h=xELD1-j8-I0TZIS1GnaTZ8HQ6Z3R9iuqu0kOUEg7e7Y=']
+U+795D
+9
+zhù
+113.5
+祝.mp3
+
+神
+['spirit, god, supernatural being']
+['espíritu, dios, ser sobrenatural']
+['https://media.gettyimages.com/vectors/alchemy-and-mystery-cult-related-vector-icons-vector-id484396772?k=6&m=484396772&s=612x612&w=0&h=Kls37ro7AC0xsqL0wFGrqUno7-uFqELiMzs_ZwGbruA=']
+U+795E
+9
+shén
+113.5
+神.mp3
+
+祟
+['evil spirit', ' evil influence']
+['Espíritu maligno', 'influencia maligna']
+['https://media.gettyimages.com/vectors/frightening-face-in-white-emerging-from-a-white-background-vector-id135094926?k=6&m=135094926&s=612x612&w=0&h=03rrVcekvOP0SVoxC3o9_84Mc1DWjGifU4D8hxMrnuM=', 'https://media.gettyimages.com/vectors/businessman-with-angel-and-devil-on-his-shoulders-vector-id165794335?k=6&m=165794335&s=612x612&w=0&h=8F19JRD72BN1I8b0xz9u87COR8JlFUImON2mY96-SyM=']
+U+795F
+10
+suì
+113.5
+祟.mp3
+
+祠
+['ancestral temple', ' offer sacrifice']
+['templo ancestral', 'ofrecer sacrificio']
+['https://media.gettyimages.com/photos/artistic-sculpted-statues-at-madurai-meenakshi-temple-picture-id535864308?k=6&m=535864308&s=612x612&w=0&h=8TcJwIQDAgj5WaVeVt6THbTTSzjBqENHnuS_J_4jqGA=', 'https://media.gettyimages.com/vectors/hands-illustration-vector-id505971874?k=6&m=505971874&s=612x612&w=0&h=eDil4P22otYU0aPOzvW8-0t41zx1wCBxXQ72TeLyl3w=']
+U+7960
+9
+cí
+113.5
+祠.mp3
+
+祡
+['NONE']
+['NINGUNA']
+[]
+U+7961
+11
+chái
+113.5
+祡.mp3
+
+祢
+["one's deceased father", ' used as a synonym for ']
+['el padre fallecido', 'utilizado como sinónimo de']
+['https://media.gettyimages.com/photos/family-visiting-grave-of-deceased-loved-one-picture-id1054245004?k=6&m=1054245004&s=612x612&w=0&h=l0GhmZk9PgZDUeWJYPSw5jmlpaWBQAgUFlFQe-h5rag=', 'NONE']
+U+7962
+9
+mí
+113.5
+祢.mp3
+
+祣
+['NONE']
+['NINGUNA']
+[]
+U+7963
+10
+lǚ
+113.6
+祣.mp3
+
+祤
+['NONE']
+['NINGUNA']
+[]
+U+7964
+10
+yǔ
+113.6
+祤.mp3
+
+祥
+['good luck, good omen', ' happiness']
+['buena suerte, buen augurio', 'felicidad']
+['https://media.gettyimages.com/photos/neatly-arranged-fortune-cookies-picture-id1185472917?k=6&m=1185472917&s=612x612&w=0&h=6sFPXURLVnzSHzjd_cdf3ufJlBdpvmgt_hr88uQSoEQ=', 'https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=']
+U+7965
+10
+xiáng
+113.6
+祥.mp3
+
+祦
+['happiness', ' good fortune good luck', ' blessing', ' bliss']
+['felicidad', 'buena suerte buena suerte', 'bendición', 'felicidad']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=', 'https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+7966
+11
+wú
+113.7
+祦.mp3
+
+祧
+['an ancestral hall']
+['un salón ancestral']
+['https://media.gettyimages.com/photos/village-with-some-remnants-of-the-old-buildingss-the-ancestral-hall-picture-id909519124?k=6&m=909519124&s=612x612&w=0&h=jwRuLoP-WIkxYn6_bw_hXXrBkspnm02LKxJuQVdLF_4=']
+U+7967
+10
+tiāo
+113.6
+祧.mp3
+
+票
+['slip of paper or bamboo', ' ticket']
+['trozo de papel o bambú', 'boleto']
+['https://media.gettyimages.com/photos/after-the-party-picture-id1186454611?k=6&m=1186454611&s=612x612&w=0&h=9G6gWxl_oyv7EryFI0wD3A9_a0-s9GC7GNj1QIWfEJE=', 'https://media.gettyimages.com/vectors/admit-one-event-ticket-vector-id1090533854?k=6&m=1090533854&s=612x612&w=0&h=5pteaH61KnShToYVpgVa86LkokrsajsGAUFoyCa7hcQ=']
+U+7968
+11
+piào
+113.6
+票.mp3
+
+祩
+['NONE']
+['NINGUNA']
+[]
+U+7969
+10
+zhù
+113.6
+祩.mp3
+
+祪
+['NONE']
+['NINGUNA']
+[]
+U+796A
+10
+guǐ
+113.6
+祪.mp3
+
+祫
+["triennial sacrifice to one's ancestors"]
+['sacrificio trienal a los antepasados']
+['NONE']
+U+796B
+10
+xiá
+113.6
+祫.mp3
+
+祬
+['NONE']
+['NINGUNA']
+[]
+U+796C
+10
+zhī
+113.6
+祬.mp3
+
+祭
+['sacrifice to, worship']
+['sacrificio para adorar']
+['https://media.gettyimages.com/vectors/christianity-line-icons-vector-id917559556?k=6&m=917559556&s=612x612&w=0&h=HjeqoaANnPEb2Nvdar_NUP9Qtgj-0z38-AKcgn-Pp40=']
+U+796D
+11
+jì
+113.6
+祭.mp3
+
+祮
+['NONE']
+['NINGUNA']
+[]
+U+796E
+10
+gào
+113.6
+祮.mp3
+
+祯
+['lucky, auspicious, good omen']
+['suerte, auspicioso, buen augurio']
+['https://media.gettyimages.com/photos/neatly-arranged-fortune-cookies-picture-id1185472917?k=6&m=1185472917&s=612x612&w=0&h=6sFPXURLVnzSHzjd_cdf3ufJlBdpvmgt_hr88uQSoEQ=']
+U+796F
+10
+zhēn
+113.6
+祯.mp3
+
+祰
+['NONE']
+['NINGUNA']
+[]
+U+7970
+11
+gào
+113.7
+祰.mp3
+
+祱
+['NONE']
+['NINGUNA']
+[]
+U+7971
+11
+shuì
+113.7
+祱.mp3
+
+祲
+['ominous or sinister spirit', ' vigor']
+['espíritu siniestro o siniestro', 'vigor']
+['https://media.gettyimages.com/photos/witch-in-white-picture-id1058639170?k=6&m=1058639170&s=612x612&w=0&h=Mg_2H4DjmfTmLN1DwhrnsyE2CLVTSMVJCgvScvXx37s=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+7972
+11
+jìn
+113.7
+祲.mp3
+
+祳
+['NONE']
+['NINGUNA']
+[]
+U+7973
+11
+shèn
+113.7
+祳.mp3
+
+祴
+['NONE']
+['NINGUNA']
+[]
+U+7974
+11
+gāi
+113.7
+祴.mp3
+
+祵
+['NONE']
+['NINGUNA']
+[]
+U+7975
+11
+kǔn
+113.7
+祵.mp3
+
+祶
+['NONE']
+['NINGUNA']
+[]
+U+7976
+11
+dì
+113.7
+祶.mp3
+
+祷
+['pray', ' entreat, beg, plead', ' prayer']
+['orar', 'suplicar, suplicar, suplicar', 'oración']
+['https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=', 'https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=', 'https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=']
+U+7977
+11
+dǎo
+113.7
+祷.mp3
+
+祸
+['misfortune, calamity, disaster']
+['desgracia, calamidad, desastre']
+['https://media.gettyimages.com/photos/night-fire-picture-id172202319?k=6&m=172202319&s=612x612&w=0&h=dYQUJYBq4zK2qkp_v7B6MjPacvL0y34KJFYkEuF-Wq0=']
+U+7978
+11
+huò
+113.7
+祸.mp3
+
+祹
+['NONE']
+['NINGUNA']
+[]
+U+7979
+12
+táo
+113.8
+祹.mp3
+
+祺
+['good luck, good fortune']
+['buena suerte, buena fortuna']
+['https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=']
+U+797A
+12
+qí
+113.8
+祺.mp3
+
+祻
+['NONE']
+['NINGUNA']
+[]
+U+797B
+12
+gù
+113.8
+祻.mp3
+
+祼
+['libation']
+['libación']
+['https://media.gettyimages.com/vectors/drink-alcohol-outline-icon-set-vector-id1027909158?k=6&m=1027909158&s=612x612&w=0&h=qY2qCbPgoJ-O3fYo4KhsQ49WnpIzhUBOvoHqA6fKy_A=']
+U+797C
+12
+guàn
+113.8
+祼.mp3
+
+祽
+['NONE']
+['NINGUNA']
+[]
+U+797D
+12
+zuì
+113.8
+祽.mp3
+
+祾
+['NONE']
+['NINGUNA']
+[]
+U+797E
+12
+líng
+113.8
+祾.mp3
+
+祿
+['blessing, happiness, prosperity']
+['bendición, felicidad, prosperidad']
+['https://media.gettyimages.com/vectors/money-rain-vector-id851794822?k=6&m=851794822&s=612x612&w=0&h=ND_U5d3x8maTsC-xJ8LNk1KXPInBDd-qmO0DMrFGwIg=']
+U+797F
+12
+lù
+113.8
+祿.mp3
+
+禀
+['report to, petition']
+['informar a, petición']
+['https://media.gettyimages.com/photos/signature-picture-id157503558?k=6&m=157503558&s=612x612&w=0&h=-YIaYimm3tt6uCdyKgOvtB9qxKNO2eU9VfZ8haiNDRg=']
+U+7980
+13
+bǐng
+113.8
+禀.mp3
+
+禁
+['restrict, prohibit, forbid']
+['restringir, prohibir, prohibir']
+['https://media.gettyimages.com/vectors/error-symbol-icon-red-cross-vector-id971623934?k=6&m=971623934&s=612x612&w=0&h=y0xMlrcxfDCqT6WkGewieFSgauwMWyfEdY_7L6mS_Ms=']
+U+7981
+13
+jìn
+113.8
+禁.mp3
+
+禂
+['to pray', ' prayer']
+['a orar', 'oración']
+['https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=', 'https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=']
+U+7982
+12
+dǎo
+113.8
+禂.mp3
+
+禃
+['NONE']
+['NINGUNA']
+[]
+U+7983
+12
+zhí
+113.8
+禃.mp3
+
+禄
+['blessing, happiness, prosperity']
+['bendición, felicidad, prosperidad']
+['https://media.gettyimages.com/vectors/money-rain-vector-id851794822?k=6&m=851794822&s=612x612&w=0&h=ND_U5d3x8maTsC-xJ8LNk1KXPInBDd-qmO0DMrFGwIg=']
+U+7984
+12
+lù
+113.7
+禄.mp3
+
+禅
+["meditation, contemplation (DKW: 24787')"]
+["meditación, contemplación (DKW: 24787 ')"]
+['NONE']
+U+7985
+12
+chán
+113.8
+禅.mp3
+
+禆
+['NONE']
+['NINGUNA']
+[]
+U+7986
+12
+bì
+113.8
+禆.mp3
+
+禇
+['NONE']
+['NINGUNA']
+[]
+U+7987
+12
+zhě
+113.9
+禇.mp3
+
+禈
+['NONE']
+['NINGUNA']
+[]
+U+7988
+13
+huī
+113.9
+禈.mp3
+
+禉
+['NONE']
+['NINGUNA']
+[]
+U+7989
+13
+yǒu
+113.9
+禉.mp3
+
+禊
+['semi-annual ceremony of purification']
+['ceremonia semestral de purificación']
+['NONE']
+U+798A
+13
+xì
+113.9
+禊.mp3
+
+禋
+['offer sacrifice', ' sacrifice']
+['ofrecer sacrificio', 'sacrificio']
+['https://media.gettyimages.com/vectors/hands-illustration-vector-id505971874?k=6&m=505971874&s=612x612&w=0&h=eDil4P22otYU0aPOzvW8-0t41zx1wCBxXQ72TeLyl3w=', 'https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+798B
+13
+yīn
+113.9
+禋.mp3
+
+禌
+['NONE']
+['NINGUNA']
+[]
+U+798C
+13
+zī
+113.9
+禌.mp3
+
+禍
+['misfortune, calamity, disaster']
+['desgracia, calamidad, desastre']
+['https://media.gettyimages.com/photos/night-fire-picture-id172202319?k=6&m=172202319&s=612x612&w=0&h=dYQUJYBq4zK2qkp_v7B6MjPacvL0y34KJFYkEuF-Wq0=']
+U+798D
+12
+huò
+113.9
+禍.mp3
+
+禎
+['lucky, auspicious, good omen']
+['suerte, auspicioso, buen augurio']
+['https://media.gettyimages.com/photos/neatly-arranged-fortune-cookies-picture-id1185472917?k=6&m=1185472917&s=612x612&w=0&h=6sFPXURLVnzSHzjd_cdf3ufJlBdpvmgt_hr88uQSoEQ=']
+U+798E
+13
+zhēn
+113.9
+禎.mp3
+
+福
+['happiness, good fortune, blessing']
+['felicidad, buena fortuna, bendición']
+['https://media.gettyimages.com/photos/businessman-smiling-with-arms-outstretched-picture-id502659354?k=6&m=502659354&s=612x612&w=0&h=lat2739pcZK_BDJIhTMbHlojfhmQ_tVMHPtjr-DD3fI=']
+U+798F
+13
+fú
+113.9
+福.mp3
+
+禐
+['NONE']
+['NINGUNA']
+[]
+U+7990
+13
+yuàn
+113.9
+禐.mp3
+
+禑
+['happy', ' used in historical names']
+['feliz', 'utilizado en nombres históricos']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'https://media.gettyimages.com/illustrations/antique-illustration-of-different-18th-century-hairstyles-with-french-illustration-id520875796?k=6&m=520875796&s=612x612&w=0&h=PaetK6WiiisfJdOfwHqkeqTfOwkr77zG9On7hkq7soo=']
+U+7991
+13
+wú
+113.9
+禑.mp3
+
+禒
+['NONE']
+['NINGUNA']
+[]
+U+7992
+13
+xiǎn
+113.9
+禒.mp3
+
+禓
+['to drive out demons, etc., as was done at the new-year']
+['para expulsar demonios, etc., como se hizo en el año nuevo']
+['NONE']
+U+7993
+13
+yáng
+113.9
+禓.mp3
+
+禔
+['happiness', ' peace', ' good fortune']
+['felicidad', 'paz', 'buena fortuna']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=', 'https://media.gettyimages.com/photos/close-up-of-a-bunch-of-green-clover-picture-id157617234?k=6&m=157617234&s=612x612&w=0&h=joFf6nuRjOOEvEzMfYuoAK0wcMpU_6En2Rd4xJCmFFs=']
+U+7994
+13
+zhī
+113.9
+禔.mp3
+
+禕
+['excellent, rare', ' beautiful, fine']
+['excelente, raro', 'hermosa bien']
+['https://media.gettyimages.com/photos/golden-egg-picture-id528695840?k=6&m=528695840&s=612x612&w=0&h=bSfGcdCHCJsz-C52f0bKj6VoH-6dQsBUVY__7niQjIA=', 'https://media.gettyimages.com/photos/female-police-officer-writing-citation-to-businesswoman-picture-id155354752?k=6&m=155354752&s=612x612&w=0&h=TXb4910C5eOmMoQV4tZO4Dvh5_aimlYNCL1muZBKw60=']
+U+7995
+13
+yī
+113.9
+禕.mp3
+
+禖
+['sacrifice']
+['sacrificio']
+['https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+7996
+13
+méi
+113.9
+禖.mp3
+
+禗
+['NONE']
+['NINGUNA']
+[]
+U+7997
+13
+sī
+113.9
+禗.mp3
+
+禘
+['imperial ancestor worship']
+['culto a los antepasados \u200b\u200bimperiales']
+['https://media.gettyimages.com/photos/borobudur-temple-in-central-java-indonesia-picture-id683613126?k=6&m=683613126&s=612x612&w=0&h=FIj_fn6gqFYFWpjlwc4rW2cx2MC86UaHteFf4wTyWys=']
+U+7998
+13
+dì
+113.9
+禘.mp3
+
+禙
+['NONE']
+['NINGUNA']
+[]
+U+7999
+13
+bèi
+113.9
+禙.mp3
+
+禚
+['place name']
+['ponga su nombre']
+['https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+799A
+14
+zhuó
+113.10
+禚.mp3
+
+禛
+['to receive blessings in a sincere spirit']
+['recibir bendiciones con un espíritu sincero']
+['NONE']
+U+799B
+14
+zhēn
+113.10
+禛.mp3
+
+禜
+['sacrifice']
+['sacrificio']
+['https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+799C
+15
+yǒng
+113.10
+禜.mp3
+
+禝
+['NONE']
+['NINGUNA']
+[]
+U+799D
+14
+jì
+113.10
+禝.mp3
+
+禞
+['NONE']
+['NINGUNA']
+[]
+U+799E
+14
+gào
+113.10
+禞.mp3
+
+禟
+['NONE']
+['NINGUNA']
+[]
+U+799F
+14
+táng
+113.10
+禟.mp3
+
+禠
+['happy']
+['feliz']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=']
+U+79A0
+14
+sī
+113.10
+禠.mp3
+
+禡
+['a sacrifice at the beginning of a military campaign or on the 2nd and 16th day of the lunar month']
+['un sacrificio al comienzo de una campaña militar o el día 2 y 16 del mes lunar']
+['NONE']
+U+79A1
+14
+mà
+113.10
+禡.mp3
+
+禢
+['surname']
+['apellido']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+79A2
+14
+tà
+113.10
+禢.mp3
+
+禣
+['NONE']
+['NINGUNA']
+[]
+U+79A3
+14
+fù
+113.10
+禣.mp3
+
+禤
+['surname Xuan']
+['apellido X u presione']
+['NONE']
+U+79A4
+15
+xuān
+113.11
+禤.mp3
+
+禥
+['NONE']
+['NINGUNA']
+[]
+U+79A5
+15
+qí
+113.11
+禥.mp3
+
+禦
+['defend, resist, hold out against']
+['defender, resistir, resistir contra']
+['https://media.gettyimages.com/photos/wartime-picture-id1076665964?k=6&m=1076665964&s=612x612&w=0&h=cz_tcZihP04D0I7HslpyjK-V5wMn1SdH5IX4YBmk9nA=']
+U+79A6
+17
+yù
+113.11
+禦.mp3
+
+禧
+['happiness', ' congratulations']
+['felicidad', 'Felicidades']
+['https://media.gettyimages.com/photos/happy-kids-happy-family-picture-id1009877634?k=6&m=1009877634&s=612x612&w=0&h=7z6yRXGO_JcC3QnMvuaf4RpSVRjjDgybsITYmrByjxE=', 'https://media.gettyimages.com/vectors/congrats-vector-id1148034164?k=6&m=1148034164&s=612x612&w=0&h=D-rtrtfMBKuuf7muNZj1mP4OA1KmtbajyNPnWKIMPuY=']
+U+79A7
+16
+xǐ
+113.12
+禧.mp3
+
+禨
+['pray for good fortune']
+['reza por la buena fortuna']
+['https://media.gettyimages.com/photos/connecting-with-god-picture-id471726545?k=6&m=471726545&s=612x612&w=0&h=f05Y-0NTVxn-kg1MZwgjympB6l8xO25y0FN0exiBF64=']
+U+79A8
+16
+jī
+113.12
+禨.mp3
+
+禩
+['NONE']
+['NINGUNA']
+[]
+U+79A9
+15
+sì
+113.12
+禩.mp3
+
+禪
+['meditation, contemplation (dhyana)', ' to level ground for altar', ' abdicate']
+['meditación, contemplación (dhyana)', 'nivelar el suelo para el altar', 'abdicar']
+['https://media.gettyimages.com/photos/close-up-of-meditation-in-park-at-sunrise-picture-id1039533792?k=6&m=1039533792&s=612x612&w=0&h=U0RfxlJlbOmLxxxjEvaFkM8iinZultagrxfIqeRLSvc=', 'NONE', 'https://media.gettyimages.com/illustrations/france-liberal-revolution-1848-popular-uprising-to-force-the-of-king-illustration-id940446566?k=6&m=940446566&s=612x612&w=0&h=TK28Fwrqf2fmh-9nqNf0b6-b12EQCgAXjUnJROW7ODM=']
+U+79AA
+16
+chán
+113.12
+禪.mp3
+
+禫
+["sacrifice offered at the end of the three years' mourning the death of a parent"]
+['sacrificio ofrecido al final de los tres años de luto por la muerte de un padre']
+['NONE']
+U+79AB
+16
+dàn
+113.12
+禫.mp3
+
+禬
+['NONE']
+['NINGUNA']
+[]
+U+79AC
+17
+guì
+113.13
+禬.mp3
+
+禭
+['NONE']
+['NINGUNA']
+[]
+U+79AD
+16
+suì
+113.13
+禭.mp3
+
+禮
+['social custom', ' manners', ' courtesy', ' rites']
+['costumbre social', 'modales', 'cortesía', 'ritos']
+['https://media.gettyimages.com/photos/the-love-of-best-friends-picture-id972902038?k=6&m=972902038&s=612x612&w=0&h=Q5EbQ5RhL2ZXM3lnQobRgjEK0g8YM9T4hmbof0sBbf8=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=', 'https://media.gettyimages.com/photos/businessmen-greeting-picture-id72420856?k=6&m=72420856&s=612x612&w=0&h=i-zZ8lIyFq8olmBUBfGNzW37am7g4PXz7WgNO-j3t3Y=', 'https://media.gettyimages.com/photos/holi-festivalhands-in-india-picture-id501775788?k=6&m=501775788&s=612x612&w=0&h=M19Q4t-60ViagWntAQRWQnOfb-uqKsw3qHkkA_kdZn8=']
+U+79AE
+17
+lǐ
+113.13
+禮.mp3
+
+禯
+['NONE']
+['NINGUNA']
+[]
+U+79AF
+17
+nóng
+113.13
+禯.mp3
+
+禰
+["one's deceased father"]
+['el padre fallecido']
+['https://media.gettyimages.com/photos/family-visiting-grave-of-deceased-loved-one-picture-id1054245004?k=6&m=1054245004&s=612x612&w=0&h=l0GhmZk9PgZDUeWJYPSw5jmlpaWBQAgUFlFQe-h5rag=']
+U+79B0
+18
+mí
+113.14
+禰.mp3
+
+禱
+['pray', ' entreat, beg, plead', ' prayer']
+['orar', 'suplicar, suplicar, suplicar', 'oración']
+['https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=', 'https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=', 'https://media.gettyimages.com/photos/friends-are-there-when-you-need-them-most-picture-id1141250330?k=6&m=1141250330&s=612x612&w=0&h=isw7hkKPNFw-k8WBKoy-UzouVv6nifB59DAXfJVMpbs=']
+U+79B1
+18
+dǎo
+113.14
+禱.mp3
+
+禲
+['NONE']
+['NINGUNA']
+[]
+U+79B2
+18
+lì
+113.15
+禲.mp3
+
+禳
+['pray or sacrifice, exorcise']
+['rezar o sacrificar, exorcizar']
+['NONE']
+U+79B3
+21
+ráng
+113.17
+禳.mp3
+
+禴
+['sacrifice']
+['sacrificio']
+['https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+79B4
+21
+yuè
+113.17
+禴.mp3
+
+禵
+['NONE']
+['NINGUNA']
+[]
+U+79B5
+22
+tí
+113.18
+禵.mp3
+
+禶
+['NONE']
+['NINGUNA']
+[]
+U+79B6
+23
+zàn
+113.19
+禶.mp3
+
+禷
+['NONE']
+['NINGUNA']
+[]
+U+79B7
+23
+lèi
+113.19
+禷.mp3
+
+禸
+['rump', ' KangXi radical 114']
+['grupa', 'K 昂 ξ radical 114']
+['https://media.gettyimages.com/photos/corgi-puppy-butt-picture-id637221014?k=6&m=637221014&s=612x612&w=0&h=ikDxNq9Yu_3S0ElBbrEfpbg6DCxc7Ajih17CAtNo1Rg=', 'NONE']
+U+79B8
+4
+róu
+114.0
+禸.mp3
+
+禹
+['legendary hsia dynasty founder']
+['legendario fundador de la dinastía hsia']
+['NONE']
+U+79B9
+9
+yǔ
+114.4
+禹.mp3
+
+禺
+['district', ' mountain in Zhejiang']
+['distrito', 'montaña en Zhejiang']
+['https://media.gettyimages.com/photos/residential-development-aerial-picture-id1066713660?k=6&m=1066713660&s=612x612&w=0&h=2UkRsRkHPg2YTf3P8fW6P6H1j6yqz_xXZdLWxjBJSCo=', 'https://media.gettyimages.com/photos/beautifullongjingtea-gardenhangzhou-zhejiang-china-picture-id1050591268?k=6&m=1050591268&s=612x612&w=0&h=6OXwHQPRi1_JqTtnToKSLZNJAw7KfIPAmIwvvRsM3x0=']
+U+79BA
+9
+yú
+114.4
+禺.mp3
+
+离
+['rare beast', ' strange', ' elegant']
+['bestia rara', 'extraño', 'elegante']
+['https://media.gettyimages.com/photos/red-tailed-black-cockatoo-picture-id1165028488?k=6&m=1165028488&s=612x612&w=0&h=tFOoSQ4G_N3x9unGoz0S5DnKRxGmeoCVDr24NoTbzhE=', 'https://media.gettyimages.com/photos/woman-wearing-a-dinosaur-mask-picture-id1053228608?k=6&m=1053228608&s=612x612&w=0&h=xjc6HWVQx0SjIh6vRvd9HkTVCZHQ1NsddNXiWe3BFYc=', 'https://media.gettyimages.com/vectors/dark-abstract-vector-background-vector-id1049230242?k=6&m=1049230242&s=612x612&w=0&h=rbcWAQB2g-iI_leVt1Rki_eVi3gbvvVlFTWPe8krUoo=']
+U+79BB
+10
+lí
+114.6
+离.mp3
+
+禼
+['NONE']
+['NINGUNA']
+[]
+U+79BC
+11
+xiè
+114.7
+禼.mp3
+
+禽
+['birds, fowl', ' surname', '', ' capture']
+['pájaros, aves', 'apellido', '', 'capturar']
+['https://media.gettyimages.com/vectors/farm-animals-black-icons-set-livestock-vector-illustration-vector-id929868932?k=6&m=929868932&s=612x612&w=0&h=ABmJr-rgqJEWpBRXFrFR7uMqJLbPMmfiOMHwChrPZZ8=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE', 'https://media.gettyimages.com/photos/man-with-mask-looking-out-of-window-picture-id1212038213?k=6&m=1212038213&s=612x612&w=0&h=Iy47FwXxRpuRPNadrkRVHnX-66206XIEDoWh_xJg4IM=']
+U+79BD
+12
+qín
+114.8
+禽.mp3
+
+禾
+['grain still on stalk', ' rice plant']
+['grano todavía en el tallo', 'planta de arroz']
+['https://media.gettyimages.com/photos/harvest-picture-id185223446?k=6&m=185223446&s=612x612&w=0&h=8xsbo-kaaRjIDr5z1X-LVd385O9GOwJYScHyvfKQthc=', 'https://media.gettyimages.com/photos/old-man-checking-ripe-rice-in-autumn-picture-id621481948?k=6&m=621481948&s=612x612&w=0&h=iFv1I57HjbGB5GJTMWmrwbF4WiI7xj0JU4ASXyzuYhY=']
+U+79BE
+5
+hé
+115.0
+禾.mp3
+
+禿
+['bald, bare, stripped']
+['calvo, desnudo, desnudo']
+['https://media.gettyimages.com/photos/businesspeople-in-bare-room-picture-id72862128?k=6&m=72862128&s=612x612&w=0&h=hla7s_rDLbyjFbUHUqVbe7aQMH-FVFhXOLdPrWap2fM=']
+U+79BF
+7
+tū
+115.2
+禿.mp3
+
+秀
+['ear of grain', ' flowering, luxuriant', ' refined, elegant, graceful']
+['espiga de grano', 'floreciente, exuberante', 'refinado, elegante, agraciado']
+['https://media.gettyimages.com/vectors/wheat-plant-ears-vector-vector-id1096737496?k=6&m=1096737496&s=612x612&w=0&h=YiQjK658qWW-eMfXdJl-1sCUlAC_gexKDhnKeUBasM0=', 'https://media.gettyimages.com/vectors/watercolor-green-plants-vector-id1138561007?k=6&m=1138561007&s=612x612&w=0&h=JsvY4x1-8kuvVgZ5sxH7Rt18FUA9gkyydl3WEZZuqvU=', 'https://media.gettyimages.com/photos/feelings-for-my-soul-picture-id637492768?k=6&m=637492768&s=612x612&w=0&h=RQYaI5a8Zxyw_iYAL0mh_2UeS3kQDixJToj2iHyNY1I=']
+U+79C0
+7
+xiù
+115.2
+秀.mp3
+
+私
+['private, personal', ' secret']
+['privado, personal', 'secreto']
+['https://media.gettyimages.com/photos/crowd-walking-over-binary-code-picture-id1185884207?k=6&m=1185884207&s=612x612&w=0&h=HiugSOfFb2VDDlKh_5pS4fU4jlzxHRBX9ZJdhZD02cA=', 'https://media.gettyimages.com/photos/come-closer-what-do-you-think-about-this-candidate-picture-id942149588?k=6&m=942149588&s=612x612&w=0&h=pamGW1lLTeM01Aq1H5f8ICCt2ztbEPM8pyNKN1TpGys=']
+U+79C1
+7
+sī
+115.2
+私.mp3
+
+秂
+['NONE']
+['NINGUNA']
+[]
+U+79C2
+7
+rén
+115.2
+秂.mp3
+
+秃
+['bald']
+['pronto']
+['https://media.gettyimages.com/photos/female-hairloss-picture-id1178747434?k=6&m=1178747434&s=612x612&w=0&h=YZzbiH1USkZrV2W0ZGbR3BqkVaYJ0p4-mmwv2FC8n2E=']
+U+79C3
+7
+tū
+115.2
+秃.mp3
+
+秄
+['to hoe']
+['το χοε']
+['https://media.gettyimages.com/photos/smeatons-tower-winter-sunrise-picture-id161480741?k=6&m=161480741&s=612x612&w=0&h=2QpC8KfaEExKm7LTTzjzuiB7kK69J67mctP_OTOQwlQ=']
+U+79C4
+8
+zǐ
+115.3
+秄.mp3
+
+秅
+['NONE']
+['NINGUNA']
+[]
+U+79C5
+8
+chá
+115.3
+秅.mp3
+
+秆
+['straw', ' stalk of grain']
+['Paja', 'tallo de grano']
+['https://media.gettyimages.com/photos/meadow-hay-picture-id182760255?k=6&m=182760255&s=612x612&w=0&h=n9OEphdAj-5kMeesjLPKlz_hvSmRqcZPsTXFI-xTqog=', 'https://media.gettyimages.com/photos/six-stems-of-wheat-on-a-white-background-picture-id157311390?k=6&m=157311390&s=612x612&w=0&h=WjJiSBrIG49xXKxXYpVVl1DTEPxCita6hSrkaf7A3xI=']
+U+79C6
+8
+gǎn
+115.3
+秆.mp3
+
+秇
+['skill, ability in handicraft a craft, an art, a calling', ' a trade', ' an accomplishment']
+['habilidad, habilidad en la artesanía un oficio, un arte, una vocación', 'un comercio', 'un logro']
+['https://media.gettyimages.com/photos/young-leather-craftsman-talking-on-cell-phone-in-studio-picture-id1014150182?k=6&m=1014150182&s=612x612&w=0&h=VMH6bPqaLbxxMCxskTo62ffrRtEzgCuv4xNDQ55qmxY=', 'https://media.gettyimages.com/photos/financial-stock-market-numbers-and-city-light-reflection-picture-id942696884?k=6&m=942696884&s=612x612&w=0&h=c0AhXJu-sgpUZmpKp28GyN1VbjhJDA-LxpcGRQzKvMU=', 'https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=']
+U+79C7
+8
+yì
+115.3
+秇.mp3
+
+秈
+['non-glutinous long grain rice']
+['arroz de grano largo no glutinoso']
+['NONE']
+U+79C8
+8
+xiān
+115.3
+秈.mp3
+
+秉
+['grasp, hold', ' bundle', ' authority']
+['agarrar, sostener', 'haz', 'autoridad']
+['https://media.gettyimages.com/photos/hands-holding-blank-paper-card-picture-id483674609?k=6&m=483674609&s=612x612&w=0&h=D8Ddt5rzxdoFi33m-4TK__ofrez8-hXlsCfUcD7uunI=', 'https://media.gettyimages.com/photos/stacks-of-large-billed-euro-banknotes-picture-id164849302?k=6&m=164849302&s=612x612&w=0&h=wbY-uYKgIKwXlhL0UrQx3mwYS8yYrVUT8ViSq0X7kQA=', 'https://media.gettyimages.com/photos/revolution-fist-raised-picture-id1006071592?k=6&m=1006071592&s=612x612&w=0&h=GGuVxtCAaILgJFEHMf9jIkWJgj7fGAgk0yUCAL6KSFk=']
+U+79C9
+8
+bǐng
+115.3
+秉.mp3
+
+秊
+['year', ' new-years', " person's age"]
+['año', 'año Nuevo', 'edad de la persona']
+['https://media.gettyimages.com/photos/year-old-getting-flu-jab-picture-id85997773?k=6&m=85997773&s=612x612&w=0&h=fVde3w1OKSam7whLCd3q8ZCLKZ0-BfTmJ6hqOu1tBcA=', 'https://media.gettyimages.com/photos/smiling-people-holding-sparklers-picture-id1179065744?k=6&m=1179065744&s=612x612&w=0&h=NEUMOEUMSIF9-swfXpsMjnUwQaGZtesZT-X4NQoZ3Qk=', 'https://media.gettyimages.com/vectors/character-of-a-man-in-different-ages-the-life-cycle-a-baby-a-child-a-vector-id1080419024?k=6&m=1080419024&s=612x612&w=0&h=oZZGmd7Xl3SsH7ZmpmyWCG2VhrTH5KL970mCIAnEg0I=']
+U+79CA
+8
+nián
+115.3
+秊.mp3
+
+秋
+['autumn, fall', ' year']
+['caída del otoño', 'año']
+['https://media.gettyimages.com/vectors/autumn-leaves-seamless-pattern-vector-id1024082018?k=6&m=1024082018&s=612x612&w=0&h=QbHLaDrrI4kWyf4NYaOUb4djD7eaShkclv5f6kV2SG0=', 'https://media.gettyimages.com/photos/year-old-getting-flu-jab-picture-id85997773?k=6&m=85997773&s=612x612&w=0&h=fVde3w1OKSam7whLCd3q8ZCLKZ0-BfTmJ6hqOu1tBcA=']
+U+79CB
+9
+qiū
+115.4
+秋.mp3
+
+秌
+['(same as ']
+['(igual que']
+['https://media.gettyimages.com/vectors/red-and-black-aces-seamless-pattern-vector-id903522566?k=6&m=903522566&s=612x612&w=0&h=PbQ2nH9P03BuYDRKCWxUiOu5a3kNPj1mPRscZkxvVD8=']
+U+79CC
+9
+qiū
+115.4
+秌.mp3
+
+种
+['seed', ' race, breed', ' to plant']
+['semilla', 'raza, raza', 'plantar']
+['https://media.gettyimages.com/photos/assortment-of-nuts-on-rustic-wood-table-picture-id658447720?k=6&m=658447720&s=612x612&w=0&h=rrA1YSjF6pBiNGNAMZWW7A2YVFjmwsKaI_CCXxZCapU=', 'https://media.gettyimages.com/photos/horse-racing-down-the-stretch-they-come-picture-id182179681?k=6&m=182179681&s=612x612&w=0&h=_D4iXvCWDxBR7EbGxQ1ozlhYH-2UOcKSubyeK97sQ9g=', 'https://media.gettyimages.com/vectors/abstract-plant-border-vector-id1132621208?k=6&m=1132621208&s=612x612&w=0&h=lIqY9Ujeu7-7Ynt2dMdvIlia64jZkeSxT40PlsV9-FE=']
+U+79CD
+9
+zhǒng
+115.4
+种.mp3
+
+秎
+['NONE']
+['NINGUNA']
+[]
+U+79CE
+9
+fèn
+115.4
+秎.mp3
+
+秏
+['to waste, to destroy, to diminish', ' hence it came to mean, a rat']
+['desperdiciar, destruir, disminuir', 'de ahí que vino a significar, una rata']
+['NONE', 'NONE']
+U+79CF
+9
+hào
+115.4
+秏.mp3
+
+秐
+['to weed']
+['desmalezar']
+['https://media.gettyimages.com/photos/young-adult-man-rolling-a-marijuana-joint-picture-id1139292066?k=6&m=1139292066&s=612x612&w=0&h=kqQeVl-3Fo0ZkNMBcEjSNy3LQe_tyGnYhlbf1zLYFBw=']
+U+79D0
+9
+yún
+115.4
+秐.mp3
+
+科
+['section, department, science']
+['sección, departamento, ciencia']
+['https://media.gettyimages.com/photos/computer-screens-in-large-modern-office-interior-toned-image-picture-id174633468?k=6&m=174633468&s=612x612&w=0&h=nJ6-SIcQK8FcxEIuEYvtHM3Hy5soXJnoAotOhylliU0=']
+U+79D1
+9
+kē
+115.4
+科.mp3
+
+秒
+['beard of grain or corn', ' a second']
+['barba de grano o maíz', 'un segundo']
+['https://media.gettyimages.com/photos/farmer-holding-a-full-crate-of-corn-cobs-on-the-field-picture-id1057214052?k=6&m=1057214052&s=612x612&w=0&h=ZPYMvsqIX_7wqfjb__SuJW48Fd5am8IsDlNAi6cmA28=', 'https://media.gettyimages.com/photos/one-two-three-counting-with-fingers-picture-id183584119?k=6&m=183584119&s=612x612&w=0&h=5gWKtOHp2S14gY3mJBsUcn9nqMzo0gK83t4PW5NrR38=']
+U+79D2
+9
+miǎo
+115.4
+秒.mp3
+
+秓
+['NONE']
+['NINGUNA']
+[]
+U+79D3
+9
+zhī
+115.4
+秓.mp3
+
+秔
+['non-glutinous rice']
+['arroz no glutinoso']
+['https://media.gettyimages.com/photos/topgrade-rice-flour-made-from-nonglutinous-rice-is-in-bowl-picture-id629353272?k=6&m=629353272&s=612x612&w=0&h=iZk2KtV9gXYFkbq-KcQ7Nko8nTo5bAhNYyrjWgO5d-s=']
+U+79D4
+9
+jīng
+115.4
+秔.mp3
+
+秕
+['empty grain or rice husk, chaff']
+['grano vacío o cáscara de arroz, paja']
+['https://media.gettyimages.com/photos/ear-of-wheat-blowing-in-the-wind-picture-id107713160?k=6&m=107713160&s=612x612&w=0&h=4dfgGBTLf6Ge3xRWHdZWPhMtIXd9_9OtSqKN0P0oi5E=']
+U+79D5
+9
+bǐ
+115.4
+秕.mp3
+
+秖
+['NONE']
+['NINGUNA']
+[]
+U+79D6
+9
+zhī
+115.4
+秖.mp3
+
+秗
+['NONE']
+['NINGUNA']
+[]
+U+79D7
+9
+yù
+115.4
+秗.mp3
+
+秘
+['secret, mysterious, abstruse']
+['secreto, misterioso, abstruso']
+['https://media.gettyimages.com/illustrations/abandoned-old-train-at-twilight-illustration-id709126385?k=6&m=709126385&s=612x612&w=0&h=l64jB52m774k-TME1eJIRa1Kk7lHa5oE4w3AzkeAap0=']
+U+79D8
+10
+mì
+115.5
+秘.mp3
+
+秙
+['NONE']
+['NINGUNA']
+[]
+U+79D9
+10
+kù
+115.5
+秙.mp3
+
+秚
+['NONE']
+['NINGUNA']
+[]
+U+79DA
+10
+bàn
+115.5
+秚.mp3
+
+秛
+['NONE']
+['NINGUNA']
+[]
+U+79DB
+10
+pī
+115.5
+秛.mp3
+
+秜
+['NONE']
+['NINGUNA']
+[]
+U+79DC
+10
+ní
+115.5
+秜.mp3
+
+秝
+['(Cant.) excessively thin']
+['(Cant.) Excesivamente delgado']
+['NONE']
+U+79DD
+10
+lì
+115.5
+秝.mp3
+
+秞
+['NONE']
+['NINGUNA']
+[]
+U+79DE
+10
+yóu
+115.5
+秞.mp3
+
+租
+['rent, lease', ' rental', ' tax']
+['Alquiler / Arrendamiento', 'alquiler', 'impuesto']
+['https://media.gettyimages.com/vectors/loan-line-icons-vector-id1144717949?k=6&m=1144717949&s=612x612&w=0&h=-7mqg-_ECWYKsyKybjlglUo6aC8nOt6i-u4Nh38V1lE=', 'https://media.gettyimages.com/photos/couple-investing-in-buyng-new-property-picture-id1143902283?k=6&m=1143902283&s=612x612&w=0&h=cBlKgCA5ZWlbs50mU08cj1xmHa1P8GAOo6_xmb-IyoM=', 'https://media.gettyimages.com/photos/business-accounting-concept-business-man-using-calculator-with-and-picture-id1178916772?k=6&m=1178916772&s=612x612&w=0&h=cCvn9Xz1SlNoyz9AA8p2V6q4d1VT72vEcLO_DkapO4U=']
+U+79DF
+10
+zū
+115.5
+租.mp3
+
+秠
+['millet']
+['nación']
+['https://media.gettyimages.com/photos/pile-of-the-food-millet-on-a-white-background-picture-id184392197?k=6&m=184392197&s=612x612&w=0&h=N3Mi0unBLOiaEbeo0G2ZrPbm8uCWt-FW_DkyQ51lhv4=']
+U+79E0
+10
+pī
+115.5
+秠.mp3
+
+秡
+['NONE']
+['NINGUNA']
+[]
+U+79E1
+10
+bó
+115.5
+秡.mp3
+
+秢
+['NONE']
+['NINGUNA']
+[]
+U+79E2
+10
+líng
+115.5
+秢.mp3
+
+秣
+['fodder, horse feed', ' feed horse']
+['forraje, pienso para caballos', 'alimentar caballo']
+['https://media.gettyimages.com/photos/snacking-on-some-agrade-hay-picture-id887357466?k=6&m=887357466&s=612x612&w=0&h=d6j1AqccVMtHS7LMQAkRU0kgMyOHUEd9uFInYE6NyJE=', 'https://media.gettyimages.com/photos/snacking-on-some-agrade-hay-picture-id887357466?k=6&m=887357466&s=612x612&w=0&h=d6j1AqccVMtHS7LMQAkRU0kgMyOHUEd9uFInYE6NyJE=']
+U+79E3
+10
+mò
+115.5
+秣.mp3
+
+秤
+['balance, scale, steelyard']
+['equilibrio, escala, acero']
+['https://media.gettyimages.com/illustrations/historical-scales-wood-engravings-published-in-1880-illustration-id517346098?k=6&m=517346098&s=612x612&w=0&h=qgeEWiSX1Wt-M2VxdLK0GmepzeQKoYNt07TkwOdVOaI=']
+U+79E4
+10
+chèng
+115.5
+秤.mp3
+
+秥
+['NONE']
+['NINGUNA']
+[]
+U+79E5
+10
+nián
+115.5
+秥.mp3
+
+秦
+['feudal state of Qin', " the Qin dynasty (from which the name 'China' comes)"]
+['estado feudal de Qin', "la dinastía Qin (de la cual proviene el nombre 'China')"]
+['NONE', 'NONE']
+U+79E6
+10
+qín
+115.5
+秦.mp3
+
+秧
+['rice seedlings, young rice plants']
+['plántulas de arroz, plantas jóvenes de arroz']
+['https://media.gettyimages.com/photos/asia-farmer-transplanted-rice-seedlings-to-be-sent-for-planting-in-picture-id1032740038?k=6&m=1032740038&s=612x612&w=0&h=Z5weMDeyL4YWVW7OBasrw-jKeoA0pKC0fi65twjE3RU=']
+U+79E7
+10
+yāng
+115.5
+秧.mp3
+
+秨
+['NONE']
+['NINGUNA']
+[]
+U+79E8
+10
+zuó
+115.5
+秨.mp3
+
+秩
+['order', ' orderly', ' salary', ' decade']
+['orden', 'ordenado', 'salario', 'década']
+['https://media.gettyimages.com/photos/woman-using-meal-delivery-service-through-mobile-app-picture-id1160735344?k=6&m=1160735344&s=612x612&w=0&h=tYEeckvNDyAoyUEfUeCii_29p_pBum_BVHKiUrGbjYY=', 'https://media.gettyimages.com/vectors/process-icon-set-vector-id1143075261?k=6&m=1143075261&s=612x612&w=0&h=GR4FsTbJiq4VzQT7GxuXbrdiiwBsJYjgNlmcdEptYYE=', 'https://media.gettyimages.com/vectors/money-banking-set-of-line-vector-icons-vector-id1000706990?k=6&m=1000706990&s=612x612&w=0&h=-7h9Fg8qhct4i5mBChhSFCiZOnAHWWcR6Cu0MWF4zh4=', 'https://media.gettyimages.com/photos/first-sunset-of-the-decade-manila-picture-id1207494997?k=6&m=1207494997&s=612x612&w=0&h=bcPR3ikeMEtVlX9BIgp6thsvIROvjXmCWga79XA-u1o=']
+U+79E9
+10
+zhì
+115.5
+秩.mp3
+
+秪
+['only, merely']
+['solo, simplemente']
+['https://media.gettyimages.com/photos/wrinkles-should-merely-indicate-where-smiles-have-been-picture-id538068557?k=6&m=538068557&s=612x612&w=0&h=idhjBNJi1pwiCQKbWSGGDwOPCsnAoUATymenuvhviyw=']
+U+79EA
+10
+zhī
+115.5
+秪.mp3
+
+秫
+['glutinous variety of millet']
+['variedad glutinosa de mijo']
+['NONE']
+U+79EB
+10
+shú
+115.5
+秫.mp3
+
+秬
+['black millet']
+['mijo negro']
+['https://media.gettyimages.com/photos/dogon-women-carrying-millet-to-the-village-mali-picture-id482351623?k=6&m=482351623&s=612x612&w=0&h=hxTQBKuKuHBn6h1Zb3keNoXoXLMNsU3o3alZ7BaQ_lo=']
+U+79EC
+9
+jù
+115.5
+秬.mp3
+
+秭
+['one thousand millions, sometimes used for one hundred millions']
+['mil millones, a veces utilizados por cien millones']
+['NONE']
+U+79ED
+9
+zǐ
+115.5
+秭.mp3
+
+秮
+['NONE']
+['NINGUNA']
+[]
+U+79EE
+10
+huó
+115.5
+秮.mp3
+
+积
+['accumulate, store up, amass']
+['acumular, almacenar, amasar']
+['https://media.gettyimages.com/photos/young-woman-wearing-a-protective-mask-and-gloves-shopping-in-a-time-picture-id1214324371?k=6&m=1214324371&s=612x612&w=0&h=PVvIR4ImMbXVA5f-72aZ-NUfiEEMvW9pSJHMecXG91c=']
+U+79EF
+10
+jī
+115.5
+积.mp3
+
+称
+['call', ' name, brand', ' address', ' say']
+['llamada', 'nombre, marca', 'habla a', 'decir']
+['https://media.gettyimages.com/photos/hello-can-i-help-you-picture-id1187582500?k=6&m=1187582500&s=612x612&w=0&h=8rAHckcJerzt05QR_hmRSqqUdcC9_aNk8SDfBLU4UcM=', 'https://media.gettyimages.com/vectors/dentist-logo-and-branding-vector-id1180271772?k=6&m=1180271772&s=612x612&w=0&h=s-zxUC0q3kne2hCpanHDPJwNQTiMShy4EzRjjCxUJmc=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+79F0
+10
+chēng
+115.5
+称.mp3
+
+秱
+['NONE']
+['NINGUNA']
+[]
+U+79F1
+11
+tóng
+115.6
+秱.mp3
+
+秲
+['NONE']
+['NINGUNA']
+[]
+U+79F2
+11
+zhì
+115.6
+秲.mp3
+
+秳
+['NONE']
+['NINGUNA']
+[]
+U+79F3
+11
+huó
+115.6
+秳.mp3
+
+秴
+['NONE']
+['NINGUNA']
+[]
+U+79F4
+11
+hé
+115.6
+秴.mp3
+
+秵
+['NONE']
+['NINGUNA']
+[]
+U+79F5
+11
+yīn
+115.6
+秵.mp3
+
+秶
+['NONE']
+['NINGUNA']
+[]
+U+79F6
+11
+zī
+115.6
+秶.mp3
+
+秷
+['NONE']
+['NINGUNA']
+[]
+U+79F7
+11
+zhì
+115.6
+秷.mp3
+
+秸
+['stalks of millet, corn']
+['tallos de mijo, maíz']
+['https://media.gettyimages.com/photos/old-engraved-illustration-of-grain-plants-grainy-plants-picture-id1260407204?k=6&m=1260407204&s=612x612&w=0&h=oczMwSKtwIOUNPEUzHt_1JpqZXWuCHASAvKU7AwMZWc=']
+U+79F8
+11
+jiē
+115.6
+秸.mp3
+
+秹
+['NONE']
+['NINGUNA']
+[]
+U+79F9
+11
+rěn
+115.6
+秹.mp3
+
+秺
+['NONE']
+['NINGUNA']
+[]
+U+79FA
+11
+dù
+115.6
+秺.mp3
+
+移
+['change place, shift', ' move about']
+['cambiar de lugar, turno', 'moverse']
+['https://media.gettyimages.com/photos/green-rice-fild-with-evening-sky-picture-id516180836?k=6&m=516180836&s=612x612&w=0&h=9rlvGV4hIH1n76C0Uao5s2hWkmRoOOrcKXzYZjhmHWI=', 'https://media.gettyimages.com/photos/moving-boxes-and-potted-plants-at-new-apartment-picture-id1016102754?k=6&m=1016102754&s=612x612&w=0&h=FGgrIPvIRRkw50rnn8tOUqZOb80PxsfddqFC2v01254=']
+U+79FB
+11
+yí
+115.6
+移.mp3
+
+秼
+['NONE']
+['NINGUNA']
+[]
+U+79FC
+11
+zhū
+115.6
+秼.mp3
+
+秽
+['dirty, unclean', ' immoral, obscene']
+['sucio, inmundo', 'inmoral, obsceno']
+['https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=', 'https://media.gettyimages.com/photos/angry-guru-doing-an-obscene-gesture-picture-id109719182?k=6&m=109719182&s=612x612&w=0&h=u7qWeFI014mIiwhzT9E3pro76wwpUlKWyViMvX5298w=']
+U+79FD
+11
+huì
+115.6
+秽.mp3
+
+秾
+['thick, lush, in clusters']
+['espeso, exuberante, en racimos']
+['https://media.gettyimages.com/photos/purple-and-pink-hydrangea-flowers-blossom-pattern-picture-id517630597?k=6&m=517630597&s=612x612&w=0&h=OYdno_pIXuM4CFGRBgSykxnL1FmjpvdbCUbjJLo7o4I=']
+U+79FE
+11
+nóng
+115.6
+秾.mp3
+
+秿
+['NONE']
+['NINGUNA']
+[]
+U+79FF
+12
+fù
+115.7
+秿.mp3
+
+稀
+['rare, unusual, scarce', ' sparse']
+['raro, inusual, escaso', 'escaso']
+['NONE', 'https://media.gettyimages.com/photos/empty-studio-background-picture-id1024810748?k=6&m=1024810748&s=612x612&w=0&h=tMznJ2s5l8O4U5tmmCIE3Frt1HNnllEG6KuoNWwTBik=']
+U+7A00
+12
+xī
+115.7
+稀.mp3
+
+稁
+['NONE']
+['NINGUNA']
+[]
+U+7A01
+12
+gǎo
+115.7
+稁.mp3
+
+稂
+['grass', ' weeds']
+['césped', 'malas hierbas']
+['https://media.gettyimages.com/photos/close-up-of-green-grass-with-white-background-picture-id174670507?k=6&m=174670507&s=612x612&w=0&h=5FvRhOmgCy3lezHugdJPFbDEshmo0iNVrRXKG0_UI5k=', 'https://media.gettyimages.com/photos/spraying-the-dandelions-picture-id484016511?k=6&m=484016511&s=612x612&w=0&h=Leb5-_hgVDb6mdrGmAq1erBEMIxNNZv0Lgq1yK5ZQ8Q=']
+U+7A02
+12
+láng
+115.7
+稂.mp3
+
+稃
+['NONE']
+['NINGUNA']
+[]
+U+7A03
+12
+fū
+115.7
+稃.mp3
+
+稄
+['NONE']
+['NINGUNA']
+[]
+U+7A04
+12
+xùn
+115.7
+稄.mp3
+
+稅
+['taxes, revenue, duty', ' tax']
+['impuestos, ingresos, derechos', 'impuesto']
+['https://media.gettyimages.com/photos/he-knows-exactly-where-his-money-goes-picture-id1150533032?k=6&m=1150533032&s=612x612&w=0&h=359BK5GOLmcG49pVTtU3U684VjvLt59yNwrAHDclnrI=', 'https://media.gettyimages.com/photos/business-accounting-concept-business-man-using-calculator-with-and-picture-id1178916772?k=6&m=1178916772&s=612x612&w=0&h=cCvn9Xz1SlNoyz9AA8p2V6q4d1VT72vEcLO_DkapO4U=']
+U+7A05
+12
+shuì
+115.7
+稅.mp3
+
+稆
+['wild grain']
+['grano salvaje']
+['https://media.gettyimages.com/photos/murmuration-of-starlings-a-spectacular-aerobatic-display-of-a-large-picture-id675916579?k=6&m=675916579&s=612x612&w=0&h=6NuGK3JDpp2wKC6busGu6u0hCvJOxHpa9BxHYgEnOJc=']
+U+7A06
+11
+lǚ
+115.6
+稆.mp3
+
+稇
+['to bind, as faggots of sheaves']
+['para atar, como letreros de gavillas']
+['NONE']
+U+7A07
+12
+kǔn
+115.7
+稇.mp3
+
+稈
+['stalk of grain', ' straw']
+['tallo de grano', 'Paja']
+['https://media.gettyimages.com/photos/six-stems-of-wheat-on-a-white-background-picture-id157311390?k=6&m=157311390&s=612x612&w=0&h=WjJiSBrIG49xXKxXYpVVl1DTEPxCita6hSrkaf7A3xI=', 'https://media.gettyimages.com/photos/meadow-hay-picture-id182760255?k=6&m=182760255&s=612x612&w=0&h=n9OEphdAj-5kMeesjLPKlz_hvSmRqcZPsTXFI-xTqog=']
+U+7A08
+12
+gǎn
+115.7
+稈.mp3
+
+稉
+['non-glutinous rice']
+['arroz no glutinoso']
+['https://media.gettyimages.com/photos/topgrade-rice-flour-made-from-nonglutinous-rice-is-in-bowl-picture-id629353272?k=6&m=629353272&s=612x612&w=0&h=iZk2KtV9gXYFkbq-KcQ7Nko8nTo5bAhNYyrjWgO5d-s=']
+U+7A09
+12
+jīng
+115.7
+稉.mp3
+
+稊
+['darnels, tares']
+['cizaña, cizaña']
+['https://media.gettyimages.com/photos/nilgiri-tahr-sitting-and-watching-eravikulam-np-india-picture-id200207638-001?k=6&m=200207638-001&s=612x612&w=0&h=5u3FF5s0YQ6GK8c72KpLpp2QRpraHFkxfzlcPF06cJE=']
+U+7A0A
+12
+tí
+115.7
+稊.mp3
+
+程
+['journey, trip', ' schedule, agenda']
+['viaje de trabajo', 'horario, agenda']
+['https://media.gettyimages.com/photos/weve-made-it-all-this-way-i-am-proud-picture-id904172104?k=6&m=904172104&s=612x612&w=0&h=nqsWvOdPG7oyT1J9v4bd0OtL1yWhNj4u7JsSOUcMBd4=', 'https://media.gettyimages.com/vectors/calendar-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1158830788?k=6&m=1158830788&s=612x612&w=0&h=htJHes2jszyP4JB8GfD4Habw7tI-6ge6MPUyOp3EZc0=']
+U+7A0B
+12
+chéng
+115.7
+程.mp3
+
+稌
+['glutinous rice']
+['arroz glutinoso']
+['https://media.gettyimages.com/photos/risotto-fungi-porcini-on-rustic-wooden-table-picture-id871240058?k=6&m=871240058&s=612x612&w=0&h=BcMTOUhmBr8RyAkhsQOQ-Om9b8mivtrOfFiddleB0BQ=']
+U+7A0C
+12
+tú
+115.7
+稌.mp3
+
+稍
+['little, slightly', ' rather']
+['poco, un poco', 'más bien']
+['https://media.gettyimages.com/photos/flyweight-picture-id105781272?k=6&m=105781272&s=612x612&w=0&h=5jv_S-W0vuOdUIwnIDstecfjF9jxpzIwBWkgEqvKqEs=', 'https://media.gettyimages.com/photos/ll-rather-love-than-hate-picture-id1135940064?k=6&m=1135940064&s=612x612&w=0&h=hJBp6Eknh70NAt3BOucX9nD53D0zDFME_6mT6QXZwzA=']
+U+7A0D
+12
+shāo
+115.7
+稍.mp3
+
+税
+['taxes']
+['impuestos']
+['https://media.gettyimages.com/photos/business-accounting-concept-business-man-using-calculator-with-and-picture-id1178916772?k=6&m=1178916772&s=612x612&w=0&h=cCvn9Xz1SlNoyz9AA8p2V6q4d1VT72vEcLO_DkapO4U=']
+U+7A0E
+12
+shuì
+115.7
+税.mp3
+
+稏
+['a kind of rice plant', ' shaking and waving of the rice plant']
+['una especie de planta de arroz', 'agitando y agitando la planta de arroz']
+['https://media.gettyimages.com/photos/he-new-generation-of-farmers-is-using-the-research-tablet-and-the-picture-id1092254050?k=6&m=1092254050&s=612x612&w=0&h=QETrfChePeEK-CQyY2YJVkcwJrg1nKVKuTUahf2031I=', 'NONE']
+U+7A0F
+13
+yà
+115.8
+稏.mp3
+
+稐
+['NONE']
+['NINGUNA']
+[]
+U+7A10
+13
+lǔn
+115.8
+稐.mp3
+
+稑
+['rice']
+['arroz']
+['https://media.gettyimages.com/photos/white-rice-background-picture-id1049237664?k=6&m=1049237664&s=612x612&w=0&h=hmnbiB2m-XqDwr2bRH9BjxaZ2QJ21Cl3Aw-q-4CN3e4=']
+U+7A11
+13
+lù
+115.8
+稑.mp3
+
+稒
+['NONE']
+['NINGUNA']
+[]
+U+7A12
+13
+gù
+115.8
+稒.mp3
+
+稓
+['NONE']
+['NINGUNA']
+[]
+U+7A13
+13
+zuó
+115.8
+稓.mp3
+
+稔
+['ripe grain', ' harvest', ' to know, be familiar with']
+['grano maduro', 'cosecha', 'saber, estar familiarizado con']
+['https://media.gettyimages.com/photos/mans-hands-holding-wheat-ears-picture-id1042695588?k=6&m=1042695588&s=612x612&w=0&h=YG9tJbapryM_Wew3zqpMP-eE2kRmLhj5cuwqH-e5TfU=', 'https://media.gettyimages.com/photos/seasonal-work-on-the-field-picture-id1072634078?k=6&m=1072634078&s=612x612&w=0&h=aIhlcgZshY4HHUgSHOJA84nJMVPfj53AQvlAsNSqJdI=', 'https://media.gettyimages.com/photos/son-blowing-confetti-over-proud-father-holding-hammer-at-home-picture-id951533054?k=6&m=951533054&s=612x612&w=0&h=uMn_4PVKrpqtjHBraBFXaJ483PjLalqEzMouiOJk0VY=']
+U+7A14
+13
+rěn
+115.8
+稔.mp3
+
+稕
+['NONE']
+['NINGUNA']
+[]
+U+7A15
+13
+zhùn
+115.8
+稕.mp3
+
+稖
+['NONE']
+['NINGUNA']
+[]
+U+7A16
+13
+bàng
+115.8
+稖.mp3
+
+稗
+['darnels, weeds, tares small']
+['cizaña, maleza, cizaña pequeña']
+['NONE']
+U+7A17
+13
+bài
+115.8
+稗.mp3
+
+稘
+['a full year, an anniversary']
+['un año completo, un aniversario']
+['NONE']
+U+7A18
+13
+jī
+115.8
+稘.mp3
+

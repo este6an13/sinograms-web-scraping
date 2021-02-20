@@ -1,0 +1,2560 @@
+蔙
+['NONE']
+['NINGUNA']
+[]
+U+8519
+14
+xuàn
+140.11
+蔙.mp3
+
+蔚
+['luxuriant, thick', ' ornamental']
+['exuberante, espeso', 'ornamental']
+['https://media.gettyimages.com/photos/full-frame-shot-of-leaves-picture-id1179308570?k=6&m=1179308570&s=612x612&w=0&h=Us2WqXiXGNteA0pqmU3jCuMLArNqgekTjkUQn6-Mtv0=', 'https://media.gettyimages.com/vectors/chalkboard-vintage-frames-banners-and-badges-vector-id506598254?k=6&m=506598254&s=612x612&w=0&h=uSq1SQeThxIlXnBGhUexenIxeLcLGUcYNhI78j33XO4=']
+U+851A
+14
+wèi
+140.11
+蔚.mp3
+
+蔛
+['a small orchid-like plant it bears white flowers a dendrobium']
+['una pequeña planta parecida a una orquídea que tiene flores blancas un dendrobium']
+['NONE']
+U+851B
+14
+hú
+140.11
+蔛.mp3
+
+蔜
+['NONE']
+['NINGUNA']
+[]
+U+851C
+13
+áo
+140.11
+蔜.mp3
+
+蔝
+['NONE']
+['NINGUNA']
+[]
+U+851D
+14
+mǐ
+140.11
+蔝.mp3
+
+蔞
+['Artemisia stelleriana']
+['Artemisia stelleriana']
+['https://media.gettyimages.com/photos/color-stories-grey-picture-id602235505?k=6&m=602235505&s=612x612&w=0&h=DkenIgCyW-5spNr9K8Ue-eLhO1ywyEXfaeqpwfejnf0=']
+U+851E
+14
+lóu
+140.11
+蔞.mp3
+
+蔟
+['frame on which silkworms spin']
+['marco en el que giran los gusanos de seda']
+['https://media.gettyimages.com/photos/full-frame-shot-of-blueberries-picture-id1226899333?k=6&m=1226899333&s=612x612&w=0&h=voiCYYGYrEG6advp5ZLJ4GsvlMGpDmlVCIvpmvWTOA8=']
+U+851F
+14
+cù
+140.11
+蔟.mp3
+
+蔠
+['NONE']
+['NINGUNA']
+[]
+U+8520
+14
+zhōng
+140.11
+蔠.mp3
+
+蔡
+['surname', ' species of tortoise']
+['apellido', 'especie de tortuga']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/she-loves-wildlife-picture-id1071458292?k=6&m=1071458292&s=612x612&w=0&h=1AEDzcZJ1TW1BXng9is_QjBUUjtbpfw1pgb_gOBBlxE=']
+U+8521
+14
+cài
+140.11
+蔡.mp3
+
+蔢
+['NONE']
+['NINGUNA']
+[]
+U+8522
+14
+pó
+140.11
+蔢.mp3
+
+蔣
+['surname', ' Hydropyrum latifolium']
+['apellido', 'Hydropyrum latifolium']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE']
+U+8523
+14
+jiǎng
+140.11
+蔣.mp3
+
+蔤
+['NONE']
+['NINGUNA']
+[]
+U+8524
+14
+mì
+140.11
+蔤.mp3
+
+蔥
+['scallions, onions, leeks']
+['cebolletas, cebollas, puerros']
+['https://media.gettyimages.com/photos/food-picture-id463175283?k=6&m=463175283&s=612x612&w=0&h=QaWxPWgwA6z7MZ7eLQ0xqAJpyiRYPDb8vaIaw-_7qm4=']
+U+8525
+14
+cōng
+140.11
+蔥.mp3
+
+蔦
+['the convolvulus', ' parasitic plants such as mistletoe', ' Ribes ambiguum']
+['el convolvulus', 'plantas parásitas como el muérdago', 'Ribes ambiguum']
+['https://media.gettyimages.com/photos/bee-collecting-pollen-from-a-flower-of-convolvulus-cneorum-also-known-picture-id1134430427?k=6&m=1134430427&s=612x612&w=0&h=nYs5TLf4M1l6z_KGLQf-1-dA4IC17ieXs1CKc-iFej0=', 'https://media.gettyimages.com/photos/kissing-her-husband-as-he-washes-the-dishes-at-christmas-picture-id1019958404?k=6&m=1019958404&s=612x612&w=0&h=D0Wl3Tgt9zD1QnebLDiKEdl1jCAJsIhmSELIAyO33v4=', 'NONE']
+U+8526
+14
+niǎo
+140.11
+蔦.mp3
+
+蔧
+['NONE']
+['NINGUNA']
+[]
+U+8527
+14
+huì
+140.11
+蔧.mp3
+
+蔨
+['NONE']
+['NINGUNA']
+[]
+U+8528
+14
+juàn
+140.11
+蔨.mp3
+
+蔩
+['NONE']
+['NINGUNA']
+[]
+U+8529
+14
+yín
+140.11
+蔩.mp3
+
+蔪
+['NONE']
+['NINGUNA']
+[]
+U+852A
+14
+jiàn
+140.11
+蔪.mp3
+
+蔫
+['withered, faded, decayed', ' calm']
+['marchito, descolorido, decaído', 'calma']
+['https://media.gettyimages.com/photos/wilting-pink-rose-picture-id947725840?k=6&m=947725840&s=612x612&w=0&h=KV7YV_AAwwmoyNxq7m9qUiH2dOoZKI08KIkQqYb9uio=', 'https://media.gettyimages.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=6&m=1065043970&s=612x612&w=0&h=EaOM9vCKKjUak4W5dn-MKuEH3uoq5TdN-JBP70nPH-4=']
+U+852B
+14
+niān
+140.11
+蔫.mp3
+
+蔬
+['vegetables, greens']
+['verduras, verduras']
+['https://media.gettyimages.com/photos/green-fruits-and-vegetables-picture-id950516044?k=6&m=950516044&s=612x612&w=0&h=uTRSvo42--_rVHRcs-6iF3YBADSCCA0BFpAtMhRfGX8=']
+U+852C
+15
+shū
+140.11
+蔬.mp3
+
+蔭
+['shade, shelter', ' protect']
+['sombra, refugio', 'proteger']
+['https://media.gettyimages.com/photos/scary-redpainted-tunnel-in-the-subway-of-rome-italy-picture-id544614606?k=6&m=544614606&s=612x612&w=0&h=xTeISW-aneeHYze2PHP4dKBfoFiUs7u0PNk3BXFcgjI=', 'https://media.gettyimages.com/vectors/wuhan-coronavirus-outbreak-influenza-as-dangerous-flu-strain-cases-as-vector-id1209291124?k=6&m=1209291124&s=612x612&w=0&h=vlHTyTgW4BFxMkm0Wl7ectxC00VvliJbxYbvDBPZisg=']
+U+852D
+13
+yīn
+140.11
+蔭.mp3
+
+蔮
+['NONE']
+['NINGUNA']
+[]
+U+852E
+14
+guó
+140.11
+蔮.mp3
+
+蔯
+['a variety of artemisia']
+['una variedad de artemisia']
+['https://media.gettyimages.com/photos/variety-of-herbs-in-the-garden-picture-id1194577986?k=6&m=1194577986&s=612x612&w=0&h=au75IIuoeV0gL_dq3E2YXT3kha1KAh8JpkqlA8r-5p4=']
+U+852F
+13
+chén
+140.11
+蔯.mp3
+
+蔰
+['NONE']
+['NINGUNA']
+[]
+U+8530
+14
+hù
+140.11
+蔰.mp3
+
+蔱
+['NONE']
+['NINGUNA']
+[]
+U+8531
+13
+shā
+140.11
+蔱.mp3
+
+蔲
+['nutmeg']
+['nuez moscada']
+['https://media.gettyimages.com/photos/nutmegs-and-powder-picture-id851906170?k=6&m=851906170&s=612x612&w=0&h=A0vGsayZUEt7sSg9uYNRLSXxpcG0icyVVRNKP7ag2ns=']
+U+8532
+14
+kòu
+140.11
+蔲.mp3
+
+蔳
+['NONE']
+['NINGUNA']
+[]
+U+8533
+14
+qiàn
+140.11
+蔳.mp3
+
+蔴
+['hemp', ' sesame', ' applied to other plants furnishing textile fibres']
+['cáñamo', 'sésamo', 'aplicado a otras plantas que suministran fibras textiles']
+['https://media.gettyimages.com/photos/researcher-taking-a-few-cannabis-buds-for-scientific-experiment-picture-id1050807206?k=6&m=1050807206&s=612x612&w=0&h=OezwvZgniN_7fhlZJoM-uimpBPsE55NuHm_RRl174A4=', 'https://media.gettyimages.com/photos/sesame-seeds-picture-id157594579?k=6&m=157594579&s=612x612&w=0&h=PYYRYk5G4TzuW5XKKqNxndNZ_GpXCvhOnZrgesXfY4A=', 'NONE']
+U+8534
+14
+má
+140.11
+蔴.mp3
+
+蔵
+['hide, conceal', ' hoard, store up']
+['esconder, ocultar', 'atesorar, almacenar']
+['https://media.gettyimages.com/photos/woman-hiding-behind-cubicle-in-office-picture-id103060206?k=6&m=103060206&s=612x612&w=0&h=mm6WgYBRnMqYRtWAJQ3QgJO6kgpFZQ8PhuCur-dNKjE=', 'https://media.gettyimages.com/photos/fashion-dummies-picture-id136939782?k=6&m=136939782&s=612x612&w=0&h=KwK3OAdRM3ct5_shNAMNT1WB-jckPwTKjdPB-yfTwTE=']
+U+8535
+14
+zāng
+140.11
+蔵.mp3
+
+蔶
+['NONE']
+['NINGUNA']
+[]
+U+8536
+14
+zé
+140.11
+蔶.mp3
+
+蔷
+['rose']
+['Rosa']
+['https://media.gettyimages.com/photos/rose-background-picture-id174655938?k=6&m=174655938&s=612x612&w=0&h=jEhG95Qm-oPbannN_Uhw7k84SduEwMrskFx7IOa4DOo=']
+U+8537
+14
+qiáng
+140.11
+蔷.mp3
+
+蔸
+['counter for plant']
+['contador para planta']
+['https://media.gettyimages.com/photos/buying-time-while-waiting-for-customers-picture-id973096458?k=6&m=973096458&s=612x612&w=0&h=WbDX2pjDeF97yVtB7rC4J9S8X4SBgX8jemrvTyfiAV0=']
+U+8538
+14
+dōu
+140.11
+蔸.mp3
+
+蔹
+['wild vine, vitis pentaphylla']
+['vid silvestre, Vitis pentaphylla']
+['NONE']
+U+8539
+14
+liǎn
+140.11
+蔹.mp3
+
+蔺
+['rush used for making mats', ' surname']
+['prisa utilizada para hacer esteras', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+853A
+14
+lìn
+140.11
+蔺.mp3
+
+蔻
+['']
+['']
+['NONE']
+U+853B
+14
+kòu
+140.11
+蔻.mp3
+
+蔼
+['lush', ' affable, friendly']
+['lozano', 'afable']
+['https://media.gettyimages.com/photos/jungle-leaves-background-picture-id974079490?k=6&m=974079490&s=612x612&w=0&h=b19ayS1DK3yx3YvolSrp5cTNXofGJCBPlca-yFSLDj8=', 'https://media.gettyimages.com/photos/two-young-women-friends-sharing-happy-time-together-picture-id1057923694?k=6&m=1057923694&s=612x612&w=0&h=-xzoJqEIxm05jH3IIX6oJuO_0UcJE-baUpq3XKoZF6E=']
+U+853C
+14
+ǎi
+140.11
+蔼.mp3
+
+蔽
+['cover, hide, conceal', ' shelter']
+['cubrir, ocultar, ocultar', 'abrigo']
+['https://media.gettyimages.com/photos/new-product-presentation-picture-id184377475?k=6&m=184377475&s=612x612&w=0&h=aoZdc99Q5iE3veDfIX_TPBTC7d_VM_lYPWyXGyIdzT8=', 'https://media.gettyimages.com/photos/animal-shelter-picture-id1172155138?k=6&m=1172155138&s=612x612&w=0&h=guf-TdT206nruZZQUH6YHzz9X16VTkVEGkm_RGBYcY8=']
+U+853D
+14
+bì
+140.12
+蔽.mp3
+
+蔾
+['kind of bramble']
+['especie de zarza']
+['https://media.gettyimages.com/photos/family-party-in-a-farmhouse-in-the-country-in-new-york-state-a-mature-picture-id464722219?k=6&m=464722219&s=612x612&w=0&h=kPPvMpHKcqb_8thQsCsXETCCOPLWG9nzCBWqitGFuKc=']
+U+853E
+15
+lí
+140.12
+蔾.mp3
+
+蔿
+['surname', ' place name']
+['apellido', 'ponga su nombre']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/tented-blank-white-card-on-a-white-surface-picture-id95769992?k=6&m=95769992&s=612x612&w=0&h=F-Qqne3Ml4I-c_naf_f8um6uX4RD2rFG066p1ChvGTY=']
+U+853F
+15
+wěi
+140.12
+蔿.mp3
+
+蕀
+['NONE']
+['NINGUNA']
+[]
+U+8540
+15
+jí
+140.12
+蕀.mp3
+
+蕁
+['nettle']
+['ortiga']
+['https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+8541
+15
+qián
+140.12
+蕁.mp3
+
+蕂
+['sesame']
+['sésamo']
+['https://media.gettyimages.com/photos/sesame-seeds-picture-id157594579?k=6&m=157594579&s=612x612&w=0&h=PYYRYk5G4TzuW5XKKqNxndNZ_GpXCvhOnZrgesXfY4A=']
+U+8542
+15
+shèng
+140.12
+蕂.mp3
+
+蕃
+['foreign things']
+['cosas extrañas']
+['https://media.gettyimages.com/photos/off-on-holiday-picture-id628296930?k=6&m=628296930&s=612x612&w=0&h=M_jJhCwoe3t-fDu7X7Ow0mPiX7knmvCyMb1xnz2krVE=']
+U+8543
+15
+fān
+140.12
+蕃.mp3
+
+蕄
+['NONE']
+['NINGUNA']
+[]
+U+8544
+15
+méng
+140.12
+蕄.mp3
+
+蕅
+['NONE']
+['NINGUNA']
+[]
+U+8545
+15
+ǒu
+140.12
+蕅.mp3
+
+蕆
+['finish, complete', ' solve', ' complete']
+['terminar, completar', 'resolver', 'completar']
+['https://media.gettyimages.com/vectors/tick-icon-vector-symbol-vector-id971623860?k=6&m=971623860&s=612x612&w=0&h=WIkXzhiOjBk6YqWGIbzo-_ttLKbDnK0y2GsYGfGEVAA=', 'https://media.gettyimages.com/vectors/assessment-icons-line-series-vector-id1062446456?k=6&m=1062446456&s=612x612&w=0&h=LnYN9M8u7hYnOY026NWlhs1wHu7dK1jeQo-Q6JFF8Bc=', 'https://media.gettyimages.com/vectors/tick-icon-vector-symbol-vector-id971623860?k=6&m=971623860&s=612x612&w=0&h=WIkXzhiOjBk6YqWGIbzo-_ttLKbDnK0y2GsYGfGEVAA=']
+U+8546
+15
+chǎn
+140.12
+蕆.mp3
+
+蕇
+['NONE']
+['NINGUNA']
+[]
+U+8547
+15
+diǎn
+140.12
+蕇.mp3
+
+蕈
+['mushrooms, fungus', ' mildew, mold']
+['setas, hongos', 'moho, moho']
+['https://media.gettyimages.com/photos/closeup-of-mushrooms-growing-on-log-picture-id692774453?k=6&m=692774453&s=612x612&w=0&h=xtkRYcr1ep7IKesK81uaOIQXw-qh9xK9Peyi_gPBhUw=', 'https://media.gettyimages.com/photos/mold-growth-on-wall-and-damp-stained-wood-door-picture-id168259571?k=6&m=168259571&s=612x612&w=0&h=r2154rcRI51P3dypn-Hq8YkTXQ3zMRg2LILkprj6dAU=']
+U+8548
+15
+xùn
+140.12
+蕈.mp3
+
+蕉
+['banana', ' plantain']
+['plátano', 'plátano']
+['https://media.gettyimages.com/photos/banana-bunch-picture-id173242750?k=6&m=173242750&s=612x612&w=0&h=QJB3WhqIWcF1umqELWFUVu32OJWCuePabFClaMfRWbo=', 'https://media.gettyimages.com/photos/banana-plantain-in-a-pallets-picture-id157649806?k=6&m=157649806&s=612x612&w=0&h=LWNFbxGRDRkn50RAX58O69ugAEwVgX5b0yDOH6owKC0=']
+U+8549
+15
+jiāo
+140.12
+蕉.mp3
+
+蕊
+['unopened flowers, flower buds']
+['flores sin abrir, botones florales']
+['https://media.gettyimages.com/photos/bud-picture-id1129535512?k=6&m=1129535512&s=612x612&w=0&h=DN9NOwE6sISsoCoPoJATbbeljIKUwByLTZfJqddVhIY=']
+U+854A
+15
+ruǐ
+140.12
+蕊.mp3
+
+蕋
+['unopened flowers, flower buds']
+['flores sin abrir, botones florales']
+['https://media.gettyimages.com/photos/bud-picture-id1129535512?k=6&m=1129535512&s=612x612&w=0&h=DN9NOwE6sISsoCoPoJATbbeljIKUwByLTZfJqddVhIY=']
+U+854B
+15
+ruǐ
+140.12
+蕋.mp3
+
+蕌
+['NONE']
+['NINGUNA']
+[]
+U+854C
+15
+lěi
+140.12
+蕌.mp3
+
+蕍
+['NONE']
+['NINGUNA']
+[]
+U+854D
+15
+yú
+140.12
+蕍.mp3
+
+蕎
+['buckwheat']
+['alforfón']
+['https://media.gettyimages.com/photos/dietary-fiber-wholegrain-buckwheat-in-a-black-bowl-on-rustic-wooden-picture-id1178319145?k=6&m=1178319145&s=612x612&w=0&h=-DdtCIyG6CJMvWGggWS-0pcsf0abjhJG4fRSeWeo3xo=']
+U+854E
+15
+qiáo
+140.12
+蕎.mp3
+
+蕏
+['NONE']
+['NINGUNA']
+[]
+U+854F
+14
+chú
+140.12
+蕏.mp3
+
+蕐
+['splendor, glory', ' China']
+['esplendor, gloria', 'China']
+['https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=', 'https://media.gettyimages.com/vectors/seamless-pattern-vector-id166010178?k=6&m=166010178&s=612x612&w=0&h=9-dUNnvq6bLKusKcZBRWY4PCcNwSS7ExxQ6Vn3zzdck=']
+U+8550
+15
+huá
+140.12
+蕐.mp3
+
+蕑
+['valeriana villosa, climbing plant']
+['valeriana villosa, planta trepadora']
+['NONE']
+U+8551
+15
+jiān
+140.12
+蕑.mp3
+
+蕒
+['a plant name']
+['un nombre de planta']
+['https://media.gettyimages.com/photos/scanning-and-checking-boxes-picture-id835810076?k=6&m=835810076&s=612x612&w=0&h=EalNFpXMVrkptzakUHaBxAyfBr6Y59e0DJUUXNzRNvY=']
+U+8552
+15
+mǎi
+140.12
+蕒.mp3
+
+蕓
+['rue, an herb used keep insects away']
+['ruda, una hierba utilizada para mantener alejados a los insectos']
+['NONE']
+U+8553
+15
+yún
+140.12
+蕓.mp3
+
+蕔
+['NONE']
+['NINGUNA']
+[]
+U+8554
+15
+bāo
+140.12
+蕔.mp3
+
+蕕
+['caryopteris divaricata']
+['caryopteris divaricata']
+['https://media.gettyimages.com/photos/caryopteris-divaricata-picture-id1152099410?k=6&m=1152099410&s=612x612&w=0&h=iT4_FBGbwRh1zFGXSY8fho1C7Mi8_IJ8h3A_SKqBaCE=']
+U+8555
+15
+yóu
+140.12
+蕕.mp3
+
+蕖
+['lotus, water-lily']
+['loto, nenúfar']
+['https://media.gettyimages.com/vectors/lotus-flower-symbols-vector-id1050933116?k=6&m=1050933116&s=612x612&w=0&h=U13bgfBKwzwNW0xoTonLUBEoYr-GB2gxmd4KTtmpjXA=']
+U+8556
+14
+qú
+140.12
+蕖.mp3
+
+蕗
+['leucacene']
+['leucaceno']
+['NONE']
+U+8557
+16
+lù
+140.12
+蕗.mp3
+
+蕘
+['fuel, firewood', ' stubble']
+['combustible, leña', 'rastrojo']
+['https://media.gettyimages.com/photos/fresh-cut-firewood-picture-id1173852178?k=6&m=1173852178&s=612x612&w=0&h=KbA_HO59f05LgUYkjQxt4SSzZgnV2vx93rG7DuU4yu4=', 'https://media.gettyimages.com/photos/smiling-businessman-with-brown-bag-walking-in-city-picture-id691910455?k=6&m=691910455&s=612x612&w=0&h=y7VbWAuA5TZjBtDt3s63yisIngc4sd4SCqOqsU7khSA=']
+U+8558
+15
+ráo
+140.12
+蕘.mp3
+
+蕙
+['species of fragrant orchid']
+['especies de orquídeas fragantes']
+['https://media.gettyimages.com/vectors/watercolor-vanilla-vector-id1178089401?k=6&m=1178089401&s=612x612&w=0&h=bqNqicsLX_JlcHXpN3z6DG8MoH1Xp_BoAwBHAT6mo0s=']
+U+8559
+15
+huì
+140.12
+蕙.mp3
+
+蕚
+['the calyx of a flower', ' younger brother']
+['el cáliz de una flor', 'hermano más joven']
+['https://media.gettyimages.com/photos/single-orange-colored-royal-poinciana-flower-against-cream-background-picture-id1248209152?k=6&m=1248209152&s=612x612&w=0&h=4me6nln0FFF_2Ds_I7VQ7NEZXqQqrPj6PGhlKOSvGk8=', 'https://media.gettyimages.com/photos/sister-embracing-younger-brothers-in-dandelion-field-picture-id528960642?k=6&m=528960642&s=612x612&w=0&h=UlkiRbskK2lvVAQAVvFxT8tmPF0JJfJuClexgnVPPz0=']
+U+855A
+15
+è
+140.12
+蕚.mp3
+
+蕛
+['NONE']
+['NINGUNA']
+[]
+U+855B
+15
+tí
+140.12
+蕛.mp3
+
+蕜
+['NONE']
+['NINGUNA']
+[]
+U+855C
+15
+fěi
+140.12
+蕜.mp3
+
+蕝
+['handful']
+['puñado']
+['https://media.gettyimages.com/photos/close-up-of-boy-holding-ice-cream-cone-side-view-picture-id72983830?k=6&m=72983830&s=612x612&w=0&h=n0ASiYsckNp_omgAfpnDudxq6C8EXEJfjwGWw0eyFSE=']
+U+855D
+15
+jué
+140.12
+蕝.mp3
+
+蕞
+['little, small, tiny', ' petty']
+['pequeño, pequeño, diminuto', 'pequeño']
+['https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'https://media.gettyimages.com/photos/you-never-listen-picture-id1162106983?k=6&m=1162106983&s=612x612&w=0&h=x_QM_3wjjG3M2tpPOy-tTfIiEV68CsP596qKZ9_i0Bo=']
+U+855E
+15
+zuì
+140.12
+蕞.mp3
+
+蕟
+['NONE']
+['NINGUNA']
+[]
+U+855F
+15
+fà
+140.12
+蕟.mp3
+
+蕠
+['NONE']
+['NINGUNA']
+[]
+U+8560
+15
+rú
+140.12
+蕠.mp3
+
+蕡
+['hemp seeds', ' plant with abundant']
+['semillas de cáñamo', 'planta con abundante']
+['https://media.gettyimages.com/photos/hemp-seeds-scattered-picture-id183238484?k=6&m=183238484&s=612x612&w=0&h=Mh6PVtq8YA0vgcP0pPwl4zo4Rj-kTOFnbuXz0ev-_DY=', 'https://media.gettyimages.com/photos/crops-grow-on-fertile-farm-land-panoramic-before-harvest-picture-id937010674?k=6&m=937010674&s=612x612&w=0&h=CfpTzmFjHUK8K_cRSePnGpEQVOscfCiTsB1fuZkCL0s=']
+U+8561
+15
+fén
+140.12
+蕡.mp3
+
+蕢
+['edible amaranth', ' straw basket']
+['amaranto comestible', 'canasta de paja']
+['https://media.gettyimages.com/photos/organic-chocolate-and-buckwheat-porridge-bowl-topped-with-banana-picture-id1169519723?k=6&m=1169519723&s=612x612&w=0&h=8YVjZkvqFKG0BNtrM7NgEr7wa4ze38MzvqsUvOHJn5I=', 'https://media.gettyimages.com/photos/old-woven-bamboo-texture-for-background-picture-id954558212?k=6&m=954558212&s=612x612&w=0&h=8j498AGKAwMr5Adx9uoQ83QFZPkiNNLuPqJWNwrlYpM=']
+U+8562
+15
+kuì
+140.12
+蕢.mp3
+
+蕣
+['hibiscus']
+['hibiscus']
+['https://media.gettyimages.com/photos/perfect-pink-hibiscus-flower-picture-id157609777?k=6&m=157609777&s=612x612&w=0&h=27ppKTcBf5d2hvt4x9ZugP-4_Qb3_17J30OcMogQGcg=']
+U+8563
+15
+shùn
+140.12
+蕣.mp3
+
+蕤
+['drooping leaves', ' fringe soft, delicate']
+['hojas caídas', 'franja suave, delicada']
+['https://media.gettyimages.com/photos/roses-picture-id96001217?k=6&m=96001217&s=612x612&w=0&h=lEFHk4lDYlUEHIndZwpCUntlWMdZ5w_GVjqJnsIydjs=', 'https://media.gettyimages.com/photos/soft-plus-picture-id91546167?k=6&m=91546167&s=612x612&w=0&h=3o_GkkrKCHgdEM86GklDnQNxoZ_QHY9_TnZ99zm4jd8=']
+U+8564
+15
+ruí
+140.12
+蕤.mp3
+
+蕥
+['NONE']
+['NINGUNA']
+[]
+U+8565
+15
+yǎ
+140.12
+蕥.mp3
+
+蕦
+['NONE']
+['NINGUNA']
+[]
+U+8566
+15
+xū
+140.12
+蕦.mp3
+
+蕧
+['NONE']
+['NINGUNA']
+[]
+U+8567
+15
+fù
+140.12
+蕧.mp3
+
+蕨
+['pteris aquilina, common bracken']
+['pteris aquilina, helecho común']
+['NONE']
+U+8568
+15
+jué
+140.12
+蕨.mp3
+
+蕩
+['pond, pool', ' wash away, cleanse']
+['estanque, piscina', 'lavar, limpiar']
+['https://media.gettyimages.com/photos/water-surface-picture-id185104679?k=6&m=185104679&s=612x612&w=0&h=Gn942iYSvNkryHfk29Tl0SgLwxuXJVbzvR9Zfxpog-0=', 'https://media.gettyimages.com/photos/young-woman-removing-makeup-from-her-face-picture-id980392648?k=6&m=980392648&s=612x612&w=0&h=gkGVw3HXD2joWg-RPxg8p-gnnsa3yfOrvCdCyJtU8bk=']
+U+8569
+15
+dàng
+140.12
+蕩.mp3
+
+蕪
+['luxurious growth of weeds']
+['crecimiento lujoso de malezas']
+['https://media.gettyimages.com/photos/vintage-background-narrow-path-in-the-rye-field-among-the-ears-of-picture-id543648670?k=6&m=543648670&s=612x612&w=0&h=NI38lJMyaoNUAIFBs9eFAnBSxY1gxkKeGZQGHkrv2Vc=']
+U+856A
+15
+wú
+140.12
+蕪.mp3
+
+蕫
+['NONE']
+['NINGUNA']
+[]
+U+856B
+15
+dǒng
+140.12
+蕫.mp3
+
+蕬
+['NONE']
+['NINGUNA']
+[]
+U+856C
+15
+sī
+140.12
+蕬.mp3
+
+蕭
+['common artemisia', ' sighing of wind', ' mournful', ' dejected']
+['artemisia común', 'suspiro de viento', 'triste', 'abatido']
+['https://media.gettyimages.com/photos/absinthe-picture-id726795687?k=6&m=726795687&s=612x612&w=0&h=gUiTlUNEqUGYABZPixEdF5ARewJHXaUaPuA9JJGxxHY=', 'NONE', 'https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/portrait-of-pensive-woman-sitting-at-table-in-the-kitchen-picture-id919440232?k=6&m=919440232&s=612x612&w=0&h=6yI90cmoKY8Xd-e-7Fb_2HJkUl00XA29QmR_x_AD_Hs=']
+U+856D
+16
+xiāo
+140.12
+蕭.mp3
+
+蕮
+['NONE']
+['NINGUNA']
+[]
+U+856E
+15
+xì
+140.12
+蕮.mp3
+
+蕯
+['NONE']
+['NINGUNA']
+[]
+U+856F
+14
+lóng
+140.12
+蕯.mp3
+
+蕰
+["the hippuris or mare's tail plant"]
+['la planta hippuris o cola de yegua']
+['https://media.gettyimages.com/photos/pinto-arabian-horses-mare-and-newborn-foal-picture-id170613270?k=6&m=170613270&s=612x612&w=0&h=6ocgZVuvybbHnl4aDERqDYmL8-uAZfgN7XFHe-YdkNM=']
+U+8570
+15
+wēn
+140.12
+蕰.mp3
+
+蕱
+['NONE']
+['NINGUNA']
+[]
+U+8571
+15
+shāo
+140.12
+蕱.mp3
+
+蕲
+['variety of artemisia seek']
+['variedad de artemisia buscar']
+['NONE']
+U+8572
+15
+qí
+140.12
+蕲.mp3
+
+蕳
+['agueweed']
+['agueweed']
+['https://media.gettyimages.com/photos/red-admiral-vanessa-atalanta-in-search-of-nectar-on-common-boneset-picture-id495799447?k=6&m=495799447&s=612x612&w=0&h=adBHZ3pmrlyRPV6NHHBUYnhDP4NAKeaqwxCLuILDA5c=']
+U+8573
+15
+jiān
+140.12
+蕳.mp3
+
+蕴
+['to collect, gather, store', ' profound']
+['recolectar, recolectar, almacenar', 'profundo']
+['https://media.gettyimages.com/photos/fresh-fish-fillets-for-sale-in-seafood-store-picture-id638480584?k=6&m=638480584&s=612x612&w=0&h=PIg78Epbfe13P_Ml4xr-V0u-8AwlCyHwVM6YOyVx3O4=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=']
+U+8574
+15
+yùn
+140.12
+蕴.mp3
+
+蕵
+['NONE']
+['NINGUNA']
+[]
+U+8575
+15
+sūn
+140.12
+蕵.mp3
+
+蕶
+['NONE']
+['NINGUNA']
+[]
+U+8576
+16
+líng
+140.13
+蕶.mp3
+
+蕷
+['yam']
+['batata']
+['https://media.gettyimages.com/photos/closeup-of-three-raw-sweet-potatoes-picture-id183757447?k=6&m=183757447&s=612x612&w=0&h=rNUbskzQVNPrqjVobJRjb7UslTN5j7XnQwlh7faFeeI=']
+U+8577
+16
+yù
+140.13
+蕷.mp3
+
+蕸
+["water lily's leaf"]
+['hoja de nenúfares']
+['https://media.gettyimages.com/photos/closeup-of-lotus-water-lily-in-lake-picture-id1162508562?k=6&m=1162508562&s=612x612&w=0&h=8qS5N56b7j9oLkwd10pIEEqmIioAFUYIjMOxMkJF2Os=']
+U+8578
+15
+xiá
+140.13
+蕸.mp3
+
+蕹
+['Ipomoea aquatica used as a vegetable']
+['Ipomoea aquatica utilizada como verdura']
+['NONE']
+U+8579
+16
+wèng
+140.13
+蕹.mp3
+
+蕺
+['NONE']
+['NINGUNA']
+[]
+U+857A
+15
+jí
+140.13
+蕺.mp3
+
+蕻
+['NONE']
+['NINGUNA']
+[]
+U+857B
+16
+hóng
+140.13
+蕻.mp3
+
+蕼
+['NONE']
+['NINGUNA']
+[]
+U+857C
+16
+sì
+140.13
+蕼.mp3
+
+蕽
+['NONE']
+['NINGUNA']
+[]
+U+857D
+16
+nóng
+140.13
+蕽.mp3
+
+蕾
+['buds, unopened flowers']
+['capullos, flores sin abrir']
+['https://media.gettyimages.com/photos/bud-picture-id1129535512?k=6&m=1129535512&s=612x612&w=0&h=DN9NOwE6sISsoCoPoJATbbeljIKUwByLTZfJqddVhIY=']
+U+857E
+16
+lěi
+140.13
+蕾.mp3
+
+蕿
+['NONE']
+['NINGUNA']
+[]
+U+857F
+16
+xuān
+140.13
+蕿.mp3
+
+薀
+["the hippuris or mare's tail plant"]
+['la planta hippuris o cola de yegua']
+['https://media.gettyimages.com/photos/pinto-arabian-horses-mare-and-newborn-foal-picture-id170613270?k=6&m=170613270&s=612x612&w=0&h=6ocgZVuvybbHnl4aDERqDYmL8-uAZfgN7XFHe-YdkNM=']
+U+8580
+16
+yùn
+140.13
+薀.mp3
+
+薁
+['vine']
+['Está viniendo']
+['https://media.gettyimages.com/photos/nash-grier-arrives-at-the-2016-iheartradio-muchmusic-video-awards-at-picture-id541531292?k=6&m=541531292&s=612x612&w=0&h=LbZQtt7oB_M_42vetxalWQ6_yhyb8ljiQygD-JYUjS8=']
+U+8581
+15
+yù
+140.13
+薁.mp3
+
+薂
+['NONE']
+['NINGUNA']
+[]
+U+8582
+16
+xí
+140.13
+薂.mp3
+
+薃
+['NONE']
+['NINGUNA']
+[]
+U+8583
+16
+hào
+140.13
+薃.mp3
+
+薄
+['thin, slight, weak', ' poor, stingy']
+['delgado, ligero, débil', 'pobre, tacaño']
+['NONE', 'NONE']
+U+8584
+16
+báo bó
+140.13
+薄.mp3
+
+薅
+['to weed', ' to eradicate']
+['desmalezar', 'Para erradicar']
+['https://media.gettyimages.com/photos/young-adult-man-rolling-a-marijuana-joint-picture-id1139292066?k=6&m=1139292066&s=612x612&w=0&h=kqQeVl-3Fo0ZkNMBcEjSNy3LQe_tyGnYhlbf1zLYFBw=', 'https://media.gettyimages.com/vectors/eradicate-hate-racism-prejudice-concept-graphic-billboard-vector-id908310158?k=6&m=908310158&s=612x612&w=0&h=NWs4hDUlESpN9iahvhLoh_6SMhgw0K6dLGobcaxhIuk=']
+U+8585
+16
+hāo
+140.13
+薅.mp3
+
+薆
+['to cover', ' to hide', ' to conceal']
+['cubrir', 'esconder', 'ocultar']
+['https://media.gettyimages.com/photos/isolated-shot-of-white-blank-book-on-white-background-picture-id118103146?k=6&m=118103146&s=612x612&w=0&h=wHZSF5_nj2CsghJuekSG10FQAJzN3k6_24U27U97B_o=', 'https://media.gettyimages.com/photos/woman-hiding-behind-cubicle-in-office-picture-id103060206?k=6&m=103060206&s=612x612&w=0&h=mm6WgYBRnMqYRtWAJQ3QgJO6kgpFZQ8PhuCur-dNKjE=', 'https://media.gettyimages.com/vectors/camo-seamless-vector-id612523666?k=6&m=612523666&s=612x612&w=0&h=TRAI4dcRVRBsMZYCMc9w2amp4Kezd581hr3zudZL_uE=']
+U+8586
+16
+ài
+140.13
+薆.mp3
+
+薇
+['Osmunda regalis, a species of fern']
+['Osmunda regalis, una especie de helecho']
+['https://media.gettyimages.com/illustrations/botany-plants-antique-engraving-illustration-osmunda-regalis-royal-illustration-id974936354?k=6&m=974936354&s=612x612&w=0&h=tTHJtIU_tSniYmqarp1hIygy2ZDlmRq7w_V0hVJKbAk=']
+U+8587
+16
+wēi
+140.13
+薇.mp3
+
+薈
+['luxuriant, flourishing, abundant']
+['exuberante, floreciente, abundante']
+['https://media.gettyimages.com/photos/crops-grow-on-fertile-farm-land-panoramic-before-harvest-picture-id937010674?k=6&m=937010674&s=612x612&w=0&h=CfpTzmFjHUK8K_cRSePnGpEQVOscfCiTsB1fuZkCL0s=']
+U+8588
+16
+huì
+140.13
+薈.mp3
+
+薉
+['dirty, unclean', ' immoral, obscene']
+['sucio, inmundo', 'inmoral, obsceno']
+['https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=', 'https://media.gettyimages.com/photos/angry-guru-doing-an-obscene-gesture-picture-id109719182?k=6&m=109719182&s=612x612&w=0&h=u7qWeFI014mIiwhzT9E3pro76wwpUlKWyViMvX5298w=']
+U+8589
+16
+huì
+140.13
+薉.mp3
+
+薊
+['circium, thistles', ' surname']
+['cirsium, cardos', 'apellido']
+['https://media.gettyimages.com/photos/circium-atropurpureum-picture-id545617536?k=6&m=545617536&s=612x612&w=0&h=nWUk1vKqySuQ39qxrM0E9khVh0K3nmMoZ4rJUlD4HXk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+858A
+16
+jì
+140.13
+薊.mp3
+
+薋
+['NONE']
+['NINGUNA']
+[]
+U+858B
+16
+cí
+140.13
+薋.mp3
+
+薌
+['fragrant smell of grain', ' aromatic']
+['olor fragante a grano', 'aromático']
+['https://media.gettyimages.com/photos/table-top-view-of-coffee-beans-and-cup-picture-id1135132175?k=6&m=1135132175&s=612x612&w=0&h=luJ-Q8-AcUN8UWDB7hrovuYxBksICMVKkjQsYC1oXOg=', 'https://media.gettyimages.com/photos/essential-oil-lavender-and-orange-dry-on-a-wooden-table-top-view-picture-id1134054641?k=6&m=1134054641&s=612x612&w=0&h=RWLkkeNwunqLWqoDA4dNnOe1jv9IzrETbUKgMGFx7Wg=']
+U+858C
+14
+xiāng
+140.13
+薌.mp3
+
+薍
+['NONE']
+['NINGUNA']
+[]
+U+858D
+16
+wàn
+140.13
+薍.mp3
+
+薎
+['NONE']
+['NINGUNA']
+[]
+U+858E
+16
+miè
+140.13
+薎.mp3
+
+薏
+["seed of job's tears", ' lotus seed']
+['semilla de las lágrimas de job', 'semilla de loto']
+['https://media.gettyimages.com/photos/top-view-of-jobs-tears-background-healthy-food-picture-id1161302661?k=6&m=1161302661&s=612x612&w=0&h=EYQ8KWp5Hf1CI9wxDQrqKv-elC2aNfrnpzhRsC4N6oI=', 'https://media.gettyimages.com/photos/lotus-flower-red-and-white-japan-culture-travel-picture-id1190404804?k=6&m=1190404804&s=612x612&w=0&h=v6_8T7ypgR595QK_eN6n4SPtiJ7XGpcR4GmkkPSQ0rQ=']
+U+858F
+16
+yì
+140.13
+薏.mp3
+
+薐
+['spinach']
+['Espinacas']
+['https://media.gettyimages.com/photos/spinach-picture-id169983791?k=6&m=169983791&s=612x612&w=0&h=QEht9691FlsuXD1g_afOfOHZwry32PhrzXhnvLELkJE=']
+U+8590
+16
+léng
+140.13
+薐.mp3
+
+薑
+['ginger']
+['jengibre']
+['https://media.gettyimages.com/photos/ginger-root-isolated-on-white-background-picture-id154947950?k=6&m=154947950&s=612x612&w=0&h=oxLrn62ANVENjikq5kA6EDcsY89nXbJX9Gq4OQUNNks=']
+U+8591
+16
+jiāng
+140.13
+薑.mp3
+
+薒
+['NONE']
+['NINGUNA']
+[]
+U+8592
+16
+càn
+140.13
+薒.mp3
+
+薓
+['ginseng']
+['ginseng']
+['https://media.gettyimages.com/photos/closeup-of-dry-ginseng-slices-capsules-and-roots-picture-id146883023?k=6&m=146883023&s=612x612&w=0&h=-G65_eF80bqs7IxIx745VVSqvJqMWiq9G-Hk-4xTLdU=']
+U+8593
+16
+shēn
+140.13
+薓.mp3
+
+薔
+['rose']
+['Rosa']
+['https://media.gettyimages.com/photos/rose-background-picture-id174655938?k=6&m=174655938&s=612x612&w=0&h=jEhG95Qm-oPbannN_Uhw7k84SduEwMrskFx7IOa4DOo=']
+U+8594
+16
+qiáng
+140.13
+薔.mp3
+
+薕
+['NONE']
+['NINGUNA']
+[]
+U+8595
+16
+lián
+140.13
+薕.mp3
+
+薖
+['empty, hungry-looking']
+['vacío, hambriento']
+['NONE']
+U+8596
+14
+kē
+140.13
+薖.mp3
+
+薗
+['garden', ' park, orchard']
+['jardín', 'parque, huerta']
+['https://media.gettyimages.com/photos/family-harvesting-vegetables-from-garden-at-small-home-farm-picture-id1174001922?k=6&m=1174001922&s=612x612&w=0&h=WHMPmuo37a3ESLc8I-nqPVWyY3FIOiOg1ZIQqq52kAw=', 'https://media.gettyimages.com/photos/pedroveya-asturias-spain-picture-id1015263684?k=6&m=1015263684&s=612x612&w=0&h=Npm0qbrtZID-jACKnAPM9QLJ82aF1XpnsSOefAaSiC8=']
+U+8597
+16
+yuán
+140.13
+薗.mp3
+
+薘
+['plantago major']
+['plantago mayor']
+['https://media.gettyimages.com/illustrations/antique-botany-illustration-plantago-major-illustration-id1207315548?k=6&m=1207315548&s=612x612&w=0&h=5l8CLISN1fkhfgH4HgPnoeYz6M5o7fU_omzMchhbIms=']
+U+8598
+15
+dá
+140.13
+薘.mp3
+
+薙
+['weed', ' shave']
+['hierba', 'afeitado']
+['https://media.gettyimages.com/photos/young-adult-man-rolling-a-marijuana-joint-picture-id1139292066?k=6&m=1139292066&s=612x612&w=0&h=kqQeVl-3Fo0ZkNMBcEjSNy3LQe_tyGnYhlbf1zLYFBw=', 'https://media.gettyimages.com/photos/enjoying-his-morning-routine-picture-id499806289?k=6&m=499806289&s=612x612&w=0&h=a38jRgJozPQSIv0wQ1SWzb_vsaYWU9uDcw5qd_lI6Z4=']
+U+8599
+16
+tì
+140.13
+薙.mp3
+
+薚
+['NONE']
+['NINGUNA']
+[]
+U+859A
+16
+tāng
+140.13
+薚.mp3
+
+薛
+['kind of marsh grass', ' feudal state']
+['especie de hierba de pantano', 'estado feudal']
+['https://media.gettyimages.com/photos/playing-with-the-perspective-filling-bottle-of-water-from-waterfall-picture-id1155224111?k=6&m=1155224111&s=612x612&w=0&h=Lx__9IeG3pYzjaulp3t4wxzN0wTSchcyUfpihHt3i5A=', 'https://media.gettyimages.com/photos/american-toilet-new-york-usa-picture-id1027629108?k=6&m=1027629108&s=612x612&w=0&h=gOeTIkLvaHm8MLNlffiLnjEEXw3hL5g5pIHQUyD5nBA=']
+U+859B
+16
+xuē
+140.13
+薛.mp3
+
+薜
+['evergreen shrubs, ligusticum']
+['arbustos de hoja perenne, ligusticum']
+['NONE']
+U+859C
+16
+bì
+140.13
+薜.mp3
+
+薝
+['NONE']
+['NINGUNA']
+[]
+U+859D
+16
+zhān
+140.13
+薝.mp3
+
+薞
+['NONE']
+['NINGUNA']
+[]
+U+859E
+16
+sūn
+140.13
+薞.mp3
+
+薟
+['vine']
+['Está viniendo']
+['https://media.gettyimages.com/photos/nash-grier-arrives-at-the-2016-iheartradio-muchmusic-video-awards-at-picture-id541531292?k=6&m=541531292&s=612x612&w=0&h=LbZQtt7oB_M_42vetxalWQ6_yhyb8ljiQygD-JYUjS8=']
+U+859F
+16
+xiān
+140.13
+薟.mp3
+
+薠
+['NONE']
+['NINGUNA']
+[]
+U+85A0
+16
+fán
+140.13
+薠.mp3
+
+薡
+['NONE']
+['NINGUNA']
+[]
+U+85A1
+15
+dǐng
+140.13
+薡.mp3
+
+薢
+['woody climbing plant']
+['planta trepadora leñosa']
+['https://media.gettyimages.com/vectors/woman-and-nature-vector-id520564131?k=6&m=520564131&s=612x612&w=0&h=_0daiP7r2udsy5_S6WrcEb5Ew_MlVVrJ_dXsdrklOg0=']
+U+85A2
+16
+xiè
+140.13
+薢.mp3
+
+薣
+['NONE']
+['NINGUNA']
+[]
+U+85A3
+16
+gǔ
+140.13
+薣.mp3
+
+薤
+['allium bakeri', ' shallots, scallion']
+['panadería allium', 'chalotes, cebolleta']
+['NONE', 'https://media.gettyimages.com/photos/diced-green-onions-picture-id157508398?k=6&m=157508398&s=612x612&w=0&h=cBHiRYHl42ryubGdj_TEhLwun8I75U3TuE_OsVf4t5c=']
+U+85A4
+16
+xiè
+140.13
+薤.mp3
+
+薥
+['NONE']
+['NINGUNA']
+[]
+U+85A5
+16
+shǔ
+140.13
+薥.mp3
+
+薦
+['offer, present', ' recommend']
+['oferta, presente', 'recomendar']
+['https://media.gettyimages.com/photos/hands-giving-gift-closeup-picture-id871610664?k=6&m=871610664&s=612x612&w=0&h=X2wHxwtV0Ku7NAUfeWNyTw9kigc5lk9AcVGyqOkhsE0=', 'https://media.gettyimages.com/vectors/feedback-and-testimonials-line-icons-editable-stroke-pixel-perfect-vector-id1158238775?k=6&m=1158238775&s=612x612&w=0&h=ZiQhSrTzwXGwgIPMOyYFpM_mGjgc6VfO32WuDa9MaBo=']
+U+85A6
+16
+jiàn
+140.13
+薦.mp3
+
+薧
+['dried food']
+['comida seca']
+['https://media.gettyimages.com/photos/dry-herbs-picture-id175416266?k=6&m=175416266&s=612x612&w=0&h=4cCC9qFC-FVot91aRC0Ptv0rL9qpzWHWIu6mwRgphzE=']
+U+85A7
+16
+hāo
+140.13
+薧.mp3
+
+薨
+['death of prince', ' swarming']
+['muerte del príncipe', 'enjambre']
+['https://media.gettyimages.com/vectors/fairy-tales-icons-vector-id479397769?k=6&m=479397769&s=612x612&w=0&h=Bh7pEsDZqTkypZAqtoMCngH72FRnKrgCuMUH91yv2Tk=', 'https://media.gettyimages.com/photos/locust-on-the-move-picture-id114413730?k=6&m=114413730&s=612x612&w=0&h=s0jkZkoUySrFUYsVSXV148bHeOeWjuUfX0GFlL43HYE=']
+U+85A8
+16
+hōng
+140.13
+薨.mp3
+
+薩
+["transliteration of 'sat' in 'bodhisattva,' etc."]
+["transliteración de 'sat' en 'bodhisattva', etc."]
+['NONE']
+U+85A9
+16
+sà
+140.14
+薩.mp3
+
+薪
+['fuel, firewood', ' salary']
+['combustible, leña', 'salario']
+['https://media.gettyimages.com/photos/fresh-cut-firewood-picture-id1173852178?k=6&m=1173852178&s=612x612&w=0&h=KbA_HO59f05LgUYkjQxt4SSzZgnV2vx93rG7DuU4yu4=', 'https://media.gettyimages.com/vectors/money-banking-set-of-line-vector-icons-vector-id1000706990?k=6&m=1000706990&s=612x612&w=0&h=-7h9Fg8qhct4i5mBChhSFCiZOnAHWWcR6Cu0MWF4zh4=']
+U+85AA
+16
+xīn
+140.13
+薪.mp3
+
+薫
+['a medicinal herb', ' to cauterize']
+['una hierba medicinal', 'cauterizar']
+['https://media.gettyimages.com/vectors/prescription-drugs-vector-id1131009056?k=6&m=1131009056&s=612x612&w=0&h=01A-oa1bC7k9T5dAgiAaShj45Zo4VBXtpEWe0s8HTFQ=', 'https://media.gettyimages.com/photos/lentigo-maligna-melanoma-surgery-removal-series-picture-id155152534?k=6&m=155152534&s=612x612&w=0&h=OnS2clumQC24j_xFpK7urTcgwlxrOghXbhgdk6p3nZs=']
+U+85AB
+16
+xūn
+140.13
+薫.mp3
+
+薬
+['drugs, pharmaceuticals, medicine']
+['drogas, productos farmacéuticos, medicina']
+['https://media.gettyimages.com/photos/background-of-a-large-group-of-assorted-capsules-pills-and-blisters-picture-id1153740646?k=6&m=1153740646&s=612x612&w=0&h=QjsRJE_9f3_Pw2kCMnjbWic1euprYi3irzvGQ-EB6jg=']
+U+85AC
+16
+yào
+140.13
+薬.mp3
+
+薭
+['NONE']
+['NINGUNA']
+[]
+U+85AD
+16
+bài
+140.14
+薭.mp3
+
+薮
+['marsh, swamp', ' wild country']
+['pantano, pantano', 'país salvaje']
+['https://media.gettyimages.com/vectors/wetlands-black-silhouette-icons-with-multiple-marsh-elements-and-vector-id95745106?k=6&m=95745106&s=612x612&w=0&h=kM7bxAMSuoBagLx8L4dr4GUSpBPRXI707yKIrifQMIk=', 'https://media.gettyimages.com/vectors/western-cowboy-and-horse-riding-elements-vector-id517994305?k=6&m=517994305&s=612x612&w=0&h=r2wH0Dj9Sc8T5lwzPepJp_zeig5L5bedhy2l7H9Xi_k=']
+U+85AE
+16
+sǒu
+140.13
+薮.mp3
+
+薯
+['yam, tuber, potato']
+['ñame, tubérculo, patata']
+['https://media.gettyimages.com/photos/closeup-of-three-raw-sweet-potatoes-picture-id183757447?k=6&m=183757447&s=612x612&w=0&h=rNUbskzQVNPrqjVobJRjb7UslTN5j7XnQwlh7faFeeI=']
+U+85AF
+16
+shǔ
+140.14
+薯.mp3
+
+薰
+['a medicinal herb', ' to cauterize']
+['una hierba medicinal', 'cauterizar']
+['https://media.gettyimages.com/vectors/prescription-drugs-vector-id1131009056?k=6&m=1131009056&s=612x612&w=0&h=01A-oa1bC7k9T5dAgiAaShj45Zo4VBXtpEWe0s8HTFQ=', 'https://media.gettyimages.com/photos/lentigo-maligna-melanoma-surgery-removal-series-picture-id155152534?k=6&m=155152534&s=612x612&w=0&h=OnS2clumQC24j_xFpK7urTcgwlxrOghXbhgdk6p3nZs=']
+U+85B0
+17
+xūn
+140.14
+薰.mp3
+
+薱
+['NONE']
+['NINGUNA']
+[]
+U+85B1
+17
+duì
+140.14
+薱.mp3
+
+薲
+['NONE']
+['NINGUNA']
+[]
+U+85B2
+17
+pín
+140.14
+薲.mp3
+
+薳
+['name of a herb', ' surname', ' (Cant.) a plant stem']
+['nombre de una hierba', 'apellido', '(Can.) Un tallo de planta']
+['https://media.gettyimages.com/photos/oregano-plant-in-rustic-flower-pot-in-garden-picture-id638698069?k=6&m=638698069&s=612x612&w=0&h=GJWBSX6VS3nEbU1QkqGSIs1F-nXV997v77bAH1T5mTI=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/directly-above-shot-of-cherries-picture-id1225005831?k=6&m=1225005831&s=612x612&w=0&h=rAwmZKBeOMeyaJgS_ATNN4TFafVe19cq-jufl6V0BWQ=']
+U+85B3
+16
+wěi
+140.14
+薳.mp3
+
+薴
+['China grass, ramie (Boehmeria nivea)']
+['Hierba china, ramio (Boehmeria nivea)']
+['NONE']
+U+85B4
+17
+níng
+140.14
+薴.mp3
+
+薵
+['NONE']
+['NINGUNA']
+[]
+U+85B5
+17
+chóu
+140.14
+薵.mp3
+
+薶
+['to bury, to stop up', ' dirty, filthy']
+['enterrar, taponar', 'sucio']
+['NONE', 'https://media.gettyimages.com/vectors/grunge-background-vector-id1010565848?k=6&m=1010565848&s=612x612&w=0&h=zy0QdAzSdoZs_jucG7bILtNb3Qajo0GvshKt81gonxc=']
+U+85B6
+17
+mái
+140.14
+薶.mp3
+
+薷
+['NONE']
+['NINGUNA']
+[]
+U+85B7
+17
+rú
+140.14
+薷.mp3
+
+薸
+['duckweed']
+['lenteja de agua']
+['https://media.gettyimages.com/photos/full-camoflauge-picture-id475488139?k=6&m=475488139&s=612x612&w=0&h=1vxe0VWvirDj2NNLHgsI0WqS7ylQLLJPPU_sgtzZGMg=']
+U+85B8
+17
+piáo
+140.14
+薸.mp3
+
+薹
+['cyperus rotundus, type of sedge']
+['cyperus rotundus, tipo de juncia']
+['NONE']
+U+85B9
+17
+tái
+140.14
+薹.mp3
+
+薺
+['water-chestnuts', ' caltrop']
+['castañas de agua', 'abrojo']
+['NONE', 'https://media.gettyimages.com/photos/chestnuts-picture-id171278405?k=6&m=171278405&s=612x612&w=0&h=BxQYEPl9HoJW-Gt3vfv_6RwlxVJpY9n3GJYUnjOjoaA=']
+U+85BA
+17
+jì
+140.14
+薺.mp3
+
+薻
+['NONE']
+['NINGUNA']
+[]
+U+85BB
+17
+zǎo
+140.14
+薻.mp3
+
+薼
+['NONE']
+['NINGUNA']
+[]
+U+85BC
+17
+chén
+140.14
+薼.mp3
+
+薽
+['a bright blue orchid that grows in south China']
+['una orquídea azul brillante que crece en el sur de China']
+['NONE']
+U+85BD
+16
+zhēn
+140.14
+薽.mp3
+
+薾
+['luxuriant growth of flower']
+['exuberante crecimiento de flores']
+['https://media.gettyimages.com/photos/tropical-leaves-colorful-flower-on-dark-tropical-foliage-nature-dark-picture-id1197913361?k=6&m=1197913361&s=612x612&w=0&h=M3cEvauuNd3zR4IVSaqPVtfdNJcSAr6crMbbL-Kg_7w=']
+U+85BE
+17
+ěr
+140.14
+薾.mp3
+
+薿
+['flower']
+['flor']
+['https://media.gettyimages.com/photos/spring-meadow-picture-id1126841725?k=6&m=1126841725&s=612x612&w=0&h=hHbb9srZVqydRFw3adjxVAHJsgxNkm03nlNH0OQIpFE=']
+U+85BF
+17
+nǐ
+140.14
+薿.mp3
+
+藀
+['NONE']
+['NINGUNA']
+[]
+U+85C0
+17
+yíng
+140.14
+藀.mp3
+
+藁
+['straw, hay', ' dry, withered']
+['straw, hay', 'seco, marchito']
+['https://media.gettyimages.com/photos/meadow-hay-picture-id182760255?k=6&m=182760255&s=612x612&w=0&h=n9OEphdAj-5kMeesjLPKlz_hvSmRqcZPsTXFI-xTqog=', 'https://media.gettyimages.com/photos/close-up-of-a-rotten-corn-in-the-middle-picture-id182250766?k=6&m=182250766&s=612x612&w=0&h=8I6OxoTsxeCLB4NwTXxVAkKzRk8TW_9zqR4ubeuDCmI=']
+U+85C1
+17
+gǎo
+140.14
+藁.mp3
+
+藂
+['NONE']
+['NINGUNA']
+[]
+U+85C2
+17
+cóng
+140.14
+藂.mp3
+
+藃
+['NONE']
+['NINGUNA']
+[]
+U+85C3
+17
+xiāo
+140.14
+藃.mp3
+
+藄
+['edible fern']
+['helecho comestible']
+['https://media.gettyimages.com/vectors/plant-decorative-leaf-design-vector-id1201008290?k=6&m=1201008290&s=612x612&w=0&h=9PS_uzxcqP0cuKKjhKn4T8bNHeI8xbypX6DuXDyhrzg=']
+U+85C4
+17
+qí
+140.14
+藄.mp3
+
+藅
+['NONE']
+['NINGUNA']
+[]
+U+85C5
+17
+fá
+140.14
+藅.mp3
+
+藆
+['NONE']
+['NINGUNA']
+[]
+U+85C6
+17
+jiǎn
+140.14
+藆.mp3
+
+藇
+['fine']
+['multa']
+['https://media.gettyimages.com/photos/police-officer-writing-ticket-2-picture-id157284610?k=6&m=157284610&s=612x612&w=0&h=9tBXcdZjp_iWu0qT2UoBgK-TkQhQ6qXIheiRTpGU85U=']
+U+85C7
+16
+xù
+140.14
+藇.mp3
+
+藈
+['NONE']
+['NINGUNA']
+[]
+U+85C8
+17
+kuí
+140.14
+藈.mp3
+
+藉
+['mat, pad', ' rely on', ' pretext']
+['estera, almohadilla', 'depender de', 'pretexto']
+['https://media.gettyimages.com/photos/wool-felt-pad-table-cloth-picture-id1045540266?k=6&m=1045540266&s=612x612&w=0&h=gU_0EdBw-CGiUUaHvJEJ-p9vPTuVyzoC-cqPCLq-hv0=', 'https://media.gettyimages.com/vectors/quality-control-icon-set-vector-id991149296?k=6&m=991149296&s=612x612&w=0&h=Mbjy866rzIlZI1xU7F43_Qjv1f2vwSHhC0M1hG7Og34=', 'NONE']
+U+85C9
+17
+jí
+140.14
+藉.mp3
+
+藊
+['a kind of bean with flat pods']
+['una especie de frijol con vainas planas']
+['NONE']
+U+85CA
+17
+biǎn
+140.14
+藊.mp3
+
+藋
+['NONE']
+['NINGUNA']
+[]
+U+85CB
+17
+diào
+140.14
+藋.mp3
+
+藌
+['NONE']
+['NINGUNA']
+[]
+U+85CC
+17
+mì
+140.14
+藌.mp3
+
+藍
+['blue', ' indigo plant', ' surname']
+['azul', 'planta índigo', 'apellido']
+['https://media.gettyimages.com/vectors/blurred-gradient-background-abstract-design-template-for-brochures-vector-id1159290003?k=6&m=1159290003&s=612x612&w=0&h=mFiMiPF0BqGnxJPXGISKpZZ9ZpqouN8Xo4LnNBbgUvo=', 'https://media.gettyimages.com/illustrations/indigo-illustration-id516316484?k=6&m=516316484&s=612x612&w=0&h=NiQgC1hLT0tw-rE5jHP8DKyaXv81uTWVVvkz-NMZc2E=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+85CD
+17
+lán
+140.14
+藍.mp3
+
+藎
+['a kind of weed', ' faithfulness']
+['una especie de hierba', 'fidelidad']
+['https://media.gettyimages.com/photos/daisy-flower-background-picture-id969382102?k=6&m=969382102&s=612x612&w=0&h=L_U5ICkMWP4yeV8wa7S1_-wp-JFzF0GkSLBvjOV_QCk=', 'https://media.gettyimages.com/photos/were-here-to-always-motivate-each-other-picture-id914776002?k=6&m=914776002&s=612x612&w=0&h=7ruv2jha2fIbB1MZZ54FRO9u-CtYRd2dtSOWhiTA0Vc=']
+U+85CE
+17
+jìn
+140.14
+藎.mp3
+
+藏
+['hide, conceal', ' hoard, store up']
+['esconder, ocultar', 'atesorar, almacenar']
+['https://media.gettyimages.com/photos/woman-hiding-behind-cubicle-in-office-picture-id103060206?k=6&m=103060206&s=612x612&w=0&h=mm6WgYBRnMqYRtWAJQ3QgJO6kgpFZQ8PhuCur-dNKjE=', 'https://media.gettyimages.com/photos/fashion-dummies-picture-id136939782?k=6&m=136939782&s=612x612&w=0&h=KwK3OAdRM3ct5_shNAMNT1WB-jckPwTKjdPB-yfTwTE=']
+U+85CF
+17
+cáng
+140.14
+藏.mp3
+
+藐
+['disregard, slight, disdain']
+['desprecio, leve, desdén']
+['NONE']
+U+85D0
+17
+miǎo
+140.14
+藐.mp3
+
+藑
+['NONE']
+['NINGUNA']
+[]
+U+85D1
+17
+qióng
+140.14
+藑.mp3
+
+藒
+['NONE']
+['NINGUNA']
+[]
+U+85D2
+17
+qiè
+140.14
+藒.mp3
+
+藓
+['moss, lichen']
+['musgo, liquen']
+['https://media.gettyimages.com/photos/moss-on-stone-wall-in-florence-italy-picture-id1082831094?k=6&m=1082831094&s=612x612&w=0&h=WwF2TsSDzAR-tKhrHKHeurIX0i_3s1XcqT6aP7lJMHU=']
+U+85D3
+17
+xiǎn
+140.14
+藓.mp3
+
+藔
+['NONE']
+['NINGUNA']
+[]
+U+85D4
+21
+liáo
+140.15
+藔.mp3
+
+藕
+['lotus root']
+['raíz de loto']
+['https://media.gettyimages.com/photos/lotus-flower-red-and-white-japan-culture-travel-picture-id1190404804?k=6&m=1190404804&s=612x612&w=0&h=v6_8T7ypgR595QK_eN6n4SPtiJ7XGpcR4GmkkPSQ0rQ=']
+U+85D5
+18
+ǒu
+140.15
+藕.mp3
+
+藖
+['NONE']
+['NINGUNA']
+[]
+U+85D6
+18
+xián
+140.15
+藖.mp3
+
+藗
+['NONE']
+['NINGUNA']
+[]
+U+85D7
+17
+sù
+140.15
+藗.mp3
+
+藘
+['madder']
+['rubia']
+['https://media.gettyimages.com/photos/madder-cliffs-joinville-island-antarctica-picture-id164186331?k=6&m=164186331&s=612x612&w=0&h=WYDo3Hdy-M14A0JzufPQsMoUskirdfByFpwnxMJ8Q3s=']
+U+85D8
+18
+lǘ
+140.15
+藘.mp3
+
+藙
+['dogwood']
+['madera del perro']
+['https://media.gettyimages.com/photos/dogwood-blossom-picture-id157332867?k=6&m=157332867&s=612x612&w=0&h=-yGSCR6P_koNqlrmayNegoRTB7Q741flufH7Q_sIgSY=']
+U+85D9
+18
+yì
+140.15
+藙.mp3
+
+藚
+['water plant']
+['planta de agua']
+['https://media.gettyimages.com/photos/reverse-osmosis-water-treatment-plant-picture-id157400197?k=6&m=157400197&s=612x612&w=0&h=1S-QnV0YZ3CRvltLaIFBs2Zuxw_c7PWwHk55LRYqg_4=']
+U+85DA
+18
+xù
+140.15
+藚.mp3
+
+藛
+['NONE']
+['NINGUNA']
+[]
+U+85DB
+18
+xiě
+140.15
+藛.mp3
+
+藜
+['Chenopodium album, pigweed']
+['Chenopodium album, pigweed']
+['NONE']
+U+85DC
+18
+lí
+140.15
+藜.mp3
+
+藝
+['art', ' talent, ability', ' craft']
+['Arte', 'talento, habilidad', 'arte']
+['https://media.gettyimages.com/photos/the-painter-hands-picture-id1190200652?k=6&m=1190200652&s=612x612&w=0&h=sVOO8t2VHNno7nDlGqDV7XNEioBFKfgwiOQpXHfhRCs=', 'https://media.gettyimages.com/vectors/teamwork-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1124263210?k=6&m=1124263210&s=612x612&w=0&h=PoQHKAtCBlbVHfMxH12TKbRU_C2FonE5pX8cHK48FIU=', 'https://media.gettyimages.com/photos/easter-preparation-in-our-home-picture-id1133555356?k=6&m=1133555356&s=612x612&w=0&h=0z7oh0d5W64ikBwwf9UrBAXq4WDTognwrqW65gT5NPI=']
+U+85DD
+18
+yì
+140.15
+藝.mp3
+
+藞
+['NONE']
+['NINGUNA']
+[]
+U+85DE
+18
+lǎ
+140.15
+藞.mp3
+
+藟
+['vine, creeper', ' to wind']
+['vamos, creeper', 'al viento']
+['https://media.gettyimages.com/photos/wild-vine-picture-id175387658?k=6&m=175387658&s=612x612&w=0&h=y25501H_qbv6tTuzZEC0vf638_DPLOs2IQny3705le0=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+85DF
+18
+lěi
+140.15
+藟.mp3
+
+藠
+['NONE']
+['NINGUNA']
+[]
+U+85E0
+18
+jiào
+140.15
+藠.mp3
+
+藡
+['NONE']
+['NINGUNA']
+[]
+U+85E1
+17
+dí
+140.15
+藡.mp3
+
+藢
+['NONE']
+['NINGUNA']
+[]
+U+85E2
+18
+zhǐ
+140.15
+藢.mp3
+
+藣
+['NONE']
+['NINGUNA']
+[]
+U+85E3
+18
+bēi
+140.15
+藣.mp3
+
+藤
+['rattan, cane', ' creeper plant']
+['ratán, perro', 'planta enredadera']
+['https://media.gettyimages.com/photos/full-frame-shot-of-woven-bamboo-handmade-picture-id1194609159?k=6&m=1194609159&s=612x612&w=0&h=x4WgpjYkLcjnyU9uo2p0KaSkggdkPgju9zvkm__V1NI=', 'https://media.gettyimages.com/photos/creeper-plant-with-clipping-path-included-picture-id157427263?k=6&m=157427263&s=612x612&w=0&h=i6gJrTmW8Pe_qtBYn04Czwv6eBlCWCNmCdQoRscR1zA=']
+U+85E4
+18
+téng
+140.15
+藤.mp3
+
+藥
+['drugs, pharmaceuticals, medicine']
+['drogas, productos farmacéuticos, medicina']
+['https://media.gettyimages.com/photos/background-of-a-large-group-of-assorted-capsules-pills-and-blisters-picture-id1153740646?k=6&m=1153740646&s=612x612&w=0&h=QjsRJE_9f3_Pw2kCMnjbWic1euprYi3irzvGQ-EB6jg=']
+U+85E5
+18
+yào
+140.15
+藥.mp3
+
+藦
+['edible mushrooms']
+['hongos comestibles']
+['https://media.gettyimages.com/photos/mushrooms-picture-id686666966?k=6&m=686666966&s=612x612&w=0&h=TeqpEGob51yo4MvWjm0YShc0vkQnbm6AlHQU4CN05wU=']
+U+85E6
+18
+mò
+140.15
+藦.mp3
+
+藧
+['NONE']
+['NINGUNA']
+[]
+U+85E7
+18
+huàn
+140.15
+藧.mp3
+
+藨
+['NONE']
+['NINGUNA']
+[]
+U+85E8
+18
+biāo
+140.15
+藨.mp3
+
+藩
+['fence', ' boundary', ' outlying border']
+['cerca', 'Perímetro', 'frontera periférica']
+['https://media.gettyimages.com/photos/white-picket-fence-picture-id185009495?k=6&m=185009495&s=612x612&w=0&h=qd1KANxafnN5weKAyQqRCq63EFVNjFuy7e_Y6g16XKI=', 'https://media.gettyimages.com/photos/fallen-tree-blocking-road-picture-id157481087?k=6&m=157481087&s=612x612&w=0&h=dTxg-TNKN4FIBA6QjGe0SqV0kA1xYReQ1pZVGUZVO-8=', 'NONE']
+U+85E9
+18
+fān
+140.15
+藩.mp3
+
+藪
+['marsh, swamp', ' wild country', ' clump of trees or bushes']
+['pantano, pantano', 'país salvaje', 'grupo de árboles o arbustos']
+['https://media.gettyimages.com/vectors/wetlands-black-silhouette-icons-with-multiple-marsh-elements-and-vector-id95745106?k=6&m=95745106&s=612x612&w=0&h=kM7bxAMSuoBagLx8L4dr4GUSpBPRXI707yKIrifQMIk=', 'https://media.gettyimages.com/vectors/western-cowboy-and-horse-riding-elements-vector-id517994305?k=6&m=517994305&s=612x612&w=0&h=r2wH0Dj9Sc8T5lwzPepJp_zeig5L5bedhy2l7H9Xi_k=', 'https://media.gettyimages.com/photos/lilac-isolated-on-black-background-picture-id175394425?k=6&m=175394425&s=612x612&w=0&h=SEK9hFR_swLq9V2FuczQVlA696pprXDFxaA95YZ7Nr8=']
+U+85EA
+18
+sǒu
+140.15
+藪.mp3
+
+藫
+['NONE']
+['NINGUNA']
+[]
+U+85EB
+18
+tán
+140.15
+藫.mp3
+
+藬
+['NONE']
+['NINGUNA']
+[]
+U+85EC
+17
+tuī
+140.15
+藬.mp3
+
+藭
+['NONE']
+['NINGUNA']
+[]
+U+85ED
+18
+qióng
+140.15
+藭.mp3
+
+藮
+['NONE']
+['NINGUNA']
+[]
+U+85EE
+19
+qiáo
+140.16
+藮.mp3
+
+藯
+['NONE']
+['NINGUNA']
+[]
+U+85EF
+18
+wèi
+140.15
+藯.mp3
+
+藰
+['NONE']
+['NINGUNA']
+[]
+U+85F0
+18
+liú
+140.15
+藰.mp3
+
+藱
+['NONE']
+['NINGUNA']
+[]
+U+85F1
+17
+huì
+140.15
+藱.mp3
+
+藲
+['NONE']
+['NINGUNA']
+[]
+U+85F2
+18
+ōu
+140.15
+藲.mp3
+
+藳
+['NONE']
+['NINGUNA']
+[]
+U+85F3
+18
+gǎo
+140.15
+藳.mp3
+
+藴
+['collect']
+['recoger']
+['https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=']
+U+85F4
+18
+yùn
+140.15
+藴.mp3
+
+藵
+['NONE']
+['NINGUNA']
+[]
+U+85F5
+18
+bǎo
+140.15
+藵.mp3
+
+藶
+['a kind of plant']
+['una especie de planta']
+['https://media.gettyimages.com/photos/man-watering-cacti-plants-in-his-living-room-picture-id1093931580?k=6&m=1093931580&s=612x612&w=0&h=lBeZiODyiZQqHkaC6T-Mwex0vVCbaz0Q-GJZDzZ-hzo=']
+U+85F6
+19
+lì
+140.16
+藶.mp3
+
+藷
+['yam, tuber, potato']
+['ñame, tubérculo, patata']
+['https://media.gettyimages.com/photos/closeup-of-three-raw-sweet-potatoes-picture-id183757447?k=6&m=183757447&s=612x612&w=0&h=rNUbskzQVNPrqjVobJRjb7UslTN5j7XnQwlh7faFeeI=']
+U+85F7
+18
+shǔ
+140.16
+藷.mp3
+
+藸
+['NONE']
+['NINGUNA']
+[]
+U+85F8
+18
+chú
+140.16
+藸.mp3
+
+藹
+['lush', ' affable, friendly']
+['lozano', 'afable']
+['https://media.gettyimages.com/photos/jungle-leaves-background-picture-id974079490?k=6&m=974079490&s=612x612&w=0&h=b19ayS1DK3yx3YvolSrp5cTNXofGJCBPlca-yFSLDj8=', 'https://media.gettyimages.com/photos/two-young-women-friends-sharing-happy-time-together-picture-id1057923694?k=6&m=1057923694&s=612x612&w=0&h=-xzoJqEIxm05jH3IIX6oJuO_0UcJE-baUpq3XKoZF6E=']
+U+85F9
+19
+ǎi
+140.16
+藹.mp3
+
+藺
+['rush used in making mats', ' surname']
+['prisa utilizada en la fabricación de esteras', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+85FA
+19
+lìn
+140.16
+藺.mp3
+
+藻
+['splendid, magnificent', ' algae']
+['espléndido, magnífico', 'algas']
+['https://media.gettyimages.com/vectors/wow-vector-id915255348?k=6&m=915255348&s=612x612&w=0&h=0-8X17pPUDSWPkphxiEQdpbgGcEXpcSRkTprHVZAH08=', 'https://media.gettyimages.com/photos/giant-kelp-specimen-picture-id157169408?k=6&m=157169408&s=612x612&w=0&h=Gg4jaAu9d1mUO0OwCH91wYN7aTRFHpd63L2sezetgwM=']
+U+85FB
+19
+zǎo
+140.16
+藻.mp3
+
+藼
+['NONE']
+['NINGUNA']
+[]
+U+85FC
+19
+xuān
+140.16
+藼.mp3
+
+藽
+['NONE']
+['NINGUNA']
+[]
+U+85FD
+19
+qìn
+140.16
+藽.mp3
+
+藾
+['shade']
+['sombra']
+['https://media.gettyimages.com/photos/shade-on-white-background-sun-daylight-effect-for-overlaying-a-photo-picture-id1207136892?k=6&m=1207136892&s=612x612&w=0&h=d7fm6CG72FMGXBlqXMd_zoOA7flJHafLLATuqwMY_Oc=']
+U+85FE
+19
+lài
+140.16
+藾.mp3
+
+藿
+['lophanthus rugosus, betony']
+['lophanthus rugosus, betonía']
+['NONE']
+U+85FF
+19
+huò
+140.16
+藿.mp3
+
+蘀
+['falling leaves and barks']
+['hojas caídas y cortezas']
+['https://media.gettyimages.com/vectors/spring-leaves-background-vector-id472301103?k=6&m=472301103&s=612x612&w=0&h=fpAqTzoLHokQofXA78vXoevKgM_nkfV9dWPd7uogysY=']
+U+8600
+19
+tuò
+140.16
+蘀.mp3
+
+蘁
+['NONE']
+['NINGUNA']
+[]
+U+8601
+19
+wù
+140.16
+蘁.mp3
+
+蘂
+['stamen or pistil']
+['estambre o pistilo']
+['https://media.gettyimages.com/photos/centre-of-a-white-rose-picture-id1035456210?k=6&m=1035456210&s=612x612&w=0&h=eJO355DLcedspw4KP-GURhtH33fF-M8Vs46HSEu6nLc=']
+U+8602
+19
+ruǐ
+140.16
+蘂.mp3
+
+蘃
+['NONE']
+['NINGUNA']
+[]
+U+8603
+19
+ruǐ
+140.16
+蘃.mp3
+
+蘄
+['variety of artemisia seek']
+['variedad de artemisia buscar']
+['NONE']
+U+8604
+19
+qí
+140.16
+蘄.mp3
+
+蘅
+['a fragrant plant with a medicinal root, a type of wild ginger']
+['una planta fragante con una raíz medicinal, un tipo de jengibre silvestre']
+['NONE']
+U+8605
+19
+héng
+140.16
+蘅.mp3
+
+蘆
+['rushes, reeds']
+['juncos, juncos']
+['https://media.gettyimages.com/vectors/wetlands-black-silhouette-icons-with-multiple-marsh-elements-and-vector-id95745106?k=6&m=95745106&s=612x612&w=0&h=kM7bxAMSuoBagLx8L4dr4GUSpBPRXI707yKIrifQMIk=']
+U+8606
+19
+lú
+140.16
+蘆.mp3
+
+蘇
+['revive, resurrect', ' a species of thyme', " transliteration of 'Soviet'"]
+['revivir, resucitar', 'una especie de tomillo', "transliteración de 'soviético'"]
+['https://media.gettyimages.com/illustrations/an-illustration-of-a-man-painting-a-house-illustration-id77379151?k=6&m=77379151&s=612x612&w=0&h=duEAvm7c9tGsom60GrS-it3jSdF3cVTBxrNlYBbg35w=', 'https://media.gettyimages.com/photos/seasoning-herbs-and-spices-still-life-picture-id961748990?k=6&m=961748990&s=612x612&w=0&h=NRSuLCaE-OmY1Jj3zAPRBud13uzTiPxP_ScJ-9fOFTQ=', 'NONE']
+U+8607
+19
+sū
+140.16
+蘇.mp3
+
+蘈
+['NONE']
+['NINGUNA']
+[]
+U+8608
+19
+tuí
+140.16
+蘈.mp3
+
+蘉
+['NONE']
+['NINGUNA']
+[]
+U+8609
+19
+méng
+140.16
+蘉.mp3
+
+蘊
+['collect, gather, store', ' profound', ' (Budd.) skandha']
+['recolectar, reunir, almacenar', 'profundo', '(Budd.) Skandha']
+['https://media.gettyimages.com/photos/fresh-fish-fillets-for-sale-in-seafood-store-picture-id638480584?k=6&m=638480584&s=612x612&w=0&h=PIg78Epbfe13P_Ml4xr-V0u-8AwlCyHwVM6YOyVx3O4=', 'https://media.gettyimages.com/photos/mmmi-wonder-picture-id1047502598?k=6&m=1047502598&s=612x612&w=0&h=8JgvyNDhw7wD0E5FyI8rN2tYnWhvcKxE3v49jAYRbB8=', 'NONE']
+U+860A
+19
+yùn
+140.16
+蘊.mp3
+
+蘋
+['apple']
+['manzana']
+['https://media.gettyimages.com/photos/red-apple-picture-id184276818?k=6&m=184276818&s=612x612&w=0&h=Fm2-2w98ahP4jUkj3UjgPa-dIqEHlRrsTxdA_a-Cclk=']
+U+860B
+19
+píng
+140.16
+蘋.mp3
+
+蘌
+['NONE']
+['NINGUNA']
+[]
+U+860C
+20
+yǔ
+140.16
+蘌.mp3
+
+蘍
+['NONE']
+['NINGUNA']
+[]
+U+860D
+19
+xūn
+140.16
+蘍.mp3
+
+蘎
+['NONE']
+['NINGUNA']
+[]
+U+860E
+19
+jì
+140.16
+蘎.mp3
+
+蘏
+['NONE']
+['NINGUNA']
+[]
+U+860F
+19
+jiōng
+140.16
+蘏.mp3
+
+蘐
+['NONE']
+['NINGUNA']
+[]
+U+8610
+19
+xuān
+140.16
+蘐.mp3
+
+蘑
+['type of edible mushroom']
+['tipo de hongo comestible']
+['https://media.gettyimages.com/vectors/assorted-vegetable-labels-vector-id467103325?k=6&m=467103325&s=612x612&w=0&h=ElESUQJCuxDoKsT6C-cBYfJqf0nll669qQEGd7jmbpY=']
+U+8611
+19
+mó
+140.16
+蘑.mp3
+
+蘒
+['265:143']
+['265:143']
+['https://media.gettyimages.com/photos/small-country-town-street-scene-picture-id128502204?k=6&m=128502204&s=612x612&w=0&h=nDXLBF4mP7aTu6NMnnH1jiuyK-6xxMTdOr3dQ8WJSTg=']
+U+8612
+19
+qiū
+140.17
+蘒.mp3
+
+蘓
+['thyme', ' revive, resurrect', ' soviet']
+['tomillo', 'revivir, resucitar', 'Soviético']
+['https://media.gettyimages.com/photos/fresh-thyme-bunch-tied-up-shot-on-white-backdrop-picture-id157568691?k=6&m=157568691&s=612x612&w=0&h=Pi67OdbSLWo0lvVol3Zy6RZPaBzPmGaBrP3kvxnR6kI=', 'https://media.gettyimages.com/illustrations/an-illustration-of-a-man-painting-a-house-illustration-id77379151?k=6&m=77379151&s=612x612&w=0&h=duEAvm7c9tGsom60GrS-it3jSdF3cVTBxrNlYBbg35w=', 'https://media.gettyimages.com/photos/grungy-flags-of-soviet-union-and-usa-picture-id184282094?k=6&m=184282094&s=612x612&w=0&h=BDY81hYSkixhMMBnxT7whAHpzUCyRR20gSxaeK0oMU4=']
+U+8613
+19
+sū
+140.16
+蘓.mp3
+
+蘔
+['NONE']
+['NINGUNA']
+[]
+U+8614
+19
+jiōng
+140.16
+蘔.mp3
+
+蘕
+['NONE']
+['NINGUNA']
+[]
+U+8615
+19
+péng
+140.17
+蘕.mp3
+
+蘖
+['stump, sprout']
+['tocón, brote']
+['https://media.gettyimages.com/photos/young-plant-growing-on-stump-picture-id1138598264?k=6&m=1138598264&s=612x612&w=0&h=sf62-opBWvQRafNfZIJ_F7Ra1eJDk3O5aQOPY_Uz_0A=']
+U+8616
+20
+niè
+140.17
+蘖.mp3
+
+蘗
+['stump, sprout']
+['tocón, brote']
+['https://media.gettyimages.com/photos/young-plant-growing-on-stump-picture-id1138598264?k=6&m=1138598264&s=612x612&w=0&h=sf62-opBWvQRafNfZIJ_F7Ra1eJDk3O5aQOPY_Uz_0A=']
+U+8617
+20
+bò
+140.17
+蘗.mp3
+
+蘘
+['a kind of wild ginger']
+['una especie de jengibre salvaje']
+['https://media.gettyimages.com/photos/beautiful-ginger-young-cat-on-the-grey-pebble-on-the-sunset-looking-picture-id1147958416?k=6&m=1147958416&s=612x612&w=0&h=2e6KiFikiA3aHsgEe221rnu7jysXzj2B7HGQUg5CmS4=']
+U+8618
+20
+ráng
+140.17
+蘘.mp3
+

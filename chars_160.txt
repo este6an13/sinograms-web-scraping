@@ -1,0 +1,2560 @@
+鰙
+['NONE']
+['NINGUNA']
+[]
+U+9C19
+19
+ruò
+195.9
+鰙.mp3
+
+鰚
+['NONE']
+['NINGUNA']
+[]
+U+9C1A
+20
+xuān
+195.9
+鰚.mp3
+
+鰛
+['sardine']
+['sardina']
+['https://media.gettyimages.com/photos/tinned-sardines-picture-id157329520?k=6&m=157329520&s=612x612&w=0&h=eZvq-jZALB19yMYHNReBceQQ0QzpzWYeplaGZnGoJPE=']
+U+9C1B
+20
+wēn
+195.9
+鰛.mp3
+
+鰜
+['big-mouthed flounder']
+['platija de boca grande']
+['NONE']
+U+9C1C
+21
+qiàn
+195.10
+鰜.mp3
+
+鰝
+['NONE']
+['NINGUNA']
+[]
+U+9C1D
+21
+hào
+195.10
+鰝.mp3
+
+鰞
+['squid']
+['calamar']
+['https://media.gettyimages.com/photos/squid-seafood-isolated-on-white-picture-id155156786?k=6&m=155156786&s=612x612&w=0&h=u16BmtQL9hyIIo4DWFOzVK7IbtPOFbEM0wgIZz1s3gc=']
+U+9C1E
+21
+wū
+195.10
+鰞.mp3
+
+鰟
+['NONE']
+['NINGUNA']
+[]
+U+9C1F
+21
+fáng
+195.10
+鰟.mp3
+
+鰠
+['carp']
+['carpa']
+['https://media.gettyimages.com/photos/koi-fish-underwater-picture-id90260108?k=6&m=90260108&s=612x612&w=0&h=9y-3H52y3enAXr97OvAiBKyRamB2oDDimSILHayTE9A=']
+U+9C20
+20
+sāo
+195.9
+鰠.mp3
+
+鰡
+['NONE']
+['NINGUNA']
+[]
+U+9C21
+21
+liú
+195.10
+鰡.mp3
+
+鰢
+['NONE']
+['NINGUNA']
+[]
+U+9C22
+21
+mǎ
+195.10
+鰢.mp3
+
+鰣
+["reeves' shad", ' hilsa herring']
+['sábalo de reeves', 'hilsa arenque']
+['NONE', 'https://media.gettyimages.com/photos/steamed-whole-yangtze-hilsa-herring-with-secret-soy-sauce-picture-id1222541853?k=6&m=1222541853&s=612x612&w=0&h=UtMaKQnKSMX0qVTXx3jAypzph78W1KUB9KtTBDGx5Vs=']
+U+9C23
+21
+shí
+195.10
+鰣.mp3
+
+鰤
+['a yellowtail (fish)']
+['una jurel (pez)']
+['https://media.gettyimages.com/photos/sashimi-plate-picture-id1149200848?k=6&m=1149200848&s=612x612&w=0&h=Hwibi34_Z0SV0mmbIXP9zb77Fd0p28nNHGlesV6JELA=']
+U+9C24
+21
+shī
+195.10
+鰤.mp3
+
+鰥
+['huge fish', ' widower', ' bachelor']
+['pez enorme', 'viudo', 'soltero']
+['https://media.gettyimages.com/photos/big-pike-catched-picture-id1059290166?k=6&m=1059290166&s=612x612&w=0&h=UbP-1Cm0hATJEhHkH94k6pjWFf2cp1hHouNLmRvjUy4=', 'https://media.gettyimages.com/photos/coming-to-grips-with-loss-picture-id522513915?k=6&m=522513915&s=612x612&w=0&h=A6y_eT4r55bH-vsfN-Dk2DkcuAi23Ba760TfPRmvphY=', 'https://media.gettyimages.com/photos/confidence-practice-it-daily-picture-id845919842?k=6&m=845919842&s=612x612&w=0&h=mcWd_8ENayxryz-AYNnr7O8KADQs6fjjV-y_uvXjOxA=']
+U+9C25
+21
+guān
+195.10
+鰥.mp3
+
+鰦
+['NONE']
+['NINGUNA']
+[]
+U+9C26
+20
+zī
+195.10
+鰦.mp3
+
+鰧
+['NONE']
+['NINGUNA']
+[]
+U+9C27
+21
+téng
+195.10
+鰧.mp3
+
+鰨
+['sole']
+['único']
+['https://media.gettyimages.com/vectors/grunge-shoe-tracks-vector-id451966339?k=6&m=451966339&s=612x612&w=0&h=fF0TMr_H_jR3jcmBLoG_mCEnCQBzCglT68Xzdo7_Mc0=']
+U+9C28
+21
+tǎ
+195.10
+鰨.mp3
+
+鰩
+['the nautilus', ' the ray']
+['el nautilus', 'el rayo']
+['https://media.gettyimages.com/photos/close-up-picture-of-a-shiny-nautilus-seashell-picture-id157481269?k=6&m=157481269&s=612x612&w=0&h=5LADSKYYhJW0S7ExMIgxU_SFgbnkmR9nrbcDK_N_nG8=', 'https://media.gettyimages.com/photos/light-from-heaven-picture-id979356356?k=6&m=979356356&s=612x612&w=0&h=yzdQx9q0ZyO3vYy-RUTjo5PQYXZHhKQq5xDQViMlbFA=']
+U+9C29
+21
+yáo
+195.10
+鰩.mp3
+
+鰪
+['NONE']
+['NINGUNA']
+[]
+U+9C2A
+21
+é
+195.10
+鰪.mp3
+
+鰫
+['NONE']
+['NINGUNA']
+[]
+U+9C2B
+21
+yóng
+195.10
+鰫.mp3
+
+鰬
+['NONE']
+['NINGUNA']
+[]
+U+9C2C
+21
+qián
+195.10
+鰬.mp3
+
+鰭
+['fin']
+['fin']
+['https://media.gettyimages.com/photos/young-business-boy-wins-go-cart-race-picture-id959599356?k=6&m=959599356&s=612x612&w=0&h=Degbr43Lrgrj5stA6LTwV_k2covnqdnzM9QqJq2PhYA=']
+U+9C2D
+21
+qí
+195.10
+鰭.mp3
+
+鰮
+['sardine']
+['sardina']
+['https://media.gettyimages.com/photos/tinned-sardines-picture-id157329520?k=6&m=157329520&s=612x612&w=0&h=eZvq-jZALB19yMYHNReBceQQ0QzpzWYeplaGZnGoJPE=']
+U+9C2E
+21
+wēn
+195.10
+鰮.mp3
+
+鰯
+['a sardine']
+['una sardina']
+['https://media.gettyimages.com/photos/tinned-sardines-picture-id157329520?k=6&m=157329520&s=612x612&w=0&h=eZvq-jZALB19yMYHNReBceQQ0QzpzWYeplaGZnGoJPE=']
+U+9C2F
+21
+ruò
+195.10
+鰯.mp3
+
+鰰
+['NONE']
+['NINGUNA']
+[]
+U+9C30
+20
+shén
+195.10
+鰰.mp3
+
+鰱
+['silver carp, Hypophthalmichthys']
+['carpa plateada, Hypophthalmichthys']
+['NONE']
+U+9C31
+21
+lián
+195.11
+鰱.mp3
+
+鰲
+['huge sea turtle']
+['enorme tortuga marina']
+['https://media.gettyimages.com/photos/green-sea-turtle-in-caribbean-sea-near-akumal-bay-riviera-maya-roo-picture-id842453708?k=6&m=842453708&s=612x612&w=0&h=aT5VRRJQ7d56FX2xItX2mSuFZlHjTq3W0zZs_DtJxIo=']
+U+9C32
+21
+áo
+195.11
+鰲.mp3
+
+鰳
+['Chinese herring', ' shad']
+['Arenque chino', 'sábalo']
+['https://media.gettyimages.com/photos/cropped-hand-picking-sashimi-on-the-table-picture-id1156950664?k=6&m=1156950664&s=612x612&w=0&h=lq6dx9gh3ZHsIUagIFNUcrDVys-NuepnKCboTZnt3wE=', 'https://media.gettyimages.com/photos/flowers-growing-in-store-picture-id1132326084?k=6&m=1132326084&s=612x612&w=0&h=nzc_j2NexrYZktdcMJTWRR8p-j28MgbpS000IqeGVrs=']
+U+9C33
+22
+lè
+195.11
+鰳.mp3
+
+鰴
+['NONE']
+['NINGUNA']
+[]
+U+9C34
+22
+huī
+195.11
+鰴.mp3
+
+鰵
+['codfish']
+['bacalao']
+['https://media.gettyimages.com/photos/grilled-halibut-with-spinach-leeks-and-pine-nuts-picture-id503337620?k=6&m=503337620&s=612x612&w=0&h=C2RuTj4IDKvEvkC0J2i_7x2rnMlspq8CTcVVtdqd5u8=']
+U+9C35
+22
+mǐn
+195.11
+鰵.mp3
+
+鰶
+['NONE']
+['NINGUNA']
+[]
+U+9C36
+22
+jì
+195.11
+鰶.mp3
+
+鰷
+['minnow']
+['pececillo']
+['https://media.gettyimages.com/photos/silver-freshwater-minnows-picture-id98371289?k=6&m=98371289&s=612x612&w=0&h=652FToTP6ksiHUA-N3OeNf3zmgOTXwKRwzw62VP41Tw=']
+U+9C37
+21
+tiáo
+195.11
+鰷.mp3
+
+鰸
+['NONE']
+['NINGUNA']
+[]
+U+9C38
+22
+qū
+195.11
+鰸.mp3
+
+鰹
+['skipjack, bonito']
+['skipjack, bonito']
+['https://media.gettyimages.com/photos/bonito-picture-id122564534?k=6&m=122564534&s=612x612&w=0&h=yLvQFcItkz86N8pY_OqiRHRomHbqD_SXKSQaYGxzCgw=']
+U+9C39
+22
+jiān
+195.11
+鰹.mp3
+
+鰺
+['a horse mackerel']
+['un jurel']
+['https://media.gettyimages.com/photos/pesce-azzurro-picture-id905647042?k=6&m=905647042&s=612x612&w=0&h=1x_F4K3VB2eINTOI4lYHwchQiDpBeI7ThUOnXEjfZ3c=']
+U+9C3A
+22
+shēn
+195.11
+鰺.mp3
+
+鰻
+['eel']
+['Anguila']
+['https://media.gettyimages.com/illustrations/common-eel-illustration-id489167176?k=6&m=489167176&s=612x612&w=0&h=DEwMlmY_jQQK_RqU02lUyxsyu-vqciNNrSR0U3RiQ_o=']
+U+9C3B
+22
+mán
+195.11
+鰻.mp3
+
+鰼
+['the weather or dojo loach, Misgurnus anguillicaudatus']
+['el clima o loach del dojo, Misgurnus anguillicaudatus']
+['NONE']
+U+9C3C
+22
+xí
+195.11
+鰼.mp3
+
+鰽
+['herring']
+['arenque']
+['https://media.gettyimages.com/photos/rollmops-pickled-herring-picture-id466576507?k=6&m=466576507&s=612x612&w=0&h=BCDX-585gRu8WHPPUHFRUYpW3IF4nP9m8S9TLXNqZFE=']
+U+9C3D
+22
+qiú
+195.11
+鰽.mp3
+
+鰾
+['swimming bladder of fish']
+['vejiga natatoria de pescado']
+['https://media.gettyimages.com/vectors/fishes-in-love-vector-id508338500?k=6&m=508338500&s=612x612&w=0&h=cy0uM0_u6R79bOnhPEXCP4VbNsbu-rB9sBK-BcnFMwI=']
+U+9C3E
+22
+biào
+195.11
+鰾.mp3
+
+鰿
+['NONE']
+['NINGUNA']
+[]
+U+9C3F
+22
+jì
+195.11
+鰿.mp3
+
+鱀
+['NONE']
+['NINGUNA']
+[]
+U+9C40
+20
+jì
+195.11
+鱀.mp3
+
+鱁
+['NONE']
+['NINGUNA']
+[]
+U+9C41
+21
+zhú
+195.11
+鱁.mp3
+
+鱂
+['name of fish']
+['nombre del pez']
+['https://media.gettyimages.com/photos/happy-fisher-woman-picture-id488823862?k=6&m=488823862&s=612x612&w=0&h=Yz6jCyVU4rQaJi3YGUS0N0vH68p4R3q_Oj-bqIeMt9o=']
+U+9C42
+22
+jiāng
+195.11
+鱂.mp3
+
+鱃
+['NONE']
+['NINGUNA']
+[]
+U+9C43
+21
+xiū
+195.11
+鱃.mp3
+
+鱄
+['anchovy']
+['anchoa']
+['https://media.gettyimages.com/photos/canned-anchovies-in-olive-oil-picture-id157593847?k=6&m=157593847&s=612x612&w=0&h=AWGHdt-i_kXKkX6iXzQ1dKqvr5mAvZfOAZA6eJaEPns=']
+U+9C44
+22
+zhuān
+195.11
+鱄.mp3
+
+鱅
+['a kind of tench']
+['una especie de tenca']
+['NONE']
+U+9C45
+22
+yōng
+195.11
+鱅.mp3
+
+鱆
+['an octopus, devilfish']
+['un pulpo, pez diablo']
+['https://media.gettyimages.com/vectors/marine-life-thin-line-icons-editable-stroke-vector-id1170985601?k=6&m=1170985601&s=612x612&w=0&h=zcFiLYhTMDtG8smGRwsfcTb4zxfiyGNsYYmI8gdwPwY=']
+U+9C46
+22
+zhāng
+195.11
+鱆.mp3
+
+鱇
+['anglerfish']
+['rape']
+['https://media.gettyimages.com/photos/raw-anglerfish-picture-id157562261?k=6&m=157562261&s=612x612&w=0&h=W41Xlanj7MLGe4JB6wtkEa-3uBAN7c4za7xFRLkUUy8=']
+U+9C47
+22
+kāng
+195.11
+鱇.mp3
+
+鱈
+['codfish']
+['bacalao']
+['https://media.gettyimages.com/photos/grilled-halibut-with-spinach-leeks-and-pine-nuts-picture-id503337620?k=6&m=503337620&s=612x612&w=0&h=C2RuTj4IDKvEvkC0J2i_7x2rnMlspq8CTcVVtdqd5u8=']
+U+9C48
+22
+xuě
+195.11
+鱈.mp3
+
+鱉
+['turtle']
+['Tortuga']
+['https://media.gettyimages.com/photos/green-turtle-approaching-water-surface-picture-id504241856?k=6&m=504241856&s=612x612&w=0&h=e7I9yGsapwQKw0FYjvRx3wj2WwiEcHcGSCF3bQOt9XM=']
+U+9C49
+22
+biē
+195.12
+鱉.mp3
+
+鱊
+['NONE']
+['NINGUNA']
+[]
+U+9C4A
+23
+yù
+195.12
+鱊.mp3
+
+鱋
+['NONE']
+['NINGUNA']
+[]
+U+9C4B
+22
+qū
+195.12
+鱋.mp3
+
+鱌
+['NONE']
+['NINGUNA']
+[]
+U+9C4C
+22
+xiàng
+195.12
+鱌.mp3
+
+鱍
+['NONE']
+['NINGUNA']
+[]
+U+9C4D
+23
+bō
+195.12
+鱍.mp3
+
+鱎
+['NONE']
+['NINGUNA']
+[]
+U+9C4E
+23
+jiǎo
+195.12
+鱎.mp3
+
+鱏
+['a ray, skate']
+['un rayo, patinar']
+['https://media.gettyimages.com/photos/woman-pushing-friend-sitting-on-skateboard-in-city-picture-id726777807?k=6&m=726777807&s=612x612&w=0&h=tW4QMqXmlVsjU2qyLh805ZJRdASXzjzrkuUU9cv2Ew4=']
+U+9C4F
+23
+xún
+195.12
+鱏.mp3
+
+鱐
+['dried fish']
+['pescado seco']
+['https://media.gettyimages.com/photos/grilled-halibut-picture-id694244366?k=6&m=694244366&s=612x612&w=0&h=P2FMy5AetA-v_tZMMQCfoQB_Conl8UIfhJPcHgufj9I=']
+U+9C50
+24
+sù
+195.12
+鱐.mp3
+
+鱑
+['the sturgeon']
+['el esturión']
+['https://media.gettyimages.com/photos/sturgeon-picture-id90640400?k=6&m=90640400&s=612x612&w=0&h=K72jq2-nuYBWI0yTJEaPvI0d0kmZNrLrkg6aDkoaL6c=']
+U+9C51
+22
+huáng
+195.12
+鱑.mp3
+
+鱒
+['barbel']
+['barra con pesas']
+['https://media.gettyimages.com/photos/muscular-women-workout-with-barbell-at-sports-gym-picture-id1062554676?k=6&m=1062554676&s=612x612&w=0&h=c5i0T0xI11dcVXz634phGesJMbTAOYp8dLZQLrU20VA=']
+U+9C52
+23
+zūn
+195.12
+鱒.mp3
+
+鱓
+['eel']
+['Anguila']
+['https://media.gettyimages.com/illustrations/common-eel-illustration-id489167176?k=6&m=489167176&s=612x612&w=0&h=DEwMlmY_jQQK_RqU02lUyxsyu-vqciNNrSR0U3RiQ_o=']
+U+9C53
+23
+shàn
+195.12
+鱓.mp3
+
+鱔
+['eel']
+['Anguila']
+['https://media.gettyimages.com/illustrations/common-eel-illustration-id489167176?k=6&m=489167176&s=612x612&w=0&h=DEwMlmY_jQQK_RqU02lUyxsyu-vqciNNrSR0U3RiQ_o=']
+U+9C54
+23
+shàn
+195.12
+鱔.mp3
+
+鱕
+['NONE']
+['NINGUNA']
+[]
+U+9C55
+23
+fān
+195.12
+鱕.mp3
+
+鱖
+['mandarin fish']
+['pez mandarín']
+['https://media.gettyimages.com/photos/feel-good-picture-id450786763?k=6&m=450786763&s=612x612&w=0&h=N8ACKfp9X5tUkXloqtJZlsnSyHkKA6VZGNC0ylqlCJA=']
+U+9C56
+23
+guì
+195.12
+鱖.mp3
+
+鱗
+['fish scales']
+['escamas de pescado']
+['https://media.gettyimages.com/photos/salmon-scale-picture-id136239651?k=6&m=136239651&s=612x612&w=0&h=_HpDAMlhTZkaQ_KV7D8ewfTC6r7G73fVFrru2topYRc=']
+U+9C57
+23
+lín
+195.12
+鱗.mp3
+
+鱘
+['sturgeon']
+['esturión']
+['https://media.gettyimages.com/photos/sturgeon-picture-id90640400?k=6&m=90640400&s=612x612&w=0&h=K72jq2-nuYBWI0yTJEaPvI0d0kmZNrLrkg6aDkoaL6c=']
+U+9C58
+23
+xún
+195.12
+鱘.mp3
+
+鱙
+['NONE']
+['NINGUNA']
+[]
+U+9C59
+23
+miáo
+195.12
+鱙.mp3
+
+鱚
+['NONE']
+['NINGUNA']
+[]
+U+9C5A
+23
+xǐ
+195.12
+鱚.mp3
+
+鱛
+['fish name']
+['nombre del pez']
+['https://media.gettyimages.com/photos/happy-fisher-woman-picture-id488823862?k=6&m=488823862&s=612x612&w=0&h=Yz6jCyVU4rQaJi3YGUS0N0vH68p4R3q_Oj-bqIeMt9o=']
+U+9C5B
+23
+zēng
+195.12
+鱛.mp3
+
+鱜
+['NONE']
+['NINGUNA']
+[]
+U+9C5C
+22
+xiāng
+195.13
+鱜.mp3
+
+鱝
+['fish']
+['pescado']
+['https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=']
+U+9C5D
+23
+fèn
+195.13
+鱝.mp3
+
+鱞
+['NONE']
+['NINGUNA']
+[]
+U+9C5E
+24
+guān
+195.13
+鱞.mp3
+
+鱟
+['king crab']
+['cangrejo real']
+['https://media.gettyimages.com/photos/alaska-king-crab-picture-id157481431?k=6&m=157481431&s=612x612&w=0&h=U0GUxAlV26GwHhw-yWIU58P_nrbuco-dVDCIqSuxxyk=']
+U+9C5F
+24
+hòu
+195.13
+鱟.mp3
+
+鱠
+['minced fish', ' hash']
+['pescado picado', 'picadillo']
+['https://media.gettyimages.com/photos/tuna-chunks-picture-id163676308?k=6&m=163676308&s=612x612&w=0&h=riz8CVmM8nWNF_7ID5pY1Bn9rf4uKJhuAg0npaIf7wk=', 'https://media.gettyimages.com/photos/goldencolored-balloon-symbol-hashtag-picture-id1087146992?k=6&m=1087146992&s=612x612&w=0&h=NZ65tvBEGC8j66xNUF0PKherru_VAKhTkutmLUWNeZI=']
+U+9C60
+24
+kuài
+195.13
+鱠.mp3
+
+鱡
+['the cuttle-fish']
+['la sepia']
+['https://media.gettyimages.com/photos/squid-seafood-isolated-on-white-picture-id155156786?k=6&m=155156786&s=612x612&w=0&h=u16BmtQL9hyIIo4DWFOzVK7IbtPOFbEM0wgIZz1s3gc=']
+U+9C61
+24
+zéi
+195.13
+鱡.mp3
+
+鱢
+['NONE']
+['NINGUNA']
+[]
+U+9C62
+24
+sāo
+195.13
+鱢.mp3
+
+鱣
+['sturgeon']
+['esturión']
+['https://media.gettyimages.com/photos/sturgeon-picture-id90640400?k=6&m=90640400&s=612x612&w=0&h=K72jq2-nuYBWI0yTJEaPvI0d0kmZNrLrkg6aDkoaL6c=']
+U+9C63
+24
+zhān
+195.13
+鱣.mp3
+
+鱤
+['NONE']
+['NINGUNA']
+[]
+U+9C64
+24
+gǎn
+195.13
+鱤.mp3
+
+鱥
+['NONE']
+['NINGUNA']
+[]
+U+9C65
+24
+guì
+195.13
+鱥.mp3
+
+鱦
+['NONE']
+['NINGUNA']
+[]
+U+9C66
+24
+yìng
+195.13
+鱦.mp3
+
+鱧
+['snakehead']
+['cabeza de serpiente']
+['https://media.gettyimages.com/photos/portrait-of-smiling-teenage-boy-holding-giant-snakehead-at-lakeshore-picture-id717386393?k=6&m=717386393&s=612x612&w=0&h=9NKSfP47C2meyTNC2GD-fWVIAEfGDdXSy82aDdDm7-8=']
+U+9C67
+24
+lǐ
+195.13
+鱧.mp3
+
+鱨
+['codfish']
+['bacalao']
+['https://media.gettyimages.com/photos/grilled-halibut-with-spinach-leeks-and-pine-nuts-picture-id503337620?k=6&m=503337620&s=612x612&w=0&h=C2RuTj4IDKvEvkC0J2i_7x2rnMlspq8CTcVVtdqd5u8=']
+U+9C68
+25
+cháng
+195.14
+鱨.mp3
+
+鱩
+['NONE']
+['NINGUNA']
+[]
+U+9C69
+24
+léi
+195.13
+鱩.mp3
+
+鱪
+['NONE']
+['NINGUNA']
+[]
+U+9C6A
+23
+shǔ
+195.13
+鱪.mp3
+
+鱫
+['NONE']
+['NINGUNA']
+[]
+U+9C6B
+24
+ài
+195.13
+鱫.mp3
+
+鱬
+['NONE']
+['NINGUNA']
+[]
+U+9C6C
+25
+rú
+195.14
+鱬.mp3
+
+鱭
+['anchovy']
+['anchoa']
+['https://media.gettyimages.com/photos/canned-anchovies-in-olive-oil-picture-id157593847?k=6&m=157593847&s=612x612&w=0&h=AWGHdt-i_kXKkX6iXzQ1dKqvr5mAvZfOAZA6eJaEPns=']
+U+9C6D
+25
+jì
+195.14
+鱭.mp3
+
+鱮
+['silver carp (Hypophthalmichthys molitrix)', ' bream', ' (Cant.) ']
+['carpa plateada (Hypophthalmichthys molitrix)', 'brema', '(Hipocresía.)']
+['NONE', 'https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=', 'https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+9C6E
+24
+xù
+195.14
+鱮.mp3
+
+鱯
+['NONE']
+['NINGUNA']
+[]
+U+9C6F
+24
+hù
+195.14
+鱯.mp3
+
+鱰
+['NONE']
+['NINGUNA']
+[]
+U+9C70
+24
+shǔ
+195.14
+鱰.mp3
+
+鱱
+['NONE']
+['NINGUNA']
+[]
+U+9C71
+25
+lì
+195.15
+鱱.mp3
+
+鱲
+['(Cant.) ']
+['(Hipocresía.)']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+9C72
+26
+liè
+195.15
+鱲.mp3
+
+鱳
+['NONE']
+['NINGUNA']
+[]
+U+9C73
+26
+lì
+195.15
+鱳.mp3
+
+鱴
+['NONE']
+['NINGUNA']
+[]
+U+9C74
+25
+miè
+195.15
+鱴.mp3
+
+鱵
+['NONE']
+['NINGUNA']
+[]
+U+9C75
+26
+zhēn
+195.15
+鱵.mp3
+
+鱶
+['a shark']
+['un tiburón']
+['https://media.gettyimages.com/photos/looking-at-me-picture-id500719330?k=6&m=500719330&s=612x612&w=0&h=o3IcmldcUqQv2GIMxK8DoMgq3l3XTK0UynHZ7q5xVhY=']
+U+9C76
+25
+xiǎng
+195.15
+鱶.mp3
+
+鱷
+['crocodile, alligator']
+['cocodrilo, caimán']
+['https://media.gettyimages.com/photos/crocodile-picture-id171586404?k=6&m=171586404&s=612x612&w=0&h=9T1QdPxPu4aNcdEjCcjiTq-LqZArR57UyMmra-irosE=']
+U+9C77
+27
+è
+195.16
+鱷.mp3
+
+鱸
+['sea perch, sea bass']
+['perca de mar, lubina']
+['https://media.gettyimages.com/photos/white-fish-fillet-with-broccoli-spears-picture-id92627817?k=6&m=92627817&s=612x612&w=0&h=cpehJmqOzAbv-YnoS-aj4age9w1okCYZTVqomVPlvkY=']
+U+9C78
+27
+lú
+195.16
+鱸.mp3
+
+鱹
+['NONE']
+['NINGUNA']
+[]
+U+9C79
+28
+guàn
+195.18
+鱹.mp3
+
+鱺
+['eel']
+['Anguila']
+['https://media.gettyimages.com/illustrations/common-eel-illustration-id489167176?k=6&m=489167176&s=612x612&w=0&h=DEwMlmY_jQQK_RqU02lUyxsyu-vqciNNrSR0U3RiQ_o=']
+U+9C7A
+30
+lí
+195.19
+鱺.mp3
+
+鱻
+['fresh, new, delicious', ' rare, few']
+['fresco, nuevo, delicioso', 'raro, pocos']
+['https://media.gettyimages.com/photos/spanish-ham-picture-id1081860520?k=6&m=1081860520&s=612x612&w=0&h=pCbVR-kd2JThkyx0IqvoGmVqFuYU-P-aBUsosMUeBIc=', 'https://media.gettyimages.com/photos/polar-bear-with-twin-cubs-picture-id200194794-001?k=6&m=200194794-001&s=612x612&w=0&h=j-ALz6MVXXoXgynejWSSi-RRQuD_jZGY64zXsGvlgCA=']
+U+9C7B
+33
+xiān
+195.22
+鱻.mp3
+
+鱼
+['fish', ' surname', ' KangXi radical 195']
+['pescado', 'apellido', 'K Ang ξ radical 195']
+['https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE']
+U+9C7C
+8
+yú
+195'.0
+鱼.mp3
+
+鱽
+['the mullet']
+['el salmonete']
+['https://media.gettyimages.com/photos/young-man-with-mullet-picture-id532594488?k=6&m=532594488&s=612x612&w=0&h=gfDinoln8kJbmMVgE8tWm59T9tkQvg6SuM1acvy7C04=']
+U+9C7D
+10
+dāo
+195'.2
+鱽.mp3
+
+鱾
+['name of fish']
+['nombre del pez']
+['https://media.gettyimages.com/photos/happy-fisher-woman-picture-id488823862?k=6&m=488823862&s=612x612&w=0&h=Yz6jCyVU4rQaJi3YGUS0N0vH68p4R3q_Oj-bqIeMt9o=']
+U+9C7E
+11
+jǐ
+195'.3
+鱾.mp3
+
+鱿
+['cuttlefish']
+['calamar']
+['https://media.gettyimages.com/photos/squid-seafood-isolated-on-white-picture-id155156786?k=6&m=155156786&s=612x612&w=0&h=u16BmtQL9hyIIo4DWFOzVK7IbtPOFbEM0wgIZz1s3gc=']
+U+9C7F
+12
+yóu
+195'.4
+鱿.mp3
+
+鲀
+['blowfish, globefish, Spheroides vermicular']
+['pez globo, pez globo, Spheroides vermicular']
+['NONE']
+U+9C80
+12
+tún
+195'.4
+鲀.mp3
+
+鲁
+['foolish, stupid, rash', ' vulgar']
+['tonto, estúpido, sarpullido', 'vulgar']
+['https://media.gettyimages.com/vectors/businessman-blindfolded-forward-vector-id1085232320?k=6&m=1085232320&s=612x612&w=0&h=a35QGnodyzYCoCtSb1AZp9EPvZsz8xl9noF9jnKdVPc=', 'https://media.gettyimages.com/photos/elderly-man-sitting-on-couch-with-cocktail-and-cigar-portrait-picture-id200023994-001?k=6&m=200023994-001&s=612x612&w=0&h=lBXevB52HtldL4Zf318xSixk1euznMFDAJdZ-K8ZjPo=']
+U+9C81
+12
+lǔ
+195'.4
+鲁.mp3
+
+鲂
+['bream']
+['brema']
+['https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=']
+U+9C82
+12
+fáng
+195'.4
+鲂.mp3
+
+鲃
+['a kind of fish', ' a bonito, (same as ']
+['una especie de pez', 'un bonito, (igual que']
+['https://media.gettyimages.com/photos/family-ready-for-ftar-meal-in-ramadan-picture-id955537560?k=6&m=955537560&s=612x612&w=0&h=LDl5Ft8GIOHuJy3I4TwwwkDgrBg3VjP5Zf_1PtQRph8=', 'https://media.gettyimages.com/vectors/seamless-kitty-cat-pattern-vector-id1184017913?k=6&m=1184017913&s=612x612&w=0&h=jRH6em-ZqKgi3d9YQOsjiBTqz-RhIKYubHW3_qmkcyU=']
+U+9C83
+12
+bā
+195'.4
+鲃.mp3
+
+鲄
+['NONE']
+['NINGUNA']
+[]
+U+9C84
+13
+hé
+195'.5
+鲄.mp3
+
+鲅
+['fish name']
+['nombre del pez']
+['https://media.gettyimages.com/photos/happy-fisher-woman-picture-id488823862?k=6&m=488823862&s=612x612&w=0&h=Yz6jCyVU4rQaJi3YGUS0N0vH68p4R3q_Oj-bqIeMt9o=']
+U+9C85
+13
+bà
+195'.5
+鲅.mp3
+
+鲆
+['sole']
+['único']
+['https://media.gettyimages.com/vectors/grunge-shoe-tracks-vector-id451966339?k=6&m=451966339&s=612x612&w=0&h=fF0TMr_H_jR3jcmBLoG_mCEnCQBzCglT68Xzdo7_Mc0=']
+U+9C86
+13
+píng
+195'.5
+鲆.mp3
+
+鲇
+['sheatfish, parasilurus asotus']
+['Sheatfish, parasilurus asotus']
+['NONE']
+U+9C87
+13
+nián
+195'.5
+鲇.mp3
+
+鲈
+['sea perch, sea bass']
+['perca de mar, lubina']
+['https://media.gettyimages.com/photos/white-fish-fillet-with-broccoli-spears-picture-id92627817?k=6&m=92627817&s=612x612&w=0&h=cpehJmqOzAbv-YnoS-aj4age9w1okCYZTVqomVPlvkY=']
+U+9C88
+13
+lú
+195'.5
+鲈.mp3
+
+鲉
+['NONE']
+['NINGUNA']
+[]
+U+9C89
+13
+yóu
+195'.5
+鲉.mp3
+
+鲊
+['minced and salted fish', ' to preserve']
+['pescado picado y salado', 'para preservar']
+['https://media.gettyimages.com/photos/forshmak-snack-traditional-jewish-cuisine-picture-id1133051699?k=6&m=1133051699&s=612x612&w=0&h=1fp28AM_wGECV9uyQXhMRtfQhI5gRNW4ZFSxSWgio0A=', 'https://media.gettyimages.com/photos/making-raspberry-jam-picture-id175530592?k=6&m=175530592&s=612x612&w=0&h=bKwTkdntVckN7MybjqLx7UOT8JS-MY357fBpXfWQmUA=']
+U+9C8A
+13
+zhǎ
+195'.5
+鲊.mp3
+
+鲋
+['carp, Carassius auratus']
+['carpa, Carassius auratus']
+['https://media.gettyimages.com/photos/gold-fish-picture-id156856334?k=6&m=156856334&s=612x612&w=0&h=vPDQFR8ydC6M3sCjlpc482e5iycB9n5bE2LVSVi5IoY=']
+U+9C8B
+13
+fù
+195'.5
+鲋.mp3
+
+鲌
+['NONE']
+['NINGUNA']
+[]
+U+9C8C
+13
+bà
+195'.5
+鲌.mp3
+
+鲍
+['abalone', ' dried fish', ' surname']
+['abulón', 'pescado seco', 'apellido']
+['https://media.gettyimages.com/photos/closeup-of-some-paula-shells-also-called-abalone-picture-id164537198?k=6&m=164537198&s=612x612&w=0&h=CThBk-FUT2FCrhsXlD2kmVszq1ZkZeChQLgWSE9Vzro=', 'https://media.gettyimages.com/photos/grilled-halibut-picture-id694244366?k=6&m=694244366&s=612x612&w=0&h=P2FMy5AetA-v_tZMMQCfoQB_Conl8UIfhJPcHgufj9I=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+9C8D
+13
+bào
+195'.5
+鲍.mp3
+
+鲎
+['king crab']
+['cangrejo real']
+['https://media.gettyimages.com/photos/alaska-king-crab-picture-id157481431?k=6&m=157481431&s=612x612&w=0&h=U0GUxAlV26GwHhw-yWIU58P_nrbuco-dVDCIqSuxxyk=']
+U+9C8E
+13
+hòu
+195'.5
+鲎.mp3
+
+鲏
+['NONE']
+['NINGUNA']
+[]
+U+9C8F
+13
+pí
+195'.5
+鲏.mp3
+
+鲐
+['globefish, tetraodon']
+['pez globo, tetraodon']
+['https://media.gettyimages.com/illustrations/common-puffer-or-pufferfish-illustration-id155144522?k=6&m=155144522&s=612x612&w=0&h=p0mtb2cJMsiPrntiRcKy7F1cgA8lZ5v1Pmx9ZjD14cQ=']
+U+9C90
+13
+tái
+195'.5
+鲐.mp3
+
+鲑
+['salmon', ' spheroides vermicularis']
+['salmón', 'spheroides vermicularis']
+['https://media.gettyimages.com/photos/raw-salmon-steak-picture-id958307950?k=6&m=958307950&s=612x612&w=0&h=s0scrjcJEsqy0FH7sETx5GuOyLjR2tglGc4YupSmaIY=', 'NONE']
+U+9C91
+14
+guī
+195'.6
+鲑.mp3
+
+鲒
+['clam', ' oyster']
+['almeja', 'ostra']
+['https://media.gettyimages.com/photos/fresh-steamed-clams-picture-id489726444?k=6&m=489726444&s=612x612&w=0&h=JMLfAaaLUHpTJ1pw9QsWM4IiFSSgD3gY2APnpFNKfc4=', 'https://media.gettyimages.com/photos/couple-enjoying-raw-oysters-picture-id691572613?k=6&m=691572613&s=612x612&w=0&h=prxDejdaE2TeOPUNClhfUGblACC5KPK7oaM5lIn7Fm0=']
+U+9C92
+14
+jié
+195'.6
+鲒.mp3
+
+鲓
+['NONE']
+['NINGUNA']
+[]
+U+9C93
+14
+kào
+195'.6
+鲓.mp3
+
+鲔
+['kind of sturgeon, tuna']
+['especie de esturión, atún']
+['NONE']
+U+9C94
+14
+wěi
+195'.6
+鲔.mp3
+
+鲕
+['roe']
+['hueva']
+['https://media.gettyimages.com/photos/caviar-on-spoon-closeup-picture-id57452607?k=6&m=57452607&s=612x612&w=0&h=eDEgPEkhY7IVKrD3nzq2_z9r8y-DVeC6R4P-FHrrrmg=']
+U+9C95
+14
+ér
+195'.6
+鲕.mp3
+
+鲖
+['snakefish']
+['pez serpiente']
+['https://media.gettyimages.com/photos/snakefish-cambodia-picture-id158769722?k=6&m=158769722&s=612x612&w=0&h=JnU2yoXAWh5Kk9LN9y167jgesSpb6WyMtxvej-ZshBk=']
+U+9C96
+14
+tóng
+195'.6
+鲖.mp3
+
+鲗
+['cuttlefish']
+['calamar']
+['https://media.gettyimages.com/photos/squid-seafood-isolated-on-white-picture-id155156786?k=6&m=155156786&s=612x612&w=0&h=u16BmtQL9hyIIo4DWFOzVK7IbtPOFbEM0wgIZz1s3gc=']
+U+9C97
+14
+zéi
+195'.6
+鲗.mp3
+
+鲘
+['NONE']
+['NINGUNA']
+[]
+U+9C98
+14
+hòu
+195'.6
+鲘.mp3
+
+鲙
+['minced fish', ' hash']
+['pescado picado', 'picadillo']
+['https://media.gettyimages.com/photos/tuna-chunks-picture-id163676308?k=6&m=163676308&s=612x612&w=0&h=riz8CVmM8nWNF_7ID5pY1Bn9rf4uKJhuAg0npaIf7wk=', 'https://media.gettyimages.com/photos/goldencolored-balloon-symbol-hashtag-picture-id1087146992?k=6&m=1087146992&s=612x612&w=0&h=NZ65tvBEGC8j66xNUF0PKherru_VAKhTkutmLUWNeZI=']
+U+9C99
+14
+kuài
+195'.6
+鲙.mp3
+
+鲚
+['anchovy']
+['anchoa']
+['https://media.gettyimages.com/photos/canned-anchovies-in-olive-oil-picture-id157593847?k=6&m=157593847&s=612x612&w=0&h=AWGHdt-i_kXKkX6iXzQ1dKqvr5mAvZfOAZA6eJaEPns=']
+U+9C9A
+14
+jì
+195'.6
+鲚.mp3
+
+鲛
+['shark']
+['tiburón']
+['https://media.gettyimages.com/photos/looking-at-me-picture-id500719330?k=6&m=500719330&s=612x612&w=0&h=o3IcmldcUqQv2GIMxK8DoMgq3l3XTK0UynHZ7q5xVhY=']
+U+9C9B
+14
+jiāo
+195'.6
+鲛.mp3
+
+鲜
+['fresh', ' delicious', ' attractive']
+['Fresco', 'delicioso', 'atractivo']
+['https://media.gettyimages.com/photos/man-holding-crate-ob-fresh-vegetables-picture-id870915532?k=6&m=870915532&s=612x612&w=0&h=S30PAuOM2bln88FOLvQk7gkOyYppoSDMQTi0hHbz99w=', 'https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'https://media.gettyimages.com/photos/playful-young-family-at-home-picture-id540611592?k=6&m=540611592&s=612x612&w=0&h=sWa1Xfne0114WaIHMPfMZnrgsdcH4cIcnfaN9fks3Go=']
+U+9C9C
+14
+xiān
+195'.6
+鲜.mp3
+
+鲝
+['NONE']
+['NINGUNA']
+[]
+U+9C9D
+14
+zhǎ
+195'.6
+鲝.mp3
+
+鲞
+['dried fish']
+['pescado seco']
+['https://media.gettyimages.com/photos/grilled-halibut-picture-id694244366?k=6&m=694244366&s=612x612&w=0&h=P2FMy5AetA-v_tZMMQCfoQB_Conl8UIfhJPcHgufj9I=']
+U+9C9E
+14
+xiǎng
+195'.6
+鲞.mp3
+
+鲟
+['sturgeon']
+['esturión']
+['https://media.gettyimages.com/photos/sturgeon-picture-id90640400?k=6&m=90640400&s=612x612&w=0&h=K72jq2-nuYBWI0yTJEaPvI0d0kmZNrLrkg6aDkoaL6c=']
+U+9C9F
+14
+xún
+195'.6
+鲟.mp3
+
+鲠
+['fish bones', ' honest, upright']
+['espinas de pescado', 'honesto, recto']
+['https://media.gettyimages.com/vectors/dog-bone-vector-id471141234?k=6&m=471141234&s=612x612&w=0&h=Fzzqb3LZsfQq2pqjyAcUODG61sd0dvjTy8ynB1c2Dbk=', 'https://media.gettyimages.com/photos/portrait-of-a-japanese-man-wearing-sunglasses-and-smiling-on-the-picture-id1263089009?k=6&m=1263089009&s=612x612&w=0&h=CUy9nVJiRGLBiqklkk1w_knr5xte6lifLYoFM3SavPc=']
+U+9CA0
+15
+gěng
+195'.7
+鲠.mp3
+
+鲡
+['eel']
+['Anguila']
+['https://media.gettyimages.com/illustrations/common-eel-illustration-id489167176?k=6&m=489167176&s=612x612&w=0&h=DEwMlmY_jQQK_RqU02lUyxsyu-vqciNNrSR0U3RiQ_o=']
+U+9CA1
+15
+lí
+195'.7
+鲡.mp3
+
+鲢
+['silver carp, Hypophthalmichthys']
+['carpa plateada, Hypophthalmichthys']
+['NONE']
+U+9CA2
+15
+lián
+195'.7
+鲢.mp3
+
+鲣
+['skipjack, bonito']
+['skipjack, bonito']
+['https://media.gettyimages.com/photos/bonito-picture-id122564534?k=6&m=122564534&s=612x612&w=0&h=yLvQFcItkz86N8pY_OqiRHRomHbqD_SXKSQaYGxzCgw=']
+U+9CA3
+15
+jiān
+195'.7
+鲣.mp3
+
+鲤
+['carp']
+['carpa']
+['https://media.gettyimages.com/photos/koi-fish-underwater-picture-id90260108?k=6&m=90260108&s=612x612&w=0&h=9y-3H52y3enAXr97OvAiBKyRamB2oDDimSILHayTE9A=']
+U+9CA4
+15
+lǐ
+195'.7
+鲤.mp3
+
+鲥
+["reeves' shad", ' hilsa herring']
+['sábalo de reeves', 'hilsa arenque']
+['NONE', 'https://media.gettyimages.com/photos/steamed-whole-yangtze-hilsa-herring-with-secret-soy-sauce-picture-id1222541853?k=6&m=1222541853&s=612x612&w=0&h=UtMaKQnKSMX0qVTXx3jAypzph78W1KUB9KtTBDGx5Vs=']
+U+9CA5
+15
+shí
+195'.7
+鲥.mp3
+
+鲦
+['minnow']
+['pececillo']
+['https://media.gettyimages.com/photos/silver-freshwater-minnows-picture-id98371289?k=6&m=98371289&s=612x612&w=0&h=652FToTP6ksiHUA-N3OeNf3zmgOTXwKRwzw62VP41Tw=']
+U+9CA6
+15
+tiáo
+195'.7
+鲦.mp3
+
+鲧
+['giant fish', ' father of emperor']
+['pez gigante', 'padre del emperador']
+['https://media.gettyimages.com/photos/big-pike-catched-picture-id1059290166?k=6&m=1059290166&s=612x612&w=0&h=UbP-1Cm0hATJEhHkH94k6pjWFf2cp1hHouNLmRvjUy4=', 'https://media.gettyimages.com/photos/augustus-roman-emperor-picture-id170620023?k=6&m=170620023&s=612x612&w=0&h=8zz1DJPOutIB9xYxim3xrnflkPTakFDv4S2Mn5ICTlo=']
+U+9CA7
+15
+gǔn
+195'.7
+鲧.mp3
+
+鲨
+['shark']
+['tiburón']
+['https://media.gettyimages.com/photos/looking-at-me-picture-id500719330?k=6&m=500719330&s=612x612&w=0&h=o3IcmldcUqQv2GIMxK8DoMgq3l3XTK0UynHZ7q5xVhY=']
+U+9CA8
+15
+shā
+195'.7
+鲨.mp3
+
+鲩
+['carp']
+['carpa']
+['https://media.gettyimages.com/photos/koi-fish-underwater-picture-id90260108?k=6&m=90260108&s=612x612&w=0&h=9y-3H52y3enAXr97OvAiBKyRamB2oDDimSILHayTE9A=']
+U+9CA9
+15
+huàn
+195'.7
+鲩.mp3
+
+鲪
+['NONE']
+['NINGUNA']
+[]
+U+9CAA
+15
+jūn
+195'.7
+鲪.mp3
+
+鲫
+['Carassius auratus, crucian carp']
+['Carassius auratus, carpa cruciana']
+['https://media.gettyimages.com/photos/goldfish-swimming-in-a-coupe-glass-picture-id1195442812?k=6&m=1195442812&s=612x612&w=0&h=WBjtGivwE8bQXBUHq4T-6pYgIVGqsThEoIAbRcAuNcw=']
+U+9CAB
+15
+jì
+195'.7
+鲫.mp3
+
+鲬
+['a flathead (fish)']
+['una cabeza plana (pez)']
+['https://media.gettyimages.com/illustrations/antique-illustration-of-flathead-mullet-illustration-id503115531?k=6&m=503115531&s=612x612&w=0&h=Gr7ScXsdZZlhOkHCjtk-sdI4DpaeMEApfqChjIORS4o=']
+U+9CAC
+15
+yǒng
+195'.7
+鲬.mp3
+
+鲭
+['mackerel']
+['caballa']
+['https://media.gettyimages.com/photos/mackerel-isolated-on-white-background-picture-id154948441?k=6&m=154948441&s=612x612&w=0&h=4aui4VJjaWJHpNjP58Q4ongTBkkM9m2YkFDL1Bskgc4=']
+U+9CAD
+16
+qīng
+195'.8
+鲭.mp3
+
+鲮
+['carp']
+['carpa']
+['https://media.gettyimages.com/photos/koi-fish-underwater-picture-id90260108?k=6&m=90260108&s=612x612&w=0&h=9y-3H52y3enAXr97OvAiBKyRamB2oDDimSILHayTE9A=']
+U+9CAE
+16
+líng
+195'.8
+鲮.mp3
+
+鲯
+['coryphaena hippurus']
+['Coryphaena hippurus']
+['https://media.gettyimages.com/photos/bull-dolphin-or-mahimahi-picture-id482194845?k=6&m=482194845&s=612x612&w=0&h=t6cePyrHlpHKOfKEYi9vyFkeeFSTtWRGOtV3wX3OclE=']
+U+9CAF
+16
+qí
+195'.8
+鲯.mp3
+
+鲰
+['small fish', ' small', ' minnow']
+['pez pequeño', 'pequeño', 'pececillo']
+['https://media.gettyimages.com/photos/school-of-fish-stronger-together-teamwork-picture-id1138564175?k=6&m=1138564175&s=612x612&w=0&h=8LNYybkemY0ZQXU-7gXw3hd3N3eAc-3V2gzA6neTdU0=', 'https://media.gettyimages.com/photos/young-male-business-owner-standing-outside-hipster-urban-caf-picture-id950271136?k=6&m=950271136&s=612x612&w=0&h=03uPbA5MhkBbNUnLJokp0zJyS3JpXIkeWikt-2oGL-4=', 'https://media.gettyimages.com/photos/silver-freshwater-minnows-picture-id98371289?k=6&m=98371289&s=612x612&w=0&h=652FToTP6ksiHUA-N3OeNf3zmgOTXwKRwzw62VP41Tw=']
+U+9CB0
+16
+zōu
+195'.8
+鲰.mp3
+
+鲱
+['herring']
+['arenque']
+['https://media.gettyimages.com/photos/rollmops-pickled-herring-picture-id466576507?k=6&m=466576507&s=612x612&w=0&h=BCDX-585gRu8WHPPUHFRUYpW3IF4nP9m8S9TLXNqZFE=']
+U+9CB1
+16
+fēi
+195'.8
+鲱.mp3
+
+鲲
+['spawn', ' roe', ' fy']
+['Aparecer', 'hueva', 'en un']
+['https://media.gettyimages.com/photos/salmon-alaska-picture-id1024909640?k=6&m=1024909640&s=612x612&w=0&h=X4YyZQaRBxr-4Hen-SCmcHrW0CF6u5AFpCgK9pdj99Y=', 'https://media.gettyimages.com/photos/caviar-on-spoon-closeup-picture-id57452607?k=6&m=57452607&s=612x612&w=0&h=eDEgPEkhY7IVKrD3nzq2_z9r8y-DVeC6R4P-FHrrrmg=', 'https://media.gettyimages.com/photos/people-at-city-street-picture-id702623871?k=6&m=702623871&s=612x612&w=0&h=kGjlB9COibzoyTs_loCSYp6EARfSrEQ6JMQ7IUp5T0E=']
+U+9CB2
+16
+kūn
+195'.8
+鲲.mp3
+
+鲳
+['the silvery pomfret, Stromateoides argenteus']
+['la palometa plateada, Stromateoides argenteus']
+['NONE']
+U+9CB3
+16
+chāng
+195'.8
+鲳.mp3
+
+鲴
+['fish guts']
+['tripas de pescado']
+['https://media.gettyimages.com/photos/maledives-indian-ocean-baby-black-tipped-reef-shark-amongst-shoal-of-picture-id1139014799?k=6&m=1139014799&s=612x612&w=0&h=MxEUcd4mfXXTG9BqxwnJdrTnrrzChmPaE-TzZWM4ZOw=']
+U+9CB4
+16
+gù
+195'.8
+鲴.mp3
+
+鲵
+['Cryptobranchus japonicus', ' a salamander']
+['Cryptobranchus japonicus', 'a salamander']
+['NONE', 'https://media.gettyimages.com/photos/olm-proteus-anguinus-picture-id155422480?k=6&m=155422480&s=612x612&w=0&h=z81AeVCkvZaoGotXNCb705JvCmF-Im6IXT5WiDGlxCA=']
+U+9CB5
+16
+ní
+195'.8
+鲵.mp3
+
+鲶
+['sheat']
+['funda']
+['https://media.gettyimages.com/photos/sheat-of-metal-bended-in-industrial-locksmiths-tr-picture-id87869030?k=6&m=87869030&s=612x612&w=0&h=nMJUaBzoGGsD6MHKTwA7GyZB1CjSDe0KMZUKAYVouzk=']
+U+9CB6
+16
+nián
+195'.8
+鲶.mp3
+
+鲷
+['pagrosomus major, porgy']
+['pagrosomus major, porgy']
+['NONE']
+U+9CB7
+16
+diāo
+195'.8
+鲷.mp3
+
+鲸
+['whale']
+['ballena']
+['https://media.gettyimages.com/photos/humpback-whale-breaching-in-sea-of-cortez-mexico-picture-id1090121974?k=6&m=1090121974&s=612x612&w=0&h=8CozXcrzCpEz4b9JGpfnen1lJYyJx6fy_2JYnW9uiLQ=']
+U+9CB8
+16
+jīng
+195'.8
+鲸.mp3
+
+鲹
+['a horse mackerel']
+['un jurel']
+['https://media.gettyimages.com/photos/pesce-azzurro-picture-id905647042?k=6&m=905647042&s=612x612&w=0&h=1x_F4K3VB2eINTOI4lYHwchQiDpBeI7ThUOnXEjfZ3c=']
+U+9CB9
+16
+shēn
+195'.8
+鲹.mp3
+
+鲺
+['cat fish']
+['bagre']
+['https://media.gettyimages.com/photos/catfish-with-clipping-path-picture-id157331791?k=6&m=157331791&s=612x612&w=0&h=YUWHnbjOe2W06hvZSaSu753DoKHKrJnUH3Wq9mkmM6s=']
+U+9CBA
+16
+shī
+195'.8
+鲺.mp3
+
+鲻
+['mullet']
+['mójol']
+['https://media.gettyimages.com/photos/young-man-with-mullet-picture-id532594488?k=6&m=532594488&s=612x612&w=0&h=gfDinoln8kJbmMVgE8tWm59T9tkQvg6SuM1acvy7C04=']
+U+9CBB
+16
+zī
+195'.8
+鲻.mp3
+
+鲼
+['fish']
+['pescado']
+['https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=']
+U+9CBC
+17
+fèn
+195'.9
+鲼.mp3
+
+鲽
+['flatfish', ' flounder', ' sole']
+['platija', 'platija', 'único']
+['https://media.gettyimages.com/photos/sole-fillets-on-a-countertop-spread-open-picture-id155428143?k=6&m=155428143&s=612x612&w=0&h=K4_bd3OfILjDASHCzwXy4xePoyVkkqAWzDZ4u3OgYfE=', 'https://media.gettyimages.com/photos/raw-whole-plaice-on-crushed-ice-picture-id650162333?k=6&m=650162333&s=612x612&w=0&h=Jp70XQTqW5klCpmXqAG6BAmj3h5c0UX7aPCqYh-8sGw=', 'https://media.gettyimages.com/vectors/grunge-shoe-tracks-vector-id451966339?k=6&m=451966339&s=612x612&w=0&h=fF0TMr_H_jR3jcmBLoG_mCEnCQBzCglT68Xzdo7_Mc0=']
+U+9CBD
+17
+dié
+195'.9
+鲽.mp3
+
+鲾
+['NONE']
+['NINGUNA']
+[]
+U+9CBE
+17
+bī
+195'.10
+鲾.mp3
+
+鲿
+['codfish']
+['bacalao']
+['https://media.gettyimages.com/photos/grilled-halibut-with-spinach-leeks-and-pine-nuts-picture-id503337620?k=6&m=503337620&s=612x612&w=0&h=C2RuTj4IDKvEvkC0J2i_7x2rnMlspq8CTcVVtdqd5u8=']
+U+9CBF
+17
+cháng
+195'.9
+鲿.mp3
+
+鳀
+['anchovy']
+['anchoa']
+['https://media.gettyimages.com/photos/canned-anchovies-in-olive-oil-picture-id157593847?k=6&m=157593847&s=612x612&w=0&h=AWGHdt-i_kXKkX6iXzQ1dKqvr5mAvZfOAZA6eJaEPns=']
+U+9CC0
+17
+tí
+195'.9
+鳀.mp3
+
+鳁
+['sardine']
+['sardina']
+['https://media.gettyimages.com/photos/tinned-sardines-picture-id157329520?k=6&m=157329520&s=612x612&w=0&h=eZvq-jZALB19yMYHNReBceQQ0QzpzWYeplaGZnGoJPE=']
+U+9CC1
+17
+wēn
+195'.9
+鳁.mp3
+
+鳂
+['name of fish']
+['nombre del pez']
+['https://media.gettyimages.com/photos/happy-fisher-woman-picture-id488823862?k=6&m=488823862&s=612x612&w=0&h=Yz6jCyVU4rQaJi3YGUS0N0vH68p4R3q_Oj-bqIeMt9o=']
+U+9CC2
+17
+wēi
+195'.9
+鳂.mp3
+
+鳃
+['fish gills']
+['branquias de pescado']
+['https://media.gettyimages.com/photos/head-of-large-fish-giant-grouper-brown-spotted-cod-picture-id1153386423?k=6&m=1153386423&s=612x612&w=0&h=QC4om21bnbqjdBvno6Lgg9VEH04sq6oVK5iompjSTu0=']
+U+9CC3
+17
+sāi
+195'.9
+鳃.mp3
+
+鳄
+['alligator']
+['caimán']
+['https://media.gettyimages.com/photos/crocodile-picture-id171586404?k=6&m=171586404&s=612x612&w=0&h=9T1QdPxPu4aNcdEjCcjiTq-LqZArR57UyMmra-irosE=']
+U+9CC4
+17
+è
+195'.9
+鳄.mp3
+
+鳅
+['loach']
+['loach']
+['https://media.gettyimages.com/photos/breakfast-2-picture-id1053048332?k=6&m=1053048332&s=612x612&w=0&h=hFV3Plm0oPhOnz9Qxr5SHILf1ikonmE6RM3_D5aBAWE=']
+U+9CC5
+17
+qiū
+195'.9
+鳅.mp3
+
+鳆
+['abalone']
+['abulón']
+['https://media.gettyimages.com/photos/closeup-of-some-paula-shells-also-called-abalone-picture-id164537198?k=6&m=164537198&s=612x612&w=0&h=CThBk-FUT2FCrhsXlD2kmVszq1ZkZeChQLgWSE9Vzro=']
+U+9CC6
+17
+fù
+195'.9
+鳆.mp3
+
+鳇
+['sturgeon']
+['esturión']
+['https://media.gettyimages.com/photos/sturgeon-picture-id90640400?k=6&m=90640400&s=612x612&w=0&h=K72jq2-nuYBWI0yTJEaPvI0d0kmZNrLrkg6aDkoaL6c=']
+U+9CC7
+17
+huáng
+195'.9
+鳇.mp3
+
+鳈
+['name of fish']
+['nombre del pez']
+['https://media.gettyimages.com/photos/happy-fisher-woman-picture-id488823862?k=6&m=488823862&s=612x612&w=0&h=Yz6jCyVU4rQaJi3YGUS0N0vH68p4R3q_Oj-bqIeMt9o=']
+U+9CC8
+17
+quán
+195'.9
+鳈.mp3
+
+鳉
+['name of fish']
+['nombre del pez']
+['https://media.gettyimages.com/photos/happy-fisher-woman-picture-id488823862?k=6&m=488823862&s=612x612&w=0&h=Yz6jCyVU4rQaJi3YGUS0N0vH68p4R3q_Oj-bqIeMt9o=']
+U+9CC9
+17
+jiāng
+195'.9
+鳉.mp3
+
+鳊
+['bream']
+['brema']
+['https://media.gettyimages.com/photos/closeup-of-fresh-sea-bream-against-white-background-picture-id165637260?k=6&m=165637260&s=612x612&w=0&h=cXZmuEdibTvkvRcVuaDHFdm9Rv3P_5f_kbKzWfGL_6Q=']
+U+9CCA
+17
+biān
+195'.9
+鳊.mp3
+
+鳋
+['carp']
+['carpa']
+['https://media.gettyimages.com/photos/koi-fish-underwater-picture-id90260108?k=6&m=90260108&s=612x612&w=0&h=9y-3H52y3enAXr97OvAiBKyRamB2oDDimSILHayTE9A=']
+U+9CCB
+17
+sāo
+195'.9
+鳋.mp3
+
+鳌
+['huge sea turtle']
+['enorme tortuga marina']
+['https://media.gettyimages.com/photos/green-sea-turtle-in-caribbean-sea-near-akumal-bay-riviera-maya-roo-picture-id842453708?k=6&m=842453708&s=612x612&w=0&h=aT5VRRJQ7d56FX2xItX2mSuFZlHjTq3W0zZs_DtJxIo=']
+U+9CCC
+18
+áo
+195'.10
+鳌.mp3
+
+鳍
+['fin']
+['fin']
+['https://media.gettyimages.com/photos/young-business-boy-wins-go-cart-race-picture-id959599356?k=6&m=959599356&s=612x612&w=0&h=Degbr43Lrgrj5stA6LTwV_k2covnqdnzM9QqJq2PhYA=']
+U+9CCD
+18
+qí
+195'.10
+鳍.mp3
+
+鳎
+['sole']
+['único']
+['https://media.gettyimages.com/vectors/grunge-shoe-tracks-vector-id451966339?k=6&m=451966339&s=612x612&w=0&h=fF0TMr_H_jR3jcmBLoG_mCEnCQBzCglT68Xzdo7_Mc0=']
+U+9CCE
+18
+tǎ
+195'.10
+鳎.mp3
+
+鳏
+['huge fish', ' widower', ' bachelor']
+['pez enorme', 'viudo', 'soltero']
+['https://media.gettyimages.com/photos/big-pike-catched-picture-id1059290166?k=6&m=1059290166&s=612x612&w=0&h=UbP-1Cm0hATJEhHkH94k6pjWFf2cp1hHouNLmRvjUy4=', 'https://media.gettyimages.com/photos/coming-to-grips-with-loss-picture-id522513915?k=6&m=522513915&s=612x612&w=0&h=A6y_eT4r55bH-vsfN-Dk2DkcuAi23Ba760TfPRmvphY=', 'https://media.gettyimages.com/photos/confidence-practice-it-daily-picture-id845919842?k=6&m=845919842&s=612x612&w=0&h=mcWd_8ENayxryz-AYNnr7O8KADQs6fjjV-y_uvXjOxA=']
+U+9CCF
+18
+guān
+195'.10
+鳏.mp3
+
+鳐
+['the nautilus', ' the ray']
+['el nautilus', 'el rayo']
+['https://media.gettyimages.com/photos/close-up-picture-of-a-shiny-nautilus-seashell-picture-id157481269?k=6&m=157481269&s=612x612&w=0&h=5LADSKYYhJW0S7ExMIgxU_SFgbnkmR9nrbcDK_N_nG8=', 'https://media.gettyimages.com/photos/light-from-heaven-picture-id979356356?k=6&m=979356356&s=612x612&w=0&h=yzdQx9q0ZyO3vYy-RUTjo5PQYXZHhKQq5xDQViMlbFA=']
+U+9CD0
+18
+yáo
+195'.10
+鳐.mp3
+
+鳑
+['NONE']
+['NINGUNA']
+[]
+U+9CD1
+18
+páng
+195'.10
+鳑.mp3
+
+鳒
+['big-mouthed flounder']
+['platija de boca grande']
+['NONE']
+U+9CD2
+18
+jiān
+195'.10
+鳒.mp3
+
+鳓
+['Chinese herring', ' shad']
+['Arenque chino', 'sábalo']
+['https://media.gettyimages.com/photos/cropped-hand-picking-sashimi-on-the-table-picture-id1156950664?k=6&m=1156950664&s=612x612&w=0&h=lq6dx9gh3ZHsIUagIFNUcrDVys-NuepnKCboTZnt3wE=', 'https://media.gettyimages.com/photos/flowers-growing-in-store-picture-id1132326084?k=6&m=1132326084&s=612x612&w=0&h=nzc_j2NexrYZktdcMJTWRR8p-j28MgbpS000IqeGVrs=']
+U+9CD3
+19
+lè
+195'.11
+鳓.mp3
+
+鳔
+['swimming bladder of fish']
+['vejiga natatoria de pescado']
+['https://media.gettyimages.com/vectors/fishes-in-love-vector-id508338500?k=6&m=508338500&s=612x612&w=0&h=cy0uM0_u6R79bOnhPEXCP4VbNsbu-rB9sBK-BcnFMwI=']
+U+9CD4
+19
+biào
+195'.11
+鳔.mp3
+
+鳕
+['codfish']
+['bacalao']
+['https://media.gettyimages.com/photos/grilled-halibut-with-spinach-leeks-and-pine-nuts-picture-id503337620?k=6&m=503337620&s=612x612&w=0&h=C2RuTj4IDKvEvkC0J2i_7x2rnMlspq8CTcVVtdqd5u8=']
+U+9CD5
+19
+xuě
+195'.11
+鳕.mp3
+
+鳖
+['turtle']
+['Tortuga']
+['https://media.gettyimages.com/photos/green-turtle-approaching-water-surface-picture-id504241856?k=6&m=504241856&s=612x612&w=0&h=e7I9yGsapwQKw0FYjvRx3wj2WwiEcHcGSCF3bQOt9XM=']
+U+9CD6
+19
+biē
+195'.11
+鳖.mp3
+
+鳗
+['eel']
+['Anguila']
+['https://media.gettyimages.com/illustrations/common-eel-illustration-id489167176?k=6&m=489167176&s=612x612&w=0&h=DEwMlmY_jQQK_RqU02lUyxsyu-vqciNNrSR0U3RiQ_o=']
+U+9CD7
+19
+mán
+195'.11
+鳗.mp3
+
+鳘
+['codfish']
+['bacalao']
+['https://media.gettyimages.com/photos/grilled-halibut-with-spinach-leeks-and-pine-nuts-picture-id503337620?k=6&m=503337620&s=612x612&w=0&h=C2RuTj4IDKvEvkC0J2i_7x2rnMlspq8CTcVVtdqd5u8=']
+U+9CD8
+19
+mǐn
+195'.11
+鳘.mp3
+
+鳙
+['bighead']
+['cabeza grande']
+['https://media.gettyimages.com/vectors/cartoon-astronaut-and-racer-characters-vector-id165788861?k=6&m=165788861&s=612x612&w=0&h=k9boaQ_XrO8X5gMqXv5rr1gNX7MF-xkWPg1-BCFoRwE=']
+U+9CD9
+19
+yōng
+195'.11
+鳙.mp3
+
+鳚
+['general term of a kind of fish, a snake-like fish']
+['término general de una especie de pez, un pez parecido a una serpiente']
+['NONE']
+U+9CDA
+19
+wèi
+195'.11
+鳚.mp3
+
+鳛
+['the weather or dojo loach, Misgurnus anguillicaudatus']
+['el clima o loach del dojo, Misgurnus anguillicaudatus']
+['NONE']
+U+9CDB
+19
+xí
+195'.11
+鳛.mp3
+
+鳜
+['mandarin fish']
+['pez mandarín']
+['https://media.gettyimages.com/photos/feel-good-picture-id450786763?k=6&m=450786763&s=612x612&w=0&h=N8ACKfp9X5tUkXloqtJZlsnSyHkKA6VZGNC0ylqlCJA=']
+U+9CDC
+20
+guì
+195'.12
+鳜.mp3
+
+鳝
+['eel']
+['Anguila']
+['https://media.gettyimages.com/illustrations/common-eel-illustration-id489167176?k=6&m=489167176&s=612x612&w=0&h=DEwMlmY_jQQK_RqU02lUyxsyu-vqciNNrSR0U3RiQ_o=']
+U+9CDD
+20
+shàn
+195'.12
+鳝.mp3
+
+鳞
+['fish scales']
+['escamas de pescado']
+['https://media.gettyimages.com/photos/salmon-scale-picture-id136239651?k=6&m=136239651&s=612x612&w=0&h=_HpDAMlhTZkaQ_KV7D8ewfTC6r7G73fVFrru2topYRc=']
+U+9CDE
+20
+lín
+195'.12
+鳞.mp3
+
+鳟
+['barbel']
+['barra con pesas']
+['https://media.gettyimages.com/photos/muscular-women-workout-with-barbell-at-sports-gym-picture-id1062554676?k=6&m=1062554676&s=612x612&w=0&h=c5i0T0xI11dcVXz634phGesJMbTAOYp8dLZQLrU20VA=']
+U+9CDF
+20
+zūn
+195'.12
+鳟.mp3
+
+鳠
+['NONE']
+['NINGUNA']
+[]
+U+9CE0
+21
+hù
+195'.13
+鳠.mp3
+
+鳡
+['NONE']
+['NINGUNA']
+[]
+U+9CE1
+21
+gǎn
+195'.13
+鳡.mp3
+
+鳢
+['snakehead']
+['cabeza de serpiente']
+['https://media.gettyimages.com/photos/portrait-of-smiling-teenage-boy-holding-giant-snakehead-at-lakeshore-picture-id717386393?k=6&m=717386393&s=612x612&w=0&h=9NKSfP47C2meyTNC2GD-fWVIAEfGDdXSy82aDdDm7-8=']
+U+9CE2
+21
+lǐ
+195'.13
+鳢.mp3
+
+鳣
+['sturgeon']
+['esturión']
+['https://media.gettyimages.com/photos/sturgeon-picture-id90640400?k=6&m=90640400&s=612x612&w=0&h=K72jq2-nuYBWI0yTJEaPvI0d0kmZNrLrkg6aDkoaL6c=']
+U+9CE3
+21
+zhān
+195'.13
+鳣.mp3
+
+鳤
+['NONE']
+['NINGUNA']
+[]
+U+9CE4
+22
+guǎn
+195'.14
+鳤.mp3
+
+鳥
+['bird', ' KangXi radical 196']
+['pájaro', 'K Ang ξ radical 196']
+['https://media.gettyimages.com/vectors/pigeons-flying-silhouettes-2-vector-id1038653776?k=6&m=1038653776&s=612x612&w=0&h=MHfhMDbUxzLkKCKoEbh_6Tf5tRg4FOT0-1awxg10rQc=', 'NONE']
+U+9CE5
+11
+niǎo
+196.0
+鳥.mp3
+
+鳦
+['swallow']
+['golondrina']
+['https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=']
+U+9CE6
+12
+yǐ
+196.1
+鳦.mp3
+
+鳧
+['wild duck, teal', ' swim']
+['pato salvaje, verde azulado', 'nadar']
+['https://media.gettyimages.com/photos/two-males-and-one-female-green-winged-teal-at-rest-on-log-at-colusa-picture-id1133024767?k=6&m=1133024767&s=612x612&w=0&h=41m-11iUAuYvhYAk0UfxIukserZNogid3j7R-QB4fPc=', 'https://media.gettyimages.com/photos/determined-woman-swimming-in-sea-picture-id916830480?k=6&m=916830480&s=612x612&w=0&h=UuiyR-fv8v5aTeob6nGPyv0E9Z8uwfpcVNt6PoXvZzg=']
+U+9CE7
+13
+fú
+196.2
+鳧.mp3
+
+鳨
+['NONE']
+['NINGUNA']
+[]
+U+9CE8
+13
+lì
+196.2
+鳨.mp3
+
+鳩
+['pigeon, dove', ' collect, assemble']
+['paloma, donde', 'recoger, montar']
+['https://media.gettyimages.com/photos/white-dove-isolated-picture-id483585627?k=6&m=483585627&s=612x612&w=0&h=0CHALKflO5kw5bLFqwQqeMRTzJC3xqcTgsVqc8eINtc=', 'https://media.gettyimages.com/vectors/business-workflow-concept-vector-id1149209080?k=6&m=1149209080&s=612x612&w=0&h=OsIYB2cOd0J2tX3cnsjFsD94g74V6JZpgpPIG2yOMUo=']
+U+9CE9
+13
+jiū
+196.2
+鳩.mp3
+
+鳪
+['NONE']
+['NINGUNA']
+[]
+U+9CEA
+13
+bú
+196.2
+鳪.mp3
+
+鳫
+['wild goose']
+['ganso salvaje']
+['https://media.gettyimages.com/photos/migrating-canada-geese-picture-id136917788?k=6&m=136917788&s=612x612&w=0&h=6O3iTSdQs0ptuP28pSkUw7dWExhslahxY_TECj8DIyU=']
+U+9CEB
+13
+yàn
+196.2
+鳫.mp3
+
+鳬
+['wild duck, teal', ' swim']
+['pato salvaje, verde azulado', 'nadar']
+['https://media.gettyimages.com/photos/stunning-drake-teal-duck-anas-crecca-dabbling-for-food-at-the-edge-of-picture-id1187287906?k=6&m=1187287906&s=612x612&w=0&h=oD29T2MOx1z7wKnnTKCRHsBeM8Ahr7nugRoPDm2aU-4=', 'https://media.gettyimages.com/photos/determined-woman-swimming-in-sea-picture-id916830480?k=6&m=916830480&s=612x612&w=0&h=UuiyR-fv8v5aTeob6nGPyv0E9Z8uwfpcVNt6PoXvZzg=']
+U+9CEC
+9
+fǔ
+196.2
+鳬.mp3
+
+鳭
+['NONE']
+['NINGUNA']
+[]
+U+9CED
+13
+diāo
+196.2
+鳭.mp3
+
+鳮
+['chickens', ' domestic fowl']
+['pollos', 'aves domésticas']
+['https://media.gettyimages.com/photos/chickens-standing-in-field-picture-id96502445?k=6&m=96502445&s=612x612&w=0&h=AdLNtcuyyoo7PCGig9PKZ-Z0G7d2b1BNICozD5W9pq8=', 'https://media.gettyimages.com/photos/welcome-to-the-henhouse-picture-id889395368?k=6&m=889395368&s=612x612&w=0&h=jPM4vHnIWmcOafJ-lfYZnBZZ90P4cm9KlYU5rsv0tfs=']
+U+9CEE
+13
+jī
+196.2
+鳮.mp3
+
+鳯
+['male phoenix', ' symbol of joy']
+['fénix masculino', 'símbolo de alegría']
+['https://media.gettyimages.com/photos/male-caucasian-golfer-on-the-tee-desert-golf-course-picture-id155276886?k=6&m=155276886&s=612x612&w=0&h=L3-HyH9kB0ED4PQ6n5pWXUhK0ctAP5t0O4Vg30zVn_8=', 'https://media.gettyimages.com/vectors/children-icons-vector-id1133008033?k=6&m=1133008033&s=612x612&w=0&h=J2Syp2AtPRUcMw-1VQhrS1rFxRLSBqHe03N-Jjaj2Ys=']
+U+9CEF
+13
+fèng
+196.2
+鳯.mp3
+
+鳰
+['NONE']
+['NINGUNA']
+[]
+U+9CF0
+13
+rù
+196.2
+鳰.mp3
+
+鳱
+['NONE']
+['NINGUNA']
+[]
+U+9CF1
+14
+gān
+196.3
+鳱.mp3
+
+鳲
+['turtledove, cuckoo']
+['tórtola, cuco']
+['NONE']
+U+9CF2
+14
+shī
+196.3
+鳲.mp3
+
+鳳
+['male phoenix', ' symbol of joy']
+['fénix masculino', 'símbolo de alegría']
+['https://media.gettyimages.com/photos/male-caucasian-golfer-on-the-tee-desert-golf-course-picture-id155276886?k=6&m=155276886&s=612x612&w=0&h=L3-HyH9kB0ED4PQ6n5pWXUhK0ctAP5t0O4Vg30zVn_8=', 'https://media.gettyimages.com/vectors/children-icons-vector-id1133008033?k=6&m=1133008033&s=612x612&w=0&h=J2Syp2AtPRUcMw-1VQhrS1rFxRLSBqHe03N-Jjaj2Ys=']
+U+9CF3
+14
+fèng
+196.3
+鳳.mp3
+
+鳴
+['cry of bird or animal', ' make sound']
+['grito de pájaro o animal', 'hacer sonido']
+['https://media.gettyimages.com/photos/little-girl-is-crying-till-holding-hen-in-the-farm-picture-id658729544?k=6&m=658729544&s=612x612&w=0&h=vwf6DxOYIyPg4HslMTKn2WVrkCMrB-jWvaF7lcyyOqw=', 'https://media.gettyimages.com/photos/tv-set-studio-kitchen-female-cook-preparing-cookies-picture-id1070097534?k=6&m=1070097534&s=612x612&w=0&h=7M8Q7qh-lVtBEBUQU3mCsUVj4iyqquBXLOs71b_xigs=']
+U+9CF4
+14
+míng
+196.3
+鳴.mp3
+
+鳵
+['NONE']
+['NINGUNA']
+[]
+U+9CF5
+14
+bǎo
+196.3
+鳵.mp3
+
+鳶
+['kite', ' Milvus species (various)']
+['cometa', 'Especies de Milvus (varias)']
+['https://media.gettyimages.com/photos/rainbow-delta-kite-isolated-on-white-with-clipping-path-picture-id173240166?k=6&m=173240166&s=612x612&w=0&h=c7LGklmhtVMhbZx6r13p31q7PXJ7nEVcwkSsU8SD1j8=', 'https://media.gettyimages.com/illustrations/red-kite-two-birds-perching-on-a-branch-one-perching-on-top-end-of-illustration-id88007935?k=6&m=88007935&s=612x612&w=0&h=AV3r7Z2Y-DJ2fLwNwsMoL6mq_SvBmSKSDL3D554Qiz0=']
+U+9CF6
+14
+yuān
+196.3
+鳶.mp3
+
+鳷
+['jay (Garrulus lidthi)']
+['arrendajo (Garrulus lidthi)']
+['NONE']
+U+9CF7
+15
+zhī
+196.4
+鳷.mp3
+
+鳸
+['NONE']
+['NINGUNA']
+[]
+U+9CF8
+15
+hù
+196.4
+鳸.mp3
+
+鳹
+['NONE']
+['NINGUNA']
+[]
+U+9CF9
+15
+qín
+196.4
+鳹.mp3
+
+鳺
+['NONE']
+['NINGUNA']
+[]
+U+9CFA
+15
+fū
+196.4
+鳺.mp3
+
+鳻
+['the wild pigeon']
+['la paloma salvaje']
+['https://media.gettyimages.com/vectors/animal-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1216335937?k=6&m=1216335937&s=612x612&w=0&h=-0YxDTTX2sAo4gFwqCBJn03hh6Qnh-r5XSFPj5yDvOY=']
+U+9CFB
+15
+bān
+196.4
+鳻.mp3
+
+鳼
+['NONE']
+['NINGUNA']
+[]
+U+9CFC
+15
+wén
+196.4
+鳼.mp3
+
+鳽
+['NONE']
+['NINGUNA']
+[]
+U+9CFD
+15
+jiān
+196.4
+鳽.mp3
+
+鳾
+['general term for a group of small birds']
+['término general para un grupo de pájaros pequeños']
+['NONE']
+U+9CFE
+15
+shī
+196.4
+鳾.mp3
+
+鳿
+['NONE']
+['NINGUNA']
+[]
+U+9CFF
+15
+yù
+196.4
+鳿.mp3
+
+鴀
+['NONE']
+['NINGUNA']
+[]
+U+9D00
+15
+fǒu
+196.4
+鴀.mp3
+
+鴁
+['a legendary bird']
+['un pájaro legendario']
+['https://media.gettyimages.com/vectors/cute-monsters-vector-id925688288?k=6&m=925688288&s=612x612&w=0&h=VvBNbDyVLrECfN_qu1xm-_G22OQ9JhMuQ6dR41LBM_c=']
+U+9D01
+15
+yāo
+196.4
+鴁.mp3
+
+鴂
+['the tailor-bird', ' the working bird']
+['el sastre-pájaro', 'el pájaro de trabajo']
+['https://media.gettyimages.com/photos/the-couple-tailorbird-with-cherry-blossom-at-doi-mae-tamanchiang-mai-picture-id1161213001?k=6&m=1161213001&s=612x612&w=0&h=ahdD7557sAXwJcMTM3jLsyBvVSs59rgSaEDAO5ptcD0=', 'https://media.gettyimages.com/photos/healthy-hens-are-happy-hens-picture-id642438646?k=6&m=642438646&s=612x612&w=0&h=RLdTNkxRUA71OwiLkdhx7zKvfr-ZXOTUeRePHkjFZIs=']
+U+9D02
+15
+jué
+196.4
+鴂.mp3
+
+鴃
+['shrike', ' butcherbird']
+['alcaudón', 'carnicero']
+['https://media.gettyimages.com/photos/magpie-shrike-south-africa-picture-id173157950?k=6&m=173157950&s=612x612&w=0&h=HFOGPAZgrrKiVwRWPaDKieIeuVKLcNIlOFbnUiskF_Q=', 'https://media.gettyimages.com/photos/grey-butcherbird-picture-id1030878534?k=6&m=1030878534&s=612x612&w=0&h=g1_BVavnSgGKhE24_tmAyFc-W0B5aa1pi-e6Q7_MylI=']
+U+9D03
+15
+jué
+196.4
+鴃.mp3
+
+鴄
+['duck']
+['Pato']
+['https://media.gettyimages.com/photos/side-view-of-a-white-green-and-brown-flying-mallard-drake-picture-id157679422?k=6&m=157679422&s=612x612&w=0&h=yCtnUrB6GcDwXQUqRsEoykYN3RdcwmwaaCJiZugGeKk=']
+U+9D04
+15
+pǐ
+196.4
+鴄.mp3
+
+鴅
+['NONE']
+['NINGUNA']
+[]
+U+9D05
+15
+huān
+196.4
+鴅.mp3
+
+鴆
+['a bird resembling the secretary falcon']
+['un pájaro parecido al halcón secretario']
+['NONE']
+U+9D06
+15
+zhèn
+196.4
+鴆.mp3
+
+鴇
+['bustard', ' procuress', ' Otis species (various)']
+['avutarda', 'proxeneta', 'Especies de Otis (varias)']
+['https://media.gettyimages.com/photos/great-indian-bustard-picture-id186707302?k=6&m=186707302&s=612x612&w=0&h=2XOf-_RKH-QbZ3rs9VDbUtbx7j-nLjJGT29j08WQehU=', 'NONE', 'https://media.gettyimages.com/photos/emoji-badges-on-blue-background-picture-id884378360?k=6&m=884378360&s=612x612&w=0&h=WfvNkeQQayFp2mBsogT_rN6Bp_Bv3rZpZzoRPfAC0ZU=']
+U+9D07
+15
+bǎo
+196.4
+鴇.mp3
+
+鴈
+['wild goose']
+['ganso salvaje']
+['https://media.gettyimages.com/photos/migrating-canada-geese-picture-id136917788?k=6&m=136917788&s=612x612&w=0&h=6O3iTSdQs0ptuP28pSkUw7dWExhslahxY_TECj8DIyU=']
+U+9D08
+15
+yàn
+196.4
+鴈.mp3
+
+鴉
+['crow, raven', ' Corvus species (various)']
+['Cuervo Cuervo', 'Especies de Corvus (varias)']
+['https://media.gettyimages.com/photos/woman-standing-on-footbridge-leading-to-treehouse-picture-id582780052?k=6&m=582780052&s=612x612&w=0&h=BqzNEhczrf8TtMA9sTjh3_a8LHj5K0insLUA63UquZI=', 'https://media.gettyimages.com/photos/halloween-jackolantern-pumpkins-on-rustic-wooden-background-picture-id1175106211?k=6&m=1175106211&s=612x612&w=0&h=QWWo7kvPmJMytLEYIRoDz9QY3jWaEZTDxk18bklEEus=']
+U+9D09
+15
+yā
+196.4
+鴉.mp3
+
+鴊
+['NONE']
+['NINGUNA']
+[]
+U+9D0A
+16
+zhèng
+196.5
+鴊.mp3
+
+鴋
+['NONE']
+['NINGUNA']
+[]
+U+9D0B
+15
+fāng
+196.4
+鴋.mp3
+
+鴌
+['NONE']
+['NINGUNA']
+[]
+U+9D0C
+15
+fèng
+196.4
+鴌.mp3
+
+鴍
+['NONE']
+['NINGUNA']
+[]
+U+9D0D
+15
+wén
+196.4
+鴍.mp3
+
+鴎
+['seagull, tern']
+['gaviota, charrán']
+['https://media.gettyimages.com/vectors/sea-birds-vector-id165682198?k=6&m=165682198&s=612x612&w=0&h=6LOswuHOfx4s_5F9CcoQvfEP4XgohSg6qLJU-7_vOxw=']
+U+9D0E
+15
+ōu
+196.4
+鴎.mp3
+
+鴏
+['NONE']
+['NINGUNA']
+[]
+U+9D0F
+16
+dài
+196.5
+鴏.mp3
+
+鴐
+['NONE']
+['NINGUNA']
+[]
+U+9D10
+16
+gē
+196.5
+鴐.mp3
+
+鴑
+['NONE']
+['NINGUNA']
+[]
+U+9D11
+16
+rú
+196.5
+鴑.mp3
+
+鴒
+['species of lark', ' wagtail', ' Motacilla species (various)']
+['especie de alondra', 'aguzanieves', 'Especies de motacilla (varias)']
+['https://media.gettyimages.com/photos/skylark-alauda-arvensis-picture-id1157201214?k=6&m=1157201214&s=612x612&w=0&h=zsHY_mewdyYrG4SBVJ4gpYWcJGsvn06Ho1-RzrIMtPQ=', 'https://media.gettyimages.com/photos/pied-wagtail-picture-id452544699?k=6&m=452544699&s=612x612&w=0&h=abnzixn4iZbkyxpzZe0xNzrMkKB3SA6yFWqYPwfwLiU=', 'NONE']
+U+9D12
+16
+líng
+196.5
+鴒.mp3
+
+鴓
+['NONE']
+['NINGUNA']
+[]
+U+9D13
+16
+miè
+196.5
+鴓.mp3
+
+鴔
+['NONE']
+['NINGUNA']
+[]
+U+9D14
+15
+fú
+196.5
+鴔.mp3
+
+鴕
+['ostrich', ' Struthio camelus']
+['avestruz', 'Struthio camelus']
+['https://media.gettyimages.com/photos/ostrich-hiding-his-head-under-sand-picture-id465874351?k=6&m=465874351&s=612x612&w=0&h=mVkw6FXjniIP3IaJrG3_QcTp73OPfaEa_q4I-iUFSJk=', 'https://media.gettyimages.com/photos/ostrich-hiding-his-head-under-sand-picture-id465874351?k=6&m=465874351&s=612x612&w=0&h=mVkw6FXjniIP3IaJrG3_QcTp73OPfaEa_q4I-iUFSJk=']
+U+9D15
+16
+tuó
+196.5
+鴕.mp3
+
+鴖
+['NONE']
+['NINGUNA']
+[]
+U+9D16
+16
+mín
+196.5
+鴖.mp3
+
+鴗
+['kingfisher']
+['martín pescador']
+['https://media.gettyimages.com/photos/kingfisher-picture-id468026105?k=6&m=468026105&s=612x612&w=0&h=zZHMgESTX-UZPMyPtx2M5VIMztyv-jloZcPdru90Me0=']
+U+9D17
+16
+lì
+196.5
+鴗.mp3
+
+鴘
+['NONE']
+['NINGUNA']
+[]
+U+9D18
+16
+biǎn
+196.5
+鴘.mp3
+

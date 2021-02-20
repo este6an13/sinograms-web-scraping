@@ -1,0 +1,250 @@
+一
+['one', ' a, an', ' alone']
+['uno', 'un, un', 'solo']
+['https://media.gettyimages.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=6&m=1181035364&s=612x612&w=0&h=dMuZ3XCKodBRJTVZN7qAPkenZ7gtnJXCnBcAbXqcyWU=', 'https://media.gettyimages.com/photos/explosion-by-an-impact-of-a-cloud-of-particles-of-powder-of-color-on-picture-id1060002776?k=6&m=1060002776&s=612x612&w=0&h=vj9EgGn-Vtt57Z9y0JCuyrApe-7zsqHIBA1Eh36wNWY=', 'https://media.gettyimages.com/photos/woman-drinking-tea-at-home-picture-id1096591210?k=6&m=1096591210&s=612x612&w=0&h=dj5dfSo9YKf0nyMQnCDTIpNox9n4KwKtbp2CGDVp7bU=']
+U+4E00
+1
+yī
+1.0
+一.mp3
+
+丁
+['male adult', ' robust, vigorous', ' 4th heavenly stem']
+['hombre adulto', 'robusto, vigoroso', '4to tallo celestial']
+['https://media.gettyimages.com/photos/teenage-boy-using-laptop-at-home-picture-id1126799699?k=6&m=1126799699&s=612x612&w=0&h=bb9dNiKPdYRKDOqH7NAsUrRCiwTn4N7L4BOQgT9hzvs=', 'https://media.gettyimages.com/photos/star-warp-picture-id1173481447?k=6&m=1173481447&s=612x612&w=0&h=RctVEjOw8w7Sr5DQtfZKTWkKfDFH6JI4-F4VVSihIAg=', 'NONE']
+U+4E01
+2
+dīng
+1.1
+丁.mp3
+
+丂
+['obstruction of breath (qi) as it seeks release', ' variant of other characters']
+['obstrucción de la respiración (qi) mientras busca la liberación', 'variante de otros personajes']
+['NONE', 'https://media.gettyimages.com/photos/the-love-of-best-friends-picture-id972902038?k=6&m=972902038&s=612x612&w=0&h=Q5EbQ5RhL2ZXM3lnQobRgjEK0g8YM9T4hmbof0sBbf8=']
+U+4E02
+2
+kǎo
+1.1
+丂.mp3
+
+七
+['seven']
+['Siete']
+['https://media.gettyimages.com/photos/jordan-petra-seven-modern-wonders-of-the-world-picture-id1142424695?k=6&m=1142424695&s=612x612&w=0&h=-yOZjjPnNNGsLzPF1yw9PzDnTF_ltT-dFR5eq1iGEe0=']
+U+4E03
+2
+qī
+1.1
+七.mp3
+
+丄
+['above']
+['encima']
+['https://media.gettyimages.com/photos/high-angle-view-of-people-on-street-picture-id973190966?k=6&m=973190966&s=612x612&w=0&h=RXCH2TYW7Dwd06iCes1x1TBSwhC4w8fi4QNwN_LF3eg=']
+U+4E04
+2
+shàng
+1.1
+丄.mp3
+
+丅
+['under, underneath, below', ' down', ' inferior', ' bring down', " used to transliterate the Latin letter 'T'"]
+['debajo, debajo, debajo', 'abajo', 'inferior', 'reducir', "utilizado para transliterar la letra latina 'T'"]
+['https://media.gettyimages.com/photos/presents-under-the-christmas-tree-picture-id184621537?k=6&m=184621537&s=612x612&w=0&h=lvuCc8rp0PXvpMw1gPS5YHwAxqHZgNb9cjf4D1Wt_2U=', 'https://media.gettyimages.com/vectors/change-arrows-up-and-down-vector-id911914726?k=6&m=911914726&s=612x612&w=0&h=uvhnOsGuP4RaxT8mMMXNF0FKuKjc0uFdI61pipq5EDc=', 'https://media.gettyimages.com/photos/presents-under-the-christmas-tree-picture-id184621537?k=6&m=184621537&s=612x612&w=0&h=lvuCc8rp0PXvpMw1gPS5YHwAxqHZgNb9cjf4D1Wt_2U=', 'https://media.gettyimages.com/photos/woman-dropping-groceries-on-sidewalk-picture-id90201027?k=6&m=90201027&s=612x612&w=0&h=MGeDlQ1Y5QE8TAOE4E0dLhERuxKvyjo6mUtnpTXbKW8=', 'NONE']
+U+4E05
+2
+xià
+1.1
+丅.mp3
+
+丆
+['kwukyel']
+['kwukyel']
+['NONE']
+U+4E06
+2
+hǎn
+1.1
+丆.mp3
+
+万
+['ten thousand', ' innumerable']
+['diez mil', 'innumerable']
+['https://media.gettyimages.com/vectors/paper-money-frame-ten-thousand-dollar-vector-id1145248979?k=6&m=1145248979&s=612x612&w=0&h=gFY5tzKG-j__j5L1ytbX9eAZnh2Si12Wg2IrjsRd10Y=', 'https://media.gettyimages.com/vectors/infinity-symbols-icon-set-vector-vector-id884914198?k=6&m=884914198&s=612x612&w=0&h=HfwmtiPcUy7flPcck_RDlQSn24QBedlX-hxFZ2nCfQI=']
+U+4E07
+3
+wàn mò
+1.2
+万.mp3
+
+丈
+['unit of length equal 3.3 meters', ' gentleman, man, husband']
+['unidad de longitud igual a 3.3 metros', 'caballero, hombre, marido']
+['NONE', 'https://media.gettyimages.com/photos/hugs-all-the-way-picture-id1137571976?k=6&m=1137571976&s=612x612&w=0&h=VMHw3hiU_WogJSsUZ8W89LPXBrMEz-uZAwHZdJtL8F8=']
+U+4E08
+3
+zhàng
+1.2
+丈.mp3
+
+三
+['three']
+['Tres']
+['https://media.gettyimages.com/photos/one-two-three-counting-with-fingers-picture-id183584119?k=6&m=183584119&s=612x612&w=0&h=5gWKtOHp2S14gY3mJBsUcn9nqMzo0gK83t4PW5NrR38=']
+U+4E09
+3
+sān
+1.2
+三.mp3
+
+上
+['top', ' superior, highest', ' go up, send up']
+['parte superior', 'superior, más alto', 'sube, envía']
+['https://media.gettyimages.com/photos/aerial-view-of-hong-kong-downtown-financial-district-and-business-in-picture-id1191890337?k=6&m=1191890337&s=612x612&w=0&h=dPvWn2uHAohhnDopHRrXHZFcN9n4kGp3pkec7EFrRsg=', 'https://media.gettyimages.com/vectors/weights-and-scales-line-icons-eps-10-vector-id673825502?k=6&m=673825502&s=612x612&w=0&h=Sg0Y-7cbDEa4dRCU6nBApkeLcsW_OP7RGYg2Mu9R_cc=', 'https://media.gettyimages.com/photos/boy-in-war-bonnet-climbing-the-walls-picture-id127543599?k=6&m=127543599&s=612x612&w=0&h=Xk4vWwq4MmuhGT5LtwzX2wDTvDfyCZ-kQcThT0eteuQ=']
+U+4E0A
+3
+shàng
+1.2
+上.mp3
+
+下
+['under, underneath, below', ' down', ' inferior', ' bring down']
+['debajo, debajo, debajo', 'abajo', 'inferior', 'reducir']
+['https://media.gettyimages.com/photos/presents-under-the-christmas-tree-picture-id184621537?k=6&m=184621537&s=612x612&w=0&h=lvuCc8rp0PXvpMw1gPS5YHwAxqHZgNb9cjf4D1Wt_2U=', 'https://media.gettyimages.com/vectors/change-arrows-up-and-down-vector-id911914726?k=6&m=911914726&s=612x612&w=0&h=uvhnOsGuP4RaxT8mMMXNF0FKuKjc0uFdI61pipq5EDc=', 'https://media.gettyimages.com/photos/presents-under-the-christmas-tree-picture-id184621537?k=6&m=184621537&s=612x612&w=0&h=lvuCc8rp0PXvpMw1gPS5YHwAxqHZgNb9cjf4D1Wt_2U=', 'https://media.gettyimages.com/photos/woman-dropping-groceries-on-sidewalk-picture-id90201027?k=6&m=90201027&s=612x612&w=0&h=MGeDlQ1Y5QE8TAOE4E0dLhERuxKvyjo6mUtnpTXbKW8=']
+U+4E0B
+3
+xià
+1.2
+下.mp3
+
+丌
+['table']
+['mesa']
+['https://media.gettyimages.com/photos/closeup-of-empty-table-picture-id1163934557?k=6&m=1163934557&s=612x612&w=0&h=WGqQbMuhcXrnsSmwTFF7lGw9PPbtuNVj-DpL8_mjuyY=']
+U+4E0C
+3
+jī
+1.2
+丌.mp3
+
+不
+['no, not', ' un-', ' negative prefix']
+['No no', 'un-', 'prefijo negativo']
+['https://media.gettyimages.com/vectors/no-sign-icon-red-crossed-circle-vector-design-vector-id1204457395?k=6&m=1204457395&s=612x612&w=0&h=KQhZsyXJ56XpsTQz7tivTZP9bPeyZU6nTKDdIht7AEw=', 'https://media.gettyimages.com/photos/unmanned-rocket-launching-into-space-on-mission-to-mars-3-january-picture-idlpi14848_14?k=6&m=lpi14848_14&s=612x612&w=0&h=fWJWQDhFJdygNt6HfBqCIU8RjjqLkSRKiWvmw2swlQg=', 'NONE']
+U+4E0D
+4
+bù
+1.3
+不.mp3
+
+与
+['and', ' with', ' to', ' for', ' give, grant']
+['y', 'con', 'a', 'para', 'dar, conceder']
+['https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/photos/directly-above-shot-of-smart-phone-with-blank-screen-against-white-picture-id1173299471?k=6&m=1173299471&s=612x612&w=0&h=RfVxIUbSE724FCK3C1GvmN5q2t6SZ9NpMFY-7i1ym8M=', 'https://media.gettyimages.com/photos/watercolor-paint-on-paper-mixed-to-create-a-watercolor-effect-picture-id1188016482?k=6&m=1188016482&s=612x612&w=0&h=-2kwvfiDnEbHaP8PMuo2LvoOn8DuMXvh5KkrZ--SjVY=', 'https://media.gettyimages.com/vectors/document-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1165724477?k=6&m=1165724477&s=612x612&w=0&h=AopwZ4edSSJuMan09RUQOFZp0GMPfeH8UGA2Y3WuiiE=', 'https://media.gettyimages.com/vectors/education-grant-icon-vector-id1094500336?k=6&m=1094500336&s=612x612&w=0&h=ck8LAWUKqLePmehg3TJ_W2a8-gxY2hRUABLloEhJ_rk=']
+U+4E0E
+3
+yǔ
+1.3
+与.mp3
+
+丏
+['parapet', ' invisible']
+['parapeto', 'invisible']
+['https://media.gettyimages.com/photos/old-distressed-white-brick-wall-picture-id157333714?k=6&m=157333714&s=612x612&w=0&h=Z211VHCeQIgxArU2KITCSMh94dB3JtzOcDntuVh8eDc=', 'https://media.gettyimages.com/photos/business-man-with-no-face-looking-at-camera-picture-id98310874?k=6&m=98310874&s=612x612&w=0&h=8Ln4jp2hAby8Ebee6pv72brQegK9n90CtmJC_OY0kIE=']
+U+4E0F
+4
+miǎn
+1.3
+丏.mp3
+
+丐
+['beggar', ' beg', ' give']
+['mendigo', 'mendigar', 'dar']
+['https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=', 'https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=', 'https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=']
+U+4E10
+4
+gài
+1.3
+丐.mp3
+
+丑
+['clown, comedian', ' 2nd terrestrial branch']
+['payaso, comediante', '2da rama terrestre']
+['https://media.gettyimages.com/photos/caucasian-businessman-performing-comedy-on-stage-picture-id565879283?k=6&m=565879283&s=612x612&w=0&h=zvDpI8pd3Tsm1D8YScxle1NaelygMjyuhp5WKCx5i9o=', 'https://media.gettyimages.com/vectors/number-2-garden-and-gardening-vector-icon-pattern-vector-id909146748?k=6&m=909146748&s=612x612&w=0&h=lYRVmcPq7VYYA6zFsG_KIKbKgloAA9sgaYxSqMD50Io=']
+U+4E11
+4
+chǒu
+1.3
+丑.mp3
+
+丒
+['the period from 1 to 3 a.m.', " 2nd character of the 'branches'"]
+['el período de 1 a 3 a.m.', "2do carácter de las 'ramas'"]
+['https://media.gettyimages.com/photos/vale-of-aylesbury-steeple-chase-plate-3-circa-1836-berry-field-farm-picture-id1094423408?k=6&m=1094423408&s=612x612&w=0&h=U86uJlXz6Wc8J9gGYZv-fsQkOY9Mec7Z7OculITTd5s=', 'NONE']
+U+4E12
+4
+chǒu
+1.3
+丒.mp3
+
+专
+['monopolize, take sole possession']
+['monopolizar, tomar posesión exclusiva']
+['NONE']
+U+4E13
+4
+zhuān
+1.3
+专.mp3
+
+且
+['moreover, also (post-subject)', ' about to, will soon (pre-verb)']
+['además, también (post-sujeto)', 'a punto de, pronto (pre-verbo)']
+['NONE', 'NONE']
+U+4E14
+5
+qiě
+1.4
+且.mp3
+
+丕
+['great, grand, glorious, distinguished']
+['grande, grandioso, glorioso, distinguido']
+['https://media.gettyimages.com/photos/car-driving-on-a-bendy-road-in-glorious-sunlight-picture-id655931324?k=6&m=655931324&s=612x612&w=0&h=hRLObone1WdjIQRRXtKvu8AeNtp2acdYDiajyy0YO0E=']
+U+4E15
+5
+pī
+1.4
+丕.mp3
+
+世
+['generation', ' world', ' era']
+['Generacion', 'mundo', 'era']
+['https://media.gettyimages.com/vectors/green-energy-icon-set-vector-id1096476506?k=6&m=1096476506&s=612x612&w=0&h=fqYZGI4pn0K_rMONcIkNZf5JfLsZQdw2E84iFl7hJdM=', 'https://media.gettyimages.com/vectors/world-map-vector-id1129202445?k=6&m=1129202445&s=612x612&w=0&h=5IDy7Eo7pSYw6Yf9iG--Re06oEwoGAaC-g6vOJl2Onw=', 'https://media.gettyimages.com/vectors/time-and-clock-line-icons-editable-stroke-pixel-perfect-for-mobile-vector-id1080298810?k=6&m=1080298810&s=612x612&w=0&h=Hhz_q6wOma_bCjG0LyyPZKoX7PjEhNW1Si-DXgHFSoc=']
+U+4E16
+5
+shì
+1.4
+世.mp3
+
+丗
+['thirty, thirtieth']
+['treinta, trigésimo']
+['https://media.gettyimages.com/vectors/clock-time-symbols-vector-id514054174?k=6&m=514054174&s=612x612&w=0&h=iPwr7I1Q9EpDwXqaymqDVbdD5aFbuFq_Dxq8-rR4EcU=']
+U+4E17
+5
+shì
+1.3
+丗.mp3
+
+丘
+['hill', ' elder', ' empty', ' a name']
+['colina', 'mayor', 'vacío', 'un nombre']
+['https://media.gettyimages.com/vectors/colorful-abstract-background-vector-id1145611414?k=6&m=1145611414&s=612x612&w=0&h=51zX42NH2_uszv-ORht0_KQt8_oYynSH_aBBUgXXNAY=', 'https://media.gettyimages.com/photos/hugs-all-the-way-picture-id1137571976?k=6&m=1137571976&s=612x612&w=0&h=VMHw3hiU_WogJSsUZ8W89LPXBrMEz-uZAwHZdJtL8F8=', 'https://media.gettyimages.com/photos/interior-of-modern-office-picture-id973712582?k=6&m=973712582&s=612x612&w=0&h=EgJES9Squ85XZg3jm9oafvtk5ongR5-BDve11eyvRno=', 'https://media.gettyimages.com/vectors/assessment-icons-line-series-vector-id1062446456?k=6&m=1062446456&s=612x612&w=0&h=LnYN9M8u7hYnOY026NWlhs1wHu7dK1jeQo-Q6JFF8Bc=']
+U+4E18
+5
+qiū
+1.4
+丘.mp3
+

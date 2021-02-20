@@ -1,0 +1,2560 @@
+欙
+['sedan']
+['ya que']
+['https://media.gettyimages.com/photos/car-driving-on-urban-road-picture-id912334166?k=6&m=912334166&s=612x612&w=0&h=xqTR9EaWKqQdmtnillg9097emYYADkYJsSQvBAY3Q_w=']
+U+6B19
+25
+léi
+75.21
+欙.mp3
+
+欚
+['NONE']
+['NINGUNA']
+[]
+U+6B1A
+25
+lǐ
+75.21
+欚.mp3
+
+欛
+['a handle']
+['una manilla']
+['https://media.gettyimages.com/photos/doorknob-picture-id182800995?k=6&m=182800995&s=612x612&w=0&h=KaCMmuN0lKWZ7X83g13JuE8eEMgfZZ-Zi3_8b2c3jAU=']
+U+6B1B
+25
+bà
+75.21
+欛.mp3
+
+欜
+['NONE']
+['NINGUNA']
+[]
+U+6B1C
+26
+náng
+75.22
+欜.mp3
+
+欝
+['luxuriant', ' dense, thick', ' moody']
+['exuberante', 'denso, espeso', 'moody']
+['https://media.gettyimages.com/photos/jungle-leaves-background-picture-id974079490?k=6&m=974079490&s=612x612&w=0&h=b19ayS1DK3yx3YvolSrp5cTNXofGJCBPlca-yFSLDj8=', 'https://media.gettyimages.com/photos/waving-paper-pile-monochrome-picture-id1177365456?k=6&m=1177365456&s=612x612&w=0&h=zsIGvLmWCA82DGuMUrrd1wg3t0bpqOKOkLncufuJq5g=', 'https://media.gettyimages.com/photos/modern-studio-background-picture-id1077190296?k=6&m=1077190296&s=612x612&w=0&h=m4F6kRBbz7HTw56BmRJKnTg4FZdYxx88F6Gy3elgnlY=']
+U+6B1D
+25
+yù
+75.22
+欝.mp3
+
+欞
+['the lattice of a window a sill, a lintel']
+['la celosía de una ventana un alféizar, un dintel']
+['NONE']
+U+6B1E
+28
+líng
+75.24
+欞.mp3
+
+欟
+['NONE']
+['NINGUNA']
+[]
+U+6B1F
+28
+guang
+75.24
+欟.mp3
+
+欠
+['owe, lack, be deficient', ' KangXi radical number 76']
+['deber, falta, ser deficiente', 'K Ang ξ radical número 76']
+['NONE', 'NONE']
+U+6B20
+4
+qiàn
+76.0
+欠.mp3
+
+次
+['order, sequence', ' next']
+['orden, secuencia', 'siguiente']
+['https://media.gettyimages.com/photos/aerial-view-of-plowing-fields-picture-id950785056?k=6&m=950785056&s=612x612&w=0&h=Bd045Pi8wTr7CNRHadmAIbtUD_YXH855no-0TFQ3gSM=', 'https://media.gettyimages.com/photos/man-on-his-phone-in-bed-next-to-sleeping-partner-picture-id931804786?k=6&m=931804786&s=612x612&w=0&h=aVD9YkpZ2xNe38zhCepk535TdHDWAt64Lo4ttA6VUP4=']
+U+6B21
+6
+cì
+76.2
+次.mp3
+
+欢
+['happy, pleased, glad', ' joy', ' enjoy']
+['feliz, contento, contento', 'alegría', 'disfrutar']
+['https://media.gettyimages.com/photos/the-suns-up-and-so-is-my-mood-picture-id911999972?k=6&m=911999972&s=612x612&w=0&h=dimamyIp4K_FgUZGEdHI3ZmGptgJPtm0vzfbxIQ7vM4=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/woman-chasing-man-while-riding-bicycle-picture-id509403985?k=6&m=509403985&s=612x612&w=0&h=HXqlas81oPbJWz4Tvh3ZWzUWsGmRWyloMMwdhK1kJsY=']
+U+6B22
+6
+huān
+76.2
+欢.mp3
+
+欣
+['happy, joyous, delighted']
+['feliz, alegre, encantado']
+['https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+6B23
+8
+xīn
+76.4
+欣.mp3
+
+欤
+['a final particle used to express admiration, doubt, surprise, or to mark a question']
+['una partícula final utilizada para expresar admiración, duda, sorpresa o para marcar una pregunta']
+['NONE']
+U+6B24
+7
+yú
+76.3
+欤.mp3
+
+欥
+['NONE']
+['NINGUNA']
+[]
+U+6B25
+8
+yì
+76.4
+欥.mp3
+
+欦
+['NONE']
+['NINGUNA']
+[]
+U+6B26
+8
+qiān
+76.4
+欦.mp3
+
+欧
+['translit.: Europe', ' ohm', ' surname']
+['transliteración: Europa', 'ohm', 'apellido']
+['https://media.gettyimages.com/photos/european-flags-picture-id175409767?k=6&m=175409767&s=612x612&w=0&h=xZZ9PVPxhu6bFexWt5iyewAq5h2RlK9qbbWiDCTioUE=', 'https://media.gettyimages.com/photos/meter-picture-id883730690?k=6&m=883730690&s=612x612&w=0&h=5vS7jz-mELK7qOXIdty-7r7JWaWC2sTeZNUl9UAVRWU=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6B27
+8
+ōu
+76.4
+欧.mp3
+
+欨
+['to blow or breathe upon', ' to smile']
+['soplar o respirar sobre', 'sonreír']
+['https://media.gettyimages.com/photos/aerial-view-of-a-lush-green-forest-or-woodland-picture-id1047731806?k=6&m=1047731806&s=612x612&w=0&h=t4T1-kYz3r9UNWvS6BEhjZ6I_08sCk8aLqExklllHPA=', 'https://media.gettyimages.com/photos/happiness-picture-id882495390?k=6&m=882495390&s=612x612&w=0&h=vXXvkgo4hv5l4J9zRMWrLMjXR_Gv86pk1hdf8DG7P6w=']
+U+6B28
+9
+xū
+76.5
+欨.mp3
+
+欩
+['NONE']
+['NINGUNA']
+[]
+U+6B29
+9
+chāo
+76.5
+欩.mp3
+
+欪
+['NONE']
+['NINGUNA']
+[]
+U+6B2A
+9
+chù
+76.5
+欪.mp3
+
+欫
+['NONE']
+['NINGUNA']
+[]
+U+6B2B
+11
+qì
+76.6
+欫.mp3
+
+欬
+['cough', ' sound of laughter']
+['tos', 'sonido de la risa']
+['https://media.gettyimages.com/photos/ll-have-to-get-something-for-this-cough-picture-id1166803617?k=6&m=1166803617&s=612x612&w=0&h=ferGFSE4DHj1RGhcqcy1QM-ieEn4SjhFsxinsUxGYuE=', 'https://media.gettyimages.com/photos/partying-like-rockstars-picture-id505657693?k=6&m=505657693&s=612x612&w=0&h=L0WSNfINASqH8i_rljLoQS8yGe7FozfBvR-pbCeU5i4=']
+U+6B2C
+10
+kài
+76.6
+欬.mp3
+
+欭
+['NONE']
+['NINGUNA']
+[]
+U+6B2D
+10
+yì
+76.6
+欭.mp3
+
+欮
+['to hiccough', ' to dig out to expand']
+['tener hipo', 'excavar para expandir']
+['NONE', 'https://media.gettyimages.com/photos/mother-and-son-planting-in-garden-picture-id594828619?k=6&m=594828619&s=612x612&w=0&h=vUEFvjIQ9koqdmIvErZ_uyG1RzMK_xMCmJRKfyLmTrM=']
+U+6B2E
+10
+jué
+76.6
+欮.mp3
+
+欯
+['NONE']
+['NINGUNA']
+[]
+U+6B2F
+10
+xì
+76.6
+欯.mp3
+
+欰
+['NONE']
+['NINGUNA']
+[]
+U+6B30
+10
+xù
+76.6
+欰.mp3
+
+欱
+['NONE']
+['NINGUNA']
+[]
+U+6B31
+10
+hē
+76.6
+欱.mp3
+
+欲
+['desire, want, long for', ' intend']
+['deseo, deseo, anhelo', 'intentar']
+['https://media.gettyimages.com/photos/american-flag-with-uncle-sam-pointing-at-you-picture-id157696118?k=6&m=157696118&s=612x612&w=0&h=S_RhHgC0g7imk8x4bbpC93UPo7PYLSP5QqL8fx8LIko=', 'https://media.gettyimages.com/photos/woman-climbs-the-stairs-with-a-bright-light-picture-id1143703669?k=6&m=1143703669&s=612x612&w=0&h=YATblGvcK_qgTpBPhQDzacC3HwaAwciPVecSOoeGhGg=']
+U+6B32
+11
+yù
+76.7
+欲.mp3
+
+欳
+['NONE']
+['NINGUNA']
+[]
+U+6B33
+11
+kuì
+76.7
+欳.mp3
+
+欴
+['NONE']
+['NINGUNA']
+[]
+U+6B34
+10
+láng
+76.7
+欴.mp3
+
+欵
+['to treat well', ' to detain']
+['tratar bien', 'para detener']
+['https://media.gettyimages.com/photos/woman-preparing-healthy-food-in-her-kitchen-picture-id1131374941?k=6&m=1131374941&s=612x612&w=0&h=McWdAEdpZTLcpCh7Km-I1O-HgSDDg5xrGWJQQOLfHZk=', 'https://media.gettyimages.com/photos/arrested-picture-id183298467?k=6&m=183298467&s=612x612&w=0&h=5UV1tXz358ybjijcIjVEkxmXmz_hesVPzlfjUy_Zpeg=']
+U+6B35
+11
+kuǎn
+76.7
+欵.mp3
+
+欶
+['to suck in']
+['chupar']
+['https://media.gettyimages.com/photos/close-up-of-baby-with-pink-pacifier-picture-id104821590?k=6&m=104821590&s=612x612&w=0&h=V_Q-Vba-03XToI7HEJ361YQbjNAnSpyvRjiT2ts9rHQ=']
+U+6B36
+11
+shuò
+76.7
+欶.mp3
+
+欷
+['sob', ' sigh']
+['debajo', 'suspiro']
+['https://media.gettyimages.com/photos/dad-holding-crying-baby-in-the-colic-carry-picture-id987444524?k=6&m=987444524&s=612x612&w=0&h=GvuErUdf77-K0JcfXMqYokKSIDbOeUdWoI-CULRRrBY=', 'https://media.gettyimages.com/photos/young-woman-with-phone-smiling-picture-id170005993?k=6&m=170005993&s=612x612&w=0&h=zu8ibopJg5FrQsS1rxexgNb1Fbd7sRWhzdUU0RePUjo=']
+U+6B37
+11
+xī
+76.7
+欷.mp3
+
+欸
+['sigh', ' an exclamatory sound']
+['suspiro', 'un sonido de exclamación']
+['https://media.gettyimages.com/photos/young-woman-with-phone-smiling-picture-id170005993?k=6&m=170005993&s=612x612&w=0&h=zu8ibopJg5FrQsS1rxexgNb1Fbd7sRWhzdUU0RePUjo=', 'https://media.gettyimages.com/photos/acrylic-paint-explosion-with-the-word-pow-picture-id936325740?k=6&m=936325740&s=612x612&w=0&h=GZnJHB8yBVG9yCBQCpGkcPfa4icRpaZge4W6-Uz73zg=']
+U+6B38
+11
+āi
+76.7
+欸.mp3
+
+欹
+['fierce dog', ' interjection of pleas', ' (Cant.) strange']
+['perro feroz', 'interjección de súplicas', '(Cant.) Extraño']
+['https://media.gettyimages.com/photos/barking-dogs-picture-id108220159?k=6&m=108220159&s=612x612&w=0&h=CysZbS1qCywn1OuLOl5eLQAgkPPXzeIVquQLDIOXlBs=', 'https://media.gettyimages.com/photos/help-says-frantic-message-in-bottle-on-deserted-beach-picture-id155375176?k=6&m=155375176&s=612x612&w=0&h=sVJ_im7Ob345gviLuKv6H2N6lCTOv0kqGZPQhAR3WP4=', 'https://media.gettyimages.com/photos/titti-cant-contain-her-excitement-when-carmelo-takes-her-to-the-beach-picture-id1175335742?k=6&m=1175335742&s=612x612&w=0&h=S-fu4DIImzXNcW2w9pmR3m_euXPWWhHkT9DtEj2RoMM=']
+U+6B39
+12
+yī
+76.8
+欹.mp3
+
+欺
+['cheat, double-cross, deceive']
+['engañar, traicionar, engañar']
+['NONE']
+U+6B3A
+12
+qī
+76.8
+欺.mp3
+
+欻
+['sudden, abrupt, quick']
+['repentino, abrupto, rápido']
+['NONE']
+U+6B3B
+12
+chuā
+76.8
+欻.mp3
+
+欼
+['drink', " (Cant.) to use one's teeth and hands to break something such as a string"]
+['beber', '(Cant.) Usar los dientes y las manos para romper algo como una cuerda']
+['https://media.gettyimages.com/photos/ringing-in-the-weekend-picture-id615833974?k=6&m=615833974&s=612x612&w=0&h=dl991338fWW70jueLWKn3mPvEETScd0kPrpA1ITkj0Q=', 'NONE']
+U+6B3C
+12
+chǐ
+76.8
+欼.mp3
+
+欽
+['respect, admire', ' respectful']
+['respetar, admirar', 'respetuoso']
+['https://media.gettyimages.com/photos/businesswomen-celebrating-an-achievement-of-a-colleague-picture-id1124413804?k=6&m=1124413804&s=612x612&w=0&h=C2NG5Q6ijsPpHJHB89XoTwYI0f-ly7k-E8-p2S82X5s=', 'https://media.gettyimages.com/photos/fist-bump-greeting-picture-id953426624?k=6&m=953426624&s=612x612&w=0&h=WMLix4ZLQE9A882RngYsi5pzFbumMGgshp7uZUetaqw=']
+U+6B3D
+12
+qīn
+76.8 167.4
+欽.mp3
+
+款
+['item, article', ' clause', ' fund']
+['artículo, artículo', 'cláusula', 'fondo']
+['https://media.gettyimages.com/photos/typewriter-on-yellow-background-picture-id1158477464?k=6&m=1158477464&s=612x612&w=0&h=E-nJTMaURNQHkncNRUlFL7DyAZyN5eBGdfobxiyEeL0=', 'https://media.gettyimages.com/photos/amending-a-contract-picture-id134102478?k=6&m=134102478&s=612x612&w=0&h=Rw4Ov9W7s5Yqog1lwko_XYB1mQdkkJSg4BN-sp-ha9M=', 'https://media.gettyimages.com/photos/business-accounting-concept-business-man-using-calculator-with-and-picture-id1178916772?k=6&m=1178916772&s=612x612&w=0&h=cCvn9Xz1SlNoyz9AA8p2V6q4d1VT72vEcLO_DkapO4U=']
+U+6B3E
+12
+kuǎn
+76.8
+款.mp3
+
+欿
+['discontented', ' sad', ' gloomy']
+['descontento', 'ahora', 'melancólico']
+['https://media.gettyimages.com/photos/thats-it-im-done-picture-id936117884?k=6&m=936117884&s=612x612&w=0&h=x4-h_dLBBva37ZzpDtuYv5wIhUZ1UvrBeXlqiIs7Kuo=', 'https://media.gettyimages.com/photos/portrait-of-pensive-woman-sitting-at-table-in-the-kitchen-picture-id919440232?k=6&m=919440232&s=612x612&w=0&h=6yI90cmoKY8Xd-e-7Fb_2HJkUl00XA29QmR_x_AD_Hs=', 'https://media.gettyimages.com/photos/sky-clouds-picture-id1152008324?k=6&m=1152008324&s=612x612&w=0&h=5ZP66hopTNhJBUgj_kqE3LKiEliYLIHemFFiYRJ3yEQ=']
+U+6B3F
+12
+kǎn
+76.8
+欿.mp3
+
+歀
+['same as ']
+['igual que']
+['https://media.gettyimages.com/photos/hand-holding-five-aces-fanned-out-picture-id153339622?k=6&m=153339622&s=612x612&w=0&h=N3WPB6cGJAXmbgtIk8npwcFj0LT2wvC8tPXLRr_UWh8=']
+U+6B40
+13
+kuǎn
+76.9
+歀.mp3
+
+歁
+['NONE']
+['NINGUNA']
+[]
+U+6B41
+13
+kǎn
+76.9
+歁.mp3
+
+歂
+['NONE']
+['NINGUNA']
+[]
+U+6B42
+13
+chuǎn
+76.9
+歂.mp3
+
+歃
+["smear one's mouth with blood of a victim when taking an oath"]
+['mancharse la boca con la sangre de una víctima al prestar juramento']
+['NONE']
+U+6B43
+13
+shà
+76.9
+歃.mp3
+
+歄
+['NONE']
+['NINGUNA']
+[]
+U+6B44
+12
+guā
+76.9
+歄.mp3
+
+歅
+['NONE']
+['NINGUNA']
+[]
+U+6B45
+13
+yīn
+76.9
+歅.mp3
+
+歆
+['like, admire', ' willingly, gladly', ' to quicken']
+['como, admirar', 'de buena gana, de buena gana', 'para acelerar']
+['https://media.gettyimages.com/photos/portrait-of-happy-woman-with-blowing-hair-picture-id1011451918?k=6&m=1011451918&s=612x612&w=0&h=zWNdurnvUkFLDH_1_LPnomaQFiAin9Ji-IyceS2afjE=', 'NONE', 'https://media.gettyimages.com/photos/city-traffic-at-night-picture-id509049212?k=6&m=509049212&s=612x612&w=0&h=ghgxMlkEg_twljDQf0Hny6IvqTg5C7pKaYez5O-Kpfk=']
+U+6B46
+13
+xīn
+76.9
+歆.mp3
+
+歇
+['rest, stop, lodge']
+['descansar, parar, hospedarse']
+['https://media.gettyimages.com/photos/namche-khumbu-nepal-picture-id498159175?k=6&m=498159175&s=612x612&w=0&h=gQYq7Gw2zVmpmOIwR_COFo2-JX3cGV2wjmCVEMpQK-0=']
+U+6B47
+13
+xiē
+76.9
+歇.mp3
+
+歈
+['songs']
+['canciones']
+['https://media.gettyimages.com/photos/let-your-inner-diva-shine-picture-id1165116258?k=6&m=1165116258&s=612x612&w=0&h=JPNZvF3ucFsiJDjLCmrOPTg56u_BFGVlwqjfdaZ7_5g=']
+U+6B48
+13
+yú
+76.9
+歈.mp3
+
+歉
+['deficient, lacking, insufficient']
+['deficiente, ausente, insuficiente']
+['NONE']
+U+6B49
+14
+qiàn
+76.10
+歉.mp3
+
+歊
+['sigh']
+['suspiro']
+['https://media.gettyimages.com/photos/young-woman-with-phone-smiling-picture-id170005993?k=6&m=170005993&s=612x612&w=0&h=zu8ibopJg5FrQsS1rxexgNb1Fbd7sRWhzdUU0RePUjo=']
+U+6B4A
+14
+xiāo
+76.10
+歊.mp3
+
+歋
+['NONE']
+['NINGUNA']
+[]
+U+6B4B
+14
+yè
+76.10
+歋.mp3
+
+歌
+['song, lyrics', ' sing, chant', ' praise']
+['letras de canciones', 'canta, canta', 'alabanza']
+['https://media.gettyimages.com/photos/paper-notebook-pencil-and-earphone-with-note-music-paper-on-the-picture-id1195177403?k=6&m=1195177403&s=612x612&w=0&h=Yb06pdIh30cANqM1clmYYt1dGvvqTdEpmd8ECPOJpSs=', 'https://media.gettyimages.com/photos/passionate-man-clapping-and-singing-picture-id156277723?k=6&m=156277723&s=612x612&w=0&h=CpiIzbcyMlCbl3d8Q-oE91F1icg6otk_NRnBIxvIeFw=', 'https://media.gettyimages.com/photos/applauding-on-a-business-seminar-picture-id1066868794?k=6&m=1066868794&s=612x612&w=0&h=JnLc81Wur9V-H64XPC2ZjWJMjlIwM-6Y5GJiFBXirDU=']
+U+6B4C
+14
+gē
+76.10
+歌.mp3
+
+歍
+['NONE']
+['NINGUNA']
+[]
+U+6B4D
+14
+wū
+76.10
+歍.mp3
+
+歎
+['sigh, admire']
+['suspiro, admiro']
+['https://media.gettyimages.com/photos/surprise-face-picture-id1222147994?k=6&m=1222147994&s=612x612&w=0&h=pPqMoljmpY7cx0wi4Sh9dn7iyDsiLap5Pw9Xlj5yleM=']
+U+6B4E
+15
+tàn
+76.11
+歎.mp3
+
+歏
+['NONE']
+['NINGUNA']
+[]
+U+6B4F
+15
+jìn
+76.11
+歏.mp3
+
+歐
+['used in transliterating non-Chinese words such as Europe, ohm', ' surname']
+['utilizado para transliterar palabras no chinas como Europa, ohm', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+6B50
+15
+ōu
+76.11
+歐.mp3
+
+歑
+['NONE']
+['NINGUNA']
+[]
+U+6B51
+15
+hū
+76.11
+歑.mp3
+
+歒
+['NONE']
+['NINGUNA']
+[]
+U+6B52
+15
+tì
+76.11
+歒.mp3
+
+歓
+['happy, pleased, glad', ' joy', ' enjoy']
+['feliz, contento, contento', 'alegría', 'disfrutar']
+['https://media.gettyimages.com/photos/the-suns-up-and-so-is-my-mood-picture-id911999972?k=6&m=911999972&s=612x612&w=0&h=dimamyIp4K_FgUZGEdHI3ZmGptgJPtm0vzfbxIQ7vM4=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/woman-chasing-man-while-riding-bicycle-picture-id509403985?k=6&m=509403985&s=612x612&w=0&h=HXqlas81oPbJWz4Tvh3ZWzUWsGmRWyloMMwdhK1kJsY=']
+U+6B53
+15
+huān
+76.11
+歓.mp3
+
+歔
+['blow through nose, snort']
+['soplar por la nariz, resoplar']
+['https://media.gettyimages.com/photos/pollen-allergy-picture-id916406740?k=6&m=916406740&s=612x612&w=0&h=LSIA9PBuCvJykzE7wWeDbOi0hoTb8j44HgS7KtVCMdI=']
+U+6B54
+15
+xū
+76.12
+歔.mp3
+
+歕
+['spurt, blow out, puff out']
+['chorro, soplar, soplar']
+['NONE']
+U+6B55
+16
+pēn
+76.12
+歕.mp3
+
+歖
+['NONE']
+['NINGUNA']
+[]
+U+6B56
+16
+xǐ
+76.12
+歖.mp3
+
+歗
+['roar, howl, scream', ' whistle']
+['rugir, aullar, gritar', 'silbar']
+['https://media.gettyimages.com/photos/howling-man-picture-id78612486?k=6&m=78612486&s=612x612&w=0&h=Bmj1H7gi3oQMe3TmjQGq2laGoOJbE7D9gAVYI5AE6_8=', 'https://media.gettyimages.com/photos/coach-whistle-hanging-from-board-picture-id184598910?k=6&m=184598910&s=612x612&w=0&h=fEaNvlP4-aRpLdkvhmzn76f8qZXVbw6w89KWxHbwhc8=']
+U+6B57
+17
+xiào
+76.12
+歗.mp3
+
+歘
+['sudden']
+['repentino']
+['https://media.gettyimages.com/photos/where-did-this-headache-come-from-all-of-a-sudden-picture-id1153390381?k=6&m=1153390381&s=612x612&w=0&h=8xfAK87_BKjBoADdkvUUhZESNVk_HfwR3AHTUdZTGAs=']
+U+6B58
+16
+chuā
+76.12
+歘.mp3
+
+歙
+['to suck', " a county's name in anhui"]
+['chupar', 'el nombre de un condado en anhui']
+['https://media.gettyimages.com/photos/close-up-of-baby-with-pink-pacifier-picture-id104821590?k=6&m=104821590&s=612x612&w=0&h=V_Q-Vba-03XToI7HEJ361YQbjNAnSpyvRjiT2ts9rHQ=', 'NONE']
+U+6B59
+16
+shè
+76.12
+歙.mp3
+
+歚
+['used in name of famous Korean painter Ceng Sen']
+['utilizado en nombre del famoso pintor coreano Ceng Sen']
+['NONE']
+U+6B5A
+16
+shàn
+76.12
+歚.mp3
+
+歛
+['draw back, fold back', ' collect']
+['retroceder, doblar hacia atrás', 'recoger']
+['NONE', 'https://media.gettyimages.com/photos/vinyl-records-picture-id182059767?k=6&m=182059767&s=612x612&w=0&h=Y-6Je9cklF6WkMJVMJvDCqpyWVyOyENt6j1WvSZnLqU=']
+U+6B5B
+17
+hān
+76.13
+歛.mp3
+
+歜
+['furious', ' wrathful']
+['furioso', 'colérico']
+['https://media.gettyimages.com/photos/shes-reached-the-end-of-her-rope-picture-id487960859?k=6&m=487960859&s=612x612&w=0&h=-hB-SDo-_EZd9RVH-Ce0hoFScYFLZtvcCqg0sU84dEU=', 'https://media.gettyimages.com/photos/losing-temper-picture-id638403050?k=6&m=638403050&s=612x612&w=0&h=g6D3r2D0bCowaQ5pRkxz3kUYuSjKlHLxovaWpt9h1aI=']
+U+6B5C
+17
+chù
+76.13
+歜.mp3
+
+歝
+['NONE']
+['NINGUNA']
+[]
+U+6B5D
+17
+yì
+76.13
+歝.mp3
+
+歞
+['NONE']
+['NINGUNA']
+[]
+U+6B5E
+18
+è
+76.14
+歞.mp3
+
+歟
+['a final particle used to express admiration, doubt, surprise, or to mark a question']
+['una partícula final utilizada para expresar admiración, duda, sorpresa o para marcar una pregunta']
+['NONE']
+U+6B5F
+17
+yú
+76.14
+歟.mp3
+
+歠
+['sip, drink, suck']
+['sorber, beber, chupar']
+['https://media.gettyimages.com/photos/woman-drinking-cold-drink-with-straw-in-cafe-picture-id672154963?k=6&m=672154963&s=612x612&w=0&h=---O9W6b2DzxDkMJApWhafTsb1y1v0EBm4u5U4_0Nw0=']
+U+6B60
+19
+chuò
+76.15
+歠.mp3
+
+歡
+['happy, pleased, glad', ' joy', ' to enjoy']
+['feliz, contento, contento', 'alegría', 'disfrutar']
+['https://media.gettyimages.com/photos/the-suns-up-and-so-is-my-mood-picture-id911999972?k=6&m=911999972&s=612x612&w=0&h=dimamyIp4K_FgUZGEdHI3ZmGptgJPtm0vzfbxIQ7vM4=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/woman-chasing-man-while-riding-bicycle-picture-id509403985?k=6&m=509403985&s=612x612&w=0&h=HXqlas81oPbJWz4Tvh3ZWzUWsGmRWyloMMwdhK1kJsY=']
+U+6B61
+21
+huān
+76.18
+歡.mp3
+
+止
+['stop, halt, desist', ' detain']
+['detente, espera, desiste', 'detener']
+['https://media.gettyimages.com/photos/dont-go-any-further-picture-id94290963?k=6&m=94290963&s=612x612&w=0&h=6rCuPeAWiBGf0maAbjRovVnWD9AhJzIpq4vJrDaznW4=', 'https://media.gettyimages.com/photos/arrested-picture-id183298467?k=6&m=183298467&s=612x612&w=0&h=5UV1tXz358ybjijcIjVEkxmXmz_hesVPzlfjUy_Zpeg=']
+U+6B62
+4
+zhǐ
+77.0
+止.mp3
+
+正
+['right, proper, correct']
+['correcto, correcto, correcto']
+['https://media.gettyimages.com/photos/confident-young-man-playing-violin-against-white-background-picture-id769718787?k=6&m=769718787&s=612x612&w=0&h=c-0UM05D7JJ-URC1s0ecZ_VLyH8KdKqrH1RDJQmdPZE=']
+U+6B63
+5
+zhèng
+77.1
+正.mp3
+
+此
+['this, these', ' in this case, then']
+['este Estos', 'en este caso, entonces']
+['https://media.gettyimages.com/photos/think-this-might-help-us-picture-id1163500888?k=6&m=1163500888&s=612x612&w=0&h=6DYS2a31Xc1RLfez-_wIcV_Ks8_S6UFoyOCiHkN7kXo=', 'https://media.gettyimages.com/photos/empty-attache-case-picture-id160477017?k=6&m=160477017&s=612x612&w=0&h=HD-3z1ISYjNBKiZL5BgMgRyc1LQbIhkTBe9OojFbsWM=']
+U+6B64
+6
+cǐ
+77.2
+此.mp3
+
+步
+['step, pace', ' walk, stroll']
+['paso, paso', 'caminar, pasear']
+['https://media.gettyimages.com/photos/businesswoman-ascending-office-staircase-picture-id84743278?k=6&m=84743278&s=612x612&w=0&h=nIepbbGBWQUddabYDgxWCuEuBxGaUVL1zgqw2aW4Gpo=', 'https://media.gettyimages.com/photos/close-up-shot-of-runners-shoes-picture-id1148822167?k=6&m=1148822167&s=612x612&w=0&h=8QIF8XmPZrVoIo8TiU31smtwVt2y2r5U3cuEegI6iLY=']
+U+6B65
+7
+bù
+77.3
+步.mp3
+
+武
+['military', ' martial, warlike']
+['militar', 'marcial, belicoso']
+['https://media.gettyimages.com/photos/american-soldier-in-headquarter-control-center-picture-id1146898776?k=6&m=1146898776&s=612x612&w=0&h=DFxc5GttOXbu9xTepTzCwZPYpz82QeBAk373P11AirI=', 'NONE']
+U+6B66
+8
+wǔ
+77.4
+武.mp3
+
+歧
+['fork of road', ' branching off']
+['bifurcación de camino', 'ramificándose']
+['https://media.gettyimages.com/photos/arrow-indicating-side-road-in-mountain-landscape-picture-id112295220?k=6&m=112295220&s=612x612&w=0&h=iW4qdHl4DR-tDnYrX5jdpSo8NGI-zXmr7ncojaWDro4=', 'https://media.gettyimages.com/photos/branching-off-or-division-ahead-traffic-sign-post-isolated-picture-id154960608?k=6&m=154960608&s=612x612&w=0&h=WdHz6bEa37tC0yIcNJosClxahW6Cf4CqGmHClgAaFjU=']
+U+6B67
+8
+qí
+77.4
+歧.mp3
+
+歨
+['NONE']
+['NINGUNA']
+[]
+U+6B68
+8
+bù
+77.4
+歨.mp3
+
+歩
+['step']
+['paso']
+['https://media.gettyimages.com/photos/render-stairs-background-picture-id1124417270?k=6&m=1124417270&s=612x612&w=0&h=dx3TO8qV7EzdvIEA9QfxCwArKnXbGfKRr0L-7-86f6k=']
+U+6B69
+8
+bù
+77.4
+歩.mp3
+
+歪
+['slant', ' inclined', ' askewd, awry']
+['inclinación', 'inclinado', 'torcido, torcido']
+['https://media.gettyimages.com/photos/monochrome-pattern-of-diagonal-lines-picture-id1128704856?k=6&m=1128704856&s=612x612&w=0&h=D_XcM9_Mk2ScDkUugV_7GpYZ318If7l4JA7b5UsjgJk=', 'https://media.gettyimages.com/photos/inclined-plane-physics-picture-id1157561113?k=6&m=1157561113&s=612x612&w=0&h=3kwSMOCtTdoruxiCoCkUAlo1n_GXM2ads0sEfA_H2ho=', 'https://media.gettyimages.com/photos/irregular-plates-and-bowls-picture-id160470297?k=6&m=160470297&s=612x612&w=0&h=jpTsuuMomE7x4us6kwPqgCcmQSCwDZFJakxXO6NF600=']
+U+6B6A
+9
+wāi
+77.5
+歪.mp3
+
+歫
+['NONE']
+['NINGUNA']
+[]
+U+6B6B
+8
+jù
+77.5
+歫.mp3
+
+歬
+['NONE']
+['NINGUNA']
+[]
+U+6B6C
+10
+qián
+77.6
+歬.mp3
+
+歭
+['NONE']
+['NINGUNA']
+[]
+U+6B6D
+10
+chí
+77.6
+歭.mp3
+
+歮
+['NONE']
+['NINGUNA']
+[]
+U+6B6E
+12
+sè
+77.8
+歮.mp3
+
+歯
+['teeth', ' gears, cogs', ' age', ' a form of KangXi radical 211']
+['dientes', 'engranajes, dientes', 'años', 'una forma de radical KangXi 211']
+['https://media.gettyimages.com/photos/happiness-picture-id882495390?k=6&m=882495390&s=612x612&w=0&h=vXXvkgo4hv5l4J9zRMWrLMjXR_Gv86pk1hdf8DG7P6w=', 'https://media.gettyimages.com/photos/directly-above-shot-of-gear-wheels-against-white-background-picture-id1158590670?k=6&m=1158590670&s=612x612&w=0&h=nrja9vPPb6iHQLnpdMYgJi7J2s6UtftSlS7AFdzC9q0=', 'https://media.gettyimages.com/photos/close-up-of-mother-and-daughter-faces-together-picture-id526427753?k=6&m=526427753&s=612x612&w=0&h=bmlu2ig02ej9CN57Wr6uEh5yoqPhI2Yp5ZsHMMqyACw=', 'NONE']
+U+6B6F
+12
+chǐ
+77.8
+歯.mp3
+
+歰
+['(Cant.) ']
+['(Hipocresía.)']
+['https://media.gettyimages.com/photos/cant-believe-were-fighting-about-this-again-picture-id1144130467?k=6&m=1144130467&s=612x612&w=0&h=yvrmMc_vAgG08rB1RMMD6rqJG8NbYLhZ_TXflwzdG-Q=']
+U+6B70
+14
+sè
+77.9
+歰.mp3
+
+歱
+['to visit', ' to imitate']
+['visitar', 'imitar']
+['https://media.gettyimages.com/photos/greeting-guests-at-housewarming-party-picture-id1078076590?k=6&m=1078076590&s=612x612&w=0&h=iQa7HFkpZqNlAa7r7f2nYWSu0EnvULZQdxOZM2_5eyo=', 'https://media.gettyimages.com/photos/father-and-son-fixing-ties-together-picture-id137925657?k=6&m=137925657&s=612x612&w=0&h=DoEZxTz7W6I1M12haMwJuL3joFrpT9VpdpjYiEXfih8=']
+U+6B71
+13
+zhǒng
+77.9
+歱.mp3
+
+歲
+['year', ' age', ' harvest']
+['año', 'años', 'cosecha']
+['https://media.gettyimages.com/photos/year-old-getting-flu-jab-picture-id85997773?k=6&m=85997773&s=612x612&w=0&h=fVde3w1OKSam7whLCd3q8ZCLKZ0-BfTmJ6hqOu1tBcA=', 'https://media.gettyimages.com/photos/close-up-of-mother-and-daughter-faces-together-picture-id526427753?k=6&m=526427753&s=612x612&w=0&h=bmlu2ig02ej9CN57Wr6uEh5yoqPhI2Yp5ZsHMMqyACw=', 'https://media.gettyimages.com/photos/seasonal-work-on-the-field-picture-id1072634078?k=6&m=1072634078&s=612x612&w=0&h=aIhlcgZshY4HHUgSHOJA84nJMVPfj53AQvlAsNSqJdI=']
+U+6B72
+13
+suì
+77.9
+歲.mp3
+
+歳
+['year', ' age', ' harvest']
+['año', 'años', 'cosecha']
+['https://media.gettyimages.com/photos/year-old-getting-flu-jab-picture-id85997773?k=6&m=85997773&s=612x612&w=0&h=fVde3w1OKSam7whLCd3q8ZCLKZ0-BfTmJ6hqOu1tBcA=', 'https://media.gettyimages.com/photos/close-up-of-mother-and-daughter-faces-together-picture-id526427753?k=6&m=526427753&s=612x612&w=0&h=bmlu2ig02ej9CN57Wr6uEh5yoqPhI2Yp5ZsHMMqyACw=', 'https://media.gettyimages.com/photos/seasonal-work-on-the-field-picture-id1072634078?k=6&m=1072634078&s=612x612&w=0&h=aIhlcgZshY4HHUgSHOJA84nJMVPfj53AQvlAsNSqJdI=']
+U+6B73
+13
+suì
+77.9
+歳.mp3
+
+歴
+['take place, past, history']
+['tener lugar, pasado, historia']
+['https://media.gettyimages.com/photos/taking-picture-of-coliseum-using-smart-phone-personal-perspective-picture-id1178171379?k=6&m=1178171379&s=612x612&w=0&h=qpKicN5jRXZ79UR3q-xwSWAJTx4Z5PYv0fB4p0H2Ur8=']
+U+6B74
+14
+lì
+77.10
+歴.mp3
+
+歵
+['NONE']
+['NINGUNA']
+[]
+U+6B75
+15
+zé
+77.11
+歵.mp3
+
+歶
+['NONE']
+['NINGUNA']
+[]
+U+6B76
+15
+yú
+77.11
+歶.mp3
+
+歷
+['take place, past, history']
+['tener lugar, pasado, historia']
+['https://media.gettyimages.com/photos/taking-picture-of-coliseum-using-smart-phone-personal-perspective-picture-id1178171379?k=6&m=1178171379&s=612x612&w=0&h=qpKicN5jRXZ79UR3q-xwSWAJTx4Z5PYv0fB4p0H2Ur8=']
+U+6B77
+16
+lì
+77.12
+歷.mp3
+
+歸
+['return', ' return to, revert to']
+['regreso', 'volver a, volver a']
+['https://media.gettyimages.com/photos/daddys-home-picture-id700721656?k=6&m=700721656&s=612x612&w=0&h=VrAp5HUnb25fRBwEzUnQew4WsApeGWkXquRaqkrAjz4=', 'NONE']
+U+6B78
+18
+guī
+77.14
+歸.mp3
+
+歹
+['bad, vicious, depraved, wicked']
+['malo, vicioso, depravado, malvado']
+['https://media.gettyimages.com/photos/portrait-of-a-angry-mature-man-wearing-jacket-munich-bavaria-germany-picture-id697535297?k=6&m=697535297&s=612x612&w=0&h=zVE6G5rc8iQbjXG6OQzA_pDQlcPxZj4ivU0YPw8vggY=']
+U+6B79
+4
+dǎi
+78.0
+歹.mp3
+
+歺
+['vicious, depraved, bad']
+['vicioso, depravado, malo']
+['https://media.gettyimages.com/photos/portrait-of-a-angry-mature-man-wearing-jacket-munich-bavaria-germany-picture-id697535297?k=6&m=697535297&s=612x612&w=0&h=zVE6G5rc8iQbjXG6OQzA_pDQlcPxZj4ivU0YPw8vggY=']
+U+6B7A
+5
+è
+78.1
+歺.mp3
+
+死
+['die', ' dead', ' death']
+['los', 'muerto', 'muerte']
+['https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=']
+U+6B7B
+6
+sǐ
+78.2
+死.mp3
+
+歼
+['annihilate, wipe out, kill off']
+['aniquilar, aniquilar, matar']
+['NONE']
+U+6B7C
+7
+jiān
+78.3
+歼.mp3
+
+歽
+['NONE']
+['NINGUNA']
+[]
+U+6B7D
+8
+zhé
+78.4
+歽.mp3
+
+歾
+['drown']
+['ahogar']
+['https://media.gettyimages.com/photos/hands-underwater-picture-id171577202?k=6&m=171577202&s=612x612&w=0&h=N3OPTyRDz0I60Tw2WRPJ9nwBtu0Rf8fkjHK9iQNmfOU=']
+U+6B7E
+8
+mò
+78.4
+歾.mp3
+
+歿
+['die', ' death', ' dead']
+['los', 'muerte', 'muerto']
+['https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=']
+U+6B7F
+8
+mò
+78.4
+歿.mp3
+
+殀
+['die young, die prematurely']
+['morir joven, morir prematuramente']
+['https://media.gettyimages.com/photos/infant-in-hospital-picture-id172155890?k=6&m=172155890&s=612x612&w=0&h=fdvLnwuu9850PFdeTUj1D1UNwdkjBisqlm4cOtuLrm0=']
+U+6B80
+8
+yāo
+78.4
+殀.mp3
+
+殁
+['die', ' death', ' dead']
+['los', 'muerte', 'muerto']
+['https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=']
+U+6B81
+8
+mò
+78.4
+殁.mp3
+
+殂
+['to die']
+['morir']
+['https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=']
+U+6B82
+9
+cú
+78.5
+殂.mp3
+
+殃
+['misfortune, disaster, calamity']
+['desgracia, desastre, calamidad']
+['https://media.gettyimages.com/photos/night-fire-picture-id172202319?k=6&m=172202319&s=612x612&w=0&h=dYQUJYBq4zK2qkp_v7B6MjPacvL0y34KJFYkEuF-Wq0=']
+U+6B83
+9
+yāng
+78.5
+殃.mp3
+
+殄
+['to end', ' to exterminate']
+['para terminar', 'exterminar']
+['https://media.gettyimages.com/photos/young-business-boy-wins-go-cart-race-picture-id959599356?k=6&m=959599356&s=612x612&w=0&h=Degbr43Lrgrj5stA6LTwV_k2covnqdnzM9QqJq2PhYA=', 'https://media.gettyimages.com/photos/shattering-window-glass-picture-id155277394?k=6&m=155277394&s=612x612&w=0&h=6Qzxx1uxAMawLQxAG_76ZvspNZoVCwhEEvwxuituNvE=']
+U+6B84
+9
+tiǎn
+78.5
+殄.mp3
+
+殅
+['NONE']
+['NINGUNA']
+[]
+U+6B85
+9
+shēng
+78.5
+殅.mp3
+
+殆
+['dangerous, perilous', ' endanger']
+['peligroso, peligroso', 'poner en peligro']
+['https://media.gettyimages.com/photos/toxic-substance-picture-id157529625?k=6&m=157529625&s=612x612&w=0&h=A6WC72CCa-2ki5aA5SBd9xqSUK_34mOSGP3KGpFqvhk=', 'https://media.gettyimages.com/photos/toxic-substance-picture-id157529625?k=6&m=157529625&s=612x612&w=0&h=A6WC72CCa-2ki5aA5SBd9xqSUK_34mOSGP3KGpFqvhk=']
+U+6B86
+9
+dài
+78.5
+殆.mp3
+
+殇
+['die young', ' national mourning']
+['morir joven', 'Luto nacional']
+['https://media.gettyimages.com/photos/know-it-hurts-and-im-here-for-you-picture-id843530334?k=6&m=843530334&s=612x612&w=0&h=65vsfVlZY5s3KeSEEHzKbgF3-oTNwXI3ARoLztefH0U=', 'https://media.gettyimages.com/photos/where-to-from-here-picture-id1039521272?k=6&m=1039521272&s=612x612&w=0&h=FqbZ9kU6E4i8qf8upDDApZPJGwL53tskLzLs_MUp09I=']
+U+6B87
+9
+shāng
+78.5
+殇.mp3
+
+殈
+['infertile']
+['estéril']
+['https://media.gettyimages.com/photos/another-negative-test-picture-id1016585828?k=6&m=1016585828&s=612x612&w=0&h=y9P7QMce636PuTsBghWwpfQqeZPFH8y9fjTXpTgwfbM=']
+U+6B88
+10
+xù
+78.6
+殈.mp3
+
+殉
+['die for cause, be martyr for']
+['morir por una causa, ser mártir por']
+['NONE']
+U+6B89
+10
+xùn
+78.6
+殉.mp3
+
+殊
+['different, special, unusual']
+['diferente, especial, inusual']
+['https://media.gettyimages.com/photos/beautiful-young-female-muslim-soccer-coach-picture-id1208376119?k=6&m=1208376119&s=612x612&w=0&h=h_QJmLdCUSJJ-BUI4j1Q04J-n3rM7hu04lPcvnBeH1g=']
+U+6B8A
+10
+shū
+78.6
+殊.mp3
+
+残
+['injure, spoil', ' oppress', ' broken']
+['dañar, estropear', 'oprimir', 'roto']
+['https://media.gettyimages.com/photos/mature-adult-businessman-smashing-laptop-on-fire-with-hammer-picture-id486507440?k=6&m=486507440&s=612x612&w=0&h=6M28Gn-Fg-iMSGpon7BSUb7ZZfU333FacIdD7am3SUE=', 'https://media.gettyimages.com/photos/praying-in-church-picture-id157278621?k=6&m=157278621&s=612x612&w=0&h=lwV9o2yWrM5FzAChOt8f1t2RZxRjUVfgOzzVS6Scf9I=', 'https://media.gettyimages.com/photos/gray-tear-across-white-background-picture-id138021082?k=6&m=138021082&s=612x612&w=0&h=AS9AxeqgHmGVnEbN8FIxHALFfn-9QE_ppL5qs4de81k=']
+U+6B8B
+9
+cán
+78.6
+残.mp3
+
+殌
+['NONE']
+['NINGUNA']
+[]
+U+6B8C
+11
+jué
+78.7
+殌.mp3
+
+殍
+['to starve to death']
+['morir de hambre']
+['https://media.gettyimages.com/photos/polar-bear-remains-picture-id639894234?k=6&m=639894234&s=612x612&w=0&h=OLupxfMa3Vm3DnX7nqoUhPImgUPYSiOARDV9cPax-pU=']
+U+6B8D
+11
+piǎo
+78.7
+殍.mp3
+
+殎
+['NONE']
+['NINGUNA']
+[]
+U+6B8E
+11
+qià
+78.7
+殎.mp3
+
+殏
+['NONE']
+['NINGUNA']
+[]
+U+6B8F
+11
+qiú
+78.7
+殏.mp3
+
+殐
+['NONE']
+['NINGUNA']
+[]
+U+6B90
+11
+sù
+78.7
+殐.mp3
+
+殑
+['swoon']
+['desmayo']
+['https://media.gettyimages.com/photos/first-aid-look-listen-and-feel-for-breathing-picture-id159758729?k=6&m=159758729&s=612x612&w=0&h=0yzZNK5SHW4O7nbuKZBHcmlbB6RvSToFSa34evzP1O8=']
+U+6B91
+11
+qíng
+78.7
+殑.mp3
+
+殒
+['die, perish', ' vanish', ' fall']
+['morir, perecer', 'desaparecer', 'otoño']
+['https://media.gettyimages.com/photos/the-end-picture-id157179826?k=6&m=157179826&s=612x612&w=0&h=fHret_0IwxhYz6fFy1VrmnHyxg9lfhJZmtoUtZxzt8E=', 'https://media.gettyimages.com/photos/the-road-picture-id155387711?k=6&m=155387711&s=612x612&w=0&h=ccrHV_D5QJMRF6FvBonsWFtRsuG_gWfXYHsdC_qfyfs=', 'https://media.gettyimages.com/photos/falling-autumn-leaves-picture-id171276011?k=6&m=171276011&s=612x612&w=0&h=mDdJfeIq_QaLHvb1-yLnzr1pZ8nfOYxc_xuFAZ6rCYI=']
+U+6B92
+11
+yǔn
+78.7
+殒.mp3
+
+殓
+['dress corpse for burial']
+['vestir cadáver para el entierro']
+['https://media.gettyimages.com/photos/widow-of-dramatic-funeral-picture-id108197993?k=6&m=108197993&s=612x612&w=0&h=pj7dwNdouxRuKzVGkY_Pu1WyHJlOcH8Tj1T55I3i11M=']
+U+6B93
+11
+liàn
+78.7
+殓.mp3
+
+殔
+['NONE']
+['NINGUNA']
+[]
+U+6B94
+12
+yì
+78.8
+殔.mp3
+
+殕
+['NONE']
+['NINGUNA']
+[]
+U+6B95
+12
+fǒu
+78.8
+殕.mp3
+
+殖
+['breed, spawn', ' increase', ' prosper']
+['raza, desove', 'incrementar', 'prosperar']
+['https://media.gettyimages.com/photos/salmon-alaska-picture-id1024909640?k=6&m=1024909640&s=612x612&w=0&h=X4YyZQaRBxr-4Hen-SCmcHrW0CF6u5AFpCgK9pdj99Y=', 'https://media.gettyimages.com/photos/agriculture-plant-seeding-growing-step-concept-in-garden-and-sunlight-picture-id953168856?k=6&m=953168856&s=612x612&w=0&h=_pYwAEZnboqR2R6TfRfxlUdWIeNC68g54NiIKal-e1I=', 'https://media.gettyimages.com/photos/woman-with-coins-in-hand-with-purse-picture-id1044967460?k=6&m=1044967460&s=612x612&w=0&h=JntBTAoOg_d9mnVzJDpp1lHzQTPHHBzTiOMc__FCNIc=']
+U+6B96
+12
+zhí
+78.8
+殖.mp3
+
+殗
+['sickness', ' repeated']
+['enfermedad', 'repetido']
+['https://media.gettyimages.com/photos/sick-woman-blowing-her-nose-she-covered-with-blanket-picture-id1135175362?k=6&m=1135175362&s=612x612&w=0&h=Nke1Q193RMRqF2sma8hUym_Ou662E891V8vFu17PAoc=', 'https://media.gettyimages.com/photos/white-grad-back-drop-v2-silver-picture-id1155889146?k=6&m=1155889146&s=612x612&w=0&h=yi2Yw4Q3X5Xq3FpQDOcy7t18cZyIgztxdfrH6ikDdcw=']
+U+6B97
+12
+yè
+78.8
+殗.mp3
+
+殘
+['injure, spoil', ' oppress', ' broken']
+['dañar, estropear', 'oprimir', 'roto']
+['https://media.gettyimages.com/photos/mature-adult-businessman-smashing-laptop-on-fire-with-hammer-picture-id486507440?k=6&m=486507440&s=612x612&w=0&h=6M28Gn-Fg-iMSGpon7BSUb7ZZfU333FacIdD7am3SUE=', 'https://media.gettyimages.com/photos/praying-in-church-picture-id157278621?k=6&m=157278621&s=612x612&w=0&h=lwV9o2yWrM5FzAChOt8f1t2RZxRjUVfgOzzVS6Scf9I=', 'https://media.gettyimages.com/photos/gray-tear-across-white-background-picture-id138021082?k=6&m=138021082&s=612x612&w=0&h=AS9AxeqgHmGVnEbN8FIxHALFfn-9QE_ppL5qs4de81k=']
+U+6B98
+12
+cán
+78.8
+殘.mp3
+
+殙
+['to die by taking poison']
+['morir tomando veneno']
+['https://media.gettyimages.com/photos/wine-and-poison-picture-id157527776?k=6&m=157527776&s=612x612&w=0&h=uKqvgehnzm3WPV-w6jCt2aiYwwrXYFCcBIVftFaBLUU=']
+U+6B99
+12
+hūn
+78.8
+殙.mp3
+
+殚
+['utmost, entirely, quite', ' use up']
+['al máximo, completamente, bastante', 'úsalo']
+['NONE', 'https://media.gettyimages.com/photos/fabric-pop-up-basic-unit-advertising-banner-media-display-backdrop-picture-id1157762233?k=6&m=1157762233&s=612x612&w=0&h=lc8IxX-4MCy_UGzoPJ3dwHogmQTN6DHRsZJjAs1mQhA=']
+U+6B9A
+12
+dān
+78.8
+殚.mp3
+
+殛
+['to put to death to imprison for life']
+['para dar muerte a prisión de por vida']
+['NONE']
+U+6B9B
+12
+jí
+78.9
+殛.mp3
+
+殜
+['half-sitting, half-reclining']
+['medio sentado, medio reclinado']
+['NONE']
+U+6B9C
+13
+dié
+78.9
+殜.mp3
+
+殝
+['NONE']
+['NINGUNA']
+[]
+U+6B9D
+14
+zhēn
+78.10
+殝.mp3
+
+殞
+['die, perish', ' vanish', ' fall']
+['morir, perecer', 'desaparecer', 'otoño']
+['https://media.gettyimages.com/photos/the-end-picture-id157179826?k=6&m=157179826&s=612x612&w=0&h=fHret_0IwxhYz6fFy1VrmnHyxg9lfhJZmtoUtZxzt8E=', 'https://media.gettyimages.com/photos/the-road-picture-id155387711?k=6&m=155387711&s=612x612&w=0&h=ccrHV_D5QJMRF6FvBonsWFtRsuG_gWfXYHsdC_qfyfs=', 'https://media.gettyimages.com/photos/falling-autumn-leaves-picture-id171276011?k=6&m=171276011&s=612x612&w=0&h=mDdJfeIq_QaLHvb1-yLnzr1pZ8nfOYxc_xuFAZ6rCYI=']
+U+6B9E
+14
+yǔn
+78.10
+殞.mp3
+
+殟
+['NONE']
+['NINGUNA']
+[]
+U+6B9F
+13
+wēn
+78.10
+殟.mp3
+
+殠
+['NONE']
+['NINGUNA']
+[]
+U+6BA0
+14
+chòu
+78.10
+殠.mp3
+
+殡
+['encoffin', ' embalm', ' funeral']
+['encoffin', 'embalsamar', 'funeral']
+['NONE', 'https://media.gettyimages.com/photos/canopic-jar-with-jackal-head-as-lid-on-black-background-picture-id157587275?k=6&m=157587275&s=612x612&w=0&h=mjw-bVRi6HKw7qkeBnzWU3Qz5Ko0jj2E9FBA6I9EHH4=', 'https://media.gettyimages.com/photos/at-the-funeral-picture-id157331532?k=6&m=157331532&s=612x612&w=0&h=4iBqAip9I5ThW8dMFOPRyNGWAaEQF2ik1a9cwM64Lj4=']
+U+6BA1
+14
+bìn
+78.10
+殡.mp3
+
+殢
+['be in great difficulty, greatly']
+['estar en gran dificultad, grandemente']
+['NONE']
+U+6BA2
+15
+tì
+78.11
+殢.mp3
+
+殣
+['die', ' death', ' to starve to death']
+['los', 'muerte', 'morir de hambre']
+['https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/polar-bear-remains-picture-id639894234?k=6&m=639894234&s=612x612&w=0&h=OLupxfMa3Vm3DnX7nqoUhPImgUPYSiOARDV9cPax-pU=']
+U+6BA3
+15
+jìn
+78.11
+殣.mp3
+
+殤
+['die young', ' national mourning']
+['morir joven', 'Luto nacional']
+['https://media.gettyimages.com/photos/know-it-hurts-and-im-here-for-you-picture-id843530334?k=6&m=843530334&s=612x612&w=0&h=65vsfVlZY5s3KeSEEHzKbgF3-oTNwXI3ARoLztefH0U=', 'https://media.gettyimages.com/photos/where-to-from-here-picture-id1039521272?k=6&m=1039521272&s=612x612&w=0&h=FqbZ9kU6E4i8qf8upDDApZPJGwL53tskLzLs_MUp09I=']
+U+6BA4
+15
+shāng
+78.11
+殤.mp3
+
+殥
+['NONE']
+['NINGUNA']
+[]
+U+6BA5
+15
+yín
+78.11
+殥.mp3
+
+殦
+['NONE']
+['NINGUNA']
+[]
+U+6BA6
+15
+diāo
+78.11
+殦.mp3
+
+殧
+['NONE']
+['NINGUNA']
+[]
+U+6BA7
+16
+jiù
+78.12
+殧.mp3
+
+殨
+['to open as an ulcer or sore']
+['abrirse como una úlcera o llaga']
+['https://media.gettyimages.com/photos/asian-kids-with-protect-mask-and-protect-glass-show-open-hand-as-stop-picture-id1247661557?k=6&m=1247661557&s=612x612&w=0&h=3WpZpxi54petPrZpW9m6G8vTbzB2DjIY6zcT8nTf4rw=']
+U+6BA8
+16
+huì
+78.12
+殨.mp3
+
+殩
+['NONE']
+['NINGUNA']
+[]
+U+6BA9
+16
+cuàn
+78.12
+殩.mp3
+
+殪
+['die', ' kill, exterminate']
+['los', 'matar, exterminar']
+['https://media.gettyimages.com/photos/cadaver-on-autopsy-table-label-tied-to-toe-picture-id72991312?k=6&m=72991312&s=612x612&w=0&h=9zY4JxMn80kjWK57SRsAw4AmNEzmHLiU7DFQKHx1sH0=', 'https://media.gettyimages.com/photos/hands-strangling-woman-closeup-bw-picture-idpha184000006?k=6&m=pha184000006&s=612x612&w=0&h=b9-5h5oC1cQ9_2kXEGTL1MnX6D-PCEkICdEZXLSzDCI=']
+U+6BAA
+16
+yì
+78.12
+殪.mp3
+
+殫
+['utmost, entirely, quite', ' use up']
+['al máximo, completamente, bastante', 'úsalo']
+['NONE', 'https://media.gettyimages.com/photos/fabric-pop-up-basic-unit-advertising-banner-media-display-backdrop-picture-id1157762233?k=6&m=1157762233&s=612x612&w=0&h=lc8IxX-4MCy_UGzoPJ3dwHogmQTN6DHRsZJjAs1mQhA=']
+U+6BAB
+16
+dān
+78.12
+殫.mp3
+
+殬
+['NONE']
+['NINGUNA']
+[]
+U+6BAC
+17
+dù
+78.13
+殬.mp3
+
+殭
+['a stiff corpse']
+['un cadáver rígido']
+['https://media.gettyimages.com/photos/female-army-medic-soldier-carrying-wounded-soldier-from-desert-picture-id926550026?k=6&m=926550026&s=612x612&w=0&h=U14shxCZPBHRo_k46EG3kp2igUNfrgBCqmrDsrGK_jk=']
+U+6BAD
+17
+jiāng
+78.13
+殭.mp3
+
+殮
+['dress corpse for burial']
+['vestir cadáver para el entierro']
+['https://media.gettyimages.com/photos/widow-of-dramatic-funeral-picture-id108197993?k=6&m=108197993&s=612x612&w=0&h=pj7dwNdouxRuKzVGkY_Pu1WyHJlOcH8Tj1T55I3i11M=']
+U+6BAE
+17
+liàn
+78.13
+殮.mp3
+
+殯
+['encoffin', ' embalm', ' funeral']
+['encoffin', 'embalsamar', 'funeral']
+['NONE', 'https://media.gettyimages.com/photos/canopic-jar-with-jackal-head-as-lid-on-black-background-picture-id157587275?k=6&m=157587275&s=612x612&w=0&h=mjw-bVRi6HKw7qkeBnzWU3Qz5Ko0jj2E9FBA6I9EHH4=', 'https://media.gettyimages.com/photos/at-the-funeral-picture-id157331532?k=6&m=157331532&s=612x612&w=0&h=4iBqAip9I5ThW8dMFOPRyNGWAaEQF2ik1a9cwM64Lj4=']
+U+6BAF
+18
+bìn
+78.14
+殯.mp3
+
+殰
+['an abortion', ' stillborn']
+['un aborto', 'nacido muerto']
+['https://media.gettyimages.com/photos/gynecological-chair-in-gynecological-room-picture-id581531366?k=6&m=581531366&s=612x612&w=0&h=h2ynlKy9Ya9BUdhxuGgWXsUlKnKO4jSdTmkoDrpKO0s=', 'https://media.gettyimages.com/photos/jizo-statues-for-stillborn-children-and-miscarriages-at-the-or-picture-id508502583?k=6&m=508502583&s=612x612&w=0&h=iwK7KDq35hJg9h5o3BUprs49HI3fomuHl6aSkygCSsA=']
+U+6BB0
+19
+dú
+78.15
+殰.mp3
+
+殱
+['annihilate, wipe out, kill off']
+['aniquilar, aniquilar, matar']
+['NONE']
+U+6BB1
+19
+jiān
+78.15
+殱.mp3
+
+殲
+['annihilate, wipe out, kill off']
+['aniquilar, aniquilar, matar']
+['NONE']
+U+6BB2
+21
+jiān
+78.17
+殲.mp3
+
+殳
+['name of old weapon', ' kill', ' rad. 79']
+['nombre del arma vieja', 'matar', 'trabajo. 79']
+['https://media.gettyimages.com/photos/soldiers-clash-in-the-battle-of-revolutionary-war-picture-id163732729?k=6&m=163732729&s=612x612&w=0&h=JEPSravAVkwFvB1-Jhr0mgUJpGKWCXOu1WkS3E3dCSY=', 'https://media.gettyimages.com/photos/closeup-portrait-of-serious-man-against-black-background-picture-id1053466042?k=6&m=1053466042&s=612x612&w=0&h=g1GPYGennOE0kYvzB58EBhs4HOvm7TPxwelBzWn_Kv4=', 'NONE']
+U+6BB3
+4
+shū
+79.0
+殳.mp3
+
+殴
+['beat, fight with fists, hit']
+['golpear, pelear a puños, golpear']
+['https://media.gettyimages.com/photos/portrait-of-a-young-boxer-in-smoke-picture-id108348937?k=6&m=108348937&s=612x612&w=0&h=m8Rufcuqoz5u1r0Z1DtAVIfd6yQAnPwp6mjt99-1_A8=']
+U+6BB4
+8
+ōu
+79.4
+殴.mp3
+
+段
+['section, piece, division']
+['sección, pieza, división']
+['https://media.gettyimages.com/photos/timelapse-pizza-eating-picture-id154926061?k=6&m=154926061&s=612x612&w=0&h=pyppGwhumEWos24IH8OW6A8vXj4fYIvAa_pCIPiPUhQ=']
+U+6BB5
+9
+duàn
+79.5
+段.mp3
+
+殶
+['NONE']
+['NINGUNA']
+[]
+U+6BB6
+9
+zhù
+79.5
+殶.mp3
+
+殷
+['many, great', ' abundant, flourishing']
+['muchos, genial', 'abundante, floreciente']
+['https://media.gettyimages.com/photos/girl-wearing-helmet-picture-id1008621292?k=6&m=1008621292&s=612x612&w=0&h=2czrXnJlCoF-zVEUq7ZZE3__MIz8oVRgnfDSDLqmeNc=', 'https://media.gettyimages.com/photos/scattering-of-printed-portraits-picture-id546206501?k=6&m=546206501&s=612x612&w=0&h=j-RC3fc492UoAW5iqOYoXOzP9loonhwUOTZi9M9m6Q8=']
+U+6BB7
+10
+yīn
+79.6
+殷.mp3
+
+殸
+['stone chimes']
+['campanas de piedra']
+['https://media.gettyimages.com/photos/new-years-spanish-tradition-picture-id1074864492?k=6&m=1074864492&s=612x612&w=0&h=bouyC6ofUHqh53MaStU9Y5-KcxfTxA92Q0GWvt6NfgM=']
+U+6BB8
+11
+qìng
+79.7
+殸.mp3
+
+殹
+['an echo']
+['un eco']
+['https://media.gettyimages.com/photos/mugs-of-black-coffee-in-rows-against-peach-background-picture-id1134295945?k=6&m=1134295945&s=612x612&w=0&h=SWBvUVmz8O5xNNZ6B-dK0EcXMyeAi5sJsz911z733fE=']
+U+6BB9
+11
+yì
+79.7
+殹.mp3
+
+殺
+['kill, slaughter, murder', ' hurt', ' to pare off, reduce, clip']
+['matar, masacrar, asesinar', 'herir', 'recortar, reducir, recortar']
+['https://media.gettyimages.com/photos/acts-of-violence-picture-id453568557?k=6&m=453568557&s=612x612&w=0&h=OswPMdF76Vwn6Px5j-N_Efc6IjQ5iIeOZpd5LxHsHSU=', 'https://media.gettyimages.com/photos/this-doesnt-feel-right-picture-id1081493552?k=6&m=1081493552&s=612x612&w=0&h=a-6V1ZoZgq_I4zbg7Xv-bpErfDRjx-7CZzV4BwMosbQ=', 'NONE']
+U+6BBA
+10
+shā
+79.7
+殺.mp3
+
+殻
+['casing, shell, husk, hull, skin']
+['carcasa, cáscara, recuerda, agujero, piel']
+['NONE']
+U+6BBB
+11
+qiào
+79.7
+殻.mp3
+
+殼
+['casing, shell, husk, hull, skin']
+['carcasa, cáscara, recuerda, agujero, piel']
+['NONE']
+U+6BBC
+12
+ké
+79.8
+殼.mp3
+
+殽
+['mixed up, confused', ' cooked']
+['confundido, confundido', 'cocido']
+['https://media.gettyimages.com/photos/woman-pulling-face-picture-id1144830585?k=6&m=1144830585&s=612x612&w=0&h=TWgpZu3NQp8qPfVqc06KluNDvcXMbcGnytsDkN6NhCc=', 'https://media.gettyimages.com/photos/grilled-chicken-picture-id172900971?k=6&m=172900971&s=612x612&w=0&h=AtjTWJhp8elweWDETJFYG2Mp2liEB0zgMaNaopgisnY=']
+U+6BBD
+12
+xiáo
+79.8
+殽.mp3
+
+殾
+['NONE']
+['NINGUNA']
+[]
+U+6BBE
+12
+xùn
+79.9
+殾.mp3
+
+殿
+['hall', ' palace', ' temple']
+['sala', 'palacio', 'templo']
+['https://media.gettyimages.com/photos/empty-modern-japanese-hospital-corridor-picture-id1049338924?k=6&m=1049338924&s=612x612&w=0&h=RTjvUkjGoymBPtSSBvtERVHVN0u1uU09frvKWgcYmCY=', 'https://media.gettyimages.com/photos/emirates-palace-abu-dhabi-uae-picture-id165824154?k=6&m=165824154&s=612x612&w=0&h=VxrBDD1oHPsQMY1_8PrsIRyfhFe0e-v7FJcQmuk5oS0=', 'https://media.gettyimages.com/photos/sunset-city-skyline-at-wat-arun-temple-and-chao-phraya-river-bangkok-picture-id1177404879?k=6&m=1177404879&s=612x612&w=0&h=RqnHIHm2mmiU4vYupGO_GoKBa6SBGyCQApvVbUyJK7k=']
+U+6BBF
+13
+diàn
+79.9
+殿.mp3
+
+毀
+['destroy, ruin, injure', ' slander']
+['destruir, arruinar, herir', 'calumnia']
+['https://media.gettyimages.com/photos/ruin-in-a-fishing-village-little-fogo-islands-picture-id1273199986?k=6&m=1273199986&s=612x612&w=0&h=I3RfUZ4LWXUyKVD6IcGymL2L02B1gTs5sY3dZYEwwZA=', 'https://media.gettyimages.com/photos/woman-telling-a-secret-picture-id89771118?k=6&m=89771118&s=612x612&w=0&h=J-cN8_4bMqAPo7_t4UbE9gIOrme642g56AMgZLjcu1w=']
+U+6BC0
+13
+huǐ
+79.9
+毀.mp3
+
+毁
+['destroy']
+['destruir']
+['https://media.gettyimages.com/photos/post-apocalyptic-urban-landscape-picture-id1175959113?k=6&m=1175959113&s=612x612&w=0&h=1QbYHxqAtuetoXi25mzUp2RjiNz8G9wxO4fsuy8xFwg=']
+U+6BC1
+13
+huǐ
+79.9
+毁.mp3
+
+毂
+['hub of wheel']
+['cubo de rueda']
+['https://media.gettyimages.com/photos/chrome-rim-picture-id172408712?k=6&m=172408712&s=612x612&w=0&h=zEOcBsym1oWMjeLPgFkqzgKQutmTX6ip0T1KfYVLaQQ=']
+U+6BC2
+13
+gǔ
+79.9
+毂.mp3
+
+毃
+['NONE']
+['NINGUNA']
+[]
+U+6BC3
+14
+qiāo
+79.10
+毃.mp3
+
+毄
+['NONE']
+['NINGUNA']
+[]
+U+6BC4
+14
+jī
+79.10
+毄.mp3
+
+毅
+['resolute, decisive, firm, persist']
+['resuelto, decidido, firme, persistente']
+['https://media.gettyimages.com/photos/businesswoman-examining-documents-at-desk-at-night-picture-id160291958?k=6&m=160291958&s=612x612&w=0&h=ql3EZ_ScPsDxkydZ7EO9v_J9dTGUc4ZZc-kT-ytRmH0=']
+U+6BC5
+15
+yì
+79.11
+毅.mp3
+
+毆
+['beat, fight with fists, hit', ' to strike, brawl']
+['golpear, pelear a puños, golpear', 'golpear, pelear']
+['https://media.gettyimages.com/photos/portrait-of-a-young-boxer-in-smoke-picture-id108348937?k=6&m=108348937&s=612x612&w=0&h=m8Rufcuqoz5u1r0Z1DtAVIfd6yQAnPwp6mjt99-1_A8=', 'https://media.gettyimages.com/photos/young-woman-protester-raising-her-fist-up-picture-id1256373495?k=6&m=1256373495&s=612x612&w=0&h=7DbxTbibaQIyXPUzSFScidNmE7Phx0nicnilNCJsyg8=']
+U+6BC6
+15
+ōu
+79.11
+毆.mp3
+
+毇
+['NONE']
+['NINGUNA']
+[]
+U+6BC7
+16
+huǐ
+79.12
+毇.mp3
+
+毈
+['infertile eggs', ' (Cant.) rotten, muddled']
+['huevos infértiles', '(Cant.) Podrido, confuso']
+['https://media.gettyimages.com/photos/egg-storage-for-ivf-picture-id478187231?k=6&m=478187231&s=612x612&w=0&h=oWX49J9LxIay16FZpfmBYT0OdStX7UR0eCTZZ2ABoZs=', 'NONE']
+U+6BC8
+16
+duàn
+79.12
+毈.mp3
+
+毉
+['NONE']
+['NINGUNA']
+[]
+U+6BC9
+18
+yī
+79.15
+毉.mp3
+
+毊
+['NONE']
+['NINGUNA']
+[]
+U+6BCA
+23
+xiāo
+79.19
+毊.mp3
+
+毋
+['do not', ' not', ' surname', ' rad. 80']
+['no haga', 'no', 'apellido', 'trabajo. 80']
+['https://media.gettyimages.com/photos/police-line-do-not-cross-tape-against-blurred-city-background-picture-id956966560?k=6&m=956966560&s=612x612&w=0&h=b2Ik0SbKnxmDZ9tSmzG8OmhKSKTTOvaiy3wCBQ4JBFk=', 'https://media.gettyimages.com/photos/police-line-do-not-cross-tape-against-blurred-city-background-picture-id956966560?k=6&m=956966560&s=612x612&w=0&h=b2Ik0SbKnxmDZ9tSmzG8OmhKSKTTOvaiy3wCBQ4JBFk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/rad-80s-boombox-picture-id157418726?k=6&m=157418726&s=612x612&w=0&h=8JtKX93_Ak7Fcrj3icI6jekCXiGYpj-rDh_rm1BZR3I=']
+U+6BCB
+4
+wú
+80.0
+毋.mp3
+
+毌
+['old form of ']
+['forma antigua de']
+['https://media.gettyimages.com/photos/the-next-numbers-are-as-follows-picture-id494146669?k=6&m=494146669&s=612x612&w=0&h=uhs8P8EmateotLTqT6nxWO73nj5lJtBhjdXN0MXvQCM=']
+U+6BCC
+4
+guàn
+80.0
+毌.mp3
+
+母
+['mother', ' female elders', ' female']
+['madre', 'ancianas', 'hembra']
+['https://media.gettyimages.com/photos/three-generation-women-picture-id1088637186?k=6&m=1088637186&s=612x612&w=0&h=Z2ha389I-b2W7RmcplaMTisTLjNpGf3wUTaqCkuQuHE=', 'https://media.gettyimages.com/photos/run-your-company-with-confidence-picture-id981750034?k=6&m=981750034&s=612x612&w=0&h=_ETPwPGwu2j49GVACQ-BCwkFsZSRugQFY_6FRnnaxQI=', 'https://media.gettyimages.com/photos/smiling-businesswoman-at-work-picture-id1092806334?k=6&m=1092806334&s=612x612&w=0&h=QFciT2-ETPhrtXIdaSaBhMCK80qXkZ0gtBTvad_tQYw=']
+U+6BCD
+5
+mǔ
+80.1
+母.mp3
+
+毎
+['every']
+['cada']
+['https://media.gettyimages.com/photos/stretching-is-something-you-should-be-doing-every-day-picture-id1187354794?k=6&m=1187354794&s=612x612&w=0&h=lpPNeM-KzLHJCwKXkAbNyPl25Px_mUdxyaAyK4ceP8M=']
+U+6BCE
+6
+měi
+80.2
+毎.mp3
+
+每
+['every, each']
+['cada uno']
+['https://media.gettyimages.com/photos/stretching-is-something-you-should-be-doing-every-day-picture-id1187354794?k=6&m=1187354794&s=612x612&w=0&h=lpPNeM-KzLHJCwKXkAbNyPl25Px_mUdxyaAyK4ceP8M=']
+U+6BCF
+7
+měi
+80.3
+每.mp3
+
+毐
+['person of reprehensible morals', ' immoral', ' adulterer']
+['persona de moral reprobable', 'inmoral', 'adúltero']
+['https://media.gettyimages.com/photos/businessman-thinking-picture-id519037630?k=6&m=519037630&s=612x612&w=0&h=trsWFMC5b4Pt-vT8yBf1UYX0fskvoIn3jVpZmGsAoIo=', 'https://media.gettyimages.com/photos/evil-and-angel-eggs-picture-id185266971?k=6&m=185266971&s=612x612&w=0&h=vGkVKkYFLCT30hRwWPHuuERf8Cj6XVTmNHw7-Mu3Msc=', 'https://media.gettyimages.com/photos/summer-love-triangle-picture-id1068425108?k=6&m=1068425108&s=612x612&w=0&h=eXtUK-h6CWzZbBdKXEyscfLqxNinkmYLGlDbwnYeh8o=']
+U+6BD0
+7
+ǎi
+80.3
+毐.mp3
+
+毑
+['NONE']
+['NINGUNA']
+[]
+U+6BD1
+8
+jiě
+80.4
+毑.mp3
+
+毒
+['poison, venom', ' poisonous']
+['veneno, veneno', 'venenoso']
+['https://media.gettyimages.com/photos/bottles-with-toxic-labels-picture-id95011729?k=6&m=95011729&s=612x612&w=0&h=hm1VkmyfIvfe1FGDpXn-tyWpXy5ls7x-13nlp0-_gZI=', 'https://media.gettyimages.com/photos/bottles-with-toxic-labels-picture-id95011729?k=6&m=95011729&s=612x612&w=0&h=hm1VkmyfIvfe1FGDpXn-tyWpXy5ls7x-13nlp0-_gZI=']
+U+6BD2
+9
+dú
+80.4
+毒.mp3
+
+毓
+['give birth to', ' bring up, educate']
+['dar a luz a', 'criar, educar']
+['https://media.gettyimages.com/photos/examining-the-belly-of-a-pregnant-woman-picture-id874118774?k=6&m=874118774&s=612x612&w=0&h=Imt8OWycElfb0XO3u4hvKVWeRsYBJkfZp0ZaJ2SGmDQ=', 'https://media.gettyimages.com/photos/its-a-stack-of-knowledge-picture-id878868560?k=6&m=878868560&s=612x612&w=0&h=nUkolF4Fag_XJF7bHxXi7w1o_IWrIXDmwQ5OOHJUzUs=']
+U+6BD3
+14
+yù
+80.9
+毓.mp3
+
+比
+['to compare, liken', ' comparison', ' than']
+['comparar, comparar', 'comparación', 'que']
+['NONE', 'https://media.gettyimages.com/photos/balance-picture-id699087378?k=6&m=699087378&s=612x612&w=0&h=5jdstNrnfmDVwet5tlu73Ky36XV417HWDIr8SipxCjQ=', 'https://media.gettyimages.com/photos/macrophotography-of-a-blue-hyndrangea-in-all-its-glory-picture-id1134093477?k=6&m=1134093477&s=612x612&w=0&h=jnRwsXa3zNZg2htFuS-GCzdCwd2ZgCnq9vRjVQWqJ48=']
+U+6BD4
+4
+bǐ
+81.0
+比.mp3
+
+毕
+['end, finish, conclude', ' completed']
+['terminar, terminar, concluir', 'terminado']
+['https://media.gettyimages.com/photos/white-finish-line-on-red-track-picture-id172648037?k=6&m=172648037&s=612x612&w=0&h=kJNafpIOjpm5yJ3cY0RQmCdlmRaDS5HZbXAscoU0xME=', 'https://media.gettyimages.com/photos/businessmen-shaking-hands-in-conference-room-picture-id147205264?k=6&m=147205264&s=612x612&w=0&h=S2AhxhCw-ZwtQgE4yMbep_RGfkKsIWzBRHIs_e1o30s=']
+U+6BD5
+6
+bì
+81.2
+毕.mp3
+
+毖
+['guard against, take care', ' caution']
+['protegerse contra, cuidarse', 'precaución']
+['https://media.gettyimages.com/photos/concept-of-housing-for-family-picture-id1196076925?k=6&m=1196076925&s=612x612&w=0&h=fSYipsZ0-GQZ_JsCSM7Z6F7SJjYrdVmv0suiena1Qkg=', 'https://media.gettyimages.com/photos/man-holding-blue-helmet-close-up-picture-id1178982949?k=6&m=1178982949&s=612x612&w=0&h=Bi-F4n63sP5FLD7n0OjcYQ5Tn0CMloCqTsKbSeeBJC4=']
+U+6BD6
+9
+bì
+81.5
+毖.mp3
+
+毗
+['help, assist', ' connect, adjoin']
+['ayuda, ayuda', 'conectar, adjuntar']
+['https://media.gettyimages.com/photos/helping-a-senior-woman-out-of-the-car-picture-id952119556?k=6&m=952119556&s=612x612&w=0&h=q-CdIAwmF8VjuGRj1wN_NPLR7V_IPPItbkTYeoAQe2A=', 'NONE']
+U+6BD7
+9
+pí
+81.5
+毗.mp3
+
+毘
+['help, assist', ' connect, adjoin']
+['ayuda, ayuda', 'conectar, adjuntar']
+['https://media.gettyimages.com/photos/helping-a-senior-woman-out-of-the-car-picture-id952119556?k=6&m=952119556&s=612x612&w=0&h=q-CdIAwmF8VjuGRj1wN_NPLR7V_IPPItbkTYeoAQe2A=', 'NONE']
+U+6BD8
+9
+pí
+81.5
+毘.mp3
+
+毙
+['kill', ' die violent death']
+['matar', 'morir de muerte violenta']
+['https://media.gettyimages.com/photos/closeup-portrait-of-serious-man-against-black-background-picture-id1053466042?k=6&m=1053466042&s=612x612&w=0&h=g1GPYGennOE0kYvzB58EBhs4HOvm7TPxwelBzWn_Kv4=', 'https://media.gettyimages.com/photos/acts-of-violence-picture-id453568557?k=6&m=453568557&s=612x612&w=0&h=OswPMdF76Vwn6Px5j-N_Efc6IjQ5iIeOZpd5LxHsHSU=']
+U+6BD9
+10
+bì
+81.6
+毙.mp3
+
+毚
+['cunning', ' greedy', ' crafty']
+['astucia', 'codicioso', 'astuto']
+['https://media.gettyimages.com/photos/businessmen-talking-in-secrecy-picture-id1054524238?k=6&m=1054524238&s=612x612&w=0&h=BA5i1NrydFR95YmpZY5eZECDDMmPh-mBBk62xSoQJi4=', 'https://media.gettyimages.com/photos/woman-eating-in-front-of-the-refrigerator-in-the-kitchen-late-night-picture-id966461220?k=6&m=966461220&s=612x612&w=0&h=kJasIpEkD2Nw50ZFBxlt2Khf8VdlNwunJ5UkYCuZotg=', 'https://media.gettyimages.com/photos/easter-preparation-in-our-home-picture-id1133555356?k=6&m=1133555356&s=612x612&w=0&h=0z7oh0d5W64ikBwwf9UrBAXq4WDTognwrqW65gT5NPI=']
+U+6BDA
+17
+chán
+81.13
+毚.mp3
+
+毛
+['hair, fur, feathers', ' coarse']
+['pelo, piel, plumas', 'grueso']
+['https://media.gettyimages.com/photos/blue-feathers-picture-id157558662?k=6&m=157558662&s=612x612&w=0&h=LQPXURkK-D-PbrzhP4pU5pgFCZiSpNGLLpdw0XnmGHo=', 'https://media.gettyimages.com/photos/dark-concrete-picture-id184601291?k=6&m=184601291&s=612x612&w=0&h=YfwPw9jvfCzKxNUS_g1bwNiczgWJlx2_ADp9X1wfd_I=']
+U+6BDB
+4
+máo
+82.0
+毛.mp3
+
+毜
+['NONE']
+['NINGUNA']
+[]
+U+6BDC
+7
+háo
+82.3
+毜.mp3
+
+毝
+['NONE']
+['NINGUNA']
+[]
+U+6BDD
+7
+cǎi
+82.3
+毝.mp3
+
+毞
+['NONE']
+['NINGUNA']
+[]
+U+6BDE
+8
+pí
+82.4
+毞.mp3
+
+毟
+['to pluck, pick, tear']
+['arrancar, arrancar, arrancar']
+['NONE']
+U+6BDF
+8
+liě
+82.4
+毟.mp3
+
+毠
+['NONE']
+['NINGUNA']
+[]
+U+6BE0
+9
+jiā
+82.5
+毠.mp3
+
+毡
+['felt', ' rug, carpet']
+['sintió', 'alfombra']
+['https://media.gettyimages.com/photos/yellow-felt-background-picture-id157439822?k=6&m=157439822&s=612x612&w=0&h=hB2EI0TDO00xJJiS6R9_ZNR9t65hGWOQ4z4Kse-Miis=', 'https://media.gettyimages.com/photos/full-frame-background-of-a-light-almost-white-carpet-viewed-from-picture-id1135836957?k=6&m=1135836957&s=612x612&w=0&h=p3eRPdFZHD8ReKohmNXJtRo9oi5Mx47xUHBZJbBKhfk=']
+U+6BE1
+9
+zhān
+82.5
+毡.mp3
+
+毢
+['NONE']
+['NINGUNA']
+[]
+U+6BE2
+10
+sāi
+82.6
+毢.mp3
+
+毣
+['NONE']
+['NINGUNA']
+[]
+U+6BE3
+10
+mù
+82.6
+毣.mp3
+
+毤
+['NONE']
+['NINGUNA']
+[]
+U+6BE4
+10
+tuò
+82.6
+毤.mp3
+
+毥
+['NONE']
+['NINGUNA']
+[]
+U+6BE5
+10
+xún
+82.6
+毥.mp3
+
+毦
+['NONE']
+['NINGUNA']
+[]
+U+6BE6
+10
+ěr
+82.6
+毦.mp3
+
+毧
+['fur, hair, down', ' camel hair']
+['piel, pelo, abajo', 'pelo de camello']
+['https://media.gettyimages.com/photos/cow-skin-pattern-texture-picture-id1171498361?k=6&m=1171498361&s=612x612&w=0&h=ofyzEV-2G81gBZVbkqde8bMfWg-DgHIxIcNxXjgAwzY=', 'https://media.gettyimages.com/photos/colorful-hand-dyed-yarn-picture-id1171197561?k=6&m=1171197561&s=612x612&w=0&h=4VijYF0jN3iCmplMJjI-dJrcORV_jsuAS5yo6aMN29U=']
+U+6BE7
+10
+róng
+82.6
+毧.mp3
+
+毨
+['to moult']
+['mudar']
+['https://media.gettyimages.com/photos/monarch-butterfly-emerging-from-its-chrysalis-picture-id182739033?k=6&m=182739033&s=612x612&w=0&h=kl1j04ZfwPWin3zCcRvQENqqziSs-tDlRYZ6tSg2r8U=']
+U+6BE8
+10
+xiǎn
+82.6
+毨.mp3
+
+毩
+['a leather ball for kicking']
+['una pelota de cuero para patear']
+['https://media.gettyimages.com/photos/close-up-ball-lying-on-the-grass-picture-id1000984130?k=6&m=1000984130&s=612x612&w=0&h=IBL1csNNOxSZpSOuj-ifdLZaFOd7gEdS4Q2eyJYMtnI=']
+U+6BE9
+10
+jú
+82.6
+毩.mp3
+
+毪
+['serge from Tibet']
+['sarga del tíbet']
+['https://media.gettyimages.com/photos/tibetan-woman-spins-a-thread-by-hand-to-make-serge-product-a-kind-of-picture-id98639533?k=6&m=98639533&s=612x612&w=0&h=xbZew8Eg7-kCI4WncIFPJRLY6vHaFobbqcxiSFRDQxo=']
+U+6BEA
+10
+mú
+82.6
+毪.mp3
+
+毫
+['fine hair', ' measure of length']
+['cabello fino', 'medida de longitud']
+['https://media.gettyimages.com/photos/wind-blowing-hair-of-caucasian-woman-in-field-picture-id764781881?k=6&m=764781881&s=612x612&w=0&h=lcNBXyH_mq9hb6W29PHy94kKxeVB2LL7naxrseAoidc=', 'https://media.gettyimages.com/photos/measuring-tape-picture-id182675232?k=6&m=182675232&s=612x612&w=0&h=_Uo1xkXfjUmN0zOJBTt6ZX3NzkHcmOjkAMHXE0MaCO0=']
+U+6BEB
+11
+háo
+82.7
+毫.mp3
+
+毬
+['ball, anything round, sphere']
+['bola, cualquier cosa redonda, esfera']
+['https://media.gettyimages.com/photos/neutral-grey-tint-color-picture-id653472758?k=6&m=653472758&s=612x612&w=0&h=UgKimTFeNp60G5HecGqGSpL66aX9yqQUPv1fzN-ZcEg=']
+U+6BEC
+11
+qiú
+82.7
+毬.mp3
+
+毭
+['NONE']
+['NINGUNA']
+[]
+U+6BED
+11
+dòu
+82.7
+毭.mp3
+
+毮
+['[kokuji] to pull out hair, etc.']
+['[kokuji] para arrancar el cabello, etc.']
+['NONE']
+U+6BEE
+11
+shā
+82.7
+毮.mp3
+
+毯
+['rug, carpet, blanket']
+['alfombra, alfombra, manta']
+['https://media.gettyimages.com/photos/cozy-living-room-picture-id1146277994?k=6&m=1146277994&s=612x612&w=0&h=EztnLRkKmmxkYVlKdVgwvOnrqQHfDVAGAa1DxMsW8bY=']
+U+6BEF
+12
+tǎn
+82.8
+毯.mp3
+
+毰
+['NONE']
+['NINGUNA']
+[]
+U+6BF0
+12
+péi
+82.8
+毰.mp3
+
+毱
+['NONE']
+['NINGUNA']
+[]
+U+6BF1
+12
+jú
+82.8
+毱.mp3
+
+毲
+['NONE']
+['NINGUNA']
+[]
+U+6BF2
+12
+duō
+82.8
+毲.mp3
+
+毳
+['fine hair or fur on animals']
+['pelo fino o piel de animales']
+['https://media.gettyimages.com/photos/the-cat-is-sleeping-on-the-bed-picture-id1124345614?k=6&m=1124345614&s=612x612&w=0&h=aC_bzIrVOlf5Ughbs7U366AoOWs3SSqXQ4xGWasbHCc=']
+U+6BF3
+12
+cuì
+82.8
+毳.mp3
+
+毴
+['NONE']
+['NINGUNA']
+[]
+U+6BF4
+12
+bī
+82.8
+毴.mp3
+
+毵
+['long feathers', ' scraggy']
+['plumas largas', 'flaco']
+['https://media.gettyimages.com/photos/retro-beauty-looking-at-herself-in-a-silver-hand-mirror-picture-id163877782?k=6&m=163877782&s=612x612&w=0&h=ltq94CXsTtRRPfxP1X4DfJXoY7d8WLeVfNzVaZ8Orfo=', 'https://media.gettyimages.com/photos/scotland-highland-cattle-with-with-calf-at-laide-picture-id556674281?k=6&m=556674281&s=612x612&w=0&h=jji6OMhKZQxpCv995w-Xb76LYgIdXk_8WZRWDwitCzo=']
+U+6BF5
+12
+sān
+82.8
+毵.mp3
+
+毶
+['NONE']
+['NINGUNA']
+[]
+U+6BF6
+12
+sān
+82.8
+毶.mp3
+
+毷
+['restless']
+['inquieto']
+['https://media.gettyimages.com/photos/man-sitting-on-bed-unable-to-sleep-picture-id103058113?k=6&m=103058113&s=612x612&w=0&h=SUiAKqjG2y2b6UkqSHBmSUtUKtq1ua6FpeRPwjkl7Ts=']
+U+6BF7
+13
+mào
+82.9
+毷.mp3
+
+毸
+['NONE']
+['NINGUNA']
+[]
+U+6BF8
+13
+sāi
+82.9
+毸.mp3
+
+毹
+['NONE']
+['NINGUNA']
+[]
+U+6BF9
+13
+shū
+82.9
+毹.mp3
+
+毺
+['NONE']
+['NINGUNA']
+[]
+U+6BFA
+13
+shū
+82.9
+毺.mp3
+
+毻
+['to molt', ' to change the coat of animals', ' (Cant.) muddled, confused']
+['to muy', 'para cambiar el pelaje de los animales', '(Cant.) Confuso, confuso']
+['https://media.gettyimages.com/photos/monarch-butterfly-emerging-from-its-chrysalis-picture-id182739033?k=6&m=182739033&s=612x612&w=0&h=kl1j04ZfwPWin3zCcRvQENqqziSs-tDlRYZ6tSg2r8U=', 'https://media.gettyimages.com/photos/full-length-of-elderly-woman-walking-with-dog-on-road-during-autumn-picture-id1151007896?k=6&m=1151007896&s=612x612&w=0&h=Bnfye0spQ3ozuJJxUT57pPMq_BhsM7njByr2BGmab5Q=', 'https://media.gettyimages.com/photos/just-cant-choose-between-the-two-picture-id815703268?k=6&m=815703268&s=612x612&w=0&h=FBP1tK4lSI908xMAnSxh7h8yYENuxh9IQPkMIdpukFk=']
+U+6BFB
+13
+tuò
+82.9
+毻.mp3
+
+毼
+['NONE']
+['NINGUNA']
+[]
+U+6BFC
+13
+hé
+82.9
+毼.mp3
+
+毽
+['a shuttlecock']
+['un volante']
+['https://media.gettyimages.com/photos/shuttlecock-picture-id71915527?k=6&m=71915527&s=612x612&w=0&h=Qe0kOudQegoQdOOOD7Af7jnamxj8s-Q2BXxtFNsSHnA=']
+U+6BFD
+12
+jiàn
+82.9
+毽.mp3
+
+毾
+['a coarse, woollen serge']
+['una sarga de lana tosca']
+['NONE']
+U+6BFE
+14
+tà
+82.10
+毾.mp3
+
+毿
+['long feathers', ' scraggy']
+['plumas largas', 'flaco']
+['https://media.gettyimages.com/photos/retro-beauty-looking-at-herself-in-a-silver-hand-mirror-picture-id163877782?k=6&m=163877782&s=612x612&w=0&h=ltq94CXsTtRRPfxP1X4DfJXoY7d8WLeVfNzVaZ8Orfo=', 'https://media.gettyimages.com/photos/scotland-highland-cattle-with-with-calf-at-laide-picture-id556674281?k=6&m=556674281&s=612x612&w=0&h=jji6OMhKZQxpCv995w-Xb76LYgIdXk_8WZRWDwitCzo=']
+U+6BFF
+15
+sān
+82.11
+毿.mp3
+
+氀
+['NONE']
+['NINGUNA']
+[]
+U+6C00
+15
+lǘ
+82.11
+氀.mp3
+
+氁
+['NONE']
+['NINGUNA']
+[]
+U+6C01
+14
+mú
+82.11
+氁.mp3
+
+氂
+['tail', ' hair', ' yak']
+['cola', 'cabello', 'yak']
+['https://media.gettyimages.com/photos/lobster-tails-seasoned-for-the-grill-picture-id480380114?k=6&m=480380114&s=612x612&w=0&h=jITt88GDlymio0EqIG7RhRKUdKQJyj52EbmutCC0eM0=', 'https://media.gettyimages.com/photos/making-hairstory-everyday-with-gorgeous-hair-picture-id1055099140?k=6&m=1055099140&s=612x612&w=0&h=tL7HDNMenlt2W1bBBslxLClW2q-aOcfYuPBrLzBtrAw=', 'https://media.gettyimages.com/photos/yak-grazing-in-high-altitude-pasturetashkurganchina-picture-id688117028?k=6&m=688117028&s=612x612&w=0&h=tZWr6aJuebcv5ovO9wHkw5jS63Vfv_C2gSC5IjBtSz4=']
+U+6C02
+15
+máo
+82.11
+氂.mp3
+
+氃
+['NONE']
+['NINGUNA']
+[]
+U+6C03
+16
+tóng
+82.12
+氃.mp3
+
+氄
+['down']
+['abajo']
+['https://media.gettyimages.com/photos/red-colored-down-arrows-picture-id896761626?k=6&m=896761626&s=612x612&w=0&h=Q7nPAqFoy3AqBfCFqRbr4Vl5L5eeVm9ThVNJ2OYwAVM=']
+U+6C04
+16
+rǒng
+82.12
+氄.mp3
+
+氅
+['overcoat', ' down feathers']
+['sobretodo', 'plumas abajo']
+['https://media.gettyimages.com/photos/womens-clothing-with-personal-accessories-isolated-on-white-picture-id1128905977?k=6&m=1128905977&s=612x612&w=0&h=SDkSctAiOM2-4G0yMHlYSO-CzkzyRdffJlTPH85kFFw=', 'https://media.gettyimages.com/photos/white-feather-isolated-on-a-black-background-picture-id157682688?k=6&m=157682688&s=612x612&w=0&h=A2eeEnYDjxdpdRtDBC-UBaX-ANrUUL7QOpS2h95_NiM=']
+U+6C05
+16
+chǎng
+82.12
+氅.mp3
+
+氆
+['thick, rough serge from Tibet']
+['sarga gruesa y áspera del Tíbet']
+['NONE']
+U+6C06
+16
+pǔ
+82.12
+氆.mp3
+
+氇
+['thick rough serge from Tibet']
+['sarga gruesa y áspera del Tíbet']
+['NONE']
+U+6C07
+16
+lu
+82.12
+氇.mp3
+
+氈
+['felt', ' rug, carpet']
+['sintió', 'alfombra']
+['https://media.gettyimages.com/photos/yellow-felt-background-picture-id157439822?k=6&m=157439822&s=612x612&w=0&h=hB2EI0TDO00xJJiS6R9_ZNR9t65hGWOQ4z4Kse-Miis=', 'https://media.gettyimages.com/photos/full-frame-background-of-a-light-almost-white-carpet-viewed-from-picture-id1135836957?k=6&m=1135836957&s=612x612&w=0&h=p3eRPdFZHD8ReKohmNXJtRo9oi5Mx47xUHBZJbBKhfk=']
+U+6C08
+17
+zhān
+82.13
+氈.mp3
+
+氉
+['restless, melancholy']
+['inquieto, melancólico']
+['https://media.gettyimages.com/photos/wish-all-these-problems-would-just-disappear-picture-id942948904?k=6&m=942948904&s=612x612&w=0&h=ytS49T-1L2a3i8d9ZuDodZxwFmMZGfHiA66z88yDNNA=']
+U+6C09
+17
+sào
+82.13
+氉.mp3
+
+氊
+['felt', ' coarse fabrics use for rugs, carpets, wrappers etc.']
+['sintió', 'Uso de tejidos gruesos para alfombras, moquetas, envoltorios, etc.']
+['https://media.gettyimages.com/photos/yellow-felt-background-picture-id157439822?k=6&m=157439822&s=612x612&w=0&h=hB2EI0TDO00xJJiS6R9_ZNR9t65hGWOQ4z4Kse-Miis=', 'NONE']
+U+6C0A
+17
+zhān
+82.13
+氊.mp3
+
+氋
+['NONE']
+['NINGUNA']
+[]
+U+6C0B
+17
+méng
+82.14
+氋.mp3
+
+氌
+['thick rough serge from Tibet']
+['sarga gruesa y áspera del Tíbet']
+['NONE']
+U+6C0C
+19
+lǔ
+82.15
+氌.mp3
+
+氍
+['fine woollen cloth', ' a mat used by the emperor in worshipping god']
+['paño de lana fina', 'una estera usada por el emperador para adorar a dios']
+['https://media.gettyimages.com/photos/raw-cotton-texture-picture-id1024613722?k=6&m=1024613722&s=612x612&w=0&h=J2heE6kdHR3ICEys-sFNy0nf-58EDCcAJ2mzYtgjSK4=', 'https://media.gettyimages.com/photos/mat-that-thien-tru-temple-perfumed-pagoda-vietnam-picture-id1048650286?k=6&m=1048650286&s=612x612&w=0&h=RWPT8pnEWQtQYuefg7-1xfAAwPhyRARrrW77GOPuInY=']
+U+6C0D
+22
+qú
+82.18
+氍.mp3
+
+氎
+['NONE']
+['NINGUNA']
+[]
+U+6C0E
+26
+dié
+82.22
+氎.mp3
+
+氏
+['clan, family', ' mister']
+['clan, familia', 'señor']
+['https://media.gettyimages.com/photos/mother-and-daughter-having-fun-together-while-dancing-in-the-kitchen-picture-id1132148244?k=6&m=1132148244&s=612x612&w=0&h=1U0Uxw_eA6K-rq7WzLakXHy-CWBZVBK8piHw5NxTWIA=', 'https://media.gettyimages.com/photos/mister-tequila-tasting-gallery-picture-id521447092?k=6&m=521447092&s=612x612&w=0&h=CvZNUOigH1CwNmX9xtTNOLz-QUX0L5qbehsskPO8Fsc=']
+U+6C0F
+4
+shì
+83.0
+氏.mp3
+
+氐
+['name of an ancient tribe']
+['nombre de una tribu antigua']
+['NONE']
+U+6C10
+5
+dī
+83.1
+氐.mp3
+
+民
+['people, subjects, citizens']
+['personas, sujetos, ciudadanos']
+['https://media.gettyimages.com/photos/impatient-woman-waiting-to-vote-picture-id1206255709?k=6&m=1206255709&s=612x612&w=0&h=sAa_QBXPCqxcJfTwWwvm2SdC3DxNsM3jRgxjYUQLGFc=']
+U+6C11
+5
+mín
+83.1
+民.mp3
+
+氒
+['NONE']
+['NINGUNA']
+[]
+U+6C12
+6
+jué
+83.2
+氒.mp3
+
+氓
+['people', ' subjects', ' vassals']
+['personas', 'asignaturas', 'vasallos']
+['https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=', 'https://media.gettyimages.com/photos/leading-the-planning-process-picture-id629296762?k=6&m=629296762&s=612x612&w=0&h=PnJaGkhBIN4_CL9nrw-w-Aza9y1zVbJ3e2qvL18cjJk=', 'NONE']
+U+6C13
+8
+máng
+83.4
+氓.mp3
+
+气
+['steam, vapor', ' KangXi radical 84']
+['vapor, vapor', 'K 昂 ξ radical 84']
+['https://media.gettyimages.com/photos/explosion-by-an-impact-of-a-cloud-of-particles-of-powder-of-color-on-picture-id1044318740?k=6&m=1044318740&s=612x612&w=0&h=O4fbncd-oMaE0KeoJT1CnkEREDkJKXgL8kuzGbwfUyc=', 'NONE']
+U+6C14
+4
+qì
+84.0
+气.mp3
+
+氕
+['hydrogen-1, protium']
+['hidrógeno-1, protio']
+['NONE']
+U+6C15
+5
+piē
+84.1
+氕.mp3
+
+氖
+['neon']
+['neón']
+['https://media.gettyimages.com/photos/creative-colorful-fluorescent-display-with-arrow-shape-picture-id1188236503?k=6&m=1188236503&s=612x612&w=0&h=lt4Gsg44Ji8RoA4jOvMNe7aA4U8VzKvlamIwRJiJ8cI=']
+U+6C16
+6
+nǎi
+84.2
+氖.mp3
+
+気
+['air, gas, steam, vapor', ' spirit']
+['aire, gas, vapor, vapor', 'espíritu']
+['https://media.gettyimages.com/photos/dense-white-smoke-rising-from-the-raging-wildfireclose-up-swirling-picture-id961671932?k=6&m=961671932&s=612x612&w=0&h=uScv8XdynS9YbubAwOkyYz6_D02ZWkyTg9hmxwa6hVc=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=']
+U+6C17
+6
+qì
+84.2
+気.mp3
+
+氘
+['deuterium']
+['deuterio']
+['NONE']
+U+6C18
+6
+dāo
+84.2
+氘.mp3
+

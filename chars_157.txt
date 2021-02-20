@@ -1,0 +1,2560 @@
+餙
+['to adorn', ' ornaments', ' to deceive']
+['para adornar', 'adornos', 'para engañar']
+['https://media.gettyimages.com/photos/red-christmas-ball-isolated-on-white-background-picture-id1023062526?k=6&m=1023062526&s=612x612&w=0&h=vjv_LiEoR7LgXSPtqoK5QuUdJ4iGZaihOe0ErEnu00U=', 'https://media.gettyimages.com/photos/christmas-ball-picture-id184966410?k=6&m=184966410&s=612x612&w=0&h=yK7lLeMGiTpNfEEUfecjsOqAzFcON1YwPR8z1VeSKM0=', 'https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+9919
+15
+shì
+184.7
+餙.mp3
+
+餚
+['prepared meat', ' food']
+['carne preparada', 'comida']
+['https://media.gettyimages.com/photos/professional-chef-at-work-picture-id935489342?k=6&m=935489342&s=612x612&w=0&h=avoBxqMcKr016rIXrQu683bQ9LiivbYhMUS8nTxbCos=', 'https://media.gettyimages.com/vectors/food-and-drinks-line-icons-editable-stroke-pixel-perfect-for-mobile-vector-id1145865541?k=6&m=1145865541&s=612x612&w=0&h=eoFIV7Zjx_tkAMFANPYD9yxEXGEgKtmLPOgbKs8h-bU=']
+U+991A
+16
+yáo
+184.8
+餚.mp3
+
+餛
+['dumpling soup, wonton']
+['sopa de bola de masa hervida, wonton']
+['https://media.gettyimages.com/photos/asian-soup-with-rice-noodles-and-dumplings-picture-id1197139831?k=6&m=1197139831&s=612x612&w=0&h=OwEvxlape0RhbqM6B0K6fpFvY4RQ3e-ZKOtq0RZHl50=']
+U+991B
+16
+hún
+184.8
+餛.mp3
+
+餜
+['cakes, biscuits, pastry']
+['tortas, galletas, pastelería']
+['https://media.gettyimages.com/vectors/bakery-icon-set-vector-id1096469744?k=6&m=1096469744&s=612x612&w=0&h=oEvkApxTFce4tKxKyEwmoo5p3gXUld4JccTePYfVCwc=']
+U+991C
+16
+guǒ
+184.8
+餜.mp3
+
+餝
+['NONE']
+['NINGUNA']
+[]
+U+991D
+15
+shì
+184.7
+餝.mp3
+
+餞
+['farewell party', ' see off, send off']
+['fiesta de despedida', 'despedir, despedir']
+['https://media.gettyimages.com/vectors/tropical-leaves-background-beach-party-invitation-vector-id621902032?k=6&m=621902032&s=612x612&w=0&h=NQcxW1vUUTGU-H655vqn0N7KoCqrGuA1rRa9Vr-SIwU=', 'https://media.gettyimages.com/photos/giving-them-a-happy-send-off-picture-id498476967?k=6&m=498476967&s=612x612&w=0&h=ElfDG9YDp560bnEobZc63v863h06aKFeCPKCB4vpcc0=']
+U+991E
+16
+jiàn
+184.8
+餞.mp3
+
+餟
+['libation']
+['libación']
+['https://media.gettyimages.com/vectors/drink-alcohol-outline-icon-set-vector-id1027909158?k=6&m=1027909158&s=612x612&w=0&h=qY2qCbPgoJ-O3fYo4KhsQ49WnpIzhUBOvoHqA6fKy_A=']
+U+991F
+16
+zhuì
+184.8
+餟.mp3
+
+餠
+['rice-cakes, biscuits']
+['tortas de arroz, galletas']
+['https://media.gettyimages.com/photos/rice-cakes-isolated-on-white-background-picture-id1183836453?k=6&m=1183836453&s=612x612&w=0&h=bAGCAioId8-DnhtXr0hVPK55S1xSQ0gjnXb_tNkAZMQ=']
+U+9920
+16
+bǐng
+184.8
+餠.mp3
+
+餡
+['pastry filling, stuffing']
+['relleno de pastelería, relleno']
+['https://media.gettyimages.com/photos/cream-puffs-picture-id926219614?k=6&m=926219614&s=612x612&w=0&h=qHTZ8QD6XbapcVz_gqebf3lhUCesj40w0JHfxljBIdc=']
+U+9921
+16
+xiàn
+184.8
+餡.mp3
+
+餢
+['NONE']
+['NINGUNA']
+[]
+U+9922
+16
+bù
+184.8
+餢.mp3
+
+餣
+['NONE']
+['NINGUNA']
+[]
+U+9923
+16
+yè
+184.8
+餣.mp3
+
+餤
+['incite']
+['incitar']
+['https://media.gettyimages.com/vectors/awards-and-ribbons-line-icons-editable-stroke-vector-id1124601539?k=6&m=1124601539&s=612x612&w=0&h=kzSJxUQU3mHZVFjhE1OLKPmFYqfcuSWqkd_YZycSTck=']
+U+9924
+16
+tán
+184.8
+餤.mp3
+
+餥
+['NONE']
+['NINGUNA']
+[]
+U+9925
+17
+fēi
+184.8
+餥.mp3
+
+餦
+['candy, pastry']
+['dulces, pastelería']
+['https://media.gettyimages.com/vectors/desert-pattern-with-backgrounds-in-cream-tan-red-and-pink-vector-id165786241?k=6&m=165786241&s=612x612&w=0&h=3TMjACVIsQjKhFFVgSH9EGGuFYuRco8dGa4wYKaojLo=']
+U+9926
+16
+zhāng
+184.8
+餦.mp3
+
+餧
+['steamed bread', ' to feed']
+['pan al vapor', 'alimentar']
+['https://media.gettyimages.com/photos/steamed-bao-buns-with-pulled-pork-picture-id1094517894?k=6&m=1094517894&s=612x612&w=0&h=_6KCKsf_RLbTgs_F6imS4oAKKxPGc8T8FUvdwU_GgR0=', 'https://media.gettyimages.com/photos/its-only-the-best-for-these-cows-picture-id875237010?k=6&m=875237010&s=612x612&w=0&h=0fC8FHSuJkx7f--ryAbS967ZiPHnu0gnEuBiMA-Wanw=']
+U+9927
+16
+wèi
+184.8
+餧.mp3
+
+館
+['public building']
+['edificio publico']
+['https://media.gettyimages.com/vectors/building-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1158828983?k=6&m=1158828983&s=612x612&w=0&h=YIplW0KfrIxG2cL6NQ7WjIX-4asj2BL0_aB0nnSf9C0=']
+U+9928
+16
+guǎn
+184.8
+館.mp3
+
+餩
+['hiccough']
+['hipo']
+['NONE']
+U+9929
+16
+è
+184.8
+餩.mp3
+
+餪
+['feast']
+['banquete']
+['https://media.gettyimages.com/photos/heres-to-tonight-picture-id868935172?k=6&m=868935172&s=612x612&w=0&h=MjBYXm7f229lyNXsWqcSnmlouGWrfsNDYhQCiPJ0V6g=']
+U+992A
+17
+nuǎn
+184.9
+餪.mp3
+
+餫
+['dumpling', ' supply']
+['bola de masa hervida', 'suministro']
+['https://media.gettyimages.com/photos/pierogi-picture-id1055132372?k=6&m=1055132372&s=612x612&w=0&h=blWZ8VhNLRswZvZM5ICKSuHjX5NLRzvIU_BbblJDqeQ=', 'https://media.gettyimages.com/vectors/devices-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1125746550?k=6&m=1125746550&s=612x612&w=0&h=4t9-y5udB-_g87xA2y_2v4O5dUpp6RjKEKGZKfjX-9w=']
+U+992B
+17
+yùn
+184.9
+餫.mp3
+
+餬
+['porridge, gruel, congee', ' paste']
+['gachas de avena, gachas, sopa de arroz', 'pegar']
+['https://media.gettyimages.com/photos/rice-porridge-with-seven-herbs-of-spring-called-nanakusa-gayu-picture-id922700338?k=6&m=922700338&s=612x612&w=0&h=_nRrmN7-f7FyBa-Gpz7-rdrj2kjy2UxD8HdRjGriVdI=', 'https://media.gettyimages.com/photos/glue-bottle-on-white-picture-id185271404?k=6&m=185271404&s=612x612&w=0&h=EQO09AACY8xpfz8n9AjPQVQ-PuoUWTviFRoWRMo_U7c=']
+U+992C
+17
+hú
+184.9
+餬.mp3
+
+餭
+['dried sweetmeat']
+['dulces secos']
+['https://media.gettyimages.com/photos/dried-chocolate-leaves-textured-background-picture-id1154135269?k=6&m=1154135269&s=612x612&w=0&h=iCdo2sk81I4kBbX84IhPPJljJiHYxuvX8YzIIj4Foo4=']
+U+992D
+17
+huáng
+184.9
+餭.mp3
+
+餮
+['a legendary animal', ' a greedy person']
+['un animal legendario', 'una persona codiciosa']
+['https://media.gettyimages.com/vectors/cute-monsters-vector-id925688288?k=6&m=925688288&s=612x612&w=0&h=VvBNbDyVLrECfN_qu1xm-_G22OQ9JhMuQ6dR41LBM_c=', 'https://media.gettyimages.com/photos/obesity-is-a-major-cause-of-diabetes-picture-id154949123?k=6&m=154949123&s=612x612&w=0&h=E3HVh1MgmS7Lc_Fr6vCk6WeAbpOJjfR9XtzeQ0FgzG4=']
+U+992E
+18
+tiè
+184.9
+餮.mp3
+
+餯
+['NONE']
+['NINGUNA']
+[]
+U+992F
+17
+huì
+184.9
+餯.mp3
+
+餰
+['NONE']
+['NINGUNA']
+[]
+U+9930
+17
+jiān
+184.9
+餰.mp3
+
+餱
+['dry goods, dry provisions']
+['productos secos, provisiones secas']
+['https://media.gettyimages.com/photos/cereal-crop-in-field-at-sunset-picture-id1044211716?k=6&m=1044211716&s=612x612&w=0&h=n30deEvBQh9hXdYf0hi1B3vWIi_oylWHnecpC6leeG4=']
+U+9931
+17
+hóu
+184.9
+餱.mp3
+
+餲
+['spoiled, sour, moldy']
+['estropeado, amargo, mohoso']
+['https://media.gettyimages.com/photos/rotten-oranges-still-life-low-key-in-round-tray-picture-id1176515428?k=6&m=1176515428&s=612x612&w=0&h=wYNJEnmVAY60-O21L-R_FrGqLnBarel62eI_NN8HNhI=']
+U+9932
+17
+ài
+184.9
+餲.mp3
+
+餳
+['sugar, syrup', ' malt sugar', ' sticky']
+['jarabe de azucar', 'azúcar de malta', 'pegajoso']
+['https://media.gettyimages.com/photos/spoon-with-dripping-sirup-or-honey-closeup-picture-id174446980?k=6&m=174446980&s=612x612&w=0&h=mBZxXgfwD9VxpZf4wagfx1mFHtz-ekSivj3GKC2Dz9o=', 'https://media.gettyimages.com/photos/blueberry-smoothie-in-glass-picture-id951117416?k=6&m=951117416&s=612x612&w=0&h=-TlK8WqPc0uxOI1atugcEGEeVU4_At46fVOrvwQusdk=', 'https://media.gettyimages.com/photos/organic-honey-with-wooden-dipper-against-white-picture-id155095451?k=6&m=155095451&s=612x612&w=0&h=lOGh-7ET0Yh_4dDRIu2s0JXfbYDazrERcpP739vbTFI=']
+U+9933
+17
+táng
+184.9
+餳.mp3
+
+餴
+['NONE']
+['NINGUNA']
+[]
+U+9934
+16
+fēn
+184.9
+餴.mp3
+
+餵
+['to feed, to raise']
+['alimentar, criar']
+['https://media.gettyimages.com/photos/mother-holding-her-baby-picture-id1011835794?k=6&m=1011835794&s=612x612&w=0&h=FeU4Jp6xbJJGrWQn9eyJU0ykGYITqSS3S_M7orIBhgw=']
+U+9935
+17
+wèi
+184.9
+餵.mp3
+
+餶
+['NONE']
+['NINGUNA']
+[]
+U+9936
+17
+gǔ
+184.10
+餶.mp3
+
+餷
+['stir and cook']
+['revuelva y cocine']
+['https://media.gettyimages.com/photos/unrecognizable-woman-making-lunch-in-the-kitchen-and-stirring-soup-picture-id1044054402?k=6&m=1044054402&s=612x612&w=0&h=0DKbP8l6yhR6SOBWPRryCiu530L3Ef9J5kCcc4joDRQ=']
+U+9937
+17
+chā
+184.9
+餷.mp3
+
+餸
+['(Cant.) a side dish of food prepared to accompany rice']
+['(Can.) Una guarnición de comida preparada para acompañar el arroz']
+['NONE']
+U+9938
+17
+sòng
+184.10
+餸.mp3
+
+餹
+['sugar', ' sugared', ' candy', ' crystallized sweetmeats']
+['azúcar', 'azucarado', 'dulce', 'dulces cristalizados']
+['https://media.gettyimages.com/vectors/sugar-icon-set-vector-id1135125530?k=6&m=1135125530&s=612x612&w=0&h=i-jvl29XdHO5oBggJUmsHGT9tmy2rAXuS232JMjmAOE=', 'https://media.gettyimages.com/photos/bartender-pouring-whiskey-cocktail-into-glass-with-sugared-rim-picture-id1073833864?k=6&m=1073833864&s=612x612&w=0&h=oG8qEcyJusVBsp8Paj7jEWym8yZIN2azQ6wUvo61RaE=', 'https://media.gettyimages.com/photos/candy-wrapped-in-pink-foil-picture-id167783736?k=6&m=167783736&s=612x612&w=0&h=skYeLIpDDqzHa6heHAi5g3itEViMZuw1Yx21k7ytV8c=', 'NONE']
+U+9939
+18
+táng
+184.10
+餹.mp3
+
+餺
+['rice cake']
+['tarta de arroz']
+['https://media.gettyimages.com/photos/rice-cake-picture-id174023576?k=6&m=174023576&s=612x612&w=0&h=H-_b4hW7egUexZN6-CZtACn84cvvNA7Z0vXUwcKE0eY=']
+U+993A
+18
+bó
+184.10
+餺.mp3
+
+餻
+['cakes, pastry']
+['tortas, pastelería']
+['https://media.gettyimages.com/photos/chocolate-and-orange-cake-picture-id184599041?k=6&m=184599041&s=612x612&w=0&h=kY1olIosmg_FjrJLX0m8USSjNyQEIV5vLz3cgNnj1tk=']
+U+993B
+18
+gāo
+184.10
+餻.mp3
+
+餼
+['sacrificial victim', ' gift', ' grain']
+['víctima de sacrificio', 'regalo', 'grano']
+['https://media.gettyimages.com/vectors/balloon-head-getting-ready-to-be-bursted-vector-id1138911054?k=6&m=1138911054&s=612x612&w=0&h=JjJ82CepMre3z4d7lGqU5CnhRXw3O0GGY0ureSXfkLM=', 'https://media.gettyimages.com/vectors/gift-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1084909636?k=6&m=1084909636&s=612x612&w=0&h=WpY4ddBO6-tiLgJ9_E-716OBrxwrSVMBlQH8n5NsUFQ=', 'https://media.gettyimages.com/photos/wholegrain-food-still-life-shot-on-rustic-wooden-table-picture-id835833518?k=6&m=835833518&s=612x612&w=0&h=_sU5IsSiuT26ub-j_odBSlfQzepH_XdBj495-4Ckcz4=']
+U+993C
+18
+xì
+184.10
+餼.mp3
+
+餽
+['make present of food', ' gift']
+['hacer presente de comida', 'regalo']
+['https://media.gettyimages.com/photos/woman-holding-gift-picture-id1188586190?k=6&m=1188586190&s=612x612&w=0&h=xNq5Mopb909uCzAll_SIEsFt9YE1DuFPdgh73iiYy3w=', 'https://media.gettyimages.com/vectors/gift-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1084909636?k=6&m=1084909636&s=612x612&w=0&h=WpY4ddBO6-tiLgJ9_E-716OBrxwrSVMBlQH8n5NsUFQ=']
+U+993D
+17
+kuì
+184.10
+餽.mp3
+
+餾
+['distill, distillation']
+['destilar, destilación']
+['https://media.gettyimages.com/photos/male-worker-operating-machinery-in-brewery-picture-id892115380?k=6&m=892115380&s=612x612&w=0&h=eLfR7zA68RYt4dYy2btzvknKqrFTVwWb0Qf4bKR7c1U=']
+U+993E
+18
+liù
+184.10
+餾.mp3
+
+餿
+['spoiled, rotten, stale, rancid']
+['estropeado, podrido, rancio, rancio']
+['NONE']
+U+993F
+17
+sōu
+184.10
+餿.mp3
+
+饀
+['NONE']
+['NINGUNA']
+[]
+U+9940
+18
+táo
+184.10
+饀.mp3
+
+饁
+['carry meal to workers in field']
+['llevar comida a los trabajadores en el campo']
+['https://media.gettyimages.com/photos/waitress-bringing-food-to-group-dining-at-table-picture-id128374610?k=6&m=128374610&s=612x612&w=0&h=TWyBg1GXlneMg5igBLegyfyZCh2pOlV4IvlCRZgVAIU=']
+U+9941
+18
+yè
+184.10
+饁.mp3
+
+饂
+['Japanese noodles']
+['Fideos japoneses']
+['https://media.gettyimages.com/photos/miso-ramen-noodle-soup-picture-id680268190?k=6&m=680268190&s=612x612&w=0&h=TT7QAoTmTq198QuC2N9cSWfq97KXN9NrumkKJwEvlHg=']
+U+9942
+17
+wēn
+184.10
+饂.mp3
+
+饃
+['bread']
+['un pan']
+['https://media.gettyimages.com/photos/loaf-of-bread-still-life-picture-id947886300?k=6&m=947886300&s=612x612&w=0&h=ZgRGRWObaf1IcgmzO-AEDIK6oi5M86ws1olVUfQPHWE=']
+U+9943
+18
+mó
+184.10
+饃.mp3
+
+饄
+['NONE']
+['NINGUNA']
+[]
+U+9944
+19
+táng
+184.11
+饄.mp3
+
+饅
+['steamed bread', ' steamed dumplings']
+['pan al vapor', 'empanadillas al vapor']
+['https://media.gettyimages.com/photos/steamed-bao-buns-with-pulled-pork-picture-id1094517894?k=6&m=1094517894&s=612x612&w=0&h=_6KCKsf_RLbTgs_F6imS4oAKKxPGc8T8FUvdwU_GgR0=', 'https://media.gettyimages.com/photos/shanghai-style-meat-dumplings-picture-id640354996?k=6&m=640354996&s=612x612&w=0&h=nZl3b0YziXgULOjUB9NTjIyzcv6f0ikzONgDbi-YshQ=']
+U+9945
+19
+mán
+184.11
+饅.mp3
+
+饆
+['NONE']
+['NINGUNA']
+[]
+U+9946
+18
+bì
+184.11
+饆.mp3
+
+饇
+['to eat too much, surfeited', ' to confer']
+['comer demasiado, harto', 'conferir']
+['NONE', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+9947
+19
+yù
+184.11
+饇.mp3
+
+饈
+['food, meal', ' eat', ' offer']
+['comida alimento', 'comer', 'oferta']
+['https://media.gettyimages.com/photos/cropped-view-of-table-laid-with-crockery-and-fresh-homemade-food-picture-id1032617410?k=6&m=1032617410&s=612x612&w=0&h=rfnDGthnVQT1whMVsJ-rHK0G3vqempwE_2U1HSdPDMA=', 'https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=']
+U+9948
+18
+xiū
+184.11
+饈.mp3
+
+饉
+['time of famine or crop failure']
+['época de hambruna o malas cosechas']
+['https://media.gettyimages.com/photos/brain-on-desk-picture-id97554609?k=6&m=97554609&s=612x612&w=0&h=2S_DzLyYix5GSawT8EFgPyucEQvL54GgaL9Ux0sD6xo=']
+U+9949
+19
+jǐn
+184.11
+饉.mp3
+
+饊
+['fried round cakes of wheat flour']
+['tortas redondas fritas de harina de trigo']
+['NONE']
+U+994A
+20
+sǎn
+184.12
+饊.mp3
+
+饋
+['offer food superior', ' send gift']
+['ofrecer comida superior', 'enviar regalo']
+['https://media.gettyimages.com/photos/dont-panic-its-organic-picture-id884737274?k=6&m=884737274&s=612x612&w=0&h=YzmPASoxjX8TdfeSF2Eo7PY1JrKcoh43r9Y2FRqyJYc=', 'https://media.gettyimages.com/photos/box-open-isolated-over-a-white-background-picture-id160948900?k=6&m=160948900&s=612x612&w=0&h=kIxNoAe45ZyOaauVfzMfumDN6dwffxT6AJPz7av5NWY=']
+U+994B
+20
+kuì
+184.12
+饋.mp3
+
+饌
+['feed, support, provide for', ' food', ' fine meats, delicacies']
+['alimentar, apoyar, proporcionar', 'comida', 'carnes finas, manjares']
+['https://media.gettyimages.com/photos/multiethnic-group-of-volunteers-work-at-food-bank-picture-id1055191292?k=6&m=1055191292&s=612x612&w=0&h=Mk24xp899VxQItYM9_Ws55QGSwWxJ5Kp7W7PvuFMd-Q=', 'https://media.gettyimages.com/vectors/food-and-drinks-line-icons-editable-stroke-pixel-perfect-for-mobile-vector-id1145865541?k=6&m=1145865541&s=612x612&w=0&h=eoFIV7Zjx_tkAMFANPYD9yxEXGEgKtmLPOgbKs8h-bU=', 'https://media.gettyimages.com/photos/rack-of-lamb-picture-id927101136?k=6&m=927101136&s=612x612&w=0&h=KFC4dS1O7vC2rOWNAs4-dxR-67TmGj3tcN8KGoE3rIs=']
+U+994C
+20
+zhuàn
+184.12
+饌.mp3
+
+饍
+['meals, provisions, board']
+['comidas, provisiones, comida']
+['https://media.gettyimages.com/photos/freshly-baked-bread-on-wooden-table-picture-id617603536?k=6&m=617603536&s=612x612&w=0&h=WfKeflraZVemNe7CM-YJAfhXrrIXA8S863JJqpPyw7w=']
+U+994D
+20
+shàn
+184.12
+饍.mp3
+
+饎
+['wine and food eaten with wine']
+['vino y comida con vino']
+['https://media.gettyimages.com/photos/devoured-plate-of-pesto-pasta-with-ingredients-surrounding-plate-and-picture-id724229697?k=6&m=724229697&s=612x612&w=0&h=rS5Lx9tq3-M_5RJUfxItX99ScQGAB0wGsgeoVKFRRmg=']
+U+994E
+20
+chì
+184.12
+饎.mp3
+
+饏
+['NONE']
+['NINGUNA']
+[]
+U+994F
+20
+dàn
+184.12
+饏.mp3
+
+饐
+['spoiled, rotten, sour']
+['estropeado, podrido, amargo']
+['https://media.gettyimages.com/photos/windfall-picture-id172517827?k=6&m=172517827&s=612x612&w=0&h=RrpnZCyC7uvf4gy1eHlUoWc-CHhUtQXbGjFSBgL3q0Q=']
+U+9950
+20
+yì
+184.12
+饐.mp3
+
+饑
+['starve, be hungry', ' famine']
+['morir de hambre, tener hambre', 'hambruna']
+['https://media.gettyimages.com/photos/poor-indian-children-asking-for-food-india-picture-id524903696?k=6&m=524903696&s=612x612&w=0&h=jXnK45SU2CACLaNSoSJK_vjn0ZPn3dP3bh9NNlTgyCo=', 'https://media.gettyimages.com/photos/poor-indian-children-asking-for-food-india-picture-id524903696?k=6&m=524903696&s=612x612&w=0&h=jXnK45SU2CACLaNSoSJK_vjn0ZPn3dP3bh9NNlTgyCo=']
+U+9951
+20
+jī
+184.12
+饑.mp3
+
+饒
+['bountiful, abundant, plentiful']
+['generoso, abundante, abundante']
+['https://media.gettyimages.com/photos/scattering-of-printed-portraits-picture-id546206501?k=6&m=546206501&s=612x612&w=0&h=j-RC3fc492UoAW5iqOYoXOzP9loonhwUOTZi9M9m6Q8=']
+U+9952
+20
+ráo
+184.12
+饒.mp3
+
+饓
+['NONE']
+['NINGUNA']
+[]
+U+9953
+20
+chēng
+184.12
+饓.mp3
+
+饔
+['breakfast', ' eat prepared food']
+['desayuno', 'comer comida preparada']
+['https://media.gettyimages.com/photos/breakfast-feast-picture-id531306158?k=6&m=531306158&s=612x612&w=0&h=bZyTy54nIFEhTMfz3leCiILi232WPjdtwcLE3qvXaW0=', 'https://media.gettyimages.com/photos/overhead-view-of-table-during-christmas-dinner-picture-id1177387587?k=6&m=1177387587&s=612x612&w=0&h=WeL_j-0YYfBHpCD9gq2t4_x6SeGebhmr0tqh8Ua6kDc=']
+U+9954
+22
+yōng
+184.13
+饔.mp3
+
+饕
+['gluttonous, greedy, covetous']
+['glotón, codicioso, codicioso']
+['NONE']
+U+9955
+22
+tāo
+184.13
+饕.mp3
+
+饖
+['NONE']
+['NINGUNA']
+[]
+U+9956
+21
+wèi
+184.13
+饖.mp3
+
+饗
+['host banquet', ' banquet']
+['banquete anfitrión', 'banquete']
+['https://media.gettyimages.com/illustrations/s-housewife-holding-a-ham-dinner-smiling-illustration-id187100854?k=6&m=187100854&s=612x612&w=0&h=K1cm9gRidSjxNv8hb5p8Fz_biObJITvfQXB6ah-lUwA=', 'https://media.gettyimages.com/photos/bbq-feast-picture-id694177316?k=6&m=694177316&s=612x612&w=0&h=HFS6zc3ZvdNnkyjkDYWYG068URRedKQlLSsM28SWNoM=']
+U+9957
+20
+xiǎng
+184.13
+饗.mp3
+
+饘
+['gruel']
+['engrudo']
+['https://media.gettyimages.com/photos/healthy-organic-porridge-topped-with-berries-picture-id686045026?k=6&m=686045026&s=612x612&w=0&h=TkBwjavyqrVBd6dLUhSLS9zpYkLCNuQmaW1PSyddFck=']
+U+9958
+21
+zhān
+184.13
+饘.mp3
+
+饙
+['NONE']
+['NINGUNA']
+[]
+U+9959
+20
+fēn
+184.13
+饙.mp3
+
+饚
+['NONE']
+['NINGUNA']
+[]
+U+995A
+21
+hài
+184.14
+饚.mp3
+
+饛
+['well-filled dish']
+['plato bien relleno']
+['NONE']
+U+995B
+21
+méng
+184.14
+饛.mp3
+
+饜
+["be satiated, eat one's full"]
+['estar saciado, comer bien']
+['NONE']
+U+995C
+23
+yàn
+184.14
+饜.mp3
+
+饝
+['to feed an infant by hand steamed bread']
+['alimentar a un bebé con pan al vapor a mano']
+['NONE']
+U+995D
+24
+mó
+184.16
+饝.mp3
+
+饞
+['gluttonous, greedy', ' lewd, lecherous']
+['glotón, codicioso', 'lascivo']
+['https://media.gettyimages.com/photos/woman-eating-in-front-of-the-refrigerator-in-the-kitchen-late-night-picture-id966461220?k=6&m=966461220&s=612x612&w=0&h=kJasIpEkD2Nw50ZFBxlt2Khf8VdlNwunJ5UkYCuZotg=', 'https://media.gettyimages.com/photos/lecherous-businessman-harasses-helpless-young-blonde-businesswoman-picture-id155287708?k=6&m=155287708&s=612x612&w=0&h=cmgm7ulWdxNbH4H_N1vgaXM_jQCP-2_RvoDh-iMSJSs=']
+U+995E
+25
+chán
+184.17
+饞.mp3
+
+饟
+['rations and pay for soldiers', ' dried rice']
+['raciones y pago de soldados', 'arroz seco']
+['NONE', 'https://media.gettyimages.com/photos/white-rice-background-picture-id1049237664?k=6&m=1049237664&s=612x612&w=0&h=hmnbiB2m-XqDwr2bRH9BjxaZ2QJ21Cl3Aw-q-4CN3e4=']
+U+995F
+25
+xiǎng
+184.17
+饟.mp3
+
+饠
+['rice cake']
+['tarta de arroz']
+['https://media.gettyimages.com/photos/rice-cake-picture-id174023576?k=6&m=174023576&s=612x612&w=0&h=H-_b4hW7egUexZN6-CZtACn84cvvNA7Z0vXUwcKE0eY=']
+U+9960
+27
+luó
+184.19
+饠.mp3
+
+饡
+['NONE']
+['NINGUNA']
+[]
+U+9961
+27
+zàn
+184.19
+饡.mp3
+
+饢
+["bread (Persian 'naan')"]
+["pan (persa 'naan')"]
+['NONE']
+U+9962
+30
+náng
+184.22
+饢.mp3
+
+饣
+['eat, food', ' radical number 184']
+['comer alimentos', 'número radical 184']
+['https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'NONE']
+U+9963
+3
+shí
+184'.0
+饣.mp3
+
+饤
+['display food for show only', ' sacrifice']
+['mostrar comida solo para espectáculo', 'sacrificio']
+['https://media.gettyimages.com/photos/food-truck-owner-picture-id471777954?k=6&m=471777954&s=612x612&w=0&h=3DkzmXC9yIAA91YReht8zf7fmJ40bvEr_Ek3GzVr0zY=', 'https://media.gettyimages.com/photos/young-male-in-uniform-smiles-at-counselor-picture-id1087566184?k=6&m=1087566184&s=612x612&w=0&h=jvqpGalO4xMtHzYSs5FH9Ogz4hYFk9p3R0CchT-NMVE=']
+U+9964
+5
+dìng
+184'.2
+饤.mp3
+
+饥
+['hunger, starving', ' hungry', ' a famine']
+['hambre, hambriento', 'hambriento', 'una hambruna']
+['https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=', 'https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=', 'https://media.gettyimages.com/photos/poor-indian-children-asking-for-food-india-picture-id524903696?k=6&m=524903696&s=612x612&w=0&h=jXnK45SU2CACLaNSoSJK_vjn0ZPn3dP3bh9NNlTgyCo=']
+U+9965
+5
+jī
+184'.2
+饥.mp3
+
+饦
+['rice cake']
+['tarta de arroz']
+['https://media.gettyimages.com/photos/rice-cake-picture-id174023576?k=6&m=174023576&s=612x612&w=0&h=H-_b4hW7egUexZN6-CZtACn84cvvNA7Z0vXUwcKE0eY=']
+U+9966
+6
+tuō
+184'.3
+饦.mp3
+
+饧
+['sugar, syrup', ' malt sugar', ' sticky']
+['jarabe de azucar', 'azúcar de malta', 'pegajoso']
+['https://media.gettyimages.com/photos/spoon-with-dripping-sirup-or-honey-closeup-picture-id174446980?k=6&m=174446980&s=612x612&w=0&h=mBZxXgfwD9VxpZf4wagfx1mFHtz-ekSivj3GKC2Dz9o=', 'https://media.gettyimages.com/photos/blueberry-smoothie-in-glass-picture-id951117416?k=6&m=951117416&s=612x612&w=0&h=-TlK8WqPc0uxOI1atugcEGEeVU4_At46fVOrvwQusdk=', 'https://media.gettyimages.com/photos/organic-honey-with-wooden-dipper-against-white-picture-id155095451?k=6&m=155095451&s=612x612&w=0&h=lOGh-7ET0Yh_4dDRIu2s0JXfbYDazrERcpP739vbTFI=']
+U+9967
+6
+táng
+184'.3
+饧.mp3
+
+饨
+['stuffed dumplings']
+['bolas de masa rellenas']
+['https://media.gettyimages.com/photos/homemade-cooking-chinese-ravioli-picture-id1154405638?k=6&m=1154405638&s=612x612&w=0&h=hbSxKJ0uIpsnYNxsTUilHjOBzPIqXDX802jB-SRKGHY=']
+U+9968
+7
+tún
+184'.4
+饨.mp3
+
+饩
+['sacrificial victim', ' gift', ' grain']
+['víctima de sacrificio', 'regalo', 'grano']
+['https://media.gettyimages.com/vectors/balloon-head-getting-ready-to-be-bursted-vector-id1138911054?k=6&m=1138911054&s=612x612&w=0&h=JjJ82CepMre3z4d7lGqU5CnhRXw3O0GGY0ureSXfkLM=', 'https://media.gettyimages.com/vectors/gift-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1084909636?k=6&m=1084909636&s=612x612&w=0&h=WpY4ddBO6-tiLgJ9_E-716OBrxwrSVMBlQH8n5NsUFQ=', 'https://media.gettyimages.com/photos/wholegrain-food-still-life-shot-on-rustic-wooden-table-picture-id835833518?k=6&m=835833518&s=612x612&w=0&h=_sU5IsSiuT26ub-j_odBSlfQzepH_XdBj495-4Ckcz4=']
+U+9969
+7
+xì
+184'.4
+饩.mp3
+
+饪
+['cooked food', ' cook until well done']
+['comida cocinada', 'cocinar hasta que esté bien hecho']
+['https://media.gettyimages.com/photos/jumbo-shrimp-scampi-sauteeing-in-butter-and-olive-oil-picture-id469311080?k=6&m=469311080&s=612x612&w=0&h=GxpSrVb57d0poV1Ua_nlYIhqd1ZskC-kj2o01ZxMDRg=', 'https://media.gettyimages.com/photos/give-me-highgive-son-we-are-going-to-make-a-great-lunch-picture-id1073089996?k=6&m=1073089996&s=612x612&w=0&h=POgayqZx-REq1lCDmcPcKDLrhF7M4QK-02bApP4TM8I=']
+U+996A
+7
+rèn
+184'.4
+饪.mp3
+
+饫
+['surfeited, satiated', ' confer']
+['harto, saciado', 'conferir']
+['NONE', 'https://media.gettyimages.com/vectors/vector-speech-bubbles-and-communication-line-icons-editable-stroke-vector-id1165724605?k=6&m=1165724605&s=612x612&w=0&h=QDUv1DcK0ML_WQIPU9YJL03N7OItoBBnFYCjvwLtj7I=']
+U+996B
+7
+yù
+184'.4
+饫.mp3
+
+饬
+['order', ' command', ' give command']
+['orden', 'mando', 'dar mando']
+['https://media.gettyimages.com/photos/woman-using-meal-delivery-service-through-mobile-app-picture-id1160735344?k=6&m=1160735344&s=612x612&w=0&h=tYEeckvNDyAoyUEfUeCii_29p_pBum_BVHKiUrGbjYY=', 'https://media.gettyimages.com/photos/remote-control-isolated-on-white-background-picture-id157335453?k=6&m=157335453&s=612x612&w=0&h=4UUcAelpuz4PhhBe-ldM7K8Vu91LnCVI06y1s22paBs=', 'https://media.gettyimages.com/photos/man-holding-passport-and-boarding-pass-at-airline-checkin-counter-picture-id959527164?k=6&m=959527164&s=612x612&w=0&h=pRyN-GIKIin33BWAvOUGxj0l_-FWcL76Y1-0hm6lo6w=']
+U+996C
+7
+chì
+184'.4
+饬.mp3
+
+饭
+['cooked rice', ' food, meal']
+['arroz cocido', 'comida alimento']
+['https://media.gettyimages.com/photos/boiled-white-rice-picture-id155376131?k=6&m=155376131&s=612x612&w=0&h=c5rMEjDLOckOdtM9SQ8vknn_D2jxhsIg-nu9ITlaIXs=', 'https://media.gettyimages.com/photos/cropped-view-of-table-laid-with-crockery-and-fresh-homemade-food-picture-id1032617410?k=6&m=1032617410&s=612x612&w=0&h=rfnDGthnVQT1whMVsJ-rHK0G3vqempwE_2U1HSdPDMA=']
+U+996D
+7
+fàn
+184'.4
+饭.mp3
+
+饮
+['drink', ' swallow', ' kind of drink']
+['beber', 'golondrina', 'tipo de bebida']
+['https://media.gettyimages.com/vectors/drink-alcohol-outline-icon-set-vector-id1027909158?k=6&m=1027909158&s=612x612&w=0&h=qY2qCbPgoJ-O3fYo4KhsQ49WnpIzhUBOvoHqA6fKy_A=', 'https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'https://media.gettyimages.com/photos/coffee-time-picture-id1055938194?k=6&m=1055938194&s=612x612&w=0&h=p1lQPWSSOlaealfX9yorRi9FJYcixCNChI5EBylWYGo=']
+U+996E
+7
+yǐn
+184'.4
+饮.mp3
+
+饯
+['farewell party', ' see off, send off']
+['fiesta de despedida', 'despedir, despedir']
+['https://media.gettyimages.com/vectors/tropical-leaves-background-beach-party-invitation-vector-id621902032?k=6&m=621902032&s=612x612&w=0&h=NQcxW1vUUTGU-H655vqn0N7KoCqrGuA1rRa9Vr-SIwU=', 'https://media.gettyimages.com/photos/giving-them-a-happy-send-off-picture-id498476967?k=6&m=498476967&s=612x612&w=0&h=ElfDG9YDp560bnEobZc63v863h06aKFeCPKCB4vpcc0=']
+U+996F
+8
+jiàn
+184'.5
+饯.mp3
+
+饰
+['decorate, ornament, adorn']
+['decorar, adornar, adornar']
+['https://media.gettyimages.com/photos/christmas-ball-with-blue-ribbon-picture-id173577791?k=6&m=173577791&s=612x612&w=0&h=1eoPfUX7JRcINSz__kQkHbvO2j7Zh6i00C1s1bh-wJA=']
+U+9970
+8
+shì
+184'.5
+饰.mp3
+
+饱
+['eat heartily', " eat one's fill"]
+['comer con ganas', 'comer hasta saciarse']
+['https://media.gettyimages.com/photos/little-girl-biting-heartily-into-a-black-bread-chile-picture-id1165135259?k=6&m=1165135259&s=612x612&w=0&h=4_aL7BALUIV-SO-lJbAefIJFgyLZVlmxQJatNPxKUH4=', 'NONE']
+U+9971
+8
+bǎo
+184'.5
+饱.mp3
+
+饲
+['raise animals', ' feed', ' nourish']
+['criar animales', 'alimentar', 'nutrir']
+['https://media.gettyimages.com/photos/whats-that-one-doing-picture-id904559406?k=6&m=904559406&s=612x612&w=0&h=bc3jIeeCxJIhvCykYUY-FZjsavlJCgR5r1TzqXELeNw=', 'https://media.gettyimages.com/photos/its-only-the-best-for-these-cows-picture-id875237010?k=6&m=875237010&s=612x612&w=0&h=0fC8FHSuJkx7f--ryAbS967ZiPHnu0gnEuBiMA-Wanw=', 'https://media.gettyimages.com/photos/time-to-nourish-a-time-to-bond-picture-id1202450247?k=6&m=1202450247&s=612x612&w=0&h=QNY9Z01A2_nb8A_Z5cnSqBQOxsUti5HG735Z5SS4N7U=']
+U+9972
+8
+sì
+184'.5
+饲.mp3
+
+饳
+['NONE']
+['NINGUNA']
+[]
+U+9973
+8
+duò
+184'.5
+饳.mp3
+
+饴
+['sweet-meats', ' sweet-cakes', ' syrup']
+['dulces', 'pasteles dulces', 'jarabe']
+['https://media.gettyimages.com/photos/high-angle-view-of-sweetmeats-kept-in-a-pile-beside-fresh-fruit-and-a-picture-id57339758?k=6&m=57339758&s=612x612&w=0&h=SVIJkhPfebqwQePGDZWcMfCx7WbGFS3C4TgLPD6-YBg=', 'NONE', 'https://media.gettyimages.com/photos/spoon-with-dripping-sirup-or-honey-closeup-picture-id174446980?k=6&m=174446980&s=612x612&w=0&h=mBZxXgfwD9VxpZf4wagfx1mFHtz-ekSivj3GKC2Dz9o=']
+U+9974
+8
+yí
+184'.5
+饴.mp3
+
+饵
+['bait', ' bait, entice', ' dumplings']
+['cebo', 'cebo, atraer', 'albóndigas']
+['https://media.gettyimages.com/vectors/awards-and-ribbons-line-icons-editable-stroke-vector-id1124601539?k=6&m=1124601539&s=612x612&w=0&h=kzSJxUQU3mHZVFjhE1OLKPmFYqfcuSWqkd_YZycSTck=', 'https://media.gettyimages.com/photos/young-business-boy-uses-motivation-at-work-picture-id685218258?k=6&m=685218258&s=612x612&w=0&h=PkW_bOtHhw3FnGZ9H9zbKBxTnFHgRb49xzGcwQ0GMdk=', 'https://media.gettyimages.com/photos/pierogi-picture-id1055132372?k=6&m=1055132372&s=612x612&w=0&h=blWZ8VhNLRswZvZM5ICKSuHjX5NLRzvIU_BbblJDqeQ=']
+U+9975
+9
+ěr
+184'.6
+饵.mp3
+
+饶
+['bountiful, abundant, plentiful']
+['generoso, abundante, abundante']
+['https://media.gettyimages.com/photos/scattering-of-printed-portraits-picture-id546206501?k=6&m=546206501&s=612x612&w=0&h=j-RC3fc492UoAW5iqOYoXOzP9loonhwUOTZi9M9m6Q8=']
+U+9976
+9
+ráo
+184'.6
+饶.mp3
+
+饷
+['rations and pay for soldiers']
+['raciones y pago de soldados']
+['NONE']
+U+9977
+9
+xiǎng
+184'.6
+饷.mp3
+
+饸
+['NONE']
+['NINGUNA']
+[]
+U+9978
+9
+hé
+184'.6
+饸.mp3
+
+饹
+['NONE']
+['NINGUNA']
+[]
+U+9979
+9
+le
+184'.6
+饹.mp3
+
+饺
+['stuffed dumplings']
+['bolas de masa rellenas']
+['https://media.gettyimages.com/photos/homemade-cooking-chinese-ravioli-picture-id1154405638?k=6&m=1154405638&s=612x612&w=0&h=hbSxKJ0uIpsnYNxsTUilHjOBzPIqXDX802jB-SRKGHY=']
+U+997A
+9
+jiǎo
+184'.6
+饺.mp3
+
+饻
+['NONE']
+['NINGUNA']
+[]
+U+997B
+9
+xī
+184'.6
+饻.mp3
+
+饼
+['rice-cakes, biscuits']
+['tortas de arroz, galletas']
+['https://media.gettyimages.com/photos/rice-cakes-isolated-on-white-background-picture-id1183836453?k=6&m=1183836453&s=612x612&w=0&h=bAGCAioId8-DnhtXr0hVPK55S1xSQ0gjnXb_tNkAZMQ=']
+U+997C
+9
+bǐng
+184'.6
+饼.mp3
+
+饽
+['ferrule']
+['contera']
+['https://media.gettyimages.com/vectors/art-brush-painting-an-s-shaped-line-vector-id540600814?k=6&m=540600814&s=612x612&w=0&h=ceLIhKLREO9f9fpMF9e3RUk4h2v3ykLIRasA7coV1tM=']
+U+997D
+10
+bō
+184'.7
+饽.mp3
+
+饾
+['food item set out for show only']
+['artículo alimenticio establecido solo para exhibición']
+['https://media.gettyimages.com/vectors/set-of-vector-3d-graph-with-infographic-global-template-vector-id1021516922?k=6&m=1021516922&s=612x612&w=0&h=FxNCR0IpclzvVVi7Wc2N-hCYiMWRUPk_NgUwAy7ENIU=']
+U+997E
+10
+dòu
+184'.7
+饾.mp3
+
+饿
+['hungry', ' greedy for', ' hunger']
+['hambriento', 'codicioso de', 'hambre']
+['https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=', 'https://media.gettyimages.com/photos/woman-eating-in-front-of-the-refrigerator-in-the-kitchen-late-night-picture-id966461220?k=6&m=966461220&s=612x612&w=0&h=kJasIpEkD2Nw50ZFBxlt2Khf8VdlNwunJ5UkYCuZotg=', 'https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=']
+U+997F
+10
+è
+184'.7
+饿.mp3
+
+馀
+['surplus, excess, remainder']
+['excedente, exceso, resto']
+['NONE']
+U+9980
+10
+yú
+184'.7
+馀.mp3
+
+馁
+['hungry, starving, famished']
+['hambriento, hambriento, hambriento']
+['https://media.gettyimages.com/photos/african-girl-eating-a-meal-in-the-orphanage-picture-id108349181?k=6&m=108349181&s=612x612&w=0&h=Ps43J8TlyaHoyPOi9dUzUszEJ_-4LJqh76Q-ywd-tiU=']
+U+9981
+10
+něi
+184'.7
+馁.mp3
+
+馂
+['leftovers']
+['sobras']
+['https://media.gettyimages.com/photos/woman-spooning-meat-into-tupperware-picture-id148198987?k=6&m=148198987&s=612x612&w=0&h=tEUjymoc_geEQQddARPagRz5JMnp-goM1o7x6DkL8Zs=']
+U+9982
+10
+jùn
+184'.7
+馂.mp3
+
+馃
+['cakes, biscuits, pastry']
+['tortas, galletas, pastelería']
+['https://media.gettyimages.com/vectors/bakery-icon-set-vector-id1096469744?k=6&m=1096469744&s=612x612&w=0&h=oEvkApxTFce4tKxKyEwmoo5p3gXUld4JccTePYfVCwc=']
+U+9983
+11
+guǒ
+184'.8
+馃.mp3
+
+馄
+['dumpling soup, wonton']
+['sopa de bola de masa hervida, wonton']
+['https://media.gettyimages.com/photos/asian-soup-with-rice-noodles-and-dumplings-picture-id1197139831?k=6&m=1197139831&s=612x612&w=0&h=OwEvxlape0RhbqM6B0K6fpFvY4RQ3e-ZKOtq0RZHl50=']
+U+9984
+11
+hún
+184'.8
+馄.mp3
+
+馅
+['filling, stuffing', ' secret']
+['relleno, relleno', 'secreto']
+['https://media.gettyimages.com/photos/creamy-crab-and-shrimp-stuffed-mini-portobello-mushroom-caps-picture-id1057566866?k=6&m=1057566866&s=612x612&w=0&h=m0pE3N8Eyeuz4z9zIz1qoK5I8oMJ3849cd7t3C9ODjI=', 'https://media.gettyimages.com/photos/come-closer-what-do-you-think-about-this-candidate-picture-id942149588?k=6&m=942149588&s=612x612&w=0&h=pamGW1lLTeM01Aq1H5f8ICCt2ztbEPM8pyNKN1TpGys=']
+U+9985
+11
+xiàn
+184'.8
+馅.mp3
+
+馆
+['public building']
+['edificio publico']
+['https://media.gettyimages.com/vectors/building-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1158828983?k=6&m=1158828983&s=612x612&w=0&h=YIplW0KfrIxG2cL6NQ7WjIX-4asj2BL0_aB0nnSf9C0=']
+U+9986
+11
+guǎn
+184'.8
+馆.mp3
+
+馇
+['stir and cook']
+['revuelva y cocine']
+['https://media.gettyimages.com/photos/unrecognizable-woman-making-lunch-in-the-kitchen-and-stirring-soup-picture-id1044054402?k=6&m=1044054402&s=612x612&w=0&h=0DKbP8l6yhR6SOBWPRryCiu530L3Ef9J5kCcc4joDRQ=']
+U+9987
+12
+chā
+184'.9
+馇.mp3
+
+馈
+['offer food superior', ' send gift']
+['ofrecer comida superior', 'enviar regalo']
+['https://media.gettyimages.com/photos/dont-panic-its-organic-picture-id884737274?k=6&m=884737274&s=612x612&w=0&h=YzmPASoxjX8TdfeSF2Eo7PY1JrKcoh43r9Y2FRqyJYc=', 'https://media.gettyimages.com/photos/box-open-isolated-over-a-white-background-picture-id160948900?k=6&m=160948900&s=612x612&w=0&h=kIxNoAe45ZyOaauVfzMfumDN6dwffxT6AJPz7av5NWY=']
+U+9988
+12
+kuì
+184'.9
+馈.mp3
+
+馉
+['NONE']
+['NINGUNA']
+[]
+U+9989
+12
+gǔ
+184'.10
+馉.mp3
+
+馊
+['spoiled, rotten, stale, rancid']
+['estropeado, podrido, rancio, rancio']
+['NONE']
+U+998A
+12
+sōu
+184'.9
+馊.mp3
+
+馋
+['gluttonous, greedy', ' lewd, lecherous']
+['glotón, codicioso', 'lascivo']
+['https://media.gettyimages.com/photos/woman-eating-in-front-of-the-refrigerator-in-the-kitchen-late-night-picture-id966461220?k=6&m=966461220&s=612x612&w=0&h=kJasIpEkD2Nw50ZFBxlt2Khf8VdlNwunJ5UkYCuZotg=', 'https://media.gettyimages.com/photos/lecherous-businessman-harasses-helpless-young-blonde-businesswoman-picture-id155287708?k=6&m=155287708&s=612x612&w=0&h=cmgm7ulWdxNbH4H_N1vgaXM_jQCP-2_RvoDh-iMSJSs=']
+U+998B
+12
+chán
+184'.9
+馋.mp3
+
+馌
+['carry meal to workers in field']
+['llevar comida a los trabajadores en el campo']
+['https://media.gettyimages.com/photos/waitress-bringing-food-to-group-dining-at-table-picture-id128374610?k=6&m=128374610&s=612x612&w=0&h=TWyBg1GXlneMg5igBLegyfyZCh2pOlV4IvlCRZgVAIU=']
+U+998C
+13
+yè
+184'.10
+馌.mp3
+
+馍
+['bread']
+['un pan']
+['https://media.gettyimages.com/photos/loaf-of-bread-still-life-picture-id947886300?k=6&m=947886300&s=612x612&w=0&h=ZgRGRWObaf1IcgmzO-AEDIK6oi5M86ws1olVUfQPHWE=']
+U+998D
+13
+mó
+184'.10
+馍.mp3
+
+馎
+['rice cake']
+['tarta de arroz']
+['https://media.gettyimages.com/photos/rice-cake-picture-id174023576?k=6&m=174023576&s=612x612&w=0&h=H-_b4hW7egUexZN6-CZtACn84cvvNA7Z0vXUwcKE0eY=']
+U+998E
+13
+bó
+184'.10
+馎.mp3
+
+馏
+['distill, distillation']
+['destilar, destilación']
+['https://media.gettyimages.com/photos/male-worker-operating-machinery-in-brewery-picture-id892115380?k=6&m=892115380&s=612x612&w=0&h=eLfR7zA68RYt4dYy2btzvknKqrFTVwWb0Qf4bKR7c1U=']
+U+998F
+13
+liú
+184'.10
+馏.mp3
+
+馐
+['food, meal', ' eat', ' offer']
+['comida alimento', 'comer', 'oferta']
+['https://media.gettyimages.com/photos/cropped-view-of-table-laid-with-crockery-and-fresh-homemade-food-picture-id1032617410?k=6&m=1032617410&s=612x612&w=0&h=rfnDGthnVQT1whMVsJ-rHK0G3vqempwE_2U1HSdPDMA=', 'https://media.gettyimages.com/photos/woman-enjoying-delicious-burger-picture-id1055590912?k=6&m=1055590912&s=612x612&w=0&h=QgE7S1hDv1dG8mV8HvARN-HcjbuZ9yy0cd2nmuwd_cA=', 'https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=']
+U+9990
+13
+xiū
+184'.10
+馐.mp3
+
+馑
+['time of famine or crop failure']
+['época de hambruna o malas cosechas']
+['https://media.gettyimages.com/photos/brain-on-desk-picture-id97554609?k=6&m=97554609&s=612x612&w=0&h=2S_DzLyYix5GSawT8EFgPyucEQvL54GgaL9Ux0sD6xo=']
+U+9991
+14
+jǐn
+184'.11
+馑.mp3
+
+馒
+['steamed bread', ' steamed dumplings']
+['pan al vapor', 'empanadillas al vapor']
+['https://media.gettyimages.com/photos/steamed-bao-buns-with-pulled-pork-picture-id1094517894?k=6&m=1094517894&s=612x612&w=0&h=_6KCKsf_RLbTgs_F6imS4oAKKxPGc8T8FUvdwU_GgR0=', 'https://media.gettyimages.com/photos/shanghai-style-meat-dumplings-picture-id640354996?k=6&m=640354996&s=612x612&w=0&h=nZl3b0YziXgULOjUB9NTjIyzcv6f0ikzONgDbi-YshQ=']
+U+9992
+14
+mán
+184'.11
+馒.mp3
+
+馓
+['fried round cakes of wheat flour']
+['tortas redondas fritas de harina de trigo']
+['NONE']
+U+9993
+15
+sǎn
+184'.12
+馓.mp3
+
+馔
+['to feed, support, provide for', ' food']
+['alimentar, apoyar, proveer', 'comida']
+['https://media.gettyimages.com/photos/multiethnic-group-of-volunteers-work-at-food-bank-picture-id1055191292?k=6&m=1055191292&s=612x612&w=0&h=Mk24xp899VxQItYM9_Ws55QGSwWxJ5Kp7W7PvuFMd-Q=', 'https://media.gettyimages.com/vectors/food-and-drinks-line-icons-editable-stroke-pixel-perfect-for-mobile-vector-id1145865541?k=6&m=1145865541&s=612x612&w=0&h=eoFIV7Zjx_tkAMFANPYD9yxEXGEgKtmLPOgbKs8h-bU=']
+U+9994
+15
+zhuàn
+184'.12
+馔.mp3
+
+馕
+['bread (persian naan)']
+['pan (naan persa)']
+['https://media.gettyimages.com/photos/taftoon-bread-at-bakery-shiraz-iran-picture-id852225834?k=6&m=852225834&s=612x612&w=0&h=tNJg5Nv1GbvdBUzpuxIHzMPes2MKTF3t5sNedBZ6vRg=']
+U+9995
+25
+náng
+184'.22
+馕.mp3
+
+首
+['head', ' first', ' leader, chief', ' a poem']
+['cabeza', 'primero', 'líder, jefe', 'un poema']
+['https://media.gettyimages.com/vectors/portrait-de-jeune-homme-vector-id944722920?k=6&m=944722920&s=612x612&w=0&h=1ymjqwaifqaavjCJFdyu4Ss0IoaPLmUXK9S-QzjHYOQ=', 'https://media.gettyimages.com/vectors/sports-fans-cheering-symbols-vector-id1126219589?k=6&m=1126219589&s=612x612&w=0&h=Y7EdbR78n_Kz8_RLgt48-3Jhsi3VbJbXkcyv2BKBy9c=', 'https://media.gettyimages.com/photos/woman-using-her-smartphone-picture-id1179858772?k=6&m=1179858772&s=612x612&w=0&h=LHHFiSyAg_jBJQzl9eD-5QBLutvnUNUI8VFXq3aOKW4=', 'https://media.gettyimages.com/photos/close-up-of-antique-love-letter-on-parchment-picture-id129311496?k=6&m=129311496&s=612x612&w=0&h=63B2Nhn4cOf2j6_C4spsBLKiozA8sSonEp4dng4QHM8=']
+U+9996
+9
+shǒu
+185.0
+首.mp3
+
+馗
+['cheekbone', ' path, road', ' intersection']
+['pómulo', 'camino, camino', 'intersección']
+['https://media.gettyimages.com/photos/gorgeous-woman-posing-on-camera-picture-id1191506289?k=6&m=1191506289&s=612x612&w=0&h=WZ617Dbi3P2lh05VEarysXVfh8-yDg4UvlIlVFzDMpY=', 'https://media.gettyimages.com/vectors/curved-winding-road-with-oak-tree-road-to-success-background-vector-id1139644575?k=6&m=1139644575&s=612x612&w=0&h=rLE5TWtMbmR1I5BnrF53NVDIvxxUx9x3Pa2Q0TTRzjM=', 'https://media.gettyimages.com/photos/aerial-view-of-people-crossing-a-big-intersection-in-ginza-tokyo-picture-id1087517500?k=6&m=1087517500&s=612x612&w=0&h=FLzF1FHTXcHLZf-rILrEuhQS_vP93wL7CG6IvtHTsnk=']
+U+9997
+11
+kuí
+185.2
+馗.mp3
+
+馘
+['cut off left ear', ' tally dead enemy']
+['cortar la oreja izquierda', 'cuenta enemigo muerto']
+['NONE', 'NONE']
+U+9998
+17
+guó
+185.8
+馘.mp3
+
+香
+['fragrant, sweet-smelling', ' incense']
+['fragante, de olor dulce', 'incienso']
+['https://media.gettyimages.com/photos/snowshill-lavender-field-uk-picture-idsb10066698ol-001?k=6&m=sb10066698ol-001&s=612x612&w=0&h=Pj2xSaCj9nTrykhJ03-Sky-xoLczOfzp3OIUM0Z1sus=', 'https://media.gettyimages.com/photos/an-incense-stick-burning-on-a-curved-plank-picture-id172155494?k=6&m=172155494&s=612x612&w=0&h=33MNKhV4mSfT6CAeji4pxDeWIyJuaIDXaP66CjuCzho=']
+U+9999
+9
+xiāng
+186.0
+香.mp3
+
+馚
+['aromatic, perfumed']
+['aromático, perfumado']
+['https://media.gettyimages.com/photos/essential-oil-lavender-and-orange-dry-on-a-wooden-table-top-view-picture-id1134054641?k=6&m=1134054641&s=612x612&w=0&h=RWLkkeNwunqLWqoDA4dNnOe1jv9IzrETbUKgMGFx7Wg=']
+U+999A
+13
+fén
+186.4
+馚.mp3
+
+馛
+['fragrance, fragrant']
+['fragancia, fragante']
+['https://media.gettyimages.com/vectors/five-senses-sight-hearing-smell-touch-taste-icons-and-symbols-vector-id1059288106?k=6&m=1059288106&s=612x612&w=0&h=__amgtwzeC6IWvYUCnE_PoYlK-enx7WoTvbmLnO402E=']
+U+999B
+14
+bó
+186.5
+馛.mp3
+
+馜
+['NONE']
+['NINGUNA']
+[]
+U+999C
+14
+nǐ
+186.5
+馜.mp3
+
+馝
+['fragrance']
+['fragancia']
+['https://media.gettyimages.com/photos/african-american-woman-spraying-perfume-on-wrist-picture-id916194640?k=6&m=916194640&s=612x612&w=0&h=zSbydReOA_6kUnnuOIrAtQLbBAzAZGxI-meqr1a41F0=']
+U+999D
+14
+bì
+186.5
+馝.mp3
+
+馞
+['NONE']
+['NINGUNA']
+[]
+U+999E
+16
+bó
+186.7
+馞.mp3
+
+馟
+['fragrant']
+['fragante']
+['https://media.gettyimages.com/vectors/five-senses-sight-hearing-smell-touch-taste-icons-and-symbols-vector-id1059288106?k=6&m=1059288106&s=612x612&w=0&h=__amgtwzeC6IWvYUCnE_PoYlK-enx7WoTvbmLnO402E=']
+U+999F
+16
+tú
+186.7
+馟.mp3
+
+馠
+['NONE']
+['NINGUNA']
+[]
+U+99A0
+16
+hān
+186.7
+馠.mp3
+
+馡
+['scent']
+['olor']
+['https://media.gettyimages.com/photos/african-american-woman-spraying-perfume-on-wrist-picture-id916194640?k=6&m=916194640&s=612x612&w=0&h=zSbydReOA_6kUnnuOIrAtQLbBAzAZGxI-meqr1a41F0=']
+U+99A1
+17
+fēi
+186.8
+馡.mp3
+
+馢
+['NONE']
+['NINGUNA']
+[]
+U+99A2
+17
+jiān
+186.8
+馢.mp3
+
+馣
+['NONE']
+['NINGUNA']
+[]
+U+99A3
+17
+ān
+186.8
+馣.mp3
+
+馤
+['NONE']
+['NINGUNA']
+[]
+U+99A4
+18
+ài
+186.9
+馤.mp3
+
+馥
+['fragrance, scent, aroma']
+['fragancia, aroma, aroma']
+['https://media.gettyimages.com/photos/african-american-woman-spraying-perfume-on-wrist-picture-id916194640?k=6&m=916194640&s=612x612&w=0&h=zSbydReOA_6kUnnuOIrAtQLbBAzAZGxI-meqr1a41F0=']
+U+99A5
+18
+fù
+186.9
+馥.mp3
+
+馦
+['NONE']
+['NINGUNA']
+[]
+U+99A6
+19
+xiān
+186.10
+馦.mp3
+
+馧
+['NONE']
+['NINGUNA']
+[]
+U+99A7
+18
+yūn
+186.10
+馧.mp3
+
+馨
+['fragrant, aromatic', ' distant fragrance']
+['fragante, aromático', 'fragancia distante']
+['https://media.gettyimages.com/vectors/five-senses-sight-hearing-smell-touch-taste-icons-and-symbols-vector-id1059288106?k=6&m=1059288106&s=612x612&w=0&h=__amgtwzeC6IWvYUCnE_PoYlK-enx7WoTvbmLnO402E=', 'https://media.gettyimages.com/photos/france-valensole-back-view-of-woman-walking-between-blossoms-of-at-picture-id1042699580?k=6&m=1042699580&s=612x612&w=0&h=0LGsrHUusaskBTRU2niqf3LIApyv2UmGlvXtrDrP4lw=']
+U+99A8
+20
+xīn
+186.11
+馨.mp3
+
+馩
+['aromatic, perfumed']
+['aromático, perfumado']
+['https://media.gettyimages.com/photos/essential-oil-lavender-and-orange-dry-on-a-wooden-table-top-view-picture-id1134054641?k=6&m=1134054641&s=612x612&w=0&h=RWLkkeNwunqLWqoDA4dNnOe1jv9IzrETbUKgMGFx7Wg=']
+U+99A9
+21
+fén
+186.12
+馩.mp3
+
+馪
+['NONE']
+['NINGUNA']
+[]
+U+99AA
+23
+pīn
+186.14
+馪.mp3
+
+馫
+['NONE']
+['NINGUNA']
+[]
+U+99AB
+27
+xīn
+186.18
+馫.mp3
+
+馬
+['horse', ' surname', ' KangXi radical 187']
+['caballo', 'apellido', 'K Ang ξ radical 187']
+['https://media.gettyimages.com/photos/wild-horses-running-free-picture-id1019461046?k=6&m=1019461046&s=612x612&w=0&h=RN04ILkViwine-g3B9BjtUmGV_mucSiQgv8mKM-F644=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'NONE']
+U+99AC
+10
+mǎ
+187.0
+馬.mp3
+
+馭
+['drive, ride', ' manage, control']
+['paseo en coche', 'administrar, controlar']
+['https://media.gettyimages.com/photos/young-black-woman-driving-car-for-rideshare-picture-id1159637659?k=6&m=1159637659&s=612x612&w=0&h=LIMGJ_V0DkZOisRsaCDFDNSOQCkg4QbgthbdFcAXoDQ=', 'https://media.gettyimages.com/photos/enormous-waves-behind-freighter-picture-id925549392?k=6&m=925549392&s=612x612&w=0&h=4XTC7oAR_R0nkjNrl7hRHf8_YD0AVsBSuFl-3dOem8c=']
+U+99AD
+12
+yù
+187.2
+馭.mp3
+
+馮
+['surname', ' gallop', ' by dint of']
+['apellido', 'galope', 'a fuerza de']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=', 'https://media.gettyimages.com/photos/wrecked-car-picture-id90840614?k=6&m=90840614&s=612x612&w=0&h=-bB5VaB6OMprLWCPhKMoNIv5YGxVN2tm0-aEJVqxBR8=']
+U+99AE
+12
+féng
+187.2
+馮.mp3
+
+馯
+['NONE']
+['NINGUNA']
+[]
+U+99AF
+13
+hàn
+187.3
+馯.mp3
+
+馰
+['NONE']
+['NINGUNA']
+[]
+U+99B0
+13
+dí
+187.3
+馰.mp3
+
+馱
+['carry on back']
+['continuar de nuevo']
+['https://media.gettyimages.com/photos/be-the-life-and-soul-of-your-world-picture-id495919831?k=6&m=495919831&s=612x612&w=0&h=gK3Tg9DAp3zEZrPAPA23END-UFCisUvDBiXyu822O2Y=']
+U+99B1
+13
+tuó
+187.3
+馱.mp3
+
+馲
+['camel']
+['camello']
+['https://media.gettyimages.com/photos/tourists-on-train-of-camels-in-sahara-led-by-guide-picture-id155157473?k=6&m=155157473&s=612x612&w=0&h=Z-MIulAnbRnwuUh4ZV3tOu2V9dGgl48-d4cy98_OTRc=']
+U+99B2
+13
+zhé
+187.3
+馲.mp3
+
+馳
+['go quickly or swiftly', ' hurry']
+['ir rápido o rápido', 'prisa']
+['https://media.gettyimages.com/photos/drone-point-view-of-city-street-crossing-at-rush-hour-picture-id1166624542?k=6&m=1166624542&s=612x612&w=0&h=jTlE4mtVzZwu42so1Wt5d4Zy2ktuM5-cxOmjfj_nRVk=', 'https://media.gettyimages.com/photos/businessman-with-bag-running-on-sidewalk-in-city-picture-id691910413?k=6&m=691910413&s=612x612&w=0&h=CjsjA5TlS8uaEpCbjP0ZUVcIEK7kXOS0sR0b0LOQNas=']
+U+99B3
+13
+chí
+187.3
+馳.mp3
+
+馴
+['tame, docile, obedient']
+['dócil, dócil, obediente']
+['https://media.gettyimages.com/photos/lion-lying-on-rug-mature-woman-knitting-picture-id200355486-002?k=6&m=200355486-002&s=612x612&w=0&h=vGOyf9tKKoyw_SEi2PZPqQRYkCyJdoNTbM0CrBXYQh4=']
+U+99B4
+13
+xún
+187.3
+馴.mp3
+
+馵
+['horse with white back legs']
+['caballo con patas traseras blancas']
+['https://media.gettyimages.com/photos/unicorn-in-a-forest-picture-id959356606?k=6&m=959356606&s=612x612&w=0&h=dLquh_vTrgT_R8VbLdD70ijvYNNmDwzxLfqWPAB9djU=']
+U+99B5
+13
+zhù
+187.3
+馵.mp3
+
+馶
+['NONE']
+['NINGUNA']
+[]
+U+99B6
+14
+zhī
+187.4
+馶.mp3
+
+馷
+['NONE']
+['NINGUNA']
+[]
+U+99B7
+14
+pèi
+187.4
+馷.mp3
+
+馸
+['NONE']
+['NINGUNA']
+[]
+U+99B8
+14
+xìn
+187.4
+馸.mp3
+
+馹
+['post horse, relay horse']
+['caballo de poste, caballo de relevo']
+['NONE']
+U+99B9
+14
+rì
+187.4
+馹.mp3
+
+馺
+['NONE']
+['NINGUNA']
+[]
+U+99BA
+13
+sà
+187.4
+馺.mp3
+
+馻
+['NONE']
+['NINGUNA']
+[]
+U+99BB
+14
+yǔn
+187.4
+馻.mp3
+
+馼
+['NONE']
+['NINGUNA']
+[]
+U+99BC
+14
+wén
+187.4
+馼.mp3
+
+馽
+['NONE']
+['NINGUNA']
+[]
+U+99BD
+14
+zhí
+187.4
+馽.mp3
+
+馾
+['NONE']
+['NINGUNA']
+[]
+U+99BE
+14
+dàn
+187.4
+馾.mp3
+
+馿
+['an ass', ' a donkey']
+['un culo', 'un burro']
+['https://media.gettyimages.com/photos/she-stays-in-shape-picture-id912928426?k=6&m=912928426&s=612x612&w=0&h=3ZyiPlyr5-0jDMCfv_Z52qEJ-Je-iElkaoTHtGc6rkI=', 'https://media.gettyimages.com/vectors/farm-animals-black-icons-set-livestock-vector-illustration-vector-id929868932?k=6&m=929868932&s=612x612&w=0&h=ABmJr-rgqJEWpBRXFrFR7uMqJLbPMmfiOMHwChrPZZ8=']
+U+99BF
+14
+lǘ
+187.4
+馿.mp3
+
+駀
+['NONE']
+['NINGUNA']
+[]
+U+99C0
+14
+yóu
+187.4
+駀.mp3
+
+駁
+['varicolored, variegated', ' mixed', ' contradict, argue', ' suddenly']
+['multicolor, abigarrado', 'mezclado', 'contradecir, discutir', 'repentinamente']
+['https://media.gettyimages.com/photos/red-paper-background-picture-id483533237?k=6&m=483533237&s=612x612&w=0&h=evn4wha-JcVklmQnKtJ2y_kEQAS7lGxLEuMMIt_tWNI=', 'https://media.gettyimages.com/photos/were-all-qualified-picture-id1132766113?k=6&m=1132766113&s=612x612&w=0&h=S3sOUxbc633IsiI9IsOhY2btAGSLfbhduNLdr_VQRSg=', 'https://media.gettyimages.com/vectors/dialogue-vector-id537364722?k=6&m=537364722&s=612x612&w=0&h=WSDizlyO_n7zLqOxSdK8wptufUkIu4mwbHR8Jk0nnN4=', 'https://media.gettyimages.com/vectors/merry-christmas-boxing-day-businessman-being-hit-by-a-big-boxing-vector-id882029946?k=6&m=882029946&s=612x612&w=0&h=x1gbLzp69nOZpBLlovvA4gyP6d_I9tUSDfX4N3XlHpg=']
+U+99C1
+14
+bó
+187.4
+駁.mp3
+
+駂
+['NONE']
+['NINGUNA']
+[]
+U+99C2
+14
+bǎo
+187.4
+駂.mp3
+
+駃
+['gallop']
+['galope']
+['https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=']
+U+99C3
+14
+jué
+187.4
+駃.mp3
+
+駄
+['a horse load', ' a pack-horse']
+['una carga de caballos', 'un caballo de carga']
+['https://media.gettyimages.com/photos/horse-transport-norway-picture-id157182475?k=6&m=157182475&s=612x612&w=0&h=iNGsofIgWXsUCOuxT0KEywMi_Fg25BMQ-jZPDZkAV1s=', 'https://media.gettyimages.com/photos/packhorse-bridge-wasdale-lake-district-picture-id857138288?k=6&m=857138288&s=612x612&w=0&h=0kETKuIl2ZPZy2i2bbaJ29OcaSMHLF5tl_x-CLSXwFg=']
+U+99C4
+14
+tuó
+187.4
+駄.mp3
+
+駅
+['relay station']
+['estación repetidora']
+['https://media.gettyimages.com/photos/telecommunications-tower-with-antennas-on-blue-sky-with-cloud-picture-id1264957343?k=6&m=1264957343&s=612x612&w=0&h=GpJBsxV-M84GFxd0Tde06maoowtCyfHrjxb6vTlEX7k=']
+U+99C5
+14
+yì
+187.4
+駅.mp3
+
+駆
+['spur a horse on', ' expel, drive away']
+['estimular a un caballo', 'expulsar, alejar']
+['https://media.gettyimages.com/vectors/western-cowboy-and-horse-riding-elements-vector-id517994305?k=6&m=517994305&s=612x612&w=0&h=r2wH0Dj9Sc8T5lwzPepJp_zeig5L5bedhy2l7H9Xi_k=', 'https://media.gettyimages.com/photos/no-entry-signs-on-street-picture-id1139020064?k=6&m=1139020064&s=612x612&w=0&h=eWdlzBr274dvR2IFoznGzI4fGG122HOwvjjf1J2Nx-k=']
+U+99C6
+14
+qū
+187.4
+駆.mp3
+
+駇
+['NONE']
+['NINGUNA']
+[]
+U+99C7
+14
+wén
+187.4
+駇.mp3
+
+駈
+['spur a horse on', ' expel, drive away']
+['estimular a un caballo', 'expulsar, alejar']
+['https://media.gettyimages.com/vectors/western-cowboy-and-horse-riding-elements-vector-id517994305?k=6&m=517994305&s=612x612&w=0&h=r2wH0Dj9Sc8T5lwzPepJp_zeig5L5bedhy2l7H9Xi_k=', 'https://media.gettyimages.com/photos/no-entry-signs-on-street-picture-id1139020064?k=6&m=1139020064&s=612x612&w=0&h=eWdlzBr274dvR2IFoznGzI4fGG122HOwvjjf1J2Nx-k=']
+U+99C8
+15
+qū
+187.5
+駈.mp3
+
+駉
+['big']
+['grande']
+['https://media.gettyimages.com/photos/large-open-space-office-picture-id512979254?k=6&m=512979254&s=612x612&w=0&h=v9VqYJ03HBE3HZgqOBoSoNe9_7tizU8s8ufz2A8tKn8=']
+U+99C9
+15
+jiōng
+187.5
+駉.mp3
+
+駊
+['NONE']
+['NINGUNA']
+[]
+U+99CA
+15
+pǒ
+187.5
+駊.mp3
+
+駋
+['NONE']
+['NINGUNA']
+[]
+U+99CB
+15
+zhāo
+187.5
+駋.mp3
+
+駌
+['NONE']
+['NINGUNA']
+[]
+U+99CC
+15
+yuān
+187.5
+駌.mp3
+
+駍
+['NONE']
+['NINGUNA']
+[]
+U+99CD
+15
+péi
+187.5
+駍.mp3
+
+駎
+['NONE']
+['NINGUNA']
+[]
+U+99CE
+15
+zhòu
+187.5
+駎.mp3
+
+駏
+['offspring of a stallion and a she-mule']
+['descendencia de un semental y una mula']
+['NONE']
+U+99CF
+14
+jù
+187.5
+駏.mp3
+
+駐
+['to be stationed at, reside at', ' to stop']
+['estar estacionado en, residir en', 'para detener']
+['NONE', 'https://media.gettyimages.com/vectors/stop-sign-icon-with-shadow-vector-vector-id875885046?k=6&m=875885046&s=612x612&w=0&h=YKcz_yfcraXc7ofrPCgfmVhXWOyWX2fLjSCwPEK_IcY=']
+U+99D0
+15
+zhù
+187.5
+駐.mp3
+
+駑
+['tired, old horse', ' old, weak']
+['caballo viejo y cansado', 'viejo, débil']
+['https://media.gettyimages.com/illustrations/toreros-arriving-on-horses-illustration-id838895414?k=6&m=838895414&s=612x612&w=0&h=7oIV0MMpu3eVYAARrQmFz2yc5GQNr7_xVdjGPG-2HgA=', 'https://media.gettyimages.com/photos/getting-older-can-bring-senior-health-challenges-picture-id669938158?k=6&m=669938158&s=612x612&w=0&h=4srd9APRQqsE4JZRRfq_Rly1mAwfjTKBimXDOcctQZQ=']
+U+99D1
+15
+nú
+187.5
+駑.mp3
+
+駒
+['colt', ' fleet, swift', ' sun', ' surname']
+['potro', 'flota, veloz', 'Dom', 'apellido']
+['https://media.gettyimages.com/photos/playful-foal-picture-id828105844?k=6&m=828105844&s=612x612&w=0&h=mdxRfboBYSXqKTcL7Yw7G_7BR4z96kl0b4YAi-nARoo=', 'https://media.gettyimages.com/photos/truck-on-the-road-on-the-route-66-picture-id867136844?k=6&m=867136844&s=612x612&w=0&h=4Ae2GTdeheiJfge3tD7SSMDDrG6-ESXa87v39AxyYac=', 'https://media.gettyimages.com/vectors/sun-vector-id1155592543?k=6&m=1155592543&s=612x612&w=0&h=pYIGO_61H_tRsOOVDZ-mR1veZKEf-btLliWipnUrA5U=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+99D2
+15
+jū
+187.5
+駒.mp3
+
+駓
+['gallop']
+['galope']
+['https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=']
+U+99D3
+15
+pī
+187.5
+駓.mp3
+
+駔
+['excellent horse, noble steed']
+['excelente caballo, noble corcel']
+['https://media.gettyimages.com/photos/show-jumping-picture-id165831283?k=6&m=165831283&s=612x612&w=0&h=AtwOCHS9l9sxsJzERSE7nvqZ6zUGuMKEpZZ1VCZhpaA=']
+U+99D4
+15
+zǎng
+187.5
+駔.mp3
+
+駕
+['to drive, sail, fly', ' a cart, carriage']
+['conducir, navegar, volar', 'un carro, carro']
+['https://media.gettyimages.com/vectors/transportation-line-icons-editable-stroke-pixel-perfect-for-mobile-vector-id1158834508?k=6&m=1158834508&s=612x612&w=0&h=-uIRO3TYOb4muwlQz5dQ4O3inO2WSm4azu87gXFgrOw=', 'https://media.gettyimages.com/photos/horse-carriage-at-santaquin-valley-of-salt-lake-city-slc-utah-usa-picture-id988537142?k=6&m=988537142&s=612x612&w=0&h=YHzCiVBWd1nJX2TegI_l7jnM5aEAeFA1d9Tz2FS6pIU=']
+U+99D5
+15
+jià
+187.5
+駕.mp3
+
+駖
+['NONE']
+['NINGUNA']
+[]
+U+99D6
+15
+líng
+187.5
+駖.mp3
+
+駗
+['NONE']
+['NINGUNA']
+[]
+U+99D7
+15
+zhěn
+187.5
+駗.mp3
+
+駘
+['an old, tired horse, a jade', ' tired, exhausted']
+['un caballo viejo y cansado, un jade', 'Cansado exhausto']
+['NONE', 'https://media.gettyimages.com/photos/unhappy-girl-in-a-bedroom-picture-id521815364?k=6&m=521815364&s=612x612&w=0&h=wumqpBP6QkYLdfNB5zHSQ9KoOKAmIZq6cDa1sSYZWWI=']
+U+99D8
+15
+tái
+187.5
+駘.mp3
+
+駙
+['extra horse', ' imperial son-in-law']
+['caballo extra', 'yerno imperial']
+['https://media.gettyimages.com/photos/well-dressed-man-picture-id1089635608?k=6&m=1089635608&s=612x612&w=0&h=2zEVT0KHhs04S8H-t594lhLigLJGj_4XGdw4jRGCYVU=', 'https://media.gettyimages.com/photos/portrait-of-large-hispanic-family-picture-id79214808?k=6&m=79214808&s=612x612&w=0&h=Uy37fAFCwCTBK0qReMWZ2_ACarOBtDQnmMViDxGqBbg=']
+U+99D9
+15
+fù
+187.5
+駙.mp3
+
+駚
+['NONE']
+['NINGUNA']
+[]
+U+99DA
+15
+yǎng
+187.5
+駚.mp3
+
+駛
+['sail, drive, pilot', ' fast, quick']
+['navegar, conducir, piloto', 'rapido rapido']
+['https://media.gettyimages.com/photos/senior-man-sailing-picture-id172205368?k=6&m=172205368&s=612x612&w=0&h=EiwNsmJq4Nhe_GasHBMzuVCwBYoSHBu3ac3dn_VUcVU=', 'https://media.gettyimages.com/vectors/fast-time-icons-multi-series-vector-id1060491424?k=6&m=1060491424&s=612x612&w=0&h=Vj5v7yQgfgpuIcs7vRfSuDQqsJv5ER5sEvnFgeaiZK8=']
+U+99DB
+15
+shǐ
+187.5
+駛.mp3
+
+駜
+['strong horse']
+['caballo fuerte']
+['https://media.gettyimages.com/photos/herd-of-wild-horses-running-in-water-picture-id913637468?k=6&m=913637468&s=612x612&w=0&h=8BqVWTislTnm1le4_aoXI1-kaRBFNSJSWbA1Na4zvRw=']
+U+99DC
+15
+bì
+187.5
+駜.mp3
+
+駝
+['a camel', ' humpbacked', ' to carry on the back']
+['un camello', 'jorobada', 'para llevar en la espalda']
+['https://media.gettyimages.com/photos/tourists-on-train-of-camels-in-sahara-led-by-guide-picture-id155157473?k=6&m=155157473&s=612x612&w=0&h=Z-MIulAnbRnwuUh4ZV3tOu2V9dGgl48-d4cy98_OTRc=', 'https://media.gettyimages.com/photos/humpback-whale-portrait-picture-id1082038432?k=6&m=1082038432&s=612x612&w=0&h=ksptbn6n6-28tW-Mn3lqkVUynQCCKlaVz43ke9QysJ8=', 'https://media.gettyimages.com/photos/father-carrying-daughter-on-shoulders-on-beach-path-picture-id116376958?k=6&m=116376958&s=612x612&w=0&h=33mBHzUmjUnl0TMFmMpObFXlR56xpX1L7p_i-QbRN3c=']
+U+99DD
+15
+tuó
+187.5
+駝.mp3
+
+駞
+['camel']
+['camello']
+['https://media.gettyimages.com/photos/tourists-on-train-of-camels-in-sahara-led-by-guide-picture-id155157473?k=6&m=155157473&s=612x612&w=0&h=Z-MIulAnbRnwuUh4ZV3tOu2V9dGgl48-d4cy98_OTRc=']
+U+99DE
+15
+tuó
+187.5
+駞.mp3
+
+駟
+['team of four horses']
+['equipo de cuatro caballos']
+['https://media.gettyimages.com/photos/multiethnic-polo-team-celebrating-with-trophy-on-field-picture-id167449886?k=6&m=167449886&s=612x612&w=0&h=y1MxchkHO9sysLRUJ1qJKbDURak8KPhmf2X5s3npdVA=']
+U+99DF
+15
+sì
+187.5
+駟.mp3
+
+駠
+['NONE']
+['NINGUNA']
+[]
+U+99E0
+15
+liú
+187.5
+駠.mp3
+
+駡
+['accuse, blame, curse, scold']
+['acusar, culpar, maldecir, regañar']
+['NONE']
+U+99E1
+16
+mà
+187.6
+駡.mp3
+
+駢
+['team of horses', ' associate, join']
+['equipo de caballos', 'asociar, unirse']
+['https://media.gettyimages.com/photos/running-of-the-horses-picture-id840496276?k=6&m=840496276&s=612x612&w=0&h=YvbLkfZUNhCgp127ZWvIZbr-_3JITPmCWWNlkcrHLzE=', 'https://media.gettyimages.com/photos/businessman-working-in-a-new-office-picture-id1132121143?k=6&m=1132121143&s=612x612&w=0&h=27x0cZ-knAwxpoPZ1gfUZErisEeCut6vB9z2OCkQA_c=']
+U+99E2
+16
+pián
+187.6
+駢.mp3
+
+駣
+['NONE']
+['NINGUNA']
+[]
+U+99E3
+16
+táo
+187.6
+駣.mp3
+
+駤
+['NONE']
+['NINGUNA']
+[]
+U+99E4
+16
+zhì
+187.6
+駤.mp3
+
+駥
+['NONE']
+['NINGUNA']
+[]
+U+99E5
+16
+róng
+187.6
+駥.mp3
+
+駦
+['to mount, to ascend', ' to move, to turn out']
+['montar, ascender', 'moverse, salir']
+['https://media.gettyimages.com/photos/reaching-the-mountain-peak-picture-id108310740?k=6&m=108310740&s=612x612&w=0&h=6RAjdHVCVvhooK8d1n2N8IpwdLEkJ_e7Gh9Jwx8UrWk=', 'https://media.gettyimages.com/vectors/dotted-arrows-vector-id1133573186?k=6&m=1133573186&s=612x612&w=0&h=e9jgqYuD1YiZzBkH5PKLtIXaaeq5hZWD4UgBShzhRHo=']
+U+99E6
+16
+téng
+187.6
+駦.mp3
+
+駧
+['NONE']
+['NINGUNA']
+[]
+U+99E7
+16
+dòng
+187.6
+駧.mp3
+
+駨
+['NONE']
+['NINGUNA']
+[]
+U+99E8
+16
+xūn
+187.6
+駨.mp3
+
+駩
+['NONE']
+['NINGUNA']
+[]
+U+99E9
+16
+quān
+187.6
+駩.mp3
+
+駪
+['crowd']
+['multitud']
+['https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=']
+U+99EA
+16
+shēn
+187.6
+駪.mp3
+
+駫
+['NONE']
+['NINGUNA']
+[]
+U+99EB
+16
+jiōng
+187.6
+駫.mp3
+
+駬
+['name of a legendary swift horse']
+['nombre de un legendario caballo veloz']
+['NONE']
+U+99EC
+16
+ěr
+187.6
+駬.mp3
+
+駭
+['terrify, frighten, scare', ' shock']
+['aterrorizar, asustar, asustar', 'conmoción']
+['https://media.gettyimages.com/photos/woman-holding-her-hand-in-horror-in-front-of-her-mouth-picture-id130874583?k=6&m=130874583&s=612x612&w=0&h=9jh9u_dE-Zh5rQ5Qehd8LO1rkiwTJzCsElyCFO9b6G0=', 'https://media.gettyimages.com/photos/portrait-of-shocked-woman-outdoors-picture-id1023295616?k=6&m=1023295616&s=612x612&w=0&h=blkFSK30gqhezpGJjs7E4sL5Uhp-Yc2bLBND0_bMHUw=']
+U+99ED
+16
+hài
+187.6
+駭.mp3
+
+駮
+['a kind of fierce animal', ' join', ' argue', ' transfer', ' piebald horse, variegated']
+['una especie de animal feroz', 'unirse', 'discutir', 'transferir', 'caballo pío, abigarrado']
+['https://media.gettyimages.com/photos/herd-of-cows-looking-down-directly-at-the-camera-picture-id1255621256?k=6&m=1255621256&s=612x612&w=0&h=48qV9eNRSmYOOPzTNLn_BirtL02dHmS0-PwOHi84_BM=', 'https://media.gettyimages.com/photos/aerial-view-of-crowd-connected-by-lines-picture-id1180187740?k=6&m=1180187740&s=612x612&w=0&h=5Lx3i03jgG-s1y8RHAaqSgThzrDHghHrqLe2rWo8SfU=', 'https://media.gettyimages.com/photos/you-never-listen-picture-id1162106983?k=6&m=1162106983&s=612x612&w=0&h=x_QM_3wjjG3M2tpPOy-tTfIiEV68CsP596qKZ9_i0Bo=', 'https://media.gettyimages.com/photos/sending-money-picture-id1149123484?k=6&m=1149123484&s=612x612&w=0&h=wpX_ZB_BQTM4qHZzEKr1QB7DKTm65X5RqMKIkWooU_8=', 'https://media.gettyimages.com/photos/traditional-mosaic-of-morocco-picture-id157440488?k=6&m=157440488&s=612x612&w=0&h=hp9ClcPzaTzWj75HN8p3sct9d1SA-XSCf82wqtQoOLo=']
+U+99EE
+16
+bó
+187.6
+駮.mp3
+
+駯
+['NONE']
+['NINGUNA']
+[]
+U+99EF
+16
+zhū
+187.6
+駯.mp3
+
+駰
+['grey horse']
+['caballo gris']
+['https://media.gettyimages.com/photos/running-lipizzaner-horse-at-gray-background-picture-id898377636?k=6&m=898377636&s=612x612&w=0&h=WdlHYysz6doW1tlav7R7Pf_3xc7c698phTbl-MznnL0=']
+U+99F0
+16
+yīn
+187.6
+駰.mp3
+
+駱
+['a white horse with black mane', ' a camel']
+['un caballo blanco con melena negra', 'un camello']
+['https://media.gettyimages.com/photos/white-horse-picture-id181064951?k=6&m=181064951&s=612x612&w=0&h=V4ejgjH9dgJcskm5eFjDp7Ek1Utnv9xMTEkpvY3aGLo=', 'https://media.gettyimages.com/photos/tourists-on-train-of-camels-in-sahara-led-by-guide-picture-id155157473?k=6&m=155157473&s=612x612&w=0&h=Z-MIulAnbRnwuUh4ZV3tOu2V9dGgl48-d4cy98_OTRc=']
+U+99F1
+16
+luò
+187.6
+駱.mp3
+
+駲
+['NONE']
+['NINGUNA']
+[]
+U+99F2
+16
+zhōu
+187.6
+駲.mp3
+
+駳
+['NONE']
+['NINGUNA']
+[]
+U+99F3
+16
+dàn
+187.8
+駳.mp3
+
+駴
+['drum']
+['tambor']
+['https://media.gettyimages.com/photos/silver-chrome-snare-drum-with-sticks-instrument-on-white-background-picture-id186875718?k=6&m=186875718&s=612x612&w=0&h=09veVPeYWXQZjlEUA3EWqFQSvbKaFzWoY-CKaeY8AIM=']
+U+99F4
+17
+hài
+187.7
+駴.mp3
+
+駵
+['NONE']
+['NINGUNA']
+[]
+U+99F5
+17
+liú
+187.7
+駵.mp3
+
+駶
+['NONE']
+['NINGUNA']
+[]
+U+99F6
+17
+jú
+187.7
+駶.mp3
+
+駷
+['NONE']
+['NINGUNA']
+[]
+U+99F7
+17
+sǒng
+187.7
+駷.mp3
+
+駸
+['galloping', ' speeding']
+['Galopando', 'exceso de velocidad']
+['https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=', 'https://media.gettyimages.com/vectors/fast-time-icons-multi-series-vector-id1060491424?k=6&m=1060491424&s=612x612&w=0&h=Vj5v7yQgfgpuIcs7vRfSuDQqsJv5ER5sEvnFgeaiZK8=']
+U+99F8
+17
+qīn
+187.7
+駸.mp3
+
+駹
+['black horse with a white face']
+['caballo negro con cara blanca']
+['https://media.gettyimages.com/photos/proud-arabian-horse-stallion-in-shining-light-picture-id495580214?k=6&m=495580214&s=612x612&w=0&h=pMVjAuanQjt24yP7nrz3uSvIK6sVl4ahkzMNZiFOsY0=']
+U+99F9
+17
+máng
+187.7
+駹.mp3
+
+駺
+['NONE']
+['NINGUNA']
+[]
+U+99FA
+17
+láng
+187.7
+駺.mp3
+
+駻
+['a fierce horse', ' to rage, run wild']
+['a fierce horse', 'enfurecerse, correr salvaje']
+['https://media.gettyimages.com/photos/battle-in-the-wood-picture-id157719031?k=6&m=157719031&s=612x612&w=0&h=piYGH-kD2t7WEukSEGrz_ELCZ4Vaj27E3mur4v-ykcg=', 'https://media.gettyimages.com/photos/wildlife-of-chobe-natiobal-park-picture-id185509882?k=6&m=185509882&s=612x612&w=0&h=ihOvG5ELdjnS1rMJehmYKMMGWSPx6OnLui33yvJSVkA=']
+U+99FB
+17
+hàn
+187.7
+駻.mp3
+
+駼
+['NONE']
+['NINGUNA']
+[]
+U+99FC
+17
+tú
+187.7
+駼.mp3
+
+駽
+['grey']
+['gris']
+['https://media.gettyimages.com/vectors/vector-illustration-of-pale-gray-plain-grungy-gradient-empty-vector-id1068840354?k=6&m=1068840354&s=612x612&w=0&h=2_7Nb44935OwY3ZqhyPcot2h1AslQECBBLjIpX0Q5v0=']
+U+99FD
+17
+xuān
+187.7
+駽.mp3
+
+駾
+['run away']
+['huir']
+['https://media.gettyimages.com/photos/young-sportswoman-running-outdoors-picture-id1043726272?k=6&m=1043726272&s=612x612&w=0&h=aj4APCy_HvrXRQCZsO80ZEIdwa_-XGEw2pPZkX_n-hI=']
+U+99FE
+17
+tuì
+187.7
+駾.mp3
+
+駿
+['excellent horse, noble steed']
+['excelente caballo, noble corcel']
+['https://media.gettyimages.com/photos/show-jumping-picture-id165831283?k=6&m=165831283&s=612x612&w=0&h=AtwOCHS9l9sxsJzERSE7nvqZ6zUGuMKEpZZ1VCZhpaA=']
+U+99FF
+17
+jùn
+187.7
+駿.mp3
+
+騀
+['NONE']
+['NINGUNA']
+[]
+U+9A00
+17
+ě
+187.7
+騀.mp3
+
+騁
+['gallop horse', ' hasten, hurry']
+['caballo al galope', 'apresurarse, apurarse']
+['https://media.gettyimages.com/photos/wild-horses-running-free-picture-id1019461046?k=6&m=1019461046&s=612x612&w=0&h=RN04ILkViwine-g3B9BjtUmGV_mucSiQgv8mKM-F644=', 'https://media.gettyimages.com/vectors/performance-line-icons-editable-stroke-pixel-perfect-for-mobile-and-vector-id1179804744?k=6&m=1179804744&s=612x612&w=0&h=jFOtv6gif2zAYQFhbCj88Mm4ZgF_zTld4Ys13onWY5I=']
+U+9A01
+17
+chěng
+187.7
+騁.mp3
+
+騂
+['red, brown, bay', ' neat, harmonious']
+['rojo, marrón, bahía', 'ordenado, armonioso']
+['https://media.gettyimages.com/photos/the-early-morning-light-gently-envelops-shark-island-and-the-picture-id1061699146?k=6&m=1061699146&s=612x612&w=0&h=PoVn9jUGhD0yRZ_JfqpboYN9BVvplEbEKbCAOUaeCe4=', 'https://media.gettyimages.com/photos/view-of-living-room-in-home-picture-id1216680430?k=6&m=1216680430&s=612x612&w=0&h=GZHSuQzWwhS3Ksa5jxFphXL7cWIdrmqRCvQ9qUYxI_4=']
+U+9A02
+17
+xīng
+187.7
+騂.mp3
+
+騃
+['stupid', ' foolish']
+['estúpido', 'tonto']
+['https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=', 'https://media.gettyimages.com/photos/complacency-picture-id183273959?k=6&m=183273959&s=612x612&w=0&h=uB2XqPegdmbmbL--nbuJaqz8vUrO0wEcW7htz2MfoNo=']
+U+9A03
+17
+ái
+187.7
+騃.mp3
+
+騄
+['name of a legendary swift horse']
+['nombre de un legendario caballo veloz']
+['NONE']
+U+9A04
+18
+lù
+187.8
+騄.mp3
+
+騅
+['piebald horse']
+['caballo pío']
+['https://media.gettyimages.com/photos/rusty-cow-patterned-background-with-rusty-cowbell-picture-id1058363660?k=6&m=1058363660&s=612x612&w=0&h=yir5ls1Rm5NrGCWZV3Wzp6M3LgJzlaS6v1GjGoC1KzM=']
+U+9A05
+18
+zhuī
+187.8
+騅.mp3
+
+騆
+['NONE']
+['NINGUNA']
+[]
+U+9A06
+18
+zhōu
+187.8
+騆.mp3
+
+騇
+['NONE']
+['NINGUNA']
+[]
+U+9A07
+18
+shè
+187.8
+騇.mp3
+
+騈
+['team of horses', ' associate']
+['equipo de caballos', 'asociar']
+['https://media.gettyimages.com/photos/running-of-the-horses-picture-id840496276?k=6&m=840496276&s=612x612&w=0&h=YvbLkfZUNhCgp127ZWvIZbr-_3JITPmCWWNlkcrHLzE=', 'https://media.gettyimages.com/photos/business-people-working-in-the-office-picture-id1085389362?k=6&m=1085389362&s=612x612&w=0&h=Bnzvk6HStsJ22Vi58PBFV5xlJUD3Wa9MB-C7Jwkt61U=']
+U+9A08
+18
+pián
+187.8
+騈.mp3
+
+騉
+['fine horse']
+['buen caballo']
+['https://media.gettyimages.com/photos/portrait-of-a-white-dappled-horse-picture-id1184876012?k=6&m=1184876012&s=612x612&w=0&h=jt_Q5HXRZgVbnhi6MwzDKi7lrko2Z3oL_ElHUuotiIE=']
+U+9A09
+18
+kūn
+187.8
+騉.mp3
+
+騊
+['NONE']
+['NINGUNA']
+[]
+U+9A0A
+18
+táo
+187.8
+騊.mp3
+
+騋
+['tall (7 chi) horse']
+['caballo alto (7 chi)']
+['NONE']
+U+9A0B
+18
+lái
+187.8
+騋.mp3
+
+騌
+["a horse's mane", ' bristles']
+["a horse's mane", 'cerdas']
+['https://media.gettyimages.com/photos/close-up-of-iceland-ponys-chestnut-ginger-mane-picture-id1151340304?k=6&m=1151340304&s=612x612&w=0&h=LP84lBlFQDDq2U1GQcCZ1qEo3igL9aAUp9aXjwlfp10=', 'https://media.gettyimages.com/vectors/feather-pen-vector-id483348985?k=6&m=483348985&s=612x612&w=0&h=e3NPNv0sm2XD27HaDhpX8iwm2u4PCzd0h4EhK_zGwcw=']
+U+9A0C
+18
+zōng
+187.8
+騌.mp3
+
+騍
+['mother horse']
+['madre caballo']
+['https://media.gettyimages.com/photos/lone-cowboy-picture-id859475782?k=6&m=859475782&s=612x612&w=0&h=DAwZCmlCsQ-qIBCmcZkoi_Ae1VX5VDev8KW0m81ygFU=']
+U+9A0D
+18
+kè
+187.8
+騍.mp3
+
+騎
+['ride horseback', ' mount', ' cavalry']
+['montar a caballo', 'montar', 'caballería']
+['https://media.gettyimages.com/photos/teenage-girl-riding-horse-in-field-picture-id143690068?k=6&m=143690068&s=612x612&w=0&h=N_54Xo0M0P7iaXewF_Jh6vfKgEv6AnyPMWBSNVkM6ac=', 'https://media.gettyimages.com/photos/hiking-in-the-mountains-picture-id1053472118?k=6&m=1053472118&s=612x612&w=0&h=PnjdfGVk8wl1n6Oj8qli0muy-1567lU3Du091gEjyyQ=', 'https://media.gettyimages.com/vectors/civil-war-silhouettes-vector-id165819215?k=6&m=165819215&s=612x612&w=0&h=rh9QDU6Pr5zsSryqRkpM6M6t_roCkXo_lTGtnHxRJ-0=']
+U+9A0E
+18
+qí
+187.8
+騎.mp3
+
+騏
+['piebald horse', ' excellent horse']
+['caballo pío', 'excelente caballo']
+['https://media.gettyimages.com/photos/rusty-cow-patterned-background-with-rusty-cowbell-picture-id1058363660?k=6&m=1058363660&s=612x612&w=0&h=yir5ls1Rm5NrGCWZV3Wzp6M3LgJzlaS6v1GjGoC1KzM=', 'https://media.gettyimages.com/photos/male-gymnast-doing-handstand-on-pommel-horse-picture-id532416167?k=6&m=532416167&s=612x612&w=0&h=5_p_x2Jc9hrNXUgs9yA5y30HWpqnPTyjS5A18hDGbnE=']
+U+9A0F
+18
+qí
+187.8
+騏.mp3
+
+騐
+['to verity, to fulfil', ' to examine, to hold an inquest']
+['a la verdad, cumplir', 'examinar, llevar a cabo una investigación']
+['https://media.gettyimages.com/vectors/big-hand-showing-a-tick-sign-to-a-businessman-vector-id940299074?k=6&m=940299074&s=612x612&w=0&h=I2sqSrqrIoAEnRx96lVCfa13_iIBKhPzdXHOGd23hUo=', 'https://media.gettyimages.com/illustrations/scientist-standing-on-a-satellite-and-analysis-solar-system-illustration-id170883595?k=6&m=170883595&s=612x612&w=0&h=yubGw1nKWfYC5JsBzeRB5tBOAdi1ZCq0KUd6vXcnmfo=']
+U+9A10
+18
+yàn
+187.8
+騐.mp3
+
+騑
+['horse', ' run']
+['caballo', 'correr']
+['https://media.gettyimages.com/photos/wild-horses-running-free-picture-id1019461046?k=6&m=1019461046&s=612x612&w=0&h=RN04ILkViwine-g3B9BjtUmGV_mucSiQgv8mKM-F644=', 'https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=']
+U+9A11
+18
+fēi
+187.8
+騑.mp3
+
+騒
+['harass, bother, annoy, disturb']
+['acosar, molestar, molestar, molestar']
+['https://media.gettyimages.com/photos/stressed-woman-using-cell-phone-picture-id649660615?k=6&m=649660615&s=612x612&w=0&h=U3LfLaBuqCuiJtvRw9iSKeML9-A_j2X_zEuYLh78twY=']
+U+9A12
+18
+sāo
+187.8
+騒.mp3
+
+験
+['test, examine, inspect', ' verify']
+['probar, examinar, inspeccionar', 'verificar']
+['https://media.gettyimages.com/vectors/quality-control-icons-vector-id967297008?k=6&m=967297008&s=612x612&w=0&h=0cdypXhVTro4fRN2nY4y0wONlv2UIIN2vU74hMe8-Ws=', 'https://media.gettyimages.com/photos/woman-gives-your-drivers-license-for-verification-picture-id157638172?k=6&m=157638172&s=612x612&w=0&h=4NNTjvHAj27hMcYkRBirADPaCfrL6Uj2A2hLHSqeZrY=']
+U+9A13
+18
+yàn
+187.8
+験.mp3
+
+騔
+['NONE']
+['NINGUNA']
+[]
+U+9A14
+19
+gé
+187.9
+騔.mp3
+
+騕
+['name of a fabulous horse']
+['nombre de un caballo fabuloso']
+['https://media.gettyimages.com/illustrations/illustrative-image-of-woman-with-boot-and-ring-representing-sign-illustration-id494331015?k=6&m=494331015&s=612x612&w=0&h=nCwF5OkiZuWkofOeN3jaue-7HbXG1t8qreM9vDv1A7k=']
+U+9A15
+19
+yǎo
+187.9
+騕.mp3
+
+騖
+['gallop', ' rush about', ' pursue, run']
+['galope', 'apresurarse', 'perseguir, correr']
+['https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=', 'https://media.gettyimages.com/vectors/fast-time-icons-multi-series-vector-id1060491424?k=6&m=1060491424&s=612x612&w=0&h=Vj5v7yQgfgpuIcs7vRfSuDQqsJv5ER5sEvnFgeaiZK8=', 'https://media.gettyimages.com/photos/two-businessmen-running-against-wind-picture-id200398412-001?k=6&m=200398412-001&s=612x612&w=0&h=_v741qY_APjSlLZfPz_xt3cQlWG18qX6qRMtnB96tx0=']
+U+9A16
+19
+wù
+187.9
+騖.mp3
+
+騗
+['to swindle', ' to cheat']
+['estafar', 'hacer trampa']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=', 'https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=']
+U+9A17
+19
+piàn
+187.9
+騗.mp3
+
+騘
+['a piebald horse']
+['un caballo pío']
+['https://media.gettyimages.com/photos/rusty-cow-patterned-background-with-rusty-cowbell-picture-id1058363660?k=6&m=1058363660&s=612x612&w=0&h=yir5ls1Rm5NrGCWZV3Wzp6M3LgJzlaS6v1GjGoC1KzM=']
+U+9A18
+19
+cōng
+187.9
+騘.mp3
+

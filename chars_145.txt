@@ -1,0 +1,2560 @@
+贙
+['NONE']
+['NINGUNA']
+[]
+U+8D19
+23
+xuàn
+154.16
+贙.mp3
+
+贚
+['NONE']
+['NINGUNA']
+[]
+U+8D1A
+23
+lòng
+154.16
+贚.mp3
+
+贛
+['Jiangxi province', ' places therein']
+['Provincia del departamento de Jiang', 'lugares allí']
+['https://media.gettyimages.com/vectors/china-map-with-flag-vector-id464797296?k=6&m=464797296&s=612x612&w=0&h=qq0TnJhJfxa_mNfodwwZl0cN-6bKQk7DmrruiwKsaWo=', 'NONE']
+U+8D1B
+24
+gàn
+154.17
+贛.mp3
+
+贜
+['booty, loot, stolen goods', ' bribe']
+['botín, botín, bienes robados', 'soborno']
+['https://media.gettyimages.com/illustrations/money-pile-illustration-id165039363?k=6&m=165039363&s=612x612&w=0&h=stDbbkROGCL5U0wfDnZ-SY3Gx1EYnQHK-wsvqcJWWaU=', 'https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=']
+U+8D1C
+24
+zāng
+154.18
+贜.mp3
+
+贝
+['sea shell', ' money, currency']
+['concha de mar', 'dinero, moneda']
+['https://media.gettyimages.com/vectors/sea-life-and-ocean-animals-vector-icons-vector-id536675638?k=6&m=536675638&s=612x612&w=0&h=WypbkFk-13BaMWrkOpuFxKd8O7kNYGGrAss3wi0KHrU=', 'https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=']
+U+8D1D
+4
+bèi
+154'.0
+贝.mp3
+
+贞
+['virtuous, chaste, pure', ' loyal']
+['virtuoso, casto, puro', 'leal']
+['https://media.gettyimages.com/photos/pure-written-in-the-snow-picture-id80700582?k=6&m=80700582&s=612x612&w=0&h=7yVXvvwInA_hmFov-CICj6y2N0FuZWLZXYXGuVoCQDg=', 'https://media.gettyimages.com/photos/were-here-to-always-motivate-each-other-picture-id914776002?k=6&m=914776002&s=612x612&w=0&h=7ruv2jha2fIbB1MZZ54FRO9u-CtYRd2dtSOWhiTA0Vc=']
+U+8D1E
+6
+zhēn
+154'.2
+贞.mp3
+
+负
+['load, burden', ' carry, bear']
+['carga, carga', 'llevar, oso']
+['https://media.gettyimages.com/photos/man-pushing-packages-into-open-boot-of-car-picture-id200540879-001?k=6&m=200540879-001&s=612x612&w=0&h=77dN3VF-WMGU77G2ZcRncuBuCNouBEA6NHRXyYW8OmY=', 'https://media.gettyimages.com/photos/the-bigger-the-bear-the-bigger-the-cuddles-picture-id640300044?k=6&m=640300044&s=612x612&w=0&h=sHnhq3RPt5sLJntPVfg8VHX6DVcO2VzKXYDEN1bry4E=']
+U+8D1F
+6
+fù
+154'.2
+负.mp3
+
+贠
+['member', ' personnel, staff member']
+['miembro', 'personal, miembro del personal']
+['https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=', 'https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=']
+U+8D20
+6
+yuán
+154'.2
+贠.mp3
+
+贡
+['offer tribute', ' tribute, gifts']
+['ofrecer tributo', 'homenaje, regalos']
+['https://media.gettyimages.com/photos/chrysanthemum-flower-picture-id1150676434?k=6&m=1150676434&s=612x612&w=0&h=M84nvP28eRy6b2R2f9jFjWfCPXNcPuFONB65Vo18t4c=', 'https://media.gettyimages.com/vectors/birthday-party-icons-simple-black-series-vector-id481712221?k=6&m=481712221&s=612x612&w=0&h=AL1xY9-ftO1HakrE6u2UyChbapgrwqTGjTl7lej-IsI=']
+U+8D21
+7
+gòng
+154'.3
+贡.mp3
+
+财
+['wealth, valuables, riches']
+['riqueza, objetos de valor, riquezas']
+['https://media.gettyimages.com/photos/executive-drive-picture-id941089636?k=6&m=941089636&s=612x612&w=0&h=RKKfeaNvJ-5PhGljeNZIWIoi0PkxQWRjMOOFOdpVYbg=']
+U+8D22
+7
+cái
+154'.3
+财.mp3
+
+责
+["one's responsibility, duty"]
+['responsabilidad de uno, deber']
+['https://media.gettyimages.com/photos/mother-wearing-a-homemade-protective-mask-and-putting-one-to-her-picture-id1215373437?k=6&m=1215373437&s=612x612&w=0&h=2q0VA5rF0uciEVB0nfE7KHrLUwQyZceK1JJrPUn9nZw=']
+U+8D23
+8
+zé
+154'.4
+责.mp3
+
+贤
+['virtuous, worthy, good', ' able']
+['virtuoso, digno, bueno', 'poder']
+['https://media.gettyimages.com/photos/business-boy-with-jet-pack-in-california-picture-id904944566?k=6&m=904944566&s=612x612&w=0&h=-G-MMbjoTPxoAZ7VLY_wo_DCW3FeSd7FZ_VCv86oBIo=', 'https://media.gettyimages.com/vectors/performance-line-icons-editable-stroke-pixel-perfect-for-mobile-and-vector-id1179804744?k=6&m=1179804744&s=612x612&w=0&h=jFOtv6gif2zAYQFhbCj88Mm4ZgF_zTld4Ys13onWY5I=']
+U+8D24
+8
+xián
+154'.4
+贤.mp3
+
+败
+['be defeated, decline, fail']
+['ser derrotado, declinar, fallar']
+['https://media.gettyimages.com/vectors/check-mark-icon-set-vector-id541604050?k=6&m=541604050&s=612x612&w=0&h=NQ0wZl_tCttdKJdwi24bZYq4p7EW-lxwx_66CLcr4C4=']
+U+8D25
+8
+bài
+154'.4
+败.mp3
+
+账
+['accounts', ' bill, debt', ' credit']
+['cuentas', 'factura, deuda', 'crédito']
+['https://media.gettyimages.com/vectors/return-on-investment-icons-line-series-vector-id1056787734?k=6&m=1056787734&s=612x612&w=0&h=NWFg3x67Z4AbQiK7PH62-xNTwxmH0Gh96fDos98RcgM=', 'https://media.gettyimages.com/photos/woman-going-through-bills-looking-worried-picture-id1013076770?k=6&m=1013076770&s=612x612&w=0&h=sAURWoVG_CcLEtZZ_LlFVg2W1SAWde_3WMK_svTQ_RA=', 'https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=']
+U+8D26
+8
+zhàng
+154'.4
+账.mp3
+
+货
+['goods, commodities, products']
+['bienes, materias primas, productos']
+['https://media.gettyimages.com/photos/businessman-checking-inventory-in-a-digital-tablet-at-a-supermarket-picture-id999084240?k=6&m=999084240&s=612x612&w=0&h=qpXTsB7r22GgXwuIFZkQdEqPIEu2rDL1L3w6qWPpVNE=']
+U+8D27
+8
+huò
+154'.4
+货.mp3
+
+质
+['matter, material, substance']
+['materia, material, sustancia']
+['https://media.gettyimages.com/vectors/hazard-pictograms-vector-id519687598?k=6&m=519687598&s=612x612&w=0&h=H2xX8vKezYqlx876gEQ3ssDj1Tx5ScnYuPVuts8G5EE=']
+U+8D28
+8
+zhì
+154'.4
+质.mp3
+
+贩
+['peddler, hawker, street merchant']
+['vendedor ambulante, vendedor ambulante, comerciante callejero']
+['https://media.gettyimages.com/photos/hawker-preparing-thai-style-stewed-pork-leg-meal-on-street-picture-id1180345623?k=6&m=1180345623&s=612x612&w=0&h=-dDFCk1m2PPI0sKRN6OWB9z1V262lLUEV6kdhagmG1o=']
+U+8D29
+8
+fàn
+154'.4
+贩.mp3
+
+贪
+['be greedy, covet', ' covetous']
+['ser codicioso, codiciar', 'codicioso']
+['NONE', 'https://media.gettyimages.com/illustrations/illustrative-image-of-hypnotized-businessmans-eyes-with-dollar-sings-illustration-id494330397?k=6&m=494330397&s=612x612&w=0&h=bbyQPPsixh9tcTl5fPvTUX_xp1Tmi9h0RamjHOuoKDQ=']
+U+8D2A
+8
+tān
+154'.4
+贪.mp3
+
+贫
+['poor, impoverished, needy']
+['pobre, empobrecido, necesitado']
+['https://media.gettyimages.com/photos/outstretched-hand-of-pathetic-beggar-picture-id990872364?k=6&m=990872364&s=612x612&w=0&h=BAoUbnm-3IPevuvq6Tq_30KaChmXLL3NAjmo6Ms87Mo=']
+U+8D2B
+8
+pín
+154'.4
+贫.mp3
+
+贬
+['decrease, lower', ' censure, criticize']
+['disminuir, bajar', 'censurar, criticar']
+['https://media.gettyimages.com/vectors/lowered-production-costs-line-icon-outline-vector-symbol-illustration-vector-id1191683915?k=6&m=1191683915&s=612x612&w=0&h=qNfSnmZwvTzZc_A4iFdCcBOOjXEjx6TTe7M5tTz4ci4=', 'https://media.gettyimages.com/photos/rabbis-protest-the-airstrikes-of-israel-to-gaza-and-hold-palestine-picture-id452213620?k=6&m=452213620&s=612x612&w=0&h=5FhYXeQ7p7qEPikOcyTnYof1Ykgi5NS7WueEXdXTRfA=']
+U+8D2C
+8
+biǎn
+154'.4
+贬.mp3
+
+购
+['buy, purchase', ' hire']
+['comprar, comprar', 'alquiler']
+['https://media.gettyimages.com/photos/online-shopping-picture-id1076224762?k=6&m=1076224762&s=612x612&w=0&h=Lpdj4daojfD8-z6LNlvk8O026ZFBzLqW-ou1LYPs5pE=', 'https://media.gettyimages.com/photos/sign-for-your-house-picture-id989488088?k=6&m=989488088&s=612x612&w=0&h=SuxbNd1wXvN2UpmX-8-iDqCYTF0iz41JJMlou-lNJSc=']
+U+8D2D
+8
+gòu
+154'.4
+购.mp3
+
+贮
+['store, stockpile, hoard']
+['almacenar, arsenal, atesorar']
+['https://media.gettyimages.com/photos/buyer-wearing-a-protective-maskshopping-during-the-pandemic-smart-picture-id1215040530?k=6&m=1215040530&s=612x612&w=0&h=1T5Rn1pNaphb61EVwVW_5Z20edXU2oJ0HsPPyzmDPv0=']
+U+8D2E
+8
+zhù
+154'.4
+贮.mp3
+
+贯
+['a string of 1000 coins', ' to go through']
+['una cadena de 1000 monedas', 'pasar por']
+['NONE', 'https://media.gettyimages.com/photos/close-up-of-woman-receiving-take-away-food-delivery-picture-id1149029916?k=6&m=1149029916&s=612x612&w=0&h=hrICsLi5tMleABEVZWVYvHRWUfUJA7UW6br0BIk_pcU=']
+U+8D2F
+8
+guàn
+154'.4
+贯.mp3
+
+贰
+['number two']
+['número dos']
+['https://media.gettyimages.com/photos/one-two-three-counting-with-fingers-picture-id183584119?k=6&m=183584119&s=612x612&w=0&h=5gWKtOHp2S14gY3mJBsUcn9nqMzo0gK83t4PW5NrR38=']
+U+8D30
+9
+èr
+154'.5
+贰.mp3
+
+贱
+['mean, low', ' cheap, worthless']
+['malo, bajo', 'barato, sin valor']
+['https://media.gettyimages.com/photos/low-section-of-woman-sitting-on-toilet-bowl-in-bathroom-picture-id1094602592?k=6&m=1094602592&s=612x612&w=0&h=_paPoVStbSn-ZQVsCrmUd4nRHXWsYne8MrRciAwYKMs=', 'https://media.gettyimages.com/photos/africa-north-africa-sahara-desert-tchad-lake-chad-area-view-of-man-picture-id607779398?k=6&m=607779398&s=612x612&w=0&h=CAtvtRSk6gm-MGV5EOKgf91jR1uCMqO2fZrlpduImk4=']
+U+8D31
+9
+jiàn
+154'.5
+贱.mp3
+
+贲
+['forge ahead', ' energetic', ' surname']
+['seguir adelante', 'enérgico', 'apellido']
+['https://media.gettyimages.com/photos/business-man-in-suit-with-cityscape-montage-picture-id488536442?k=6&m=488536442&s=612x612&w=0&h=vPogiUrS58a8s4sOYhC5zVqZ7ZYdcuJqvH5ce-pMgZY=', 'https://media.gettyimages.com/photos/enjoying-the-fresh-sea-air-picture-id468906855?k=6&m=468906855&s=612x612&w=0&h=dXLefVTpDhCoO7LMiNYKnl-k30swAywVO-iMqoc5wsk=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+8D32
+9
+bēn
+154'.5
+贲.mp3
+
+贳
+['borrow', ' pardon', ' loan']
+['pedir prestado', 'perdón', 'préstamo']
+['https://media.gettyimages.com/vectors/lending-and-borrowing-thin-line-icons-editable-stroke-vector-id1172811327?k=6&m=1172811327&s=612x612&w=0&h=rl8ynuAg78Qpcn7FKot6RRMxwxZxDs1kDO9ZcBOaBQY=', 'https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=', 'https://media.gettyimages.com/photos/happy-couple-shaking-hands-with-real-estate-agent-in-the-office-picture-id1093900326?k=6&m=1093900326&s=612x612&w=0&h=inL2djEfIUnK0IDvmi-xI9nuKHpirZ5PUee-I1Io4cI=']
+U+8D33
+9
+shì
+154'.5
+贳.mp3
+
+贴
+['paste to, stick on', ' attached to']
+['pegar, pegar', 'adjunto a']
+['https://media.gettyimages.com/photos/droplet-of-glue-picture-id157182268?k=6&m=157182268&s=612x612&w=0&h=aKDOGMjp9U85NCWmDO3Stat3_-F4-YNdfU2N7aXyEys=', 'https://media.gettyimages.com/photos/in-love-with-the-landscape-picture-id892010070?k=6&m=892010070&s=612x612&w=0&h=LE0vwwLhyLGUpQiP0OYXIYNtNWS5Ezna07YYyQ3WPe0=']
+U+8D34
+9
+tiē
+154'.5
+贴.mp3
+
+贵
+['expensive, costly, valuable']
+['caro, costoso, valioso']
+['https://media.gettyimages.com/vectors/finance-line-icons-vector-id1153718966?k=6&m=1153718966&s=612x612&w=0&h=A-cPGcA-YSUZOvxJ3dqJNOsSAQP-Ml722PU8km1NUVk=']
+U+8D35
+9
+guì
+154'.5
+贵.mp3
+
+贶
+['give, grant, bestow', ' surname']
+['dar, conceder, conceder', 'apellido']
+['NONE', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+8D36
+9
+kuàng
+154'.5
+贶.mp3
+
+贷
+['lend', ' borrow', ' pardon']
+['prestar', 'pedir prestado', 'perdón']
+['https://media.gettyimages.com/photos/happy-couple-shaking-hands-with-real-estate-agent-in-the-office-picture-id1093900326?k=6&m=1093900326&s=612x612&w=0&h=inL2djEfIUnK0IDvmi-xI9nuKHpirZ5PUee-I1Io4cI=', 'https://media.gettyimages.com/vectors/lending-and-borrowing-thin-line-icons-editable-stroke-vector-id1172811327?k=6&m=1172811327&s=612x612&w=0&h=rl8ynuAg78Qpcn7FKot6RRMxwxZxDs1kDO9ZcBOaBQY=', 'https://media.gettyimages.com/photos/be-of-those-who-lend-a-hand-where-they-can-picture-id894377512?k=6&m=894377512&s=612x612&w=0&h=iHhtSDZzE4lXlC4fTTCCwJTf-XMFniD4A_BBpe7vZnk=']
+U+8D37
+9
+dài
+154'.5
+贷.mp3
+
+贸
+['trade, barter', ' mixed', ' rashly']
+['comercio, trueque', 'mezclado', 'precipitadamente']
+['https://media.gettyimages.com/vectors/collaboration-icon-set-vector-id1096472840?k=6&m=1096472840&s=612x612&w=0&h=wlBqTSNTLq4CF2camuWIdeOCar-LjvPb3c-pjATFM18=', 'https://media.gettyimages.com/photos/were-all-qualified-picture-id1132766113?k=6&m=1132766113&s=612x612&w=0&h=S3sOUxbc633IsiI9IsOhY2btAGSLfbhduNLdr_VQRSg=', 'NONE']
+U+8D38
+9
+mào
+154'.5
+贸.mp3
+
+费
+['expenses, expenditures, fee']
+['gastos, gastos, honorarios']
+['NONE']
+U+8D39
+9
+fèi
+154'.5
+费.mp3
+
+贺
+['congratulate', ' send present']
+['felicitar', 'Enviar presente']
+['https://media.gettyimages.com/vectors/congrats-vector-id1148034164?k=6&m=1148034164&s=612x612&w=0&h=D-rtrtfMBKuuf7muNZj1mP4OA1KmtbajyNPnWKIMPuY=', 'https://media.gettyimages.com/photos/box-open-isolated-over-a-white-background-picture-id160948900?k=6&m=160948900&s=612x612&w=0&h=kIxNoAe45ZyOaauVfzMfumDN6dwffxT6AJPz7av5NWY=']
+U+8D3A
+9
+hè
+154'.5
+贺.mp3
+
+贻
+['give to, hand down, bequeath']
+['dar, entregar, legar']
+['NONE']
+U+8D3B
+9
+yí
+154'.5
+贻.mp3
+
+贼
+['thief, traitor', ' kill']
+['ladrón, traidor', 'matar']
+['NONE', 'https://media.gettyimages.com/photos/closeup-portrait-of-serious-man-against-black-background-picture-id1053466042?k=6&m=1053466042&s=612x612&w=0&h=g1GPYGennOE0kYvzB58EBhs4HOvm7TPxwelBzWn_Kv4=']
+U+8D3C
+10
+zéi
+154'.6
+贼.mp3
+
+贽
+['gift superior', ' gift given']
+['regalo superior', 'regalo dado']
+['https://media.gettyimages.com/vectors/ecommerce-icon-set-vector-id1096473492?k=6&m=1096473492&s=612x612&w=0&h=yhXILU292MOiX3IPbcYJQ8U-oY0zIxOVrv16D8ZFKWo=', 'https://media.gettyimages.com/photos/hands-giving-gift-closeup-picture-id871610664?k=6&m=871610664&s=612x612&w=0&h=X2wHxwtV0Ku7NAUfeWNyTw9kigc5lk9AcVGyqOkhsE0=']
+U+8D3D
+10
+zhì
+154'.6
+贽.mp3
+
+贾
+['surname', ' merchant', ' buy, trade']
+['apellido', 'comerciante', 'comprar, comerciar']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/photos/shopkeeper-at-a-local-food-shop-picture-id489432286?k=6&m=489432286&s=612x612&w=0&h=Eqsu6YA9jwPIhMQBI2Yoa7rHM6t240ZgCYbH4YAQN7s=', 'https://media.gettyimages.com/vectors/money-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1127619237?k=6&m=1127619237&s=612x612&w=0&h=fbAssKkwFb1wsldmuyqkz04JsDdtLrlst0oAWQQbwMU=']
+U+8D3E
+10
+jiǎ
+154'.6
+贾.mp3
+
+贿
+['bribe', ' bribes', ' riches, wealth']
+['soborno', 'sobornos', 'riquezas, riqueza']
+['https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=', 'https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=', 'https://media.gettyimages.com/photos/executive-drive-picture-id941089636?k=6&m=941089636&s=612x612&w=0&h=RKKfeaNvJ-5PhGljeNZIWIoi0PkxQWRjMOOFOdpVYbg=']
+U+8D3F
+10
+huì
+154'.6
+贿.mp3
+
+赀
+['property', ' wealth', ' to count']
+['propiedad', 'riqueza', 'para contar']
+['https://media.gettyimages.com/photos/real-estate-agent-and-businessman-customer-picture-id1058166532?k=6&m=1058166532&s=612x612&w=0&h=dY72BdMULU50g_ggpM6y6C2EBzG0ZJgnnpI9Mq1KJFg=', 'https://media.gettyimages.com/photos/executive-drive-picture-id941089636?k=6&m=941089636&s=612x612&w=0&h=RKKfeaNvJ-5PhGljeNZIWIoi0PkxQWRjMOOFOdpVYbg=', 'https://media.gettyimages.com/photos/one-two-three-counting-with-fingers-picture-id183584119?k=6&m=183584119&s=612x612&w=0&h=5gWKtOHp2S14gY3mJBsUcn9nqMzo0gK83t4PW5NrR38=']
+U+8D40
+10
+zī
+154'.6
+赀.mp3
+
+赁
+['rent, hire', ' hired person']
+['alquilar, alquilar', 'persona contratada']
+['https://media.gettyimages.com/photos/sign-for-your-house-picture-id989488088?k=6&m=989488088&s=612x612&w=0&h=SuxbNd1wXvN2UpmX-8-iDqCYTF0iz41JJMlou-lNJSc=', 'https://media.gettyimages.com/vectors/management-set-of-thin-line-vector-icons-vector-id927340652?k=6&m=927340652&s=612x612&w=0&h=eQIzUdeV27H6GYqqeFe-ldS3n5GDrheCtHtRYXd3Nyc=']
+U+8D41
+10
+lìn
+154'.6
+赁.mp3
+
+赂
+['bribe', ' give present']
+['soborno', 'dar presente']
+['https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=', 'https://media.gettyimages.com/photos/hands-giving-gift-closeup-picture-id871610664?k=6&m=871610664&s=612x612&w=0&h=X2wHxwtV0Ku7NAUfeWNyTw9kigc5lk9AcVGyqOkhsE0=']
+U+8D42
+10
+lù
+154'.6
+赂.mp3
+
+赃
+['booty, loot, stolen goods', ' bribe']
+['botín, botín, bienes robados', 'soborno']
+['https://media.gettyimages.com/illustrations/money-pile-illustration-id165039363?k=6&m=165039363&s=612x612&w=0&h=stDbbkROGCL5U0wfDnZ-SY3Gx1EYnQHK-wsvqcJWWaU=', 'https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=']
+U+8D43
+10
+zāng
+154'.6
+赃.mp3
+
+资
+['property', ' wealth', ' capital']
+['propiedad', 'riqueza', 'capital']
+['https://media.gettyimages.com/photos/real-estate-agent-and-businessman-customer-picture-id1058166532?k=6&m=1058166532&s=612x612&w=0&h=dY72BdMULU50g_ggpM6y6C2EBzG0ZJgnnpI9Mq1KJFg=', 'https://media.gettyimages.com/photos/executive-drive-picture-id941089636?k=6&m=941089636&s=612x612&w=0&h=RKKfeaNvJ-5PhGljeNZIWIoi0PkxQWRjMOOFOdpVYbg=', 'https://media.gettyimages.com/photos/executive-drive-picture-id941089636?k=6&m=941089636&s=612x612&w=0&h=RKKfeaNvJ-5PhGljeNZIWIoi0PkxQWRjMOOFOdpVYbg=']
+U+8D44
+10
+zī
+154'.6
+资.mp3
+
+赅
+['prepared for', ' inclusive']
+['preparado para', 'inclusive']
+['https://media.gettyimages.com/photos/woman-doing-finances-at-home-picture-id1172587378?k=6&m=1172587378&s=612x612&w=0&h=YHXfw7WeEBGGI9bPL7M7DxQ5XASl4FVRiJXfLZAJU_k=', 'https://media.gettyimages.com/photos/sea-of-hands-picture-id857146092?k=6&m=857146092&s=612x612&w=0&h=f20YK04UbUf8ceD423WwhB1Bm8y1QbnMliDzIBf32Kg=']
+U+8D45
+10
+gāi
+154'.6
+赅.mp3
+
+赆
+['farewell present']
+['regalo de despedida']
+['https://media.gettyimages.com/photos/gift-for-bon-voyage-party-picture-id89773183?k=6&m=89773183&s=612x612&w=0&h=dBBl226zYTkkHm-nzQM0BuNedIFucTb0z7e8W5F4X2k=']
+U+8D46
+10
+jìn
+154'.6
+赆.mp3
+
+赇
+['bribe']
+['soborno']
+['https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=']
+U+8D47
+11
+qiú
+154'.7
+赇.mp3
+
+赈
+['relieve, aid distressed', ' rich']
+['aliviar, ayudar angustiado', 'Rico']
+['NONE', 'https://media.gettyimages.com/photos/professional-chef-at-work-picture-id935489342?k=6&m=935489342&s=612x612&w=0&h=avoBxqMcKr016rIXrQu683bQ9LiivbYhMUS8nTxbCos=']
+U+8D48
+11
+zhèn
+154'.7
+赈.mp3
+
+赉
+['give, present, confer', ' surname']
+['dar, presentar, conferir', 'apellido']
+['https://media.gettyimages.com/photos/businessman-giving-presentation-at-office-picture-id916885698?k=6&m=916885698&s=612x612&w=0&h=xspNFRT_REU-RA9cs06oU0JBDacOY71JWEQSahD46J4=', 'https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=']
+U+8D49
+11
+lài
+154'.7
+赉.mp3
+
+赊
+['buy and sell on credit, distant']
+['compra y vende a crédito, distante']
+['https://media.gettyimages.com/vectors/method-of-payment-credit-card-vector-id937495806?k=6&m=937495806&s=612x612&w=0&h=uzoH9eRcS2cginD_M46rksIvHMj3E1hO2MmGrAOqisM=']
+U+8D4A
+11
+shē
+154'.7
+赊.mp3
+
+赋
+['tax', ' give', ' endow', ' army', ' diffuse']
+['impuesto', 'dar', 'dotar', 'Ejército', 'difuso']
+['https://media.gettyimages.com/photos/business-accounting-concept-business-man-using-calculator-with-and-picture-id1178916772?k=6&m=1178916772&s=612x612&w=0&h=cCvn9Xz1SlNoyz9AA8p2V6q4d1VT72vEcLO_DkapO4U=', 'https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=', 'https://media.gettyimages.com/photos/offering-dedicated-to-buddhist-monks-picture-id1265115058?k=6&m=1265115058&s=612x612&w=0&h=QeaC4rfEH0j1jKCubqsBqRc3ML3OB6UX0Saon0bcW-4=', 'https://media.gettyimages.com/photos/silhouettes-of-soldiers-during-military-mission-at-dusk-picture-id858692044?k=6&m=858692044&s=612x612&w=0&h=qMz8oRa7icoLxa1EgcbdfOJnmBpP6GwBPMdZ2gxy12o=', 'https://media.gettyimages.com/photos/messier-35-picture-id909886596?k=6&m=909886596&s=612x612&w=0&h=3CB-u0-hA1BijXKPS5o_K74Q-kLeidW3Qzlc8e6aAzM=']
+U+8D4B
+12
+fù
+154'.8
+赋.mp3
+
+赌
+['bet, gamble, wager', ' compete']
+['apostar, apostar, apostar', 'competir']
+['https://media.gettyimages.com/photos/winning-an-online-bet-on-a-football-game-picture-id1128064196?k=6&m=1128064196&s=612x612&w=0&h=r5xfK0hq_ikEgWjsnjDPfyJp2B2XZYn29JXtk4bWy08=', 'https://media.gettyimages.com/photos/young-business-boys-in-suits-race-toy-cars-picture-id507282334?k=6&m=507282334&s=612x612&w=0&h=eOZa7w6c_X36YMwHv40gMsphO3xWLDj1QXTh_j_-A4g=']
+U+8D4C
+12
+dǔ
+154'.8
+赌.mp3
+
+赍
+['present']
+['presente']
+['https://media.gettyimages.com/vectors/gift-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1084909636?k=6&m=1084909636&s=612x612&w=0&h=WpY4ddBO6-tiLgJ9_E-716OBrxwrSVMBlQH8n5NsUFQ=']
+U+8D4D
+12
+jī
+154'.8
+赍.mp3
+
+赎
+['buy, redeem', ' ransom', ' atone for']
+['comprar, canjear', 'rescate', 'expiar']
+['https://media.gettyimages.com/photos/can-i-use-my-cellphone-to-redeem-my-coupon-picture-id1190165607?k=6&m=1190165607&s=612x612&w=0&h=E35wCJUbs4ri2TVSbGC-553DinUaOyKW8R-4L8fdgRg=', 'https://media.gettyimages.com/photos/hes-a-rotten-egg-in-the-corporate-world-picture-id483724753?k=6&m=483724753&s=612x612&w=0&h=DAOJXUePD_tRZ3fU0wmRMmMvpBJQBvESRBSGP1isJLo=', 'https://media.gettyimages.com/illustrations/penance-ceremony-illustration-id471497275?k=6&m=471497275&s=612x612&w=0&h=sIKQNsLb8NhG0a0-58xclPQ7VZr6_OjsughaoQ730vI=']
+U+8D4E
+12
+shú
+154'.8
+赎.mp3
+
+赏
+['reward, grant, bestow', ' appreciate']
+['recompensa, conceder, otorgar', 'apreciar']
+['NONE', 'https://media.gettyimages.com/photos/giving-thanks-with-pumpkin-assortment-still-life-and-thankful-message-picture-id1039371868?k=6&m=1039371868&s=612x612&w=0&h=mVVp7M6IKD2zBOLCVv57-64V3csTKCkLBC_ptfubo2c=']
+U+8D4F
+12
+shǎng
+154'.8
+赏.mp3
+
+赐
+['give, bestow favors', ' appoint']
+['dar, otorgar favores', 'nombrar']
+['NONE', 'https://media.gettyimages.com/photos/symbolic-for-testament-picture-id130872999?k=6&m=130872999&s=612x612&w=0&h=yYeisPEqAHpSsWhxOGVVPAMj8HMaHIqlozSSXN8C8Jk=']
+U+8D50
+12
+cì
+154'.8
+赐.mp3
+
+赑
+['strong']
+['fuerte']
+['https://media.gettyimages.com/photos/am-a-strong-woman-picture-id614012698?k=6&m=614012698&s=612x612&w=0&h=xkVq4YsfXEfueSpYst5_pJjnZGOWXUrYIMzntFUIIoo=']
+U+8D51
+12
+bì
+154'.8
+赑.mp3
+
+赒
+['give for charity']
+['dar por caridad']
+['https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=']
+U+8D52
+12
+zhōu
+154'.8
+赒.mp3
+
+赓
+['continue']
+['Seguir']
+['https://media.gettyimages.com/photos/shelter-in-place-and-social-distancing-in-effect-virtual-social-life-picture-id1218459736?k=6&m=1218459736&s=612x612&w=0&h=9ncGxWBMkkFJFwyrM4212O5aKOwAVAio9ejDKpNHel4=']
+U+8D53
+12
+gēng
+154'.8
+赓.mp3
+
+赔
+['indemnify, suffer loss']
+['indemnizar, sufrir pérdida']
+['NONE']
+U+8D54
+12
+péi
+154'.8
+赔.mp3
+
+赕
+['fine']
+['multa']
+['https://media.gettyimages.com/photos/police-officer-writing-ticket-2-picture-id157284610?k=6&m=157284610&s=612x612&w=0&h=9tBXcdZjp_iWu0qT2UoBgK-TkQhQ6qXIheiRTpGU85U=']
+U+8D55
+12
+dǎn
+154'.8
+赕.mp3
+
+赖
+['rely, depend on', ' accuse falsely']
+['confiar, depender de', 'acusar falsamente']
+['https://media.gettyimages.com/vectors/domestic-violence-icons-vector-id862809164?k=6&m=862809164&s=612x612&w=0&h=ji-XnV4n_4vfP8XU50Jmsef1nXegz8YdKXtD-ylTIXg=', 'NONE']
+U+8D56
+13
+lài
+154'.9
+赖.mp3
+
+赗
+['gift']
+['regalo']
+['https://media.gettyimages.com/vectors/gift-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1084909636?k=6&m=1084909636&s=612x612&w=0&h=WpY4ddBO6-tiLgJ9_E-716OBrxwrSVMBlQH8n5NsUFQ=']
+U+8D57
+13
+fèng
+154'.9
+赗.mp3
+
+赘
+['unnecessary, superfluous']
+['innecesario, superfluo']
+['NONE']
+U+8D58
+14
+zhuì
+154'.10
+赘.mp3
+
+赙
+['gift of money help pay funeral']
+['regalo de dinero ayuda a pagar el funeral']
+['NONE']
+U+8D59
+14
+fù
+154'.10
+赙.mp3
+
+赚
+['make money, earn', ' gain, profit']
+['ganar dinero, ganar', 'ganancia, ganancia']
+['https://media.gettyimages.com/photos/tony-hayward-chief-executive-officer-of-bp-plc-pauses-ahead-of-the-picture-id96345892?k=6&m=96345892&s=612x612&w=0&h=tMf1Nwu3w3b3P-Q0cujP3-TjF4qWFXC9wjPvQVxR4G8=', 'https://media.gettyimages.com/vectors/return-on-investment-icons-line-series-vector-id1056787734?k=6&m=1056787734&s=612x612&w=0&h=NWFg3x67Z4AbQiK7PH62-xNTwxmH0Gh96fDos98RcgM=']
+U+8D5A
+14
+zhuàn
+154'.10
+赚.mp3
+
+赛
+['compete, contend', ' contest, race']
+['competir, competir', 'concurso, carrera']
+['https://media.gettyimages.com/vectors/business-people-competition-businessmen-vector-id958040092?k=6&m=958040092&s=612x612&w=0&h=6zPsMy1FJfK9ZA1usOXsUOirNsf2M1aZBP-JhrEArjE=', 'https://media.gettyimages.com/photos/racers-at-the-start-line-on-a-track-picture-id184629980?k=6&m=184629980&s=612x612&w=0&h=AhH6qn_ELsfzQz1bx5WGpZgWYPscGyG88HDBXWUahIQ=']
+U+8D5B
+14
+sài
+154'.10
+赛.mp3
+
+赜
+['abstruse, deep, profound']
+['abstruso, profundo, profundo']
+['NONE']
+U+8D5C
+15
+zé
+154'.11
+赜.mp3
+
+赝
+['false', ' counterfeit', ' bogus', ' sham']
+['falso', 'falsificación', 'falso', 'impostor']
+['https://media.gettyimages.com/photos/old-fashioned-pinocchio-news-boy-holding-fake-newspaper-picture-id893110848?k=6&m=893110848&s=612x612&w=0&h=vqE1vwda7ID2724Q9QZ5O4kn4pcaC50y1WCFgiYDz2I=', 'https://media.gettyimages.com/photos/worker-repair-cold-forging-machine-picture-id874603796?k=6&m=874603796&s=612x612&w=0&h=FA956PTsXeuHmOSPeWBmmTgUT-h0wNP0WFzgWAIWN78=', 'https://media.gettyimages.com/photos/bogus-caller-picture-id1177317978?k=6&m=1177317978&s=612x612&w=0&h=94wAKvvbXXa6FIpkO-VEf2y_Mzj8UsSpBb-J_EXNNOw=', 'https://media.gettyimages.com/vectors/like-and-share-social-media-engagement-message-vector-id1153705551?k=6&m=1153705551&s=612x612&w=0&h=kzUsu3vu8hPuNQoigBZfImKadWCqCmX7yPriVXmEfeY=']
+U+8D5D
+16
+yàn
+154'.12
+赝.mp3
+
+赞
+['help, support, assist, aid']
+['ayuda, ayuda, ayuda, ayuda']
+['https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=']
+U+8D5E
+16
+zàn
+154'.12
+赞.mp3
+
+赟
+['affable, agreeable, pleasant']
+['afable, agradable, agradable']
+['https://media.gettyimages.com/photos/happy-businessmen-greeting-each-other-in-the-office-picture-id1063731314?k=6&m=1063731314&s=612x612&w=0&h=tu6Z4eyCS9Vqcj3JVoMXldMDf1axgzI7WNrWw_2Ef-E=']
+U+8D5F
+16
+yūn
+154'.12
+赟.mp3
+
+赠
+['give present', ' bestow, confer']
+['dar presente', 'otorgar']
+['https://media.gettyimages.com/photos/hands-giving-gift-closeup-picture-id871610664?k=6&m=871610664&s=612x612&w=0&h=X2wHxwtV0Ku7NAUfeWNyTw9kigc5lk9AcVGyqOkhsE0=', 'NONE']
+U+8D60
+16
+zèng
+154'.12
+赠.mp3
+
+赡
+['support, aid', ' rich, elegant']
+['apoyo, ayuda', 'rico, elegante']
+['https://media.gettyimages.com/vectors/hands-with-heart-logo-vector-id1170502024?k=6&m=1170502024&s=612x612&w=0&h=BaDU6H35zPvPfNYjtK70tDpbr7oc0FsQjbH2xRnhyYs=', 'https://media.gettyimages.com/photos/closeup-of-sommelier-serving-red-wine-at-fine-dining-restaurant-picture-id991732782?k=6&m=991732782&s=612x612&w=0&h=HZ1ke5DJK571Tj2-mEf0P7wV6eq589k6uKvwOIUSBrY=']
+U+8D61
+17
+shàn
+154'.13
+赡.mp3
+
+赢
+['win', ' surplus, gain, profit']
+['ganar', 'excedente, ganancia, beneficio']
+['https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=', 'https://media.gettyimages.com/vectors/businessman-wearing-christmas-hat-and-throwing-money-vector-id1083282018?k=6&m=1083282018&s=612x612&w=0&h=qFQJUBRYDdcw-fR_5I7QcFOhLQBItLzX4lrLAkCyM7M=']
+U+8D62
+17
+yíng
+154'.13
+赢.mp3
+
+赣
+['Jiangxi province', ' places therein']
+['Provincia del departamento de Jiang', 'lugares allí']
+['https://media.gettyimages.com/vectors/china-map-with-flag-vector-id464797296?k=6&m=464797296&s=612x612&w=0&h=qq0TnJhJfxa_mNfodwwZl0cN-6bKQk7DmrruiwKsaWo=', 'NONE']
+U+8D63
+21
+gàn
+154'.17
+赣.mp3
+
+赤
+['red', " communist, 'red'", ' bare']
+['red', "comunista, 'rojo'", 'sólo']
+['https://media.gettyimages.com/vectors/contact-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1088417818?k=6&m=1088417818&s=612x612&w=0&h=xRy0bSJ__3a1QZxOB_QCtKcVCZWb5PAtX2pVYiHpCnE=', 'https://media.gettyimages.com/photos/grungy-flags-of-soviet-union-and-usa-picture-id184282094?k=6&m=184282094&s=612x612&w=0&h=BDY81hYSkixhMMBnxT7whAHpzUCyRR20gSxaeK0oMU4=', 'https://media.gettyimages.com/photos/closeup-of-bare-tree-against-white-background-picture-id1178364683?k=6&m=1178364683&s=612x612&w=0&h=HsVi3nA5RJdSfhsZoclKDO79BbSq_tGD7pHRg0qosKA=']
+U+8D64
+7
+chì
+155.0
+赤.mp3
+
+赥
+['NONE']
+['NINGUNA']
+[]
+U+8D65
+11
+xī
+155.4
+赥.mp3
+
+赦
+['forgive, remit, pardon']
+['perdonar, remitir, perdonar']
+['NONE']
+U+8D66
+11
+shè
+155.4
+赦.mp3
+
+赧
+['blush, turn red']
+['sonrojarse, ponerse rojo']
+['NONE']
+U+8D67
+11
+nǎn
+155.4
+赧.mp3
+
+赨
+['NONE']
+['NINGUNA']
+[]
+U+8D68
+13
+tóng
+155.6
+赨.mp3
+
+赩
+['NONE']
+['NINGUNA']
+[]
+U+8D69
+13
+xì
+155.6
+赩.mp3
+
+赪
+['deep red']
+['color rojo oscuro']
+['https://media.gettyimages.com/photos/abstract-particles-render-on-dark-background-graphic-and-motion-picture-id1022134070?k=6&m=1022134070&s=612x612&w=0&h=Wi1eN8oZV9DL5yF0gpFwCxse_JKJIf-sq5Yair3kOZQ=']
+U+8D6A
+13
+chēng
+155.6
+赪.mp3
+
+赫
+['bright, radiant, glowing']
+['brillante, radiante, resplandeciente']
+['https://media.gettyimages.com/vectors/bokeh-light-grey-background-vector-id997691350?k=6&m=997691350&s=612x612&w=0&h=0e_1m8poDNgWwxL8cuetwQw7Vs8eZ9S3Ydmv3AfENNI=']
+U+8D6B
+14
+hè
+155.7
+赫.mp3
+
+赬
+['deep red']
+['color rojo oscuro']
+['https://media.gettyimages.com/photos/abstract-particles-render-on-dark-background-graphic-and-motion-picture-id1022134070?k=6&m=1022134070&s=612x612&w=0&h=Wi1eN8oZV9DL5yF0gpFwCxse_JKJIf-sq5Yair3kOZQ=']
+U+8D6C
+16
+chēng
+155.9
+赬.mp3
+
+赭
+['reddish brown', ' hematite', ' ochre']
+['Marrón rojizo', 'hematites', 'ocre']
+['https://media.gettyimages.com/photos/living-room-picture-id118288253?k=6&m=118288253&s=612x612&w=0&h=GX-MZ3ryNwKgCrqX7mMjd2MjL5I30XpQAZ2fbDG2PkE=', 'https://media.gettyimages.com/photos/minerals-and-crystals-many-different-kinds-picture-id184834841?k=6&m=184834841&s=612x612&w=0&h=ClywEREwP8hig2yDmi68GHFjovq9FXy8FcsS0JcX5IU=', 'https://media.gettyimages.com/vectors/yellow-halftone-spotted-background-vector-id945172204?k=6&m=945172204&s=612x612&w=0&h=bP4XReoPy2UHtFXhwslYALrY4P0wNpWUas4tc_3zhaU=']
+U+8D6D
+15
+zhě
+155.9
+赭.mp3
+
+赮
+['NONE']
+['NINGUNA']
+[]
+U+8D6E
+16
+xiá
+155.9
+赮.mp3
+
+赯
+['NONE']
+['NINGUNA']
+[]
+U+8D6F
+17
+táng
+155.10
+赯.mp3
+
+走
+['walk, go on foot', ' run', ' leave']
+['caminar, ir a pie', 'correr', 'salir']
+['https://media.gettyimages.com/photos/businesspeople-walking-picture-id93907047?k=6&m=93907047&s=612x612&w=0&h=adP_uPjjFnu7KQOzWSQ7eTThJ4-So8O7rnqvuemSPtw=', 'https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=', 'https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+8D70
+7
+zǒu
+156.0
+走.mp3
+
+赱
+['walk, go on foot', ' run', ' leave']
+['caminar, ir a pie', 'correr', 'salir']
+['https://media.gettyimages.com/photos/businesspeople-walking-picture-id93907047?k=6&m=93907047&s=612x612&w=0&h=adP_uPjjFnu7KQOzWSQ7eTThJ4-So8O7rnqvuemSPtw=', 'https://media.gettyimages.com/photos/young-man-running-outdoors-in-morning-picture-id1125038961?k=6&m=1125038961&s=612x612&w=0&h=yQ9C2kVgB0sNIwRa82S_VXyUCMsYw8_Lg51VZs22pz8=', 'https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?k=6&m=1132930101&s=612x612&w=0&h=kh7UVodCfYcPyJ5GjZZhQkzFAEMVbcPWZZWpzsQY-lU=']
+U+8D71
+6
+zǒu
+156.0
+赱.mp3
+
+赲
+['NONE']
+['NINGUNA']
+[]
+U+8D72
+9
+lì
+156.2
+赲.mp3
+
+赳
+['grand, valiant']
+['grandioso, valiente']
+['https://media.gettyimages.com/photos/scenic-view-of-sea-at-sunset-picture-id673710645?k=6&m=673710645&s=612x612&w=0&h=VdnfGheQcD8UXRKn0yhaM3eLfU37wjq_PVZ3e9D7jNs=']
+U+8D73
+9
+jiū
+156.2
+赳.mp3
+
+赴
+['go to', ' attend, be present']
+['ir', 'asistir, estar presente']
+['https://media.gettyimages.com/photos/high-angle-view-of-people-on-street-picture-id973190966?k=6&m=973190966&s=612x612&w=0&h=RXCH2TYW7Dwd06iCes1x1TBSwhC4w8fi4QNwN_LF3eg=', 'https://media.gettyimages.com/photos/rear-view-of-business-people-attending-a-seminar-in-board-room-picture-id1002018094?k=6&m=1002018094&s=612x612&w=0&h=jOD3epEJ2xfeZGsOZxegqaMMOEwpWrOaUafEnAlbvyQ=']
+U+8D74
+9
+fù
+156.2
+赴.mp3
+
+赵
+['surname', ' ancient state']
+['apellido', 'estado antiguo']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/illustrations/antique-map-of-persia-and-arabia-1730-illustration-id154018361?k=6&m=154018361&s=612x612&w=0&h=dsF0DLUeWDJmt5czi5KiL7r8Dvx19MqV8JtRhd3UEsQ=']
+U+8D75
+9
+zhào
+156.2
+赵.mp3
+
+赶
+['pursue, follow', ' expel, drive away']
+['perseguir, seguir', 'expulsar, alejar']
+['https://media.gettyimages.com/vectors/chasing-dollar-vector-id482832550?k=6&m=482832550&s=612x612&w=0&h=CTWdsE2OQ9q1znXxiygoOEOu3ZZI5t5wvnT8Hoj24do=', 'https://media.gettyimages.com/photos/no-entry-signs-on-street-picture-id1139020064?k=6&m=1139020064&s=612x612&w=0&h=eWdlzBr274dvR2IFoznGzI4fGG122HOwvjjf1J2Nx-k=']
+U+8D76
+10
+gǎn
+156.3
+赶.mp3
+
+起
+['rise, stand up', ' go up', ' begin']
+['Levántate, ponte de pie', 'subir', 'empezar']
+['https://media.gettyimages.com/photos/family-shopping-at-organic-farmers-market-picture-id602378307?k=6&m=602378307&s=612x612&w=0&h=mqg0sDo6QhHZCd_BQqzFVy9eO83E6lgrHWK3q2SQc90=', 'https://media.gettyimages.com/vectors/arrows-up-icon-vector-id1051814280?k=6&m=1051814280&s=612x612&w=0&h=zDUKFnv0psItWDkAgsdwPZ1XKBWAG7SETvW8jzxNmR8=', 'https://media.gettyimages.com/photos/two-men-pushing-open-doors-picture-id648539971?k=6&m=648539971&s=612x612&w=0&h=iWYVHnOJEFBu-IC1IOvs9LNreJ5SCAUMT2RE_zKCMCE=']
+U+8D77
+10
+qǐ
+156.3
+起.mp3
+
+赸
+['NONE']
+['NINGUNA']
+[]
+U+8D78
+10
+shàn
+156.3
+赸.mp3
+
+赹
+['NONE']
+['NINGUNA']
+[]
+U+8D79
+11
+qióng
+156.4
+赹.mp3
+
+赺
+['NONE']
+['NINGUNA']
+[]
+U+8D7A
+11
+yǐn
+156.4
+赺.mp3
+
+赻
+['NONE']
+['NINGUNA']
+[]
+U+8D7B
+11
+xiǎn
+156.4
+赻.mp3
+
+赼
+['NONE']
+['NINGUNA']
+[]
+U+8D7C
+11
+zī
+156.4
+赼.mp3
+
+赽
+['NONE']
+['NINGUNA']
+[]
+U+8D7D
+11
+jué
+156.4
+赽.mp3
+
+赾
+['NONE']
+['NINGUNA']
+[]
+U+8D7E
+11
+qǐn
+156.4
+赾.mp3
+
+赿
+['late slow', ' dilatory', ' tardy to delay', ' dull', ' stupid']
+['tarde lento', 'dilatorio', 'tarde para retrasar', 'aburrido', 'estúpido']
+['https://media.gettyimages.com/photos/late-20s-british-male-looking-bored-picture-id644268367?k=6&m=644268367&s=612x612&w=0&h=dfphNCQNhL3qPXihhhDg88BCJDiLP914AAKVbm78NDQ=', 'https://media.gettyimages.com/illustrations/woman-leaping-between-time-clocks-illustration-id77382514?k=6&m=77382514&s=612x612&w=0&h=5fRz0oiFyP1L_K0wzB6CIiZCIR3EZOhtHR6zeUnV0qM=', 'NONE', 'https://media.gettyimages.com/photos/staring-at-the-screen-but-nothings-going-in-picture-id1022048344?k=6&m=1022048344&s=612x612&w=0&h=AO3j6Zb_IaqWWx4OFdkIMfhr4LMbrLWtb995zLTUgjE=', 'https://media.gettyimages.com/photos/humorous-mobile-cloud-computing-conceptual-image-picture-id940308630?k=6&m=940308630&s=612x612&w=0&h=V3Y3FHUD1jUZnc39ZKaHBq3w_k6ZIOyHlFlNMU7K5xA=']
+U+8D7F
+11
+chí
+156.4
+赿.mp3
+
+趀
+['NONE']
+['NINGUNA']
+[]
+U+8D80
+11
+cī
+156.5
+趀.mp3
+
+趁
+['take advantage of, avail oneself']
+['aprovechar, valerse']
+['NONE']
+U+8D81
+12
+chèn
+156.5
+趁.mp3
+
+趂
+['to take advantage of', ' to avail oneself of. to follow', ' to go']
+['aprovechar', 'valerse de uno mismo. seguir', 'ir']
+['https://media.gettyimages.com/vectors/success-line-icons-editable-stroke-pixel-perfect-for-mobile-and-web-vector-id1132049228?k=6&m=1132049228&s=612x612&w=0&h=n2U9n-NpISY1ie0jFgIkkzdSzrSy4KdLWdRJbmIiLLE=', 'NONE', 'https://media.gettyimages.com/photos/close-up-of-woman-receiving-take-away-food-delivery-picture-id1149029916?k=6&m=1149029916&s=612x612&w=0&h=hrICsLi5tMleABEVZWVYvHRWUfUJA7UW6br0BIk_pcU=']
+U+8D82
+12
+chèn
+156.5
+趂.mp3
+
+趃
+['NONE']
+['NINGUNA']
+[]
+U+8D83
+12
+dié
+156.5
+趃.mp3
+
+趄
+['weak, lame']
+['débil, cojo']
+['https://media.gettyimages.com/photos/bathing-cub-on-grass-kenya-closeup-picture-id70009209?k=6&m=70009209&s=612x612&w=0&h=TWZFDSZ438AEnp-PKrU6CxHSEJYX7-7Y4tjxaPalCkQ=']
+U+8D84
+12
+jū
+156.5
+趄.mp3
+
+超
+['jump over, leap over', ' surpass']
+['saltar, saltar', 'superar']
+['https://media.gettyimages.com/photos/free-running-at-the-city-picture-id653754402?k=6&m=653754402&s=612x612&w=0&h=dsOs7oALCHJ51TbSSsbBFbWLl2so0HWSCU6_GDunkI0=', 'https://media.gettyimages.com/photos/two-black-dices-picture-id185291817?k=6&m=185291817&s=612x612&w=0&h=XBfrBiaZuQJySK_ZFNKlWzh7xOoks4UdgwXXqDGie9I=']
+U+8D85
+12
+chāo
+156.5
+超.mp3
+
+趆
+['NONE']
+['NINGUNA']
+[]
+U+8D86
+12
+dī
+156.5
+趆.mp3
+
+趇
+['NONE']
+['NINGUNA']
+[]
+U+8D87
+12
+xì
+156.5
+趇.mp3
+
+趈
+['NONE']
+['NINGUNA']
+[]
+U+8D88
+12
+zhān
+156.5
+趈.mp3
+
+趉
+['NONE']
+['NINGUNA']
+[]
+U+8D89
+12
+jué
+156.5
+趉.mp3
+
+越
+['exceed, go beyond', ' the more ...']
+['exceder, ir más allá', 'cuanto mas ...']
+['https://media.gettyimages.com/photos/side-view-of-mother-and-children-riding-tricycle-in-rural-area-picture-id692735257?k=6&m=692735257&s=612x612&w=0&h=FGzRmWiwjIj8UPidGEhBSChyquvpWb3qr8rXVLBdIsQ=', 'https://media.gettyimages.com/photos/light-in-the-dark-picture-id1173661889?k=6&m=1173661889&s=612x612&w=0&h=vJBWxr2DNBc_pf4PmE2uADdmF1sDjQzsd_77EBitWMA=']
+U+8D8A
+12
+yuè
+156.5
+越.mp3
+
+趋
+['hasten, hurry', ' be attracted to']
+['apresurarse, apurarse', 'Ser atraido a']
+['https://media.gettyimages.com/vectors/performance-line-icons-editable-stroke-pixel-perfect-for-mobile-and-vector-id1179804744?k=6&m=1179804744&s=612x612&w=0&h=jFOtv6gif2zAYQFhbCj88Mm4ZgF_zTld4Ys13onWY5I=', 'https://media.gettyimages.com/photos/kissing-couple-at-the-street-picture-id902590688?k=6&m=902590688&s=612x612&w=0&h=IG9z8x7n6iPeBXC78d8olsrrpPEzyrVN3MHm_697ZvQ=']
+U+8D8B
+12
+qū
+156.5
+趋.mp3
+
+趌
+['(Cant.) to order someone to leave']
+['(Cant.) Ordenar a alguien que se vaya']
+['NONE']
+U+8D8C
+13
+jí
+156.6
+趌.mp3
+
+趍
+['NONE']
+['NINGUNA']
+[]
+U+8D8D
+13
+chí
+156.6
+趍.mp3
+
+趎
+['NONE']
+['NINGUNA']
+[]
+U+8D8E
+13
+chú
+156.6
+趎.mp3
+
+趏
+['NONE']
+['NINGUNA']
+[]
+U+8D8F
+13
+guā
+156.6
+趏.mp3
+
+趐
+['NONE']
+['NINGUNA']
+[]
+U+8D90
+13
+xuè
+156.6
+趐.mp3
+
+趑
+["can't move", ' to falter']
+['no se puede mover', 'a fallar']
+['NONE', 'https://media.gettyimages.com/photos/aerial-view-of-illuminated-cityscape-at-night-picture-id629073563?k=6&m=629073563&s=612x612&w=0&h=nZWlIeW7vT-X1mzI87aQpo7PwkXGYUpk7lxDLwF5Rd0=']
+U+8D91
+13
+zī
+156.6
+趑.mp3
+
+趒
+['to jump, to climb over, to leap, to posture', ' a gangway']
+['saltar, trepar, saltar, adoptar una postura', 'una pasarela']
+['NONE', 'https://media.gettyimages.com/photos/deserted-gangway-picture-id110400516?k=6&m=110400516&s=612x612&w=0&h=ZUr6RdrmYgDS_Ha2Ma6TfV7vFG7ssAgWC67X3vbUr3w=']
+U+8D92
+13
+tiáo
+156.6
+趒.mp3
+
+趓
+['NONE']
+['NINGUNA']
+[]
+U+8D93
+13
+duǒ
+156.6
+趓.mp3
+
+趔
+['not progressing', ' to be checked']
+['no progresa', 'Por verificar']
+['NONE', 'https://media.gettyimages.com/vectors/vector-checker-chess-abstract-seamless-background-vector-id985915172?k=6&m=985915172&s=612x612&w=0&h=AaRFqRra8mu0gqiNSCrsduiEBS4nPCD-Tt0pOcxh10w=']
+U+8D94
+13
+liè
+156.6
+趔.mp3
+
+趕
+['pursue, follow', ' expel, drive away']
+['perseguir, seguir', 'expulsar, alejar']
+['https://media.gettyimages.com/vectors/chasing-dollar-vector-id482832550?k=6&m=482832550&s=612x612&w=0&h=CTWdsE2OQ9q1znXxiygoOEOu3ZZI5t5wvnT8Hoj24do=', 'https://media.gettyimages.com/photos/no-entry-signs-on-street-picture-id1139020064?k=6&m=1139020064&s=612x612&w=0&h=eWdlzBr274dvR2IFoznGzI4fGG122HOwvjjf1J2Nx-k=']
+U+8D95
+14
+gǎn
+156.7
+趕.mp3
+
+趖
+['NONE']
+['NINGUNA']
+[]
+U+8D96
+14
+suō
+156.7
+趖.mp3
+
+趗
+['NONE']
+['NINGUNA']
+[]
+U+8D97
+14
+cù
+156.7
+趗.mp3
+
+趘
+['NONE']
+['NINGUNA']
+[]
+U+8D98
+14
+xí
+156.7
+趘.mp3
+
+趙
+['surname', ' ancient state']
+['apellido', 'estado antiguo']
+['https://media.gettyimages.com/photos/person-writing-surname-on-document-picture-id159088839?k=6&m=159088839&s=612x612&w=0&h=bJQjjDAgQB9W-IIhsmkMF_hzSFOfu5x_eJ84iywWC_w=', 'https://media.gettyimages.com/illustrations/antique-map-of-persia-and-arabia-1730-illustration-id154018361?k=6&m=154018361&s=612x612&w=0&h=dsF0DLUeWDJmt5czi5KiL7r8Dvx19MqV8JtRhd3UEsQ=']
+U+8D99
+14
+zhào
+156.7
+趙.mp3
+
+趚
+['NONE']
+['NINGUNA']
+[]
+U+8D9A
+14
+sù
+156.7
+趚.mp3
+
+趛
+['NONE']
+['NINGUNA']
+[]
+U+8D9B
+15
+yǐn
+156.8
+趛.mp3
+
+趜
+['(Cant.) to suffocate']
+['(Cant.) Sofocar']
+['https://media.gettyimages.com/photos/protester-wearing-a-face-mask-holds-a-placard-during-the-over-300-picture-id1218218928?k=6&m=1218218928&s=612x612&w=0&h=x8Q-H5UJAXl_YPWIbDPw4f7R9cQDNOv6a4oZgn07y0o=']
+U+8D9C
+15
+jú
+156.8
+趜.mp3
+
+趝
+['to pursue', ' to follow up']
+['perseguir', 'para dar seguimiento']
+['https://media.gettyimages.com/photos/police-chasing-on-the-city-picture-id481925376?k=6&m=481925376&s=612x612&w=0&h=hnjZdOTFn2ngbMoJnarT2VXgdUl0yLaw8W4oyRSoZNU=', 'https://media.gettyimages.com/vectors/social-media-icon-set-vector-id1096479522?k=6&m=1096479522&s=612x612&w=0&h=glH2wmPq91c01O_kXImZ8FRmQd1v3-_BWxQ5bNWS_tA=']
+U+8D9D
+15
+jiàn
+156.8
+趝.mp3
+
+趞
+['NONE']
+['NINGUNA']
+[]
+U+8D9E
+15
+què
+156.8
+趞.mp3
+
+趟
+['time, occasion', ' take journey']
+['tiempo, ocasión', 'emprender un viaje']
+['https://media.gettyimages.com/vectors/business-and-management-line-icons-editable-stroke-pixel-perfect-for-vector-id1145868446?k=6&m=1145868446&s=612x612&w=0&h=8C-SGpAWLbntlMH4bIs-1eYA2xcwO-_HbauXzEk5y14=', 'https://media.gettyimages.com/photos/star-warp-picture-id1173481447?k=6&m=1173481447&s=612x612&w=0&h=RctVEjOw8w7Sr5DQtfZKTWkKfDFH6JI4-F4VVSihIAg=']
+U+8D9F
+15
+tàng
+156.8
+趟.mp3
+
+趠
+['NONE']
+['NINGUNA']
+[]
+U+8DA0
+15
+chuò
+156.8
+趠.mp3
+
+趡
+['place']
+['sitio']
+['https://media.gettyimages.com/photos/keeping-a-close-watch-on-his-crops-picture-id1083286598?k=6&m=1083286598&s=612x612&w=0&h=z-hXgpnT5xiOLyTCJHL4ObYs7WX2t-LB2F5p4p3JI9M=']
+U+8DA1
+15
+cuǐ
+156.8
+趡.mp3
+
+趢
+['NONE']
+['NINGUNA']
+[]
+U+8DA2
+15
+lù
+156.8
+趢.mp3
+
+趣
+["what attracts one's attention"]
+['lo que llama la atención']
+['NONE']
+U+8DA3
+15
+qù
+156.8
+趣.mp3
+
+趤
+['NONE']
+['NINGUNA']
+[]
+U+8DA4
+15
+dàng
+156.8
+趤.mp3
+
+趥
+['NONE']
+['NINGUNA']
+[]
+U+8DA5
+16
+qiū
+156.9
+趥.mp3
+
+趦
+['unable to move', ' to falter']
+['incapaz de moverse', 'a fallar']
+['NONE', 'https://media.gettyimages.com/photos/aerial-view-of-illuminated-cityscape-at-night-picture-id629073563?k=6&m=629073563&s=612x612&w=0&h=nZWlIeW7vT-X1mzI87aQpo7PwkXGYUpk7lxDLwF5Rd0=']
+U+8DA6
+16
+zī
+156.9
+趦.mp3
+
+趧
+['NONE']
+['NINGUNA']
+[]
+U+8DA7
+16
+tí
+156.9
+趧.mp3
+
+趨
+['hasten, hurry', ' be attracted to']
+['apresurarse, apurarse', 'Ser atraido a']
+['https://media.gettyimages.com/vectors/performance-line-icons-editable-stroke-pixel-perfect-for-mobile-and-vector-id1179804744?k=6&m=1179804744&s=612x612&w=0&h=jFOtv6gif2zAYQFhbCj88Mm4ZgF_zTld4Ys13onWY5I=', 'https://media.gettyimages.com/photos/kissing-couple-at-the-street-picture-id902590688?k=6&m=902590688&s=612x612&w=0&h=IG9z8x7n6iPeBXC78d8olsrrpPEzyrVN3MHm_697ZvQ=']
+U+8DA8
+17
+qū
+156.10
+趨.mp3
+
+趩
+['NONE']
+['NINGUNA']
+[]
+U+8DA9
+18
+chì
+156.12
+趩.mp3
+
+趪
+['NONE']
+['NINGUNA']
+[]
+U+8DAA
+18
+huáng
+156.12
+趪.mp3
+
+趫
+['nimble']
+['ágil']
+['https://media.gettyimages.com/vectors/titre-icon-vector-id1064145390?k=6&m=1064145390&s=612x612&w=0&h=jr8FJDKUmxpCo8bZOE5I85qcubqzeAJemkt-SbwLXkE=']
+U+8DAB
+19
+qiáo
+156.12
+趫.mp3
+
+趬
+['NONE']
+['NINGUNA']
+[]
+U+8DAC
+19
+qiāo
+156.12
+趬.mp3
+
+趭
+['NONE']
+['NINGUNA']
+[]
+U+8DAD
+19
+jiào
+156.12
+趭.mp3
+
+趮
+['easily provoked, hasty', ' fierce, cruel']
+['fácilmente provocado, apresurado', 'feroz, cruel']
+['NONE', 'https://media.gettyimages.com/photos/man-threatening-with-pocket-knife-picture-id88621421?k=6&m=88621421&s=612x612&w=0&h=A6eMTrE4ls4QOFLnyGSq-ra5TvO3s6Xxzk1Y6UeW4lY=']
+U+8DAE
+20
+zào
+156.13
+趮.mp3
+
+趯
+['jump']
+['saltar']
+['https://media.gettyimages.com/photos/jump-with-inflatable-ring-picture-id1003246154?k=6&m=1003246154&s=612x612&w=0&h=rJ6cn0OhWjncIVQFkh6dN7V3QwgXOZXgIm_ZYCzbmG0=']
+U+8DAF
+21
+tì
+156.14
+趯.mp3
+
+趰
+['NONE']
+['NINGUNA']
+[]
+U+8DB0
+21
+ěr
+156.14
+趰.mp3
+
+趱
+['go in hurry, hasten', ' urge']
+['apúrate, apresúrate', 'urge']
+['https://media.gettyimages.com/photos/chinese-brothers-rushing-to-school-picture-id670495378?k=6&m=670495378&s=612x612&w=0&h=DQG6_r-D33iKpJvFhkWL9P_xD8ifeH_V29O6Iw-5mXk=', 'https://media.gettyimages.com/photos/les-murray-arrives-during-the-2016-western-sydney-wanderers-awards-at-picture-id527654862?k=6&m=527654862&s=612x612&w=0&h=My8nrg0j-k0xTXujEjeAjDY0vUmj2JEPjSujgUr3vVw=']
+U+8DB1
+23
+zǎn
+156.16
+趱.mp3
+
+趲
+['go in hurry, hasten', ' urge']
+['apúrate, apresúrate', 'urge']
+['https://media.gettyimages.com/photos/chinese-brothers-rushing-to-school-picture-id670495378?k=6&m=670495378&s=612x612&w=0&h=DQG6_r-D33iKpJvFhkWL9P_xD8ifeH_V29O6Iw-5mXk=', 'https://media.gettyimages.com/photos/les-murray-arrives-during-the-2016-western-sydney-wanderers-awards-at-picture-id527654862?k=6&m=527654862&s=612x612&w=0&h=My8nrg0j-k0xTXujEjeAjDY0vUmj2JEPjSujgUr3vVw=']
+U+8DB2
+26
+zǎn
+156.19
+趲.mp3
+
+足
+['foot', ' attain, satisfy, enough']
+['pie', 'alcanzar, satisfacer, suficiente']
+['https://media.gettyimages.com/vectors/foot-print-icon-set-vector-id934812346?k=6&m=934812346&s=612x612&w=0&h=MqykQHDp_JOoGX7c2biUxhJzDvL7hUY4GMsFugwKOfY=', 'https://media.gettyimages.com/photos/beating-the-deadline-like-the-champ-he-is-picture-id874811654?k=6&m=874811654&s=612x612&w=0&h=eegXYnnsBY9J6zOBww8wstNnvijdBW_UrA_peE8Y1kM=']
+U+8DB3
+7
+zú
+157.0
+足.mp3
+
+趴
+['lying prone, leaning over']
+['acostado boca abajo, inclinado']
+['https://media.gettyimages.com/photos/accidental-death-of-man-picture-id80935278?k=6&m=80935278&s=612x612&w=0&h=7mF2vBPig4IpfV8QdbZ-iFPvITR_gZblFEOlIfBoJLk=']
+U+8DB4
+9
+pā
+157.2
+趴.mp3
+
+趵
+['noise of tramping feet']
+['ruido de pisadas']
+['https://media.gettyimages.com/photos/hiker-from-personal-point-of-view-contemplating-the-noisy-waterfalls-picture-id512878360?k=6&m=512878360&s=612x612&w=0&h=ckqUFMvM9-U10ChHfRNTDXNU2NzObPHBfZAmUGcyAB0=']
+U+8DB5
+10
+bào
+157.3
+趵.mp3
+
+趶
+['NONE']
+['NINGUNA']
+[]
+U+8DB6
+10
+kù
+157.3
+趶.mp3
+
+趷
+['to jolt', ' (Cant.) to raise up', ' block']
+['sacudir', '(Cant.) Para levantar', 'bloquear']
+['https://media.gettyimages.com/photos/lightning-on-black-picture-id505484512?k=6&m=505484512&s=612x612&w=0&h=2YCouZPW3PTjPsnTBK34ooCeZ2Yv5V1iu3yCGncQja4=', 'https://media.gettyimages.com/photos/great-britains-zoe-smith-cant-lift-93-kg-in-the-womens-58-kg-division-picture-id149532973?k=6&m=149532973&s=612x612&w=0&h=XiuAo6GMFOs5Aqx9hy2tJGBUBblL5O4BJSW4kK2jCFM=', 'https://media.gettyimages.com/vectors/tick-mark-approved-icon-vector-id1166726505?k=6&m=1166726505&s=612x612&w=0&h=9jalFZEe73F2n5z8hAdLlzvLqNqN-_KKeuq2yk1-Qqs=']
+U+8DB7
+10
+kē
+157.3
+趷.mp3
+
+趸
+['sell or buy wholesale', ' store']
+['vender o comprar al por mayor', 'Tienda']
+['https://media.gettyimages.com/photos/cheerful-female-customer-making-a-contactless-payment-with-credit-at-picture-id1181691182?k=6&m=1181691182&s=612x612&w=0&h=diILut1JQFDYDT_Kdq22I63M_8hHnBwSoitrnkB98pk=', 'https://media.gettyimages.com/vectors/black-friday-icons-line-series-vector-id1061303100?k=6&m=1061303100&s=612x612&w=0&h=ClIhHClYyH-8ijC4BdnUXqTVY1FkDupcvBXnTk66OnE=']
+U+8DB8
+10
+dǔn
+157.3
+趸.mp3
+
+趹
+['kick with hoof', " horse's gallop"]
+['patear con pezuña', 'galope de caballo']
+['https://media.gettyimages.com/photos/asil-arabian-horses-stallion-kicking-for-joy-picture-id170613258?k=6&m=170613258&s=612x612&w=0&h=VfWG1La6pctTQ0-fmEC8XEnW0zhfNb7mdOZQrAN4_Nw=', 'https://media.gettyimages.com/photos/horse-running-on-shore-at-beach-picture-id909948608?k=6&m=909948608&s=612x612&w=0&h=ZlED4O-V6BVvXMZZIa2Bop8yrVdjdhJQHqLLss2HKoI=']
+U+8DB9
+11
+jué
+157.4
+趹.mp3
+
+趺
+['sit cross-legged', ' back of the foo']
+['Sentarse con las piernas cruzadas', 'parte trasera del foo']
+['https://media.gettyimages.com/photos/low-section-of-woman-sitting-on-chair-at-home-picture-id1127551150?k=6&m=1127551150&s=612x612&w=0&h=6e6GBIquSwowIuwi-zNJuRvvEFTkAp4janCMQOaP1W8=', 'https://media.gettyimages.com/photos/people-walking-on-mountain-during-winter-picture-id717354373?k=6&m=717354373&s=612x612&w=0&h=rA67wsQr1ADmp_eT7ELhVlTuY1ycUFZwoAyciZU9-Kg=']
+U+8DBA
+11
+fū
+157.4
+趺.mp3
+
+趻
+['NONE']
+['NINGUNA']
+[]
+U+8DBB
+11
+chěn
+157.4
+趻.mp3
+
+趼
+['callous skin on hands or feet. blisters']
+['piel de callos en manos o pies. ampollas']
+['NONE']
+U+8DBC
+11
+jiǎn
+157.6
+趼.mp3
+
+趽
+['NONE']
+['NINGUNA']
+[]
+U+8DBD
+11
+fàng
+157.4
+趽.mp3
+
+趾
+['toe', ' tracks, footprints']
+['a', 'pistas, huellas']
+['https://media.gettyimages.com/photos/gout-picture-id185206944?k=6&m=185206944&s=612x612&w=0&h=KLMu0rXYJ7YpD6IaHNL9E32KClSIkNrPrxVMfo1cDts=', 'https://media.gettyimages.com/vectors/footprints-vector-id882323556?k=6&m=882323556&s=612x612&w=0&h=h-wa76O8VNBHOEBkyS3uLDigFQk-3gtXlJY0uLGGJOA=']
+U+8DBE
+11
+zhǐ
+157.4
+趾.mp3
+
+趿
+['to tread on', ' slipshod']
+['pisar', 'poco correcto']
+['https://media.gettyimages.com/photos/profile-and-side-profile-view-of-a-car-wheel-on-white-picture-id95757579?k=6&m=95757579&s=612x612&w=0&h=omLqFBFDjml0Cb2CaTQZPUK5Fy6WILCybL1SWjCtwgk=', 'https://media.gettyimages.com/photos/messy-apartment-counter-tops-covered-in-clutter-picture-id1091796420?k=6&m=1091796420&s=612x612&w=0&h=ogYr1-mx_SkqrTLg7DeM5dKsHk7Zpl4L4hAEd10vUFU=']
+U+8DBF
+10
+tā
+157.4
+趿.mp3
+
+跀
+['to cut off the feet, to stretch up']
+['cortar los pies, estirar']
+['https://media.gettyimages.com/photos/women-sitting-in-canyon-stretching-legs-picture-id672159695?k=6&m=672159695&s=612x612&w=0&h=a0k2WOF3TfAplOr3h2rYarJH8uffvfonXA_BDXjPGmA=']
+U+8DC0
+11
+yuè
+157.4
+跀.mp3
+
+跁
+['trample on, tread on', ' search for', ' (Cant.) to squat down']
+['pisotear, pisar', 'buscar', '(Cant.) Ponerse en cuclillas']
+['https://media.gettyimages.com/illustrations/foot-raised-off-floor-low-angle-view-illustration-idAA054049?k=6&m=AA054049&s=612x612&w=0&h=vMki03rpwRKGpHDjEs059B0Ntkq_a2iIwd0CJIjpLwE=', 'https://media.gettyimages.com/vectors/search-bar-and-magnifying-glass-icon-design-vector-id1132570941?k=6&m=1132570941&s=612x612&w=0&h=_62lZR1KT8PTCQzW-R-jh6sfXk8wVP0rqQ9_yxXhajg=', 'NONE']
+U+8DC1
+11
+bà
+157.4
+跁.mp3
+
+跂
+['creeping, crawling']
+['arrastrándose, arrastrándose']
+['https://media.gettyimages.com/photos/special-agent-crawling-in-a-dark-corridor-picture-id503113022?k=6&m=503113022&s=612x612&w=0&h=WLHUNMRyPIM8K4FNKOWHj6ls7xomulKpGRTry1u4NCo=']
+U+8DC2
+11
+qí
+157.4
+跂.mp3
+
+跃
+['skip, jump, frolic']
+['saltar, saltar, divertirse']
+['https://media.gettyimages.com/photos/young-woman-jumping-from-bollard-to-bollard-picture-id691051131?k=6&m=691051131&s=612x612&w=0&h=ywbRfkztp36o6lW5B8XEt3pR3LquvSc-rn7T33Guhok=']
+U+8DC3
+11
+yuè
+157.4
+跃.mp3
+
+跄
+['walk rapidly']
+['caminar rapido']
+['https://media.gettyimages.com/photos/alaskan-coastal-brown-bear-close-moving-rapidly-toward-fish-in-river-picture-id1180424604?k=6&m=1180424604&s=612x612&w=0&h=uC8Q6yiulVZe3nuAvxR6FZBh61NFydwL1qBvmeoU9B4=']
+U+8DC4
+11
+qiāng
+157.4
+跄.mp3
+
+跅
+['careless, lax', ' dissolute']
+['descuidado, laxo', 'disoluto']
+['https://media.gettyimages.com/photos/couple-riding-bicycle-smiling-picture-id79566127?k=6&m=79566127&s=612x612&w=0&h=AYVAxg3r7eT4R5r9R_dETarhW2WJ3TxUxKtt7j50lHc=', 'https://media.gettyimages.com/photos/at-worsen-time-picture-id1142859087?k=6&m=1142859087&s=612x612&w=0&h=bn0O-gBr9eyKtlOPXgKO9O8mREiLH5uibDNkz5hh0h4=']
+U+8DC5
+12
+tuò
+157.5
+跅.mp3
+
+跆
+['trample']
+['pisotear']
+['https://media.gettyimages.com/photos/press-angle-mechine-picture-id993442898?k=6&m=993442898&s=612x612&w=0&h=5oT7m4dbO6R5SL5JAKWObmOR1N3x9ZYEY0r-z5KgKV4=']
+U+8DC6
+12
+tái
+157.5
+跆.mp3
+
+跇
+['NONE']
+['NINGUNA']
+[]
+U+8DC7
+12
+yì
+157.5
+跇.mp3
+
+跈
+['NONE']
+['NINGUNA']
+[]
+U+8DC8
+12
+niǎn
+157.5
+跈.mp3
+
+跉
+['NONE']
+['NINGUNA']
+[]
+U+8DC9
+12
+líng
+157.5
+跉.mp3
+
+跊
+['NONE']
+['NINGUNA']
+[]
+U+8DCA
+12
+mèi
+157.5
+跊.mp3
+
+跋
+['go by foot', ' epilogue, colophon']
+['Ir caminando', 'epílogo, colofón']
+['https://media.gettyimages.com/photos/young-man-running-outdoors-mid-air-low-section-picture-id886900878?k=6&m=886900878&s=612x612&w=0&h=MO_OjaWksG0lwK07fwYf2Er4-8MCNgu-82jod7LoAdc=', 'NONE']
+U+8DCB
+12
+bá
+157.5
+跋.mp3
+
+跌
+['stumble, slip, fall down', ' stamp']
+['tropezar, resbalar, caer', 'sello']
+['https://media.gettyimages.com/photos/woman-about-to-slip-on-toy-left-on-staircase-picture-id90201424?k=6&m=90201424&s=612x612&w=0&h=Lj7WxSXihQ_AI-e9eHPITlAbxS2K_m5QmGopfvv7KOc=', 'https://media.gettyimages.com/vectors/rubber-stamps-vector-id1004187838?k=6&m=1004187838&s=612x612&w=0&h=fJPZb11aq80gz2C6qH9xMYe14pt_ySTB1zw2zS6ec_Q=']
+U+8DCC
+12
+diē dié
+157.5
+跌.mp3
+
+跍
+['NONE']
+['NINGUNA']
+[]
+U+8DCD
+12
+kū
+157.5
+跍.mp3
+
+跎
+['slip, stumble, falter', ' vacillate']
+['resbalar, tropezar, vacilar', 'vacilar']
+['NONE', 'https://media.gettyimages.com/photos/leadership-concept-with-paper-airplanes-picture-id1132928752?k=6&m=1132928752&s=612x612&w=0&h=3lvoIGo4OYnLUC0Gwbkndm9T5_V-M3cV-E9ovArdp6g=']
+U+8DCE
+12
+tuó
+157.5
+跎.mp3
+
+跏
+['sit cross-legged', ' squat']
+['Sentarse con las piernas cruzadas', 'ponerse en cuclillas']
+['https://media.gettyimages.com/photos/low-section-of-woman-sitting-on-chair-at-home-picture-id1127551150?k=6&m=1127551150&s=612x612&w=0&h=6e6GBIquSwowIuwi-zNJuRvvEFTkAp4janCMQOaP1W8=', 'https://media.gettyimages.com/photos/woman-in-sports-clothing-doing-squats-picture-id713857713?k=6&m=713857713&s=612x612&w=0&h=1B4It58YbSFW5UExXlpqVn43tQq9LAtlyUoDHOb23z0=']
+U+8DCF
+12
+jiā
+157.5
+跏.mp3
+
+跐
+['to trample, to step, to walk on the ball of the foot']
+['pisotear, pisar, caminar sobre la bola del pie']
+['NONE']
+U+8DD0
+13
+cī
+157.5
+跐.mp3
+
+跑
+['run, flee, leave in hurry']
+['corre, huye, vete de prisa']
+['https://media.gettyimages.com/photos/closeup-of-green-emergency-exit-light-sign-picture-id136254630?k=6&m=136254630&s=612x612&w=0&h=bIsj3TiPomRGaLFTTKOYO6Ywx9fR8QA5VWOOR1gN0hk=']
+U+8DD1
+12
+pǎo
+157.5
+跑.mp3
+
+跒
+['NONE']
+['NINGUNA']
+[]
+U+8DD2
+12
+qiǎ
+157.5
+跒.mp3
+
+跓
+['NONE']
+['NINGUNA']
+[]
+U+8DD3
+12
+zhù
+157.5
+跓.mp3
+
+跔
+['numb feet', ' to limp']
+['pies entumecidos', 'cojear']
+['https://media.gettyimages.com/photos/legs-went-to-sleep-picture-id958712784?k=6&m=958712784&s=612x612&w=0&h=sMrDaeBaCdUJ5WYgNFXRhtGek_QqzVafbONQCYje6Ns=', 'https://media.gettyimages.com/photos/thats-it-im-done-picture-id874813758?k=6&m=874813758&s=612x612&w=0&h=bh5KZrNsZc3W3eO3InyE1cYie32-6ZM9wDLBaq00f90=']
+U+8DD4
+12
+jū
+157.5
+跔.mp3
+
+跕
+['shuffle, limp']
+['barajar, cojear']
+['https://media.gettyimages.com/vectors/music-player-icons-vector-id118419201?k=6&m=118419201&s=612x612&w=0&h=51vaUqTnHNcN61PoJXrRt5RZb4s4N4mwhIM5by-_ZVY=']
+U+8DD5
+12
+diǎn
+157.5
+跕.mp3
+
+跖
+['sole (of the foot)']
+['planta del pie)']
+['https://media.gettyimages.com/photos/close-up-shot-of-runners-shoes-picture-id1148822167?k=6&m=1148822167&s=612x612&w=0&h=8QIF8XmPZrVoIo8TiU31smtwVt2y2r5U3cuEegI6iLY=']
+U+8DD6
+12
+zhí
+157.5
+跖.mp3
+
+跗
+['the instep']
+['el empeine']
+['https://media.gettyimages.com/illustrations/xray-view-of-pain-in-human-foot-illustration-id188057778?k=6&m=188057778&s=612x612&w=0&h=gTEFsuWFOEoN8c0mPKtgGKSqvwAR7NKGF0K2ywicyiw=']
+U+8DD7
+12
+fū
+157.5
+跗.mp3
+
+跘
+['NONE']
+['NINGUNA']
+[]
+U+8DD8
+12
+pán
+157.5
+跘.mp3
+
+跙
+['weak, lame']
+['débil, cojo']
+['https://media.gettyimages.com/photos/bathing-cub-on-grass-kenya-closeup-picture-id70009209?k=6&m=70009209&s=612x612&w=0&h=TWZFDSZ438AEnp-PKrU6CxHSEJYX7-7Y4tjxaPalCkQ=']
+U+8DD9
+12
+jù
+157.5
+跙.mp3
+
+跚
+['stagger, limp']
+['tambalearse, flácido']
+['https://media.gettyimages.com/photos/unhappy-girl-in-a-bedroom-picture-id521815364?k=6&m=521815364&s=612x612&w=0&h=wumqpBP6QkYLdfNB5zHSQ9KoOKAmIZq6cDa1sSYZWWI=']
+U+8DDA
+12
+shān
+157.5
+跚.mp3
+
+跛
+['lame']
+['cojo']
+['https://media.gettyimages.com/photos/man-and-dog-in-the-park-picture-id934108632?k=6&m=934108632&s=612x612&w=0&h=6mR128QMHPKPYeh6czndtQa36XH_iHxbBR1JFaYM0BA=']
+U+8DDB
+12
+bǒ
+157.5
+跛.mp3
+
+跜
+['NONE']
+['NINGUNA']
+[]
+U+8DDC
+12
+ní
+157.5
+跜.mp3
+
+距
+['distance', " bird's spur"]
+['distancia', 'espuela de pájaro']
+['https://media.gettyimages.com/photos/conceptual-shot-of-a-young-adult-couple-kissing-via-mobile-phone-picture-id1161961593?k=6&m=1161961593&s=612x612&w=0&h=xNcOUWMe7n-7PAvxZ7izGNdj53FuYvBWs_TZqLaSS6Q=', 'https://media.gettyimages.com/photos/leadership-concepts-picture-id1066510306?k=6&m=1066510306&s=612x612&w=0&h=quUNzHtqmbZQ1BnI-oOrnaZyquFE8m9fBl69UpqGSiw=']
+U+8DDD
+11
+jù
+157.5
+距.mp3
+
+跞
+['walk, move']
+['caminar, moverse']
+['https://media.gettyimages.com/photos/theyre-all-excited-about-the-big-move-picture-id1082002664?k=6&m=1082002664&s=612x612&w=0&h=H7ufxfnIgogoasX27J-C90pd5YBj4igw_gWF4Nu3Bh0=']
+U+8DDE
+12
+lì
+157.5
+跞.mp3
+
+跟
+['heel', ' to follow, accompany', ' with']
+['muy', 'seguir, acompañar', 'con']
+['https://media.gettyimages.com/photos/high-angle-view-of-blue-stilettos-over-pink-background-picture-id1025627712?k=6&m=1025627712&s=612x612&w=0&h=5N86x5eYjpZePlz6fNcA2zZ2AM8JZ40OfDnhT2efpk8=', 'https://media.gettyimages.com/photos/hobbies-hands-in-action-at-the-piano-left-view-picture-id1001273568?k=6&m=1001273568&s=612x612&w=0&h=CjvUsAyqZuGpgVlef8iPvJe4AmX4PB-rqWwTJuNqQ-o=', 'https://media.gettyimages.com/photos/directly-above-shot-of-smart-phone-with-blank-screen-against-white-picture-id1173299471?k=6&m=1173299471&s=612x612&w=0&h=RfVxIUbSE724FCK3C1GvmN5q2t6SZ9NpMFY-7i1ym8M=']
+U+8DDF
+13
+gēn
+157.6
+跟.mp3
+
+跠
+['NONE']
+['NINGUNA']
+[]
+U+8DE0
+13
+yí
+157.6
+跠.mp3
+
+跡
+['search, track, trace']
+['buscar, rastrear, rastrear']
+['https://media.gettyimages.com/vectors/retro-dog-detective-holding-a-magnifying-glass-vector-id1159708277?k=6&m=1159708277&s=612x612&w=0&h=Ifdv3oQjC1yyuHAIm5SU8Zj9rFeBbieSFIfMcq4oCIA=']
+U+8DE1
+13
+jī
+157.6
+跡.mp3
+
+跢
+['NONE']
+['NINGUNA']
+[]
+U+8DE2
+13
+duò
+157.6
+跢.mp3
+
+跣
+['bare footed']
+['descalzo']
+['https://media.gettyimages.com/photos/barefooted-woman-walking-on-tiptoes-detail-feet-picture-id130853804?k=6&m=130853804&s=612x612&w=0&h=OYMnzY8znycSOeM3aXjYVi8khG7VZBv-p_ovwc8le5Q=']
+U+8DE3
+13
+xiǎn
+157.6
+跣.mp3
+
+跤
+['stumble, fall down', ' wrestle']
+['tropezar, caer', 'luchar']
+['https://media.gettyimages.com/photos/businessman-outdoors-spilling-cup-of-coffee-on-pavement-side-view-picture-id200220134-001?k=6&m=200220134-001&s=612x612&w=0&h=mAdxYjV8LH7jf483nmr_oaR5K7eLs08W7QnOBIVtW98=', 'https://media.gettyimages.com/vectors/wrestling-vector-id156357150?k=6&m=156357150&s=612x612&w=0&h=bNK9lPj95QrdsLJx7jcHa12llnrzKTpbiOoBh31RBms=']
+U+8DE4
+13
+jiāo
+157.6
+跤.mp3
+
+跥
+['stamp feet']
+['pies de sello']
+['https://media.gettyimages.com/photos/newborn-infant-baby-footprint-ink-stamp-impressions-isolated-picture-id91699434?k=6&m=91699434&s=612x612&w=0&h=hbSFj_3zW06aVLk_m9QT_68taObqk3LL6Swb2qvZxgM=']
+U+8DE5
+13
+duò
+157.6
+跥.mp3
+
+跦
+['hop']
+['salto']
+['https://media.gettyimages.com/photos/jump-with-inflatable-ring-picture-id1003246154?k=6&m=1003246154&s=612x612&w=0&h=rJ6cn0OhWjncIVQFkh6dN7V3QwgXOZXgIm_ZYCzbmG0=']
+U+8DE6
+13
+zhū
+157.6
+跦.mp3
+
+跧
+['crouch']
+['agacharse']
+['https://media.gettyimages.com/photos/woman-in-sports-clothing-doing-squats-picture-id713857713?k=6&m=713857713&s=612x612&w=0&h=1B4It58YbSFW5UExXlpqVn43tQq9LAtlyUoDHOb23z0=']
+U+8DE7
+13
+quán
+157.6
+跧.mp3
+
+跨
+['straddle, bestride, ride', ' carry']
+['montar a horcajadas, cabalgar, montar', 'llevar']
+['https://media.gettyimages.com/photos/get-moving-picture-id465352201?k=6&m=465352201&s=612x612&w=0&h=-UJe-XE_rU1KujJIjQS_OYjlvb2tUhJhSklH6slyQrI=', 'https://media.gettyimages.com/photos/nothings-too-tough-for-this-guy-picture-id926510596?k=6&m=926510596&s=612x612&w=0&h=hmXdGNphoeC6zW1ZzyGSyXUi6NLz_yvpXMEdSGPVGuY=']
+U+8DE8
+13
+kuà
+157.6
+跨.mp3
+
+跩
+['to waddle, to limp']
+['caminar, cojear']
+['https://media.gettyimages.com/photos/city-night-mystery-picture-id158402266?k=6&m=158402266&s=612x612&w=0&h=zTUMkqchB3NXiQ40Mkt3DSIVGUrLfapqECECr3LhUsk=']
+U+8DE9
+13
+zhuǎi
+157.6
+跩.mp3
+
+跪
+['kneel']
+['arrodillarse']
+['https://media.gettyimages.com/photos/man-prays-to-god-picture-id143917072?k=6&m=143917072&s=612x612&w=0&h=BQ4vSNSrTyezVkq5tmi9A7BEcZaD8ZNEQnOY1TKedsY=']
+U+8DEA
+13
+guì
+157.6
+跪.mp3
+
+跫
+['sound of footsteps']
+['sonido de pasos']
+['https://media.gettyimages.com/photos/brother-and-sister-wearing-pajamas-in-childrens-room-picture-id642113375?k=6&m=642113375&s=612x612&w=0&h=0jMv1G52BnS81F03d59G5crCnb6T29MkQgXyDftE-P4=']
+U+8DEB
+13
+qióng
+157.6
+跫.mp3
+
+跬
+['to step', ' a stride equal to half a pace']
+['al paso', 'una zancada igual a medio paso']
+['https://media.gettyimages.com/photos/render-stairs-background-picture-id1124417270?k=6&m=1124417270&s=612x612&w=0&h=dx3TO8qV7EzdvIEA9QfxCwArKnXbGfKRr0L-7-86f6k=', 'NONE']
+U+8DEC
+13
+kuǐ
+157.6
+跬.mp3
+
+跭
+['NONE']
+['NINGUNA']
+[]
+U+8DED
+13
+xiáng
+157.6
+跭.mp3
+
+跮
+['hasty walking']
+['caminar apresurado']
+['https://media.gettyimages.com/photos/young-businesswoman-using-mobile-phone-papers-falling-on-floor-picture-id73264138?k=6&m=73264138&s=612x612&w=0&h=d3dkI7MnTTtn4ncYuBD8X26_u_ZZVV1QwDEIoPPM7h0=']
+U+8DEE
+13
+chì
+157.6
+跮.mp3
+
+路
+['road, path, street', ' journey']
+['camino, camino, calle', 'viaje']
+['https://media.gettyimages.com/vectors/curved-winding-road-with-oak-tree-road-to-success-background-vector-id1139644575?k=6&m=1139644575&s=612x612&w=0&h=rLE5TWtMbmR1I5BnrF53NVDIvxxUx9x3Pa2Q0TTRzjM=', 'https://media.gettyimages.com/photos/weve-made-it-all-this-way-i-am-proud-picture-id904172104?k=6&m=904172104&s=612x612&w=0&h=nqsWvOdPG7oyT1J9v4bd0OtL1yWhNj4u7JsSOUcMBd4=']
+U+8DEF
+13
+lù
+157.6
+路.mp3
+
+跰
+['NONE']
+['NINGUNA']
+[]
+U+8DF0
+13
+pián
+157.6
+跰.mp3
+
+跱
+['stop']
+['detener']
+['https://media.gettyimages.com/vectors/stop-sign-icon-with-shadow-vector-vector-id875885046?k=6&m=875885046&s=612x612&w=0&h=YKcz_yfcraXc7ofrPCgfmVhXWOyWX2fLjSCwPEK_IcY=']
+U+8DF1
+13
+zhì
+157.6
+跱.mp3
+
+跲
+['hood, cowl, turban', ' stumble']
+['capucha, capucha, turbante', 'tropezón']
+['https://media.gettyimages.com/illustrations/turkish-noblemen-in-traditional-clothing-illustration-id454147939?k=6&m=454147939&s=612x612&w=0&h=7hkSOZrCfcI0QpvPOnDZU8nDTAYqJ9FNvsThzhDm62g=', 'https://media.gettyimages.com/photos/businessman-outdoors-spilling-cup-of-coffee-on-pavement-side-view-picture-id200220134-001?k=6&m=200220134-001&s=612x612&w=0&h=mAdxYjV8LH7jf483nmr_oaR5K7eLs08W7QnOBIVtW98=']
+U+8DF2
+13
+jiá
+157.6
+跲.mp3
+
+跳
+['jump, leap, vault, bounce', ' dance']
+['salto, salto, salto, rebote', 'danza']
+['https://media.gettyimages.com/photos/glucose-lancet-needle-jump-in-mid-air-captured-with-hihg-speed-sync-picture-id1147867049?k=6&m=1147867049&s=612x612&w=0&h=COf90m6cpmojtULE34WjzI4FsHNTokdadmTB64MZiys=', 'https://media.gettyimages.com/photos/having-fun-is-the-best-way-to-bond-picture-id1137393747?k=6&m=1137393747&s=612x612&w=0&h=WLyIK6ib9ypAiKO1omazzMvnxrHRQe7SaaNFvN0VoCk=']
+U+8DF3
+13
+tiào
+157.6
+跳.mp3
+
+跴
+['step on, tread on', ' search for']
+['pisar, pisar', 'buscar']
+['https://media.gettyimages.com/photos/sporty-man-running-up-steps-in-urban-setting-picture-id631184594?k=6&m=631184594&s=612x612&w=0&h=SudaLM9Hb31SGl1PpEvlQwQ4H0KfYdqYm4kr-yEz1TE=', 'https://media.gettyimages.com/vectors/search-bar-and-magnifying-glass-icon-design-vector-id1132570941?k=6&m=1132570941&s=612x612&w=0&h=_62lZR1KT8PTCQzW-R-jh6sfXk8wVP0rqQ9_yxXhajg=']
+U+8DF4
+13
+cǎi
+157.6
+跴.mp3
+
+践
+['trample, tread upon, walk on']
+['pisotear, pisar, caminar']
+['NONE']
+U+8DF5
+12
+jiàn
+157.5
+践.mp3
+
+跶
+['stumble, slip']
+['tropezar, resbalar']
+['https://media.gettyimages.com/photos/woman-about-to-slip-on-toy-left-on-staircase-picture-id90201424?k=6&m=90201424&s=612x612&w=0&h=Lj7WxSXihQ_AI-e9eHPITlAbxS2K_m5QmGopfvv7KOc=']
+U+8DF6
+13
+dá
+157.6
+跶.mp3
+
+跷
+["raise one's foot"]
+['levantar el pie']
+['https://media.gettyimages.com/photos/one-day-shell-be-able-to-reach-the-counter-picture-id874880740?k=6&m=874880740&s=612x612&w=0&h=yOj9VhP2fMoS-2L-gTdAVTafLfYCrLOY5kQerL_lRbU=']
+U+8DF7
+13
+qiāo
+157.6
+跷.mp3
+
+跸
+['clear way, make room for', ' clear street when emperor tours']
+['camino claro, deja espacio para', 'calle despejada cuando el emperador recorre']
+['NONE', 'NONE']
+U+8DF8
+13
+bì
+157.6
+跸.mp3
+
+跹
+['wander about, walk around', ' revolve']
+['deambular, caminar', 'girar']
+['https://media.gettyimages.com/photos/close-up-shot-of-runners-shoes-picture-id1148822167?k=6&m=1148822167&s=612x612&w=0&h=8QIF8XmPZrVoIo8TiU31smtwVt2y2r5U3cuEegI6iLY=', 'https://media.gettyimages.com/photos/revolving-door-in-office-building-lobby-picture-id109350373?k=6&m=109350373&s=612x612&w=0&h=vRJKKQQ-G7LQpj8XbuEpnAAjrzlIXUHoNh0omW-daYM=']
+U+8DF9
+13
+xiān
+157.6
+跹.mp3
+
+跺
+['stamp feet, step']
+['pies de sello, paso']
+['https://media.gettyimages.com/photos/close-up-footprint-in-sand-on-the-beach-picture-id1217855168?k=6&m=1217855168&s=612x612&w=0&h=Q4oipJqFdDuulhtbA6iaoUyPZRIp-PIoTj3dDNoT0Bo=']
+U+8DFA
+13
+duò
+157.6
+跺.mp3
+
+跻
+['ascend, go up, rise']
+['asciende, sube, sube']
+['https://media.gettyimages.com/vectors/arrows-up-icon-vector-id1051814280?k=6&m=1051814280&s=612x612&w=0&h=zDUKFnv0psItWDkAgsdwPZ1XKBWAG7SETvW8jzxNmR8=']
+U+8DFB
+13
+jī
+157.6
+跻.mp3
+
+跼
+['bent, stooped, crouched', ' contract']
+['doblado, encorvado, agachado', 'contrato']
+['NONE', 'https://media.gettyimages.com/photos/you-should-sign-here-picture-id1125625723?k=6&m=1125625723&s=612x612&w=0&h=IVgRFhzCNiuYfAJTYT6x8_9Esh0VDvwf59fIedW2lag=']
+U+8DFC
+14
+jú
+157.7
+跼.mp3
+
+跽
+['to kneel for a long time, to go down on hands and knees']
+['arrodillarse durante mucho tiempo, agacharse sobre manos y rodillas']
+['NONE']
+U+8DFD
+14
+jì
+157.7
+跽.mp3
+
+跾
+['NONE']
+['NINGUNA']
+[]
+U+8DFE
+14
+shū
+157.7
+跾.mp3
+
+跿
+['NONE']
+['NINGUNA']
+[]
+U+8DFF
+14
+tú
+157.7
+跿.mp3
+
+踀
+['NONE']
+['NINGUNA']
+[]
+U+8E00
+14
+chù
+157.7
+踀.mp3
+
+踁
+['tinkling, obstinate']
+['tintineo, obstinado']
+['NONE']
+U+8E01
+14
+jìng
+157.7
+踁.mp3
+
+踂
+['NONE']
+['NINGUNA']
+[]
+U+8E02
+14
+niè
+157.7
+踂.mp3
+
+踃
+['NONE']
+['NINGUNA']
+[]
+U+8E03
+14
+xiāo
+157.7
+踃.mp3
+
+踄
+['NONE']
+['NINGUNA']
+[]
+U+8E04
+14
+bù
+157.7
+踄.mp3
+
+踅
+['to walk around', ' turn back midway']
+['caminar', 'volver a mitad de camino']
+['https://media.gettyimages.com/photos/close-up-shot-of-runners-shoes-picture-id1148822167?k=6&m=1148822167&s=612x612&w=0&h=8QIF8XmPZrVoIo8TiU31smtwVt2y2r5U3cuEegI6iLY=', 'NONE']
+U+8E05
+14
+xué
+157.7
+踅.mp3
+
+踆
+['squat']
+['ponerse en cuclillas']
+['https://media.gettyimages.com/photos/woman-in-sports-clothing-doing-squats-picture-id713857713?k=6&m=713857713&s=612x612&w=0&h=1B4It58YbSFW5UExXlpqVn43tQq9LAtlyUoDHOb23z0=']
+U+8E06
+14
+cūn
+157.7
+踆.mp3
+
+踇
+['NONE']
+['NINGUNA']
+[]
+U+8E07
+14
+mǔ
+157.7
+踇.mp3
+
+踈
+['neglect', ' careless, lax']
+['negligencia', 'descuidado, laxo']
+['https://media.gettyimages.com/photos/depressed-little-boy-sitting-on-the-floor-picture-id471031808?k=6&m=471031808&s=612x612&w=0&h=4n0vC7iuUr84n3Gvbjj5F2_joSSr7eybJCX4fERbYjw=', 'https://media.gettyimages.com/photos/couple-riding-bicycle-smiling-picture-id79566127?k=6&m=79566127&s=612x612&w=0&h=AYVAxg3r7eT4R5r9R_dETarhW2WJ3TxUxKtt7j50lHc=']
+U+8E08
+14
+shū
+157.7
+踈.mp3
+
+踉
+['hop, jump', ' hurriedly, urgently']
+['saltar, saltar', 'apresuradamente, urgentemente']
+['https://media.gettyimages.com/photos/jump-with-inflatable-ring-picture-id1003246154?k=6&m=1003246154&s=612x612&w=0&h=rJ6cn0OhWjncIVQFkh6dN7V3QwgXOZXgIm_ZYCzbmG0=', 'https://media.gettyimages.com/photos/businessman-running-picture-id130861015?k=6&m=130861015&s=612x612&w=0&h=npcwQO_ffyVIRPH7dzBVAkzjk-TRK7Hr5C8s-8vSB2s=']
+U+8E09
+14
+liáng
+157.7
+踉.mp3
+
+踊
+['leap, jump']
+['saltar, saltar']
+['https://media.gettyimages.com/photos/jump-with-inflatable-ring-picture-id1003246154?k=6&m=1003246154&s=612x612&w=0&h=rJ6cn0OhWjncIVQFkh6dN7V3QwgXOZXgIm_ZYCzbmG0=']
+U+8E0A
+14
+yǒng
+157.7
+踊.mp3
+
+踋
+['the foot or feet cast of a play']
+['el pie o pies de una obra de teatro']
+['https://media.gettyimages.com/photos/video-games-picture-id645438520?k=6&m=645438520&s=612x612&w=0&h=irylh_FerKN9DA-wW0lXyZOoIpXu17cxLwxJY_RotFM=']
+U+8E0B
+14
+jiǎo
+157.7
+踋.mp3
+
+踌
+['hesitate, falter', ' smug, self-satisfied']
+['vacilar, vacilar', 'presumido, satisfecho de sí mismo']
+['NONE', 'https://media.gettyimages.com/photos/young-man-gestures-okay-hand-sign-picture-id184638177?k=6&m=184638177&s=612x612&w=0&h=u_4h7lY5uSrge7YApOzbIYykSuYE0nm_EZ6lrAB3IHM=']
+U+8E0C
+14
+chóu
+157.7
+踌.mp3
+
+踍
+['NONE']
+['NINGUNA']
+[]
+U+8E0D
+14
+qiāo
+157.7
+踍.mp3
+
+踎
+['(Cant.) to squat']
+['(Cant.) Ponerse en cuclillas']
+['https://media.gettyimages.com/photos/the-village-people-promote-their-appearance-in-allan-carrs-musical-picture-id82855355?k=6&m=82855355&s=612x612&w=0&h=93bfhZJg4OAHGtWPrqpbuAy1GSYQ3WXsLIZzgVal-Po=']
+U+8E0E
+14
+móu
+157.7
+踎.mp3
+
+踏
+['step on, trample, tread on, walk']
+['pisar, pisotear, pisar, caminar']
+['https://media.gettyimages.com/vectors/pairs-of-shoe-tracks-vector-id180122834?k=6&m=180122834&s=612x612&w=0&h=fykqPNmC27eScjj5VvdZRqxucL2bOTTGdal_f_X_7D4=']
+U+8E0F
+15
+tà
+157.8
+踏.mp3
+
+踐
+['trample, tread upon, walk on']
+['pisotear, pisar, caminar']
+['NONE']
+U+8E10
+15
+jiàn
+157.8
+踐.mp3
+
+踑
+['NONE']
+['NINGUNA']
+[]
+U+8E11
+15
+qí
+157.8
+踑.mp3
+
+踒
+['to slip and sprain a limb']
+['resbalar y torcer una extremidad']
+['https://media.gettyimages.com/photos/slip-ups-can-happen-stay-safe-picture-id1280333015?k=6&m=1280333015&s=612x612&w=0&h=I5Ui7Lf3N9u80Pdrr4n2TeaRPStjYqzg0XWt96ODxps=']
+U+8E12
+15
+wō
+157.8
+踒.mp3
+
+踓
+['NONE']
+['NINGUNA']
+[]
+U+8E13
+15
+wěi
+157.8
+踓.mp3
+
+踔
+['to get ahead', ' to stride', ' to excel']
+['para salir adelante', 'la ostra', 'para sobresalir']
+['https://media.gettyimages.com/photos/watercolor-paint-on-paper-mixed-to-create-a-watercolor-effect-picture-id1188016482?k=6&m=1188016482&s=612x612&w=0&h=-2kwvfiDnEbHaP8PMuo2LvoOn8DuMXvh5KkrZ--SjVY=', 'https://media.gettyimages.com/photos/side-view-of-young-woman-wearing-sports-clothing-in-mid-air-striding-picture-id1131209585?k=6&m=1131209585&s=612x612&w=0&h=JGOaAWkwSpg8WD69cN0cY7v2dEEP7R63Qfxj2wEkYLc=', 'https://media.gettyimages.com/photos/work-continues-at-the-excel-centre-which-is-being-made-into-the-nhs-picture-id1208729788?k=6&m=1208729788&s=612x612&w=0&h=6t_BYubd3-7isnNTUYnW3ifmwyGvpe7851FBNl8dipw=']
+U+8E14
+15
+chuō
+157.8
+踔.mp3
+
+踕
+['NONE']
+['NINGUNA']
+[]
+U+8E15
+15
+jié
+157.8
+踕.mp3
+
+踖
+['trample on, tread on']
+['pisotear, pisar']
+['https://media.gettyimages.com/illustrations/foot-raised-off-floor-low-angle-view-illustration-idAA054049?k=6&m=AA054049&s=612x612&w=0&h=vMki03rpwRKGpHDjEs059B0Ntkq_a2iIwd0CJIjpLwE=']
+U+8E16
+15
+jí
+157.8
+踖.mp3
+
+踗
+['NONE']
+['NINGUNA']
+[]
+U+8E17
+15
+niè
+157.8
+踗.mp3
+
+踘
+['ball']
+['pelota']
+['https://media.gettyimages.com/photos/football-used-isolated-oldstyle-soccer-ball-on-white-background-picture-id93889291?k=6&m=93889291&s=612x612&w=0&h=uzTlwHAi8QSI8-rsShWFK6rTA8KwoDch1jRXf7V_w4U=']
+U+8E18
+15
+jū
+157.8
+踘.mp3
+
