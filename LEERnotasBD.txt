@@ -1,0 +1,28 @@
+Cada caracter tiene la siguiente información:
+
+1. Caracter
+2. Definiciones en Inglés separadas por comas así: ['def_1', 'def_2', ..., 'def_n']
+     nota: def_i puede ser una frase o sinónimos separados por comas
+3. Definiciones en español separadas por comas así: ['def_1', 'def_2', ..., 'def_n']
+     nota: def_i puede ser una frase o sinónimos separados por comas
+     nota: el archivo 115 no tiene traducciones, pues por alguna razón no se generaron. Este campo para este archivo es así ['NONE', 'NONE', ... 'NONE']
+4. Links a imágenes que representan las definiciones en inglés, extraidas de gettyimages. Cada definición tiene un link asociado según su indice en ambos arreglos: ['link_def_1', 'link_def_2', ..., 'link_def_n']
+5. Unicode Code Point, que es el código en hexadecimal por el cual se ordenan los caracteres
+6. Romanización o pinyin
+7. Radical: El primer dígito indica el radical, y el segundo digito después del punto es el número de trazos adicionales (además de los que tiene el radical especificado) que tiene el caracter. Por ejemplo si se ve el número 198.3, es que el caracter tiene 3 trazos + el número de trazos que tenga el radical 198
+8. Nombre del archivo .mp3 generado y que se encuentra en la carpeta pronunciations. Para unos pocos caracteres no se generó y sale la inscripción Unable to Generate en lugar de char.mp3
+
+notas: Algunos caracteres no tienen definiciones entonces el segundo y tercer campo es ['NONE'], ['NINGUNA'] respectivamente. Algunos caracteres no tienen imágenes entonces el cuarto campo es [NONE]. Para unos pocos caracteres el radical sale con una comilla antes del punto, pero son muy pocos de las últimas dos páginas: 163, 164. Para las páginas 163 y 164 se generan caracteres duplicados, porque así aparecen en la página de la cual se hizo la extracción.
+
+
+Ejemplo de un registro:
+
+丂
+['obstruction of breath (qi) as it seeks release', ' variant of other characters']
+['obstrucción de la respiración (qi) mientras busca la liberación', 'variante de otros personajes']
+['NONE', 'https://media.gettyimages.com/photos/the-love-of-best-friends-picture-id972902038?k=6&m=972902038&s=612x612&w=0&h=Q5EbQ5RhL2ZXM3lnQobRgjEK0g8YM9T4hmbof0sBbf8=']
+U+4E02
+2
+kǎo
+1.1
+丂.mp3
